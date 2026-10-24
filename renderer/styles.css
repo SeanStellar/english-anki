@@ -3065,3 +3065,9 @@ body.study-mode.performance-lite .story-illustration{
   body.study-mode .study-header{margin-bottom:4px}
   body.study-mode .reveal-hint{display:none}
 }
+
+.import-progress{display:flex;align-items:center;gap:10px;margin:13px 0 0;color:var(--muted);font-size:10px}
+.import-progress[hidden]{display:none}
+.import-progress i{position:relative;flex:1;height:5px;overflow:hidden;border-radius:5px;background:var(--soft)}
+.import-progress i:after{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(90deg,transparent,var(--green),transparent);animation:importSweep 1.1s ease-in-out infinite}
+@keyframes importSweep{from{transform:translateX(-100%)}to{transform:translateX(100%)}}

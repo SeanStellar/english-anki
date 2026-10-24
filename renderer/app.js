@@ -3089,9 +3089,16 @@ function decodeImportText(buffer) {
 }
 
 async function importFile(file) {
+  const progress = $('#importProgress');
+  const progressLabel = progress?.querySelector('span');
+  if (progress) {
+    progress.hidden = false;
+    if (progressLabel) progressLabel.textContent = '正在读取文件…';
+  }
   try {
     const buffer = await file.arrayBuffer();
     await new Promise(resolve => setTimeout(resolve, 0));
+    if (progressLabel) progressLabel.textContent = '正在解析并写入词库…';
     const imported = parseDelimited(decodeImportText(buffer), file.name.toLowerCase());
     if (!imported.length) return toast('没有识别到有效单词');
     const requestedDeck = $('#importTargetDeck')?.value || 'new';
@@ -3123,6 +3130,8 @@ async function importFile(file) {
     persist(); closeModals(); route('library'); toast(`已导入 ${unique.length} 张单词卡${skipped ? `，跳过 ${skipped} 个重复词` : ''}`);
   } catch {
     toast('导入失败：无法读取文件');
+  } finally {
+    if (progress) progress.hidden = true;
   }
 }
 
