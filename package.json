@@ -1,0 +1,85 @@
+{
+  "name": "english-anki",
+  "version": "4.0.1",
+  "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
+  "main": "main.js",
+  "author": "English Anki",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "node scripts/build-preload.js",
+    "start": "electron .",
+    "start:dev": "electron . --dev",
+    "test": "node --test tests/*.test.js",
+    "test:e2e": "node scripts/build-preload.js && node tests/e2e.js",
+    "compact-data": "node scripts/compact-data.js",
+    "optimize-images": "node scripts/optimize-images.js",
+    "build:preload": "node scripts/build-preload.js",
+    "pack": "node scripts/build-preload.js && electron-builder --win --x64 --dir",
+    "dist": "node scripts/build-preload.js && electron-builder --win nsis portable --x64"
+  },
+  "devDependencies": {
+    "electron": "37.10.3",
+    "electron-builder": "26.18.0",
+    "esbuild": "^0.25.11",
+    "playwright-core": "^1.64.1",
+    "sharp": "^0.35.5",
+    "ts-fsrs": "^5.4.1"
+  },
+  "build": {
+    "appId": "com.englishanki.app",
+    "productName": "英语 Anki",
+    "compression": "maximum",
+    "electronLanguages": [
+      "zh-CN",
+      "en-US"
+    ],
+    "asar": true,
+    "asarUnpack": [
+      "renderer/assets/memory-scenes/**"
+    ],
+    "files": [
+      "main.js",
+      "preload.bundle.js",
+      "backup-utils.js",
+      "integration-utils.js",
+      "package.json",
+      "renderer/**/*",
+      "build/icon.ico",
+      "!**/*.bak*",
+      "!**/*.map",
+      "!**/README*",
+      "!tests/**"
+    ],
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "perMachine": false,
+      "guid": "4fe11a6f-4f33-53ed-9b20-bb20ac642d03",
+      "artifactName": "英语-Anki-${version}-Setup.${ext}"
+    },
+    "portable": {
+      "artifactName": "英语-Anki-${version}-Portable.${ext}"
+    }
+  }
+}
