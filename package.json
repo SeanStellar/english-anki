@@ -17,7 +17,8 @@
     "pack": "node scripts/build-preload.js && electron-builder --win --x64 --dir",
     "dist": "node scripts/build-preload.js && electron-builder --win nsis portable --x64",
     "audit:content": "node scripts/audit-content.js",
-    "audit:images": "node scripts/audit-images.js"
+    "audit:images": "node scripts/audit-images.js",
+    "apply:rewrites": "node scripts/apply-sentence-rewrites.js content/rewrites-2026-10-25.json"
   },
   "devDependencies": {
     "electron": "37.10.3",
