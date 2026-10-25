@@ -46,6 +46,7 @@ const api = {
   dataCorruption: () => ipcRenderer.invoke('data:corruption'),
   saveData: data => ipcRenderer.invoke('data:save', data),
   exportData: data => ipcRenderer.invoke('data:export', data),
+  exportApkg: payload => ipcRenderer.invoke('data:export-apkg', payload),
   backupData: () => ipcRenderer.invoke('data:backup'),
   backupLocation: () => ipcRenderer.invoke('data:backup-location'),
   chooseBackupDirectory: () => ipcRenderer.invoke('data:choose-backup-dir'),

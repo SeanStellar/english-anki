@@ -7,7 +7,7 @@
     <meta name="color-scheme" content="light dark" />
     <title>英语 Anki · 绘本记忆卡</title>
     <link rel="icon" href="assets/app-icon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="styles.css?v=4.0.2" />
+    <link rel="stylesheet" href="styles.css?v=4.0.3" />
   </head>
   <body>
     <div class="titlebar">
@@ -96,7 +96,7 @@
           <div class="page-heading"><div><span class="eyebrow">VOCABULARY LIBRARY</span><h1>词库</h1><p>从建库、加词到批量导入与导出，所有入口都在这里。</p></div><div class="page-heading-actions library-heading-actions"><button class="secondary-button" id="issueCenterBtn">内容纠错 <b id="issueCenterCount">0</b></button><button class="secondary-button" id="newDeckBtn">＋ 新建词库</button><button class="primary-button" id="importBtn">批量导入</button></div></div>
           <section class="library-guide" id="libraryGuide"><div><span class="eyebrow">CUSTOM DECK QUICK START</span><h2>四步建立自己的词库</h2><p>新建词库 → 添加单词或批量导入 → 开始学习 → 随时导出备份。</p></div><ol><li><b>1</b><span>新建词库</span></li><li><b>2</b><span>添加单词</span></li><li><b>3</b><span>批量导入</span></li><li><b>4</b><span>学习与导出</span></li></ol><div><button class="primary-button small" id="guideNewDeckBtn">立即新建</button><button class="text-button" id="dismissLibraryGuideBtn">我知道了</button></div></section>
           <div class="library-toolbar"><label class="search-box"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input id="wordSearch" type="search" placeholder="搜索单词、释义或音标…" /></label><div class="filter-tabs" id="libraryFilters"><button class="active" data-filter="all">全部</button><button data-filter="new">未学习</button><button data-filter="learning">学习中</button><button data-filter="mastered">已掌握</button></div></div>
-          <div class="library-layout"><div class="deck-list-panel"><div class="section-row compact"><div><span class="eyebrow">COLLECTIONS</span><h2>词单</h2></div></div><div id="deckList"></div></div><div class="words-panel"><div class="words-head"><div><h2 id="libraryTitle">全部单词</h2><span id="libraryCount">0 个词</span></div><div class="words-head-actions"><button class="secondary-button small" id="addWordBtn">＋ 添加单词</button><button class="secondary-button small" id="exportDeckBtn">导出 CSV</button><button class="primary-button small" id="studySelectedDeck">学习这组</button></div></div><div class="word-table-wrap"><table class="word-table"><thead><tr><th>单词</th><th>词义</th><th>状态</th><th>下次复习</th><th></th></tr></thead><tbody id="wordTableBody"></tbody></table><div class="table-empty" id="tableEmpty">没有找到符合条件的单词。</div><div class="library-pager" id="libraryPager"></div></div></div></div>
+          <div class="library-layout"><div class="deck-list-panel"><div class="section-row compact"><div><span class="eyebrow">COLLECTIONS</span><h2>词单</h2></div></div><div id="deckList"></div></div><div class="words-panel"><div class="words-head"><div><h2 id="libraryTitle">全部单词</h2><span id="libraryCount">0 个词</span></div><div class="words-head-actions"><button class="secondary-button small" id="addWordBtn">＋ 添加单词</button><button class="secondary-button small" id="exportDeckBtn">导出 CSV</button><button class="secondary-button small" id="exportApkgBtn" title="导出为 Anki 可导入的 .apkg 文件">导出 Anki</button><button class="primary-button small" id="studySelectedDeck">学习这组</button></div></div><div class="word-table-wrap"><table class="word-table"><thead><tr><th>单词</th><th>词义</th><th>状态</th><th>下次复习</th><th></th></tr></thead><tbody id="wordTableBody"></tbody></table><div class="table-empty" id="tableEmpty">没有找到符合条件的单词。</div><div class="library-pager" id="libraryPager"></div></div></div></div>
         </section>
 
         <section class="view" id="statsView" data-view="stats">
@@ -150,6 +150,6 @@
     <div class="modal-backdrop" id="resumeModal" role="dialog" aria-modal="true" aria-labelledby="resumeModalTitle"><div class="modal"><div class="modal-head"><div><span class="eyebrow">CONTINUE</span><h2 id="resumeModalTitle">继续上次学习？</h2></div><button class="icon-button modal-close" id="resumeCloseBtn" aria-label="关闭续学窗口">×</button></div><p id="resumeInfo">检测到上次未完成的学习进度。</p><div class="resume-actions"><button class="secondary-button" id="resumeRestartBtn">重新开始</button><button class="primary-button" id="resumeContinueBtn">继续学习</button></div></div></div>
     <input type="file" id="importDataInput" accept=".json,application/json" style="display:none" />
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
-    <script src="app.js?v=4.0.2"></script>
+    <script src="app.js?v=4.0.3"></script>
   </body>
 </html>

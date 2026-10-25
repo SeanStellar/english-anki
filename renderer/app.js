@@ -13,6 +13,7 @@ if (!window.englishAnki) {
     loadData: () => Promise.resolve(JSON.parse(localStorage.getItem('english-anki-preview') || localStorage.getItem('mori-preview') || 'null')),
     saveData: data => { localStorage.setItem('english-anki-preview', JSON.stringify(data)); return Promise.resolve(true); },
     exportData: () => Promise.resolve(false),
+    exportApkg: () => Promise.resolve({ ok: false, canceled: true }),
     backupData: () => Promise.resolve(false),
     backupLocation: () => Promise.resolve({ directory: '浏览器预览模式', custom: false }),
     chooseBackupDirectory: () => Promise.resolve(null),
@@ -26,9 +27,9 @@ if (!window.englishAnki) {
     pullSyncData: () => Promise.resolve({ ok: false }),
     autoSyncData: () => Promise.resolve({ ok: true, action: 'disabled' }),
     setSyncAuto: () => Promise.resolve({ configured: false, state: 'disabled', auto: true }),
-    updateStatus: () => Promise.resolve({ currentVersion: '4.0.2', source: '', auto: true }),
-    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.0.2', source: preferences.source || '', auto: preferences.auto !== false }),
-    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.0.2', reason: 'no-source' }),
+    updateStatus: () => Promise.resolve({ currentVersion: '4.0.3', source: '', auto: true }),
+    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.0.3', source: preferences.source || '', auto: preferences.auto !== false }),
+    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.0.3', reason: 'no-source' }),
     openUpdateDownload: () => Promise.resolve(false),
     loadStudySession: () => Promise.resolve(null),
     saveStudySession: () => Promise.resolve(true),
@@ -2369,6 +2370,7 @@ function renderLibrary() {
   const isCustomDeck = state.customDecks.some(item => item.id === selectedDeck);
   $('#addWordBtn').disabled = !isCustomDeck;
   $('#exportDeckBtn').disabled = !isCustomDeck || !wordsForDeck(selectedDeck).length;
+  $('#exportApkgBtn').disabled = !wordsForDeck(selectedDeck).length;
   const openIssues = state.cardIssues.filter(issue => issue.status !== 'resolved').length;
   $('#issueCenterCount').textContent = String(openIssues);
   $('#issueCenterBtn').classList.toggle('has-issues', openIssues > 0);
@@ -2449,6 +2451,46 @@ function exportSelectedDeck() {
   link.click();
   URL.revokeObjectURL(link.href);
   toast(`已导出「${deck.name}」的 ${rows.length} 个单词`);
+}
+
+function apkgCardForWord(word) {
+  const story = memoryStories.get(word.id);
+  return {
+    id: word.id,
+    word: word.word,
+    phonetic: word.phonetic || '',
+    pos: word.pos || '',
+    meaning: word.meaning || '',
+    anchor: story?.anchor || '',
+    anchorMeaning: story?.anchorMeaning || '',
+    story: story?.sentence || '',
+    example: word.example || '',
+    translation: word.zh || '',
+    memory: word.memory || story?.review?.reason || '',
+    imageId: word.deckId === 'hebei-3000' ? word.id : ''
+  };
+}
+
+async function exportSelectedDeckApkg() {
+  const deck = deckFor(selectedDeck);
+  const deckWords = wordsForDeck(selectedDeck);
+  if (!deckWords.length) return toast('这个词库还没有单词');
+  const button = $('#exportApkgBtn');
+  const label = button.textContent;
+  button.disabled = true;
+  button.textContent = '生成中…';
+  try {
+    toast(`正在生成「${deck.short || deck.name}」的 Anki 词库包…`);
+    const result = await window.englishAnki.exportApkg({ deckName: deck.name, cards: deckWords.map(apkgCardForWord) });
+    if (result?.canceled) return;
+    if (!result?.ok) throw new Error('export-failed');
+    toast(`已导出 ${result.noteCount} 张卡片${result.missingMedia ? `，${result.missingMedia} 张缺图` : ''}`);
+  } catch {
+    toast('Anki 词库包导出失败，请检查磁盘空间后重试');
+  } finally {
+    button.disabled = false;
+    button.textContent = label;
+  }
 }
 
 function renderImportTargets() {
@@ -3512,6 +3554,7 @@ function bindEvents() {
   $('#dismissLibraryGuideBtn').addEventListener('click', () => { state.settings.libraryOnboardingSeen = true; persist(); renderLibraryGuide(); });
   $('#addWordBtn').addEventListener('click', () => openNewWordEditor(selectedDeck));
   $('#exportDeckBtn').addEventListener('click', exportSelectedDeck);
+  $('#exportApkgBtn').addEventListener('click', exportSelectedDeckApkg);
   $('#issueCenterBtn').addEventListener('click', openIssueCenter);
   $$('#issueFilters button').forEach(button => button.addEventListener('click', () => { currentIssueFilter = button.dataset.issueFilter; renderIssueCenter(); }));
   $('#createDeckBtn').addEventListener('click', () => {

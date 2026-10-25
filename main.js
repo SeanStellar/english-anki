@@ -722,6 +722,44 @@ ipcMain.handle('data:export', async (_event, payload) => {
   fs.writeFileSync(result.filePath, JSON.stringify(payload, null, 2), 'utf8');
   return true;
 });
+
+function safeExportFileName(value) {
+  return String(value || '')
+    .replace(/[\\/:*?"<>|\u0000-\u001f]/g, '-')
+    .replace(/[. ]+$/g, '')
+    .replace(/\s+/g, ' ')
+    .slice(0, 80) || '英语-Anki-词库';
+}
+
+ipcMain.handle('data:export-apkg', async (_event, payload) => {
+  const deckName = typeof payload?.deckName === 'string' ? payload.deckName.trim() : '';
+  const cards = Array.isArray(payload?.cards) ? payload.cards : [];
+  if (!deckName || !cards.length) throw new Error('INVALID_APKG_EXPORT');
+  const fileName = `${safeExportFileName(deckName)}-${new Date().toISOString().slice(0, 10)}.apkg`;
+  const result = await dialog.showSaveDialog(mainWindow, {
+    title: '导出 Anki 词库包',
+    defaultPath: path.join(app.getPath('downloads'), fileName),
+    filters: [{ name: 'Anki 词库包', extensions: ['apkg'] }]
+  });
+  if (result.canceled || !result.filePath) return { ok: false, canceled: true };
+  const target = /\.apkg$/i.test(result.filePath) ? result.filePath : `${result.filePath}.apkg`;
+  const temp = `${target}.${process.pid}.tmp`;
+  try {
+    const { buildApkg } = require('./apkg-export');
+    const exported = await buildApkg({
+      deckName,
+      cards,
+      mediaDirectory: path.join(__dirname, 'renderer', 'assets', 'memory-scenes')
+    });
+    const { buffer, ...summary } = exported;
+    fs.writeFileSync(temp, buffer);
+    if (fs.existsSync(target)) fs.copyFileSync(temp, target);
+    else fs.renameSync(temp, target);
+    return { ok: true, ...summary, filePath: target };
+  } finally {
+    try { fs.rmSync(temp, { force: true }); } catch {}
+  }
+});
 ipcMain.on('app:flush-done', () => {
   if (!closeFlushPending) return;
   finishWindowClose();

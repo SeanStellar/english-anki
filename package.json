@@ -1,6 +1,6 @@
 {
   "name": "english-anki",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
@@ -44,6 +44,7 @@
     "files": [
       "main.js",
       "preload.bundle.js",
+      "apkg-export.js",
       "backup-utils.js",
       "integration-utils.js",
       "package.json",
@@ -85,5 +86,8 @@
     "portable": {
       "artifactName": "英语-Anki-${version}-Portable.${ext}"
     }
+  },
+  "dependencies": {
+    "anki-apkg-export": "5.0.0"
   }
 }

@@ -65,6 +65,19 @@ function launch(args) {
     assert.equal(home.due, '20');
     assert.ok(home.decks >= 4);
 
+    await page.click('[data-route="library"]');
+    await page.waitForSelector('#exportApkgBtn');
+    const library = await page.evaluate(() => ({
+      hasApkgButton: !!document.querySelector('#exportApkgBtn'),
+      apkgEnabled: !document.querySelector('#exportApkgBtn')?.disabled,
+      csvDisabledForBuiltin: !!document.querySelector('#exportDeckBtn')?.disabled
+    }));
+    assert.equal(library.hasApkgButton, true);
+    assert.equal(library.apkgEnabled, true);
+    assert.equal(library.csvDisabledForBuiltin, true);
+    await page.click('[data-route="home"]');
+    await page.waitForTimeout(200);
+
     await page.click('#startStudyBtn');
     await page.waitForSelector('#studyView.active');
     await page.waitForTimeout(300);
