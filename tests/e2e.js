@@ -81,6 +81,23 @@ function launch(args) {
     assert.equal(study.imageLoaded, true);
     assert.equal(study.revealButtonRemoved, true);
 
+    const progressBefore = await page.evaluate(() => document.querySelector('#studyProgressText')?.textContent);
+    await page.click('#cardToolsBtn');
+    await page.waitForSelector('#cardActionsModal.open');
+    await page.keyboard.press('1');
+    await page.waitForTimeout(400);
+    const progressDuringModal = await page.evaluate(() => document.querySelector('#studyProgressText')?.textContent);
+    assert.equal(progressDuringModal, progressBefore);
+    await page.keyboard.press('Escape');
+    await page.waitForTimeout(200);
+
+    await page.click('[data-rating="good"]');
+    await page.waitForTimeout(600);
+    assert.notEqual(await page.evaluate(() => document.querySelector('#studyProgressText')?.textContent), progressBefore);
+    await page.click('#undoRatingBtn');
+    await page.waitForTimeout(500);
+    assert.equal(await page.evaluate(() => document.querySelector('#studyProgressText')?.textContent), progressBefore);
+
     const backup = await page.evaluate(async () => {
       const ok = await window.englishAnki.backupData();
       const list = await window.englishAnki.listBackups();
@@ -99,7 +116,38 @@ function launch(args) {
     if (!secondExit.exited) second.kill();
     assert.equal(secondExit.exited, true);
 
+    await page.click('[data-route="library"]');
+    await page.waitForSelector('#libraryView.active');
+    await page.click('#newDeckBtn');
+    await page.fill('#newDeckNameInput', 'E2E 自定义词库');
+    await page.click('#createDeckBtn');
+    await page.waitForSelector('#wordEditorModal.open');
+    await page.fill('#editWord_word', 'e2etest');
+    await page.fill('#editWord_meaning', '端到端测试');
+    await page.click('#saveWordBtn');
+    await page.waitForTimeout(400);
+    await page.click('[data-route="home"]');
+    await page.waitForTimeout(400);
+    assert.equal(await page.evaluate(() => document.querySelector('#homeDecks .deck-card.is-selected h3')?.textContent), 'E2E 自定义词库');
+    await page.click('#startStudyBtn');
+    await page.waitForSelector('#studyView.active');
+    const customStudy = await page.evaluate(() => ({
+      deck: document.querySelector('#studyDeckLabel')?.textContent,
+      word: document.querySelector('#wordText')?.textContent
+    }));
+    assert.equal(customStudy.deck, 'E2E 自定义词库');
+    assert.equal(customStudy.word, 'e2etest');
+    await page.click('#exitStudyBtn');
+
+    const tempDataPath = path.join(profile, 'english-anki-learning-data.json.tmp');
+    fs.rmSync(tempDataPath, { recursive: true, force: true });
+    fs.mkdirSync(tempDataPath);
     await page.evaluate(() => { document.querySelector('#themeBtn').click(); window.englishAnki.window.close(); });
+    await page.waitForTimeout(1200);
+    assert.equal(child.exitCode, null, 'close should be cancelled when the final save fails');
+    assert.match(await page.evaluate(() => document.querySelector('#toast')?.textContent || ''), /保存失败/);
+    fs.rmSync(tempDataPath, { recursive: true, force: true });
+    await page.evaluate(() => window.englishAnki.window.close());
     const appExit = await Promise.race([
       new Promise(resolve => child.once('exit', code => resolve({ exited: true, code }))),
       new Promise(resolve => setTimeout(() => resolve({ exited: false }), 6000))

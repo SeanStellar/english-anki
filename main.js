@@ -53,16 +53,16 @@ function loadWindowState() {
   try {
     const state = JSON.parse(fs.readFileSync(windowStateFile(), 'utf8'));
     if (!state || typeof state.width !== 'number' || typeof state.height !== 'number') return null;
-    const savedWidth = Math.max(980, Math.min(4000, Math.round(state.width)));
-    const savedHeight = Math.max(560, Math.min(4000, Math.round(state.height)));
+    const savedWidth = Math.max(900, Math.min(4000, Math.round(state.width)));
+    const savedHeight = Math.max(500, Math.min(4000, Math.round(state.height)));
     const maximized = !!state.maximized;
     const hasPosition = typeof state.x === 'number' && typeof state.y === 'number';
     const display = hasPosition
       ? screen.getDisplayMatching({ x: state.x, y: state.y, width: savedWidth, height: savedHeight })
       : screen.getPrimaryDisplay();
     const area = display.workArea;
-    const width = Math.min(savedWidth, Math.max(980, area.width));
-    const height = Math.min(savedHeight, Math.max(560, area.height));
+    const width = Math.min(savedWidth, Math.max(900, area.width));
+    const height = Math.min(savedHeight, Math.max(500, area.height));
     if (!hasPosition) return { width, height, maximized };
     const x = Math.max(area.x, Math.min(Math.round(state.x), area.x + area.width - Math.min(width, area.width)));
     const y = Math.max(area.y, Math.min(Math.round(state.y), area.y + area.height - Math.min(height, area.height)));
@@ -493,6 +493,13 @@ function finishWindowClose() {
   if (mainWindow && !mainWindow.isDestroyed()) mainWindow.close();
 }
 
+function cancelWindowClose() {
+  if (!closeFlushPending || closeAllowed) return;
+  closeFlushPending = false;
+  clearTimeout(closeFlushTimer);
+  closeFlushTimer = null;
+}
+
 function createWindow() {
   closeAllowed = false;
   closeFlushPending = false;
@@ -505,8 +512,8 @@ function createWindow() {
     y: winState.y,
     width: winState.width || Math.min(1440, workArea.width),
     height: winState.height || Math.min(900, workArea.height),
-    minWidth: 980,
-    minHeight: 560,
+    minWidth: 900,
+    minHeight: 500,
     backgroundColor: '#f4f4ee',
     icon: path.join(__dirname, 'build', 'icon.ico'),
     frame: false,
@@ -537,7 +544,7 @@ function createWindow() {
       if (!closeFlushPending) {
         closeFlushPending = true;
         mainWindow.webContents.send('app:before-close');
-        closeFlushTimer = setTimeout(finishWindowClose, 1500);
+        closeFlushTimer = setTimeout(finishWindowClose, 5000);
       }
       return;
     }
@@ -719,6 +726,7 @@ ipcMain.on('app:flush-done', () => {
   if (!closeFlushPending) return;
   finishWindowClose();
 });
+ipcMain.on('app:flush-failed', () => cancelWindowClose());
 ipcMain.on('window:minimize', () => mainWindow?.minimize());
 ipcMain.on('window:maximize', () => {
   if (!mainWindow) return;

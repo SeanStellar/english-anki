@@ -1,6 +1,6 @@
 {
   "name": "english-anki",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
@@ -18,7 +18,8 @@
     "dist": "node scripts/build-preload.js && electron-builder --win nsis portable --x64",
     "audit:content": "node scripts/audit-content.js",
     "audit:images": "node scripts/audit-images.js",
-    "apply:rewrites": "node scripts/apply-sentence-rewrites.js content/rewrites-2026-10-25.json"
+    "apply:rewrites": "node scripts/apply-sentence-rewrites.js content/rewrites-2026-10-25.json",
+    "test:all": "npm test && npm run test:e2e"
   },
   "devDependencies": {
     "electron": "37.10.3",

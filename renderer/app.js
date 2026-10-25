@@ -26,9 +26,9 @@ if (!window.englishAnki) {
     pullSyncData: () => Promise.resolve({ ok: false }),
     autoSyncData: () => Promise.resolve({ ok: true, action: 'disabled' }),
     setSyncAuto: () => Promise.resolve({ configured: false, state: 'disabled', auto: true }),
-    updateStatus: () => Promise.resolve({ currentVersion: '4.0.1', source: '', auto: true }),
-    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.0.1', source: preferences.source || '', auto: preferences.auto !== false }),
-    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.0.1', reason: 'no-source' }),
+    updateStatus: () => Promise.resolve({ currentVersion: '4.0.2', source: '', auto: true }),
+    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.0.2', source: preferences.source || '', auto: preferences.auto !== false }),
+    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.0.2', reason: 'no-source' }),
     openUpdateDownload: () => Promise.resolve(false),
     loadStudySession: () => Promise.resolve(null),
     saveStudySession: () => Promise.resolve(true),
@@ -3986,8 +3986,14 @@ async function init() {
   window.englishAnki.onBeforeClose?.(() => {
     clearTimeout(saveTimer);
     Promise.resolve(window.englishAnki.saveData(state))
-      .catch(() => {})
-      .finally(() => window.englishAnki.confirmClose());
+      .then(saved => {
+        if (saved === false) throw new Error('save-failed');
+        window.englishAnki.confirmClose();
+      })
+      .catch(() => {
+        window.englishAnki.cancelClose?.();
+        toast('学习数据保存失败，已取消关闭；请检查磁盘空间或占用数据文件的程序');
+      });
   });
   applyZoom();
   let zoomResizeFrame = 0;

@@ -1992,6 +1992,7 @@ var api = {
   createCard: () => createEmptyCard(/* @__PURE__ */ new Date()),
   onBeforeClose: (callback) => ipcRenderer.on("app:before-close", () => callback()),
   confirmClose: () => ipcRenderer.send("app:flush-done"),
+  cancelClose: () => ipcRenderer.send("app:flush-failed"),
   window: {
     minimize: () => ipcRenderer.send("window:minimize"),
     maximize: () => ipcRenderer.send("window:maximize"),
