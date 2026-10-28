@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ky-butterfly",
+    "word": "butterfly",
+    "targetSense": "蝴蝶",
+    "anchor": "butter",
+    "anchorMeaning": "黄油",
+    "relation": "butter + fly 拼写 → butterfly（拼写梗，不是词源）；蝴蝶的翅膀是黄油色",
+    "sentence": "野餐时，一只 butter（黄油）色的 butterfly（蝴蝶）落在黄油块旁。",
+    "scene": {
+      "setting": "阳光下的野餐草地",
+      "actor": "一只黄油色的蝴蝶",
+      "props": ["黄油块", "野餐篮", "野花"],
+      "beats": ["蝴蝶飞过野餐篮", "落在黄油块旁", "扇动翅膀停在野花上"],
+      "ending": "黄油色蝴蝶停在黄油块旁的野花上"
+    },
+    "review": {
+      "reason": "butter 是熟词黄油，butter+fly 组成 butterfly；黄油色翅膀把词形和画面绑定"
+    },
+    "artDirection": "蝴蝶翅膀要像抹开的黄油，暖黄色；不要写字",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-service",
+    "word": "service",
+    "targetSense": "服务",
+    "anchor": "serve",
+    "anchorMeaning": "服务、上菜",
+    "relation": "serve + -ice（名词后缀）→ service；serve 这个动作就是 service",
+    "sentence": "服务员把菜端上桌，这个 serve（上菜）的动作就是 service（服务）。",
+    "scene": {
+      "setting": "温暖的餐厅",
+      "actor": "双手端着托盘的服务员",
+      "props": ["托盘", "餐盘", "餐桌"],
+      "beats": ["双手端着托盘从厨房走出", "把托盘里的餐盘放到餐桌上", "微笑后退一步"],
+      "ending": "服务员双手端着空托盘站在餐桌旁微笑，桌上的餐盘冒着热气"
+    },
+    "review": {
+      "reason": "serve 是熟词，service 是它的名词；上菜动作把‘服务’演出来"
+    },
+    "artDirection": "托盘必须清晰可见，餐盘放在托盘上；不要椅子抢镜；不要菜单文字",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-scientist",
+    "word": "scientist",
+    "targetSense": "科学家",
+    "anchor": "science",
+    "anchorMeaning": "科学",
+    "relation": "science → scientist（-ist 表人；拼写去 ce 加 tist）；做 science 的人就是 scientist",
+    "sentence": "在 science（科学）实验室里，穿白大褂的人就是 scientist（科学家）。",
+    "scene": {
+      "setting": "明亮的科学实验室",
+      "actor": "穿白大褂的科学家",
+      "props": ["烧瓶", "显微镜", "实验记录本"],
+      "beats": ["观察烧瓶里的颜色变化", "在记录本上写下数据", "举起试管微笑"],
+      "ending": "科学家举起试管，实验成功"
+    },
+    "review": {
+      "reason": "science 是熟词，-ist 表示人；实验室动作把‘做科学的人’演出来"
+    },
+    "artDirection": "烧瓶液体用暖黄/砖红；记录本不要出现文字",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-worker",
+    "word": "worker",
+    "targetSense": "工人",
+    "anchor": "work",
+    "anchorMeaning": "工作",
+    "relation": "work + -er（表人）→ worker；做 work 的人就是 worker",
+    "sentence": "在工地上 work（工作）的人，就是 worker（工人）。",
+    "scene": {
+      "setting": "阳光下的建筑工地",
+      "actor": "戴安全帽的工人",
+      "props": ["安全帽", "砖块", "抹泥刀"],
+      "beats": ["搬起砖块", "把砖砌到墙上", "抬手擦汗"],
+      "ending": "工人看着砌好的砖墙，露出笑容"
+    },
+    "review": {
+      "reason": "work 是熟词，-er 表示人；砌墙动作把 worker 的身份演出来"
+    },
+    "artDirection": "砖墙要暖砖红，不要清晰文字或编号",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-librarian",
+    "word": "librarian",
+    "targetSense": "图书管理员",
+    "anchor": "library",
+    "anchorMeaning": "图书馆",
+    "relation": "library → librarian（-ian 表人；y→i）；在 library 工作的人就是 librarian",
+    "sentence": "在 library（图书馆）里，整理书架、盖章的人就是 librarian（图书管理员）。",
+    "scene": {
+      "setting": "安静的图书馆",
+      "actor": "图书管理员",
+      "props": ["一摞书", "借书卡和印章", "木书架"],
+      "beats": ["把书从推车上搬下来", "在借书卡上盖章", "把书放回木书架"],
+      "ending": "管理员把盖好章的书放回书架，满意地微笑"
+    },
+    "review": {
+      "reason": "library 是熟词，-ian 表示人；盖章动作把图书馆里的职业演出来"
+    },
+    "artDirection": "书脊不要写字；借书卡保持空白，印章上不要文字；用颜色和厚度区分书",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-production",
+    "word": "production",
+    "targetSense": "生产、产量",
+    "anchor": "produce",
+    "anchorMeaning": "生产",
+    "relation": "produce → production（-tion 名词后缀；去 e）；把面包 produce（生产）出来的过程就是 production",
+    "sentence": "面包房里，produce（生产）面包的流程就是 production（生产）。",
+    "scene": {
+      "setting": "温暖的面包房",
+      "actor": "戴围裙的面包师",
+      "props": ["传送带", "长条面包", "烤炉"],
+      "beats": ["把面团放进烤炉", "把烤好的面包放上传送带", "托起一篮面包"],
+      "ending": "面包师举起一篮刚出炉的面包，传送带上还排着面包"
+    },
+    "review": {
+      "reason": "produce 是熟词，-tion 变名词；从烤炉到传送带的流程把‘生产’演出来"
+    },
+    "artDirection": "面包金黄、烤炉有暖光；传送带结构清楚；包装上不要文字",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-increasingly",
+    "word": "increasingly",
+    "targetSense": "越来越多地、不断增加地",
+    "anchor": "increase",
+    "anchorMeaning": "增加",
+    "relation": "increase → increasingly（-ing + -ly；去 e）；书塔不断 increase（增加），就是 increasingly（越来越多地）",
+    "sentence": "孩子一本本往上加书，increase（增加）不断发生，书塔就 increasingly（越来越）高。",
+    "scene": {
+      "setting": "午后书房",
+      "actor": "踮脚堆书的孩子",
+      "props": ["一摞书", "木凳", "摇晃的书塔"],
+      "beats": ["把一本书放上塔顶", "书塔晃了一下", "踮脚再放一本"],
+      "ending": "书塔比孩子还高，孩子扶住最上面一本书"
+    },
+    "review": {
+      "reason": "increase 是熟词，-ingly 变副词；书塔越堆越高把‘越来越多地’演出来"
+    },
+    "artDirection": "书脊不要文字；书塔明显倾斜、快倒；只出现一个孩子",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-donkey",
+    "word": "donkey",
+    "targetSense": "驴",
+    "anchor": "monkey",
+    "anchorMeaning": "猴子",
+    "relation": "monkey 换首字母 m→d → donkey（形近押韵）；猴子和驴都是长耳朵动物，猴子骑在驴背上一起记",
+    "sentence": "monkey（猴子）骑在 donkey（驴）背上，两个长耳朵伙伴一起赶路。",
+    "scene": {
+      "setting": "阳光下的农场土路",
+      "actor": "一头灰褐色的驴和一只小猴子",
+      "props": ["一只小猴子", "干草垛", "木栅栏"],
+      "beats": ["猴子跳上驴背", "猴子抓住驴耳朵", "驴驮着猴子小跑"],
+      "ending": "猴子和驴并排站在土路上，驴耳朵竖起"
+    },
+    "review": {
+      "reason": "monkey 是熟词，donkey 和它都是长耳朵动物；猴子骑驴把两个词绑在同一个画面"
+    },
+    "artDirection": "猴子和驴各只出现一次；驴耳朵长而明显；不要马鞍或牌子文字",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-feeling",
+    "word": "feeling",
+    "targetSense": "感觉、感受",
+    "anchor": "feel",
+    "anchorMeaning": "感觉",
+    "relation": "feel + -ing → feeling；feel（感觉）到的东西就是 feeling",
+    "sentence": "把手放在热水杯上，feel（感觉）到的温暖就是 feeling（感受）。",
+    "scene": {
+      "setting": "冬日窗边的小桌",
+      "actor": "闭眼微笑的孩子",
+      "props": ["冒热气的杯子", "冰块", "毛围巾"],
+      "beats": ["手指碰冰块缩回", "双手捧住热杯子", "把脸埋进围巾"],
+      "ending": "孩子闭眼捧着热杯，脸上露出舒服的表情"
+    },
+    "review": {
+      "reason": "feel 是熟词，-ing 变名词；冷、暖、软三种触感把‘感受’演出来"
+    },
+    "artDirection": "不要文字；用表情和手势区分冷、暖、软；只出现一个孩子",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-infrastructure",
+    "word": "infrastructure",
+    "targetSense": "基础设施",
+    "anchor": "structure",
+    "anchorMeaning": "结构",
+    "relation": "infra（下方）+ structure（结构）→ infrastructure；桥面下方的承重结构就是基础设施",
+    "sentence": "桥面下的 structure（结构）是桥墩，这些桥墩就是 infrastructure（基础设施）。",
+    "scene": {
+      "setting": "河谷上的石桥下",
+      "actor": "戴安全帽的桥梁工程师",
+      "props": ["桥面", "石桥墩", "手提灯"],
+      "beats": ["工程师走到桥下", "用手电照桥墩", "抬头看桥面"],
+      "ending": "工程师把手放在粗壮桥墩上，桥面稳稳跨过头顶"
+    },
+    "review": {
+      "reason": "structure 是熟词，infra 表示‘下方’；桥面下的承重结构就是基础设施"
+    },
+    "artDirection": "桥墩粗壮、承重感强；不要图纸文字；只出现一个工程师",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-acute",
+    "word": "acute",
+    "targetSense": "敏锐的、严重的",
+    "anchor": "cute",
+    "anchorMeaning": "可爱的",
+    "relation": "a + cute → acute；一只 cute（可爱）的猫，耳朵非常 acute（敏锐）",
+    "sentence": "一只 cute（可爱）的小猫竖起耳朵，听觉非常 acute（敏锐）。",
+    "scene": {
+      "setting": "安静的夜晚客厅",
+      "actor": "一只橘猫",
+      "props": ["旧沙发", "掉落的针", "窗边的月亮"],
+      "beats": ["猫蜷在沙发上打盹", "针落到地板发出轻响", "猫耳朵立刻转向声音"],
+      "ending": "橘猫竖起耳朵、睁大眼睛盯着针落下的方向"
+    },
+    "review": {
+      "reason": "cute 是熟词，前面加 a 就是 acute；可爱小猫的敏锐听觉把词义演出来"
+    },
+    "artDirection": "猫耳朵大而尖；针小而清楚；不要文字、数字、钟表或刻度",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-education",
+    "word": "education",
+    "targetSense": "教育",
+    "anchor": "educate",
+    "anchorMeaning": "教育",
+    "relation": "educate → education（-ion 名词后缀；去 e）；老师 educate（教育）学生的过程就是 education",
+    "sentence": "老师 educate（教育）学生，这个慢慢成长的过程就是 education（教育）。",
+    "scene": {
+      "setting": "乡村小学教室",
+      "actor": "女老师和一名学生",
+      "props": ["空白黑板", "地球仪", "一本书"],
+      "beats": ["老师指着地球仪", "学生举手", "老师把书递给学生"],
+      "ending": "学生捧着书笑，老师在旁边点头"
+    },
+    "review": {
+      "reason": "educate 是熟词，-ion 变名词；老师带学生的过程就是教育"
+    },
+    "artDirection": "黑板必须空白；地球仪不要国名文字；只出现一个女老师和一个学生",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-natural",
+    "word": "natural",
+    "targetSense": "自然的、天然的",
+    "anchor": "nature",
+    "anchorMeaning": "大自然",
+    "relation": "nature → natural（-al 形容词后缀；去 e）；nature（大自然）里的东西就是 natural",
+    "sentence": "走进 nature（大自然），看到森林和溪流，这一切都很 natural（自然）。",
+    "scene": {
+      "setting": "森林溪边",
+      "actor": "背小包的徒步者",
+      "props": ["长满苔藓的石头", "清澈溪流", "松树"],
+      "beats": ["跨过倒木", "蹲下捧起溪水", "抬头看树冠"],
+      "ending": "徒步者站在溪边深呼吸，阳光穿过树叶"
+    },
+    "review": {
+      "reason": "nature 是熟词，-al 变形容词；森林溪流里的一切就是自然的"
+    },
+    "artDirection": "不要文字；苔藓、树皮、水纹要具体；只出现一个徒步者",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-global",
+    "word": "global",
+    "targetSense": "全球的",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "relation": "globe → global（-al 形容词后缀；去 e）；整个 globe（地球）就是 global（全球的）",
+    "sentence": "转动 globe（地球仪），看到整个地球，这就是 global（全球的）。",
+    "scene": {
+      "setting": "洒满阳光的教室窗边",
+      "actor": "捧地球仪的孩子",
+      "props": ["地球仪", "窗台", "小盆栽"],
+      "beats": ["孩子转动地球仪", "用手指沿着海洋滑过", "把地球仪举到窗光前"],
+      "ending": "孩子抱着地球仪，阳光照亮球面"
+    },
+    "review": {
+      "reason": "globe 是熟词，-al 变形容词；转动整个地球仪把‘全球的’演出来"
+    },
+    "artDirection": "地球仪上不要国名或文字；只出现一个孩子；海洋和陆地色块清楚",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-movement",
+    "word": "movement",
+    "targetSense": "运动、移动",
+    "anchor": "move",
+    "anchorMeaning": "移动",
+    "relation": "move + -ment → movement；身体 move（移动）的一连串动作就是 movement",
+    "sentence": "舞者 move（移动）身体，一连串动作就是 movement（运动）。",
+    "scene": {
+      "setting": "木地板舞蹈教室",
+      "actor": "穿长裙的舞者",
+      "props": ["飘起的长围巾", "木地板", "大窗户"],
+      "beats": ["舞者迈出一步", "旋转让围巾飞起", "跃起伸展开手臂"],
+      "ending": "舞者停在半空，围巾在身后划出弧线"
+    },
+    "review": {
+      "reason": "move 是熟词，-ment 变名词；舞者连续动作把‘运动’演出来"
+    },
+    "artDirection": "围巾的动势要清楚；不要文字；只出现一个舞者",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-connection",
+    "word": "connection",
+    "targetSense": "连接、联系",
+    "anchor": "connect",
+    "anchorMeaning": "连接",
+    "relation": "connect + -ion → connection；把两根线 connect（连接）起来就是 connection",
+    "sentence": "把两根电线 connect（连接）起来，灯亮了，这就是 connection（连接）。",
+    "scene": {
+      "setting": "傍晚的修理台",
+      "actor": "扎马尾的女孩",
+      "props": ["两盏小灯", "电线", "插头"],
+      "beats": ["女孩举起两根线头", "把插头接在一起", "两盏灯同时亮起"],
+      "ending": "两盏灯被一根电线连在一起，女孩拍手笑"
+    },
+    "review": {
+      "reason": "connect 是熟词，-ion 变名词；两根线接通、灯亮把‘连接’演出来"
+    },
+    "artDirection": "电线和插头结构清楚；不要文字；只出现一个女孩",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-historical",
+    "word": "historical",
+    "targetSense": "历史的",
+    "anchor": "history",
+    "anchorMeaning": "历史",
+    "relation": "history → historical（-ical 形容词后缀；y→i）；属于 history（历史）的东西就是 historical",
+    "sentence": "在博物馆看 history（历史）里的恐龙骨架，这是 historical（历史的）现场。",
+    "scene": {
+      "setting": "自然历史博物馆大厅",
+      "actor": "背双肩包的参观者",
+      "props": ["恐龙骨架", "玻璃展柜", "天鹅绒隔离绳"],
+      "beats": ["参观者走过骨架", "俯身看展柜里的化石", "抬头望向骨架顶部"],
+      "ending": "参观者站在巨大骨架下抬头张望"
+    },
+    "review": {
+      "reason": "history 是熟词，-ical 变形容词；博物馆里的恐龙骨架把‘历史的’演出来"
+    },
+    "artDirection": "展牌和说明牌必须空白；不要文字；只出现一个参观者",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-photograph",
+    "word": "photograph",
+    "targetSense": "照片",
+    "anchor": "camera",
+    "anchorMeaning": "相机",
+    "relation": "camera（相机）拍下的画面就是 photograph（照片）；工具 → 产物",
+    "sentence": "男孩举起 camera（相机）对准花，按下快门，得到一张 photograph（照片）。",
+    "scene": {
+      "setting": "清晨的花园",
+      "actor": "蹲在花丛前的男孩",
+      "props": ["相机", "刚显影的照片", "一朵大花"],
+      "beats": ["男孩蹲下，用相机对准花", "按下快门", "举起刚显影的照片，照片里正是那朵花"],
+      "ending": "男孩一手握相机，一手举着照片，照片里正是眼前的花"
+    },
+    "review": {
+      "reason": "camera 是熟词相机，相机拍出的产物就是 photograph；画面同时出现相机和照片"
+    },
+    "artDirection": "相机和照片都要清楚；照片里是同一朵花；照片上不要文字、日期或数字；只出现一个男孩",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-pressure",
+    "word": "pressure",
+    "targetSense": "压力",
+    "anchor": "press",
+    "anchorMeaning": "按、压",
+    "relation": "press + -ure → pressure；双手 press（按）下去的力量就是 pressure",
+    "sentence": "双手 press（按）下弹簧，弹簧被压得越紧，pressure（压力）越大。",
+    "scene": {
+      "setting": "木工房的工作台",
+      "actor": "卷起袖子的孩子",
+      "props": ["大弹簧", "木板", "压力表"],
+      "beats": ["孩子把弹簧立在木板上", "双手向下按", "弹簧被压短，表针抬起"],
+      "ending": "孩子双手压着缩短的弹簧，旁边表针指向高处"
+    },
+    "review": {
+      "reason": "press 是熟词，-ure 变名词；双手压弹簧把‘压力’演出来"
+    },
+    "artDirection": "压力表不要数字和刻度文字，只用指针和色块；只出现一个孩子",
+    "mode": "scene"
+  },
+  {
+    "id": "ky-solution",
+    "word": "solution",
+    "targetSense": "解决方案",
+    "anchor": "solve",
+    "anchorMeaning": "解决",
+    "relation": "solve → solution（-tion 名词后缀；拼写 solv→solut）；把拼图 solve（解决）好，就得到 solution（解决方案）",
+    "sentence": "把打乱的拼图 solve（解决）好，就得到 solution（解决方案）。",
+    "scene": {
+      "setting": "夜晚的书桌",
+      "actor": "扎辫子的女孩",
+      "props": ["拼图", "最后一块拼片", "台灯"],
+      "beats": ["女孩在拼图堆里找拼片", "把拼片按进缺口", "最后一块咔哒合上"],
+      "ending": "女孩举起双手，桌上拼图完整，台灯照着她笑"
+    },
+    "review": {
+      "reason": "solve 是熟词，-tion 变名词；最后一块拼图合上，把‘解决方案’演出来"
+    },
+    "artDirection": "拼图图案用色块，不要字母或数字；只出现一个女孩",
+    "mode": "scene"
+  }
+]

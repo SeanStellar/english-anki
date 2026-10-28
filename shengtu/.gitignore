@@ -1,0 +1,4 @@
+ag_stable_config.py
+__pycache__/
+Photos/kaoyan_cards/*.png
+Photos/kaoyan_cards/*_raw.png

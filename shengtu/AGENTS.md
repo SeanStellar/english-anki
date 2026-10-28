@@ -1,0 +1,226 @@
+# AGENTS.md — 锚点生图
+
+本文件约束 `D:\Anki\shengtu` 下的词汇记忆插图生成。所有 agent、脚本和人工改动先读这里；`study-assistant/` 不受本文件影响。
+
+## 0. 铁律：锚点零容忍
+
+> 记忆锚点是第一优先级。画风、构图、出图速度都可以让步，锚点不能。锚点有一处问题，这张卡就不合格：不许生成，不许发布，不许靠反复抽卡掩盖。
+
+### 0.1 七条硬标准（必须全部通过）
+
+| 代号 | 标准 | 不合格示例 |
+|---|---|---|
+| A 熟 | anchor 是学习者已掌握的**独立熟词**，通常比 word 更简单、更具体 | 拿另一个考研词当锚点；锚点比 word 还生僻 |
+| B 异 | anchor ≠ word；不能是 word 的屈折、派生、缩写、同义或近义词 | photo → photograph；picture → photograph |
+| C 义准 | anchorMeaning 是该词最常用的准确义项；句中词性和义项必须一致 | serve 标“服务”却当名词用；press 标“新闻界”却画按压 |
+| D 桥真 | relation 必须是真实的构词、拼写、读音或语义关系；禁止假词源、假词根、硬拆字母；后缀必须写对并标出词干变化 | serve + ice（把后缀 -ice 当成“冰”）；science + ist（拼写不成立）；把 butter + fly 说成词源 |
+| E 句顺 | sentence 自然、语法正确，anchor 和 word 都用对词性/词义；不能生硬塞词或同义复述 | “书塔 increasingly 高”；anchor 和 word 只是互相解释 |
+| F 可画 | anchor 的具体形象与 word 的目标义必须在同一画面里可辨；桥不能靠图内文字表达 | 只画 word 的字面场景，anchor 缺席；把字母梗写成字母 |
+| G 唯一 | 一个 word 只选一个最强锚点；多候选时选“最熟、最短、最具体、桥最短”的 | 一张卡塞两个锚点，观众不知道记哪个 |
+
+### 0.2 一票否决
+
+出现任一情况，退回重写，不得改画风、放宽校验或反复抽卡：
+
+- anchor 是 word 本身、缩写、同义词或近义词。
+- anchor 释义写错、写偏，或不是常用义。
+- relation 是假词源/假词根，或把后缀当成独立单词。
+- sentence 里 anchor 或 word 的词性、搭配、语法有错。
+- 遮住 word，只看 anchor + sentence，推不出 word 的大致意思或拼写。
+- 画面里 anchor 的具体形象和 word 的目标义缺一个。
+- anchor 比 word 更难，或 anchor 本身也是考研生词。
+
+### 0.3 审核顺序
+
+1. 写 anchor、anchorMeaning、relation、sentence。
+2. 按 A–G 逐条自查，每条写“通过/不通过”，不通过就改卡。
+3. 反向测试一：遮住 word，只读 anchor + sentence，能否说出 word 的意思？
+4. 反向测试二：只看 anchor 和 relation，能否推出 word 的大致拼写？
+5. 两项测试都过，才允许 `--dry-run`；dry-run 通过才允许调图片 API。
+6. 出图后再查 F：anchor 的具体形象和 word 的目标义是否同时可见。
+
+> 锚点不合格时先改卡。改画风、换种子、放宽校验都不算解决。
+
+## 1. 项目定位
+
+为英语单词卡生成“记忆锚点”插图，画风对齐 `D:\Anki\shengtu\Photos\anki_cards`。
+
+- 图里**不出现任何文字**：单词、音标、释义、例句由 Anki / 高效记忆 App 叠加。
+- 图不是单词的字面配图，而是**熟词锚点 → 生词**的记忆桥。
+- 当前词源：`D:\Anki\考研英语词汇\考研英语_词频总表_去专升本3000词.csv`（2712 个考研词，其中 612 个在 2025/2026 真题里出现过）。
+
+## 2. 第一原则：先定“记忆锚点”
+
+> 这一步决定图有没有记忆点，比画风更关键。
+
+每张卡不是直接画生词，而是：
+
+- **生词**：campus（校园；（大学的）校区）
+- **熟词锚点**：camp（营地）
+- **记忆句**：跑过 camp（营地）的帐篷，第一次走进 campus（校园）
+- **视觉逻辑**：camp 加一个 u，像校园里的花坛
+
+必须按这个顺序理解：
+
+1. `word` 是**生词**：campus。
+2. `anchor` 是**熟词**：camp。不要把 campus 当 anchor，也不要把 anchor 写成生词的同义词。
+3. `sentence` 把 anchor 和 word 放进**同一个具体动作**：跑过 camp 的帐篷，走进 campus。
+4. `relation` 是两者之间的桥：`camp + u → campus`，`u` 像校园里的花坛。
+5. 图要把这座桥画出来：画面里既要有 camp 的帐篷/营地，也要有 campus 的校园，还要有一个 **U 形花坛**把字母梗变成真实物体。
+
+**禁止**：只画一个 generic campus；只画单词字面意思；把 `u` 写成字母或文字；把 anchor 写成另一个生词。
+
+## 3. 锚点规则
+
+- anchor 必须是学习者**已经熟悉**的词，通常比 word 更简单、更具体，并必须通过第 0 节 A–G 七条。
+- anchor 必须是**独立词**：不能是 word 的缩写、同义词、近义词或屈折形式。
+- anchor 与 word 的关系可以是：词形（camp + u → campus）、发音、字形、语义或同一个词根；关系必须真实，不能编词源。
+- 如果关系是字母/单词梗，必须转成**真实物体或形状**（U 形花坛、S 形小路等），图内不能出现字母。
+- 没有好锚点时，允许 `mode: concept`：用一个具体概念场景隐喻抽象词；但仍要有 3 件道具、3 拍动作、一个高潮。
+- `sentence` 必须同时出现 anchor 和 word，并且能拍成一个动作；不要写抽象解释。
+- 先写卡，后生图。**没有通过校验的 scene 卡，不允许调图片 API。**
+
+## 4. scene 卡 schema
+
+每张卡至少包含：
+
+| 字段 | 要求 |
+|---|---|
+| `id` | 唯一 ID，例如 `ky-campus` |
+| `word` | 生词 |
+| `targetSense` | 中文释义，保留最常用的 1–2 个义项 |
+| `anchor` | 熟词锚点 |
+| `anchorMeaning` | anchor 的中文意思 |
+| `relation` | anchor → word 的记忆关系，必须可视化 |
+| `sentence` | 同时包含 anchor 和 word 的具体记忆句 |
+| `scene` | `setting`、`actor`、`props`、`beats`、`ending` |
+| `review.reason` | 为什么这个场景能记住 word |
+| `artDirection` | 这张卡单独的镜头/道具要求 |
+| `mode` | `scene`（具体动作）或 `concept`（抽象概念） |
+
+`scene` 内部硬约束：
+
+- `props`：**恰好 3 件**关键实物。
+- `beats`：**恰好 3 拍**动作，形成因果链。
+- `ending`：三拍压缩成的一个高潮画面。
+- 场景只保留一个主角；如果故事确实需要 1–2 人，最多 2 人，禁止重复人物/分裂动作。
+
+示例：
+
+```json
+{
+  "id": "ky-campus",
+  "word": "campus",
+  "targetSense": "校园；（大学的）校区",
+  "anchor": "camp",
+  "anchorMeaning": "营地",
+  "relation": "camp 加一个 u → campus；u 像校园里的花坛",
+  "sentence": "跑过 camp（营地）的帐篷，第一次走进 campus（校园）",
+  "scene": {
+    "setting": "大学草坪，旁边有露营帐篷",
+    "actor": "背着书包的新生",
+    "props": ["露营帐篷", "U 形花坛", "红砖教学楼"],
+    "beats": ["跑过帐篷", "停在 U 形花坛前", "走进教学楼"],
+    "ending": "新生站在 U 形花坛前，望向教学楼"
+  },
+  "review": {
+    "reason": "camp 是熟词营地，camp + u 变成 campus；U 形花坛把字母梗变成可见物体"
+  },
+  "artDirection": "U 形花坛要清楚，但不能写成字母；暖色、柔和、无文字",
+  "mode": "scene"
+}
+```
+
+校验失败时先改卡，不要靠改画风或反复抽卡掩盖分镜问题。
+
+## 5. 画风标准
+
+画风以 `Photos/anki_cards` 为准，不以“儿童绘本”这四个字为准。
+
+代表图：
+
+- `Photos/anki_cards/hb-0040-address.png`
+- `Photos/anki_cards/hb-0030-acquire.png`
+- `Photos/anki_cards/hb-0050-adventure.png`
+
+共同特征：
+
+- 水粉 + 粉蜡笔 + 彩铅混合的手绘儿童绘本插画。
+- 粗糙水彩纸的明显颗粒、颜料颗粒沉淀、蜡笔排线；边缘略毛糙，颜色有轻微渗化。
+- 人物圆脸、大头、纯黑点状眼睛（不要眼白/高光/明显眉毛）、腮红、小鼻子、短圆四肢、简单块状头发。
+- 低饱和土色系：赭黄、奶油白、暖黄、砖红、橄榄绿、灰蓝、灰紫；避免鲜绿、鲜红、霓虹。
+- 柔和暖光、彩色阴影，不要纯黑硬描边。
+- 背景用水彩晕染，边缘柔软；不要干净的建筑线稿、清晰窗框/砖缝。
+- 画面 full-bleed，四边到边；没有白边、纸张边框、相框。
+- 不是数字平涂、不是矢量、不是 3D、不是照片、不是动漫。
+
+参考图只提供**画风、材质、配色**，不提供内容。不要把参考图里的人物、道具、构图、文字带进新图。
+
+## 6. 生成流程
+
+1. **读词源**：从 CSV/JSON 取 `word`、`释义`、词频。
+2. **过滤**：去掉功能词、纯数字、专有名词；优先 2025/2026 出现过的实词；按 `合计` 和 `出现年份` 排序。
+3. **写 scene 卡**：逐词写 anchor、sentence、relation、3 道具、3 拍、ending。
+4. **校验**：字段完整、`props` 恰好 3、`beats` 恰好 3、`sentence` 同时含 anchor 和 word、anchor ≠ word。
+5. **生图**：
+   - 首选：SenseNova `sensenova-u1.5-lite`，`/v1/images/edits`，固定一张 style ref 作为画风锚点。
+   - 参数：`prompt_extend: false`、`watermark: false`、`response_format: "b64_json"`、`size: "1536x1152"`（4:3，兼顾细节）或 `1024x768`。
+   - 备选：`gpt-image-2`（和 `anki_cards` 原图同款，最容易一模一样；需要可用服务/Key）。
+   - 本地备选：`ag_local.py`（Z-Image Turbo）；可用本地 `qwen3-vl:8b` 检查画面是否出现文字。
+6. **QC**：见下一节；不通过就换种子/改 scene 卡重试，不要放宽全局画风。
+7. **发布**：原图存 `Photos/kaoyan_cards/`；如需要再压 960×720 WebP（q82，≤420KB），并写 metadata。
+
+## 7. QC 清单
+
+每张图发布前逐项检查：
+
+- [ ] 锚点通过第 0 节 A–G 七条，两个反向测试都过。
+- [ ] 画面无文字、字母、数字、标牌、UI、边框、水印。
+- [ ] 画面只有一个主角；最多 2 人时必须由故事需要，且没有重复人物/分裂动作。
+- [ ] 3 件道具都清楚可见。
+- [ ] 3 拍动作能在这一帧里读出来，且有因果关系。
+- [ ] anchor 的具体场景（如 camp 帐篷）和 word 的目标含义（如 campus 校园）同时存在。
+- [ ] `relation` 被画成了真实物体/形状（如 U 形花坛），不是文字。
+- [ ] 画风匹配：纸纹、蜡笔/水粉笔触、点眼、土色系、柔和彩色阴影、full-bleed。
+- [ ] 没有白边；如有白边，先自动裁边再发布。
+
+## 8. 文件与命令
+
+| 路径 | 用途 |
+|---|---|
+| `D:\Anki\考研英语词汇\考研英语_词频总表_去专升本3000词.csv` | 当前考研词源 |
+| `Photos/anki_cards/` | 画风 canon，只读，不要修改 |
+| `Photos/kaoyan_cards/` | 考研插图输出目录 |
+| `kaoyan_cards.json` | 考研 scene 卡（20 张试点） |
+| `ag_kaoyan_gen.py` | 考研生图主脚本（SenseNova A 路线） |
+| `ag_stable.py` | 主生图脚本（当前词源仍是河北专升本 JSON） |
+| `ag_stable_config.py` | Provider / API Key；明文，勿提交、勿分享 |
+| `ag_local.py` | 本地 Z-Image Turbo 备选 |
+| `AGENTS.md` | 本文件 |
+
+注意：
+
+- 当前 `ag_stable.py` 的 `--stories/--words/--overrides` 仍指向 `Z:\Anki\高效记忆\renderer\data`；考研词源走 `ag_kaoyan_gen.py`，不要覆盖现有 hb-* 状态文件。
+- 先 `--dry-run` 看提示词和选卡，再实际生成。
+- 不要覆盖已有图片，除非显式 `--force`。
+- `ag_stable_config.py` 里是明文 Key；如果目录被分享/提交，先轮换 Key。
+
+## 9. 当前任务
+
+- 词源：`考研英语_词频总表_去专升本3000词.csv`（2712 词；612 个在 2025/2026 真题出现）。
+- 先做 **20 个高频实词**试点；不要直接批量 2712。20 张已出图，已按第 0 节复核锚点。
+- 画风路线：SenseNova + 固定 style ref（免费）；gpt-image-2 作为“必须完全一致”时的备选。
+- 输出：只要图片；放到 `Photos/kaoyan_cards/`。
+- 试点通过后再扩到 612 个真题出现词，最后再考虑 2100 个两年零频词。
+
+## 10. 禁止事项
+
+- 不要跳过 scene 卡直接写“儿童绘本风格”生图。
+- 不要把 anchor 写成生词本身、缩写、同义词或近义词。
+- 不要把后缀当成独立单词（如 serve + ice）。
+- 不要只画词的字面意思，必须画 anchor → word 的记忆桥。
+- 不要把字母/单词梗写成文字；用真实物体或形状表达。
+- 不要每张卡换画风参考图；固定一张 style ref，避免风格漂移。
+- 不要用参考图的内容/构图，只用它的画风。
+- 不要在画面里生成文字；文字由 Anki/App 叠加。
+- 不要在没有 QC 的情况下批量发布。
