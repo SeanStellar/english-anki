@@ -100,6 +100,18 @@ function readContent(name) {
   return contentCache.get(name);
 }
 
+function readBuiltinPayload() {
+  const manifest = readContent('decks.json');
+  const words = [];
+  for (const deck of Array.isArray(manifest?.decks) ? manifest.decks : []) {
+    const file = String(deck?.file || '');
+    if (!/^[A-Za-z0-9._-]+\.json$/.test(file)) continue;
+    const items = readContent(file);
+    if (Array.isArray(items)) words.push(...items);
+  }
+  return { manifest, words };
+}
+
 function renameWithRetry(from, to) {
   for (let attempt = 0; attempt < 6; attempt += 1) {
     try {
@@ -349,7 +361,7 @@ function readData() {
     },
     customWords: uniqueBy([...(legacy.customWords || []), ...(current.customWords || [])], item => item.id || item.word),
     customDecks: uniqueBy([...(legacy.customDecks || []), ...(current.customDecks || [])], item => item.id || item.name),
-    selectedDeck: legacy.selectedDeck || current.selectedDeck || 'hebei-3000',
+    selectedDeck: legacy.selectedDeck || current.selectedDeck || 'zhuanshengben-3000',
     createdAt: legacy.createdAt || current.createdAt,
     migration: { ...(current.migration || {}), legacyMergedAt: new Date().toISOString(), legacySource: 'mori-memory' }
   };
@@ -358,6 +370,7 @@ function readData() {
 }
 
 function writeData(data) {
+  if (!isLearningData(data)) throw new Error('学习记录格式无效，已取消保存');
   writeJsonAtomic(dataFile(), data);
   maybeAutoBackup();
   return true;
@@ -582,7 +595,7 @@ app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') app.quit();
 });
 
-ipcMain.handle('content:builtin-words', () => readContent('hebei-3000.json'));
+ipcMain.handle('content:builtin-words', () => readBuiltinPayload());
 ipcMain.handle('content:memory-release', () => readContent('memory-release.json'));
 ipcMain.handle('content:memory-stories', () => readContent('memory-stories.json'));
 ipcMain.handle('content:memory-story-overrides', () => readContent('memory-stories-v3-overrides.json'));
@@ -721,44 +734,6 @@ ipcMain.handle('data:export', async (_event, payload) => {
   if (result.canceled || !result.filePath) return false;
   fs.writeFileSync(result.filePath, JSON.stringify(payload, null, 2), 'utf8');
   return true;
-});
-
-function safeExportFileName(value) {
-  return String(value || '')
-    .replace(/[\\/:*?"<>|\u0000-\u001f]/g, '-')
-    .replace(/[. ]+$/g, '')
-    .replace(/\s+/g, ' ')
-    .slice(0, 80) || '英语-Anki-词库';
-}
-
-ipcMain.handle('data:export-apkg', async (_event, payload) => {
-  const deckName = typeof payload?.deckName === 'string' ? payload.deckName.trim() : '';
-  const cards = Array.isArray(payload?.cards) ? payload.cards : [];
-  if (!deckName || !cards.length) throw new Error('INVALID_APKG_EXPORT');
-  const fileName = `${safeExportFileName(deckName)}-${new Date().toISOString().slice(0, 10)}.apkg`;
-  const result = await dialog.showSaveDialog(mainWindow, {
-    title: '导出 Anki 词库包',
-    defaultPath: path.join(app.getPath('downloads'), fileName),
-    filters: [{ name: 'Anki 词库包', extensions: ['apkg'] }]
-  });
-  if (result.canceled || !result.filePath) return { ok: false, canceled: true };
-  const target = /\.apkg$/i.test(result.filePath) ? result.filePath : `${result.filePath}.apkg`;
-  const temp = `${target}.${process.pid}.tmp`;
-  try {
-    const { buildApkg } = require('./apkg-export');
-    const exported = await buildApkg({
-      deckName,
-      cards,
-      mediaDirectory: path.join(__dirname, 'renderer', 'assets', 'memory-scenes')
-    });
-    const { buffer, ...summary } = exported;
-    fs.writeFileSync(temp, buffer);
-    if (fs.existsSync(target)) fs.copyFileSync(temp, target);
-    else fs.renameSync(temp, target);
-    return { ok: true, ...summary, filePath: target };
-  } finally {
-    try { fs.rmSync(temp, { force: true }); } catch {}
-  }
 });
 ipcMain.on('app:flush-done', () => {
   if (!closeFlushPending) return;

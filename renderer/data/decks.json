@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "defaultDeck": "zhuanshengben-3000",
+  "decks": [
+    {
+      "id": "zhuanshengben-3000",
+      "name": "专升本英语 3000 词",
+      "short": "专升本 3000",
+      "desc": "高职英语课程标准附录 3000 词（通用版）",
+      "color": "#1da779",
+      "icon": "专",
+      "tier": null,
+      "file": "zhuanshengben-3000.json",
+      "tiers": [
+        {
+          "id": "zhuanshengben-3000-tier-0",
+          "name": "官方基础词",
+          "short": "官方基础",
+          "desc": "核心基础 · 2100 个词条",
+          "color": "#5474db",
+          "icon": "基",
+          "tier": 0
+        },
+        {
+          "id": "zhuanshengben-3000-tier-1",
+          "name": "基础模块词",
+          "short": "基础模块",
+          "desc": "重点强化 · 500 个词条",
+          "color": "#e69b55",
+          "icon": "重",
+          "tier": 1
+        },
+        {
+          "id": "zhuanshengben-3000-tier-2",
+          "name": "拓展模块词",
+          "short": "拓展模块",
+          "desc": "能力拔高 · 400 个词条",
+          "color": "#9a6cd4",
+          "icon": "拓",
+          "tier": 2
+        }
+      ]
+    }
+  ]
+}

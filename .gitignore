@@ -4,3 +4,11 @@ dist/
 *.tmp
 .DS_Store
 EnglishAnkiData/
+.backup/
+.verification/
+test-data/
+.test-data/
+.test-*.png
+.final-*.png
+.launch-*.log
+ea-dist/

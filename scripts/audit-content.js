@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 const dataDir = path.join(__dirname, '..', 'renderer', 'data');
-const words = JSON.parse(fs.readFileSync(path.join(dataDir, 'hebei-3000.json'), 'utf8'));
+const words = JSON.parse(fs.readFileSync(path.join(dataDir, 'zhuanshengben-3000.json'), 'utf8'));
 const base = new Map((JSON.parse(fs.readFileSync(path.join(dataDir, 'memory-stories.json'), 'utf8')).cards || []).map(card => [card.id, card]));
 const overrides = new Map((JSON.parse(fs.readFileSync(path.join(dataDir, 'memory-stories-v3-overrides.json'), 'utf8')).cards || []).map(card => [card.id, card]));
 

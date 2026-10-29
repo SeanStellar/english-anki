@@ -1,33 +1,21 @@
 {
   "name": "english-anki",
-  "version": "4.0.3",
+  "version": "4.1.0",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
   "license": "MIT",
   "scripts": {
-    "prestart": "node scripts/build-preload.js",
     "start": "electron .",
-    "start:dev": "electron . --dev",
-    "test": "node --test tests/*.test.js",
-    "test:e2e": "node scripts/build-preload.js && node tests/e2e.js",
-    "compact-data": "node scripts/compact-data.js",
-    "optimize-images": "node scripts/optimize-images.js",
-    "build:preload": "node scripts/build-preload.js",
-    "pack": "node scripts/build-preload.js && electron-builder --win --x64 --dir",
-    "dist": "node scripts/build-preload.js && electron-builder --win nsis portable --x64",
-    "audit:content": "node scripts/audit-content.js",
-    "audit:images": "node scripts/audit-images.js",
-    "apply:rewrites": "node scripts/apply-sentence-rewrites.js content/rewrites-2026-10-25.json",
-    "test:all": "npm test && npm run test:e2e"
+    "test": "node --test tests/*.test.cjs",
+    "test:integration": "node tests/electron-restore.integration.cjs",
+    "audit:vocabulary": "python tools/audit_vocabulary.py",
+    "pack": "electron-builder --win --x64 --dir",
+    "dist": "electron-builder --win nsis portable --x64"
   },
   "devDependencies": {
     "electron": "37.10.3",
-    "electron-builder": "26.18.0",
-    "esbuild": "^0.25.11",
-    "playwright-core": "^1.64.1",
-    "sharp": "^0.35.5",
-    "ts-fsrs": "^5.4.1"
+    "electron-builder": "26.18.0"
   },
   "build": {
     "appId": "com.englishanki.app",

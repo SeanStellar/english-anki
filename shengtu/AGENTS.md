@@ -210,7 +210,7 @@
 | `Photos/kaoyan_cards/` | 考研插图输出目录 |
 | `kaoyan_cards.json` | 考研 scene 卡（20 张试点） |
 | `ag_kaoyan_gen.py` | 考研生图主脚本（SenseNova A 路线） |
-| `ag_stable.py` | 主生图脚本（当前词源仍是河北专升本 JSON） |
+| `ag_stable.py` | 主生图脚本（当前词源为专升本 JSON） |
 | `ag_stable_config.py` | Provider / API Key；明文，勿提交、勿分享 |
 | `ag_local.py` | 本地 Z-Image Turbo 备选 |
 | `AGENTS.md` | 本文件 |

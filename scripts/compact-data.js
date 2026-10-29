@@ -4,7 +4,7 @@ const path = require('node:path');
 const dataDir = path.join(__dirname, '..', 'renderer', 'data');
 const overridesFile = path.join(dataDir, 'memory-stories-v3-overrides.json');
 const compactFiles = [
-  path.join(dataDir, 'hebei-3000.json'),
+  path.join(dataDir, 'zhuanshengben-3000.json'),
   path.join(dataDir, 'memory-stories.json')
 ];
 

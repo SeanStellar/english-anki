@@ -6,14 +6,18 @@ if (!window.englishAnki) {
     return { card: { ...(source || {}), due: due.toISOString(), stability: Math.max(.1, (source?.stability || .3) * (rating < 3 ? .7 : rating === 3 ? 2.5 : 4)), difficulty: source?.difficulty || 5, elapsed_days: 0, scheduled_days: days, reps: (source?.reps || 0) + 1, lapses: (source?.lapses || 0) + (rating === 1 ? 1 : 0), state: rating < 3 ? 1 : 2, last_review: now.toISOString() } };
   };
   window.englishAnki = {
-    loadBuiltinWords: () => fetch('./data/hebei-3000.json').then(response => response.json()),
+    loadBuiltinWords: async () => {
+      const manifest = await fetch('./data/decks.json').then(response => response.json());
+      const files = [...new Set((manifest.decks || []).map(deck => deck.file).filter(Boolean))];
+      const decks = await Promise.all(files.map(file => fetch(`./data/${file}`).then(response => response.json())));
+      return { manifest, words: decks.flat() };
+    },
     loadMemoryRelease: () => fetch('./data/memory-release.json').then(response => response.json()),
     loadMemoryStories: () => fetch('./data/memory-stories.json').then(response => response.json()),
     loadMemoryStoryOverrides: () => fetch('./data/memory-stories-v3-overrides.json').then(response => response.json()),
     loadData: () => Promise.resolve(JSON.parse(localStorage.getItem('english-anki-preview') || localStorage.getItem('mori-preview') || 'null')),
     saveData: data => { localStorage.setItem('english-anki-preview', JSON.stringify(data)); return Promise.resolve(true); },
     exportData: () => Promise.resolve(false),
-    exportApkg: () => Promise.resolve({ ok: false, canceled: true }),
     backupData: () => Promise.resolve(false),
     backupLocation: () => Promise.resolve({ directory: '浏览器预览模式', custom: false }),
     chooseBackupDirectory: () => Promise.resolve(null),
@@ -27,9 +31,9 @@ if (!window.englishAnki) {
     pullSyncData: () => Promise.resolve({ ok: false }),
     autoSyncData: () => Promise.resolve({ ok: true, action: 'disabled' }),
     setSyncAuto: () => Promise.resolve({ configured: false, state: 'disabled', auto: true }),
-    updateStatus: () => Promise.resolve({ currentVersion: '4.0.3', source: '', auto: true }),
-    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.0.3', source: preferences.source || '', auto: preferences.auto !== false }),
-    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.0.3', reason: 'no-source' }),
+    updateStatus: () => Promise.resolve({ currentVersion: '4.1.0', source: '', auto: true }),
+    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.1.0', source: preferences.source || '', auto: preferences.auto !== false }),
+    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.1.0', reason: 'no-source' }),
     openUpdateDownload: () => Promise.resolve(false),
     loadStudySession: () => Promise.resolve(null),
     saveStudySession: () => Promise.resolve(true),
@@ -44,12 +48,33 @@ const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 const DAY = 86_400_000;
 
-const deckDefinitions = [
-  { id: 'hebei-3000', name: '河北专升本英语 3000 词', short: '专升本 3000', desc: '高职英语课程标准附录全词表', color: '#1da779', icon: '河', tier: null },
-  { id: 'tier-0', name: '官方基础词', short: '官方基础', desc: '核心基础 · 2099 个词条', color: '#5474db', icon: '基', tier: 0 },
-  { id: 'tier-1', name: '基础模块词', short: '基础模块', desc: '重点强化 · 500 个词条', color: '#e69b55', icon: '重', tier: 1 },
-  { id: 'tier-2', name: '拓展模块词', short: '拓展模块', desc: '能力拔高 · 400 个词条', color: '#9a6cd4', icon: '拓', tier: 2 }
-];
+const FALLBACK_DECK_ID = 'zhuanshengben-3000';
+
+function fallbackDeckDefinition() {
+  return { id: FALLBACK_DECK_ID, name: '专升本英语 3000 词', short: '专升本 3000', desc: '高职英语课程标准附录 3000 词（通用版）', color: '#1da779', icon: '专', tier: null };
+}
+
+let activeDefaultDeckId = FALLBACK_DECK_ID;
+
+function defaultDeckId() {
+  return activeDefaultDeckId;
+}
+
+function deckDefinitionsFromManifest(manifest) {
+  const definitions = [];
+  for (const deck of Array.isArray(manifest?.decks) ? manifest.decks : []) {
+    if (!deck?.id) continue;
+    const { tiers, file, ...primary } = deck;
+    definitions.push({ ...primary, tier: primary.tier ?? null });
+    for (const tier of Array.isArray(tiers) ? tiers : []) {
+      if (!tier?.id || !Number.isInteger(Number(tier.tier))) continue;
+      definitions.push({ ...tier, parentDeck: deck.id, tier: Number(tier.tier) });
+    }
+  }
+  return definitions;
+}
+
+let deckDefinitions = [fallbackDeckDefinition()];
 
 const curated = {
   abandon: { memory: 'a + band + on：乐队不再演出，所有人“离开、抛弃”舞台', example: 'He had to <strong>abandon</strong> the plan.', zh: '他不得不放弃这个计划。', icon: '🚪' },
@@ -98,7 +123,7 @@ let releaseInfo = null;
 let memoryStories = new Map();
 let state;
 let currentRoute = 'home';
-let selectedDeck = 'hebei-3000';
+let selectedDeck = defaultDeckId();
 let libraryFilter = 'all';
 let libraryPage = 0;
 let editingDeckId = '';
@@ -138,7 +163,7 @@ let memoryGraph = {
   rotationX: -.14, rotationY: .22, zoom: 1, dragging: false, dragDistance: 0,
   lastX: 0, lastY: 0, hovered: null, frame: null, width: 0, height: 0, dpr: 1, lastDraw: 0,
   relations: [], history: [], autoRotate: true, onlyStrong: false, hoverX: 0, hoverY: 0,
-  searchResults: [], searchIndex: -1
+  searchResults: [], searchIndex: -1, panX: 0, panY: 0, physicsFrames: 0, nodesById: new Map(), positionDirtyIds: new Set()
 };
 let memoryResizeObserver;
 const wordTonePalette = ['#8974f6', '#3ea6ff', '#62d9bd', '#f078b2', '#ff9b69', '#b86ff3'];
@@ -164,8 +189,8 @@ function examStudyPlan(dateValue = state?.settings?.examDate || '') {
   if (!dateValue || !/^\d{4}-\d{2}-\d{2}$/.test(dateValue)) return null;
   const exam = new Date(`${dateValue}T23:59:59`);
   const days = Math.ceil((exam.getTime() - Date.now()) / DAY);
-  if (!Number.isFinite(days) || days < 1) return { expired: true, days: 0, remaining: newWords('hebei-3000').length, recommended: 0 };
-  const remaining = newWords('hebei-3000').length;
+  if (!Number.isFinite(days) || days < 1) return { expired: true, days: 0, remaining: newWords(defaultDeckId()).length, recommended: 0 };
+  const remaining = newWords(defaultDeckId()).length;
   const learningDays = Math.max(1, Math.floor(days * .8));
   const recommended = remaining ? Math.max(1, Math.min(1000, Math.ceil(remaining / learningDays))) : 0;
   return { expired: false, days, learningDays, remaining, recommended };
@@ -187,9 +212,10 @@ function updateExamPlanPreview() {
     button.disabled = true;
     return plan;
   }
+  const deckLabel = deckFor(defaultDeckId()).short || deckFor(defaultDeckId()).name;
   box.querySelector('p').textContent = plan.remaining
-    ? `距考试 ${plan.days} 天，内置 3000 词还剩 ${plan.remaining} 个新词。预留 20% 时间复习，建议每天新学 ${plan.recommended} 个。`
-    : `距考试 ${plan.days} 天，内置 3000 词的新词已经学完，保持到期复习即可。`;
+    ? `距考试 ${plan.days} 天，「${deckLabel}」还剩 ${plan.remaining} 个新词。预留 20% 时间复习，建议每天新学 ${plan.recommended} 个。`
+    : `距考试 ${plan.days} 天，「${deckLabel}」的新词已经学完，保持到期复习即可。`;
   button.disabled = !plan.recommended;
   return plan;
 }
@@ -223,7 +249,7 @@ function defaultState() {
     fsrsProfile: { weights: null, optimizedAt: '', calibrationScale: 1, sampleSize: 0, uniqueWords: 0 },
     customWords: [],
     customDecks: [],
-    selectedDeck: 'hebei-3000',
+    selectedDeck: defaultDeckId(),
     createdAt: new Date().toISOString()
   };
 }
@@ -265,16 +291,21 @@ function normalizeState(saved) {
 }
 
 function validImportedLearningData(data) {
-  return isPlainObject(data)
-    && [1, 2, 3, 4].includes(data.version)
-    && isPlainObject(data.settings)
-    && isPlainObject(data.cards)
-    && Array.isArray(data.logs)
-    && (data.customWords === undefined || Array.isArray(data.customWords))
-    && (data.customDecks === undefined || Array.isArray(data.customDecks))
-    && (data.cardIssues === undefined || Array.isArray(data.cardIssues))
-    && (data.wordOverrides === undefined || isPlainObject(data.wordOverrides))
-    && (data.cardFlags === undefined || isPlainObject(data.cardFlags));
+  if (!isPlainObject(data) || ![1, 2, 3, 4].includes(data.version)
+      || !isPlainObject(data.settings) || !isPlainObject(data.cards)
+      || !Array.isArray(data.logs) || !data.logs.every(isPlainObject)) return false;
+  for (const card of Object.values(data.cards)) {
+    if (!isPlainObject(card)) return false;
+    if (card.reps !== undefined && (!Number.isFinite(Number(card.reps)) || Number(card.reps) < 0)) return false;
+    if (Number(card.reps) > 0 && (card.due == null || card.due === '' || !Number.isFinite(new Date(card.due).getTime()))) return false;
+  }
+  for (const key of ['customWords', 'customDecks', 'cardIssues']) {
+    if (data[key] !== undefined && (!Array.isArray(data[key]) || !data[key].every(isPlainObject))) return false;
+  }
+  for (const key of ['wordOverrides', 'cardFlags', 'keywordStats', 'keywordProfile', 'fsrsProfile']) {
+    if (data[key] !== undefined && !isPlainObject(data[key])) return false;
+  }
+  return true;
 }
 
 function persist(touch = true) {
@@ -394,11 +425,11 @@ function wordIsAvailable(word) {
 }
 
 function deckFor(id) {
-  return allDecks().find(deck => deck.id === id) || deckDefinitions[0];
+  return allDecks().find(deck => deck.id === id) || deckDefinitions.find(deck => deck.id === defaultDeckId()) || deckDefinitions[0];
 }
 
 function resolvedSelectedDeckId() {
-  const next = allDecks().some(deck => deck.id === selectedDeck) ? selectedDeck : 'hebei-3000';
+  const next = allDecks().some(deck => deck.id === selectedDeck) ? selectedDeck : defaultDeckId();
   if (selectedDeck !== next) selectedDeck = next;
   if (state && state.selectedDeck !== next) state.selectedDeck = next;
   return next;
@@ -407,7 +438,7 @@ function resolvedSelectedDeckId() {
 function wordsForDeck(id) {
   const deck = deckFor(id);
   const source = allWords();
-  if (deck.tier !== null && deck.tier !== undefined) return source.filter(word => word.deckId === 'hebei-3000' && word.tier === deck.tier);
+  if (deck.tier !== null && deck.tier !== undefined) return source.filter(word => word.deckId === deck.parentDeck && word.tier === deck.tier);
   return source.filter(word => word.deckId === id);
 }
 
@@ -419,7 +450,7 @@ function wordStatus(word) {
   return 'learning';
 }
 
-function dueReviewWords(deckId = 'hebei-3000') {
+function dueReviewWords(deckId = defaultDeckId()) {
   const now = Date.now();
   return wordsForDeck(deckId)
     .filter(word => {
@@ -434,7 +465,7 @@ function dueReviewWords(deckId = 'hebei-3000') {
     .map(item => item.word);
 }
 
-function newWords(deckId = 'hebei-3000') {
+function newWords(deckId = defaultDeckId()) {
   return wordsForDeck(deckId).filter(word => wordIsAvailable(word) && !state.cards[word.id]?.reps);
 }
 
@@ -465,7 +496,7 @@ function personalStudyPace() {
   };
 }
 
-function planFor(deckId = 'hebei-3000') {
+function planFor(deckId = defaultDeckId()) {
   const logs = todayLogs();
   const reviewedIds = new Set(logs.map(log => log.wordId));
   const newDoneIds = new Set(logs.filter(log => log.isNew).map(log => log.wordId));
@@ -473,11 +504,15 @@ function planFor(deckId = 'hebei-3000') {
     .filter(log => !log.isNew && !newDoneIds.has(log.wordId))
     .map(log => log.wordId));
   const reviewDone = reviewDoneIds.size;
-  const allDue = dueReviewWords(deckId).filter(word => !reviewedIds.has(word.id));
+  // Due learning/relearning steps remain eligible even after a review today.
+  // They have already consumed their daily slot; only first reviews use another slot.
+  const allDue = dueReviewWords(deckId);
+  const repeatDue = allDue.filter(word => reviewedIds.has(word.id));
+  const firstDue = allDue.filter(word => !reviewedIds.has(word.id));
   const reviewLimit = state.settings.dailyReview === -1
-    ? allDue.length
+    ? firstDue.length
     : Math.max(0, Number(state.settings.dailyReview || 0) - reviewDone);
-  const reviews = allDue.slice(0, reviewLimit);
+  const reviews = [...repeatDue, ...firstDue.slice(0, reviewLimit)];
   const allFresh = newWords(deckId).filter(word => !reviewedIds.has(word.id));
   const configuredNew = state.settings.dailyNew === -1 ? allFresh.length : Math.max(0, Number(state.settings.dailyNew || 0) - newDoneIds.size);
   const targetNew = Math.min(allFresh.length, configuredNew);
@@ -500,6 +535,10 @@ function planFor(deckId = 'hebei-3000') {
     targetNew,
     effectiveNew: fresh.length,
     deferredNew: Math.max(0, targetNew - fresh.length),
+    freshTotal: allFresh.length,
+    newQuotaDeferred: Math.max(0, allFresh.length - targetNew),
+    reviewDeferred: Math.max(0, firstDue.length - reviewLimit),
+    repeatDue: repeatDue.length,
     overdue,
     dueTotal: allDue.length,
     spentMinutes: Math.round(spentSeconds / 60),
@@ -522,8 +561,9 @@ function route(name, options = {}) {
   if (name !== 'memory' && memoryGraph.frame) { cancelAnimationFrame(memoryGraph.frame); memoryGraph.frame = null; }
   $$('.view').forEach(view => view.classList.toggle('active', view.dataset.view === name));
   $$('[data-route]').forEach(button => button.classList.toggle('active', button.dataset.route === name));
-  const labels = { home: '今日计划', study: '沉浸学习', memory: '记忆星图', library: '词库管理', stats: '学习统计' };
+  const labels = { 'study-select': '选择词单', home: '今日计划', study: '沉浸学习', memory: '记忆星图', library: '词库管理', stats: '学习统计' };
   $('#routeLabel').textContent = labels[name];
+  if (name === 'study-select') renderStudyDeckChoices();
   if (name === 'home') renderHome();
   if (name === 'library') { libraryPage = 0; renderLibrary(); }
   if (name === 'stats') renderStats();
@@ -547,7 +587,10 @@ function renderHome() {
   const plan = planFor(homeDeckId);
   const logs = todayLogs();
   const deckWordIds = new Set(wordsForDeck(homeDeckId).map(word => word.id));
-  const uniqueDone = new Set(logs.filter(log => deckWordIds.has(log.wordId)).map(log => log.wordId)).size;
+  const deckLogs = logs.filter(log => deckWordIds.has(log.wordId));
+  const doneNewIds = new Set(deckLogs.filter(log => log.isNew).map(log => log.wordId));
+  const doneReviewIds = new Set(deckLogs.filter(log => !log.isNew && !doneNewIds.has(log.wordId)).map(log => log.wordId));
+  const uniqueDone = new Set(deckLogs.map(log => log.wordId)).size;
   const total = uniqueDone + plan.queue.length;
   const progress = total ? Math.round(uniqueDone / total * 100) : 100;
   const due = plan.queue.length;
@@ -555,11 +598,15 @@ function renderHome() {
   const greeting = hour < 11 ? '早上好' : hour < 18 ? '下午好' : '晚上好';
   const date = new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' }).format(new Date());
   $('#dateLabel').textContent = date.toUpperCase();
-  $('#greeting').textContent = `${greeting}，今天也要让单词留下来。`;
+  $('#greeting').textContent = `${greeting}！`;
+  $('#homeDeckLabel').textContent = `· ${deckFor(homeDeckId).short || deckFor(homeDeckId).name}`;
   $('#heroDue').textContent = due;
   $('#dueBadge').textContent = due > 99 ? '99+' : due;
   $('#planNew').textContent = plan.fresh.length;
   $('#planReview').textContent = plan.reviews.length;
+  $('#planNewDone').textContent = doneNewIds.size;
+  $('#planReviewDone').textContent = doneReviewIds.size;
+  $('#planRemaining').textContent = due;
   $('#planPercent').textContent = `${progress}%`;
   $('#planRing').style.setProperty('--value', `${progress * 3.6}deg`);
   $('#estimatedMinutes').textContent = plan.meta.estimateMinutes;
@@ -581,7 +628,8 @@ function renderHome() {
   if (examHome) {
     const showExamPlan = examPlan && !examPlan.expired;
     examHome.hidden = !showExamPlan;
-    if (showExamPlan) examHome.textContent = examPlan.remaining ? `考试倒计时 ${examPlan.days} 天 · 内置 3000 词建议每日新学 ${examPlan.recommended} 个` : `考试倒计时 ${examPlan.days} 天 · 内置 3000 词已完成`;
+    const deckLabel = deckFor(defaultDeckId()).short || deckFor(defaultDeckId()).name;
+    if (showExamPlan) examHome.textContent = examPlan.remaining ? `考试倒计时 ${examPlan.days} 天 · 「${deckLabel}」建议每日新学 ${examPlan.recommended} 个` : `考试倒计时 ${examPlan.days} 天 · 「${deckLabel}」已完成`;
   }
   renderWeek();
   renderDeckCards();
@@ -595,6 +643,23 @@ function renderWeek() {
     const done = active.has(todayKey(date));
     return `<span class="week-day ${done ? 'done' : ''}"><i>${done ? '✓' : ''}</i>${labels[date.getDay()]}</span>`;
   }).join('');
+}
+
+function renderStudyDeckChoices() {
+  const container = $('#studyDeckChoices');
+  const choice = (deck, kind) => {
+    const list = wordsForDeck(deck.id);
+    const learned = list.filter(word => state.cards[word.id]?.reps).length;
+    const percent = list.length ? Math.min(100, Math.round(learned / list.length * 100)) : 0;
+    const main = kind === 'study-choice-main';
+    return `<article class="study-choice ${kind}"><div class="study-choice-content"><h2>${escapeHtml(deck.name)}</h2><div class="study-choice-count"><span>已学 <strong>${learned.toLocaleString()}</strong> / ${list.length.toLocaleString()}</span><span>${percent}%</span></div><div class="study-choice-progress" role="progressbar" aria-label="${escapeHtml(deck.name)}学习进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${percent}"><span style="width:${percent}%"></span></div></div><button class="${main ? 'primary-button' : 'secondary-button'} study-choice-button" data-start-deck="${escapeHtml(deck.id)}" aria-label="${main ? '学习全部词汇' : '开始学习'}：${escapeHtml(deck.name)}">${main ? '学习全部词汇' : '开始学习'} <span aria-hidden="true">→</span></button></article>`;
+  };
+  const parents = deckDefinitions.filter(deck => !deck.parentDeck);
+  container.innerHTML = parents.map(parent => {
+    const children = deckDefinitions.filter(deck => deck.parentDeck === parent.id);
+    return `<section class="study-book"><div class="study-book-label">完整词书</div>${choice(parent, 'study-choice-main')}${children.length ? `<div class="study-subheading"><strong>按模块学习</strong><span>以下词单包含在上方词书中，学习进度共享</span></div><div class="study-subdecks">${children.map(deck => choice(deck, 'study-choice-sub')).join('')}</div>` : ''}</section>`;
+  }).join('') + (state.customDecks.length ? `<section class="study-book"><div class="study-book-label">自建词书</div><div class="study-subdecks">${state.customDecks.map(deck => choice(deck, 'study-choice-sub')).join('')}</div></section>` : '');
+  container.querySelectorAll('[data-start-deck]').forEach(button => button.addEventListener('click', () => route('study', { deckId: button.dataset.startDeck })));
 }
 
 function homeDeckList() {
@@ -611,12 +676,12 @@ function renderDeckCards() {
     const learned = deckWords.filter(word => state.cards[word.id]?.reps).length;
     const pct = deckWords.length ? Math.round(learned / deckWords.length * 100) : 0;
     const active = deck.id === activeId;
-    return `<button class="deck-card ${active ? 'is-selected' : ''}" style="--deck:${escapeHtml(deck.color)}" data-deck="${escapeHtml(deck.id)}" aria-pressed="${active}"><div class="deck-top"><span class="deck-icon">${escapeHtml(deck.icon)}</span><span>${pct}% 已学习${active ? ' · 当前' : ''}</span></div><h3>${escapeHtml(deck.name)}</h3><p>${learned.toLocaleString()} / ${deckWords.length.toLocaleString()} 个词条</p><div class="deck-progress"><i style="width:${pct}%"></i></div></button>`;
+    return `<button class="deck-card ${active ? 'is-selected' : ''}" style="--deck:${escapeHtml(deck.color)}" data-deck="${escapeHtml(deck.id)}" aria-pressed="${active}"><span class="deck-icon">${escapeHtml(deck.icon)}</span><span class="home-deck-info"><strong class="home-deck-name">${escapeHtml(deck.name)}</strong><span class="home-deck-size">${deckWords.length.toLocaleString()} 个词条${active ? ' · 当前' : ''}</span><span class="home-deck-bottom"><span class="deck-progress"><i style="width:${pct}%"></i></span><span class="home-deck-percent">${pct}% 已学</span></span></span><span class="home-deck-chevron" aria-hidden="true">›</span></button>`;
   }).join('');
-  $$('.deck-card').forEach(card => card.addEventListener('click', () => route('study', { deckId: card.dataset.deck })));
+  $$('.deck-card').forEach(card => card.addEventListener('click', () => route('study-select')));
 }
 
-function startStudy(deckId = 'hebei-3000', preferredWordId = '') {
+function startStudy(deckId = defaultDeckId(), preferredWordId = '') {
   clearTimeout(studyAdvanceTimer);
   currentStudyMode = 'normal';
   currentStudyLabel = '';
@@ -632,7 +697,7 @@ function startStudy(deckId = 'hebei-3000', preferredWordId = '') {
     if (preferred) studyQueue = [preferred, ...studyQueue.filter(word => word.id !== preferred.id)];
   }
   const reviewIds = new Set(plan.reviews.map(word => word.id));
-  studyQueueKinds = new Map(studyQueue.map(word => [word.id, reviewIds.has(word.id) ? 'review' : 'new']));
+  studyQueueKinds = new Map(studyQueue.map(word => [word.id, reviewIds.has(word.id) || state.cards[word.id]?.reps ? 'review' : 'new']));
   initialQueueSize = studyQueue.length;
   currentStudyIndex = 0;
   $('#studyDeckLabel').textContent = deckFor(deckId).name;
@@ -782,6 +847,18 @@ async function maybeStartStudy(deckId, wordId) {
   startStudy(deck, wordId);
 }
 
+function describeEmptyStudy(plan, completedCount) {
+  const reasons = [];
+  if (plan.meta.reviewDeferred) reasons.push(`还有 ${plan.meta.reviewDeferred} 张到期卡因每日复习上限暂未安排`);
+  if (plan.meta.newQuotaDeferred) reasons.push(`还有 ${plan.meta.newQuotaDeferred} 个新词受每日新词上限影响`);
+  if (plan.meta.deferredNew) reasons.push(`还有 ${plan.meta.deferredNew} 个新词受时间预算或负荷保护影响`);
+  if (plan.queue.length) reasons.push(`目前另有 ${plan.queue.length} 张卡可以继续学习`);
+  return {
+    title: completedCount ? '本轮学习完成' : '当前没有安排学习卡片',
+    detail: reasons.length ? `${reasons.join('；')}。` : '当前词单暂时没有可安排的卡片，到期后会自动加入复习。'
+  };
+}
+
 function showCurrentCard() {
   updateUndoControl();
   updateStudyRhythm();
@@ -789,8 +866,11 @@ function showCurrentCard() {
     $('#wordCard').style.display = 'none';
     $('#reviewActions').style.display = 'none';
     $('#studyEmpty').classList.add('show');
+    const message = describeEmptyStudy(planFor(selectedDeck), initialQueueSize);
+    $('#studyEmpty h2').textContent = message.title;
+    $('#studyEmpty p').textContent = message.detail;
     $('#studyProgressText').textContent = `${initialQueueSize} / ${initialQueueSize}`;
-    $('#studyProgressBar').style.width = '100%';
+    $('#studyProgressBar').style.width = initialQueueSize ? '100%' : '0%';
     renderHome();
     return;
   }
@@ -1821,8 +1901,8 @@ function strongMemoryRelations(focus) {
   const curatedNames = new Set(relatedWordsFor(focus).map(item => String(item).toLowerCase()));
   const focusPairs = memoryMeaningPairs(focus.meaning);
   const focusSound = soundSkeleton(key);
-  return words
-    .filter(candidate => candidate.id !== focus.id && String(candidate.word || '').length >= 2)
+  return allWords()
+    .filter(candidate => state.cards[candidate.id]?.reps > 0 && candidate.id !== focus.id && String(candidate.word || '').length >= 2)
     .map(candidate => {
       const candidateLabel = String(candidate.word || '').toLowerCase();
       const candidateKey = candidateLabel.replace(/[^a-z]/g, '');
@@ -1887,69 +1967,72 @@ function sampleMemoryWords(focus, relations) {
 }
 
 function buildMemoryGraph(focus) {
-  const relations = strongMemoryRelations(focus);
-  const relationIds = new Set(relations.map(relation => relation.word.id));
-  const relationMeta = new Map(relations.map(relation => [relation.word.id, relation]));
-  const source = sampleMemoryWords(focus, relations);
-  const focusCategory = memoryCategoryFor(focus).id;
-  const categoryCounts = new Map();
+  const source = allWords().filter(word => state.cards[word.id]?.reps > 0);
+  const previousNodes = new Map(memoryGraph.nodes.map(node => [node.id, node]));
+  const graphChanged = source.length !== previousNodes.size || source.some(word => !previousNodes.has(word.id));
   const nodes = source.map(word => {
-    const category = memoryCategoryFor(word);
-    const categoryIndex = memoryCategories.findIndex(item => item.id === category.id);
-    const localIndex = categoryCounts.get(category.id) || 0;
-    categoryCounts.set(category.id, localIndex + 1);
-    const angle = categoryIndex / memoryCategories.length * Math.PI * 2;
-    const isFocusCluster = category.id === focusCategory;
-    const centerRadius = isFocusCluster ? 55 : 235;
-    const centerX = Math.cos(angle) * centerRadius;
-    const centerY = Math.sin(angle * 1.7) * (isFocusCluster ? 35 : 125);
-    const centerZ = Math.sin(angle) * (isFocusCluster ? 50 : 185);
-    const spread = isFocusCluster ? 92 : 76;
-    return {
-      id: word.id, word, category, relation: relationIds.has(word.id), relationType: relationMeta.get(word.id)?.type || '', focus: word.id === focus.id,
-      learned: Boolean(state.cards[word.id]?.reps),
-      x: centerX + (hashUnit(word.word, 1) - .5) * spread * 2,
-      y: centerY + (hashUnit(word.word, 2) - .5) * spread * 1.45,
-      z: centerZ + (hashUnit(word.word, 3) - .5) * spread * 2
-    };
+    const key = String(word.word || '').toLowerCase().replace(/[^a-z]/g, '');
+    // Include en- word families such as enable/able; this remains a heuristic.
+    const stem = key.startsWith('en') && key.length >= 6 ? relatedStem(key.slice(2)) : relatedStem(key);
+    const anchor = stem.length >= 4 ? stem : word.id;
+    const card = state.cards[word.id];
+    const status = wordStatus(word) === 'mastered' ? 'mastered' : card.reps <= 1 ? 'fresh' : 'learning';
+    const stored = isPlainObject(state.settings.memoryNodePositions) ? state.settings.memoryNodePositions[word.id] : null;
+    const previous = previousNodes.get(word.id);
+    return { id: word.id, word, key, stem, status, category: memoryCategoryFor(word), learned: true,
+      x: previous?.x ?? (Number.isFinite(stored?.x) ? stored.x : (hashUnit(anchor, 101) - .5) * 2600 + (hashUnit(word.id, 201) - .5) * 65),
+      y: previous?.y ?? (Number.isFinite(stored?.y) ? stored.y : (hashUnit(anchor, 102) - .5) * 2000 + (hashUnit(word.id, 202) - .5) * 65),
+      vx: previous?.vx || 0, vy: previous?.vy || 0 };
   });
   const byId = new Map(nodes.map(node => [node.id, node]));
-  const focusNode = byId.get(focus.id);
-  Object.assign(focusNode, { x: 0, y: 0, z: 20 });
-  relations.forEach((relation, index) => {
-    const node = byId.get(relation.word.id);
-    if (!node) return;
-    const angle = index / Math.max(1, relations.length) * Math.PI * 2;
-    const radius = 88 + (index % 2) * 26;
-    Object.assign(node, { x: Math.cos(angle) * radius, y: Math.sin(angle) * radius * .7, z: 20 + (index % 2 ? 42 : -30) });
-  });
-  const edges = [];
-  const groups = new Map();
-  nodes.forEach(node => { if (!groups.has(node.category.id)) groups.set(node.category.id, []); groups.get(node.category.id).push(node); });
-  const edgeKeys = new Set();
-  groups.forEach(group => group.forEach(node => {
-    group
-      .filter(candidate => candidate.id !== node.id)
-      .map(candidate => ({ candidate, distance: Math.hypot(node.x - candidate.x, node.y - candidate.y, node.z - candidate.z) }))
-      .sort((left, right) => left.distance - right.distance)
-      .slice(0, 2)
-      .forEach(({ candidate }, index) => {
-        if (node.focus || candidate.focus) return;
-        const key = [node.id, candidate.id].sort().join('|');
-        if (edgeKeys.has(key)) return;
-        edgeKeys.add(key);
-        edges.push({ from: node.id, to: candidate.id, strength: index ? .055 : .09 });
-      });
-  }));
-  relations.forEach(relation => { if (byId.has(relation.word.id)) edges.push({ from: focus.id, to: relation.word.id, strength: 1 }); });
-  memoryGraph.nodes = nodes;
-  memoryGraph.edges = edges;
-  memoryGraph.focusWord = focus;
-  memoryGraph.strongIds = relationIds;
-  memoryGraph.relations = relations;
-  memoryGraph.hovered = null;
-  hideMemoryHoverCard();
-  updateMemoryFocusPanel();
+  const byWord = new Map();
+  const stems = new Map();
+  for (const node of nodes) {
+    if (!byWord.has(node.key)) byWord.set(node.key, []);
+    byWord.get(node.key).push(node);
+    if (node.stem.length >= 4) {
+      if (!stems.has(node.stem)) stems.set(node.stem, []);
+      stems.get(node.stem).push(node);
+    }
+  }
+  const edges = [], edgeKeys = new Set();
+  function link(a, b, type) {
+    if (a.id === b.id || a.key === b.key) return;
+    const key = [a.id, b.id].sort().join('|');
+    if (edgeKeys.has(key)) return;
+    edgeKeys.add(key); edges.push({ from: a.id, to: b.id, type });
+  }
+  for (const node of nodes) {
+    for (const name of curatedRelatedWords[node.key] || []) {
+      const targetKey = name.toLowerCase().replace(/[^a-z]/g, '');
+      for (const target of byWord.get(targetKey) || []) link(node, target, '精选关联');
+    }
+  }
+  // Reuse reviewed mnemonic anchors only when their written forms actually overlap.
+  for (const node of nodes) {
+    const story = memoryStories.get(node.id);
+    const anchor = String(story?.anchor || '').toLowerCase().replace(/[^a-z]/g, '');
+    if (story?.review?.relationStrong !== true || anchor.length < 3 || node.key.length < 3) continue;
+    if (!node.key.includes(anchor) && !anchor.includes(node.key)) continue;
+    for (const target of byWord.get(anchor) || []) link(node, target, '词形记忆锚点');
+  }
+  for (const group of stems.values()) {
+    for (let i = 0; i < group.length; i++) {
+      for (let j = i + 1; j < group.length; j++) link(group[i], group[j], '词干相同（自动推测）');
+    }
+  }
+  const relations = [];
+  for (const edge of edges) {
+    const target = edge.from === focus.id ? edge.to : edge.to === focus.id ? edge.from : null;
+    if (target && byId.has(target)) relations.push({ word: byId.get(target).word, type: edge.type });
+  }
+  const relationIds = new Set(relations.map(relation => relation.word.id));
+  const meta = new Map(relations.map(relation => [relation.word.id, relation.type]));
+  nodes.forEach(node => { node.focus = node.id === focus.id; node.relation = relationIds.has(node.id); node.relationType = meta.get(node.id) || ''; });
+  memoryGraph.nodes = nodes; memoryGraph.nodesById = byId; memoryGraph.edges = edges; memoryGraph.focusWord = focus;
+  if (graphChanged) memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 110);
+  memoryGraph.strongIds = relationIds; memoryGraph.relations = relations; memoryGraph.hovered = null;
+  hideMemoryHoverCard(); updateMemoryFocusPanel(); requestMemoryDraw();
 }
 
 function renderMemoryWall() {
@@ -1979,13 +2062,13 @@ function updateMemoryFocusPanel() {
   const progress = state.cards[focus.id];
   $('#memoryFocusState').textContent = progress?.reps ? `已复习 ${progress.reps} 次` : '未学习';
   $('#memoryFocusCategory').textContent = `#${memoryCategoryFor(focus).label}`;
-  $('#memoryRelationCount').textContent = `${memoryGraph.relations.length} 个强关联`;
+  $('#memoryRelationCount').textContent = `${memoryGraph.relations.length} 个关联`;
   $('#memoryFocusLinks').innerHTML = memoryGraph.relations.length
     ? memoryGraph.relations.map(relation => {
-      const type = relation.type.replace('关联', '').replace('人工精选', '精选');
+      const type = relation.type;
       return `<button type="button" data-memory-word-id="${escapeHtml(relation.word.id)}" title="${escapeHtml(relation.word.meaning || '')}"><span>${escapeHtml(relation.word.word)}</span><small>${escapeHtml(type)}</small></button>`;
     }).join('')
-    : '<p class="memory-empty-relations">暂未找到足够可靠的强关联词，可用搜索继续探索。</p>';
+    : '<p class="memory-empty-relations">已学词中暂未找到词形关联。</p>';
   $('#memoryBackBtn').disabled = memoryGraph.history.length === 0;
   updateMemoryGraphHud();
 }
@@ -1998,8 +2081,9 @@ function memoryVisibleNodes() {
 function updateMemoryGraphHud() {
   const visible = memoryVisibleNodes();
   $('#memoryVisibleCount').textContent = visible.length;
+  $('#memoryCountLabel').textContent = memoryGraph.onlyStrong ? `个显示节点（共 ${memoryGraph.nodes.length} 个已学）` : '个已学节点';
   $('#memoryStrongCount').textContent = memoryGraph.relations.length;
-  $('#memoryCanvas').setAttribute('aria-label', `${memoryGraph.focusWord?.word || '当前词'} 的记忆星图，显示 ${visible.length} 个单词节点和 ${memoryGraph.relations.length} 个强关联词`);
+  $('#memoryCanvas').setAttribute('aria-label', `${memoryGraph.focusWord?.word || '当前词'} 的二维关系图，显示 ${visible.length} 个已学节点和 ${memoryGraph.relations.length} 个关联词`);
   $('#memoryRotateBtn').classList.toggle('is-active', memoryGraph.autoRotate);
   $('#memoryRotateBtn').setAttribute('aria-pressed', String(memoryGraph.autoRotate));
   $('#memoryFocusModeBtn').classList.toggle('is-active', memoryGraph.onlyStrong);
@@ -2008,19 +2092,30 @@ function updateMemoryGraphHud() {
 }
 
 function renderMemory(preferredWordId = '') {
-  if (!words.length) return;
-  renderMemoryWall();
-  const currentStudyWord = studyQueue[currentStudyIndex];
-  const focus = words.find(word => word.id === preferredWordId)
-    || currentStudyWord
-    || words.find(word => word.word.toLowerCase() === 'able')
-    || words[0];
+  const learned = allWords().filter(word => state.cards[word.id]?.reps > 0);
+  const wall = $('#memoryCardWall');
+  if (wall) wall.innerHTML = '';
+  $('#memoryEmpty').hidden = learned.length > 0;
+  $('#memoryFocusPanel').hidden = learned.length === 0;
   memoryGraph.history = [];
-  buildMemoryGraph(focus);
-  $('#memorySearch').value = focus.word;
-  hideMemorySearchResults();
+  memoryGraph.onlyStrong = false;
+  if (!learned.length) {
+    memoryGraph.nodes = []; memoryGraph.nodesById = new Map(); memoryGraph.edges = []; memoryGraph.relations = []; memoryGraph.focusWord = null; memoryGraph.physicsFrames = 0;
+    $('#memorySearch').value = '';
+    hideMemorySearchResults();
+    updateMemoryGraphHud();
+  } else {
+    const currentStudyWord = studyQueue[currentStudyIndex];
+    const focus = learned.find(word => word.id === preferredWordId)
+      || learned.find(word => word.id === currentStudyWord?.id)
+      || learned[0];
+    buildMemoryGraph(focus);
+    $('#memorySearch').value = focus.word;
+    hideMemorySearchResults();
+  }
   resizeMemoryCanvas();
-  if (!memoryGraph.frame) memoryGraph.frame = requestAnimationFrame(drawMemoryFrame);
+  resetMemoryCamera();
+  requestMemoryDraw();
 }
 
 function resizeMemoryCanvas() {
@@ -2034,22 +2129,28 @@ function resizeMemoryCanvas() {
     canvas.width = Math.round(width * dpr); canvas.height = Math.round(height * dpr);
   }
   memoryGraph.width = width; memoryGraph.height = height; memoryGraph.dpr = dpr;
+  requestMemoryDraw();
 }
 
+function memoryGraphViewport() {
+  const canvas = $('#memoryCanvas').getBoundingClientRect();
+  const panel = $('#memoryFocusPanel');
+  const rect = panel.hidden ? null : panel.getBoundingClientRect();
+  let left = 0, top = 0;
+  if (rect && rect.width && rect.height) {
+    if (rect.width < canvas.width * .6) left = Math.min(canvas.width * .48, Math.max(0, rect.right - canvas.left + 18));
+    else top = Math.min(canvas.height * .55, Math.max(0, rect.bottom - canvas.top + 18));
+  }
+  return { left, top, width: Math.max(1, memoryGraph.width - left), height: Math.max(1, memoryGraph.height - top), centerX: (memoryGraph.width + left) / 2, centerY: (memoryGraph.height + top) / 2 };
+}
 function projectMemoryNode(node) {
-  const cosY = Math.cos(memoryGraph.rotationY); const sinY = Math.sin(memoryGraph.rotationY);
-  const cosX = Math.cos(memoryGraph.rotationX); const sinX = Math.sin(memoryGraph.rotationX);
-  const x1 = node.x * cosY - node.z * sinY;
-  const z1 = node.x * sinY + node.z * cosY;
-  const y1 = node.y * cosX - z1 * sinX;
-  const z2 = node.y * sinX + z1 * cosX;
-  const camera = 720;
-  const perspective = camera / Math.max(260, camera + z2);
-  const scale = Math.min(memoryGraph.width, memoryGraph.height) / 620 * memoryGraph.zoom;
-  const compact = memoryGraph.width < 900;
-  const centerX = memoryGraph.width * (compact ? .5 : .61);
-  const centerY = memoryGraph.height * (compact ? .63 : .53);
-  return { node, x: centerX + x1 * perspective * scale, y: centerY + y1 * perspective * scale, z: z2, perspective };
+  const viewport = memoryGraph.viewport || memoryGraphViewport();
+  return { node, x: viewport.centerX + memoryGraph.panX + node.x * memoryGraph.zoom,
+    y: viewport.centerY + memoryGraph.panY + node.y * memoryGraph.zoom, z: 0, perspective: 1 };
+}
+
+function requestMemoryDraw() {
+  if (currentRoute === 'memory' && !memoryGraph.frame) memoryGraph.frame = requestAnimationFrame(drawMemoryFrame);
 }
 
 function fitMemoryLabel(context, label, maxWidth) {
@@ -2097,103 +2198,136 @@ function drawNodeLabel(context, point, occupied, active = false) {
   context.restore();
 }
 
-function drawMemoryFrame(time = 0) {
+// Nearby-node spatial buckets keep repulsion bounded as the vocabulary grows.
+function stepMemoryPhysics() {
+  const nodes = memoryGraph.nodes;
+  if (!nodes.length) { memoryGraph.physicsFrames = 0; return; }
+  const cellSize = 100, grid = new Map();
+  for (const node of nodes) {
+    const x = Math.floor(node.x / cellSize), y = Math.floor(node.y / cellSize), key = `${x},${y}`;
+    if (!grid.has(key)) grid.set(key, []);
+    grid.get(key).push(node);
+  }
+  for (const node of nodes) {
+    let fx = 0, fy = 0, compared = 0;
+    const gx = Math.floor(node.x / cellSize), gy = Math.floor(node.y / cellSize);
+    for (let ox = -1; ox <= 1 && compared < 24; ox++) for (let oy = -1; oy <= 1 && compared < 24; oy++) {
+      for (const other of grid.get(`${gx + ox},${gy + oy}`) || []) {
+        if (other === node) continue;
+        let dx = node.x - other.x, dy = node.y - other.y, dist2 = dx * dx + dy * dy;
+        if (dist2 < .01) { dx = (hashUnit(node.id, 10) - .5) || .1; dy = (hashUnit(node.id, 11) - .5) || .1; dist2 = dx * dx + dy * dy; }
+        if (dist2 > 10000) continue;
+        const dist = Math.sqrt(dist2), force = Math.min(2.5, (100 - dist) * .028);
+        fx += dx / dist * force; fy += dy / dist * force;
+        if (++compared >= 24) break;
+      }
+    }
+    node.vx = (node.vx || 0) + fx; node.vy = (node.vy || 0) + fy;
+  }
+  for (const edge of memoryGraph.edges) {
+    const a = memoryGraph.nodesById.get(edge.from), b = memoryGraph.nodesById.get(edge.to);
+    if (!a || !b) continue;
+    const dx = b.x - a.x, dy = b.y - a.y, distance = Math.hypot(dx, dy) || 1;
+    const force = Math.max(-4, Math.min(4, (distance - 95) * .024));
+    const fx = dx / distance * force, fy = dy / distance * force;
+    a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
+  }
+  for (const node of nodes) {
+    if (node === memoryGraph.dragNode && memoryGraph.dragging) { node.vx = 0; node.vy = 0; continue; }
+    node.vx = Math.max(-12, Math.min(12, node.vx * .76));
+    node.vy = Math.max(-12, Math.min(12, node.vy * .76));
+    node.x += node.vx; node.y += node.vy;
+  }
+  memoryGraph.physicsFrames = Math.max(0, memoryGraph.physicsFrames - 1);
+}
+
+function drawMemoryFrame() {
   memoryGraph.frame = null;
   if (currentRoute !== 'memory') return;
-  const frameInterval = performanceProfile.lite ? 40 : 24;
-  if (memoryGraph.lastDraw && time - memoryGraph.lastDraw < frameInterval) {
-    memoryGraph.frame = requestAnimationFrame(drawMemoryFrame);
-    return;
-  }
-  memoryGraph.lastDraw = time;
-  const canvas = $('#memoryCanvas'); const context = canvas.getContext('2d');
+  if (memoryGraph.physicsFrames > 0) stepMemoryPhysics();
+  const canvas = $('#memoryCanvas'), context = canvas.getContext('2d');
   context.setTransform(memoryGraph.dpr, 0, 0, memoryGraph.dpr, 0, 0);
   context.clearRect(0, 0, memoryGraph.width, memoryGraph.height);
-  if (memoryGraph.autoRotate && !memoryGraph.dragging && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) memoryGraph.rotationY += .00042;
-  const visibleIds = new Set(memoryVisibleNodes().map(node => node.id));
-  const projected = memoryGraph.nodes.filter(node => visibleIds.has(node.id)).map(projectMemoryNode);
+  memoryGraph.viewport = memoryGraphViewport();
+  const nodes = memoryVisibleNodes();
+  const allPoints = new Map(nodes.map(node => [node.id, projectMemoryNode(node)]));
+  const margin = 35;
+  const onScreen = point => point.x >= -margin && point.x <= memoryGraph.width + margin && point.y >= -margin && point.y <= memoryGraph.height + margin;
+  const projected = [...allPoints.values()].filter(onScreen);
   memoryGraph.projected = projected;
-  const points = new Map(projected.map(point => [point.node.id, point]));
   context.lineCap = 'round';
-  const focusPoint = points.get(memoryGraph.focusWord?.id);
-  if (focusPoint) {
-    context.save();
-    const halo = context.createRadialGradient(focusPoint.x, focusPoint.y, 3, focusPoint.x, focusPoint.y, 112 * memoryGraph.zoom);
-    halo.addColorStop(0, 'rgba(102,229,194,.12)');
-    halo.addColorStop(.45, 'rgba(55,184,157,.05)');
-    halo.addColorStop(1, 'rgba(55,184,157,0)');
-    context.fillStyle = halo;
-    context.beginPath(); context.arc(focusPoint.x, focusPoint.y, 112 * memoryGraph.zoom, 0, Math.PI * 2); context.fill();
-    context.setLineDash([4, 9]);
-    context.strokeStyle = 'rgba(112,225,198,.09)';
-    context.lineWidth = 1;
-    context.beginPath(); context.ellipse(focusPoint.x, focusPoint.y, 120 * memoryGraph.zoom, 62 * memoryGraph.zoom, -.16, 0, Math.PI * 2); context.stroke();
-    context.restore();
-  }
-  let strongEdgeIndex = 0;
   for (const edge of memoryGraph.edges) {
-    const from = points.get(edge.from); const to = points.get(edge.to); if (!from || !to) continue;
-    const strong = edge.strength === 1;
+    const from = allPoints.get(edge.from), to = allPoints.get(edge.to);
+    if (!from || !to) continue;
+    if (Math.max(from.x, to.x) < 0 || Math.min(from.x, to.x) > memoryGraph.width || Math.max(from.y, to.y) < 0 || Math.min(from.y, to.y) > memoryGraph.height) continue;
+    const highlighted = edge.from === memoryGraph.focusWord?.id || edge.to === memoryGraph.focusWord?.id;
     context.beginPath(); context.moveTo(from.x, from.y); context.lineTo(to.x, to.y);
-    context.strokeStyle = strong ? `rgba(125,237,204,${.31 + Math.sin(time / 680) * .055})` : `rgba(75,139,136,${edge.strength})`;
-    context.lineWidth = strong ? 1.55 : .6; context.stroke();
-    if (strong && !performanceProfile.lite) {
-      const travel = (time / 2200 + strongEdgeIndex * .17) % 1;
-      const x = from.x + (to.x - from.x) * travel; const y = from.y + (to.y - from.y) * travel;
-      context.save(); context.fillStyle = 'rgba(175,255,224,.82)'; context.shadowBlur = 11; context.shadowColor = '#71e3c5';
-      context.beginPath(); context.arc(x, y, 1.8, 0, Math.PI * 2); context.fill(); context.restore();
-      strongEdgeIndex += 1;
-    }
+    context.strokeStyle = highlighted ? 'rgba(130,229,204,.7)' : 'rgba(111,157,153,.26)';
+    context.lineWidth = highlighted ? 1.5 : .8; context.stroke();
   }
-  projected.sort((left, right) => right.z - left.z).forEach(point => {
-    const node = point.node;
-    const active = node.focus; const related = node.relation; const hovered = memoryGraph.hovered === node.id;
-    const radius = (active ? 7.2 : related ? 4.1 : node.learned ? 2.6 : 1.75) * Math.max(.55, point.perspective);
-    context.save();
-    context.shadowBlur = performanceProfile.lite ? (active ? 16 : related ? 8 : 0) : (active ? 30 : related ? 18 : 8);
-    context.shadowColor = active ? '#c8ff78' : related ? '#73e8ca' : '#3e9b91';
-    context.fillStyle = active ? '#d8ff78' : related ? '#83eed0' : node.learned ? '#60cbb4' : `rgba(85,154,148,${Math.max(.26, .72 - point.z / 620)})`;
-    context.beginPath(); context.arc(point.x, point.y, radius + (hovered ? 2 : 0), 0, Math.PI * 2); context.fill();
-    if (active) {
-      context.strokeStyle = 'rgba(226,255,178,.68)'; context.lineWidth = 1.4;
-      context.beginPath(); context.arc(point.x, point.y, radius + 7 + Math.sin(time / 420) * 1.8, 0, Math.PI * 2); context.stroke();
-      context.strokeStyle = 'rgba(134,236,207,.16)'; context.beginPath(); context.arc(point.x, point.y, radius + 15, 0, Math.PI * 2); context.stroke();
-    }
-    context.restore();
-  });
+  const colors = { fresh: '#7bb8ff', learning: '#54d2ba', mastered: '#efc66a' };
+  for (const point of projected) {
+    const node = point.node, active = node.focus;
+    context.beginPath(); context.fillStyle = colors[node.status];
+    context.arc(point.x, point.y, active ? 7 : 4, 0, Math.PI * 2); context.fill();
+    if (active) { context.strokeStyle = '#fff'; context.lineWidth = 2; context.beginPath(); context.arc(point.x, point.y, 11, 0, Math.PI * 2); context.stroke(); }
+  }
   const occupied = [];
-  projected
-    .filter(point => point.node.focus || point.node.relation || memoryGraph.hovered === point.node.id)
-    .sort((left, right) => Number(right.node.focus) - Number(left.node.focus) || Number(right.node.relation) - Number(left.node.relation))
-    .slice(0, 8)
-    .forEach(point => drawNodeLabel(context, point, occupied, point.node.focus));
-  memoryGraph.frame = requestAnimationFrame(drawMemoryFrame);
+  const labels = projected.filter(point => point.node.focus || point.node.id === memoryGraph.hovered || point.node.relation || memoryGraph.zoom >= .55 || projected.length <= 35)
+    .sort((a, b) => Number(b.node.focus) - Number(a.node.focus) || Number(b.node.id === memoryGraph.hovered) - Number(a.node.id === memoryGraph.hovered) || Number(b.node.relation) - Number(a.node.relation)).slice(0, 120);
+  for (const point of labels) drawNodeLabel(context, point, occupied, point.node.focus);
+  if (memoryGraph.physicsFrames > 0) requestMemoryDraw();
+  else if (memoryGraph.positionDirtyIds.size && !memoryGraph.dragging) {
+    if (!isPlainObject(state.settings.memoryNodePositions)) state.settings.memoryNodePositions = {};
+    for (const id of memoryGraph.positionDirtyIds) {
+      const node = memoryGraph.nodesById.get(id);
+      if (node) state.settings.memoryNodePositions[id] = { x: node.x, y: node.y };
+    }
+    memoryGraph.positionDirtyIds.clear(); persist();
+  }
 }
 
 function focusMemoryWord(word, options = {}) {
-  if (!word) return;
+  if (!word || !state.cards[word.id]?.reps) return;
   const previous = memoryGraph.focusWord;
   if (options.pushHistory !== false && previous && previous.id !== word.id) {
     memoryGraph.history.push(previous.id);
     memoryGraph.history = memoryGraph.history.slice(-20);
   }
   buildMemoryGraph(word);
+  const node = memoryGraph.nodes.find(item => item.id === word.id);
+  if (node) { memoryGraph.panX = -node.x * memoryGraph.zoom; memoryGraph.panY = -node.y * memoryGraph.zoom; }
+  requestMemoryDraw();
   $('#memorySearch').value = word.word;
   hideMemorySearchResults();
 }
 
 function resetMemoryCamera() {
-  memoryGraph.rotationX = -.14; memoryGraph.rotationY = .22; memoryGraph.zoom = 1;
-  hideMemoryHoverCard();
+  const nodes = memoryGraph.nodes;
+  if (!nodes.length) { memoryGraph.zoom = 1; memoryGraph.panX = 0; memoryGraph.panY = 0; requestMemoryDraw(); return; }
+  const xs = nodes.map(node => node.x), ys = nodes.map(node => node.y);
+  const minX = Math.min(...xs), maxX = Math.max(...xs), minY = Math.min(...ys), maxY = Math.max(...ys);
+  const viewport = memoryGraph.viewport = memoryGraphViewport();
+  const width = Math.max(100, viewport.width - 80), height = Math.max(100, viewport.height - 100);
+  memoryGraph.zoom = Math.min(1.4, Math.max(.08, Math.min(width / Math.max(200, maxX - minX), height / Math.max(200, maxY - minY))));
+  memoryGraph.panX = -(minX + maxX) / 2 * memoryGraph.zoom;
+  memoryGraph.panY = -(minY + maxY) / 2 * memoryGraph.zoom;
+  hideMemoryHoverCard(); requestMemoryDraw();
 }
 
-function changeMemoryZoom(factor) {
-  memoryGraph.zoom = Math.max(.62, Math.min(2.2, memoryGraph.zoom * factor));
+function changeMemoryZoom(factor, x = (memoryGraph.viewport || memoryGraphViewport()).centerX, y = (memoryGraph.viewport || memoryGraphViewport()).centerY) {
+  const before = memoryGraph.zoom;
+  const next = Math.max(.08, Math.min(5, before * factor));
+  const viewport = memoryGraph.viewport || memoryGraphViewport();
+  const dx = x - viewport.centerX, dy = y - viewport.centerY;
+  memoryGraph.panX = dx - (dx - memoryGraph.panX) * next / before;
+  memoryGraph.panY = dy - (dy - memoryGraph.panY) * next / before;
+  memoryGraph.zoom = next; requestMemoryDraw();
 }
 
 function goBackMemoryWord() {
   const previousId = memoryGraph.history.pop();
-  const previous = words.find(word => word.id === previousId);
+  const previous = allWords().find(word => word.id === previousId);
   if (previous) focusMemoryWord(previous, { pushHistory: false });
   else updateMemoryFocusPanel();
 }
@@ -2221,7 +2355,7 @@ function hideMemoryHoverCard() {
 function memorySearchMatches(query) {
   const source = String(query || '').trim().toLowerCase();
   if (!source) return [];
-  return words
+  return allWords().filter(word => state.cards[word.id]?.reps > 0)
     .map(word => {
       const label = String(word.word || '').toLowerCase();
       const phonetic = String(word.phonetic || '').toLowerCase();
@@ -2249,7 +2383,7 @@ function renderMemorySearchResults(query) {
   if (!String(query || '').trim()) return hideMemorySearchResults();
   results.innerHTML = memoryGraph.searchResults.length
     ? memoryGraph.searchResults.map((word, index) => `<button class="memory-search-result${index === 0 ? ' is-selected' : ''}" type="button" role="option" aria-selected="${index === 0}" data-memory-search-id="${escapeHtml(word.id)}"><strong>${escapeHtml(word.word)}</strong><em>${escapeHtml(word.phonetic || '/ — /')}</em><small>${escapeHtml(shortMeaning(word.meaning))}</small></button>`).join('')
-    : '<p class="memory-search-empty">没有匹配结果，试试英文词头或中文含义。</p>';
+    : '<p class="memory-search-empty">已学词中没有匹配结果。</p>';
   results.hidden = false;
   input.setAttribute('aria-expanded', 'true');
 }
@@ -2280,52 +2414,80 @@ function hideMemorySearchResults() {
 
 function bindMemoryInteractions() {
   const canvas = $('#memoryCanvas');
+  function nodeAt(x, y) {
+    let nearest = null, distance = Infinity;
+    for (const point of memoryGraph.projected) {
+      const d = Math.hypot(point.x - x, point.y - y);
+      if (d <= (point.node.focus ? 15 : 11) && d < distance) { nearest = point.node; distance = d; }
+    }
+    return nearest;
+  }
   canvas.addEventListener('pointerdown', event => {
-    memoryGraph.dragging = true; memoryGraph.dragDistance = 0; memoryGraph.lastX = event.clientX; memoryGraph.lastY = event.clientY;
-    hideMemoryHoverCard();
-    canvas.classList.add('dragging'); canvas.setPointerCapture(event.pointerId);
+    if (event.button !== 0) return;
+    const rect = canvas.getBoundingClientRect();
+    const node = nodeAt(event.clientX - rect.left, event.clientY - rect.top);
+    memoryGraph.dragging = true; memoryGraph.dragDistance = 0;
+    memoryGraph.dragStartX = event.clientX; memoryGraph.dragStartY = event.clientY;
+    memoryGraph.dragNode = node;
+    memoryGraph.dragOriginalX = node ? node.x : memoryGraph.panX;
+    memoryGraph.dragOriginalY = node ? node.y : memoryGraph.panY;
+    memoryGraph.hovered = node?.id || null;
+    hideMemoryHoverCard(); canvas.classList.add('dragging'); canvas.setPointerCapture(event.pointerId);
   });
   canvas.addEventListener('pointermove', event => {
     if (memoryGraph.dragging) {
-      const dx = event.clientX - memoryGraph.lastX; const dy = event.clientY - memoryGraph.lastY;
-      memoryGraph.rotationY += dx * .006; memoryGraph.rotationX = Math.max(-1.1, Math.min(1.1, memoryGraph.rotationX + dy * .005));
-      memoryGraph.dragDistance += Math.abs(dx) + Math.abs(dy); memoryGraph.lastX = event.clientX; memoryGraph.lastY = event.clientY;
+      const dx = event.clientX - memoryGraph.dragStartX, dy = event.clientY - memoryGraph.dragStartY;
+      memoryGraph.dragDistance = Math.max(memoryGraph.dragDistance, Math.hypot(dx, dy));
+      if (memoryGraph.dragDistance > 4) {
+        if (memoryGraph.dragNode) {
+          memoryGraph.dragNode.x = memoryGraph.dragOriginalX + dx / memoryGraph.zoom;
+          memoryGraph.dragNode.y = memoryGraph.dragOriginalY + dy / memoryGraph.zoom;
+          memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 75);
+        } else {
+          memoryGraph.panX = memoryGraph.dragOriginalX + dx; memoryGraph.panY = memoryGraph.dragOriginalY + dy;
+        }
+        requestMemoryDraw();
+      }
       return;
     }
-    const rect = canvas.getBoundingClientRect(); const x = event.clientX - rect.left; const y = event.clientY - rect.top;
-    let nearestId = null; let nearestDistance = Infinity;
-    for (const point of memoryGraph.projected) {
-      const distance = Math.hypot(point.x - x, point.y - y);
-      const hitRadius = point.node.focus ? 26 : point.node.relation ? 22 : 16;
-      if (distance > hitRadius || distance >= nearestDistance) continue;
-      nearestDistance = distance; nearestId = point.node.id;
-    }
-    if (memoryGraph.hovered !== nearestId) {
-      memoryGraph.hovered = nearestId;
-      const node = memoryGraph.nodes.find(item => item.id === nearestId);
-      if (node) showMemoryHoverCard(node, x, y); else hideMemoryHoverCard();
-    } else if (nearestId) {
-      const node = memoryGraph.nodes.find(item => item.id === nearestId);
-      showMemoryHoverCard(node, x, y);
-    }
+    const rect = canvas.getBoundingClientRect(), x = event.clientX - rect.left, y = event.clientY - rect.top;
+    const node = nodeAt(x, y), nearestId = node?.id || null;
+    canvas.classList.toggle('over-node', !!node);
+    if (memoryGraph.hovered !== nearestId) { memoryGraph.hovered = nearestId; requestMemoryDraw(); }
+    if (node) showMemoryHoverCard(node, x, y); else hideMemoryHoverCard();
   });
-  const release = event => { if (!memoryGraph.dragging) return; memoryGraph.dragging = false; canvas.classList.remove('dragging'); if (canvas.hasPointerCapture(event.pointerId)) canvas.releasePointerCapture(event.pointerId); };
+  const release = event => {
+    if (!memoryGraph.dragging) return;
+    const node = memoryGraph.dragNode;
+    if (node && memoryGraph.dragDistance > 4) {
+      if (event.type === 'pointercancel') { node.x = memoryGraph.dragOriginalX; node.y = memoryGraph.dragOriginalY; requestMemoryDraw(); }
+      else {
+        if (!isPlainObject(state.settings.memoryNodePositions)) state.settings.memoryNodePositions = {};
+        state.settings.memoryNodePositions[node.id] = { x: node.x, y: node.y };
+        memoryGraph.positionDirtyIds.add(node.id);
+        memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 75);
+        requestMemoryDraw();
+        persist();
+      }
+    }
+    memoryGraph.dragging = false; memoryGraph.dragNode = null; canvas.classList.remove('dragging');
+    if (canvas.hasPointerCapture(event.pointerId)) canvas.releasePointerCapture(event.pointerId);
+  };
   canvas.addEventListener('pointerup', release); canvas.addEventListener('pointercancel', release);
-  canvas.addEventListener('click', () => { if (memoryGraph.dragDistance > 8 || !memoryGraph.hovered) return; focusMemoryWord(memoryGraph.nodes.find(node => node.id === memoryGraph.hovered)?.word); });
-  canvas.addEventListener('pointerleave', () => { if (!memoryGraph.dragging) { memoryGraph.hovered = null; hideMemoryHoverCard(); } });
-  canvas.addEventListener('wheel', event => { event.preventDefault(); changeMemoryZoom(event.deltaY > 0 ? .9 : 1.1); }, { passive: false });
+  canvas.addEventListener('click', () => { if (memoryGraph.dragDistance > 4 || !memoryGraph.hovered) return; focusMemoryWord(memoryGraph.nodes.find(node => node.id === memoryGraph.hovered)?.word); });
+  canvas.addEventListener('pointerleave', () => { if (!memoryGraph.dragging) { memoryGraph.hovered = null; hideMemoryHoverCard(); requestMemoryDraw(); } });
+  canvas.addEventListener('wheel', event => { event.preventDefault(); const rect = canvas.getBoundingClientRect(); changeMemoryZoom(event.deltaY > 0 ? .9 : 1.1, event.clientX - rect.left, event.clientY - rect.top); }, { passive: false });
   canvas.addEventListener('dblclick', resetMemoryCamera);
   canvas.addEventListener('keydown', event => {
     if (event.key === '+' || event.key === '=') changeMemoryZoom(1.12);
     else if (event.key === '-') changeMemoryZoom(.88);
     else if (event.key === '0') resetMemoryCamera();
-    else if (event.key === ' ') { memoryGraph.autoRotate = !memoryGraph.autoRotate; updateMemoryGraphHud(); }
-    else if (event.key === 'ArrowLeft') memoryGraph.rotationY -= .09;
-    else if (event.key === 'ArrowRight') memoryGraph.rotationY += .09;
-    else if (event.key === 'ArrowUp') memoryGraph.rotationX = Math.max(-1.1, memoryGraph.rotationX - .08);
-    else if (event.key === 'ArrowDown') memoryGraph.rotationX = Math.min(1.1, memoryGraph.rotationX + .08);
+    else if (event.key === 'ArrowLeft') memoryGraph.panX += 30;
+    else if (event.key === 'ArrowRight') memoryGraph.panX -= 30;
+    else if (event.key === 'ArrowUp') memoryGraph.panY += 30;
+    else if (event.key === 'ArrowDown') memoryGraph.panY -= 30;
     else return;
-    event.preventDefault();
+    event.preventDefault(); requestMemoryDraw();
   });
   memoryResizeObserver = new ResizeObserver(resizeMemoryCanvas); memoryResizeObserver.observe(canvas);
 }
@@ -2370,7 +2532,6 @@ function renderLibrary() {
   const isCustomDeck = state.customDecks.some(item => item.id === selectedDeck);
   $('#addWordBtn').disabled = !isCustomDeck;
   $('#exportDeckBtn').disabled = !isCustomDeck || !wordsForDeck(selectedDeck).length;
-  $('#exportApkgBtn').disabled = !wordsForDeck(selectedDeck).length;
   const openIssues = state.cardIssues.filter(issue => issue.status !== 'resolved').length;
   $('#issueCenterCount').textContent = String(openIssues);
   $('#issueCenterBtn').classList.toggle('has-issues', openIssues > 0);
@@ -2451,46 +2612,6 @@ function exportSelectedDeck() {
   link.click();
   URL.revokeObjectURL(link.href);
   toast(`已导出「${deck.name}」的 ${rows.length} 个单词`);
-}
-
-function apkgCardForWord(word) {
-  const story = memoryStories.get(word.id);
-  return {
-    id: word.id,
-    word: word.word,
-    phonetic: word.phonetic || '',
-    pos: word.pos || '',
-    meaning: word.meaning || '',
-    anchor: story?.anchor || '',
-    anchorMeaning: story?.anchorMeaning || '',
-    story: story?.sentence || '',
-    example: word.example || '',
-    translation: word.zh || '',
-    memory: word.memory || story?.review?.reason || '',
-    imageId: word.deckId === 'hebei-3000' ? word.id : ''
-  };
-}
-
-async function exportSelectedDeckApkg() {
-  const deck = deckFor(selectedDeck);
-  const deckWords = wordsForDeck(selectedDeck);
-  if (!deckWords.length) return toast('这个词库还没有单词');
-  const button = $('#exportApkgBtn');
-  const label = button.textContent;
-  button.disabled = true;
-  button.textContent = '生成中…';
-  try {
-    toast(`正在生成「${deck.short || deck.name}」的 Anki 词库包…`);
-    const result = await window.englishAnki.exportApkg({ deckName: deck.name, cards: deckWords.map(apkgCardForWord) });
-    if (result?.canceled) return;
-    if (!result?.ok) throw new Error('export-failed');
-    toast(`已导出 ${result.noteCount} 张卡片${result.missingMedia ? `，${result.missingMedia} 张缺图` : ''}`);
-  } catch {
-    toast('Anki 词库包导出失败，请检查磁盘空间后重试');
-  } finally {
-    button.disabled = false;
-    button.textContent = label;
-  }
 }
 
 function renderImportTargets() {
@@ -3241,7 +3362,7 @@ async function renderBackupList() {
     const data = await window.englishAnki.restoreBackup(button.dataset.restore);
     if (!data) { toast('恢复失败：备份文件无效或当前数据备份失败'); return; }
     state = normalizeState(data);
-    selectedDeck = state.selectedDeck || 'hebei-3000';
+    selectedDeck = state.selectedDeck || defaultDeckId();
     relatedVocabularyIndex = null;
     relatedWordCache.clear();
     keywordFamiliarityCache.clear();
@@ -3297,7 +3418,7 @@ async function renderSyncStatus(provided) {
 function applyPulledSyncData(result) {
   if (!result?.data) return;
   state = normalizeState(result.data);
-  selectedDeck = state.selectedDeck || 'hebei-3000';
+  selectedDeck = state.selectedDeck || defaultDeckId();
   relatedVocabularyIndex = null;
   relatedWordCache.clear();
   keywordFamiliarityCache.clear();
@@ -3366,8 +3487,8 @@ function bindEvents() {
     studyCard.style.setProperty('--word-shadow-x', `${(.5 - x) * 18}px`);
     studyCard.style.setProperty('--word-shadow-y', `${(.5 - y) * 12}px`);
   };
-  $$('[data-route]').forEach(button => button.addEventListener('click', () => route(button.dataset.route)));
-  $('#startStudyBtn').addEventListener('click', () => route('study', { deckId: resolvedSelectedDeckId() }));
+  $$('[data-route]').forEach(button => button.addEventListener('click', () => route(button.dataset.route === 'study' ? 'study-select' : button.dataset.route)));
+  $('#startStudyBtn').addEventListener('click', () => route('study-select'));
   $('#exitStudyBtn').addEventListener('click', () => route('home'));
   $('#cardToolsBtn').addEventListener('click', () => openCardActions());
   studyCard.addEventListener('pointerenter', () => {
@@ -3437,14 +3558,14 @@ function bindEvents() {
     memoryGraph.onlyStrong = !memoryGraph.onlyStrong;
     memoryGraph.hovered = null;
     hideMemoryHoverCard();
-    updateMemoryGraphHud();
+    updateMemoryGraphHud(); requestMemoryDraw();
   });
   $('#memoryBackBtn').addEventListener('click', goBackMemoryWord);
   $('#memorySpeakBtn').addEventListener('click', () => memoryGraph.focusWord && speak(memoryGraph.focusWord.word));
   $('#memoryFocusLinks').addEventListener('click', event => {
     const button = event.target.closest('[data-memory-word-id]');
     if (!button) return;
-    focusMemoryWord(words.find(word => word.id === button.dataset.memoryWordId));
+    focusMemoryWord(allWords().find(word => word.id === button.dataset.memoryWordId));
   });
   $('#memorySearch').addEventListener('input', event => renderMemorySearchResults(event.currentTarget.value));
   $('#memorySearch').addEventListener('focus', event => {
@@ -3462,7 +3583,7 @@ function bindEvents() {
   $('#memorySearchResults').addEventListener('click', event => {
     const button = event.target.closest('[data-memory-search-id]');
     if (!button) return;
-    chooseMemorySearchResult(words.find(word => word.id === button.dataset.memorySearchId));
+    chooseMemorySearchResult(allWords().find(word => word.id === button.dataset.memorySearchId));
   });
   document.addEventListener('pointerdown', event => { if (!event.target.closest('.memory-search-shell')) hideMemorySearchResults(); });
   $('#memoryStudyBtn').addEventListener('click', () => {
@@ -3554,7 +3675,6 @@ function bindEvents() {
   $('#dismissLibraryGuideBtn').addEventListener('click', () => { state.settings.libraryOnboardingSeen = true; persist(); renderLibraryGuide(); });
   $('#addWordBtn').addEventListener('click', () => openNewWordEditor(selectedDeck));
   $('#exportDeckBtn').addEventListener('click', exportSelectedDeck);
-  $('#exportApkgBtn').addEventListener('click', exportSelectedDeckApkg);
   $('#issueCenterBtn').addEventListener('click', openIssueCenter);
   $$('#issueFilters button').forEach(button => button.addEventListener('click', () => { currentIssueFilter = button.dataset.issueFilter; renderIssueCenter(); }));
   $('#createDeckBtn').addEventListener('click', () => {
@@ -3647,7 +3767,7 @@ function bindEvents() {
     state.customWords = state.customWords.filter(word => word.deckId !== deck.id);
     state.customDecks = state.customDecks.filter(item => item.id !== deck.id);
     removeLearningDataForWordIds(ids);
-    selectedDeck = 'hebei-3000';
+    selectedDeck = defaultDeckId();
     state.selectedDeck = selectedDeck;
     persist();
     closeModals();
@@ -3802,7 +3922,7 @@ function bindEvents() {
     if (!await window.englishAnki.backupData()) return toast('备份失败，已取消清除学习记录');
     const settings = state.settings;
     state = { ...defaultState(), settings };
-    selectedDeck = 'hebei-3000';
+    selectedDeck = defaultDeckId();
     state.selectedDeck = selectedDeck;
     relatedVocabularyIndex = null;
     relatedWordCache.clear();
@@ -3829,7 +3949,7 @@ function bindEvents() {
       if (!confirm('导入将覆盖当前学习记录，是否继续？（建议先手动备份）')) return;
       if (!await window.englishAnki.backupData()) return toast('备份失败，已取消导入');
       state = normalizeState(data);
-      selectedDeck = state.selectedDeck || 'hebei-3000';
+      selectedDeck = state.selectedDeck || defaultDeckId();
       relatedVocabularyIndex = null;
       relatedWordCache.clear();
       keywordFamiliarityCache.clear();
@@ -3979,22 +4099,33 @@ function bindEvents() {
 }
 
 async function init() {
-  const [builtinWords, releasePayload, storyPayload, overridePayload] = await Promise.all([
+  const [builtinPayload, releasePayload, storyPayload, overridePayload] = await Promise.all([
     window.englishAnki.loadBuiltinWords(),
     window.englishAnki.loadMemoryRelease(),
     window.englishAnki.loadMemoryStories(),
     window.englishAnki.loadMemoryStoryOverrides()
   ]);
+  const manifest = builtinPayload?.manifest || {};
+  const builtinWords = Array.isArray(builtinPayload?.words)
+    ? builtinPayload.words
+    : (Array.isArray(builtinPayload) ? builtinPayload : []);
+  const definitions = deckDefinitionsFromManifest(manifest);
+  if (definitions.length) deckDefinitions = definitions;
+  const mainDecks = deckDefinitions.filter(deck => deck.tier === null);
+  activeDefaultDeckId = mainDecks.some(deck => deck.id === manifest.defaultDeck)
+    ? manifest.defaultDeck
+    : (mainDecks[0]?.id || FALLBACK_DECK_ID);
   releaseInfo = releasePayload || {};
   // 词库不再按审核数量截断：3000 词全部可查看，
   // 未配插画的卡片由 story-image-error 占位降级展示。
   words = builtinWords;
-  deckDefinitions[0] = {
-    ...deckDefinitions[0],
-    name: releaseInfo.title || deckDefinitions[0].name,
-    short: releaseInfo.shortTitle || deckDefinitions[0].short,
-    desc: releaseInfo.description || deckDefinitions[0].desc
-  };
+  const primaryDeck = deckDefinitions.find(deck => deck.id === defaultDeckId()) || deckDefinitions[0];
+  const releaseDeck = deckDefinitions.find(deck => deck.id === (releaseInfo.deckId || primaryDeck?.id)) || primaryDeck;
+  if (releaseDeck) {
+    releaseDeck.name = releaseInfo.title || releaseDeck.name;
+    releaseDeck.short = releaseInfo.shortTitle || releaseDeck.short;
+    releaseDeck.desc = releaseInfo.description || releaseDeck.desc;
+  }
   const baseStories = new Map((storyPayload?.cards || []).map(story => [story.id, story]));
   const overrides = new Map((overridePayload?.cards || []).map(story => [story.id, story]));
   memoryStories = new Map(words.map(sourceWord => {
@@ -4009,7 +4140,7 @@ async function init() {
       scene: { ...(story.scene || {}), ...(override.scene || {}) },
       review: { ...(story.review || {}), ...(override.review || {}) }
     };
-    // The 河北 3000-word list is the canonical index and spelling source.
+    // 内置词表是词形和顺序的权威来源。
     merged.id = sourceWord.id;
     merged.word = sourceWord.word;
     return [merged.id, merged];
@@ -4025,7 +4156,7 @@ async function init() {
     if (syncResult?.data) state = normalizeState(syncResult.data);
     if (syncResult?.action === 'conflict') setTimeout(() => toast('云端与本机数据都已变化，请到设置中选择保留哪一份'), 700);
   } catch {}
-  selectedDeck = state.selectedDeck || 'hebei-3000';
+  selectedDeck = state.selectedDeck || defaultDeckId();
   window.englishAnki.onBeforeClose?.(() => {
     clearTimeout(saveTimer);
     Promise.resolve(window.englishAnki.saveData(state))

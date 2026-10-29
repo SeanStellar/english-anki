@@ -1,68 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none">
-  <defs>
-    <linearGradient id="base" x1="168" y1="112" x2="872" y2="920" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#071A2B"/>
-      <stop offset="0.48" stop-color="#07584F"/>
-      <stop offset="1" stop-color="#10A873"/>
-    </linearGradient>
-    <linearGradient id="rim" x1="158" y1="108" x2="844" y2="910" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#90FFE1" stop-opacity="0.72"/>
-      <stop offset="0.45" stop-color="#52DAB0" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#D7FF6A" stop-opacity="0.48"/>
-    </linearGradient>
-    <linearGradient id="leftPage" x1="258" y1="368" x2="526" y2="758" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F7FFF9"/>
-      <stop offset="1" stop-color="#B9F5DC"/>
-    </linearGradient>
-    <linearGradient id="rightPage" x1="518" y1="344" x2="790" y2="756" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#DDFBEF"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(512 478) rotate(90) scale(410)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6AFFC7" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#6AFFC7" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="outerShadow" x="0" y="8" width="1024" height="1030" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#031710" flood-opacity="0.34"/>
-    </filter>
-    <filter id="bookShadow" x="183" y="292" width="672" height="550" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#001A19" flood-opacity="0.38"/>
-    </filter>
-    <filter id="starGlow" x="654" y="174" width="234" height="234" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-  </defs>
-
-  <g filter="url(#outerShadow)">
-    <rect x="48" y="48" width="928" height="928" rx="224" fill="url(#base)"/>
-    <rect x="60" y="60" width="904" height="904" rx="212" stroke="url(#rim)" stroke-width="24"/>
-  </g>
-  <circle cx="512" cy="478" r="410" fill="url(#glow)"/>
-  <path d="M168 294C258 163 400 116 551 138" stroke="#9CFFE1" stroke-opacity="0.18" stroke-width="28" stroke-linecap="round"/>
-  <path d="M856 715C799 833 687 893 570 902" stroke="#D7FF6A" stroke-opacity="0.16" stroke-width="30" stroke-linecap="round"/>
-
-  <g filter="url(#starGlow)" opacity="0.56">
-    <path d="M772 212C785 254 807 276 850 289C807 301 785 324 772 366C760 324 737 301 695 289C737 276 760 254 772 212Z" fill="#DFFF79"/>
-  </g>
-  <path d="M772 213C784 255 807 277 849 289C807 302 784 324 772 366C759 324 737 302 695 289C737 277 759 255 772 213Z" fill="#E6FF83"/>
-  <circle cx="688" cy="214" r="16" fill="#9EFFE0"/>
-
-  <g filter="url(#bookShadow)">
-    <path d="M506 407C429 345 334 323 236 346C214 351 198 371 198 394V690C198 718 224 739 251 732C350 706 433 725 506 782V407Z" fill="url(#leftPage)"/>
-    <path d="M518 407C595 345 690 323 788 346C810 351 826 371 826 394V690C826 718 800 739 773 732C674 706 591 725 518 782V407Z" fill="url(#rightPage)"/>
-    <path d="M506 407C429 345 334 323 236 346V692C340 665 430 687 506 746V407Z" fill="#E9FFF4" fill-opacity="0.54"/>
-    <path d="M518 407C595 345 690 323 788 346V692C684 665 594 687 518 746V407Z" fill="#FFFFFF" fill-opacity="0.34"/>
-    <path d="M512 406V775" stroke="#8CDBC0" stroke-width="18" stroke-linecap="round"/>
-    <path d="M518 419C594 360 683 343 771 361" stroke="white" stroke-opacity="0.86" stroke-width="12" stroke-linecap="round"/>
-  </g>
-
-  <path d="M650 354L650 609L710 574L770 609V352C730 348 690 348 650 354Z" fill="#D8FF68"/>
-  <path d="M650 354C690 348 730 348 770 352V383C730 378 690 378 650 384V354Z" fill="#F1FFB0"/>
-  <path d="M276 450C337 436 392 444 444 471" stroke="#65CDAA" stroke-width="24" stroke-linecap="round"/>
-  <path d="M276 520C337 506 392 514 444 541" stroke="#65CDAA" stroke-opacity="0.74" stroke-width="24" stroke-linecap="round"/>
-  <path d="M276 590C332 578 382 584 428 606" stroke="#65CDAA" stroke-opacity="0.48" stroke-width="24" stroke-linecap="round"/>
-  <path d="M570 476C598 455 623 442 650 433" stroke="#5BC6A4" stroke-opacity="0.5" stroke-width="22" stroke-linecap="round"/>
-  <path d="M570 548C597 527 623 513 650 504" stroke="#5BC6A4" stroke-opacity="0.36" stroke-width="22" stroke-linecap="round"/>
-
-  <path d="M302 786C400 758 465 781 512 822C559 781 624 758 722 786" stroke="#B8FFE8" stroke-opacity="0.3" stroke-width="18" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+ <defs>
+  <linearGradient id="bg" x1="12" y1="4" x2="116" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#273978"/><stop offset=".54" stop-color="#111C43"/><stop offset="1" stop-color="#071127"/></linearGradient>
+  <linearGradient id="page" x1="24" y1="34" x2="100" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#F5FAFF"/><stop offset="1" stop-color="#B4D8F8"/></linearGradient>
+  <linearGradient id="accent" x1="19" y1="83" x2="110" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#47DDEB"/><stop offset="1" stop-color="#A6A4FF"/></linearGradient>
+ </defs>
+ <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#bg)"/>
+ <rect x="5" y="5" width="118" height="118" rx="29" stroke="#B1D6FF" stroke-opacity=".22" stroke-width="2"/>
+ <path d="M27 43c13-5 25-3 37 5v43c-12-8-24-10-37-5V43Zm74 0c-13-5-25-3-37 5v43c12-8 24-10 37-5V43Z" fill="url(#page)"/>
+ <path d="M64 49v40" stroke="#6F94C7" stroke-width="3" stroke-linecap="round"/>
+ <path d="M34 54c8-2 15-1 22 3M34 63c8-2 15-1 22 3M72 57c7-4 14-5 22-3" stroke="#4774AA" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+ <path d="M22 92c14 8 41 5 62-6 19-10 30-22 29-33" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+ <circle cx="103" cy="44" r="7" fill="#77ECF5" stroke="#172B58" stroke-width="3"/>
+ <path d="M94 20v12M88 26h12" stroke="#B9BEFF" stroke-width="3" stroke-linecap="round"/>
 </svg>

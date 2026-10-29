@@ -2,8 +2,28 @@ const crypto = require('node:crypto');
 
 const BACKUP_FORMAT = 'english-anki-backup-v2';
 
+function isPlainRecord(value) {
+  return !!value && typeof value === 'object' && !Array.isArray(value);
+}
+
+// Versions 1–4 are supported by the renderer's migration path. Validate before
+// accepting a backup or sync payload so normalization cannot silently erase it.
 function isLearningData(data) {
-  return !!data && typeof data === 'object' && !!data.settings && typeof data.cards === 'object' && Array.isArray(data.logs);
+  if (!isPlainRecord(data) || ![1, 2, 3, 4].includes(data.version)
+      || !isPlainRecord(data.settings) || !isPlainRecord(data.cards)
+      || !Array.isArray(data.logs) || !data.logs.every(isPlainRecord)) return false;
+  for (const card of Object.values(data.cards)) {
+    if (!isPlainRecord(card)) return false;
+    if (card.reps !== undefined && (!Number.isFinite(Number(card.reps)) || Number(card.reps) < 0)) return false;
+    if (Number(card.reps) > 0 && (card.due == null || card.due === '' || !Number.isFinite(new Date(card.due).getTime()))) return false;
+  }
+  for (const key of ['customWords', 'customDecks', 'cardIssues']) {
+    if (data[key] !== undefined && (!Array.isArray(data[key]) || !data[key].every(isPlainRecord))) return false;
+  }
+  for (const key of ['wordOverrides', 'cardFlags', 'keywordStats', 'keywordProfile', 'fsrsProfile']) {
+    if (data[key] !== undefined && !isPlainRecord(data[key])) return false;
+  }
+  return true;
 }
 
 function checksumFor(data) {
