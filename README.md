@@ -1,8 +1,58 @@
 # 英语 Anki
 
-熟词锚点记忆与 FSRS 间隔复习一体化的英语学习桌面应用。每个词条由“熟词 + 场景插画 + 具体事件联想句”构成，配合 FSRS 安排复习。
+熟词锚点记忆、场景插画与 FSRS 间隔复习一体化的英语学习桌面应用。每个词条由「熟词锚点 → 场景插画 → 具体事件联想句」构成，复习节奏由 FSRS 按你的实际表现安排。
 
-> 当前版本 **4.1.0**：通用专升本 3000 词、多词书结构、蓝色科技 UI 与蓝色图标。
+> 当前版本 **4.1.0** · Windows 10/11 x64 · 本地优先、无账号、无云端依赖
+
+**下载最新安装包：** [GitHub Releases](https://github.com/SeanStellar/english-anki/releases/latest)
+
+## 界面预览
+
+以下截图来自实际运行的应用。
+
+### 今日计划
+
+![今日计划](docs/screenshots/home.png)
+
+首页按当天到期卡片和可用时间生成学习计划：待新学、待复习、预计用时、连续学习天数和各词库进度都集中在一屏。新词数量会根据每日预算和智能负荷保护自动调整。
+
+### 选择词单
+
+![选择词单](docs/screenshots/choose-deck.png)
+
+开始学习前先选择词单。上方是完整词书，下方按模块拆分；模块词单包含在完整词书中，学习进度共享。
+
+### 沉浸学习
+
+![学习卡片：先回忆](docs/screenshots/study-question.png)
+
+![学习卡片：揭晓锚点与插画](docs/screenshots/study-answer.png)
+
+先尝试回忆，再揭晓熟词锚点、场景插画和联想句。卡片底部按「重来 / 模糊 / 记住了 / 太简单」评分，FSRS 会根据评分安排下一次复习。
+
+### 词库
+
+![词库](docs/screenshots/library.png)
+
+支持搜索单词、释义和音标，按未学习/学习中/已掌握筛选，查看每个词的状态和下次复习时间；也可以添加单词、批量导入、导出 CSV 或导出 Anki `.apkg` 词库包。
+
+### 记忆星图
+
+![记忆星图](docs/screenshots/memory-map.png)
+
+已学单词会自动汇成关系图：颜色区分新学、学习中、已掌握和当前词；支持拖动画布、滚轮缩放、搜索定位和点击节点进入复习。
+
+### 学习统计
+
+![学习统计](docs/screenshots/stats.png)
+
+统计页汇总主动回忆次数、学习天数、总学习时长和当前掌握词数，并给出下一步学习建议、薄弱词复习入口和个性化 FSRS 参数。
+
+### 学习设置
+
+![学习设置](docs/screenshots/settings.png)
+
+可调整每日新词、每日复习上限、智能负荷保护、每日时间预算、性能模式、自动朗读、学习休息提醒和界面缩放。
 
 ## 功能
 
@@ -15,6 +65,13 @@
 - 学习统计、记忆星图、薄弱词复习、个性化 FSRS 校准
 - SHA-256 备份、gzip 备份、旧备份兼容、跨设备文件夹同步
 - 本地优先；无账号、无云端依赖
+
+## 下载与安装
+
+- 安装包：[English-Anki-4.1.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.1.0/English-Anki-4.1.0-Setup.exe)
+- 系统：Windows 10/11 x64
+- 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
+- 覆盖安装会沿用本机学习记录；升级前建议在应用内先备份
 
 ## 多词书
 
@@ -30,13 +87,13 @@
 
 ```bash
 npm install
-npm start              # 启动应用
-npm test               # 单元测试
+npm start                  # 启动应用
+npm test                   # 单元测试
 npm run test:integration   # Electron 备份恢复集成测试
-npm run dist           # 构建 NSIS 安装程序与便携版
+npm run dist               # 构建 NSIS 安装程序与便携版
 ```
 
-`npm run dist` 输出 `dist/英语-Anki-4.1.0-Setup.exe` 和 `dist/英语-Anki-4.1.0-Portable.exe`。
+`npm run dist` 输出 `dist/英语-Anki-4.1.0-Setup.exe` 和 `dist/英语-Anki-4.1.0-Portable.exe`。GitHub Release 上的附件名为 ASCII 的 `English-Anki-4.1.0-Setup.exe`。
 
 ## 数据位置
 
@@ -45,11 +102,9 @@ npm run dist           # 构建 NSIS 安装程序与便携版
 - 备份：默认在用户数据目录的 `backups`，自动保留最近 20 份
 - 同步：选择 OneDrive/坚果云等目录后生成 `english-anki-sync.json`
 
-升级或覆盖安装前，建议先在设置中备份；应用自身也会在关窗前写入并备份。
-
 ## 目录
 
-```
+```text
 main.js                  Electron 主进程、数据/备份/同步/窗口
 apkg-export.js           Anki .apkg 词库包生成
 preload.bundle.js        sandbox preload
@@ -57,6 +112,7 @@ renderer/                前端页面、样式、词库和故事数据
   assets/memory-scenes/  3000 张 800x600 WebP 插画
   data/decks.json        内置词书清单
   data/zhuanshengben-3000.json  通用专升本 3000 词
+docs/screenshots/        应用界面截图
 tests/                   单元测试与 Electron 集成测试
 tools/                   词库审核工具
 audit/                   词库审核报告
