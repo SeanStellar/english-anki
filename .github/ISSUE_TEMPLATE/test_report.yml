@@ -1,0 +1,70 @@
+name: 测试反馈
+description: 报告 v4.1.0 的安装、学习、词库、星图或数据问题
+title: "[测试] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢参与测试。提交前请确认不要上传学习记录、备份文件或其它个人数据。
+  - type: input
+    id: version
+    attributes:
+      label: 应用版本
+      description: 设置页或安装包文件名中的版本号
+      placeholder: 4.1.0
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: 安装方式
+      options:
+        - 安装版（Setup）
+        - 便携版（Portable）
+        - 源码运行
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows 版本
+      placeholder: Windows 10 22H2 / Windows 11 23H2
+    validations:
+      required: true
+  - type: checkboxes
+    id: flows
+    attributes:
+      label: 已测试的流程
+      options:
+        - label: 安装 / 启动 / 关闭
+        - label: 选择词单与开始学习
+        - label: 卡片揭晓与评分
+        - label: 词库搜索 / 导入 / 导出
+        - label: 备份与恢复
+        - label: 记忆星图
+        - label: 学习统计
+  - type: textarea
+    id: issue
+    attributes:
+      label: 发现的问题
+      description: 请写清预期结果和实际结果
+      placeholder: 我做了什么，期望发生什么，实际发生了什么
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 打开...
+        2. 点击...
+        3. 看到...
+  - type: textarea
+    id: extra
+    attributes:
+      label: 截图 / 录屏 / 报错
+      description: 可直接拖入图片；请不要上传学习数据文件
+  - type: markdown
+    attributes:
+      value: |
+        也可以加入 QQ 群 **1056570825** 交流。

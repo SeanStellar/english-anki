@@ -73,6 +73,12 @@
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
 - 覆盖安装会沿用本机学习记录；升级前建议在应用内先备份
 
+## 参与测试
+
+v4.1.0 正在收集真实环境反馈，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交。
+
+反馈时请附上：应用版本、Windows 版本、安装方式、复现步骤和截图。请不要上传自己的学习记录或备份文件。
+
 ## 社区交流
 
 - QQ 群：**1056570825**（开源英语 Anki 交流群）

@@ -1,0 +1,21 @@
+name: 功能建议
+description: 提出新功能或改进建议
+title: "[建议] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你想解决什么问题
+      placeholder: 目前在什么场景下不方便？
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你希望怎么做
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充说明

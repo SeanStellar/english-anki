@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 参与 v4.1.0 测试
+    url: https://github.com/SeanStellar/english-anki/blob/main/TESTING.md
+    about: 测试清单、反馈方式和已知限制
+  - name: QQ 交流群 1056570825
+    url: https://github.com/SeanStellar/english-anki/blob/main/README.md#社区交流
+    about: 加群交流使用问题和测试反馈
