@@ -64,7 +64,8 @@
 
 ## 下载与安装
 
-- 公开发布版安装包：[English-Anki-4.2.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.2.0/English-Anki-4.2.0-Setup.exe)
+- 公开发布版安装包：[English-Anki-4.3.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.3.0/English-Anki-4.3.0-Setup.exe)
+- 免安装便携版：[English-Anki-4.3.0-Portable.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.3.0/English-Anki-4.3.0-Portable.exe)
 - 系统：Windows 10/11 x64
 - 授权：个人、学习、研究等非商业使用免费；商业使用需单独授权，见 [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
@@ -72,7 +73,7 @@
 
 ## 参与测试
 
-v4.2.0 已发布，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交，也可以直接在 [公开测试 Issue #1](https://github.com/SeanStellar/english-anki/issues/1) 留言。
+v4.3.0 已发布，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交，也可以直接在 [公开测试 Issue #1](https://github.com/SeanStellar/english-anki/issues/1) 留言。
 
 反馈时请附上：应用版本、Windows 版本、安装方式、复现步骤和截图。请不要上传自己的学习记录或备份文件。
 
