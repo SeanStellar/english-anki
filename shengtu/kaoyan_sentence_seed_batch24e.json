@@ -1,0 +1,624 @@
+[
+  {
+    "word": "contradict",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "sentence": "She can contradict her friend, who says the cup is empty, by pointing to the water inside.",
+    "relation": "Contradict means state the opposite; she shows that the cup is not empty.",
+    "scene": {
+      "setting": "A quiet kitchen table.",
+      "actor": "One woman points to water inside a cup while her friend looks surprised.",
+      "props": [
+        "one clear cup partly filled with water",
+        "one plain table",
+        "one small pitcher"
+      ],
+      "beats": [
+        "Her friend looks at the cup.",
+        "She claims it is empty.",
+        "The woman points to the water and contradicts her."
+      ],
+      "ending": "She contradicts her friend by showing the water."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "authentic",
+    "anchor": "seashell",
+    "anchorMeaning": "贝壳",
+    "sentence": "She chose an authentic seashell over its plastic imitation.",
+    "relation": "Authentic means genuine; the real shell is chosen over a fake copy.",
+    "scene": {
+      "setting": "A sunny beach table with a blank wall.",
+      "actor": "One woman compares a real seashell with a plastic imitation.",
+      "props": [
+        "one real seashell",
+        "one plastic imitation shell",
+        "one plain wooden table"
+      ],
+      "beats": [
+        "She examines both shells.",
+        "She feels the natural ridges of the real one.",
+        "She chooses the authentic seashell."
+      ],
+      "ending": "She chooses the authentic shell."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "coordinate",
+    "anchor": "dance",
+    "anchorMeaning": "舞蹈",
+    "sentence": "The two dancers coordinate their steps across the floor.",
+    "relation": "Coordinate means make movements work together; the dancers move in sync.",
+    "scene": {
+      "setting": "A simple dance studio with a blank wall.",
+      "actor": "Two dancers perform matching steps together.",
+      "props": [
+        "one polished dance floor",
+        "two plain dance shoes",
+        "one tall mirror with no writing"
+      ],
+      "beats": [
+        "The dancers take their places.",
+        "They begin the same step together.",
+        "Their movements stay coordinated."
+      ],
+      "ending": "The two dancers coordinate their steps."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "hip",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "sentence": "She rested one hand on her hip while posing for a portrait.",
+    "relation": "The hip is the side joint where the hand rests.",
+    "scene": {
+      "setting": "A bright studio with a plain background.",
+      "actor": "One adult stands in profile with one hand resting clearly on her hip.",
+      "props": [
+        "one plain portrait stool",
+        "one blank wall",
+        "one small potted plant"
+      ],
+      "beats": [
+        "She stands upright.",
+        "She places one hand on her hip.",
+        "She holds the pose for a portrait."
+      ],
+      "ending": "Her hand rests on her hip."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "feasible",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "The builder found the bridge plan feasible after testing a sturdy model.",
+    "relation": "Feasible means practical and possible; the sturdy model shows the bridge can work.",
+    "scene": {
+      "setting": "A clean engineering workshop.",
+      "actor": "One builder tests a small sturdy bridge model on a workbench.",
+      "props": [
+        "one small bridge model",
+        "one plain wooden block as a test weight",
+        "one workbench"
+      ],
+      "beats": [
+        "The builder assembles the model.",
+        "She places the test weight on it.",
+        "The bridge holds, showing the plan is feasible."
+      ],
+      "ending": "The builder finds the bridge plan feasible."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "gloomy",
+    "anchor": "clouds",
+    "anchorMeaning": "云",
+    "sentence": "The gloomy clouds covered the playground before the rain.",
+    "relation": "Gloomy clouds make the sky dark and cheerless before rain.",
+    "scene": {
+      "setting": "A playground beneath a heavy overcast sky.",
+      "actor": "No people; dark clouds cover the playground.",
+      "props": [
+        "one cloudy sky",
+        "one empty swing set",
+        "one wet patch of ground"
+      ],
+      "beats": [
+        "Clouds gather overhead.",
+        "The sunlight fades.",
+        "The playground looks gloomy before rain."
+      ],
+      "ending": "Gloomy clouds cover the playground."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "hint",
+    "anchor": "footprint",
+    "anchorMeaning": "脚印",
+    "sentence": "A muddy footprint gave the detective a hint about the visitor.",
+    "relation": "A hint is a small clue; the muddy footprint suggests someone visited.",
+    "scene": {
+      "setting": "A quiet hallway with a blank wall.",
+      "actor": "One detective examines a single muddy footprint beside a doorway.",
+      "props": [
+        "one muddy footprint",
+        "one plain magnifying glass",
+        "one closed door"
+      ],
+      "beats": [
+        "The detective notices the footprint.",
+        "She studies its shape.",
+        "The clue gives a hint about the visitor."
+      ],
+      "ending": "The footprint gives the detective a hint."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "illiterate",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "sentence": "The illiterate traveler asked a friend to read the map aloud.",
+    "relation": "Illiterate means unable to read or write; the traveler asks a friend to read.",
+    "scene": {
+      "setting": "A quiet trailhead with a blank signless wall.",
+      "actor": "One traveler asks a friend to read a simple map with only unmarked path lines.",
+      "props": [
+        "one map with simple paths but no words or symbols",
+        "one hiking backpack",
+        "one plain walking stick"
+      ],
+      "beats": [
+        "The traveler unfolds the map.",
+        "The friend studies its unmarked paths.",
+        "The traveler asks the friend to read it aloud."
+      ],
+      "ending": "The illiterate traveler asks for help with the map."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No writing, letters, numbers, labels, or recognizable map symbols."
+  },
+  {
+    "word": "painter",
+    "anchor": "brush",
+    "anchorMeaning": "画笔",
+    "sentence": "The painter dipped a brush into blue paint before coloring the wall.",
+    "relation": "A brush is the familiar tool a painter uses to apply paint.",
+    "scene": {
+      "setting": "A bright room with one blank wall.",
+      "actor": "One painter uses a brush to add blue paint to a wall.",
+      "props": [
+        "one plain paintbrush",
+        "one small pot of blue paint",
+        "one blank wall"
+      ],
+      "beats": [
+        "The painter dips the brush.",
+        "She touches the wall.",
+        "Blue paint spreads across the surface."
+      ],
+      "ending": "The painter works with a brush and blue paint."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "exotic",
+    "anchor": "parrot",
+    "anchorMeaning": "鹦鹉",
+    "sentence": "An exotic parrot perched beside a local sparrow in the garden.",
+    "relation": "Exotic describes something unusual or from another region; the brightly colored parrot stands out.",
+    "scene": {
+      "setting": "A leafy garden with a plain wooden fence.",
+      "actor": "One bright tropical parrot perches near one small local sparrow.",
+      "props": [
+        "one colorful parrot",
+        "one small sparrow",
+        "one garden branch"
+      ],
+      "beats": [
+        "The sparrow lands on the branch.",
+        "The colorful parrot arrives.",
+        "The exotic bird stands out beside the local sparrow."
+      ],
+      "ending": "An exotic parrot perches beside the sparrow."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "retrieve",
+    "anchor": "stick",
+    "anchorMeaning": "树枝",
+    "sentence": "The dog ran into the pond to retrieve a floating stick.",
+    "relation": "Retrieve means go and bring something back; the dog fetches the stick.",
+    "scene": {
+      "setting": "A calm pond edge.",
+      "actor": "One dog swims toward a floating stick and brings it back to shore.",
+      "props": [
+        "one floating stick",
+        "one calm pond",
+        "one grassy shore"
+      ],
+      "beats": [
+        "The dog sees the stick.",
+        "It swims out to fetch it.",
+        "It retrieves the stick to shore."
+      ],
+      "ending": "The dog retrieves the stick from the pond."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "romance",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "Their romance began on a quiet walk beside the old bridge.",
+    "relation": "Romance is a love relationship; the couple’s shared walk marks its beginning.",
+    "scene": {
+      "setting": "A quiet riverside path beside an old bridge.",
+      "actor": "Two adults meet and walk together beside the bridge.",
+      "props": [
+        "one old stone bridge",
+        "one riverside path",
+        "one small flower"
+      ],
+      "beats": [
+        "The two people meet by the bridge.",
+        "They begin walking together.",
+        "Their romance begins beside the river."
+      ],
+      "ending": "Their romance begins beside the old bridge."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "likewise",
+    "anchor": "wave",
+    "anchorMeaning": "挥手",
+    "sentence": "Mia waved to the neighbor, and her brother did likewise.",
+    "relation": "Likewise means in the same way; her brother copies her wave.",
+    "scene": {
+      "setting": "A quiet front garden beside a blank fence.",
+      "actor": "Two siblings wave in the same way to one neighbor.",
+      "props": [
+        "one garden gate",
+        "one small flowerpot",
+        "one path"
+      ],
+      "beats": [
+        "Mia waves to the neighbor.",
+        "Her brother sees her gesture.",
+        "He waves likewise."
+      ],
+      "ending": "Both siblings wave in the same way."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "contempt",
+    "anchor": "trophy",
+    "anchorMeaning": "奖杯",
+    "sentence": "He showed contempt for the old trophy by dropping it carelessly into a dusty box.",
+    "relation": "Contempt is scorn or disrespect; he handles the trophy carelessly.",
+    "scene": {
+      "setting": "A dusty storage room with a blank wall.",
+      "actor": "One man dismissively drops an old trophy into a box.",
+      "props": [
+        "one old trophy",
+        "one dusty storage box",
+        "one plain shelf"
+      ],
+      "beats": [
+        "He looks at the trophy with disdain.",
+        "He turns away from it.",
+        "He drops it carelessly into the box."
+      ],
+      "ending": "He treats the trophy with contempt."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "jet",
+    "anchor": "runway",
+    "anchorMeaning": "跑道",
+    "sentence": "A jet sped down the runway before taking off.",
+    "relation": "A jet is an aircraft that takes off from a runway.",
+    "scene": {
+      "setting": "An airport runway at sunrise with no signs.",
+      "actor": "One plain jet accelerates along the runway and lifts into the sky.",
+      "props": [
+        "one unmarked jet aircraft",
+        "one clear runway",
+        "one open sky"
+      ],
+      "beats": [
+        "The jet lines up on the runway.",
+        "It speeds forward.",
+        "It lifts into the sky."
+      ],
+      "ending": "The jet takes off from the runway."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No logos, tail numbers, letters, signs, or runway numerals."
+  },
+  {
+    "word": "acquaintance",
+    "anchor": "wave",
+    "anchorMeaning": "挥手",
+    "sentence": "She greeted an acquaintance from work with a brief wave at the market.",
+    "relation": "An acquaintance is someone known casually; a brief wave suits a casual greeting.",
+    "scene": {
+      "setting": "An outdoor market with plain stalls and no signs.",
+      "actor": "Two adults who recognize one another exchange a brief, polite wave.",
+      "props": [
+        "one plain market stall",
+        "one basket of fruit",
+        "one simple walkway"
+      ],
+      "beats": [
+        "She notices the familiar person.",
+        "They exchange a brief wave.",
+        "They continue shopping without a close embrace."
+      ],
+      "ending": "She greets an acquaintance with a brief wave."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "depict",
+    "anchor": "net",
+    "anchorMeaning": "网",
+    "sentence": "A good mural must depict a fisherman casting a net beside the shore.",
+    "relation": "Depict means show or represent; the mural shows the fisherman and his net.",
+    "scene": {
+      "setting": "A seaside wall being painted outdoors.",
+      "actor": "One painter paints a mural of a fisherman casting a net beside the sea.",
+      "props": [
+        "one blank wall mural showing a fisherman",
+        "one paintbrush",
+        "one small paint palette"
+      ],
+      "beats": [
+        "The painter sketches the shoreline scene.",
+        "She paints the fisherman and net.",
+        "The mural depicts the fishing action."
+      ],
+      "ending": "The mural depicts a fisherman casting a net."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "precision",
+    "anchor": "gear",
+    "anchorMeaning": "齿轮",
+    "sentence": "The watchmaker adjusted a tiny gear with precision.",
+    "relation": "Precision means exactness; the watchmaker carefully adjusts a tiny gear.",
+    "scene": {
+      "setting": "A watchmaker’s tidy workbench.",
+      "actor": "One watchmaker adjusts a small gear with a fine tool.",
+      "props": [
+        "one tiny brass gear",
+        "one fine screwdriver",
+        "one open pocket watch with no markings"
+      ],
+      "beats": [
+        "The watchmaker steadies the watch.",
+        "She turns the tiny gear carefully.",
+        "The gear fits exactly into place."
+      ],
+      "ending": "The watchmaker works with precision."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "superficial",
+    "anchor": "scratch",
+    "anchorMeaning": "划痕",
+    "sentence": "The superficial scratch marked only the paint, not the wood beneath.",
+    "relation": "Superficial means affecting only the surface; the scratch does not reach the wood.",
+    "scene": {
+      "setting": "A close view of a painted wooden table.",
+      "actor": "No people; a shallow scratch crosses only the table’s paint layer.",
+      "props": [
+        "one painted wooden tabletop",
+        "one shallow scratch",
+        "one exposed patch of intact wood nearby"
+      ],
+      "beats": [
+        "The paint surface is lightly scraped.",
+        "The wood beneath remains intact.",
+        "The superficial scratch stays on the surface."
+      ],
+      "ending": "The superficial scratch does not reach the wood."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "unity",
+    "anchor": "neighbors",
+    "anchorMeaning": "邻居",
+    "sentence": "The neighbors showed unity by lifting a fallen tree together.",
+    "relation": "Unity means people acting together toward one goal; neighbors cooperate to lift the tree.",
+    "scene": {
+      "setting": "A quiet neighborhood lane after a storm.",
+      "actor": "Three neighbors work together to lift a fallen tree from the road.",
+      "props": [
+        "one fallen tree branch",
+        "one clear road",
+        "one small garden fence"
+      ],
+      "beats": [
+        "The tree blocks the lane.",
+        "The neighbors gather around it.",
+        "They lift it together in unity."
+      ],
+      "ending": "The neighbors show unity by helping together."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  }
+]

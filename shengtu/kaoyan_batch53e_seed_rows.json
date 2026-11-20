@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2661",
+    "anchor": "team",
+    "sentence": "The leading player scored for the team.",
+    "relation": "Leading describes the most important, successful, or prominent person or thing in a group.",
+    "setting": "A quiet playing field",
+    "actor": "One player scores for a team during a simple practice game.",
+    "props": [
+      "one player",
+      "one plain ball",
+      "one open field"
+    ],
+    "beats": [
+      "The team begins to play",
+      "One player moves ahead",
+      "The leading player scores"
+    ],
+    "ending": "The leading player scores for the team.",
+    "artDirection": "One player only; no team logos, uniforms with text, or extra figures."
+  },
+  {
+    "id": "kyc-2662",
+    "anchor": "cloth",
+    "sentence": "She folded the linen cloth beside the window.",
+    "relation": "Linen is a strong natural fabric made from the fibers of the flax plant.",
+    "setting": "A bright laundry room",
+    "actor": "One woman folds a plain linen cloth on a table beside a window.",
+    "props": [
+      "one woman",
+      "one linen cloth",
+      "one plain table"
+    ],
+    "beats": [
+      "The cloth is spread out",
+      "She folds it neatly",
+      "The linen is set beside the window"
+    ],
+    "ending": "A woman folds a linen cloth beside the window.",
+    "artDirection": "No laundry labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2663",
+    "anchor": "fruit",
+    "sentence": "He made a living by growing fruit.",
+    "relation": "A living is the money or income a person earns to support themselves.",
+    "setting": "A small orchard",
+    "actor": "One farmer gathers fruit from a few trees as his work.",
+    "props": [
+      "one farmer",
+      "one fruit tree",
+      "one basket of fruit"
+    ],
+    "beats": [
+      "The farmer tends the trees",
+      "He gathers the fruit",
+      "He earns a living from the harvest"
+    ],
+    "ending": "A farmer makes a living by growing fruit.",
+    "artDirection": "No signs, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2664",
+    "anchor": "house",
+    "sentence": "The family gathered in the living room of their house.",
+    "relation": "A living room is the main room in a home where people sit and relax together.",
+    "setting": "A comfortable home interior",
+    "actor": "Two family members sit together in a room inside their house.",
+    "props": [
+      "two family members",
+      "one sofa",
+      "one house interior"
+    ],
+    "beats": [
+      "The family enters the house",
+      "They settle into the main room",
+      "They gather in the living room"
+    ],
+    "ending": "A family gathers in the living room of their house.",
+    "artDirection": "Exactly two people; no signs, text, logos, or extra family members."
+  },
+  {
+    "id": "kyc-2665",
+    "anchor": "train",
+    "sentence": "The locomotive pulled a train out of the station.",
+    "relation": "A locomotive is the powered railway vehicle that pulls or pushes train cars.",
+    "setting": "A quiet railway platform",
+    "actor": "No people: one locomotive pulls a short train away from a plain platform.",
+    "props": [
+      "one locomotive",
+      "one short train",
+      "one empty platform"
+    ],
+    "beats": [
+      "The train waits at the platform",
+      "The locomotive starts moving",
+      "It pulls the train away"
+    ],
+    "ending": "A locomotive pulls a train out of the station.",
+    "artDirection": "No readable station signs, numbers, logos, or text."
+  },
+  {
+    "id": "kyc-2666",
+    "anchor": "court",
+    "sentence": "The magistrate heard the case in court.",
+    "relation": "A magistrate is a local judicial officer who hears cases and makes legal decisions.",
+    "setting": "A plain local courtroom",
+    "actor": "One magistrate listens carefully to one person presenting a case.",
+    "props": [
+      "one magistrate",
+      "one speaker",
+      "one plain courtroom bench"
+    ],
+    "beats": [
+      "The case is brought forward",
+      "The magistrate listens",
+      "The hearing takes place in court"
+    ],
+    "ending": "A magistrate hears a case in court.",
+    "artDirection": "Exactly two people; no legal emblems, text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2667",
+    "anchor": "king",
+    "sentence": "The king's majesty impressed the visitor.",
+    "relation": "Majesty is impressive dignity, greatness, or beauty, especially that associated with a ruler.",
+    "setting": "A quiet palace hall",
+    "actor": "One dignified king stands before one visitor, whose face shows respectful admiration.",
+    "props": [
+      "one king",
+      "one visitor",
+      "one plain throne"
+    ],
+    "beats": [
+      "The visitor enters the hall",
+      "The king stands with dignity",
+      "The king's majesty impresses the visitor"
+    ],
+    "ending": "The king's majesty impresses a visitor.",
+    "artDirection": "Exactly two people; no flags, lettering, logos, or excessive symbols of power."
+  },
+  {
+    "id": "kyc-2668",
+    "anchor": "ring",
+    "sentence": "The married couple exchanged one ring during the ceremony.",
+    "relation": "Married describes two people joined as spouses by marriage.",
+    "setting": "A small wedding ceremony",
+    "actor": "Exactly two adults exchange one plain wedding ring during a simple ceremony.",
+    "props": [
+      "two adults",
+      "one plain ring",
+      "one small flower arrangement"
+    ],
+    "beats": [
+      "The couple stands together",
+      "They exchange a ring",
+      "They are married"
+    ],
+    "ending": "A married couple exchanges a ring during a simple ceremony.",
+    "artDirection": "Exactly two adults; no religious symbols, text, signs, or logos."
+  },
+  {
+    "id": "kyc-2669",
+    "anchor": "book",
+    "sentence": "The Marxist professor explained the book's theory to a student.",
+    "relation": "Marxist describes ideas or people connected with the political and economic theories of Karl Marx.",
+    "setting": "A quiet university office",
+    "actor": "Exactly two adults: a professor discusses a plain book with one student.",
+    "props": [
+      "one professor",
+      "one student",
+      "one plain book"
+    ],
+    "beats": [
+      "The student opens the book",
+      "The professor explains its theory",
+      "They discuss a Marxist idea"
+    ],
+    "ending": "A Marxist professor explains a theory from a book to a student.",
+    "artDirection": "Neutral academic scene; no political symbols, slogans, flags, text, or logos."
+  },
+  {
+    "id": "kyc-2670",
+    "anchor": "number",
+    "sentence": "She used mathematics to solve a number puzzle.",
+    "relation": "Mathematics is the study of numbers, shapes, quantities, and their relationships.",
+    "setting": "A quiet classroom table",
+    "actor": "One student solves a shape-and-counting puzzle using plain blocks.",
+    "props": [
+      "one student",
+      "one set of plain blocks",
+      "one blank puzzle board"
+    ],
+    "beats": [
+      "The puzzle is laid out",
+      "The student studies its quantities",
+      "Mathematics helps solve it"
+    ],
+    "ending": "Mathematics helps a student solve a number puzzle.",
+    "artDirection": "No numerals, writing, labels, or symbols on blocks or board."
+  },
+  {
+    "id": "kyc-2671",
+    "anchor": "radio",
+    "sentence": "The media reported the event on the radio.",
+    "relation": "Media are channels or organizations that communicate news and information to the public.",
+    "setting": "A simple radio studio",
+    "actor": "One reporter speaks into a plain microphone beside a radio console.",
+    "props": [
+      "one reporter",
+      "one plain microphone",
+      "one radio console"
+    ],
+    "beats": [
+      "An event occurs",
+      "The reporter shares the news",
+      "The media report it on the radio"
+    ],
+    "ending": "The media report an event on the radio.",
+    "artDirection": "No station logos, screen text, numbers, or signs."
+  },
+  {
+    "id": "kyc-2672",
+    "anchor": "child",
+    "sentence": "The child got into mischief by hiding a friend's key.",
+    "relation": "Mischief is playful or troublesome behavior, especially when someone causes small problems or tricks others.",
+    "setting": "A quiet playroom",
+    "actor": "Exactly two children: one hides a plain key while the other looks around for it.",
+    "props": [
+      "two children",
+      "one plain key",
+      "one toy box"
+    ],
+    "beats": [
+      "The children play together",
+      "One child hides the key",
+      "The playful mischief begins"
+    ],
+    "ending": "A child gets into mischief by hiding a friend's key.",
+    "artDirection": "Exactly two children; keep it harmless and playful, no text or symbols."
+  },
+  {
+    "id": "kyc-2673",
+    "anchor": "man",
+    "sentence": "The man visited his mistress after work.",
+    "relation": "A mistress is a woman having a sexual relationship with a man who is married to someone else.",
+    "setting": "A quiet city doorway",
+    "actor": "Exactly two adults meet discreetly outside a plain apartment entrance, with no physical intimacy shown.",
+    "props": [
+      "one man",
+      "one woman",
+      "one plain doorway"
+    ],
+    "beats": [
+      "The workday ends",
+      "The man visits the woman privately",
+      "She is his mistress"
+    ],
+    "ending": "A man visits his mistress after work.",
+    "artDirection": "Exactly two adults, non-explicit; no nudity, kissing, text, or symbols."
+  },
+  {
+    "id": "kyc-2674",
+    "anchor": "street",
+    "sentence": "An angry mob surged through the street.",
+    "relation": "A mob is a large crowd of people, often acting angrily or violently together.",
+    "setting": "A city street during unrest",
+    "actor": "Exactly two angry protesters press forward at the front edge of a crowd implied just beyond the frame; no other people are shown.",
+    "props": [
+      "two protesters",
+      "one empty street",
+      "one overturned plain cart"
+    ],
+    "beats": [
+      "Anger rises in the crowd",
+      "The people push forward together",
+      "The mob surges through the street"
+    ],
+    "ending": "An angry mob surges through a street, with only two people visible at its front.",
+    "artDirection": "Show exactly two people; imply the larger crowd only through off-frame direction and scattered objects, with no extra silhouettes, weapons, violence, text, or symbols."
+  },
+  {
+    "id": "kyc-2675",
+    "anchor": "group",
+    "sentence": "The coach will mobilise the group before the match.",
+    "relation": "To mobilise a group is to organize and prepare its members to take action.",
+    "setting": "A quiet sports field",
+    "actor": "A coach gathers one athlete and readies the group for a match.",
+    "props": [
+      "one coach",
+      "one athlete",
+      "one plain ball"
+    ],
+    "beats": [
+      "The match approaches",
+      "The coach gathers the group",
+      "The group is mobilised and ready"
+    ],
+    "ending": "A coach mobilises a group before a match.",
+    "artDirection": "Exactly two people; no team logos, signs, text, or extra players."
+  },
+  {
+    "id": "kyc-2676",
+    "anchor": "machine",
+    "sentence": "Modernisation replaced the old machine with a new one.",
+    "relation": "Modernisation is the process of updating something to use newer methods, equipment, or ideas.",
+    "setting": "A simple factory workshop",
+    "actor": "One worker compares an old machine with a newer, more efficient machine.",
+    "props": [
+      "one worker",
+      "one old machine",
+      "one new machine"
+    ],
+    "beats": [
+      "The old machine works slowly",
+      "A newer model arrives",
+      "Modernisation replaces the old equipment"
+    ],
+    "ending": "Modernisation replaces an old machine with a newer one.",
+    "artDirection": "No brand names, labels, numbers, writing, or logos."
+  },
+  {
+    "id": "kyc-2677",
+    "anchor": "week",
+    "sentence": "Monday is the first day of the week for many workers.",
+    "relation": "Monday is the day of the week after Sunday and often the first workday.",
+    "setting": "A quiet office at the start of the week",
+    "actor": "One worker opens a plain notebook and begins work at a desk.",
+    "props": [
+      "one worker",
+      "one plain notebook",
+      "one office desk"
+    ],
+    "beats": [
+      "The weekend ends",
+      "Monday arrives",
+      "The workweek begins"
+    ],
+    "ending": "Monday begins the workweek.",
+    "artDirection": "No calendar dates, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2678",
+    "anchor": "country",
+    "sentence": "Normalisation restored the country's everyday routines after the conflict.",
+    "relation": "Normalisation is the process of returning relations or conditions to a usual or accepted state.",
+    "setting": "A quiet town market after a conflict",
+    "actor": "Exactly two adults from a community meet peacefully at a market stall as ordinary trade resumes.",
+    "props": [
+      "two adults",
+      "one plain market stall",
+      "one basket of goods"
+    ],
+    "beats": [
+      "A conflict ends",
+      "People resume ordinary routines",
+      "Normalisation restores everyday life"
+    ],
+    "ending": "Normalisation restores a country's everyday routines after conflict.",
+    "artDirection": "No flags, political symbols, weapons, signs, writing, or logos."
+  },
+  {
+    "id": "kyc-2679",
+    "anchor": "map",
+    "sentence": "The cabin lay in the northwest corner of the map.",
+    "relation": "Northwest is the direction midway between north and west, or the northwestern part of an area.",
+    "setting": "A quiet planning table",
+    "actor": "One traveler points to the upper-left corner of a plain map where a cabin is drawn.",
+    "props": [
+      "one traveler",
+      "one plain map",
+      "one small cabin drawing"
+    ],
+    "beats": [
+      "The traveler unfolds the map",
+      "The cabin is found at the upper-left edge",
+      "The northwest location is identified"
+    ],
+    "ending": "A cabin lies in the northwest corner of a map.",
+    "artDirection": "No compass letters, direction arrows, labels, numbers, or text."
+  },
+  {
+    "id": "kyc-2680",
+    "anchor": "winter",
+    "sentence": "November is the month before winter begins.",
+    "relation": "November is the eleventh month of the year and comes just before winter in the Northern Hemisphere.",
+    "setting": "A late-autumn garden near winter",
+    "actor": "No people: fallen leaves cover the garden as cold winter air approaches.",
+    "props": [
+      "one garden",
+      "fallen leaves",
+      "one cold gray sky"
+    ],
+    "beats": [
+      "Leaves fall in late autumn",
+      "November arrives",
+      "Winter is about to begin"
+    ],
+    "ending": "November comes just before winter begins.",
+    "artDirection": "No calendar numbers, dates, text, or labels."
+  },
+  {
+    "id": "kyc-2681",
+    "anchor": "boat",
+    "sentence": "She rowed the boat with one oar.",
+    "relation": "An oar is a long pole with a flat blade used to row and steer a boat.",
+    "setting": "A calm lake",
+    "actor": "One woman rows a small boat using one plain oar.",
+    "props": [
+      "one woman",
+      "one small boat",
+      "one wooden oar"
+    ],
+    "beats": [
+      "The boat rests on the water",
+      "She pulls the oar through the lake",
+      "The boat moves forward"
+    ],
+    "ending": "A woman rows a boat with an oar.",
+    "artDirection": "One person only; no extra boats, text, signs, or logos."
+  },
+  {
+    "id": "kyc-2682",
+    "anchor": "month",
+    "sentence": "October is a month of falling leaves.",
+    "relation": "October is the tenth month of the year and occurs during autumn in the Northern Hemisphere.",
+    "setting": "A park in mid-autumn",
+    "actor": "No people: orange leaves fall from a tree onto a park path in October.",
+    "props": [
+      "one tree",
+      "falling leaves",
+      "one park path"
+    ],
+    "beats": [
+      "The month begins",
+      "Leaves turn and fall",
+      "October fills the path with leaves"
+    ],
+    "ending": "October is a month of falling leaves.",
+    "artDirection": "No calendar numbers, text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2683",
+    "anchor": "team",
+    "sentence": "The odds were against the team in the final match.",
+    "relation": "Odds are the likelihood or chances that something will happen, especially success or failure.",
+    "setting": "A quiet sports field before a final match",
+    "actor": "Two players on one team look toward a much stronger opposing goal area, uncertain but ready.",
+    "props": [
+      "two players",
+      "one plain ball",
+      "one distant goal"
+    ],
+    "beats": [
+      "The team faces a difficult match",
+      "Their chances look low",
+      "The odds are against the team"
+    ],
+    "ending": "The odds are against a team before a difficult match.",
+    "artDirection": "Exactly two people; no scoreboard numbers, logos, signs, or text."
+  },
+  {
+    "id": "kyc-2684",
+    "anchor": "rule",
+    "sentence": "You ought to follow the rule.",
+    "relation": "Ought to is used to say what someone should do or what is advisable or morally right.",
+    "setting": "A quiet classroom",
+    "actor": "One student pauses before crossing a plain floor line and follows a teacher's simple rule.",
+    "props": [
+      "one student",
+      "one plain floor line",
+      "one classroom doorway"
+    ],
+    "beats": [
+      "The student reaches the doorway",
+      "The rule indicates what should be done",
+      "The student follows it"
+    ],
+    "ending": "A student ought to follow the rule.",
+    "artDirection": "No written rules, signs, labels, or symbols."
+  },
+  {
+    "id": "kyc-2685",
+    "anchor": "city",
+    "sentence": "They built a home on the outskirts of the city.",
+    "relation": "The outskirts are the outer parts or edges of a town or city.",
+    "setting": "The edge of a city",
+    "actor": "Two residents stand beside a small home at the city's outer edge, with the skyline in the distance.",
+    "props": [
+      "two residents",
+      "one small home",
+      "one distant city skyline"
+    ],
+    "beats": [
+      "The city stretches into the distance",
+      "A home stands near its edge",
+      "The residents live on the outskirts"
+    ],
+    "ending": "A home stands on the outskirts of a city.",
+    "artDirection": "Exactly two people; no street names, signs, logos, or text."
+  }
+]

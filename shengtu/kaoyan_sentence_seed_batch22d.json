@@ -1,0 +1,662 @@
+[
+  {
+    "word": "hemisphere",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "sentence": "A globe showed the northern hemisphere above the equator.",
+    "relation": "The scene links hemisphere with globe: A globe showed the northern hemisphere above the equator.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A plain study desk against a bare wall.",
+      "actor": "No people; one globe clearly shows the northern half of Earth above a simple equator line.",
+      "props": [
+        "one plain globe",
+        "one clean desk",
+        "one simple wooden stand"
+      ],
+      "beats": [
+        "The globe turns toward the viewer.",
+        "The equator line divides the sphere.",
+        "The northern hemisphere sits above it."
+      ],
+      "ending": "The globe shows the northern hemisphere."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hemisphere with globe: A globe showed the northern hemisphere above the equator.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "outlook",
+    "anchor": "hill",
+    "anchorMeaning": "山丘",
+    "sentence": "From the hill, the family enjoyed an open outlook over the lake.",
+    "relation": "The scene links outlook with hill: From the hill, the family enjoyed an open outlook over the lake.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A grassy hill overlooking a quiet lake.",
+      "actor": "Exactly two adults stand on the hill and look out over the lake.",
+      "props": [
+        "one grassy hilltop",
+        "one calm lake",
+        "one distant line of trees"
+      ],
+      "beats": [
+        "The pair reaches the hilltop.",
+        "They look across the lake.",
+        "The open outlook stretches before them."
+      ],
+      "ending": "The family enjoys the view from the hill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links outlook with hill: From the hill, the family enjoyed an open outlook over the lake.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "rear",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "sentence": "The cottage’s rear door opened onto the garden.",
+    "relation": "The scene links rear with garden: The cottage’s rear door opened onto the garden.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "The back of a small cottage facing a garden.",
+      "actor": "No people; the cottage’s rear door opens from the back wall onto the garden.",
+      "props": [
+        "one plain rear door",
+        "one small cottage wall",
+        "one garden path"
+      ],
+      "beats": [
+        "The person walks along the garden path.",
+        "They reach the back entrance.",
+        "They enter through the rear door."
+      ],
+      "ending": "The rear door opens directly onto the garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links rear with garden: The cottage’s rear door opened onto the garden.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "comparable",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "sentence": "The two baskets held comparable amounts of apples.",
+    "relation": "The scene links comparable with basket: The two baskets held comparable amounts of apples.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean market table in soft daylight.",
+      "actor": "No people; two baskets contain similar amounts of red apples.",
+      "props": [
+        "two woven baskets",
+        "similar groups of red apples",
+        "one plain market table"
+      ],
+      "beats": [
+        "The baskets sit side by side.",
+        "Each holds a similar amount.",
+        "Their contents are comparable."
+      ],
+      "ending": "The two baskets hold comparable amounts of apples."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links comparable with basket: The two baskets held comparable amounts of apples.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "mutual",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "sentence": "The neighbors showed mutual respect as they repaired the fence together.",
+    "relation": "The scene links mutual with fence: The neighbors showed mutual respect as they repaired the fence together.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A shared garden boundary on a sunny day.",
+      "actor": "Exactly two adult neighbors respectfully work together on one fence.",
+      "props": [
+        "one wooden fence",
+        "one plain hammer",
+        "one short stack of boards"
+      ],
+      "beats": [
+        "The neighbors meet at the fence.",
+        "They share the repair work.",
+        "Their mutual respect shows in their cooperation."
+      ],
+      "ending": "The neighbors repair the fence together respectfully."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links mutual with fence: The neighbors showed mutual respect as they repaired the fence together.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "intensity",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "sentence": "The intensity of the bonfire made the campers move farther away.",
+    "relation": "The scene links intensity with fire: The intensity of the bonfire made the campers move farther away.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A safe open campsite at dusk.",
+      "actor": "Exactly two adult campers step back from a bright but contained bonfire.",
+      "props": [
+        "one contained bonfire",
+        "two plain camping stools",
+        "one open campsite"
+      ],
+      "beats": [
+        "The fire burns brightly.",
+        "Its heat grows intense.",
+        "The campers move farther away."
+      ],
+      "ending": "The campers keep their distance from the intense fire."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links intensity with fire: The intensity of the bonfire made the campers move farther away.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "nurture",
+    "anchor": "seedling",
+    "anchorMeaning": "幼苗",
+    "sentence": "She used gentle care to nurture the small seedling in a pot.",
+    "relation": "The scene links nurture with seedling: She used gentle care to nurture the small seedling in a pot.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny home windowsill.",
+      "actor": "One adult woman gently waters a small seedling.",
+      "props": [
+        "one small seedling",
+        "one plain flowerpot",
+        "one small watering can"
+      ],
+      "beats": [
+        "She checks the soil.",
+        "She waters the plant gently.",
+        "Her care helps nurture the seedling."
+      ],
+      "ending": "The woman cares for the seedling."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links nurture with seedling: She used gentle care to nurture the small seedling in a pot.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "esteem",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "sentence": "The student held her coach in high esteem after the season.",
+    "relation": "The scene links esteem with coach: The student held her coach in high esteem after the season.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet sports field after practice.",
+      "actor": "Exactly two people: one student respectfully thanks one adult coach.",
+      "props": [
+        "one plain sports ball",
+        "one simple bench",
+        "one small bouquet of flowers"
+      ],
+      "beats": [
+        "The season ends.",
+        "The student approaches the coach.",
+        "Her respectful gesture shows high esteem."
+      ],
+      "ending": "The student thanks the coach with respect."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links esteem with coach: The student held her coach in high esteem after the season.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "liberate",
+    "anchor": "cage",
+    "anchorMeaning": "笼子",
+    "sentence": "The child helped liberate the bird by opening the cage door.",
+    "relation": "The scene links liberate with cage: The child helped liberate the bird by opening the cage door.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden beside an open window.",
+      "actor": "One child opens a small cage while one bird flies safely toward a nearby tree.",
+      "props": [
+        "one small open birdcage",
+        "one friendly bird",
+        "one leafy tree"
+      ],
+      "beats": [
+        "The child opens the cage door.",
+        "The bird moves toward the opening.",
+        "It is free to fly away."
+      ],
+      "ending": "The child liberates the bird from its cage."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links liberate with cage: The child helped liberate the bird by opening the cage door.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "acceptance",
+    "anchor": "invitation",
+    "anchorMeaning": "邀请函",
+    "sentence": "His acceptance of the invitation made his friend smile.",
+    "relation": "The scene links acceptance with invitation: His acceptance of the invitation made his friend smile.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright living room with a small table.",
+      "actor": "Exactly two adults: one person offers a blank invitation card and the other accepts it happily.",
+      "props": [
+        "one blank invitation card",
+        "one small table",
+        "one simple chair"
+      ],
+      "beats": [
+        "The friend offers the card.",
+        "The other person accepts it.",
+        "A warm smile shows acceptance."
+      ],
+      "ending": "The invitation is accepted with a smile."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links acceptance with invitation: His acceptance of the invitation made his friend smile.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "consensus",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "sentence": "The neighbors reached a consensus to plant a tree in the square.",
+    "relation": "The scene links consensus with tree: The neighbors reached a consensus to plant a tree in the square.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small town square with an open patch of soil.",
+      "actor": "Exactly two adult neighbors agree to plant one young tree.",
+      "props": [
+        "one young tree",
+        "one small shovel",
+        "one open patch of soil"
+      ],
+      "beats": [
+        "The neighbors discuss the empty patch.",
+        "They nod in agreement.",
+        "They reach a consensus to plant the tree."
+      ],
+      "ending": "The neighbors agree on planting the tree."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links consensus with tree: The neighbors reached a consensus to plant a tree in the square.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "nerve",
+    "anchor": "nurse",
+    "anchorMeaning": "护士",
+    "sentence": "The nurse traced a nerve along the simple model arm.",
+    "relation": "The scene links nerve with nurse: The nurse traced a nerve along the simple model arm.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean medical teaching room with a bare wall.",
+      "actor": "Exactly two adults: one nurse points to a visible nerve on a plain anatomical arm model.",
+      "props": [
+        "one simple model arm with a single visible nerve",
+        "one plain examination table",
+        "one clean cloth"
+      ],
+      "beats": [
+        "The nurse lifts the model arm.",
+        "A thin nerve is visible beneath the surface.",
+        "The nurse traces its path."
+      ],
+      "ending": "The nurse points out the nerve on the model arm."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links nerve with nurse: The nurse traced a nerve along the simple model arm.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "persist",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "sentence": "She chose to persist with the puzzle until the final piece fit.",
+    "relation": "The scene links persist with puzzle: She chose to persist with the puzzle until the final piece fit.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet kitchen table in morning light.",
+      "actor": "One adult woman keeps working on a nearly finished puzzle.",
+      "props": [
+        "one nearly complete jigsaw puzzle",
+        "one final puzzle piece",
+        "one plain table"
+      ],
+      "beats": [
+        "She studies the last gap.",
+        "She keeps trying patiently.",
+        "She persists until the final piece fits."
+      ],
+      "ending": "The woman finishes the puzzle by persisting."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links persist with puzzle: She chose to persist with the puzzle until the final piece fit.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "undergo",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "The old bridge will undergo repairs before winter.",
+    "relation": "The scene links undergo with bridge: The old bridge will undergo repairs before winter.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small bridge over a calm stream.",
+      "actor": "One adult worker repairs a worn section of the bridge.",
+      "props": [
+        "one old wooden bridge",
+        "one plain hammer",
+        "one replacement board"
+      ],
+      "beats": [
+        "The worker inspects the bridge.",
+        "They begin to repair a worn board.",
+        "The bridge undergoes repairs before winter."
+      ],
+      "ending": "The worker repairs the old bridge."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links undergo with bridge: The old bridge will undergo repairs before winter.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "fate",
+    "anchor": "wind",
+    "anchorMeaning": "风",
+    "sentence": "The small boat’s fate depended on the changing wind.",
+    "relation": "The scene links fate with wind: The small boat’s fate depended on the changing wind.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet lake beneath shifting clouds.",
+      "actor": "No people; one small boat drifts gently as the wind changes direction.",
+      "props": [
+        "one small wooden boat",
+        "one calm lake",
+        "one soft wind moving the sail"
+      ],
+      "beats": [
+        "The boat glides across the water.",
+        "The wind shifts.",
+        "Its changing course determines the boat’s fate."
+      ],
+      "ending": "The boat moves with the changing wind."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fate with wind: The small boat’s fate depended on the changing wind.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "forty",
+    "anchor": "oak",
+    "anchorMeaning": "橡树",
+    "sentence": "The forty-year-old oak still shaded the cottage gate.",
+    "relation": "The scene links forty with oak: The forty-year-old oak still shaded the cottage gate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cottage garden beneath a mature oak.",
+      "actor": "No people; one broad old oak casts shade over the cottage gate.",
+      "props": [
+        "one mature oak tree",
+        "one plain cottage gate",
+        "one shaded garden path"
+      ],
+      "beats": [
+        "The old tree spreads its branches.",
+        "The gate sits in its shade.",
+        "The oak has stood for forty years."
+      ],
+      "ending": "The old oak shades the cottage gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links forty with oak: The forty-year-old oak still shaded the cottage gate.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "impressive",
+    "anchor": "waterfall",
+    "anchorMeaning": "瀑布",
+    "sentence": "The waterfall made an impressive sight from the wooden bridge.",
+    "relation": "The scene links impressive with waterfall: The waterfall made an impressive sight from the wooden bridge.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A wooden bridge beside a broad waterfall.",
+      "actor": "No people; a tall waterfall fills the view from the bridge.",
+      "props": [
+        "one tall waterfall",
+        "one plain wooden bridge",
+        "one clear pool"
+      ],
+      "beats": [
+        "Water pours over the cliff.",
+        "The view opens from the bridge.",
+        "The waterfall is impressive."
+      ],
+      "ending": "The waterfall looks impressive from the bridge."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links impressive with waterfall: The waterfall made an impressive sight from the wooden bridge.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "spur",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "sentence": "A cheer from the coach can spur the runner toward the finish.",
+    "relation": "The scene links spur with coach: A cheer from the coach can spur the runner toward the finish.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple running track in a green field.",
+      "actor": "Exactly two people: one coach cheers as one runner moves toward the finish.",
+      "props": [
+        "one plain running track",
+        "one simple finish ribbon with no writing",
+        "one small whistle"
+      ],
+      "beats": [
+        "The runner slows near the finish.",
+        "The coach cheers encouragement.",
+        "The cheer can spur the runner forward."
+      ],
+      "ending": "The runner moves toward the finish after the coach’s cheer."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links spur with coach: A cheer from the coach can spur the runner toward the finish.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "forbid",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "sentence": "The parent had to forbid the child from climbing the unstable fence.",
+    "relation": "The scene links forbid with fence: The parent had to forbid the child from climbing the unstable fence.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A garden with a wobbly wooden fence.",
+      "actor": "Exactly two people: one parent calmly stops one child from climbing the fence.",
+      "props": [
+        "one unstable wooden fence",
+        "one short garden path",
+        "one plain garden gate"
+      ],
+      "beats": [
+        "The child reaches toward the fence.",
+        "The parent gently stops them.",
+        "The parent forbids the climb."
+      ],
+      "ending": "The parent keeps the child from climbing the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links forbid with fence: The parent had to forbid the child from climbing the unstable fence.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "rational",
+    "anchor": "boot",
+    "anchorMeaning": "靴子",
+    "sentence": "She made a rational choice to wear boots before crossing the muddy path.",
+    "relation": "The scene links rational with boot: She made a rational choice to wear boots before crossing the muddy path.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A muddy path beside a garden.",
+      "actor": "One adult woman chooses sturdy boots before crossing the mud.",
+      "props": [
+        "one pair of plain boots",
+        "one muddy path",
+        "one simple walking stick"
+      ],
+      "beats": [
+        "She notices the muddy path.",
+        "She puts on boots.",
+        "Her rational choice keeps her feet dry."
+      ],
+      "ending": "The woman wears boots before crossing the mud."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links rational with boot: She made a rational choice to wear boots before crossing the muddy path.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

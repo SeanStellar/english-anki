@@ -2,7 +2,7 @@
 
 熟词锚点记忆、场景插画与 FSRS 间隔复习一体化的英语学习桌面应用。每个词条由「熟词锚点 → 场景插画 → 具体事件联想句」构成，复习节奏由 FSRS 按你的实际表现安排。
 
-> 当前版本 **4.2.0** · 源码公开、非商业免费 · Windows 10/11 x64 · 本地优先、无账号、无云端依赖
+> 当前源码版本 **4.3.0** · 源码公开、非商业免费 · Windows 10/11 x64 · 本地优先、无账号、无云端依赖
 
 **下载最新安装包：** [GitHub Releases](https://github.com/SeanStellar/english-anki/releases/latest)
 
@@ -36,12 +36,6 @@
 
 支持搜索单词、释义和音标，按未学习/学习中/已掌握筛选，查看每个词的状态和下次复习时间；也可以添加单词、批量导入、导出 CSV 或导出 Anki `.apkg` 词库包。
 
-### 记忆星图
-
-![记忆星图](docs/screenshots/memory-map.png)
-
-已学单词会自动汇成关系图：颜色区分新学、学习中、已掌握和当前词；支持拖动画布、滚轮缩放、搜索定位和点击节点进入复习。
-
 ### 学习统计
 
 ![学习统计](docs/screenshots/stats.png)
@@ -57,18 +51,20 @@
 ## 功能
 
 - 专升本英语 3000 词通用词库（高职英语课程标准附录），3000 张场景插画
-- 多词书清单：内置词书由 `renderer/data/decks.json` 管理，可继续扩展四级、六级、雅思、考研等词书
+- 考研英语全量词汇 5530 条，按词频排序表 v7.1 收录，与专升本词书分别学习
+- 考研词条的音标与词性参考 [ECDICT](https://github.com/skywind3000/ECDICT)，许可见 [LICENSE-ECDICT.txt](LICENSE-ECDICT.txt)。缺少匹配插画的考研词条使用基础卡片。
+- 多词书清单：内置词书由 `renderer/data/decks.json` 管理，可继续扩展四级、六级、雅思等词书
 - 熟词锚点联想、图像提示与逐步揭晓
-- FSRS 间隔复习、每日新词/复习上限、负荷保护
+- FSRS 间隔复习、按词书分别计算每日额度与时间预算、独立续学
 - 自定义词库：CSV/TSV/TXT 导入、CSV 导出、编辑与内容纠错
 - Anki 词库包（.apkg）导出：任意词库可导出，内置词库附带场景插画
-- 学习统计、记忆星图、薄弱词复习、个性化 FSRS 校准
+- 学习统计、薄弱词复习、个性化 FSRS 校准
 - SHA-256 备份、gzip 备份、旧备份兼容、跨设备文件夹同步
 - 本地优先；无账号、无云端依赖
 
 ## 下载与安装
 
-- 安装包：[English-Anki-4.2.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.2.0/English-Anki-4.2.0-Setup.exe)
+- 公开发布版安装包：[English-Anki-4.2.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.2.0/English-Anki-4.2.0-Setup.exe)
 - 系统：Windows 10/11 x64
 - 授权：个人、学习、研究等非商业使用免费；商业使用需单独授权，见 [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
@@ -104,7 +100,7 @@ npm run test:integration   # Electron 备份恢复集成测试
 npm run dist               # 构建 NSIS 安装程序与便携版
 ```
 
-`npm run dist` 输出 `dist/English-Anki-4.2.0-Setup.exe` 和 `dist/English-Anki-4.2.0-Portable.exe`。
+`npm run dist` 先编译 preload，再输出 `dist/English-Anki-4.3.0-Setup.exe` 和 `dist/English-Anki-4.3.0-Portable.exe`。
 
 ## 数据位置
 

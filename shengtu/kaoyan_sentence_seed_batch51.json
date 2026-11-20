@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "kyc-2361",
+    "word": "sparkle",
+    "targetSense": "闪耀",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "To sparkle is to shine with many small flashes of light.",
+    "sentence": "The sun made the water sparkle.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clear pond in sunlight",
+      "actor": "No people: sunlight glitters in small flashes across one pond.",
+      "props": [
+        "one pond",
+        "one patch of sunlight",
+        "one calm water surface"
+      ],
+      "beats": [
+        "The sun reaches the pond",
+        "Light flashes across the water",
+        "The surface sparkles"
+      ],
+      "ending": "Sunlight makes the water sparkle."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No star icons, glitter symbols, text, or motion marks.",
+    "imageFile": "kyc-2361.webp"
+  },
+  {
+    "id": "kyc-2362",
+    "word": "stagnate",
+    "targetSense": "停滞不前",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "To stagnate is to stop moving or developing, often becoming stale.",
+    "sentence": "The water began to stagnate in the pond.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A still pond in a garden",
+      "actor": "No people: water sits unmoving in a pond with a few fallen leaves.",
+      "props": [
+        "one pond",
+        "still water",
+        "two fallen leaves"
+      ],
+      "beats": [
+        "Fresh water stops flowing",
+        "The pond remains unmoving",
+        "The water begins to stagnate"
+      ],
+      "ending": "Water stagnates in a still pond."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No ripples, arrows, text, signs, or symbols.",
+    "imageFile": "kyc-2362.webp"
+  },
+  {
+    "id": "kyc-2363",
+    "word": "stun",
+    "targetSense": "震惊",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "To stun is to shock someone so much that they cannot react normally for a moment.",
+    "sentence": "The sudden news seemed to stun him, and his cup slipped from his hand.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen table",
+      "actor": "One adult reacts with shock as a plain cup slips from his hand toward the table.",
+      "props": [
+        "one adult",
+        "one plain cup",
+        "one kitchen table"
+      ],
+      "beats": [
+        "The adult hears sudden news",
+        "He is stunned",
+        "The cup slips toward the table"
+      ],
+      "ending": "Sudden news stuns a man and makes his cup slip."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult with normal anatomy and connected hands; no speech bubbles, text, or symbols.",
+    "imageFile": "kyc-2363.webp"
+  },
+  {
+    "id": "kyc-2364",
+    "word": "tariff",
+    "targetSense": "关税",
+    "anchor": "tea",
+    "anchorMeaning": "茶，茶水",
+    "relation": "A tariff is a tax placed on goods brought into a country.",
+    "sentence": "The tariff raised the price of imported tea.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small tea shop",
+      "actor": "One shopkeeper looks at a plain tea tin beside a small stack of coins after an import tax raises its price.",
+      "props": [
+        "one plain tea tin",
+        "one small stack of unmarked coins",
+        "one shop counter"
+      ],
+      "beats": [
+        "Imported tea arrives",
+        "A tariff is added",
+        "The tea costs more at the shop"
+      ],
+      "ending": "A tariff makes imported tea more expensive."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No currency marks, price tags, labels, writing, or symbols.",
+    "imageFile": "kyc-2364.webp"
+  },
+  {
+    "id": "kyc-2365",
+    "word": "thermal",
+    "targetSense": "热量的、热的",
+    "anchor": "blanket",
+    "anchorMeaning": "毯子，毛毯",
+    "relation": "Thermal means related to heat or temperature.",
+    "sentence": "A thermal blanket trapped heat on the cold night.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple campsite at night",
+      "actor": "One camper wraps in a plain thermal blanket to stay warm.",
+      "props": [
+        "one camper",
+        "one plain blanket",
+        "one camp bed"
+      ],
+      "beats": [
+        "The night grows cold",
+        "The camper wraps in the blanket",
+        "The thermal blanket keeps warmth in"
+      ],
+      "ending": "A camper stays warm under a thermal blanket."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, logos, letters, or symbols on the blanket or camping gear.",
+    "imageFile": "kyc-2365.webp"
+  },
+  {
+    "id": "kyc-2366",
+    "word": "twinkle",
+    "targetSense": "闪烁",
+    "anchor": "hill",
+    "anchorMeaning": "山丘，小山",
+    "relation": "To twinkle is to shine with a quick, unsteady light.",
+    "sentence": "A star began to twinkle above the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet hillside at night",
+      "actor": "No people: one bright star twinkles above a dark hill.",
+      "props": [
+        "one bright star",
+        "one dark hill",
+        "one night sky"
+      ],
+      "beats": [
+        "The sky darkens",
+        "A star appears above the hill",
+        "Its light twinkles gently"
+      ],
+      "ending": "A star twinkles above a hill at night."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One star only; no star icons, constellations, text, or symbols.",
+    "imageFile": "kyc-2366.webp"
+  },
+  {
+    "id": "kyc-2367",
+    "word": "unload",
+    "targetSense": "卸下、卸货",
+    "anchor": "truck",
+    "anchorMeaning": "卡车，载重汽车",
+    "relation": "To unload is to remove goods or cargo from a vehicle or container.",
+    "sentence": "They had to unload the truck before dinner.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home driveway",
+      "actor": "Exactly two adults remove plain boxes from the back of one parked truck.",
+      "props": [
+        "one parked truck",
+        "two plain boxes",
+        "one driveway"
+      ],
+      "beats": [
+        "The truck arrives with cargo",
+        "The adults take out the boxes",
+        "The truck is unloaded before dinner"
+      ],
+      "ending": "Two people unload boxes from a truck."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults; boxes have no labels, writing, or logos.",
+    "imageFile": "kyc-2367.webp"
+  },
+  {
+    "id": "kyc-2368",
+    "word": "veil",
+    "targetSense": "面纱",
+    "anchor": "face",
+    "anchorMeaning": "脸，面部",
+    "relation": "A veil is a thin piece of cloth worn over or around the face or head.",
+    "sentence": "The bride wore a veil over her face.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet wedding room",
+      "actor": "One bride wears a simple sheer veil draped over her face.",
+      "props": [
+        "one bride",
+        "one sheer veil",
+        "one plain chair"
+      ],
+      "beats": [
+        "The bride prepares for the ceremony",
+        "She lowers the veil",
+        "The sheer cloth covers her face"
+      ],
+      "ending": "A bride wears a veil over her face."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person only; no wedding signs, logos, text, or symbols.",
+    "imageFile": "kyc-2368.webp"
+  },
+  {
+    "id": "kyc-2369",
+    "word": "warranty",
+    "targetSense": "保修期",
+    "anchor": "shop",
+    "anchorMeaning": "商店，店铺",
+    "relation": "A warranty is a promise to repair or replace a product if it fails within a set period.",
+    "sentence": "The machine came with a warranty from the shop.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small appliance shop",
+      "actor": "One shopkeeper hands a blank warranty card to one customer beside a new machine.",
+      "props": [
+        "one shopkeeper",
+        "one plain machine",
+        "one blank warranty card"
+      ],
+      "beats": [
+        "The customer buys the machine",
+        "The shopkeeper gives a warranty card",
+        "The warranty promises future repair"
+      ],
+      "ending": "A customer receives a warranty with a new machine."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Card must be blank with no writing, numbers, logos, or symbols; exactly two people.",
+    "imageFile": "kyc-2369.webp"
+  },
+  {
+    "id": "kyc-2370",
+    "word": "whisky",
+    "targetSense": "威士忌酒",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "Whisky is a strong alcoholic drink commonly poured into a glass.",
+    "sentence": "He poured whisky into a glass.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home table",
+      "actor": "One adult pours a small amount of whisky from a plain bottle into a clear glass.",
+      "props": [
+        "one plain bottle",
+        "one clear glass",
+        "one adult"
+      ],
+      "beats": [
+        "The glass is set down",
+        "The adult pours the whisky",
+        "The drink rests in the glass"
+      ],
+      "ending": "An adult pours whisky into a glass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No bottle labels, brands, text, or logos; no extra people.",
+    "imageFile": "kyc-2370.webp"
+  },
+  {
+    "id": "kyc-2371",
+    "word": "wholesome",
+    "targetSense": "有益健康的",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "Wholesome describes food or activity that is good for health or well-being.",
+    "sentence": "The wholesome meal included fresh bread and vegetables.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm kitchen table",
+      "actor": "One family member serves a balanced meal with bread and vegetables.",
+      "props": [
+        "one loaf of bread",
+        "one plate of vegetables",
+        "one dining table"
+      ],
+      "beats": [
+        "The meal is prepared",
+        "Fresh bread and vegetables are served",
+        "The wholesome meal is ready"
+      ],
+      "ending": "A wholesome meal includes bread and vegetables."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No food labels, writing, or symbols.",
+    "imageFile": "kyc-2371.webp"
+  },
+  {
+    "id": "kyc-2372",
+    "word": "amaze",
+    "targetSense": "吃惊、惊讶",
+    "anchor": "child",
+    "anchorMeaning": "儿童，小孩",
+    "relation": "To amaze is to fill someone with great surprise or wonder.",
+    "sentence": "The magician's trick will amaze the child.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small living room",
+      "actor": "One magician shows one child a simple surprising trick with a plain handkerchief.",
+      "props": [
+        "one magician",
+        "one child",
+        "one plain handkerchief"
+      ],
+      "beats": [
+        "The child watches closely",
+        "The magician performs the trick",
+        "The child is amazed"
+      ],
+      "ending": "A magician amazes a child with a simple trick."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no sparkles, magic symbols, text, or extra props.",
+    "imageFile": "kyc-2372.webp"
+  },
+  {
+    "id": "kyc-2373",
+    "word": "bait",
+    "targetSense": "饵",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "Bait is food or another lure placed on a hook or trap to attract an animal.",
+    "sentence": "The fisherman put bait on the hook to catch a fish.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet lakeside",
+      "actor": "One fisherman places a small worm bait on a plain fishing hook near the water.",
+      "props": [
+        "one fisherman",
+        "one plain fishing hook with bait",
+        "one lake"
+      ],
+      "beats": [
+        "The fisherman prepares the hook",
+        "Bait is placed on it",
+        "The hook is lowered to catch a fish"
+      ],
+      "ending": "A fisherman puts bait on a hook to catch a fish."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No extra fish, sharp injury, labels, text, or symbols.",
+    "imageFile": "kyc-2373.webp"
+  },
+  {
+    "id": "kyc-2374",
+    "word": "coil",
+    "targetSense": "圈、线圈",
+    "anchor": "wire",
+    "anchorMeaning": "金属丝，金属线",
+    "relation": "A coil is a length of material wound into repeated circular loops.",
+    "sentence": "She wound a coil of wire around the magnet.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple science workbench",
+      "actor": "One person winds a length of wire into a neat coil around a plain magnet.",
+      "props": [
+        "one length of wire",
+        "one plain magnet",
+        "one workbench"
+      ],
+      "beats": [
+        "The wire lies straight",
+        "It is wound into loops",
+        "The coil wraps around the magnet"
+      ],
+      "ending": "A wire coil wraps around a magnet."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No electrical symbols, labels, writing, or diagrams.",
+    "imageFile": "kyc-2374.webp"
+  },
+  {
+    "id": "kyc-2375",
+    "word": "enquiry",
+    "targetSense": "咨询",
+    "anchor": "desk",
+    "anchorMeaning": "书桌，办公桌，写字台",
+    "relation": "An enquiry is a request for information or an official question.",
+    "sentence": "The visitor made an enquiry at the front desk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet reception area",
+      "actor": "One visitor asks one receptionist a question at a plain desk.",
+      "props": [
+        "one visitor",
+        "one receptionist",
+        "one front desk"
+      ],
+      "beats": [
+        "The visitor approaches",
+        "The visitor asks for information",
+        "The receptionist responds to the enquiry"
+      ],
+      "ending": "A visitor makes an enquiry at a front desk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no signs, speech bubbles, text, or labels.",
+    "imageFile": "kyc-2375.webp"
+  },
+  {
+    "id": "kyc-2376",
+    "word": "hypocrisy",
+    "targetSense": "伪善",
+    "anchor": "face",
+    "anchorMeaning": "脸，面部",
+    "relation": "Hypocrisy is pretending to be virtuous while acting otherwise.",
+    "sentence": "His hypocrisy hid behind a kind face.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room with a plain mirror",
+      "actor": "One adult gives a kind smile while the mirror shows a contrasting unkind expression.",
+      "props": [
+        "one adult",
+        "one plain mirror",
+        "one simple chair"
+      ],
+      "beats": [
+        "The adult offers a kind expression",
+        "The reflection shows the hidden contrast",
+        "The hypocrisy is revealed"
+      ],
+      "ending": "A kind-looking face hides the adult’s hypocrisy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person and one reflection only; show no mask or duplicate figure; no text, symbols, or logos.",
+    "imageFile": "kyc-2376.webp"
+  },
+  {
+    "id": "kyc-2377",
+    "word": "interface",
+    "targetSense": "接口",
+    "anchor": "wire",
+    "anchorMeaning": "金属丝，金属线",
+    "relation": "An interface is a point or means of connection between two systems or devices.",
+    "sentence": "The wire served as an interface between the computer and printer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy computer desk",
+      "actor": "No people: one plain wire connects a computer directly to a printer.",
+      "props": [
+        "one wire",
+        "one computer",
+        "one printer"
+      ],
+      "beats": [
+        "The computer and printer sit apart",
+        "The wire connects them",
+        "The interface lets them communicate"
+      ],
+      "ending": "A wire forms an interface between a computer and printer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No screens, UI, icons, labels, text, logos, or numbers on either device.",
+    "imageFile": "kyc-2377.webp"
+  },
+  {
+    "id": "kyc-2378",
+    "word": "invert",
+    "targetSense": "颠倒、反转",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "To invert is to turn something upside down or reverse its position.",
+    "sentence": "She had to invert the cup to empty the water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A kitchen sink",
+      "actor": "One person turns a plain cup upside down over the sink to pour out water.",
+      "props": [
+        "one plain cup",
+        "one small amount of water",
+        "one sink"
+      ],
+      "beats": [
+        "The cup holds water",
+        "The person turns it upside down",
+        "The water empties into the sink"
+      ],
+      "ending": "A cup is inverted to empty its water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, text, or symbols; show one cup only.",
+    "imageFile": "kyc-2378.webp"
+  },
+  {
+    "id": "kyc-2379",
+    "word": "lumber",
+    "targetSense": "木材",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "Lumber is wood prepared as boards or beams for building.",
+    "sentence": "The lumber from the tree became boards for a cabin.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A forest-edge worksite",
+      "actor": "One carpenter stacks cut lumber from a felled tree beside a simple cabin frame.",
+      "props": [
+        "one felled tree",
+        "a stack of plain lumber boards",
+        "one cabin frame"
+      ],
+      "beats": [
+        "The tree is cut into timber",
+        "Lumber is stacked into boards",
+        "The boards are used for the cabin"
+      ],
+      "ending": "Lumber from a tree is stacked beside a cabin frame."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No saw blades near people, labels, text, signs, or symbols.",
+    "imageFile": "kyc-2379.webp"
+  },
+  {
+    "id": "kyc-2380",
+    "word": "adjective",
+    "targetSense": "形容词",
+    "anchor": "pillow",
+    "anchorMeaning": "枕头",
+    "relation": "An adjective is a word that describes a person, place, thing, or quality.",
+    "sentence": "The adjective described the pillow as soft.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple classroom",
+      "actor": "One teacher points to a soft pillow while one student listens to a lesson about describing words.",
+      "props": [
+        "one teacher",
+        "one plain pillow",
+        "one student"
+      ],
+      "beats": [
+        "The pillow is placed on a desk",
+        "The teacher describes its softness",
+        "The adjective explains its quality"
+      ],
+      "ending": "A teacher explains an adjective by describing a pillow as soft."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No writing, letters, labels, or speech bubbles; exactly two people.",
+    "imageFile": "kyc-2380.webp"
+  },
+  {
+    "id": "kyc-2381",
+    "word": "alloy",
+    "targetSense": "合金",
+    "anchor": "metal",
+    "anchorMeaning": "重金属音乐",
+    "relation": "An alloy is a metal made by combining two or more elements, at least one of them a metal.",
+    "sentence": "The metal formed part of a stronger alloy.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple metalworking shop",
+      "actor": "One craftsperson combines copper with another plain metal in a small furnace to form an alloy tool blank.",
+      "props": [
+        "one piece of copper",
+        "one second metal piece",
+        "one small furnace"
+      ],
+      "beats": [
+        "The metals are separate",
+        "They are heated and combined",
+        "A new alloy forms"
+      ],
+      "ending": "Copper and another metal combine to form an alloy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Show two distinct plain metals combined into one alloy; no chemical symbols, labels, text, or diagrams.",
+    "imageFile": "kyc-2381.webp"
+  },
+  {
+    "id": "kyc-2382",
+    "word": "bearing",
+    "targetSense": "轴承",
+    "anchor": "wheel",
+    "anchorMeaning": "轮子，车轮",
+    "relation": "A bearing supports a moving part and reduces friction so it can rotate smoothly.",
+    "sentence": "The bearing allowed the wheel to spin smoothly.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple repair bench",
+      "actor": "No people: one metal bearing sits in the center of a wheel axle, allowing the wheel to turn.",
+      "props": [
+        "one wheel",
+        "one visible bearing",
+        "one axle"
+      ],
+      "beats": [
+        "The wheel turns stiffly",
+        "The bearing supports the axle",
+        "The wheel spins smoothly"
+      ],
+      "ending": "A bearing lets a wheel spin smoothly on its axle."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Show the bearing clearly between wheel and axle; no labels, diagrams, numbers, or symbols.",
+    "imageFile": "kyc-2382.webp"
+  },
+  {
+    "id": "kyc-2383",
+    "word": "bewilder",
+    "targetSense": "使迷惑",
+    "anchor": "path",
+    "anchorMeaning": "小径，小道",
+    "relation": "To bewilder is to confuse someone completely.",
+    "sentence": "The winding path can bewilder a traveler at every turn.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple garden maze",
+      "actor": "One traveler looks completely confused at a confusing path through a hedge maze.",
+      "props": [
+        "one traveler",
+        "one hedge maze",
+        "one plain path junction"
+      ],
+      "beats": [
+        "The traveler enters the maze",
+        "Several paths seem alike",
+        "The traveler is bewildered"
+      ],
+      "ending": "A traveler is bewildered by a confusing path in a maze."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, arrows, letters, numbers, or symbols in the maze.",
+    "imageFile": "kyc-2383.webp"
+  },
+  {
+    "id": "kyc-2384",
+    "word": "bloody",
+    "targetSense": "血腥的",
+    "anchor": "skin",
+    "anchorMeaning": "皮，皮肤",
+    "relation": "Bloody means stained or covered with blood.",
+    "sentence": "A bloody mark stained the skin of his knee after the fall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm home room after a minor fall",
+      "actor": "One child sits safely while a small red-stained bandage covers a scraped knee.",
+      "props": [
+        "one child",
+        "one small bandage",
+        "one plain chair"
+      ],
+      "beats": [
+        "The child scrapes a knee in a fall",
+        "A bandage is placed over it",
+        "A small blood stain shows on the bandage"
+      ],
+      "ending": "A bloody bandage covers a minor scrape on a knee."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Keep the injury mild and non-graphic; show a small red stain on a bandage over the skin; no open wound, text, or labels.",
+    "imageFile": "kyc-2384.webp"
+  },
+  {
+    "id": "kyc-2385",
+    "word": "centigrade",
+    "targetSense": "摄氏的",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "Centigrade is a temperature scale now generally called Celsius.",
+    "sentence": "The centigrade thermometer measured the warm water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen worktop",
+      "actor": "No people: one plain thermometer rests in a clear cup of warm water.",
+      "props": [
+        "one plain thermometer",
+        "one cup of warm water",
+        "one worktop"
+      ],
+      "beats": [
+        "Warm water fills the cup",
+        "The thermometer is placed in it",
+        "The temperature is measured on the centigrade scale"
+      ],
+      "ending": "A thermometer measures warm water on the centigrade scale."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No numbers, degree marks, letters, labels, or symbols on the thermometer or cup.",
+    "imageFile": "kyc-2385.webp"
+  },
+  {
+    "id": "kyc-2386",
+    "word": "choir",
+    "targetSense": "唱诗班",
+    "anchor": "song",
+    "anchorMeaning": "歌，歌曲",
+    "relation": "A choir is an organized group of people who sing together.",
+    "sentence": "The song filled the church as the choir sang.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple church interior without symbols",
+      "actor": "Exactly two choir members sing together from one plain songbook in a quiet church.",
+      "props": [
+        "two choir members",
+        "one plain songbook",
+        "one simple church room"
+      ],
+      "beats": [
+        "The singers gather",
+        "They sing the song together",
+        "Their voices form a choir"
+      ],
+      "ending": "Two choir members sing a song together."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No crosses, religious icons, writing, sheet music notes, or extra singers.",
+    "imageFile": "kyc-2386.webp"
+  },
+  {
+    "id": "kyc-2387",
+    "word": "cloak",
+    "targetSense": "隐匿、外衣；遮掩",
+    "anchor": "rain",
+    "anchorMeaning": "雨，雨水",
+    "relation": "A cloak is a loose outer garment worn over other clothes for warmth or protection.",
+    "sentence": "He wore a cloak against the rain.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A country path during light rain",
+      "actor": "One traveler wears a plain long cloak while walking in light rain.",
+      "props": [
+        "one traveler",
+        "one plain cloak",
+        "one rain-darkened path"
+      ],
+      "beats": [
+        "Rain begins to fall",
+        "The traveler puts on a cloak",
+        "The cloak protects him from the rain"
+      ],
+      "ending": "A traveler wears a cloak in the rain."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No cloak patterns, emblems, text, or logos; no rain icons.",
+    "imageFile": "kyc-2387.webp"
+  },
+  {
+    "id": "kyc-2388",
+    "word": "debut",
+    "targetSense": "初次登场",
+    "anchor": "stage",
+    "anchorMeaning": "阶段，时期",
+    "relation": "A debut is a person's first public appearance or performance.",
+    "sentence": "The young dancer made her debut on the stage.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small theater stage before the audience arrives",
+      "actor": "One young dancer performs her first bow on a plain stage.",
+      "props": [
+        "one young dancer",
+        "one plain stage",
+        "one curtain"
+      ],
+      "beats": [
+        "The dancer steps onto the stage",
+        "She performs for the first time",
+        "She takes her debut bow"
+      ],
+      "ending": "A young dancer makes her debut on stage."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No audience, posters, stage signs, text, or symbols.",
+    "imageFile": "kyc-2388.webp"
+  },
+  {
+    "id": "kyc-2389",
+    "word": "dwelling",
+    "targetSense": "住宅",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶，车顶",
+    "relation": "A dwelling is a place where people live.",
+    "sentence": "The family built a dwelling beneath a sturdy roof.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple countryside home",
+      "actor": "Exactly two family members finish a small dwelling beneath a sturdy roof.",
+      "props": [
+        "two family members",
+        "one small dwelling",
+        "one sturdy roof"
+      ],
+      "beats": [
+        "The walls are raised",
+        "The roof is placed on top",
+        "The dwelling becomes ready to live in"
+      ],
+      "ending": "A family finishes a dwelling beneath a sturdy roof."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no house numbers, signs, writing, or logos.",
+    "imageFile": "kyc-2389.webp"
+  },
+  {
+    "id": "kyc-2390",
+    "word": "harden",
+    "targetSense": "硬化",
+    "anchor": "sun",
+    "anchorMeaning": "太阳（the sun）",
+    "relation": "To harden is to become firm or solid.",
+    "sentence": "The sun can harden the wet clay.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny pottery yard",
+      "actor": "No people: one lump of wet clay dries and hardens in the sun beside a clay pot.",
+      "props": [
+        "one lump of clay",
+        "one plain clay pot",
+        "one patch of sunlight"
+      ],
+      "beats": [
+        "The clay is soft",
+        "Sun warms and dries it",
+        "The clay hardens into a firm shape"
+      ],
+      "ending": "Sunlight hardens wet clay beside a pot."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, text, or symbols; keep clay visibly firming.",
+    "imageFile": "kyc-2390.webp"
+  },
+  {
+    "id": "kyc-2391",
+    "word": "inhale",
+    "targetSense": "吸入",
+    "anchor": "air",
+    "anchorMeaning": "大气，空气",
+    "relation": "To inhale is to breathe air into the lungs.",
+    "sentence": "The swimmer had to inhale air before diving.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet poolside",
+      "actor": "One swimmer takes a deep breath of air before entering the water.",
+      "props": [
+        "one swimmer",
+        "one pool edge",
+        "one towel"
+      ],
+      "beats": [
+        "The swimmer stands by the pool",
+        "The swimmer inhales deeply",
+        "The swimmer prepares to dive"
+      ],
+      "ending": "A swimmer inhales air before diving."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One swimmer only; no bubbles around the face, text, or symbols.",
+    "imageFile": "kyc-2391.webp"
+  },
+  {
+    "id": "kyc-2392",
+    "word": "mourn",
+    "targetSense": "哀悼",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "To mourn is to feel or show sorrow after someone has died or been lost.",
+    "sentence": "They had to mourn their friend after the funeral.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden after a funeral",
+      "actor": "Exactly two friends stand together in silence beside a simple flower arrangement.",
+      "props": [
+        "two friends",
+        "one simple flower arrangement",
+        "one garden bench"
+      ],
+      "beats": [
+        "The friends remember someone they lost",
+        "They stand together quietly",
+        "They mourn their friend"
+      ],
+      "ending": "Two friends mourn a friend in a quiet garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; gentle, respectful mood; no grave, text, religious symbols, or distress.",
+    "imageFile": "kyc-2392.webp"
+  },
+  {
+    "id": "kyc-2393",
+    "word": "necessitate",
+    "targetSense": "迫使",
+    "anchor": "wall",
+    "anchorMeaning": "城墙，围墙",
+    "relation": "To necessitate is to make something necessary or unavoidable.",
+    "sentence": "The crack in the wall will necessitate a repair.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain home interior",
+      "actor": "One homeowner points at a clear crack in a wall that needs repair.",
+      "props": [
+        "one homeowner",
+        "one cracked wall",
+        "one plain repair tool"
+      ],
+      "beats": [
+        "The crack appears",
+        "The homeowner notices it",
+        "The crack necessitates a repair"
+      ],
+      "ending": "A crack in the wall makes a repair necessary."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, text, symbols, or extra people.",
+    "imageFile": "kyc-2393.webp"
+  },
+  {
+    "id": "kyc-2394",
+    "word": "obstruct",
+    "targetSense": "妨碍",
+    "anchor": "road",
+    "anchorMeaning": "路，公路，马路，街",
+    "relation": "To obstruct is to block or get in the way of movement or progress.",
+    "sentence": "A fallen tree can obstruct the road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet country road after a storm",
+      "actor": "No people: one fallen tree blocks the full width of a narrow road.",
+      "props": [
+        "one fallen tree",
+        "one blocked road",
+        "one roadside ditch"
+      ],
+      "beats": [
+        "The tree falls across the road",
+        "The road is blocked",
+        "Travel is obstructed"
+      ],
+      "ending": "A fallen tree obstructs a road."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Make the road impassable; no arrows, signs, text, or symbols.",
+    "imageFile": "kyc-2394.webp"
+  },
+  {
+    "id": "kyc-2395",
+    "word": "oxide",
+    "targetSense": "氧化物",
+    "anchor": "metal",
+    "anchorMeaning": "重金属音乐",
+    "relation": "An oxide is a chemical compound formed when oxygen combines with another element.",
+    "sentence": "Rust is an oxide that forms on metal.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workshop table",
+      "actor": "No people: a rusted metal object rests beside a clean iron piece to show an oxide forming on metal.",
+      "props": [
+        "one rusted metal piece",
+        "one clean metal piece",
+        "one workbench"
+      ],
+      "beats": [
+        "The metal is exposed to air and moisture",
+        "A rust-colored oxide forms",
+        "The metal surface changes"
+      ],
+      "ending": "A rust-colored oxide appears on metal."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No chemical symbols, formulas, writing, labels, or diagrams.",
+    "imageFile": "kyc-2395.webp"
+  },
+  {
+    "id": "kyc-2396",
+    "word": "panorama",
+    "targetSense": "全景",
+    "anchor": "hill",
+    "anchorMeaning": "山丘，小山",
+    "relation": "A panorama is a wide, complete view of a large area.",
+    "sentence": "From the hill, the panorama showed the whole village.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A lookout on a green hill",
+      "actor": "One hiker looks out over a broad view of an entire village from the hilltop.",
+      "props": [
+        "one hiker",
+        "one hilltop",
+        "one wide village view"
+      ],
+      "beats": [
+        "The hiker climbs the hill",
+        "The view opens across the valley",
+        "The panorama reveals the whole village"
+      ],
+      "ending": "A hiker sees a panorama of the village from a hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No map labels, signs, text, or symbols.",
+    "imageFile": "kyc-2396.webp"
+  },
+  {
+    "id": "kyc-2397",
+    "word": "rake",
+    "targetSense": "耙子",
+    "anchor": "garden",
+    "anchorMeaning": "花园，菜园，果园",
+    "relation": "A rake is a long-handled tool used to gather leaves or loosen soil.",
+    "sentence": "She used a rake to clear the garden.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home garden",
+      "actor": "One gardener pulls a plain rake across the garden bed to collect fallen leaves.",
+      "props": [
+        "one gardener",
+        "one plain rake",
+        "one garden bed"
+      ],
+      "beats": [
+        "Leaves cover the garden",
+        "The gardener uses the rake",
+        "The bed is cleared"
+      ],
+      "ending": "A gardener clears a garden with a rake."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, labels, text, or symbols.",
+    "imageFile": "kyc-2397.webp"
+  },
+  {
+    "id": "kyc-2398",
+    "word": "repertoire",
+    "targetSense": "全部节目",
+    "anchor": "song",
+    "anchorMeaning": "歌，歌曲",
+    "relation": "A repertoire is the full set of works or performances someone can present.",
+    "sentence": "One song from the band's repertoire delighted the audience.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small music hall",
+      "actor": "One musician selects one familiar song from a small set of blank music folders.",
+      "props": [
+        "one musician",
+        "one plain songbook",
+        "one small stack of blank music folders"
+      ],
+      "beats": [
+        "The musician reviews the available songs",
+        "One song is chosen",
+        "The repertoire is ready for performance"
+      ],
+      "ending": "A musician chooses one song from a broad repertoire."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No sheet music notes, writing, letters, signs, or extra musicians.",
+    "imageFile": "kyc-2398.webp"
+  },
+  {
+    "id": "kyc-2399",
+    "word": "spiral",
+    "targetSense": "螺旋",
+    "anchor": "circle",
+    "anchorMeaning": "圆，圆形物",
+    "relation": "A spiral is a curve that circles around a center while moving farther away.",
+    "sentence": "A circle curled into a spiral on the shell's surface.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sandy beach",
+      "actor": "No people: one large shell displays a clearly visible spiral curve.",
+      "props": [
+        "one shell",
+        "one patch of sand",
+        "one small tide pool"
+      ],
+      "beats": [
+        "The shell rests on the sand",
+        "Its curve winds around a center",
+        "The spiral shape is clear"
+      ],
+      "ending": "A shell shows a spiral winding around its center."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One shell only; no diagram lines, labels, or symbols.",
+    "imageFile": "kyc-2399.webp"
+  },
+  {
+    "id": "kyc-2400",
+    "word": "staircase",
+    "targetSense": "楼梯",
+    "anchor": "room",
+    "anchorMeaning": "房间，室",
+    "relation": "A staircase is a set of steps joining different levels of a building.",
+    "sentence": "The staircase connected the room to the upper floor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple two-story home interior",
+      "actor": "No people: one staircase rises from a plain room to the upper floor.",
+      "props": [
+        "one staircase",
+        "one lower room",
+        "one upper floor landing"
+      ],
+      "beats": [
+        "The lower room is visible",
+        "The staircase rises upward",
+        "It connects to the upper level"
+      ],
+      "ending": "A staircase connects a room to the upper floor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, house numbers, writing, or symbols.",
+    "imageFile": "kyc-2400.webp"
+  },
+  {
+    "id": "kyc-2401",
+    "word": "triangle",
+    "targetSense": "三角形",
+    "anchor": "stick",
+    "anchorMeaning": "粘，贴",
+    "relation": "A triangle is a shape with three straight sides and three corners.",
+    "sentence": "One stick joined two more to form a triangle on the floor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain playroom floor",
+      "actor": "No people: exactly three straight sticks are laid to form one triangle on the floor.",
+      "props": [
+        "exactly three sticks",
+        "one triangular shape",
+        "one plain floor"
+      ],
+      "beats": [
+        "Three sticks are placed down",
+        "Their ends meet",
+        "The triangle is complete"
+      ],
+      "ending": "Three sticks form a triangle on the floor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Show exactly three straight sticks and one clear triangle; no letters, numbers, or diagrams.",
+    "imageFile": "kyc-2401.webp"
+  },
+  {
+    "id": "kyc-2402",
+    "word": "adjacent",
+    "targetSense": "邻近的",
+    "anchor": "house",
+    "anchorMeaning": "房子，住宅",
+    "relation": "Adjacent means next to or directly beside something.",
+    "sentence": "The adjacent house stood next to our home.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet residential street",
+      "actor": "No people: two neighboring houses stand directly beside one another.",
+      "props": [
+        "one house",
+        "one adjacent house",
+        "one shared street"
+      ],
+      "beats": [
+        "One house stands on the street",
+        "Another house sits directly beside it",
+        "The houses are adjacent"
+      ],
+      "ending": "One adjacent house stands next to another home."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No house numbers, signs, writing, or logos.",
+    "imageFile": "kyc-2402.webp"
+  },
+  {
+    "id": "kyc-2403",
+    "word": "antenna",
+    "targetSense": "天线",
+    "anchor": "radio",
+    "anchorMeaning": "收音机",
+    "relation": "An antenna sends or receives radio signals.",
+    "sentence": "The radio antenna caught a signal from far away.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple home roof",
+      "actor": "No people: one long antenna rises above a small house beside a plain radio indoors.",
+      "props": [
+        "one plain radio",
+        "one long antenna",
+        "one house roof"
+      ],
+      "beats": [
+        "The radio rests inside",
+        "The antenna reaches above the roof",
+        "It receives a distant signal"
+      ],
+      "ending": "A radio antenna reaches above a roof."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No radio labels, numbers, symbols, logos, or text.",
+    "imageFile": "kyc-2403.webp"
+  },
+  {
+    "id": "kyc-2404",
+    "word": "approximate",
+    "targetSense": "接近",
+    "anchor": "rope",
+    "anchorMeaning": "粗绳，绳索",
+    "relation": "Approximate means close to the correct amount or value, but not exact.",
+    "sentence": "The rope's approximate length matched the stick beside it.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain worktable",
+      "actor": "One person compares a rope with a plain ruler to estimate its approximate length.",
+      "props": [
+        "one rope",
+        "one unmarked ruler",
+        "one person"
+      ],
+      "beats": [
+        "The rope is laid out",
+        "The ruler is placed beside it",
+        "The approximate length is judged"
+      ],
+      "ending": "A rope's approximate length is compared with a ruler."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Compare the rope with a plain unmarked ruler; no measurement marks, numbers, text, or symbols.",
+    "imageFile": "kyc-2404.webp"
+  },
+  {
+    "id": "kyc-2405",
+    "word": "arena",
+    "targetSense": "竞技场",
+    "anchor": "field",
+    "anchorMeaning": "田地，田野",
+    "relation": "An arena is a large enclosed place where sports or public events are held.",
+    "sentence": "The field lay in the center of a packed arena.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad sports arena",
+      "actor": "No people: one open field sits in the center of a large ring of empty seats.",
+      "props": [
+        "one central field",
+        "one ring of seats",
+        "one arena roof"
+      ],
+      "beats": [
+        "The arena surrounds the space",
+        "The field sits in the middle",
+        "The event area is ready"
+      ],
+      "ending": "A field lies in the center of an arena."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No scoreboard, numbers, flags, signs, or logos.",
+    "imageFile": "kyc-2405.webp"
+  },
+  {
+    "id": "kyc-2406",
+    "word": "artery",
+    "targetSense": "动脉",
+    "anchor": "heart",
+    "anchorMeaning": "心，心脏",
+    "relation": "An artery is a blood vessel that carries blood away from the heart.",
+    "sentence": "The artery carried blood from the heart.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm science classroom",
+      "actor": "One teacher points to a simple heart-and-artery model for one student.",
+      "props": [
+        "one teacher",
+        "one plain heart model",
+        "one simple artery tube"
+      ],
+      "beats": [
+        "The heart pumps",
+        "Blood enters the artery",
+        "The artery carries it away"
+      ],
+      "ending": "An artery carries blood away from the heart."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Use a simple non-graphic teaching model; no medical crosses, labels, or text.",
+    "imageFile": "kyc-2406.webp"
+  },
+  {
+    "id": "kyc-2407",
+    "word": "auditorium",
+    "targetSense": "礼堂",
+    "anchor": "stage",
+    "anchorMeaning": "阶段，时期",
+    "relation": "An auditorium is a large room or hall where people gather to watch performances or hear talks.",
+    "sentence": "The stage stood inside the auditorium.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An empty performance hall",
+      "actor": "No people: one plain stage stands before rows of empty seats inside a large auditorium.",
+      "props": [
+        "one stage",
+        "rows of empty seats",
+        "one high ceiling"
+      ],
+      "beats": [
+        "The hall is empty",
+        "The stage is visible at the front",
+        "The auditorium is ready for an event"
+      ],
+      "ending": "A stage stands inside an empty auditorium."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, posters, text, seat numbers, or logos.",
+    "imageFile": "kyc-2407.webp"
+  },
+  {
+    "id": "kyc-2408",
+    "word": "autumn",
+    "targetSense": "秋天",
+    "anchor": "leaf",
+    "anchorMeaning": "叶，叶子",
+    "relation": "Autumn is the season when many leaves change color and fall.",
+    "sentence": "The leaf turned gold in autumn.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet woodland in autumn",
+      "actor": "No people: one golden leaf hangs from a tree branch in fall.",
+      "props": [
+        "one golden leaf",
+        "one tree branch",
+        "one woodland path"
+      ],
+      "beats": [
+        "The leaf is green",
+        "The season cools",
+        "The leaf turns gold in autumn"
+      ],
+      "ending": "A leaf turns gold in autumn."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No extra leaves dominating the scene, no text, signs, or symbols.",
+    "imageFile": "kyc-2408.webp"
+  },
+  {
+    "id": "kyc-2409",
+    "word": "bandage",
+    "targetSense": "绷带",
+    "anchor": "knee",
+    "anchorMeaning": "膝盖，膝关节",
+    "relation": "A bandage is a strip of material used to cover or support an injured part of the body.",
+    "sentence": "She wrapped a bandage around her knee.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm home room",
+      "actor": "One child carefully wraps a plain bandage around one scraped knee.",
+      "props": [
+        "one child",
+        "one plain bandage",
+        "one chair"
+      ],
+      "beats": [
+        "The knee is lightly scraped",
+        "The bandage is wrapped around it",
+        "The knee is protected"
+      ],
+      "ending": "A bandage wraps around a child's knee."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Keep the scrape mild and non-graphic; no blood, medical symbols, text, or labels.",
+    "imageFile": "kyc-2409.webp"
+  },
+  {
+    "id": "kyc-2410",
+    "word": "bibliography",
+    "targetSense": "参考书目",
+    "anchor": "book",
+    "anchorMeaning": "书，书籍",
+    "relation": "A bibliography is a list of books and other sources used or consulted in a piece of work.",
+    "sentence": "The book appeared in the bibliography.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study desk",
+      "actor": "One student places a plain book beside a blank bibliography sheet.",
+      "props": [
+        "one plain book",
+        "one blank bibliography sheet",
+        "one desk"
+      ],
+      "beats": [
+        "The student consults the book",
+        "The source is added to the list",
+        "The book appears in the bibliography"
+      ],
+      "ending": "A book is included in a bibliography."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Paper must be blank with no writing, letters, numbers, or symbols.",
+    "imageFile": "kyc-2410.webp"
+  },
+  {
+    "id": "kyc-2411",
+    "word": "blossom",
+    "targetSense": "花",
+    "anchor": "spring",
+    "anchorMeaning": "春天，春季",
+    "relation": "A blossom is a flower, especially one growing on a tree or bush.",
+    "sentence": "A blossom opened in spring.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden at the start of spring",
+      "actor": "No people: one pale blossom opens on a branch in spring sunlight.",
+      "props": [
+        "one blossom",
+        "one bare branch",
+        "one patch of spring light"
+      ],
+      "beats": [
+        "The branch is bare",
+        "The blossom opens",
+        "Spring color appears"
+      ],
+      "ending": "A blossom opens on a branch in spring."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No floral symbols, labels, text, or signs.",
+    "imageFile": "kyc-2411.webp"
+  },
+  {
+    "id": "kyc-2412",
+    "word": "cannon",
+    "targetSense": "大炮",
+    "anchor": "war",
+    "anchorMeaning": "战争，战争状态",
+    "relation": "A cannon is a large mounted gun used to fire heavy projectiles.",
+    "sentence": "The cannon stood beside the fort after the war.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An old stone fort after a conflict",
+      "actor": "No people: one old cannon rests beside a plain stone fort after the war has ended.",
+      "props": [
+        "one old cannon",
+        "one stone fort",
+        "one empty field"
+      ],
+      "beats": [
+        "The war ends",
+        "The cannon stands silent",
+        "The fort remains beside the field"
+      ],
+      "ending": "An old cannon stands beside a fort after the war."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No firing, explosions, bodies, flags, text, or military symbols.",
+    "imageFile": "kyc-2412.webp"
+  },
+  {
+    "id": "kyc-2413",
+    "word": "cardinal",
+    "targetSense": "基本的",
+    "anchor": "rule",
+    "anchorMeaning": "规章，条例",
+    "relation": "Cardinal means most important or fundamental.",
+    "sentence": "Trust is a cardinal rule of friendship.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom",
+      "actor": "Exactly two people: one teacher explains an important rule of trust to one student.",
+      "props": [
+        "one teacher",
+        "one blank rule card",
+        "one student"
+      ],
+      "beats": [
+        "The teacher presents a key rule",
+        "The student listens carefully",
+        "Trust is shown as cardinal"
+      ],
+      "ending": "A teacher explains a cardinal rule of trust to one student."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; rule card is blank, with no writing, letters, or symbols.",
+    "imageFile": "kyc-2413.webp"
+  },
+  {
+    "id": "kyc-2414",
+    "word": "clergy",
+    "targetSense": "神职人员",
+    "anchor": "church",
+    "anchorMeaning": "教堂",
+    "relation": "Clergy are the people authorized to lead religious services in a church or faith community.",
+    "sentence": "The clergy gathered inside the church.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple church room without decorations",
+      "actor": "Exactly two clergy members stand together inside a plain church room.",
+      "props": [
+        "two clergy members",
+        "one plain church room",
+        "one simple bench"
+      ],
+      "beats": [
+        "The clergy arrive",
+        "They gather in the church",
+        "They prepare to lead a service"
+      ],
+      "ending": "Two clergy members gather inside a church."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no crosses, icons, religious symbols, writing, or signs.",
+    "imageFile": "kyc-2414.webp"
+  },
+  {
+    "id": "kyc-2415",
+    "word": "clutch",
+    "targetSense": "抓住、离合器",
+    "anchor": "handle",
+    "anchorMeaning": "拿",
+    "relation": "To clutch is to hold something tightly with the hand.",
+    "sentence": "She had to clutch the handle when the bus stopped.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Inside a plain bus",
+      "actor": "One passenger grips a plain overhead handle as the bus stops.",
+      "props": [
+        "one passenger",
+        "one plain handle",
+        "one bus seat"
+      ],
+      "beats": [
+        "The bus moves",
+        "It stops suddenly",
+        "The passenger clutches the handle"
+      ],
+      "ending": "A passenger clutches a handle when the bus stops."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No bus logos, route signs, text, or numbers; one connected hand and arm.",
+    "imageFile": "kyc-2415.webp"
+  },
+  {
+    "id": "kyc-2416",
+    "word": "cohesive",
+    "targetSense": "团结的；粘性的",
+    "anchor": "glue",
+    "anchorMeaning": "胶水",
+    "relation": "Cohesive means sticking or holding together as a unified whole.",
+    "sentence": "Glue kept the paper pieces cohesive as she assembled the collage.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain craft table",
+      "actor": "One person presses paper pieces together with glue to make one unified collage.",
+      "props": [
+        "one glue pot",
+        "several plain paper pieces",
+        "one craft table"
+      ],
+      "beats": [
+        "The paper pieces are separate",
+        "Glue joins them",
+        "They hold together as one cohesive collage"
+      ],
+      "ending": "Glue makes paper pieces cohesive in a collage."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Paper must be blank without writing, letters, or symbols.",
+    "imageFile": "kyc-2416.webp"
+  },
+  {
+    "id": "kyc-2417",
+    "word": "configuration",
+    "targetSense": "构造",
+    "anchor": "room",
+    "anchorMeaning": "房间，室",
+    "relation": "Configuration is the arrangement or shape of parts in a whole.",
+    "sentence": "The room's configuration changed when chairs were rearranged.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain meeting room",
+      "actor": "No people: several chairs are rearranged from a row into a circle in the room.",
+      "props": [
+        "one row of chairs",
+        "one circular chair arrangement",
+        "one empty room"
+      ],
+      "beats": [
+        "Chairs start in a row",
+        "They are moved",
+        "The new configuration forms a circle"
+      ],
+      "ending": "A new configuration of chairs changes the room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No extra furniture, signs, text, or symbols.",
+    "imageFile": "kyc-2417.webp"
+  },
+  {
+    "id": "kyc-2418",
+    "word": "contagious",
+    "targetSense": "传染性的",
+    "anchor": "cold",
+    "anchorMeaning": "冷的，凉的",
+    "relation": "Contagious means able to spread from one person to another through contact or air.",
+    "sentence": "The contagious cold spread through the family.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home living room",
+      "actor": "Exactly two family members: one has a mild cold while the other keeps a little distance and wears a plain scarf.",
+      "props": [
+        "two family members",
+        "one plain scarf",
+        "one tissue"
+      ],
+      "beats": [
+        "One person catches a cold",
+        "They stay near one another",
+        "The cold is contagious and spreads"
+      ],
+      "ending": "A contagious cold passes from one family member to another."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no medical crosses, signs, text, or exaggerated illness.",
+    "imageFile": "kyc-2418.webp"
+  },
+  {
+    "id": "kyc-2419",
+    "word": "crow",
+    "targetSense": "乌鸦",
+    "anchor": "corn",
+    "anchorMeaning": "谷物，谷粒",
+    "relation": "A crow is a large black bird often seen searching for food in fields.",
+    "sentence": "The crow landed beside the corn in the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A farm field",
+      "actor": "One crow stands beside a few ears of corn on the ground.",
+      "props": [
+        "one crow",
+        "several ears of corn",
+        "one field"
+      ],
+      "beats": [
+        "Corn lies in the field",
+        "The crow approaches",
+        "It lands beside the corn"
+      ],
+      "ending": "A crow lands beside corn in a field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One crow only with natural bird anatomy; no text, scarecrow symbols, or extra animals.",
+    "imageFile": "kyc-2419.webp"
+  },
+  {
+    "id": "kyc-2420",
+    "word": "denounce",
+    "targetSense": "谴责",
+    "anchor": "law",
+    "anchorMeaning": "法律（体系）",
+    "relation": "To denounce is to publicly condemn or criticize something strongly.",
+    "sentence": "The mayor chose to denounce the unfair law.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain town meeting room",
+      "actor": "One mayor speaks firmly while holding a blank sheet representing an unfair law.",
+      "props": [
+        "one mayor",
+        "one blank sheet",
+        "one plain table"
+      ],
+      "beats": [
+        "The mayor reviews the law",
+        "The mayor rejects it",
+        "The mayor denounces the unfair law"
+      ],
+      "ending": "A mayor denounces an unfair law."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Paper must be blank; no signs, text, flags, seals, or symbols.",
+    "imageFile": "kyc-2420.webp"
+  },
+  {
+    "id": "kyc-2421",
+    "word": "deplore",
+    "targetSense": "谴责",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "To deplore is to feel or express strong disapproval or sorrow about something.",
+    "sentence": "They deplore the loss of the old bridge.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A riverside where an old bridge has collapsed",
+      "actor": "Exactly two residents look sadly at the remains of a plain bridge.",
+      "props": [
+        "two residents",
+        "one damaged bridge",
+        "one river"
+      ],
+      "beats": [
+        "The bridge is lost",
+        "The residents see the damage",
+        "They deplore what happened"
+      ],
+      "ending": "Two residents deplore the loss of an old bridge."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No injuries, bodies, signs, text, or symbols; exactly two people.",
+    "imageFile": "kyc-2421.webp"
+  },
+  {
+    "id": "kyc-2422",
+    "word": "disc",
+    "targetSense": "圆盘",
+    "anchor": "music",
+    "anchorMeaning": "音乐，乐曲",
+    "relation": "A disc is a flat, round object or recording medium that spins in a player.",
+    "sentence": "The music player spun a disc.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "No people: one plain music player spins one unmarked round disc.",
+      "props": [
+        "one plain music player",
+        "one unmarked disc",
+        "one low table"
+      ],
+      "beats": [
+        "The disc is placed in the player",
+        "The player starts",
+        "The disc spins as music plays"
+      ],
+      "ending": "A music player spins a disc."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No titles, logos, numbers, writing, or musical symbols on the disc or player.",
+    "imageFile": "kyc-2422.webp"
+  },
+  {
+    "id": "kyc-2423",
+    "word": "distil",
+    "targetSense": "蒸馏",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "To distil is to purify or separate a liquid by heating it and condensing its vapor.",
+    "sentence": "They used heat to distil water in a glass apparatus.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple science workbench",
+      "actor": "One scientist distils water in a plain glass apparatus with vapor condensing into a clean vessel.",
+      "props": [
+        "one glass distillation apparatus",
+        "one water vessel",
+        "one small heat source"
+      ],
+      "beats": [
+        "Water is heated",
+        "Vapor rises and condenses",
+        "Cleaner water collects in the vessel"
+      ],
+      "ending": "A scientist distils water with a glass apparatus."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, text, chemical symbols, or diagrams; safe small heat source.",
+    "imageFile": "kyc-2423.webp"
+  },
+  {
+    "id": "kyc-2424",
+    "word": "dusk",
+    "targetSense": "黄昏",
+    "anchor": "sun",
+    "anchorMeaning": "太阳（the sun）",
+    "relation": "Dusk is the time of day just after sunset, when it becomes dark.",
+    "sentence": "The sun sank below the hills at dusk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Rolling hills at sunset",
+      "actor": "No people: the sun sets behind distant hills as the sky dims into dusk.",
+      "props": [
+        "one setting sun",
+        "one line of hills",
+        "one darkening sky"
+      ],
+      "beats": [
+        "The sun lowers",
+        "It slips behind the hills",
+        "Dusk settles over the landscape"
+      ],
+      "ending": "The sun sets behind hills at dusk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No clock faces, text, or symbols.",
+    "imageFile": "kyc-2424.webp"
+  },
+  {
+    "id": "kyc-2425",
+    "word": "emphasise",
+    "targetSense": "着重",
+    "anchor": "voice",
+    "anchorMeaning": "嗓音，说话声，歌唱声",
+    "relation": "To emphasise is to give special importance or attention to something.",
+    "sentence": "The teacher used her voice to emphasise the key point.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom",
+      "actor": "One teacher speaks with clear emphasis while one student listens.",
+      "props": [
+        "one teacher",
+        "one student",
+        "one plain desk"
+      ],
+      "beats": [
+        "The teacher begins explaining",
+        "Her voice grows especially clear",
+        "The key point is emphasised"
+      ],
+      "ending": "A teacher uses her voice to emphasise one point."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no speech bubbles, writing, text, or symbols.",
+    "imageFile": "kyc-2425.webp"
+  },
+  {
+    "id": "kyc-2426",
+    "word": "exterior",
+    "targetSense": "外部",
+    "anchor": "house",
+    "anchorMeaning": "房子，住宅",
+    "relation": "Exterior means the outside surface or part of something.",
+    "sentence": "The exterior of the house needed fresh paint.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Outside a small house",
+      "actor": "One painter prepares the outside wall of a house for fresh paint.",
+      "props": [
+        "one house exterior",
+        "one paintbrush",
+        "one plain paint pot"
+      ],
+      "beats": [
+        "The outside wall looks worn",
+        "The painter prepares the surface",
+        "The exterior is ready for fresh paint"
+      ],
+      "ending": "A house's exterior is prepared for repainting."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No house numbers, paint labels, signs, or logos.",
+    "imageFile": "kyc-2426.webp"
+  },
+  {
+    "id": "kyc-2427",
+    "word": "fabricate",
+    "targetSense": "制造",
+    "anchor": "wood",
+    "anchorMeaning": "木材，木料，木头",
+    "relation": "To fabricate is to make or construct something, especially by assembling materials.",
+    "sentence": "The carpenter used wood to fabricate a chair.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A carpentry workshop",
+      "actor": "One carpenter assembles plain wooden boards into a simple chair.",
+      "props": [
+        "one carpenter",
+        "plain wooden boards",
+        "one partly made chair"
+      ],
+      "beats": [
+        "The wood is prepared",
+        "The carpenter shapes and joins it",
+        "A chair is fabricated"
+      ],
+      "ending": "A carpenter fabricates a chair from wood."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No tool labels, writing, logos, or symbols.",
+    "imageFile": "kyc-2427.webp"
+  },
+  {
+    "id": "kyc-2428",
+    "word": "fellowship",
+    "targetSense": "奖学金、友谊",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "Fellowship is a friendly association or sense of companionship among people.",
+    "sentence": "One friend found fellowship with the others on the hike.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A mountain trail rest stop",
+      "actor": "Exactly two hikers share food and conversation during a rest on the trail.",
+      "props": [
+        "two friends",
+        "one trail rest spot",
+        "one plain lunch basket"
+      ],
+      "beats": [
+        "The hikers meet on the trail",
+        "They share a quiet rest",
+        "A sense of fellowship grows"
+      ],
+      "ending": "Friends share fellowship during a hike."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no text, logos, or symbols on clothing or food containers.",
+    "imageFile": "kyc-2428.webp"
+  },
+  {
+    "id": "kyc-2429",
+    "word": "foam",
+    "targetSense": "泡沫",
+    "anchor": "soap",
+    "anchorMeaning": "肥皂",
+    "relation": "Foam is a mass of small bubbles formed in liquid or on its surface.",
+    "sentence": "Soap formed foam in the water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple wash basin",
+      "actor": "No people: soap creates a layer of white foam on water in a basin.",
+      "props": [
+        "one bar of soap",
+        "one basin of water",
+        "one layer of foam"
+      ],
+      "beats": [
+        "Water fills the basin",
+        "Soap is added",
+        "Foam forms on the surface"
+      ],
+      "ending": "Soap makes foam on the water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, text, or symbols; show foam as many small bubbles.",
+    "imageFile": "kyc-2429.webp"
+  },
+  {
+    "id": "kyc-2430",
+    "word": "footstep",
+    "targetSense": "脚步",
+    "anchor": "floor",
+    "anchorMeaning": "（房间的）地板，地面",
+    "relation": "A footstep is the sound or action of a foot touching the ground while walking.",
+    "sentence": "A footstep echoed across the floor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A long empty hallway",
+      "actor": "One person takes a single step across a bare floor.",
+      "props": [
+        "one person",
+        "one bare floor",
+        "one hallway wall"
+      ],
+      "beats": [
+        "The hallway is quiet",
+        "One foot lands on the floor",
+        "A footstep echoes through the hall"
+      ],
+      "ending": "One footstep echoes across an empty floor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person with normal anatomy; no sound-wave marks, text, or symbols.",
+    "imageFile": "kyc-2430.webp"
+  },
+  {
+    "id": "kyc-2431",
+    "word": "freelance",
+    "targetSense": "自由职业者",
+    "anchor": "work",
+    "anchorMeaning": "工作，职业",
+    "relation": "Freelance work is done independently for different clients rather than as a permanent employee.",
+    "sentence": "She chose freelance work as a designer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home workroom",
+      "actor": "One independent designer works alone at a plain desk with a laptop and sketchpad.",
+      "props": [
+        "one designer",
+        "one plain laptop",
+        "one blank sketchpad"
+      ],
+      "beats": [
+        "The designer sets up her work",
+        "She chooses projects independently",
+        "She works freelance"
+      ],
+      "ending": "A designer does freelance work from home."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Laptop screen and sketchpad must be blank, with no UI, text, letters, or logos.",
+    "imageFile": "kyc-2431.webp"
+  },
+  {
+    "id": "kyc-2432",
+    "word": "goose",
+    "targetSense": "鹅",
+    "anchor": "pond",
+    "anchorMeaning": "（人工或自然的）池塘",
+    "relation": "A goose is a large water bird with a long neck and webbed feet.",
+    "sentence": "The goose waddled beside the pond.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet pond edge",
+      "actor": "One goose waddles beside the pond.",
+      "props": [
+        "one goose",
+        "one pond",
+        "one grassy bank"
+      ],
+      "beats": [
+        "The goose approaches the water",
+        "It waddles along the bank",
+        "It stops beside the pond"
+      ],
+      "ending": "A goose waddles beside a pond."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One goose only with natural anatomy; no extra birds, text, or symbols.",
+    "imageFile": "kyc-2432.webp"
+  },
+  {
+    "id": "kyc-2433",
+    "word": "gown",
+    "targetSense": "长袍",
+    "anchor": "wedding",
+    "anchorMeaning": "婚礼，结婚庆典",
+    "relation": "A gown is a long dress, often worn on a formal or special occasion.",
+    "sentence": "The gown was plain for the wedding.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet wedding room",
+      "actor": "One bride wears a simple long gown beside a plain chair.",
+      "props": [
+        "one bride",
+        "one plain gown",
+        "one chair"
+      ],
+      "beats": [
+        "The bride prepares for the ceremony",
+        "She puts on the gown",
+        "The long dress is ready for the wedding"
+      ],
+      "ending": "A bride wears a gown at a wedding."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No patterns, logos, text, or symbols on the gown.",
+    "imageFile": "kyc-2433.webp"
+  },
+  {
+    "id": "kyc-2434",
+    "word": "gymnasium",
+    "targetSense": "体育馆",
+    "anchor": "ball",
+    "anchorMeaning": "球，球状物",
+    "relation": "A gymnasium is a large indoor room used for sports and exercise.",
+    "sentence": "The ball bounced across the gymnasium.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An empty school gymnasium",
+      "actor": "No people: one plain ball bounces across a polished indoor sports floor.",
+      "props": [
+        "one plain ball",
+        "one gymnasium floor",
+        "one basketball hoop"
+      ],
+      "beats": [
+        "The ball is dropped",
+        "It bounces across the floor",
+        "It rolls toward the hoop"
+      ],
+      "ending": "A ball bounces across a gymnasium."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No scoreboard numbers, signs, logos, or extra balls.",
+    "imageFile": "kyc-2434.webp"
+  },
+  {
+    "id": "kyc-2435",
+    "word": "hay",
+    "targetSense": "干草",
+    "anchor": "horse",
+    "anchorMeaning": "马",
+    "relation": "Hay is dried grass used as feed for farm animals.",
+    "sentence": "The farmer stacked hay for the horse.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A farm barn",
+      "actor": "One farmer stacks dry hay beside one horse in a clean barn.",
+      "props": [
+        "one farmer",
+        "one stack of hay",
+        "one horse"
+      ],
+      "beats": [
+        "The hay is gathered",
+        "The farmer stacks it",
+        "The horse has feed for later"
+      ],
+      "ending": "A farmer stacks hay for a horse."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One horse with natural anatomy; no extra animals, signs, or writing.",
+    "imageFile": "kyc-2435.webp"
+  },
+  {
+    "id": "kyc-2436",
+    "word": "intersection",
+    "targetSense": "十字路口",
+    "anchor": "road",
+    "anchorMeaning": "路，公路，马路，街",
+    "relation": "An intersection is the place where two or more roads or lines cross.",
+    "sentence": "One road met another at the intersection.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet neighborhood street",
+      "actor": "No people: two plain roads meet at one clear crossing.",
+      "props": [
+        "one road",
+        "a second road",
+        "one crossing point"
+      ],
+      "beats": [
+        "The first road approaches",
+        "The second road crosses it",
+        "They meet at an intersection"
+      ],
+      "ending": "Two roads meet at an intersection."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No road signs, traffic lights with symbols, text, or numbers.",
+    "imageFile": "kyc-2436.webp"
+  },
+  {
+    "id": "kyc-2437",
+    "word": "inverse",
+    "targetSense": "相反的、倒数",
+    "anchor": "hill",
+    "anchorMeaning": "山丘，小山",
+    "relation": "Inverse means opposite or reversed in position or direction.",
+    "sentence": "The inverse route led back down the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A hillside path",
+      "actor": "One hiker follows the reverse path downhill toward the valley.",
+      "props": [
+        "one hiker",
+        "one hillside path",
+        "one valley below"
+      ],
+      "beats": [
+        "The hiker reaches the top",
+        "The route turns back downhill",
+        "The inverse direction leads to the valley"
+      ],
+      "ending": "The inverse route leads back down the hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No arrows, map labels, signs, or text.",
+    "imageFile": "kyc-2437.webp"
+  },
+  {
+    "id": "kyc-2438",
+    "word": "isle",
+    "targetSense": "岛",
+    "anchor": "sea",
+    "anchorMeaning": "海洋",
+    "relation": "An isle is a small island surrounded by water.",
+    "sentence": "The isle rose from the sea.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm open sea",
+      "actor": "No people: one small green isle rises from the surrounding sea.",
+      "props": [
+        "one small isle",
+        "one surrounding sea",
+        "one rocky shore"
+      ],
+      "beats": [
+        "The sea stretches outward",
+        "Land appears above the water",
+        "The isle stands alone"
+      ],
+      "ending": "A small isle rises from the sea."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No map lines, labels, signs, text, or symbols.",
+    "imageFile": "kyc-2438.webp"
+  },
+  {
+    "id": "kyc-2439",
+    "word": "jolly",
+    "targetSense": "非常、快乐的",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "Jolly means cheerful and full of good humor.",
+    "sentence": "Her smile made his jolly mood obvious.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A friendly home gathering",
+      "actor": "One cheerful adult smiles as one friend laughs beside him.",
+      "props": [
+        "one cheerful adult",
+        "one friend",
+        "one plain table"
+      ],
+      "beats": [
+        "The friends meet",
+        "One person smiles broadly",
+        "His jolly mood becomes obvious"
+      ],
+      "ending": "A smile reveals a jolly mood."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols.",
+    "imageFile": "kyc-2439.webp"
+  },
+  {
+    "id": "kyc-2440",
+    "word": "judicial",
+    "targetSense": "公正的；司法的",
+    "anchor": "court",
+    "anchorMeaning": "法院，法庭",
+    "relation": "Judicial means related to judges, courts, or the administration of justice.",
+    "sentence": "The judicial decision came from the court.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain courtroom",
+      "actor": "One judge gives a decision from a simple courtroom bench.",
+      "props": [
+        "one judge",
+        "one plain bench",
+        "one blank document"
+      ],
+      "beats": [
+        "The court hears the matter",
+        "The judge considers it",
+        "A judicial decision is given"
+      ],
+      "ending": "A judge gives a judicial decision in court."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Document must be blank; no scales, legal emblems, writing, signs, or symbols.",
+    "imageFile": "kyc-2440.webp"
+  },
+  {
+    "id": "kyc-2441",
+    "word": "lace",
+    "targetSense": "花边",
+    "anchor": "shoe",
+    "anchorMeaning": "鞋",
+    "relation": "A lace is a cord threaded through holes to fasten a shoe or garment.",
+    "sentence": "She tied the lace on her shoe.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home entryway",
+      "actor": "One person ties a plain lace on one shoe.",
+      "props": [
+        "one person",
+        "one plain shoe",
+        "one lace"
+      ],
+      "beats": [
+        "The lace is loosened",
+        "The person threads and pulls it",
+        "The shoe is fastened"
+      ],
+      "ending": "A lace ties a shoe securely."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No logos, text, or symbols on the shoe.",
+    "imageFile": "kyc-2441.webp"
+  },
+  {
+    "id": "kyc-2442",
+    "word": "lavatory",
+    "targetSense": "厕所",
+    "anchor": "sink",
+    "anchorMeaning": "下沉，沉没",
+    "relation": "A lavatory is a room or facility containing a toilet and washing area.",
+    "sentence": "The lavatory had one sink and a toilet.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean public restroom",
+      "actor": "No people: one toilet and one sink stand in a simple lavatory.",
+      "props": [
+        "one plain toilet",
+        "one sink",
+        "one empty restroom"
+      ],
+      "beats": [
+        "The room is entered",
+        "The sink and toilet are visible",
+        "The lavatory is ready for use"
+      ],
+      "ending": "A lavatory contains a sink and toilet."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No signs, labels, writing, symbols, or extra fixtures.",
+    "imageFile": "kyc-2442.webp"
+  },
+  {
+    "id": "kyc-2443",
+    "word": "lick",
+    "targetSense": "舔",
+    "anchor": "mouth",
+    "anchorMeaning": "嘴，口腔",
+    "relation": "To lick is to pass the tongue over a surface or food.",
+    "sentence": "One lick of ice cream left a sweet taste in her mouth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One child gives one scoop of ice cream a small lick.",
+      "props": [
+        "one child",
+        "one scoop of ice cream",
+        "one plain bowl"
+      ],
+      "beats": [
+        "The ice cream is served",
+        "The child tastes it with her tongue",
+        "The child licks the scoop"
+      ],
+      "ending": "A child licks a scoop of ice cream."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One child with natural anatomy; no text, labels, or symbols.",
+    "imageFile": "kyc-2443.webp"
+  },
+  {
+    "id": "kyc-2444",
+    "word": "maiden",
+    "targetSense": "少女",
+    "anchor": "flower",
+    "anchorMeaning": "花，开花植物",
+    "relation": "Maiden can mean a young unmarried woman or girl, especially in older or literary use.",
+    "sentence": "The maiden placed one flower on the table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple cottage room",
+      "actor": "One young woman places a flower on a plain table.",
+      "props": [
+        "one young woman",
+        "one flower",
+        "one plain table"
+      ],
+      "beats": [
+        "The young woman enters",
+        "She chooses one flower",
+        "She places it on the table"
+      ],
+      "ending": "A maiden places one flower on a table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No bridal symbols, signs, text, or writing.",
+    "imageFile": "kyc-2444.webp"
+  },
+  {
+    "id": "kyc-2445",
+    "word": "malignant",
+    "targetSense": "恶性的",
+    "anchor": "scan",
+    "anchorMeaning": "细看，审视",
+    "relation": "Malignant describes a harmful growth that can spread and damage nearby tissue.",
+    "sentence": "The scan revealed a malignant tumor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm medical examination room",
+      "actor": "One doctor studies a plain scan beside one seated patient.",
+      "props": [
+        "one doctor",
+        "one plain scan image",
+        "one patient"
+      ],
+      "beats": [
+        "The scan is examined",
+        "A harmful tumor is noticed",
+        "The doctor identifies it as malignant"
+      ],
+      "ending": "A scan reveals a malignant tumor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No medical crosses, labels, numbers, or graphic body detail; keep the scan unmarked.",
+    "imageFile": "kyc-2445.webp"
+  },
+  {
+    "id": "kyc-2446",
+    "word": "module",
+    "targetSense": "模块",
+    "anchor": "computer",
+    "anchorMeaning": "计算机",
+    "relation": "A module is a separate part that can be combined with other parts in a system.",
+    "sentence": "The computer contained a replaceable module.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple electronics workbench",
+      "actor": "One technician removes a plain replaceable module from an open computer case.",
+      "props": [
+        "one computer case",
+        "one removable module",
+        "one technician"
+      ],
+      "beats": [
+        "The computer case is opened",
+        "The module is removed",
+        "The module can be replaced"
+      ],
+      "ending": "A technician removes a module from a computer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No circuit symbols, labels, numbers, text, or logos.",
+    "imageFile": "kyc-2446.webp"
+  },
+  {
+    "id": "kyc-2447",
+    "word": "numb",
+    "targetSense": "麻木的",
+    "anchor": "cold",
+    "anchorMeaning": "冷的，凉的",
+    "relation": "Numb means unable to feel normally, often because of cold or injury.",
+    "sentence": "Her fingers went numb in the cold.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A winter path",
+      "actor": "One person rubs cold fingers together while standing in winter air.",
+      "props": [
+        "one person",
+        "one pair of gloves",
+        "one snowy path"
+      ],
+      "beats": [
+        "Cold air chills the hands",
+        "The fingers lose feeling",
+        "The person rubs them to warm up"
+      ],
+      "ending": "Cold makes a person's fingers numb."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person with normal anatomy; no ice icons, text, or motion marks.",
+    "imageFile": "kyc-2447.webp"
+  },
+  {
+    "id": "kyc-2448",
+    "word": "nylon",
+    "targetSense": "尼龙",
+    "anchor": "rope",
+    "anchorMeaning": "粗绳，绳索",
+    "relation": "Nylon is a strong synthetic material used to make ropes, fabrics, and other goods.",
+    "sentence": "The rope was made from nylon.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workshop",
+      "actor": "No people: one bright plain nylon rope lies beside a coil of nylon fiber.",
+      "props": [
+        "one nylon rope",
+        "one small coil of nylon fiber",
+        "one workbench"
+      ],
+      "beats": [
+        "The fiber is prepared",
+        "It is woven into rope",
+        "The strong nylon rope is ready"
+      ],
+      "ending": "A rope made from nylon rests on a bench."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No product labels, logos, text, or symbols.",
+    "imageFile": "kyc-2448.webp"
+  },
+  {
+    "id": "kyc-2449",
+    "word": "obstruction",
+    "targetSense": "障碍",
+    "anchor": "road",
+    "anchorMeaning": "路，公路，马路，街",
+    "relation": "An obstruction is something that blocks a path or prevents progress.",
+    "sentence": "A fallen tree became an obstruction in the road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A country road after a storm",
+      "actor": "No people: one fallen tree blocks the road completely.",
+      "props": [
+        "one fallen tree",
+        "one blocked road",
+        "one roadside ditch"
+      ],
+      "beats": [
+        "The tree falls across the road",
+        "The road is blocked",
+        "The obstruction prevents travel"
+      ],
+      "ending": "A fallen tree becomes an obstruction in the road."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No arrows, signs, text, or symbols.",
+    "imageFile": "kyc-2449.webp"
+  },
+  {
+    "id": "kyc-2450",
+    "word": "opaque",
+    "targetSense": "不透明的",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "Opaque means not allowing light or an image to pass through clearly.",
+    "sentence": "The opaque glass blocked the view.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple house window",
+      "actor": "No people: one opaque glass pane blocks the view of the room beyond it.",
+      "props": [
+        "one opaque glass pane",
+        "one window frame",
+        "one blurred room beyond"
+      ],
+      "beats": [
+        "The window is approached",
+        "The glass blocks a clear view",
+        "The room cannot be seen through it"
+      ],
+      "ending": "Opaque glass blocks the view through a window."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Make the glass visibly nontransparent; no curtains with patterns, signs, or text.",
+    "imageFile": "kyc-2450.webp"
+  },
+  {
+    "id": "kyc-2451",
+    "word": "outing",
+    "targetSense": "郊游",
+    "anchor": "lake",
+    "anchorMeaning": "湖，湖泊",
+    "relation": "An outing is a short trip or visit taken for pleasure.",
+    "sentence": "The family planned an outing to the lake.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home doorway with a view of the lake",
+      "actor": "Exactly two family members prepare a picnic basket before a short trip to the lake.",
+      "props": [
+        "two family members",
+        "one plain picnic basket",
+        "one lake view"
+      ],
+      "beats": [
+        "The family prepares to leave",
+        "They take the basket",
+        "They set out on an outing to the lake"
+      ],
+      "ending": "A family sets out for an outing at the lake."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no labels, writing, or symbols on the basket.",
+    "imageFile": "kyc-2451.webp"
+  },
+  {
+    "id": "kyc-2452",
+    "word": "ox",
+    "targetSense": "牛",
+    "anchor": "field",
+    "anchorMeaning": "田地，田野",
+    "relation": "An ox is a castrated adult bovine trained to pull loads or farm equipment.",
+    "sentence": "The ox pulled a plow across the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet farm field",
+      "actor": "One ox pulls a simple wooden plow through the soil.",
+      "props": [
+        "one ox",
+        "one plain plow",
+        "one field"
+      ],
+      "beats": [
+        "The plow is set in the soil",
+        "The ox pulls forward",
+        "A furrow forms in the field"
+      ],
+      "ending": "An ox pulls a plow across a field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One ox with natural anatomy and four legs; no extra animals, text, or symbols.",
+    "imageFile": "kyc-2452.webp"
+  },
+  {
+    "id": "kyc-2453",
+    "word": "pathetic",
+    "targetSense": "可怜的",
+    "anchor": "toy",
+    "anchorMeaning": "玩具",
+    "relation": "Pathetic describes something that makes people feel pity or contempt because it is poor or weak.",
+    "sentence": "The broken toy looked pathetic beside a new one.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A child's playroom",
+      "actor": "No people: one broken worn toy sits beside one clean new toy.",
+      "props": [
+        "one broken toy",
+        "one new toy",
+        "one playroom floor"
+      ],
+      "beats": [
+        "The old toy is damaged",
+        "A new toy is placed beside it",
+        "The contrast makes the broken toy look pathetic"
+      ],
+      "ending": "A pathetic broken toy lies beside a new one."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No labels, logos, text, or symbols on the toys.",
+    "imageFile": "kyc-2453.webp"
+  },
+  {
+    "id": "kyc-2454",
+    "word": "patriotic",
+    "targetSense": "爱国的",
+    "anchor": "flag",
+    "anchorMeaning": "旗帜",
+    "relation": "Patriotic means showing love, pride, and loyalty toward one's country.",
+    "sentence": "The patriotic student saluted a plain flag.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple school courtyard",
+      "actor": "One student respectfully salutes a completely blank flag on a pole.",
+      "props": [
+        "one student",
+        "one plain flag",
+        "one flagpole"
+      ],
+      "beats": [
+        "The flag is raised",
+        "The student stands respectfully",
+        "The student shows patriotic feeling"
+      ],
+      "ending": "A patriotic student salutes a blank flag."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Flag is blank with no colors arranged as a national symbol, no emblem, text, or marks.",
+    "imageFile": "kyc-2454.webp"
+  },
+  {
+    "id": "kyc-2455",
+    "word": "pebble",
+    "targetSense": "鹅卵石",
+    "anchor": "shoe",
+    "anchorMeaning": "鞋",
+    "relation": "A pebble is a small smooth stone, often found on a path or shore.",
+    "sentence": "A pebble slipped inside his shoe.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A country footpath",
+      "actor": "One walker pauses and tips a shoe to remove one small pebble.",
+      "props": [
+        "one walker",
+        "one shoe",
+        "one small pebble"
+      ],
+      "beats": [
+        "The walker steps on a pebble",
+        "It slips into the shoe",
+        "The walker removes it"
+      ],
+      "ending": "A pebble slips inside a shoe on a path."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person only; no extra feet, text, or symbols.",
+    "imageFile": "kyc-2455.webp"
+  },
+  {
+    "id": "kyc-2456",
+    "word": "peel",
+    "targetSense": "果皮",
+    "anchor": "orange",
+    "anchorMeaning": "橙，柑橘",
+    "relation": "To peel is to remove the outer skin of fruit or another object.",
+    "sentence": "She used a peeler to peel the orange.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A kitchen table",
+      "actor": "One person uses a plain blunt-edged peeler to remove the skin from one orange.",
+      "props": [
+        "one orange",
+        "one plain peeler",
+        "one table"
+      ],
+      "beats": [
+        "The orange is placed on the table",
+        "The person removes its skin",
+        "The peeled orange is ready to eat"
+      ],
+      "ending": "A person peels an orange at the table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No text, logos, or labels on the tool; keep the action safe.",
+    "imageFile": "kyc-2456.webp"
+  },
+  {
+    "id": "kyc-2457",
+    "word": "perfume",
+    "targetSense": "香水",
+    "anchor": "flower",
+    "anchorMeaning": "花，开花植物",
+    "relation": "Perfume is a pleasant-smelling liquid or scent used to make a person or place smell pleasant.",
+    "sentence": "The flower's perfume filled the room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright room with one flower",
+      "actor": "No people: one fragrant flower stands beside a small plain perfume bottle.",
+      "props": [
+        "one flower",
+        "one plain perfume bottle",
+        "one room table"
+      ],
+      "beats": [
+        "The flower opens",
+        "Its scent spreads through the room",
+        "The perfume fills the air"
+      ],
+      "ending": "A flower's perfume fills a quiet room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Bottle has no label, logo, writing, or symbols.",
+    "imageFile": "kyc-2457.webp"
+  },
+  {
+    "id": "kyc-2458",
+    "word": "pneumonia",
+    "targetSense": "肺炎",
+    "anchor": "lung",
+    "anchorMeaning": "肺",
+    "relation": "Pneumonia is an infection that inflames the air sacs in one or both lungs.",
+    "sentence": "Pneumonia affected one lung.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm medical examination room",
+      "actor": "One doctor points to one affected lung on a plain non-graphic torso model.",
+      "props": [
+        "one doctor",
+        "one plain torso model",
+        "one affected lung area"
+      ],
+      "beats": [
+        "The model is examined",
+        "One lung shows inflammation",
+        "The doctor identifies pneumonia"
+      ],
+      "ending": "Pneumonia affects one lung on a teaching model."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No medical crosses, labels, text, numbers, or graphic imagery.",
+    "imageFile": "kyc-2458.webp"
+  },
+  {
+    "id": "kyc-2459",
+    "word": "recollect",
+    "targetSense": "回忆",
+    "anchor": "memory",
+    "anchorMeaning": "记忆力，记性",
+    "relation": "To recollect is to remember something from the past.",
+    "sentence": "She tried to recollect the memory of her first bicycle.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden",
+      "actor": "One adult studies an old plain bicycle and tries to recall her first ride.",
+      "props": [
+        "one adult",
+        "one old bicycle",
+        "one garden bench"
+      ],
+      "beats": [
+        "The bicycle brings back the past",
+        "The adult searches her memory",
+        "She recollects her first ride"
+      ],
+      "ending": "A woman recollects a memory of her first bicycle."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "No photo labels, writing, symbols, or extra people.",
+    "imageFile": "kyc-2459.webp"
+  },
+  {
+    "id": "kyc-2460",
+    "word": "retort",
+    "targetSense": "反驳",
+    "anchor": "question",
+    "anchorMeaning": "问题，疑问",
+    "relation": "A retort is a quick, sharp reply, often made in response to criticism or a question.",
+    "sentence": "He gave a quick retort to her question.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet sitting room",
+      "actor": "Exactly two adults: one asks a question while the other gives a quick sharp reply.",
+      "props": [
+        "two adults",
+        "one plain chair",
+        "one small table"
+      ],
+      "beats": [
+        "One adult asks a question",
+        "The other responds quickly",
+        "A retort ends the exchange"
+      ],
+      "ending": "One adult gives a quick retort to another's question."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols.",
+    "imageFile": "kyc-2460.webp"
+  }
+]

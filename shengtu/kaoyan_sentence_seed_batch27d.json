@@ -1,0 +1,762 @@
+[
+  {
+    "word": "deputy",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "A deputy is a person who acts for someone in authority.",
+    "sentence": "The deputy took the keys while the sheriff was away.",
+    "scene": {
+      "setting": "A quiet office doorway",
+      "actor": "Two adults; a deputy accepts one plain key from a sheriff",
+      "props": [
+        "single plain key",
+        "wooden desk",
+        "open doorway"
+      ],
+      "beats": [
+        "The sheriff prepares to leave",
+        "The deputy accepts the key",
+        "The deputy takes over the duty"
+      ],
+      "ending": "A deputy receives a key from the sheriff"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A deputy is a person who acts for someone in authority. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No badges, labels, or text."
+  },
+  {
+    "word": "faint",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "Faint means weak or hard to hear or see.",
+    "sentence": "A faint bell rang beyond the closed garden door.",
+    "scene": {
+      "setting": "A quiet cottage room",
+      "actor": "One child cups an ear toward a small distant bell",
+      "props": [
+        "single small bell",
+        "closed wooden door",
+        "plain chair"
+      ],
+      "beats": [
+        "The room grows quiet",
+        "A faint bell rings outside",
+        "The child listens"
+      ],
+      "ending": "A child listens for a faint bell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Faint means weak or hard to hear or see. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No sound symbols or text."
+  },
+  {
+    "word": "gram",
+    "anchor": "scale",
+    "anchorMeaning": "秤",
+    "relation": "A gram is a small unit used to measure mass.",
+    "sentence": "One gram of flour rested on the kitchen scale.",
+    "scene": {
+      "setting": "A tidy kitchen counter",
+      "actor": "No people; a tiny amount of flour sits on a plain balance scale",
+      "props": [
+        "small flour mound",
+        "plain balance scale",
+        "wooden counter"
+      ],
+      "beats": [
+        "The scale is set down",
+        "A little flour is placed on it",
+        "The small mass is measured"
+      ],
+      "ending": "A little flour rests on a scale"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A gram is a small unit used to measure mass. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No numbers or graduations."
+  },
+  {
+    "word": "idle",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "Idle means not working or not active.",
+    "sentence": "The idle worker sat on a chair while the silent machine cooled.",
+    "scene": {
+      "setting": "A quiet workshop corner",
+      "actor": "One worker rests on a chair beside one switched-off machine",
+      "props": [
+        "plain wooden chair",
+        "silent machine",
+        "empty floor"
+      ],
+      "beats": [
+        "The worker stops",
+        "The machine cools",
+        "The worker sits idle"
+      ],
+      "ending": "An idle worker rests beside a silent machine"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Idle means not working or not active. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "lorry",
+    "anchor": "road",
+    "anchorMeaning": "路",
+    "relation": "A lorry is a large truck used to carry goods.",
+    "sentence": "The lorry carried apples down the country road.",
+    "scene": {
+      "setting": "A country road",
+      "actor": "No people; one lorry carries apples along a quiet rural road",
+      "props": [
+        "single plain lorry",
+        "small apple crate",
+        "country road"
+      ],
+      "beats": [
+        "The lorry starts",
+        "It carries the crate",
+        "It travels down the road"
+      ],
+      "ending": "A lorry drives along a country road"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A lorry is a large truck used to carry goods. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No license plates or logos."
+  },
+  {
+    "word": "oven",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "An oven is a heated appliance used for cooking.",
+    "sentence": "The cake baked in the warm oven before supper.",
+    "scene": {
+      "setting": "A simple home kitchen",
+      "actor": "No people; one plain cake bakes inside an open oven",
+      "props": [
+        "single plain cake",
+        "open oven",
+        "wooden counter"
+      ],
+      "beats": [
+        "The cake is placed inside",
+        "The oven warms it",
+        "The cake bakes until golden"
+      ],
+      "ending": "A cake bakes in an oven"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An oven is a heated appliance used for cooking. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No numbered controls or text."
+  },
+  {
+    "word": "overnight",
+    "anchor": "moon",
+    "anchorMeaning": "月亮",
+    "relation": "Overnight means during the night or for one night.",
+    "sentence": "They stayed overnight at the lodge while the moon rose.",
+    "scene": {
+      "setting": "A small mountain lodge bedroom",
+      "actor": "Two travelers sleep in plain beds beneath a window with one visible moon",
+      "props": [
+        "two plain beds",
+        "single window",
+        "single moon"
+      ],
+      "beats": [
+        "The travelers settle in",
+        "Night deepens",
+        "They stay overnight"
+      ],
+      "ending": "Two travelers sleep overnight at a lodge"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Overnight means during the night or for one night. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or extra people."
+  },
+  {
+    "word": "skyscraper",
+    "anchor": "city",
+    "anchorMeaning": "城市",
+    "relation": "A skyscraper is a very tall building in a city.",
+    "sentence": "The skyscraper towered above the city street at sunset.",
+    "scene": {
+      "setting": "A busy city center",
+      "actor": "No people; one tall skyscraper rises above smaller city buildings",
+      "props": [
+        "single skyscraper",
+        "small city buildings",
+        "plain street"
+      ],
+      "beats": [
+        "The street stays below",
+        "The skyscraper rises high",
+        "It towers over the city"
+      ],
+      "ending": "A skyscraper stands above a city street"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A skyscraper is a very tall building in a city. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs or logos."
+  },
+  {
+    "word": "summit",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "A summit is the highest point of a mountain or hill.",
+    "sentence": "The hikers reached the summit of the mountain at sunrise.",
+    "scene": {
+      "setting": "A high mountain ridge",
+      "actor": "Two hikers stand safely at the mountain summit",
+      "props": [
+        "mountain peak",
+        "small hiking pack",
+        "sunrise sky"
+      ],
+      "beats": [
+        "The hikers climb",
+        "They reach the summit",
+        "They look across the valley"
+      ],
+      "ending": "Two hikers stand at a mountain summit"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A summit is the highest point of a mountain or hill. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep both hikers safely grounded."
+  },
+  {
+    "word": "lens",
+    "anchor": "camera",
+    "anchorMeaning": "相机",
+    "relation": "A lens is curved glass that focuses light in a camera or eye.",
+    "sentence": "The camera lens focused on a bright garden flower.",
+    "scene": {
+      "setting": "A sunny garden",
+      "actor": "No people; one plain camera points its lens toward one bright flower",
+      "props": [
+        "single plain camera",
+        "single flower",
+        "garden path"
+      ],
+      "beats": [
+        "The camera is aimed",
+        "The lens focuses",
+        "The flower comes into clear view"
+      ],
+      "ending": "A camera lens focuses on a flower"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A lens is curved glass that focuses light in a camera or eye. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No brands or text."
+  },
+  {
+    "word": "porter",
+    "anchor": "bag",
+    "anchorMeaning": "包",
+    "relation": "A porter carries bags for guests, especially in a hotel.",
+    "sentence": "The porter carried a traveler's bag into the hotel.",
+    "scene": {
+      "setting": "A small hotel lobby with a completely bare cream wall and plain unmarked staircase",
+      "actor": "One porter in a plain uniform with no badge carries exactly one brown suitcase up the stairs",
+      "props": [
+        "one brown suitcase",
+        "plain staircase",
+        "blank hotel wall"
+      ],
+      "beats": [
+        "The porter carries one suitcase",
+        "He walks up the stairs",
+        "He takes the traveler’s bag into the hotel"
+      ],
+      "ending": "One porter carries one suitcase through the plain lobby and up the stairs"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A porter carries bags for guests, especially in a hotel. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show one porter in a plain uniform carrying exactly one brown suitcase on a bare staircase. Use a blank cream wall and simple unmarked stairs. No trolley, secondary luggage, signs, plaques, room numbers, wall art, badges, lettering, labels, or logos."
+  },
+  {
+    "word": "swell",
+    "anchor": "wave",
+    "anchorMeaning": "海浪",
+    "relation": "To swell is to grow larger or fuller.",
+    "sentence": "A wave began to swell near the shore.",
+    "scene": {
+      "setting": "A quiet sea coast",
+      "actor": "No people; one large wave rises beside a rocky shore",
+      "props": [
+        "single rising wave",
+        "rocky shore",
+        "blue sea"
+      ],
+      "beats": [
+        "Water gathers",
+        "The wave grows taller",
+        "It swells near the coast"
+      ],
+      "ending": "A wave swells beside the shore"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To swell is to grow larger or fuller. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No motion symbols or text."
+  },
+  {
+    "word": "sword",
+    "anchor": "knight",
+    "anchorMeaning": "骑士",
+    "relation": "A sword is a long bladed weapon carried by a knight or soldier.",
+    "sentence": "The knight raised a sword beside the old stone wall.",
+    "scene": {
+      "setting": "A grassy castle yard",
+      "actor": "One knight holds one sword pointed safely down",
+      "props": [
+        "single plain sword",
+        "stone wall",
+        "grassy yard"
+      ],
+      "beats": [
+        "The knight stands by the wall",
+        "He lifts the sword",
+        "He holds it calmly"
+      ],
+      "ending": "A knight carries a sword beside a stone wall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A sword is a long bladed weapon carried by a knight or soldier. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No emblems, violence, or text."
+  },
+  {
+    "word": "vacant",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "Vacant means empty or not occupied.",
+    "sentence": "The chair was vacant beside the crowded table.",
+    "scene": {
+      "setting": "A quiet dining room",
+      "actor": "No people; one empty chair stands beside one set table",
+      "props": [
+        "single empty chair",
+        "wooden table",
+        "plain rug"
+      ],
+      "beats": [
+        "The room is still",
+        "The empty chair waits",
+        "The vacant place is clear"
+      ],
+      "ending": "A vacant chair beside a table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Vacant means empty or not occupied. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or extra chairs."
+  },
+  {
+    "word": "courtesy",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "Courtesy is polite behavior toward other people.",
+    "sentence": "Her courtesy showed when she held the door for a neighbor.",
+    "scene": {
+      "setting": "A quiet front entrance",
+      "actor": "Two neighbors; one holds the door for the other",
+      "props": [
+        "wooden front door",
+        "single doormat",
+        "small potted plant"
+      ],
+      "beats": [
+        "The neighbor approaches",
+        "She holds the door open",
+        "Her courtesy is clear"
+      ],
+      "ending": "One neighbor politely holds the door"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Courtesy is polite behavior toward other people. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No house numbers or text."
+  },
+  {
+    "word": "doom",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "To doom something is to cause or predict its ruin.",
+    "sentence": "The storm threatened to doom the small boat far from shore.",
+    "scene": {
+      "setting": "A rough sea with no people",
+      "actor": "No people; one small empty boat is threatened by a dark storm wave",
+      "props": [
+        "single small boat",
+        "dark storm cloud",
+        "rough sea"
+      ],
+      "beats": [
+        "The storm gathers",
+        "A high wave rises",
+        "The boat faces danger"
+      ],
+      "ending": "A small boat faces a threatening storm"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To doom something is to cause or predict its ruin. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No wreckage or text."
+  },
+  {
+    "word": "inhabit",
+    "anchor": "nest",
+    "anchorMeaning": "鸟窝",
+    "relation": "To inhabit means to live in a particular place.",
+    "sentence": "Owls inhabit the hollow tree beside their nest.",
+    "scene": {
+      "setting": "A quiet forest",
+      "actor": "One owl rests beside one nest in a hollow tree",
+      "props": [
+        "single owl",
+        "single nest",
+        "hollow tree"
+      ],
+      "beats": [
+        "The owl returns",
+        "It settles beside the nest",
+        "The tree is its home"
+      ],
+      "ending": "An owl inhabits a hollow tree"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To inhabit means to live in a particular place. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Natural owl anatomy; no extra birds."
+  },
+  {
+    "word": "preferable",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "Preferable means better or more suitable than another choice.",
+    "sentence": "A dry porch was preferable to walking in the heavy rain.",
+    "scene": {
+      "setting": "A cottage porch during rain",
+      "actor": "One person stays beneath a dry porch while rain falls outside",
+      "props": [
+        "plain porch",
+        "single rain cloud",
+        "wet garden path"
+      ],
+      "beats": [
+        "Rain begins",
+        "The person steps under the porch",
+        "The shelter is preferable"
+      ],
+      "ending": "A person chooses the porch over rain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Preferable means better or more suitable than another choice. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No weather symbols or text."
+  },
+  {
+    "word": "sketch",
+    "anchor": "pencil",
+    "anchorMeaning": "铅笔",
+    "relation": "A sketch is a quick simple drawing made by hand.",
+    "sentence": "She made a quick sketch of the bird with a pencil.",
+    "scene": {
+      "setting": "A small art table",
+      "actor": "One woman sketches one bird with a pencil",
+      "props": [
+        "single plain pencil",
+        "blank paper",
+        "wooden table"
+      ],
+      "beats": [
+        "She watches the bird",
+        "She draws an outline",
+        "The sketch takes shape"
+      ],
+      "ending": "A bird sketch is made with a pencil"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A sketch is a quick simple drawing made by hand. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letters or numbers on the paper."
+  },
+  {
+    "word": "bang",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A bang is a sudden loud noise.",
+    "sentence": "A bang shook the door when the wind slammed it shut.",
+    "scene": {
+      "setting": "A cottage hallway",
+      "actor": "No people; one wooden door swings shut in a gust of wind",
+      "props": [
+        "single wooden door",
+        "plain curtain",
+        "wooden floor"
+      ],
+      "beats": [
+        "The wind enters",
+        "The door slams",
+        "The bang shakes the hall"
+      ],
+      "ending": "A door slams in a gust of wind"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A bang is a sudden loud noise. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No sound symbols or text."
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "confusion",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "The scene links confusion with map: The traveler’s confusion grew when the map showed two paths.",
+    "sentence": "The traveler’s confusion grew when the map showed two paths.",
+    "artDirection": "The map and scene must contain no arrows, labels, icons, letters, numbers, marks, or symbols.",
+    "scene": {
+      "setting": "A quiet forest trail that forks into two paths.",
+      "actor": "One traveler studies a blank map and looks unsure at the fork; only one person.",
+      "props": [
+        "one completely blank map with two plain winding paths only",
+        "one forked trail",
+        "one small hiking bag"
+      ],
+      "beats": [
+        "The traveler reaches the fork.",
+        "They compare the two plain paths on the blank map.",
+        "The two choices leave the traveler visibly confused."
+      ],
+      "ending": "The traveler pauses uncertainly at the fork while holding the blank map."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links confusion with map: The traveler’s confusion grew when the map showed two paths.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "enthusiasm",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "The scene links enthusiasm with garden: She showed enthusiasm as she planted a seed in the garden.",
+    "sentence": "She showed enthusiasm as she planted a seed in the garden.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny garden in spring.",
+      "actor": "One woman happily plants one seed; only one person.",
+      "props": [
+        "one small seed",
+        "one simple garden bed",
+        "one plain hand trowel"
+      ],
+      "beats": [
+        "She prepares the soil.",
+        "She plants the seed with a bright smile.",
+        "Her enthusiasm shows in her eager movement."
+      ],
+      "ending": "The woman smiles as she plants the seed."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links enthusiasm with garden: She showed enthusiasm as she planted a seed in the garden.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "inferior",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "The scene links inferior with rope: The thin rope proved inferior to the thick rope for lifting the basket.",
+    "sentence": "The thin rope proved inferior to the thick rope for lifting the basket.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clear workshop floor with a plain wall.",
+      "actor": "No people; two ropes lie beside one basket, one thin and frayed, one thick and sturdy.",
+      "props": [
+        "one thin rope",
+        "one thick rope",
+        "one plain basket"
+      ],
+      "beats": [
+        "The ropes are compared side by side.",
+        "The thin rope looks weak beside the sturdy one.",
+        "It is inferior for lifting the basket."
+      ],
+      "ending": "The stronger rope supports the basket."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links inferior with rope: The thin rope proved inferior to the thick rope for lifting the basket.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "fake",
+    "anchor": "jewel",
+    "anchorMeaning": "宝石",
+    "relation": "The scene links fake with jewel: The fake jewel looked shiny but was made of painted glass.",
+    "sentence": "The fake jewel looked shiny but was made of painted glass.",
+    "artDirection": "Make the jewel visibly painted glass, with translucent glass and a clear painted surface edge; do not make it look like a genuine gemstone.",
+    "scene": {
+      "setting": "A simple craft table against a blank wall.",
+      "actor": "One adult examines a shiny jewel made of painted glass through a magnifying glass; only one person.",
+      "props": [
+        "one clearly transparent glass jewel with visible painted coating at a chipped edge",
+        "one plain magnifying glass",
+        "one small paintbrush beside the jewel"
+      ],
+      "beats": [
+        "The jewel looks shiny at first glance.",
+        "Magnification reveals the painted glass edge and brush marks.",
+        "The imitation is clearly fake, not a real gemstone."
+      ],
+      "ending": "A shiny glass imitation shows its painted edge beside a magnifying glass and brush."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fake with jewel: The fake jewel looked shiny but was made of painted glass.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "frequency",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "The scene links frequency with bell: The clock’s bell rang with greater frequency as its pendulum swung faster.",
+    "sentence": "The clock’s bell rang with greater frequency as its pendulum swung faster.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet clockmaker’s room with a plain wall.",
+      "actor": "No people; one small bell rings beside a clock with a swinging pendulum.",
+      "props": [
+        "one plain bell",
+        "one simple pendulum clock without numbers",
+        "one bare wooden shelf"
+      ],
+      "beats": [
+        "The pendulum begins to swing.",
+        "The bell rings at regular intervals.",
+        "The ringing frequency increases as the clock swings faster."
+      ],
+      "ending": "One bell rings more frequently beside the moving clock."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links frequency with bell: The clock’s bell rang with greater frequency as its pendulum swung faster.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "pile",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "The scene links pile with tree: A pile of dry leaves covered the path beneath the tree.",
+    "sentence": "A pile of dry leaves covered the path beneath the tree.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm autumn garden.",
+      "actor": "No people; one large pile of leaves rests beneath one tree.",
+      "props": [
+        "one large pile of dry leaves",
+        "one plain garden path",
+        "one leafy tree"
+      ],
+      "beats": [
+        "Leaves gather on the ground.",
+        "A large pile forms across the path.",
+        "The pile lies beneath the tree."
+      ],
+      "ending": "Dry leaves form a pile on the garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links pile with tree: A pile of dry leaves covered the path beneath the tree.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "biography",
+    "anchor": "portrait",
+    "anchorMeaning": "肖像",
+    "relation": "The scene links biography with portrait: She read a biography of the explorer beside a portrait.",
+    "sentence": "She read a biography of the explorer beside a portrait.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet study with a plain wall.",
+      "actor": "One woman reads a wordless illustrated biography beside a simple portrait; only one person.",
+      "props": [
+        "one open picture book with no readable text",
+        "one plain portrait painting",
+        "one simple reading chair"
+      ],
+      "beats": [
+        "The woman opens the biography.",
+        "She looks from the explorer’s picture to the portrait.",
+        "The book tells the explorer’s life story."
+      ],
+      "ending": "The woman reads the illustrated biography beside the portrait."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links biography with portrait: She read a biography of the explorer beside a portrait.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "painful",
+    "anchor": "tooth",
+    "anchorMeaning": "牙齿",
+    "relation": "The scene links painful with tooth: The painful tooth made him hold his cheek during breakfast.",
+    "sentence": "The painful tooth made him hold his cheek during breakfast.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple breakfast table in a quiet kitchen.",
+      "actor": "One adult gently holds his cheek with a mild toothache; no injury or distress.",
+      "props": [
+        "one plain cup",
+        "one small breakfast plate",
+        "one simple table"
+      ],
+      "beats": [
+        "He pauses while eating.",
+        "A tooth hurts and he touches his cheek.",
+        "The painful tooth interrupts breakfast."
+      ],
+      "ending": "The man rests a hand on his cheek beside breakfast."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links painful with tooth: The painful tooth made him hold his cheek during breakfast.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "confine",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "The scene links confine with fence: The fence can confine the goats to the green meadow.",
+    "sentence": "The fence can confine the goats to the green meadow.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful green meadow enclosed by a fence.",
+      "actor": "No people; exactly two goats remain within the fenced meadow.",
+      "props": [
+        "one wooden fence",
+        "two goats",
+        "one green meadow"
+      ],
+      "beats": [
+        "The goats graze in the field.",
+        "The fence surrounds the meadow.",
+        "It confines the goats to the enclosed area."
+      ],
+      "ending": "Two goats graze inside the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links confine with fence: The fence can confine the goats to the green meadow.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "assemble",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "The scene links assemble with table: The workers will assemble the wooden table from its parts.",
+    "sentence": "The workers will assemble the wooden table from its parts.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright workshop with a blank wall.",
+      "actor": "Exactly two adult workers assemble one wooden table; no other people.",
+      "props": [
+        "one partly assembled wooden table",
+        "one plain hand tool",
+        "one small work mat"
+      ],
+      "beats": [
+        "The workers arrange the table pieces.",
+        "They fit the legs and top together.",
+        "They assemble the table."
+      ],
+      "ending": "Two workers finish assembling the table."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links assemble with table: The workers will assemble the wooden table from its parts.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "colony",
+    "anchor": "island",
+    "anchorMeaning": "岛",
+    "relation": "The scene links colony with island: The explorers built a small colony on the distant island.",
+    "sentence": "The explorers built a small colony on the distant island.",
+    "artDirection": "No flags, weapons, colonial emblems, signs, or lettering; show a small neutral settlement.",
+    "scene": {
+      "setting": "A quiet island shore with a few simple huts.",
+      "actor": "Exactly two adult explorers build a settlement; no flags, stereotypes, or other people.",
+      "props": [
+        "one distant island",
+        "three small plain huts",
+        "one simple wooden dock"
+      ],
+      "beats": [
+        "The explorers reach the shore.",
+        "They build a few homes together.",
+        "A small colony takes shape on the island."
+      ],
+      "ending": "Two explorers stand by the new island settlement."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links colony with island: The explorers built a small colony on the distant island.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "crack",
+    "anchor": "pot",
+    "anchorMeaning": "罐子",
+    "relation": "The scene links crack with pot: A thin crack ran across the clay pot.",
+    "sentence": "A thin crack ran across the clay pot.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet pottery table against a blank wall.",
+      "actor": "No people; one plain clay pot has one clear narrow crack.",
+      "props": [
+        "one clay pot with a single thin crack",
+        "one plain pottery table",
+        "one simple clay surface"
+      ],
+      "beats": [
+        "The pot sits still on the table.",
+        "A narrow crack crosses its side.",
+        "The crack is clearly visible."
+      ],
+      "ending": "One cracked clay pot rests on the table."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links crack with pot: A thin crack ran across the clay pot.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "upgrade",
+    "anchor": "cottage",
+    "anchorMeaning": "小屋",
+    "relation": "The scene links upgrade with cottage: A sturdy new door can upgrade the old cottage.",
+    "sentence": "A sturdy new door can upgrade the old cottage.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small cottage entrance in daylight.",
+      "actor": "Exactly two adults replace an old door with a stronger plain door.",
+      "props": [
+        "one old cottage doorway",
+        "one sturdy plain new door",
+        "one simple hand tool"
+      ],
+      "beats": [
+        "The old door is removed.",
+        "The two adults fit the sturdier replacement.",
+        "The new door upgrades the cottage."
+      ],
+      "ending": "The improved door stands in the cottage entrance."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links upgrade with cottage: A sturdy new door can upgrade the old cottage.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "supplement",
+    "anchor": "fruit",
+    "anchorMeaning": "水果",
+    "relation": "The scene links supplement with fruit: She added fruit to supplement her simple lunch.",
+    "sentence": "She added fruit to supplement her simple lunch.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright kitchen table.",
+      "actor": "One woman adds fruit to her lunch; only one person.",
+      "props": [
+        "one plain fruit bowl",
+        "one simple lunch plate",
+        "one clean table"
+      ],
+      "beats": [
+        "She sets out a simple lunch.",
+        "She adds fresh fruit beside it.",
+        "The fruit supplements the meal."
+      ],
+      "ending": "The woman enjoys lunch with a bowl of fruit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links supplement with fruit: She added fruit to supplement her simple lunch.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "till",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "The scene links till with garden: They worked in the garden till sunset.",
+    "sentence": "They worked in the garden till sunset.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden at the end of the day.",
+      "actor": "One gardener finishes work as the sun sets; only one person.",
+      "props": [
+        "one garden bed",
+        "one plain hand trowel",
+        "one low setting sun"
+      ],
+      "beats": [
+        "The gardener tends the soil.",
+        "The sky grows warm with evening light.",
+        "They keep working till sunset."
+      ],
+      "ending": "The gardener works in the garden as the sun sets."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links till with garden: They worked in the garden till sunset.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "compound",
+    "anchor": "flask",
+    "anchorMeaning": "烧瓶",
+    "relation": "The scene links compound with flask: The chemist mixed two elements in a glass flask to form a compound.",
+    "sentence": "The chemist mixed two elements in a glass flask to form a compound.",
+    "artDirection": "Show an adult scientist, not a child. Use a real chemistry workbench and flask; no toy molecule beads, diagrams, formulas, labels, symbols, or writing.",
+    "scene": {
+      "setting": "A clean chemistry laboratory with a plain bare wall.",
+      "actor": "One adult chemist in a plain lab coat safely combines two unmarked elemental samples in a clear glass flask; only one person.",
+      "props": [
+        "one clear glass flask",
+        "two small plain reagent jars with visibly different contents",
+        "one clean laboratory table"
+      ],
+      "beats": [
+        "The chemist places the two different elemental samples into the flask.",
+        "The samples combine into one new stable substance.",
+        "The new substance in the flask represents a compound."
+      ],
+      "ending": "An adult chemist studies one flask containing the combined new substance."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links compound with flask: The chemist mixed two elements in a glass flask to form a compound.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "scope",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "The scene links scope with map: The map showed the full scope of the survey, from the river to the mountain.",
+    "sentence": "The map showed the full scope of the survey, from the river to the mountain.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet survey table overlooking a broad valley.",
+      "actor": "One surveyor studies a large blank map showing the river and mountain; only one person.",
+      "props": [
+        "one large map with no labels or writing",
+        "one winding river",
+        "one distant mountain"
+      ],
+      "beats": [
+        "The surveyor unfolds the map.",
+        "The view extends from the river to the mountain.",
+        "The wide area shows the scope of the survey."
+      ],
+      "ending": "The map covers the full valley survey area."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links scope with map: The map showed the full scope of the survey, from the river to the mountain.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "sympathetic",
+    "anchor": "kite",
+    "anchorMeaning": "风筝",
+    "relation": "The scene links sympathetic with kite: She was sympathetic when her friend’s kite became caught in a tree.",
+    "sentence": "She was sympathetic when her friend’s kite became caught in a tree.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A breezy park with one broad tree and an open lawn.",
+      "actor": "Exactly two adult friends: one looks disappointed while the other listens kindly and comforts her.",
+      "props": [
+        "one plain kite caught gently in a low tree branch",
+        "one broad tree",
+        "one simple park bench"
+      ],
+      "beats": [
+        "The kite becomes caught in the tree.",
+        "One friend looks disappointed.",
+        "The other responds with sympathy and stays beside her."
+      ],
+      "ending": "One friend comforts the other beneath the tree with the caught kite above them."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links sympathetic with kite: She was sympathetic when her friend’s kite became caught in a tree.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "fashionable",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "The scene links fashionable with coat: Her fashionable coat drew her friend’s admiring glance on the walk.",
+    "sentence": "Her fashionable coat drew her friend’s admiring glance on the walk.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm city park path without signs.",
+      "actor": "Exactly two adult friends walk together; one wears a stylish plain coat.",
+      "props": [
+        "one fashionable plain coat without logos",
+        "one simple walking path",
+        "one leafy tree"
+      ],
+      "beats": [
+        "The friends walk through the park.",
+        "One friend notices the stylish coat.",
+        "An admiring glance shows it is fashionable."
+      ],
+      "ending": "Two friends walk together as one admires the coat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fashionable with coat: Her fashionable coat drew her friend’s admiring glance on the walk.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "organism",
+    "anchor": "microscope",
+    "anchorMeaning": "显微镜",
+    "relation": "The scene links organism with microscope: A tiny organism moved in a drop of pond water under the microscope.",
+    "sentence": "A tiny organism moved in a drop of pond water under the microscope.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet science desk with a blank wall.",
+      "actor": "One adult researcher looks through one microscope at a single drop of pond water; only one person.",
+      "props": [
+        "one plain microscope",
+        "one small clear water slide with a tiny simple organism",
+        "one pond-water dropper"
+      ],
+      "beats": [
+        "The researcher places a drop on the slide.",
+        "A tiny living organism appears under the lens.",
+        "The organism moves through the water."
+      ],
+      "ending": "The researcher studies the tiny organism under the microscope."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links organism with microscope: A tiny organism moved in a drop of pond water under the microscope.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  }
+]

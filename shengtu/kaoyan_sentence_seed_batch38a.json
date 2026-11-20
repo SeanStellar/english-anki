@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1621",
+    "serial": 4129,
+    "frequency": 9,
+    "word": "corrupt",
+    "targetSense": "腐败",
+    "alt": "",
+    "anchor": "envelope",
+    "anchorMeaning": "信封",
+    "relation": "腐败官员私下收下一封装着贿赂的信封，表现 corrupt。",
+    "sentence": "The corrupt official accepted a bribe in a plain envelope.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office with one plain desk",
+      "actor": "One corrupt official secretly accepts one blank envelope from one visitor",
+      "props": [
+        "one blank envelope",
+        "one plain desk",
+        "one office chair"
+      ],
+      "beats": [
+        "The visitor holds out the envelope",
+        "The official accepts it discreetly",
+        "Their secret exchange suggests corruption"
+      ],
+      "ending": "A corrupt official accepts a bribe in a plain envelope."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults and one blank envelope; keep the exchange discreet but nonviolent. No cash piles, papers with writing, logos, signs, or extra people.",
+    "imageFile": "kyc-1621.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1622",
+    "serial": 4130,
+    "frequency": 9,
+    "word": "garment",
+    "targetSense": "衣服",
+    "alt": "",
+    "anchor": "button",
+    "anchorMeaning": "纽扣",
+    "relation": "她把一枚松动的纽扣缝回衣服上，表现 garment。",
+    "sentence": "She sewed a loose button back onto the garment.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright sewing corner with a plain table",
+      "actor": "One woman sews one loose button back onto one red garment",
+      "props": [
+        "one red garment",
+        "one button",
+        "one plain table"
+      ],
+      "beats": [
+        "The garment has one loose button",
+        "The woman threads a needle carefully",
+        "She sews the button back onto the garment"
+      ],
+      "ending": "A woman sews a loose button onto a red garment."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman, one red garment, and the single button being sewn; no extra clothing, patterns, labels, or text.",
+    "imageFile": "kyc-1622.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1623",
+    "serial": 4131,
+    "frequency": 9,
+    "word": "colonial",
+    "targetSense": "殖民地的",
+    "alt": "",
+    "anchor": "column",
+    "anchorMeaning": "柱子",
+    "relation": "殖民时期风格的房屋有宽阔门廊和高大的柱子，表现 colonial。",
+    "sentence": "The colonial house had a wide porch supported by tall columns.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet street with one old colonial-style house",
+      "actor": "One balanced colonial house has a wide porch held by tall white columns",
+      "props": [
+        "one colonial house",
+        "wide porch columns",
+        "one front path"
+      ],
+      "beats": [
+        "The house stands beside a simple path",
+        "Its broad porch rests on tall columns",
+        "The overall architecture looks colonial"
+      ],
+      "ending": "A colonial house stands behind its tall porch columns."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one old colonial-style house with a broad porch and simple tall columns; no flags, signs, plaques, numbers, or text.",
+    "imageFile": "kyc-1623.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1624",
+    "serial": 4132,
+    "frequency": 9,
+    "word": "conductor",
+    "targetSense": "指挥、导体",
+    "alt": "",
+    "anchor": "baton",
+    "anchorMeaning": "指挥棒",
+    "relation": "指挥用指挥棒引导一名小提琴手演奏，表现 conductor。",
+    "sentence": "The conductor guided one violinist with her baton.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet concert stage",
+      "actor": "One woman conductor directs one violinist with one slim baton",
+      "props": [
+        "one conductor baton",
+        "one violinist",
+        "one stage"
+      ],
+      "beats": [
+        "The violinist holds her instrument ready",
+        "The conductor raises the baton",
+        "The violinist begins to play under her direction"
+      ],
+      "ending": "A conductor guides one violinist with a baton."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two people, one conductor and one violinist; no orchestra, audience, music notes, sheet music writing, or text.",
+    "imageFile": "kyc-1624.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1625",
+    "serial": 4133,
+    "frequency": 9,
+    "word": "cripple",
+    "targetSense": "跛子、削弱",
+    "alt": "",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "损坏的发动机使汽车无法正常行驶，表现 cripple 的削弱义。",
+    "sentence": "A damaged engine can cripple a car.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet roadside repair area with a blank background",
+      "actor": "One worried mechanic looks into one car with its hood open; a clearly broken belt hangs loose from the damaged engine and the car is unable to run",
+      "props": [
+        "one stationary car",
+        "one visibly damaged engine",
+        "one open hood"
+      ],
+      "beats": [
+        "The car stops at the roadside",
+        "The mechanic opens the hood and sees a broken belt",
+        "The broken engine leaves the car crippled and unable to run"
+      ],
+      "ending": "One damaged engine visibly leaves a car unable to run."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show one mechanic and one stationary car with its hood open. Make a single broken engine belt visibly detached and hanging loose so the car clearly cannot run. No crashes, smoke, other cars, extra people, tools, license plate characters, logos, or text.",
+    "imageFile": "kyc-1625.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1626",
+    "serial": 4134,
+    "frequency": 9,
+    "word": "mandate",
+    "targetSense": "授权",
+    "alt": "",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "市长把公园钥匙交给护林员，授权她管理公园，表现 mandate。",
+    "sentence": "The mayor gave the ranger a key and a mandate to manage the park.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple park entrance with one plain metal gate",
+      "actor": "One mayor gives one plain silver key to one ranger at the park gate, authorizing her to manage the park",
+      "props": [
+        "one plain silver key",
+        "one metal gate",
+        "one park path"
+      ],
+      "beats": [
+        "The mayor meets the ranger at the gate",
+        "The mayor places the single key in the ranger’s hand",
+        "The ranger accepts responsibility for the park"
+      ],
+      "ending": "A mayor gives a ranger one key and authority to manage the park."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly two adults exchanging exactly one simple silver key. The key is held clearly in their hands, with no detached pieces or duplicate keys. No lettering, symbols, keyhole drawings, floating marks, signs, badges, or text.",
+    "imageFile": "kyc-1626.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1627",
+    "serial": 4136,
+    "frequency": 9,
+    "word": "reign",
+    "targetSense": "统治",
+    "alt": "",
+    "anchor": "throne",
+    "anchorMeaning": "王座",
+    "relation": "女王登上王座，开始她的统治，表现 reign。",
+    "sentence": "The queen's reign began when she sat on the throne.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple royal hall with one plain throne",
+      "actor": "One queen sits alone on the throne at the beginning of her reign",
+      "props": [
+        "one throne",
+        "one queen",
+        "one plain hall"
+      ],
+      "beats": [
+        "The queen approaches the throne",
+        "She sits down as the new ruler",
+        "Her reign begins in the quiet hall"
+      ],
+      "ending": "One queen begins her reign seated on a throne."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one queen and one throne; no other rulers, duplicate crowns, banners, inscriptions, or text.",
+    "imageFile": "kyc-1627.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1628",
+    "serial": 4137,
+    "frequency": 9,
+    "word": "verdict",
+    "targetSense": "裁决",
+    "alt": "",
+    "anchor": "gavel",
+    "anchorMeaning": "法槌",
+    "relation": "法官敲下法槌，宣布裁决，表现 verdict。",
+    "sentence": "The judge announced her verdict with a firm tap of the gavel.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet courtroom",
+      "actor": "One judge announces her verdict while holding one wooden gavel above the bench",
+      "props": [
+        "one gavel",
+        "one judge bench",
+        "one plain courtroom"
+      ],
+      "beats": [
+        "The judge listens in the quiet court",
+        "She raises the gavel",
+        "She announces the verdict with a firm tap"
+      ],
+      "ending": "A judge announces a verdict with one tap of the gavel."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one judge and one gavel; no jury, signs, writing, labels, or extra people.",
+    "imageFile": "kyc-1628.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1629",
+    "serial": 4138,
+    "frequency": 9,
+    "word": "augment",
+    "targetSense": "增加",
+    "alt": "",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "她在栅栏上加一块木板以增加高度，表现 augment。",
+    "sentence": "She added one board to augment the garden fence.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain backyard garden",
+      "actor": "One woman attaches one extra wooden board to the top of one low garden fence to make it higher",
+      "props": [
+        "one garden fence",
+        "one extra board",
+        "one hammer"
+      ],
+      "beats": [
+        "The fence stands low in the yard",
+        "The woman lifts one board to its top",
+        "The added board augments the fence height"
+      ],
+      "ending": "One extra board augments the height of a garden fence."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one woman attaching one single extra board to one fence with one hammer; no extra fences, people, signs, or text.",
+    "imageFile": "kyc-1629.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1630",
+    "serial": 4140,
+    "frequency": 9,
+    "word": "compile",
+    "targetSense": "编译",
+    "alt": "",
+    "anchor": "binder",
+    "anchorMeaning": "活页夹",
+    "relation": "她把散页食谱整理装订进一本活页夹，表现 compile。",
+    "sentence": "She used a binder to compile her loose recipes into one book.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy kitchen table",
+      "actor": "One woman gathers loose blank recipe pages and places them together in one open binder",
+      "props": [
+        "one binder",
+        "loose blank pages",
+        "one kitchen table"
+      ],
+      "beats": [
+        "The pages lie scattered on the table",
+        "The woman gathers and organizes them",
+        "She puts them into the binder as one collection"
+      ],
+      "ending": "A woman compiles loose pages into one binder."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman and one open binder with a small set of blank pages; no writing, labels, logos, or extra books.",
+    "imageFile": "kyc-1630.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1631",
+    "serial": 4141,
+    "frequency": 9,
+    "word": "foremost",
+    "targetSense": "最重要的",
+    "alt": "",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "山脉中最突出的一座山峰高高立在前方，表现 foremost。",
+    "sentence": "The foremost peak stood higher than the others in the mountain range.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A peaceful mountain range in morning light",
+      "actor": "One prominent foreground peak rises above several lower distant mountains",
+      "props": [
+        "one foremost peak",
+        "distant mountains",
+        "one open sky"
+      ],
+      "beats": [
+        "The mountain range stretches across the distance",
+        "One front peak rises highest",
+        "That peak stands foremost in view"
+      ],
+      "ending": "One foremost mountain peak rises above the range."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Make the single foremost peak clearly tallest and nearest; show lower distant mountains behind it, with no people, signs, labels, or text.",
+    "imageFile": "kyc-1631.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1632",
+    "serial": 4142,
+    "frequency": 9,
+    "word": "gasp",
+    "targetSense": "喘气、喘息",
+    "alt": "",
+    "anchor": "balloon",
+    "anchorMeaning": "气球",
+    "relation": "气球突然爆开时，他惊讶地倒吸一口气，表现 gasp。",
+    "sentence": "He gave a gasp when the balloon popped.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple birthday room with a blank wall and floor",
+      "actor": "One child reacts with a sudden gasp while looking at one red balloon that has just popped and fallen as limp rubber pieces",
+      "props": [
+        "one popped red balloon",
+        "one child",
+        "one plain floor"
+      ],
+      "beats": [
+        "The child holds one red balloon",
+        "The balloon pops and collapses",
+        "The child gives a startled gasp at the limp balloon"
+      ],
+      "ending": "One child gasps at the remains of a popped balloon."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show only one child and the remains of one balloon. The balloon must be fully deflated and collapsed on the floor, with no intact inflated balloon anywhere. Convey the gasp through the child’s surprised open mouth and posture; no motion marks, extra balloons, sharp objects, or text.",
+    "imageFile": "kyc-1632.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1633",
+    "serial": 4143,
+    "frequency": 9,
+    "word": "hygiene",
+    "targetSense": "卫生",
+    "alt": "",
+    "anchor": "soap",
+    "anchorMeaning": "肥皂",
+    "relation": "饭前用肥皂洗手是良好的卫生习惯，表现 hygiene。",
+    "sentence": "Washing hands with soap is good hygiene.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain home bathroom with one simple sink",
+      "actor": "One person washes both hands with one bar of soap under running water at the sink",
+      "props": [
+        "one plain bar of soap",
+        "one simple sink",
+        "one pair of hands"
+      ],
+      "beats": [
+        "The person wets both hands",
+        "They rub the single soap bar between their hands",
+        "They rinse their clean hands under the water"
+      ],
+      "ending": "A person practices good hygiene by washing with one bar of soap."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show one person washing hands with exactly one plain bar of soap at one simple sink. No liquid soap dispenser, bottles, toothbrush, mirror, plants, extra soap, writing, labels, or text.",
+    "imageFile": "kyc-1633.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1634",
+    "serial": 4144,
+    "frequency": 9,
+    "word": "negligible",
+    "targetSense": "微不足道的",
+    "alt": "",
+    "anchor": "shirt",
+    "anchorMeaning": "衬衫",
+    "relation": "干净衬衫上的一点小污渍微不足道，表现 negligible。",
+    "sentence": "The small stain was negligible on the otherwise clean shirt.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bright laundry room with a plain wall",
+      "actor": "One clean white shirt has one tiny faint stain that looks negligible against the large clean fabric",
+      "props": [
+        "one white shirt",
+        "one tiny stain",
+        "one plain hanger"
+      ],
+      "beats": [
+        "The clean shirt hangs up",
+        "A tiny stain appears on one small spot",
+        "Most of the shirt remains clean, making the stain negligible"
+      ],
+      "ending": "One tiny stain is negligible on a clean shirt."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one plain white shirt with one very small faint stain; keep the rest clean and blank, with no labels, logos, or text.",
+    "imageFile": "kyc-1634.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1635",
+    "serial": 4147,
+    "frequency": 9,
+    "word": "statesman",
+    "targetSense": "政治家",
+    "alt": "",
+    "anchor": "mayor",
+    "anchorMeaning": "市长",
+    "relation": "德高望重的政治家在市政厅把象征城市职责的钥匙交给新市长，表现 statesman。",
+    "sentence": "The statesman welcomed the new mayor by handing him the ceremonial city key.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple civic hall with one plain wall",
+      "actor": "One older statesman formally hands one large plain city key to one younger new mayor",
+      "props": [
+        "one ceremonial city key",
+        "one statesman",
+        "one mayor"
+      ],
+      "beats": [
+        "The statesman welcomes the new mayor",
+        "He hands the city key to the mayor",
+        "The mayor accepts the civic responsibility"
+      ],
+      "ending": "A statesman welcomes the new mayor with a ceremonial city key."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly two adults in a civic hall: an older statesman handing one large plain key to the new mayor. The key is clearly between them. No flags, seals, signs, badges with writing, nameplates, documents, or extra people.",
+    "imageFile": "kyc-1635.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1636",
+    "serial": 4148,
+    "frequency": 9,
+    "word": "stationary",
+    "targetSense": "稳定的",
+    "alt": "",
+    "anchor": "tripod",
+    "anchorMeaning": "三脚架",
+    "relation": "相机在拍摄时稳稳固定在三脚架上，表现 stationary。",
+    "sentence": "The camera stayed stationary on its tripod during the concert.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet concert hall before the performance",
+      "actor": "One camera remains fixed and unmoving on one sturdy tripod",
+      "props": [
+        "one camera",
+        "one tripod",
+        "one quiet hall"
+      ],
+      "beats": [
+        "The camera is set on the tripod",
+        "It stays still in the same position",
+        "The empty hall remains quiet around it"
+      ],
+      "ending": "A stationary camera stands on its tripod."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one camera firmly mounted on one tripod in an empty hall; no people, brand logos, text, or motion blur.",
+    "imageFile": "kyc-1636.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1637",
+    "serial": 4149,
+    "frequency": 9,
+    "word": "tentative",
+    "targetSense": "暂时的",
+    "alt": "",
+    "anchor": "oak tree",
+    "anchorMeaning": "橡树",
+    "relation": "两人在橡树下谨慎地达成暂时约定，表现 tentative。",
+    "sentence": "They made a tentative agreement under the oak tree.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden beneath one broad oak tree",
+      "actor": "Exactly two adults stand beneath the oak tree; one extends a hand only halfway while both look cautious and uncertain about making an agreement",
+      "props": [
+        "one oak tree",
+        "two adults",
+        "one garden path"
+      ],
+      "beats": [
+        "The two adults meet beneath the tree",
+        "One person reaches out hesitantly",
+        "They make a tentative agreement with a careful, uncertain handshake"
+      ],
+      "ending": "Two adults cautiously make a tentative agreement beneath the oak tree."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly two adults and one oak tree. Their expressions are serious and uncertain; one hand is extended hesitantly and the handshake is cautious, not firm. No broad smiles, celebration, papers, extra people, signs, or text.",
+    "imageFile": "kyc-1637.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1638",
+    "serial": 4150,
+    "frequency": 9,
+    "word": "uphold",
+    "targetSense": "维护",
+    "alt": "",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "坚固的柱子支撑着屋顶，表现 uphold 的支撑义。",
+    "sentence": "A sturdy pillar can uphold the roof during a storm.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small sheltered porch during a gentle rainstorm",
+      "actor": "One sturdy pillar supports the roof above the porch",
+      "props": [
+        "one sturdy pillar",
+        "one roof",
+        "one porch"
+      ],
+      "beats": [
+        "Rain falls outside the porch",
+        "The roof rests firmly on the pillar",
+        "The pillar upholds the roof overhead"
+      ],
+      "ending": "One pillar upholds a roof through the rain."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show the pillar clearly bearing the roof weight; gentle rain outside only, no damage, people, signs, or text.",
+    "imageFile": "kyc-1638.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1639",
+    "serial": 4151,
+    "frequency": 9,
+    "word": "agreeable",
+    "targetSense": "愉快的",
+    "alt": "",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "阴凉宁静的花园是令人愉快的休息地方，表现 agreeable。",
+    "sentence": "The shady garden was an agreeable place to rest.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful shaded garden",
+      "actor": "One woman rests comfortably on a plain bench in the pleasant garden",
+      "props": [
+        "one garden",
+        "one plain bench",
+        "one shady tree"
+      ],
+      "beats": [
+        "She walks into the quiet garden",
+        "She sits on the bench beneath the tree",
+        "The calm setting feels agreeable and pleasant"
+      ],
+      "ending": "A woman enjoys an agreeable rest in a shady garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman relaxing naturally in one peaceful garden; no extra people, signs, labels, or text.",
+    "imageFile": "kyc-1639.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1640",
+    "serial": 4152,
+    "frequency": 9,
+    "word": "anecdote",
+    "targetSense": "轶事",
+    "alt": "",
+    "anchor": "campfire",
+    "anchorMeaning": "篝火",
+    "relation": "他在篝火旁讲一则有趣的小故事，朋友听得发笑，表现 anecdote。",
+    "sentence": "He told a funny anecdote beside the campfire.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A safe campsite at dusk",
+      "actor": "One adult tells a funny short story while one friend listens and laughs beside a small campfire",
+      "props": [
+        "one small campfire",
+        "two adults",
+        "one plain log seat"
+      ],
+      "beats": [
+        "The two friends sit beside the fire",
+        "One tells a brief amusing story",
+        "The listener laughs at the anecdote"
+      ],
+      "ending": "One friend tells an amusing anecdote beside the campfire."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults and one small safe campfire; convey storytelling with expressions and gestures only, no speech bubbles, writing, or extra people.",
+    "imageFile": "kyc-1640.webp",
+    "imageError": null
+  }
+]

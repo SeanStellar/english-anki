@@ -1,0 +1,26 @@
+{
+  "lie": {
+    "imageFile": "kaoyan-lie-reviewed.webp",
+    "phonetic": "/laɪ/",
+    "pos": "n. / v.",
+    "story": {
+      "targetSense": "说谎",
+      "anchor": "line",
+      "anchorMeaning": "晾衣绳",
+      "sentence": "By the washing line, Mia told a lie: she said she hadn’t taken the mitten she was hiding behind her back.（米娅站在晾衣绳旁说了个谎：她说自己没拿那只手套，却把手套藏在身后。）",
+      "review": { "reason": "line 去掉 n 就是 lie。看见背后藏着的手套，就知道她说的是谎话。" }
+    }
+  },
+  "present": {
+    "imageFile": "kaoyan-present-reviewed.webp",
+    "phonetic": "/ˈprezənt/（名词、形容词）；/prɪˈzent/（动词）",
+    "pos": "n. / adj. / v.",
+    "story": {
+      "targetSense": "礼物",
+      "anchor": "sent",
+      "anchorMeaning": "寄送了（send 的过去式）",
+      "sentence": "At Mia’s birthday party, Leo handed her the present Grandma had sent.（在米娅的生日会上，利奥把奶奶寄来的礼物递给了她。）",
+      "review": { "reason": "present 的拼写以 sent 结尾。用奶奶寄来的生日礼物记住 present 的名词义。" }
+    }
+  }
+}

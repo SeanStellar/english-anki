@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1741",
+    "serial": 4274,
+    "frequency": 8,
+    "word": "overlap",
+    "targetSense": "重叠",
+    "alt": "",
+    "anchor": "bed",
+    "anchorMeaning": "床",
+    "relation": "两条毯子部分盖在同一张床上，表现 overlap。",
+    "sentence": "The two blankets overlap at the edge of the bed.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bedroom with one simple bed",
+      "actor": "Two blankets lie partly over each other along one edge of the bed",
+      "props": [
+        "two blankets",
+        "one bed",
+        "one bedroom"
+      ],
+      "beats": [
+        "The blankets rest side by side",
+        "One blanket slides partly over the other",
+        "Their edges overlap on the bed"
+      ],
+      "ending": "Two blankets overlap at the edge of one bed."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two blankets overlapping on one bed. No extra blankets, beds, people, text, or labels.",
+    "imageFile": "kyc-1741.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1742",
+    "serial": 4275,
+    "frequency": 8,
+    "word": "regime",
+    "targetSense": "政权",
+    "alt": "",
+    "anchor": "palace",
+    "anchorMeaning": "宫殿",
+    "relation": "新政权从中央宫殿治理国家，表现 regime。",
+    "sentence": "The new regime governed from the central palace.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A formal government hall inside one plain palace",
+      "actor": "One ruler with a completely bare head sits in the central government seat; no crown, hat, jewelry, badge, or emblem.",
+      "props": [
+        "one ruler",
+        "one palace hall",
+        "one plain government seat"
+      ],
+      "beats": [
+        "The ruler enters the plain palace hall",
+        "The bareheaded ruler sits in the central seat",
+        "The ruler governs from the palace without any insignia"
+      ],
+      "ending": "A bareheaded ruler governs from the central palace."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One bareheaded ruler seated in a plain palace government hall. Bare head, no crown, hat, jewelry, badge, emblem, insignia, decorative symbol, flags, banners, crowds, writing, or text. Keep the scene simple and warm in the established hand-painted picture-book style.",
+    "imageFile": "kyc-1742.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1743",
+    "serial": 4277,
+    "frequency": 8,
+    "word": "terrific",
+    "targetSense": "极好的；可怕的",
+    "alt": "",
+    "anchor": "violin",
+    "anchorMeaning": "小提琴",
+    "relation": "她出色的小提琴演奏让听众赞叹，表现 terrific。",
+    "sentence": "She gave a terrific performance on the violin.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet music room with a completely blank pale wall",
+      "actor": "Exactly one violinist plays one violin while exactly one listener applauds; only these two people.",
+      "props": [
+        "one violinist",
+        "one violin",
+        "one listener"
+      ],
+      "beats": [
+        "The violinist raises the violin",
+        "She plays confidently in the quiet room",
+        "The single listener applauds the terrific performance"
+      ],
+      "ending": "One listener applauds a terrific violin performance in a blank, quiet room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly one violinist playing one violin and exactly one listener applauding, with a blank pale wall. No musical notes, music notation, floating marks, symbols, signs, writing, text, extra people, or audience crowd. Keep the established hand-painted picture-book style.",
+    "imageFile": "kyc-1743.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1744",
+    "serial": 4278,
+    "frequency": 8,
+    "word": "unite",
+    "targetSense": "联合、结合",
+    "alt": "",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "邻居合力搬动同一张桌子，表现 unite。",
+    "sentence": "The neighbors unite to carry one heavy table together.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple room with a plain pale wall",
+      "actor": "Two neighbors carry one heavy table together in step",
+      "props": [
+        "two neighbors",
+        "one heavy table",
+        "one simple room"
+      ],
+      "beats": [
+        "The neighbors take opposite ends of the table",
+        "They lift together",
+        "The table moves as one team effort"
+      ],
+      "ending": "Two neighbors unite to carry one table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two neighbors carrying exactly one table together. No other people, tables, furniture, signs, or text.",
+    "imageFile": "kyc-1744.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1745",
+    "serial": 4279,
+    "frequency": 8,
+    "word": "acclaim",
+    "targetSense": "称赞、欢呼",
+    "alt": "",
+    "anchor": "clap",
+    "anchorMeaning": "拍手",
+    "relation": "听众为表演者热烈拍手表示 acclaim，表现称赞。",
+    "sentence": "The audience’s loud clapping showed acclaim for the actor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple small stage with a plain background",
+      "actor": "One actor stands on stage while one audience member claps enthusiastically",
+      "props": [
+        "one actor",
+        "one clapping audience member",
+        "one small stage"
+      ],
+      "beats": [
+        "The actor finishes the performance",
+        "The audience member begins clapping",
+        "The actor receives acclaim"
+      ],
+      "ending": "One audience member applauds the actor with acclaim."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one performer receiving warm applause from one audience member. No crowd, speech bubbles, music notes, writing, or text.",
+    "imageFile": "kyc-1745.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1746",
+    "serial": 4281,
+    "frequency": 8,
+    "word": "auxiliary",
+    "targetSense": "助动词；辅助的",
+    "alt": "",
+    "anchor": "crew",
+    "anchorMeaning": "工作组；全体人员",
+    "relation": "辅助工作人员帮主要工作组搬运用品，表现 auxiliary。",
+    "sentence": "The auxiliary worker carried supplies for the main crew.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple worksite with a plain backdrop",
+      "actor": "One auxiliary worker carries a supply box to one member of the main crew",
+      "props": [
+        "one auxiliary worker",
+        "one crew member",
+        "one supply box"
+      ],
+      "beats": [
+        "The crew member waits at the worksite",
+        "The auxiliary worker brings the box",
+        "The worker provides extra support"
+      ],
+      "ending": "One auxiliary worker brings supplies to the crew."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two workers and one plain supply box; one worker is helping the other by carrying supplies. No extra people, labels, logos, or text.",
+    "imageFile": "kyc-1746.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1747",
+    "serial": 4282,
+    "frequency": 8,
+    "word": "ballot",
+    "targetSense": "投票",
+    "alt": "",
+    "anchor": "booth",
+    "anchorMeaning": "隔间；投票亭",
+    "relation": "她把一张空白选票投进投票箱，表现 ballot。",
+    "sentence": "She cast one ballot at the voting booth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet polling place with one plain voting booth",
+      "actor": "One woman puts one folded blank ballot into one plain ballot box",
+      "props": [
+        "one woman",
+        "one blank ballot",
+        "one ballot box"
+      ],
+      "beats": [
+        "She finishes marking the ballot out of view",
+        "She folds the blank-looking ballot",
+        "She casts it into the box"
+      ],
+      "ending": "One woman casts one ballot at a voting booth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman placing one folded blank ballot into one plain ballot box inside a simple voting booth. No checkmarks, candidate names, numbers, signs, or text.",
+    "imageFile": "kyc-1747.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1748",
+    "serial": 4284,
+    "frequency": 8,
+    "word": "carbohydrate",
+    "targetSense": "碳水化合物",
+    "alt": "",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "面包提供碳水化合物，为跑步者补充能量，表现 carbohydrate。",
+    "sentence": "A slice of bread is a carbohydrate source that gives a runner energy.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open running path with a simple grassy rest edge and no bench",
+      "actor": "One clearly athletic runner wearing plain running clothes and running shoes pauses on the path and eats one slice of bread.",
+      "props": [
+        "one runner",
+        "one slice of bread",
+        "one running path"
+      ],
+      "beats": [
+        "The runner finishes a short run along the path",
+        "The runner pauses and eats one slice of bread",
+        "The runner feels energized and ready to run again"
+      ],
+      "ending": "One athletic runner eats bread beside the running path for energy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one clearly athletic runner in simple running clothes and running shoes, visibly on an open running path, actively taking a bite of one slice of bread after running. The path and running shoes must be visible. No bench, no ordinary seated child, no other food, labels, logos, letters, numbers, or text. Established hand-painted picture-book style.",
+    "imageFile": "kyc-1748.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1749",
+    "serial": 4285,
+    "frequency": 8,
+    "word": "cluster",
+    "targetSense": "群",
+    "alt": "",
+    "anchor": "branch",
+    "anchorMeaning": "树枝",
+    "relation": "许多浆果紧挨着长在同一枝条上，形成 cluster。",
+    "sentence": "A cluster of berries hung together on one branch.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet orchard with one visible branch",
+      "actor": "One close cluster of berries hangs tightly together from one branch",
+      "props": [
+        "one berry cluster",
+        "one branch",
+        "one orchard"
+      ],
+      "beats": [
+        "The berries appear separately",
+        "They hang close together",
+        "One compact cluster forms on the branch"
+      ],
+      "ending": "One cluster of berries hangs on one branch."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one compact cluster of berries on one branch. No other berry clusters, people, labels, or text.",
+    "imageFile": "kyc-1749.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1750",
+    "serial": 4286,
+    "frequency": 8,
+    "word": "coalition",
+    "targetSense": "联合",
+    "alt": "",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "两组人联合起来共同修桥，表现 coalition。",
+    "sentence": "The two groups formed a coalition to build the bridge.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple bridge building site beside a stream",
+      "actor": "Two community leaders from different groups carry one wooden bridge plank together",
+      "props": [
+        "two community leaders",
+        "one wooden plank",
+        "one bridge site"
+      ],
+      "beats": [
+        "The leaders arrive from opposite sides",
+        "They lift the same plank together",
+        "The two groups work as one coalition"
+      ],
+      "ending": "Two groups cooperate to build one bridge."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two people carrying one bridge plank together at one simple bridge site. No extra people, flags, logos, signs, writing, or text.",
+    "imageFile": "kyc-1750.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1751",
+    "serial": 4287,
+    "frequency": 8,
+    "word": "cop",
+    "targetSense": "警察",
+    "alt": "",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "警察帮助迷路的孩子找到安全地点，表现 cop。",
+    "sentence": "The cop helped a lost child find a safe place.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet neighborhood street with plain houses and no signs or symbols",
+      "actor": "One friendly cop in a plain dark blue police-style uniform with an entirely blank cap and shirt gently guides one lost child.",
+      "props": [
+        "one cop",
+        "one child",
+        "one quiet street"
+      ],
+      "beats": [
+        "The child looks lost on the quiet street",
+        "The cop approaches calmly with open hands",
+        "The cop helps the child find a safe home"
+      ],
+      "ending": "One cop in an unmarked uniform helps one lost child on a quiet street."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly one friendly cop helping exactly one lost child on a quiet neighborhood street. Plain dark blue police-style uniform and simple cap, completely blank with no badge, star, shield, patch, emblem, logo, lettering, or symbol. Plain houses only; no signs or decorative icons. No weapons, extra people, writing, or text. Established hand-painted picture-book style.",
+    "imageFile": "kyc-1751.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1752",
+    "serial": 4288,
+    "frequency": 8,
+    "word": "copper",
+    "targetSense": "铜",
+    "alt": "",
+    "anchor": "pot",
+    "anchorMeaning": "锅",
+    "relation": "铜锅呈现红棕色金属光泽，表现 copper。",
+    "sentence": "The copper pot glowed above the warm stove.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple warm kitchen with one stove",
+      "actor": "One reddish copper pot sits above the stove and catches the light",
+      "props": [
+        "one copper pot",
+        "one stove",
+        "one kitchen"
+      ],
+      "beats": [
+        "The pot rests above the stove",
+        "Warm light falls across its reddish metal",
+        "The copper surface gleams"
+      ],
+      "ending": "One copper pot glows above a stove."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one clearly reddish copper pot above one simple stove. No extra pots, brand marks, labels, people, or text.",
+    "imageFile": "kyc-1752.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1753",
+    "serial": 4289,
+    "frequency": 8,
+    "word": "couch",
+    "targetSense": "长沙发、睡椅",
+    "alt": "",
+    "anchor": "cushion",
+    "anchorMeaning": "靠垫",
+    "relation": "她躺在长沙发上并用靠垫枕头，表现 couch。",
+    "sentence": "She rested on the couch with a cushion under her head.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room with one couch",
+      "actor": "One woman rests comfortably on one couch with one cushion under her head",
+      "props": [
+        "one woman",
+        "one couch",
+        "one cushion"
+      ],
+      "beats": [
+        "She sits down on the couch",
+        "She lies back and places the cushion under her head",
+        "She rests comfortably"
+      ],
+      "ending": "One woman rests on a couch with a cushion."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman resting on one couch with one cushion. No other people, couches, labels, signs, or text.",
+    "imageFile": "kyc-1753.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1754",
+    "serial": 4290,
+    "frequency": 8,
+    "word": "dialect",
+    "targetSense": "方言",
+    "alt": "",
+    "anchor": "village",
+    "anchorMeaning": "村庄",
+    "relation": "村民在村里用当地口音交谈，表现 dialect。",
+    "sentence": "In the village, the farmer spoke in a local dialect.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet village lane with simple houses",
+      "actor": "One local farmer speaks to one neighbor using a familiar regional way of speaking",
+      "props": [
+        "one farmer",
+        "one neighbor",
+        "one village lane"
+      ],
+      "beats": [
+        "The farmer meets the neighbor",
+        "The farmer speaks in the local way",
+        "The neighbor listens and understands"
+      ],
+      "ending": "One farmer speaks a local dialect to one neighbor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two villagers in conversation on a quiet village lane, one speaking and one listening. No speech bubbles, written words, signs, or text.",
+    "imageFile": "kyc-1754.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1755",
+    "serial": 4291,
+    "frequency": 8,
+    "word": "disturbance",
+    "targetSense": "扰乱",
+    "alt": "",
+    "anchor": "library",
+    "anchorMeaning": "图书馆",
+    "relation": "狗的吠叫打破图书馆的安静，引起扰乱，表现 disturbance。",
+    "sentence": "The loud noise caused a disturbance in the quiet library.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet library reading room with blank bookshelves",
+      "actor": "One dog barks beside one startled reader, disrupting the quiet room",
+      "props": [
+        "one dog",
+        "one reader",
+        "one library"
+      ],
+      "beats": [
+        "The reader sits quietly",
+        "The dog barks suddenly",
+        "The reader turns in surprise at the disturbance"
+      ],
+      "ending": "One dog causes a disturbance in a quiet library."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one dog barking and one startled reader in a quiet library. No speech bubbles, sound words, extra people, book titles, signs, or text.",
+    "imageFile": "kyc-1755.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1756",
+    "serial": 4292,
+    "frequency": 8,
+    "word": "empirical",
+    "targetSense": "经验主义的",
+    "alt": "",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "科学家通过测量植物生长收集经验数据，表现 empirical。",
+    "sentence": "The scientist gathered empirical evidence by measuring a plant’s growth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple laboratory with one small potted plant",
+      "actor": "One scientist measures the height of one plant with a plain unmarked ruler",
+      "props": [
+        "one scientist",
+        "one potted plant",
+        "one unmarked ruler"
+      ],
+      "beats": [
+        "The scientist observes the plant",
+        "The scientist measures its growth",
+        "The observation becomes empirical evidence"
+      ],
+      "ending": "One scientist measures a plant to gather empirical evidence."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one scientist measuring one plant with one plain ruler that has no ticks, numbers, letters, or labels. No charts, extra people, or text.",
+    "imageFile": "kyc-1756.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1757",
+    "serial": 4293,
+    "frequency": 8,
+    "word": "fasten",
+    "targetSense": "系上",
+    "alt": "",
+    "anchor": "belt",
+    "anchorMeaning": "腰带；带子",
+    "relation": "她把带子系紧在行李箱上，表现 fasten。",
+    "sentence": "She will fasten the belt around the suitcase.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple bedroom with one suitcase",
+      "actor": "One woman secures one belt tightly around one suitcase",
+      "props": [
+        "one woman",
+        "one belt",
+        "one suitcase"
+      ],
+      "beats": [
+        "The belt lies loose beside the case",
+        "She wraps it around the suitcase",
+        "She fastens the buckle securely"
+      ],
+      "ending": "One woman fastens a belt around a suitcase."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；fasten 与系紧腰带的动作对应清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman fastening one plain belt around one suitcase. No logos, travel labels, letters, numbers, or text.",
+    "imageFile": "kyc-1757.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1758",
+    "serial": 4295,
+    "frequency": 8,
+    "word": "groan",
+    "targetSense": "呻吟",
+    "alt": "",
+    "anchor": "box",
+    "anchorMeaning": "箱子",
+    "relation": "男子提起沉重箱子后发出呻吟，表现 groan。",
+    "sentence": "He let out a groan after lifting the heavy box.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain indoor room with one heavy box",
+      "actor": "One man strains while lifting one heavy box and groans from the effort",
+      "props": [
+        "one man",
+        "one heavy box",
+        "one plain room"
+      ],
+      "beats": [
+        "He bends to lift the box",
+        "He raises it with effort",
+        "He groans as he holds the weight"
+      ],
+      "ending": "One man groans after lifting a heavy box."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one man straining under one heavy box with a groaning expression. No written sound effects, speech bubbles, extra people, or text.",
+    "imageFile": "kyc-1758.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1759",
+    "serial": 4296,
+    "frequency": 8,
+    "word": "novelty",
+    "targetSense": "新奇的经验",
+    "alt": "",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "第一次乘火车的新奇体验让她兴奋，表现 novelty。",
+    "sentence": "The novelty of riding a train excited her.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Inside one passenger train beside a wide window",
+      "actor": "One girl experiences her first train ride and looks amazed by the passing view",
+      "props": [
+        "one girl",
+        "one train interior",
+        "one window view"
+      ],
+      "beats": [
+        "She boards the train",
+        "The scenery begins to move past the window",
+        "The new experience fills her with excitement"
+      ],
+      "ending": "One girl is excited by the novelty of a train ride."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one delighted girl on one passenger train looking through one window at the moving scenery. No other passengers, signs, numbers, logos, or text.",
+    "imageFile": "kyc-1759.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1760",
+    "serial": 4297,
+    "frequency": 8,
+    "word": "pierce",
+    "targetSense": "穿透",
+    "alt": "",
+    "anchor": "needle",
+    "anchorMeaning": "针",
+    "relation": "针穿过厚布料，表现 pierce。",
+    "sentence": "The needle can pierce the thick cloth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet sewing table with a plain background",
+      "actor": "One seamstress pushes one sharp needle through one piece of thick cloth",
+      "props": [
+        "one seamstress",
+        "one needle",
+        "one piece of cloth"
+      ],
+      "beats": [
+        "The needle approaches the cloth",
+        "It pierces through the fabric",
+        "The needle emerges on the other side"
+      ],
+      "ending": "One needle pierces one piece of thick cloth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one person sewing as one needle passes through one piece of cloth. No extra needles, wounds, blood, labels, writing, or text.",
+    "imageFile": "kyc-1760.webp",
+    "imageError": null
+  }
+]

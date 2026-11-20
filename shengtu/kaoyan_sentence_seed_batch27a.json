@@ -1,0 +1,762 @@
+[
+  {
+    "word": "insult",
+    "anchor": "thorn",
+    "anchorMeaning": "刺",
+    "relation": "An insult can sting like a thorn, using a familiar image of sharp hurt.",
+    "sentence": "Her insult stung him like a rose thorn through his glove.",
+    "scene": {
+      "setting": "A quiet garden path",
+      "actor": "Two people; one speaks sharply while the other winces and holds his pricked glove",
+      "props": [
+        "single rose thorn",
+        "plain garden glove",
+        "low rose bush"
+      ],
+      "beats": [
+        "He notices the thorn",
+        "She speaks a cutting insult",
+        "He winces and pulls away"
+      ],
+      "ending": "One person winces beside a rose thorn as another speaks"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An insult can sting like a thorn, using a familiar image of sharp hurt. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No words or speech bubbles."
+  },
+  {
+    "word": "persuasion",
+    "anchor": "carrot",
+    "anchorMeaning": "胡萝卜",
+    "relation": "Persuasion means convincing someone, and offering familiar food can help.",
+    "sentence": "Her persuasion worked when her brother tasted the carrot soup.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "Two siblings; one gently offers a spoon while the other reaches for soup",
+      "props": [
+        "small bowl of carrot soup",
+        "plain spoon",
+        "wooden table"
+      ],
+      "beats": [
+        "She offers a taste",
+        "He considers the soup",
+        "He takes the spoon"
+      ],
+      "ending": "One sibling encourages the other to taste carrot soup"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Persuasion means convincing someone, and offering familiar food can help. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or labels."
+  },
+  {
+    "word": "revelation",
+    "anchor": "light",
+    "anchorMeaning": "光",
+    "relation": "A revelation brings a hidden fact into the light.",
+    "sentence": "The revelation came when a beam of light exposed the hidden key.",
+    "scene": {
+      "setting": "A quiet attic",
+      "actor": "No people; a beam of light falls across a previously hidden key",
+      "props": [
+        "single key",
+        "plain wooden chest",
+        "small window"
+      ],
+      "beats": [
+        "The attic stays dim",
+        "A beam enters",
+        "The hidden key is revealed"
+      ],
+      "ending": "A key appears in a clear shaft of light"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A revelation brings a hidden fact into the light. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "terrify",
+    "anchor": "ghost",
+    "anchorMeaning": "鬼",
+    "relation": "A ghost's sudden appearance can terrify someone in a dark room.",
+    "sentence": "The ghost's shadow could terrify the child after sunset.",
+    "scene": {
+      "setting": "A dim bedroom",
+      "actor": "One child recoils from one harmless ghost-shaped shadow",
+      "props": [
+        "single ghost-shaped shadow",
+        "plain bedside lamp",
+        "wooden chair"
+      ],
+      "beats": [
+        "The child notices the shadow",
+        "It stretches across the wall",
+        "The child looks terrified"
+      ],
+      "ending": "A child faces a ghost-shaped shadow"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A ghost's sudden appearance can terrify someone in a dark room. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep it friendly; no symbols or text."
+  },
+  {
+    "word": "algorithm",
+    "anchor": "maze",
+    "anchorMeaning": "迷宫",
+    "relation": "An algorithm gives ordered steps for solving a problem such as a maze.",
+    "sentence": "The small robot followed an algorithm to find the exit through the maze.",
+    "scene": {
+      "setting": "A simple garden maze",
+      "actor": "No people; one small robot follows a continuous path through a hedge maze",
+      "props": [
+        "single small robot",
+        "low hedge maze",
+        "plain exit gate"
+      ],
+      "beats": [
+        "The robot enters",
+        "It follows several turns",
+        "It reaches the gate"
+      ],
+      "ending": "One robot reaches the maze exit"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An algorithm gives ordered steps for solving a problem such as a maze. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, labels, or letters."
+  },
+  {
+    "word": "boycott",
+    "anchor": "soap",
+    "anchorMeaning": "肥皂",
+    "relation": "A shopper who leaves the soap untouched during the boycott shows the refusal to buy it.",
+    "sentence": "During the boycott, one shopper leaves the soap untouched on the shelf.",
+    "scene": {
+      "setting": "A tiny plain soap shop with one bare shelf",
+      "actor": "One shopper walks away from one untouched soap bar and visibly carries one empty woven basket in one hand",
+      "props": [
+        "single plain soap bar",
+        "low wooden shelf",
+        "one empty woven shopping basket"
+      ],
+      "beats": [
+        "The shopper notices the soap",
+        "The shopper chooses to boycott it",
+        "The shopper walks away with the empty basket and does not buy the soap"
+      ],
+      "ending": "One shopper leaves one soap bar untouched on the shelf while carrying one empty basket"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “During the boycott, one shopper leaves the soap untouched on the shelf.” The action clearly shows refusing to buy the soap."
+    },
+    "artDirection": "Show exactly one shopper walking away from one plain soap bar on one bare shelf. The shopper carries exactly one empty woven basket in one hand; the other hand is empty. No other people, baskets, products, signs, labels, logos, or text."
+  },
+  {
+    "word": "coincide",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "Events coincide when they happen at the same time.",
+    "sentence": "The two train arrivals coincide at the station just before sunset.",
+    "scene": {
+      "setting": "A quiet railway platform",
+      "actor": "No people; exactly two trains arrive side by side at one platform",
+      "props": [
+        "two trains",
+        "plain platform",
+        "blank-faced station clock"
+      ],
+      "beats": [
+        "The platform is quiet",
+        "Both trains arrive together",
+        "Their arrival times coincide"
+      ],
+      "ending": "Two trains reach the platform together"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Events coincide when they happen at the same time. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Exactly two trains; no signs or digits."
+  },
+  {
+    "word": "dealer",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "A dealer sells a particular kind of goods, such as cars.",
+    "sentence": "The car dealer showed one buyer a small red car.",
+    "scene": {
+      "setting": "A simple showroom",
+      "actor": "Two adults; a dealer presents one car to one buyer",
+      "props": [
+        "single red car",
+        "plain key",
+        "empty showroom floor"
+      ],
+      "beats": [
+        "The buyer arrives",
+        "The dealer opens the car",
+        "The buyer inspects it"
+      ],
+      "ending": "A dealer presents one car to a buyer"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A dealer sells a particular kind of goods, such as cars. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No price tags, signs, or text."
+  },
+  {
+    "word": "disposal",
+    "anchor": "bin",
+    "anchorMeaning": "垃圾桶",
+    "relation": "Disposal means getting rid of something in a suitable way.",
+    "sentence": "Proper disposal meant putting the empty can in the recycling bin.",
+    "scene": {
+      "setting": "A clean kitchen corner",
+      "actor": "One person places one empty can into one plain bin",
+      "props": [
+        "single empty can",
+        "plain recycling bin",
+        "wooden floor"
+      ],
+      "beats": [
+        "The can is picked up",
+        "It is carried to the bin",
+        "Disposal is complete"
+      ],
+      "ending": "One can goes into the bin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Disposal means getting rid of something in a suitable way. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No recycling symbols, labels, or text."
+  },
+  {
+    "word": "lodge",
+    "anchor": "snow",
+    "anchorMeaning": "雪",
+    "relation": "A lodge is a small rustic shelter, often in the mountains.",
+    "sentence": "We stayed in a wooden lodge while snow fell outside.",
+    "scene": {
+      "setting": "A snowy mountain clearing",
+      "actor": "No people; one small timber lodge stands warmly lit beneath falling snow",
+      "props": [
+        "small wooden lodge",
+        "soft snowdrift",
+        "single pine tree"
+      ],
+      "beats": [
+        "Snow falls",
+        "The lodge glows warmly",
+        "The shelter stands in the clearing"
+      ],
+      "ending": "A small lodge in a snowy clearing"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A lodge is a small rustic shelter, often in the mountains. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs or text."
+  },
+  {
+    "word": "spectrum",
+    "anchor": "light",
+    "anchorMeaning": "光",
+    "relation": "A spectrum is a range of colors made visible when light separates.",
+    "sentence": "A prism spread white light into a bright spectrum of colors.",
+    "scene": {
+      "setting": "A dark tabletop beside a window",
+      "actor": "No people; one prism separates one beam of white light into a rainbow",
+      "props": [
+        "single clear prism",
+        "one light beam",
+        "plain tabletop"
+      ],
+      "beats": [
+        "White light enters",
+        "The prism bends it",
+        "A spectrum appears"
+      ],
+      "ending": "A rainbow spectrum emerges from a prism and light"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A spectrum is a range of colors made visible when light separates. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, arrows, or text."
+  },
+  {
+    "word": "foolish",
+    "anchor": "leaf",
+    "anchorMeaning": "叶子",
+    "relation": "Foolish describes poor judgment, such as risking safety for something small.",
+    "sentence": "The foolish duck chased a leaf toward thin ice.",
+    "scene": {
+      "setting": "A quiet pond edge in winter",
+      "actor": "One duck stretches toward one drifting leaf from safe ground",
+      "props": [
+        "single duck",
+        "single leaf",
+        "thin ice edge"
+      ],
+      "beats": [
+        "The duck sees the leaf",
+        "It reaches toward the ice",
+        "It pauses at the edge"
+      ],
+      "ending": "A duck reaches foolishly for a leaf near ice"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Foolish describes poor judgment, such as risking safety for something small. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep the duck safely on shore."
+  },
+  {
+    "word": "frustrate",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "relation": "To frustrate someone is to make a task feel difficult or upsetting.",
+    "sentence": "The missing piece began to frustrate the child working on the puzzle.",
+    "scene": {
+      "setting": "A bright playroom",
+      "actor": "One child searches an incomplete puzzle",
+      "props": [
+        "nearly complete jigsaw puzzle",
+        "single missing-piece gap",
+        "small rug"
+      ],
+      "beats": [
+        "The child studies the puzzle",
+        "The last space remains empty",
+        "The child looks frustrated"
+      ],
+      "ending": "A child faces one missing piece"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To frustrate someone is to make a task feel difficult or upsetting. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or extra pieces."
+  },
+  {
+    "word": "affluent",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "Affluent means having abundant money and resources.",
+    "sentence": "The affluent family lived in a large house beside a garden.",
+    "scene": {
+      "setting": "A quiet residential lane",
+      "actor": "One adult stands beside a spacious well-kept house and garden",
+      "props": [
+        "large plain house",
+        "small garden",
+        "single parked car"
+      ],
+      "beats": [
+        "The resident arrives",
+        "They look over the property",
+        "The affluent home is in view"
+      ],
+      "ending": "A resident stands by a large comfortable home"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Affluent means having abundant money and resources. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, logos, or license numbers."
+  },
+  {
+    "word": "cabinet",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "A cabinet can mean a group of senior ministers who meet to govern.",
+    "sentence": "The cabinet met around the table to discuss a new plan.",
+    "scene": {
+      "setting": "A plain meeting room",
+      "actor": "Two ministers sit across a table and discuss a decision",
+      "props": [
+        "plain meeting table",
+        "two simple chairs",
+        "closed blank folder"
+      ],
+      "beats": [
+        "The ministers sit down",
+        "They discuss the plan",
+        "The cabinet reaches a decision"
+      ],
+      "ending": "Two ministers meet at a plain table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A cabinet can mean a group of senior ministers who meet to govern. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, seals, or written papers."
+  },
+  {
+    "word": "collision",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "A collision happens when two moving objects strike each other.",
+    "sentence": "A collision stopped the two toy cars on the smooth track.",
+    "scene": {
+      "setting": "A child's playroom floor",
+      "actor": "No people; exactly two toy cars meet nose to nose after a gentle collision",
+      "props": [
+        "two toy cars",
+        "short toy track",
+        "plain rug"
+      ],
+      "beats": [
+        "Both cars roll",
+        "They collide gently",
+        "They stop together"
+      ],
+      "ending": "Two toy cars meet after a collision"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A collision happens when two moving objects strike each other. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Exactly two cars; no logos."
+  },
+  {
+    "word": "monument",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "A monument is a structure built to remember a person or event.",
+    "sentence": "The stone monument honored a brave sailor in the town square.",
+    "scene": {
+      "setting": "A quiet town square",
+      "actor": "No people; one tall stone monument stands in an open square",
+      "props": [
+        "single stone monument",
+        "small square",
+        "plain stone bench"
+      ],
+      "beats": [
+        "The monument rises",
+        "Its shape honors a sailor",
+        "The town remembers"
+      ],
+      "ending": "A stone monument stands in the square"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A monument is a structure built to remember a person or event. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No readable carving, names, or dates."
+  },
+  {
+    "word": "spider",
+    "anchor": "web",
+    "anchorMeaning": "网",
+    "relation": "A spider makes a web to catch small insects.",
+    "sentence": "A spider waited in its web between two garden leaves.",
+    "scene": {
+      "setting": "A leafy garden corner",
+      "actor": "One small spider sits at the center of one web",
+      "props": [
+        "single spider",
+        "single web",
+        "two broad leaves"
+      ],
+      "beats": [
+        "The spider settles",
+        "A breeze moves the leaves",
+        "The web holds its shape"
+      ],
+      "ending": "A spider rests in a web between leaves"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A spider makes a web to catch small insects. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show exactly eight natural spider legs."
+  },
+  {
+    "word": "stack",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "A stack is a neat pile of items placed one above another.",
+    "sentence": "A neat stack of books leaned beside the wooden chair.",
+    "scene": {
+      "setting": "A quiet reading nook",
+      "actor": "No people; plain books form one stable vertical stack beside a chair",
+      "props": [
+        "stack of plain books",
+        "wooden chair",
+        "small rug"
+      ],
+      "beats": [
+        "Books are placed one by one",
+        "They form a stack",
+        "The pile leans beside the chair"
+      ],
+      "ending": "A stack of books beside a chair"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A stack is a neat pile of items placed one above another. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep all book covers blank."
+  },
+  {
+    "word": "tame",
+    "anchor": "horse",
+    "anchorMeaning": "马",
+    "relation": "A tame animal is accustomed to people and accepts gentle handling.",
+    "sentence": "The tame horse let the child brush its mane.",
+    "scene": {
+      "setting": "A peaceful paddock",
+      "actor": "One child calmly brushes one horse",
+      "props": [
+        "single calm horse",
+        "soft brush",
+        "wooden fence"
+      ],
+      "beats": [
+        "The child approaches",
+        "The horse stays calm",
+        "The child brushes its mane"
+      ],
+      "ending": "A tame horse stands still for brushing"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A tame animal is accustomed to people and accepts gentle handling. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Natural horse anatomy."
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "word": "cling",
+    "anchor": "branch",
+    "anchorMeaning": "树枝",
+    "relation": "To cling is to hold tightly to a surface or support such as a branch.",
+    "sentence": "The koala must cling tightly to the branch during the storm.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The koala must cling tightly to the branch during the storm.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "sturdy branch",
+        "curled leaf",
+        "rainy sky"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: branch (树枝).",
+        "Show the sentence's main action linking the anchor to cling.",
+        "Make the target meaning clear: 紧贴、坚持."
+      ],
+      "ending": "The koala must cling tightly to the branch during the storm."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "divert",
+    "anchor": "side road",
+    "anchorMeaning": "岔路；侧路",
+    "relation": "To divert traffic is to send it away from the usual route onto another road.",
+    "sentence": "A road worker must divert one car onto a side road while repairing the bridge.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A road worker must divert one car onto a side road while repairing the bridge.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "side road",
+        "small bridge",
+        "plain traffic cone"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: side road (岔路；侧路).",
+        "Show the sentence's main action linking the anchor to divert.",
+        "Make the target meaning clear: 转移."
+      ],
+      "ending": "A road worker must divert one car onto a side road while repairing the bridge."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "fraction",
+    "anchor": "pie",
+    "anchorMeaning": "馅饼",
+    "relation": "A fraction is a part of a whole; the pie makes the whole visible.",
+    "sentence": "She ate a small fraction of the pie and left most of it untouched.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: She ate a small fraction of the pie and left most of it untouched.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "whole pie with one small slice missing",
+        "plain plate",
+        "small fork"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: pie (馅饼).",
+        "Show the sentence's main action linking the anchor to fraction.",
+        "Make the target meaning clear: 小部分、分数."
+      ],
+      "ending": "She ate a small fraction of the pie and left most of it untouched."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "applicable",
+    "anchor": "helmet",
+    "anchorMeaning": "头盔",
+    "relation": "A helmet requirement is applicable when it fits the situation; here it applies to every cyclist entering the race.",
+    "sentence": "The helmet requirement is applicable to every cyclist entering the race.",
+    "scene": {
+      "setting": "A quiet cycling track entrance with one starting line and no signs.",
+      "actor": "One cyclist wearing a helmet before entering the race; no other people.",
+      "props": [
+        "plain helmet",
+        "simple bicycle",
+        "starting line"
+      ],
+      "beats": [
+        "The cyclist arrives at the track entrance.",
+        "She puts on the helmet required for the race.",
+        "The helmet requirement is applicable to her as she enters."
+      ],
+      "ending": "One cyclist wears a helmet beside the starting line."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "No signs, posters, papers, labels, letters, numbers, or words anywhere in the scene."
+  },
+  {
+    "word": "bachelor",
+    "anchor": "university",
+    "anchorMeaning": "大学",
+    "relation": "A bachelor's degree is a university qualification awarded after undergraduate study.",
+    "sentence": "He earned a bachelor's degree after studying at the university for four years.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: He earned a bachelor's degree after studying at the university for four years.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain university building",
+        "blank diploma",
+        "graduation cap"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: university (大学).",
+        "Show the sentence's main action linking the anchor to bachelor.",
+        "Make the target meaning clear: 学士、单身汉."
+      ],
+      "ending": "He earned a bachelor's degree after studying at the university for four years."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Diploma and building must have no letters, logos, or readable text."
+  },
+  {
+    "word": "carrier",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "A carrier transports or holds something; here the boat carries fruit across the water.",
+    "sentence": "The small boat served as a carrier, transporting boxes of apples across the lake.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The small boat served as a carrier, transporting boxes of apples across the lake.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "small wooden boat",
+        "two plain apple boxes",
+        "calm lake"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: apples (苹果).",
+        "Show the sentence's main action linking the anchor to carrier.",
+        "Make the target meaning clear: 载体."
+      ],
+      "ending": "The small boat served as a carrier, transporting boxes of apples across the lake."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "initiate",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "A bell can signal and initiate the beginning of an event.",
+    "sentence": "A bell rang to initiate the school race.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A bell rang to initiate the school race.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain hand bell",
+        "running shoes",
+        "simple track"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: bell (铃).",
+        "Show the sentence's main action linking the anchor to initiate.",
+        "Make the target meaning clear: 开始."
+      ],
+      "ending": "A bell rang to initiate the school race."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "meaning",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "relation": "Meaning is an idea or memory attached to something; this shell recalls a special day to the child.",
+    "sentence": "The shell had a special meaning for the child because it came from her grandmother.",
+    "scene": {
+      "setting": "A child's bedroom with a small plain keepsake box and a soft blanket.",
+      "actor": "One child holding an ordinary shell that is personally precious to her; no other people.",
+      "props": [
+        "plain natural shell",
+        "small keepsake box",
+        "soft blanket"
+      ],
+      "beats": [
+        "The child finds the shell in her keepsake box.",
+        "She remembers that her grandmother gave it to her.",
+        "The shell has special meaning for the child."
+      ],
+      "ending": "The child holds the plain shell as a treasured keepsake."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "No icons, heart shapes, engravings, pictures, labels, or writing; the shell is plain and naturally shaped."
+  },
+  {
+    "word": "presumably",
+    "anchor": "pawprints",
+    "anchorMeaning": "爪印",
+    "relation": "Presumably signals a likely conclusion drawn from clues such as muddy pawprints.",
+    "sentence": "The muddy pawprints presumably belonged to the dog that had just entered.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The muddy pawprints presumably belonged to the dog that had just entered.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "muddy pawprints",
+        "open back door",
+        "plain doormat"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: pawprints (爪印).",
+        "Show the sentence's main action linking the anchor to presumably.",
+        "Make the target meaning clear: 大概、可能."
+      ],
+      "ending": "The muddy pawprints presumably belonged to the dog that had just entered."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "reap",
+    "anchor": "wheat",
+    "anchorMeaning": "小麦",
+    "relation": "To reap is to cut and gather a ripe crop such as wheat.",
+    "sentence": "The farmer will reap the wheat before the autumn rain.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The farmer will reap the wheat before the autumn rain.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "ripe wheat",
+        "simple sickle",
+        "small basket"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: wheat (小麦).",
+        "Show the sentence's main action linking the anchor to reap.",
+        "Make the target meaning clear: 收获、获得."
+      ],
+      "ending": "The farmer will reap the wheat before the autumn rain."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "decay",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "Fruit left too long can decay and rot visibly.",
+    "sentence": "The apple began to decay after weeks in the warm cupboard.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The apple began to decay after weeks in the warm cupboard.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "single apple with one soft brown patch",
+        "wooden shelf",
+        "small open cupboard"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: apple (苹果).",
+        "Show the sentence's main action linking the anchor to decay.",
+        "Make the target meaning clear: 腐烂."
+      ],
+      "ending": "The apple began to decay after weeks in the warm cupboard."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "miserable",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "Cold rain and discomfort can make someone feel miserable.",
+    "sentence": "The soaked puppy looked miserable in the cold rain.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The soaked puppy looked miserable in the cold rain.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "rain puddle",
+        "small towel",
+        "wooden doghouse"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: rain (雨).",
+        "Show the sentence's main action linking the anchor to miserable.",
+        "Make the target meaning clear: 悲惨的."
+      ],
+      "ending": "The soaked puppy looked miserable in the cold rain."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "practitioner",
+    "anchor": "patient",
+    "anchorMeaning": "病人",
+    "relation": "A practitioner is a trained professional who works with clients or patients.",
+    "sentence": "The practitioner examined a patient at the village clinic.",
+    "scene": {
+      "setting": "A small village clinic with an examination chair and a plain blank wall.",
+      "actor": "Exactly one health practitioner examining exactly one seated patient; no other people.",
+      "props": [
+        "plain stethoscope",
+        "clinic chair",
+        "completely blank medical bag"
+      ],
+      "beats": [
+        "The patient sits for an examination.",
+        "The practitioner listens carefully with the stethoscope.",
+        "The practitioner checks the patient's pulse."
+      ],
+      "ending": "One practitioner examines one patient in the clinic."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Medical bag and all equipment are plain and unmarked: no cross, plus sign, logo, icon, letters, numbers, or writing."
+  },
+  {
+    "word": "proposition",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "relation": "A proposition is a claim or idea that can be tested, such as a claim about sunlight and growth.",
+    "sentence": "The scientist tested the proposition that sunlight helps seedlings grow.",
+    "scene": {
+      "setting": "A bright greenhouse with one sunny window and one shaded corner.",
+      "actor": "One scientist comparing exactly two matching seedlings, one in sunlight and one in shade.",
+      "props": [
+        "two matching potted seedlings",
+        "sunny window",
+        "plain watering can"
+      ],
+      "beats": [
+        "The scientist places one seedling in sunlight.",
+        "She leaves the matching seedling in shade.",
+        "She compares their growth to test the proposition about sunlight."
+      ],
+      "ending": "The scientist compares two matching seedlings, one sunlit and one shaded."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Show two similar seedlings with one clearly in sunlight and one in shade; no written hypothesis, charts, labels, symbols, or text."
+  },
+  {
+    "word": "sole",
+    "anchor": "shoe",
+    "anchorMeaning": "鞋子",
+    "relation": "The sole is the bottom part of a shoe that touches the ground.",
+    "sentence": "The sole of her shoe came loose on the long walk.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The sole of her shoe came loose on the long walk.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "one walking shoe",
+        "loose shoe sole",
+        "wooden bench"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: shoe (鞋子).",
+        "Show the sentence's main action linking the anchor to sole.",
+        "Make the target meaning clear: 鞋底、唯一的."
+      ],
+      "ending": "The sole of her shoe came loose on the long walk."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "spark",
+    "anchor": "match",
+    "anchorMeaning": "火柴",
+    "relation": "A match can create a spark that ignites kindling.",
+    "sentence": "A spark from the match caught the dry kindling and started a small fire.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A spark from the match caught the dry kindling and started a small fire.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "single plain match",
+        "dry kindling",
+        "stone fire pit"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: match (火柴).",
+        "Show the sentence's main action linking the anchor to spark.",
+        "Make the target meaning clear: 火星、引起."
+      ],
+      "ending": "A spark from the match caught the dry kindling and started a small fire."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "sportsman",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "A ball is common sports equipment used by a sportsman during play.",
+    "sentence": "The sportsman kicked a ball across the field after practice.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The sportsman kicked a ball across the field after practice.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "round ball",
+        "plain sports bag",
+        "open field"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: ball (球).",
+        "Show the sentence's main action linking the anchor to sportsman.",
+        "Make the target meaning clear: 运动员."
+      ],
+      "ending": "The sportsman kicked a ball across the field after practice."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "toll",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "A toll is a fee paid to use a road or cross a bridge, often with a coin.",
+    "sentence": "The driver paid a toll with one coin before crossing the bridge.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The driver paid a toll with one coin before crossing the bridge.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain coin",
+        "small toll booth",
+        "wooden bridge"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: coin (硬币).",
+        "Show the sentence's main action linking the anchor to toll.",
+        "Make the target meaning clear: 损失、通行费."
+      ],
+      "ending": "The driver paid a toll with one coin before crossing the bridge."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "verify",
+    "anchor": "seal",
+    "anchorMeaning": "封蜡；封印",
+    "relation": "A visible seal can provide evidence used to verify that a package is genuine.",
+    "sentence": "The clerk will verify the package by checking its red wax seal.",
+    "scene": {
+      "setting": "A plain packing desk in a bare, unmarked room with blank walls; no storefront or signs.",
+      "actor": "One clerk examining an already-sealed parcel with a small magnifying glass; no other people, labels, writing, signs, letters, or numbers anywhere.",
+      "props": [
+        "plain red wax seal already attached",
+        "small unmarked parcel",
+        "simple magnifying glass"
+      ],
+      "beats": [
+        "The parcel arrives with its wax seal already attached.",
+        "The clerk examines the seal carefully.",
+        "The clerk verifies that the parcel is genuine."
+      ],
+      "ending": "The clerk inspects the existing wax seal on a plain parcel in a bare room with no visible words or signs."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "A plain unmarked room with no post office, storefront, notice, sign, labels, stamps being applied, words, letters, numbers, logos, or icons; inspect the existing wax seal only."
+  },
+  {
+    "word": "compulsory",
+    "anchor": "helmet",
+    "anchorMeaning": "头盔",
+    "relation": "A helmet can be compulsory when a safety rule requires every rider to wear one.",
+    "sentence": "Wearing a helmet is compulsory for every cyclist entering the race.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: Wearing a helmet is compulsory for every cyclist entering the race.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain helmet",
+        "bicycle",
+        "starting line"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: helmet (头盔).",
+        "Show the sentence's main action linking the anchor to compulsory.",
+        "Make the target meaning clear: 强制的；义务的."
+      ],
+      "ending": "Wearing a helmet is compulsory for every cyclist entering the race."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  }
+]

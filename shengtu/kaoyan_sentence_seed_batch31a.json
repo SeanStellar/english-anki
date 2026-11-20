@@ -1,0 +1,762 @@
+[
+  {
+    "word": "simulate",
+    "anchor": "puppet",
+    "anchorMeaning": "木偶",
+    "relation": "孩子让木偶表演医生检查泰迪熊的过程，模拟真实诊疗动作。",
+    "sentence": "The child used a puppet to simulate a doctor examining a teddy bear.",
+    "scene": {
+      "setting": "A cozy playroom",
+      "actor": "One child moves a doctor puppet through a pretend checkup on a teddy bear",
+      "props": [
+        "doctor puppet",
+        "teddy bear",
+        "toy stethoscope"
+      ],
+      "beats": [
+        "The child lifts the puppet",
+        "The puppet listens to the teddy bear",
+        "The child finishes the pretend checkup"
+      ],
+      "ending": "The puppet doctor examines the teddy bear"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。孩子让木偶表演医生检查泰迪熊的过程，模拟真实诊疗动作。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Puppet and teddy bear must be clearly visible; use gentle pretend play. No writing, labels, logos, or medical symbols."
+  },
+  {
+    "word": "sphere",
+    "anchor": "soap bubble",
+    "anchorMeaning": "肥皂泡",
+    "relation": "肥皂泡和玻璃球体都是圆形的立体物，肥皂泡帮助记住 sphere 的球体形状。",
+    "sentence": "A soap bubble floated beside a glass sphere, both perfectly round.",
+    "scene": {
+      "setting": "A sunny windowsill",
+      "actor": "One child watches a soap bubble float beside a glass sphere",
+      "props": [
+        "soap bubble",
+        "glass sphere",
+        "windowsill"
+      ],
+      "beats": [
+        "The child blows a bubble",
+        "The bubble floats beside the glass sphere",
+        "Both round forms catch the sunlight"
+      ],
+      "ending": "A soap bubble floats beside one glass sphere"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。肥皂泡和玻璃球体都是圆形的立体物，肥皂泡帮助记住 sphere 的球体形状。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one transparent soap bubble and one solid glass sphere, both clearly round. No extra bubbles or balls; no text or symbols."
+  },
+  {
+    "word": "thumb",
+    "anchor": "mitten",
+    "anchorMeaning": "连指手套",
+    "relation": "手套上的拇指部分从其余手指部分分开，能清楚呈现 thumb。",
+    "sentence": "Her thumb poked out of the mitten as she waved her hand.",
+    "scene": {
+      "setting": "A snowy doorstep",
+      "actor": "One child waves with a mittened hand, the thumb clearly separated",
+      "props": [
+        "mitten",
+        "hand",
+        "snowy doorstep"
+      ],
+      "beats": [
+        "The child puts on the mitten",
+        "Her thumb emerges from its own side section",
+        "She waves with the mittened hand"
+      ],
+      "ending": "One thumb sticks out clearly from the mitten"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。手套上的拇指部分从其余手指部分分开，能清楚呈现 thumb。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show a correctly shaped mitten with one distinct thumb section; natural hand anatomy and no extra fingers. No text or symbols."
+  },
+  {
+    "word": "transparent",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "透明玻璃窗让人透过窗户看见外面的花园，体现 transparent。",
+    "sentence": "The transparent window let sunlight into the room.",
+    "scene": {
+      "setting": "A bright room beside a garden",
+      "actor": "One clear window lets sunlight fall across the room",
+      "props": [
+        "clear window",
+        "sunlight",
+        "garden"
+      ],
+      "beats": [
+        "Sunlight reaches the glass",
+        "The clear pane lets the garden remain visible",
+        "A bright patch falls inside the room"
+      ],
+      "ending": "The garden is clearly visible through the transparent window"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。透明玻璃窗让人透过窗户看见外面的花园，体现 transparent。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Make the glass pane visibly clear, with the garden seen through it. No curtains obscuring the pane, no text or signs."
+  },
+  {
+    "word": "arbitrary",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "她不看帽子里四个无标记彩球，随手抽出一个，表现任意选择。",
+    "sentence": "The coach made an arbitrary choice by drawing one of four colored balls from a hat without looking.",
+    "scene": {
+      "setting": "A small practice room",
+      "actor": "One coach closes her eyes and draws one ball from a hat containing four colored balls",
+      "props": [
+        "plain hat",
+        "four unmarked colored balls",
+        "small table"
+      ],
+      "beats": [
+        "The coach puts four colored balls in the hat",
+        "She closes her eyes and reaches inside",
+        "She draws one ball without looking"
+      ],
+      "ending": "The coach holds one ball while three remain visible in the hat"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Drawing one of four balls without looking makes the arbitrary choice and hat anchor visible together."
+    },
+    "artDirection": "Show exactly four plain colored balls total: one in the coach’s hand and three visible inside the hat. The coach’s eyes are closed as she chooses without looking. No other balls, numbers, labels, signs, or text."
+  },
+  {
+    "word": "arrogant",
+    "anchor": "throne",
+    "anchorMeaning": "王座",
+    "relation": "王子高坐王座、俯视来客，表现傲慢姿态。",
+    "sentence": "The arrogant prince sat high on his throne, looking down at one visitor.",
+    "scene": {
+      "setting": "A quiet palace hall",
+      "actor": "One prince sits high on a throne while one visitor looks up",
+      "props": [
+        "throne",
+        "plain crown",
+        "visitor’s hat"
+      ],
+      "beats": [
+        "The prince climbs onto the throne",
+        "He raises his chin above the visitor",
+        "The visitor looks up at his proud pose"
+      ],
+      "ending": "The prince looks down from his high throne"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。王子高坐王座、俯视来客，表现傲慢姿态。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people, one proud prince seated above one visitor. Keep expressions child-friendly; no signs, text, or extra people."
+  },
+  {
+    "word": "closet",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "外套被挂进壁橱，展示 closet 作为储物空间。",
+    "sentence": "She hung her coat inside the closet before leaving the room.",
+    "scene": {
+      "setting": "A tidy bedroom",
+      "actor": "One woman hangs her coat inside an open closet",
+      "props": [
+        "coat",
+        "closet door",
+        "clothes hanger"
+      ],
+      "beats": [
+        "She opens the closet",
+        "She places the coat on a hanger",
+        "The coat hangs inside the closet"
+      ],
+      "ending": "The coat hangs inside the open closet"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。外套被挂进壁橱，展示 closet 作为储物空间。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one coat inside a recognizable built-in closet. No labels, lettering, or extra people."
+  },
+  {
+    "word": "duplicate",
+    "anchor": "drawing",
+    "anchorMeaning": "图画",
+    "relation": "复印机把一幅图画复制到第二张纸上，呈现 duplicate 的动词义。",
+    "sentence": "The copier can duplicate her drawing onto a second blank sheet.",
+    "scene": {
+      "setting": "A quiet art room",
+      "actor": "One copier produces a second copy of a simple tree drawing",
+      "props": [
+        "plain copier",
+        "tree drawing",
+        "blank sheet"
+      ],
+      "beats": [
+        "The original tree drawing is placed on the copier",
+        "The copier makes a copy",
+        "Two identical tree drawings appear on blank sheets"
+      ],
+      "ending": "Two identical tree drawings lie beside the copier"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。复印机把一幅图画复制到第二张纸上，呈现 duplicate 的动词义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show two matching simple tree pictures on otherwise blank pages. No readable text, letters, numbers, logos, or people duplicated."
+  },
+  {
+    "word": "evaporate",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "太阳加热水坑，水逐渐蒸发到空气中。",
+    "sentence": "The puddle began to evaporate beneath the warm sun.",
+    "scene": {
+      "setting": "A sunny garden path",
+      "actor": "A small puddle evaporates on a path beneath the sun",
+      "props": [
+        "puddle",
+        "sunlight",
+        "garden path"
+      ],
+      "beats": [
+        "Sunlight warms the puddle",
+        "The puddle grows smaller",
+        "A faint wisp of water vapor rises"
+      ],
+      "ending": "A small puddle evaporates in warm sunlight"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。太阳加热水坑，水逐渐蒸发到空气中。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show a single small puddle and gentle vapor in sunlight; no signs, text, or exaggerated smoke."
+  },
+  {
+    "word": "ferry",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "汽车搭乘渡船穿过河流，说明 ferry 的交通工具义。",
+    "sentence": "The ferry carried one car across the river before sunset.",
+    "scene": {
+      "setting": "A calm river crossing",
+      "actor": "One car rides on one ferry crossing a river",
+      "props": [
+        "ferry",
+        "one car",
+        "river"
+      ],
+      "beats": [
+        "The car boards the ferry",
+        "The ferry moves across the river",
+        "The car reaches the opposite bank"
+      ],
+      "ending": "One car stands on the ferry midway across the river"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。汽车搭乘渡船穿过河流，说明 ferry 的交通工具义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly one car on one recognizable passenger ferry, with the river and opposite bank visible. No extra cars, signs, or text."
+  },
+  {
+    "word": "gossip",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "邻居隔着花园栅栏低声谈闲话，呈现 gossip。",
+    "sentence": "Two neighbors whispered gossip over the garden fence.",
+    "scene": {
+      "setting": "A quiet garden boundary",
+      "actor": "Exactly two neighbors whisper together across a garden fence",
+      "props": [
+        "garden fence",
+        "flower pot",
+        "garden path"
+      ],
+      "beats": [
+        "The neighbors meet at the fence",
+        "They lean closer and whisper",
+        "They exchange gossip quietly"
+      ],
+      "ending": "Two neighbors whisper over the fence"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。邻居隔着花园栅栏低声谈闲话，呈现 gossip。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people and no speech bubbles or written marks. Keep the conversation friendly and private."
+  },
+  {
+    "word": "hopeful",
+    "anchor": "sprout",
+    "anchorMeaning": "嫩芽",
+    "relation": "园丁看见新嫩芽后露出期待的笑容，表现 hopeful。",
+    "sentence": "The hopeful gardener smiled at a green sprout in her flowerpot.",
+    "scene": {
+      "setting": "A small sunny garden",
+      "actor": "One gardener smiles at a new green sprout in a flowerpot",
+      "props": [
+        "green sprout",
+        "flowerpot",
+        "watering can"
+      ],
+      "beats": [
+        "The gardener waters the soil",
+        "A small sprout emerges",
+        "She smiles with hopeful expectation"
+      ],
+      "ending": "The gardener looks hopefully at the new sprout"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。园丁看见新嫩芽后露出期待的笑容，表现 hopeful。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one clear green sprout and one gardener with a gentle hopeful expression. No labels, text, or extra plants resembling the sprout."
+  },
+  {
+    "word": "immerse",
+    "anchor": "cloth",
+    "anchorMeaning": "布料",
+    "relation": "她把布完全浸入染料中，表示 immerse 的浸入义。",
+    "sentence": "She will immerse the cloth in a bowl of blue dye.",
+    "scene": {
+      "setting": "A simple craft table",
+      "actor": "One woman lowers a cloth fully into a bowl of blue dye",
+      "props": [
+        "cloth",
+        "bowl of blue dye",
+        "wooden table"
+      ],
+      "beats": [
+        "She lifts the cloth",
+        "She lowers it into the dye",
+        "The cloth becomes submerged in the bowl"
+      ],
+      "ending": "The cloth is immersed in the blue dye"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她把布完全浸入染料中，表示 immerse 的浸入义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show cloth visibly entering the dye; no splashes on the person, labels, or written text."
+  },
+  {
+    "word": "impart",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "老师借助图画书把关于树叶的知识传授给孩子。",
+    "sentence": "The teacher used a picture book to impart a lesson about leaves to the child.",
+    "scene": {
+      "setting": "A bright classroom reading corner",
+      "actor": "One teacher shares a picture book with one child",
+      "props": [
+        "picture book",
+        "leaf illustration",
+        "reading table"
+      ],
+      "beats": [
+        "The teacher opens the picture book",
+        "She points to a leaf picture",
+        "The child learns from the explanation"
+      ],
+      "ending": "Teacher and child study a leaf picture in the book"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。老师借助图画书把关于树叶的知识传授给孩子。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people; book pages contain pictures only, no readable writing or labels."
+  },
+  {
+    "word": "intimidate",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "高大的守卫在关闭的大门旁摆出威严姿态，试图恐吓旅人。",
+    "sentence": "The tall guard tried to intimidate the traveler beside the closed gate.",
+    "scene": {
+      "setting": "A quiet stone gate",
+      "actor": "One tall guard looms over one traveler beside a closed gate",
+      "props": [
+        "closed gate",
+        "traveler’s bag",
+        "long shadow"
+      ],
+      "beats": [
+        "The traveler approaches the gate",
+        "The guard stands tall and stern",
+        "The traveler looks uneasy beside the shadow"
+      ],
+      "ending": "The guard’s imposing stance intimidates the traveler"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。高大的守卫在关闭的大门旁摆出威严姿态，试图恐吓旅人。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people and a nonviolent scene; no weapons, signs, text, or threatening contact."
+  },
+  {
+    "word": "omit",
+    "anchor": "eraser",
+    "anchorMeaning": "橡皮",
+    "relation": "她用橡皮擦去一朵花，选择把它从图画中省去。",
+    "sentence": "She chose to omit one flower from the drawing, using an eraser to leave a blank space.",
+    "scene": {
+      "setting": "A simple art desk",
+      "actor": "One artist erases one flower from a row in her drawing",
+      "props": [
+        "eraser",
+        "flower drawing",
+        "wooden desk"
+      ],
+      "beats": [
+        "The artist draws a row of flowers",
+        "She rubs out one flower with the eraser",
+        "A clear blank gap remains in the row"
+      ],
+      "ending": "One flower is omitted, leaving a blank gap"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她用橡皮擦去一朵花，选择把它从图画中省去。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one clear blank space in the flower row and an eraser beside it. Drawing contains pictures only, no text or symbols."
+  },
+  {
+    "word": "prosper",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "面包店货架上摆满新鲜面包，表现生意兴旺、繁荣。",
+    "sentence": "The bakery began to prosper as fresh bread filled its shelves.",
+    "scene": {
+      "setting": "A warm neighborhood bakery",
+      "actor": "One baker stands beside shelves filled with fresh bread",
+      "props": [
+        "fresh bread",
+        "bakery shelves",
+        "bread basket"
+      ],
+      "beats": [
+        "The baker places bread on a shelf",
+        "The shelves fill with loaves",
+        "The bakery looks thriving and busy"
+      ],
+      "ending": "Fresh bread fills the bakery shelves"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。面包店货架上摆满新鲜面包，表现生意兴旺、繁荣。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show abundant bread and one cheerful baker; no price tags, signs, menus, or lettering."
+  },
+  {
+    "word": "scarce",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "干井旁只剩最后一杯水，表现水资源稀少。",
+    "sentence": "Water was scarce, and the traveler held the last cup beside the dry well.",
+    "scene": {
+      "setting": "A dry countryside well",
+      "actor": "One traveler holds the last cup beside a dry well",
+      "props": [
+        "single cup of water",
+        "dry well",
+        "traveler’s bag"
+      ],
+      "beats": [
+        "The traveler reaches the dry well",
+        "She finds only one cup of water",
+        "She holds the last cup carefully"
+      ],
+      "ending": "A traveler holds the last cup beside the dry well"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。干井旁只剩最后一杯水，表现水资源稀少。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one person, one cup with a small amount of water, and a visibly dry well. No other cups, signs, or text."
+  },
+  {
+    "word": "timber",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "木匠把木料运来建造小房子，呈现 timber 作为建筑木材。",
+    "sentence": "The carpenter carried timber boards to build a small house.",
+    "scene": {
+      "setting": "A quiet building site",
+      "actor": "One carpenter carries timber boards beside a small house frame",
+      "props": [
+        "timber boards",
+        "small house frame",
+        "hammer"
+      ],
+      "beats": [
+        "The carpenter stacks the boards",
+        "He fits timber into the frame",
+        "The small house begins to take shape"
+      ],
+      "ending": "Timber boards are used to build the house"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。木匠把木料运来建造小房子，呈现 timber 作为建筑木材。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show wooden building boards and one simple house frame; no extra people, signs, text, or logos."
+  },
+  {
+    "word": "accessory",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "红围巾作为搭配外套的附加物，体现 accessory。",
+    "sentence": "She chose a red scarf as an accessory for her coat.",
+    "scene": {
+      "setting": "A cozy dressing room",
+      "actor": "One woman chooses a red scarf to wear with her coat",
+      "props": [
+        "red scarf",
+        "coat",
+        "standing mirror"
+      ],
+      "beats": [
+        "She picks up the scarf",
+        "She drapes it over her coat",
+        "She checks the outfit in the mirror"
+      ],
+      "ending": "The scarf completes the coat as an accessory"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。红围巾作为搭配外套的附加物，体现 accessory。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one woman, one coat, and one scarf; mirror reflects only the same person. No labels, text, or logos."
+  }
+]

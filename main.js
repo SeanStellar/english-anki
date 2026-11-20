@@ -598,7 +598,14 @@ app.on('window-all-closed', () => {
 ipcMain.handle('content:builtin-words', () => readBuiltinPayload());
 ipcMain.handle('content:memory-release', () => readContent('memory-release.json'));
 ipcMain.handle('content:memory-stories', () => readContent('memory-stories.json'));
-ipcMain.handle('content:memory-story-overrides', () => readContent('memory-stories-v3-overrides.json'));
+ipcMain.handle('content:memory-story-overrides', () => {
+  const overrides = readContent('memory-stories-v3-overrides.json') || {};
+  const kaoyan = readContent('memory-stories-kaoyan.json') || {};
+  return {
+    ...overrides,
+    cards: [...(overrides.cards || []), ...(kaoyan.cards || [])]
+  };
+});
 ipcMain.handle('data:load', () => readData());
 ipcMain.handle('data:corruption', () => corruptDataBackup);
 ipcMain.handle('data:save', (_event, data) => writeData(data));
@@ -712,10 +719,21 @@ ipcMain.handle('update:open-download', async (_event, value) => {
   await shell.openExternal(url.toString());
   return true;
 });
-ipcMain.handle('session:load', () => readJsonFile(sessionFile()));
+function readStudySessions() {
+  const saved = readJsonFile(sessionFile());
+  if (Array.isArray(saved?.sessions)) return saved.sessions;
+  return typeof saved?.deckId === 'string' ? [saved] : [];
+}
+
+ipcMain.handle('session:load', (_event, deckId) =>
+  readStudySessions().find(session => session.deckId === deckId && session.mode !== 'weak') || null);
 ipcMain.handle('session:save', (_event, payload) => {
+  if (typeof payload?.deckId !== 'string' || !payload.deckId || !Array.isArray(payload.queue)) return false;
   try {
-    writeJsonAtomic(sessionFile(), payload || null);
+    const sameSession = session => (payload.mode === 'weak'
+      ? session.mode === 'weak'
+      : session.mode !== 'weak' && session.deckId === payload.deckId);
+    writeJsonAtomic(sessionFile(), { sessions: [...readStudySessions().filter(session => !sameSession(session)), payload] });
     return true;
   } catch {
     return false;
@@ -734,6 +752,34 @@ ipcMain.handle('data:export', async (_event, payload) => {
   if (result.canceled || !result.filePath) return false;
   fs.writeFileSync(result.filePath, JSON.stringify(payload, null, 2), 'utf8');
   return true;
+});
+let exportingApkg = false;
+ipcMain.handle('data:export-apkg', async (_event, payload) => {
+  if (exportingApkg) return { error: '已有 Anki 卡包正在导出' };
+  if (!Array.isArray(payload?.cards) || !payload.cards.length || payload.cards.length > 30000) {
+    return { error: '请选择包含 1 至 30,000 个词条的词库' };
+  }
+  exportingApkg = true;
+  try {
+    const deckName = String(payload.deckName || '英语词库').slice(0, 100);
+    const result = await dialog.showSaveDialog(mainWindow, {
+      title: '导出 Anki 卡包',
+      defaultPath: deckName.replace(/[\\/:*?"<>|]/g, '-') + '.apkg',
+      filters: [{ name: 'Anki 卡包', extensions: ['apkg'] }]
+    });
+    if (result.canceled || !result.filePath) return null;
+    const { buildApkg } = require('./apkg-export');
+    const { buffer, noteCount, mediaCount, missingMedia } = await buildApkg({
+      deckName, cards: payload.cards,
+      mediaDirectory: path.join(__dirname, 'renderer', 'assets', 'memory-scenes')
+    });
+    await fs.promises.writeFile(result.filePath, buffer);
+    return { noteCount, mediaCount, missingMedia };
+  } catch (error) {
+    return { error: error.message || '写入卡包失败' };
+  } finally {
+    exportingApkg = false;
+  }
 });
 ipcMain.on('app:flush-done', () => {
   if (!closeFlushPending) return;

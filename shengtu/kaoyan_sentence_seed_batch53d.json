@@ -1,0 +1,977 @@
+[
+  {
+    "id": "kyc-2636",
+    "word": "following",
+    "anchor": "day",
+    "anchorMeaning": "一天",
+    "relation": "Following means coming next in time, order, or position.",
+    "sentence": "The following day brought light rain.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden on two successive mornings",
+      "actor": "No people: one rain cloud moves over a garden scene with a fresh morning after the previous day.",
+      "props": [
+        "one garden",
+        "one rain cloud",
+        "one pale morning sky"
+      ],
+      "beats": [
+        "One day ends",
+        "The next day begins",
+        "The following day brings light rain"
+      ],
+      "ending": "The following day brings light rain to the garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Use a single dawn scene, not a split-frame; no calendar dates, text, or symbols."
+  },
+  {
+    "id": "kyc-2637",
+    "word": "fragrant",
+    "anchor": "flower",
+    "anchorMeaning": "花，开花植物",
+    "relation": "Fragrant describes something that has a pleasant, noticeable smell.",
+    "sentence": "The fragrant flower filled the room with a sweet scent.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright room with a garden window",
+      "actor": "No people: one fresh flower gives off a gentle scent near an open window.",
+      "props": [
+        "one flower",
+        "one open window",
+        "one plain vase"
+      ],
+      "beats": [
+        "The flower opens",
+        "Its pleasant scent spreads",
+        "The room smells fragrant"
+      ],
+      "ending": "A fragrant flower fills the room with a sweet scent."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No scent icons, swirls, text, labels, or logos."
+  },
+  {
+    "id": "kyc-2638",
+    "word": "franchise",
+    "anchor": "vote",
+    "anchorMeaning": "投票选举，投票表决",
+    "relation": "Franchise can mean the right to vote in public elections.",
+    "sentence": "The franchise gave citizens the right to vote.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet polling place",
+      "actor": "One adult woman places a plain blank ballot into an unmarked box, exercising her voting right.",
+      "props": [
+        "one woman",
+        "one blank ballot",
+        "one unmarked ballot box"
+      ],
+      "beats": [
+        "The citizen arrives to vote",
+        "She places the ballot in the box",
+        "The franchise allows her to take part"
+      ],
+      "ending": "A citizen uses her franchise to cast a vote."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No text, numbers, party logos, flags, or political symbols."
+  },
+  {
+    "id": "kyc-2639",
+    "word": "Friday",
+    "anchor": "week",
+    "anchorMeaning": "星期，周",
+    "relation": "Friday is the day of the week between Thursday and Saturday.",
+    "sentence": "Friday is the last workday of the week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office at the end of the workweek",
+      "actor": "One worker closes a plain notebook at the end of Friday's work.",
+      "props": [
+        "one worker",
+        "one plain notebook",
+        "one simple wall clock"
+      ],
+      "beats": [
+        "The workweek moves toward its end",
+        "Friday arrives",
+        "The worker finishes the last workday"
+      ],
+      "ending": "Friday ends the workweek."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, numbers, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2640",
+    "word": "gaol",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A gaol is a prison or jail, especially in British English.",
+    "sentence": "The gaol door closed behind the prisoner.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet old prison corridor",
+      "actor": "One prisoner stands behind a heavy plain cell door as it closes.",
+      "props": [
+        "one prisoner",
+        "one plain iron door",
+        "one bare corridor"
+      ],
+      "beats": [
+        "The prisoner enters the cell",
+        "The gaol door moves shut",
+        "The door closes behind him"
+      ],
+      "ending": "A gaol door closes behind a prisoner."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No violence, chains, labels, numbers, text, or threatening imagery."
+  },
+  {
+    "id": "kyc-2641",
+    "word": "glamor",
+    "anchor": "light",
+    "anchorMeaning": "光，光线",
+    "relation": "Glamor is an attractive, exciting quality associated with beauty, style, or fame.",
+    "sentence": "A warm light added glamor to the singer's entrance.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small theater stage",
+      "actor": "One singer enters under warm stage lights in an elegant plain outfit.",
+      "props": [
+        "one singer",
+        "warm stage lights",
+        "one simple stage"
+      ],
+      "beats": [
+        "The stage is dim",
+        "Lights brighten the entrance",
+        "The singer appears with glamor"
+      ],
+      "ending": "Stage lights add glamor to a singer's entrance."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No spotlights with logos, signs, text, or extra performers."
+  },
+  {
+    "id": "kyc-2642",
+    "word": "grease",
+    "anchor": "machine",
+    "anchorMeaning": "机器，机械（装置）",
+    "relation": "Grease is a thick oily substance used to lubricate moving parts and reduce friction.",
+    "sentence": "He applied grease to the machine's moving gears.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy repair workshop",
+      "actor": "One mechanic applies a small amount of grease to a plain machine's exposed gears.",
+      "props": [
+        "one mechanic",
+        "one plain machine",
+        "one small grease tin"
+      ],
+      "beats": [
+        "The gears squeak",
+        "The mechanic applies grease",
+        "The gears move smoothly"
+      ],
+      "ending": "Grease helps the machine's gears move smoothly."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No labels, writing, logos, or extra workers."
+  },
+  {
+    "id": "kyc-2643",
+    "word": "grown-up",
+    "anchor": "child",
+    "anchorMeaning": "儿童，小孩",
+    "relation": "A grown-up is an adult rather than a child.",
+    "sentence": "The grown-up helped the child cross the street.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A safe neighborhood crossing",
+      "actor": "One adult walks beside one child as they cross an empty street together.",
+      "props": [
+        "one adult",
+        "one child",
+        "one quiet street"
+      ],
+      "beats": [
+        "The child waits at the curb",
+        "The grown-up takes the child's hand",
+        "They cross the street safely"
+      ],
+      "ending": "A grown-up helps a child cross the street."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no traffic signs with text, license plates, or logos."
+  },
+  {
+    "id": "kyc-2644",
+    "word": "headquarters",
+    "anchor": "office",
+    "anchorMeaning": "办公室",
+    "relation": "Headquarters is the main office or center from which an organization is directed.",
+    "sentence": "The company moved its headquarters to a larger office.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple office building entrance",
+      "actor": "Two workers carry a plain box into a larger main office.",
+      "props": [
+        "two workers",
+        "one plain moving box",
+        "one large office doorway"
+      ],
+      "beats": [
+        "The company outgrows its old space",
+        "The main office is moved",
+        "The headquarters opens in a larger office"
+      ],
+      "ending": "The company moves its headquarters to a larger office."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no signs, logos, addresses, or text."
+  },
+  {
+    "id": "kyc-2645",
+    "word": "horsepower",
+    "anchor": "engine",
+    "anchorMeaning": "发动机，引擎",
+    "relation": "Horsepower is a unit used to measure an engine's power or rate of doing work.",
+    "sentence": "The car's horsepower measured the strength of its engine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garage",
+      "actor": "One mechanic compares a plain car engine with a simple mechanical power tester.",
+      "props": [
+        "one mechanic",
+        "one car engine",
+        "one plain power tester"
+      ],
+      "beats": [
+        "The engine is inspected",
+        "Its power is measured",
+        "Horsepower describes the engine's strength"
+      ],
+      "ending": "A mechanic measures a car engine's horsepower."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No numbers, units, labels, diagrams, or logos."
+  },
+  {
+    "id": "kyc-2646",
+    "word": "hound",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔",
+    "relation": "A hound is a dog bred or trained to hunt by scent.",
+    "sentence": "The hound followed a rabbit's scent across the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet open field",
+      "actor": "One hound follows a scent trail left by one rabbit across the grass without catching it.",
+      "props": [
+        "one hound",
+        "one rabbit",
+        "one open field"
+      ],
+      "beats": [
+        "The rabbit crosses the field",
+        "The hound finds its scent",
+        "The hound follows the trail"
+      ],
+      "ending": "A hound follows a rabbit's scent across a field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "One hound with four legs and one tail; one rabbit with two long ears and four legs; no chase injury."
+  },
+  {
+    "id": "kyc-2647",
+    "word": "howl",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "To howl is to make a long, loud cry, as a dog or wolf may do.",
+    "sentence": "The dog began to howl at the moon.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet yard at night",
+      "actor": "One dog lifts its muzzle and makes a long howl beneath the moon.",
+      "props": [
+        "one dog",
+        "one full moon",
+        "one quiet yard"
+      ],
+      "beats": [
+        "Night falls",
+        "The dog raises its muzzle",
+        "The dog begins to howl"
+      ],
+      "ending": "A dog howls beneath the moon."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "One dog only, with four legs and one tail; no extra animals, text, or symbols."
+  },
+  {
+    "id": "kyc-2648",
+    "word": "hysterical",
+    "anchor": "cry",
+    "anchorMeaning": "哭，哭泣",
+    "relation": "Hysterical describes extremely uncontrolled emotion, such as intense fear or distress.",
+    "sentence": "She became hysterical after the frightening news and began to cry.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One woman reacts with overwhelming distress after hearing difficult news, crying and struggling to stay calm.",
+      "props": [
+        "one woman",
+        "one plain phone",
+        "one empty chair"
+      ],
+      "beats": [
+        "She receives upsetting news",
+        "Her distress becomes overwhelming",
+        "She cries in a hysterical state"
+      ],
+      "ending": "A woman cries in an intensely hysterical reaction to bad news."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Show distress respectfully without caricature or medical stereotypes; no text or symbols."
+  },
+  {
+    "id": "kyc-2649",
+    "word": "ice cream",
+    "anchor": "summer",
+    "anchorMeaning": "夏天，夏季",
+    "relation": "Ice cream is a sweet frozen food made from cream or milk, often eaten as a dessert.",
+    "sentence": "Ice cream cooled her on a hot summer day.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny summer park",
+      "actor": "One child enjoys a small scoop of ice cream on a hot summer day.",
+      "props": [
+        "one child",
+        "one scoop of ice cream",
+        "one sunny park bench"
+      ],
+      "beats": [
+        "The day feels hot",
+        "The child tastes the cold dessert",
+        "Ice cream cools her down"
+      ],
+      "ending": "Ice cream cools a child on a hot summer day."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No food wrappers, logos, text, or extra people."
+  },
+  {
+    "id": "kyc-2650",
+    "word": "inflict",
+    "anchor": "house",
+    "anchorMeaning": "房子，住宅",
+    "relation": "To inflict damage is to cause harm or loss to a person or thing.",
+    "sentence": "The storm can inflict damage on a house's roof.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A house after a severe storm",
+      "actor": "No people: a storm-damaged roof has a few missing tiles and a fallen branch nearby.",
+      "props": [
+        "one house",
+        "one damaged roof",
+        "one fallen branch"
+      ],
+      "beats": [
+        "The storm strikes the house",
+        "The roof is damaged",
+        "The storm inflicts harm on the house"
+      ],
+      "ending": "A storm inflicts damage on a house's roof."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No injured people, readable signs, text, or dramatic destruction."
+  },
+  {
+    "id": "kyc-2651",
+    "word": "influenza",
+    "anchor": "bed",
+    "anchorMeaning": "床，床铺，床位",
+    "relation": "Influenza is a contagious viral illness commonly called the flu, often causing fever and aches.",
+    "sentence": "Influenza kept her in bed with a fever.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm bedroom",
+      "actor": "One sick woman rests in bed with a blanket and a plain cup of water nearby.",
+      "props": [
+        "one woman",
+        "one bed",
+        "one plain cup of water"
+      ],
+      "beats": [
+        "She develops a fever",
+        "Influenza makes her feel unwell",
+        "She rests in bed"
+      ],
+      "ending": "Influenza keeps a woman in bed with a fever."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Non-graphic, no medical labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2652",
+    "word": "infrared",
+    "anchor": "red",
+    "anchorMeaning": "红的，红色的",
+    "relation": "Infrared is electromagnetic radiation just beyond red light in the spectrum, often detected as heat.",
+    "sentence": "An infrared camera detects heat beyond visible red light.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple science room",
+      "actor": "One researcher aims a plain infrared camera at a warm mug, whose heat appears as a soft color gradient on a blank display.",
+      "props": [
+        "one researcher",
+        "one plain camera",
+        "one warm mug"
+      ],
+      "beats": [
+        "The mug releases heat",
+        "The camera detects the invisible radiation",
+        "Infrared appears as a gentle thermal color pattern"
+      ],
+      "ending": "An infrared camera detects heat beyond visible red light."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No screen text, numbers, labels, radiation symbols, or logos."
+  },
+  {
+    "id": "kyc-2653",
+    "word": "instalment",
+    "anchor": "money",
+    "anchorMeaning": "钱，钞票，货币",
+    "relation": "An instalment is one of a series of regular payments made over time to pay for something.",
+    "sentence": "She paid the first instalment with money from her savings.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home desk",
+      "actor": "One woman sets aside a small unmarked payment beside a plain purchase agreement.",
+      "props": [
+        "one woman",
+        "one small stack of unmarked coins",
+        "one blank agreement paper"
+      ],
+      "beats": [
+        "The purchase is made",
+        "She pays part of the total",
+        "The first instalment is complete"
+      ],
+      "ending": "A woman pays an instalment with money from her savings."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No currency symbols, numbers, writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2654",
+    "word": "invoke",
+    "anchor": "rule",
+    "anchorMeaning": "规章，条例",
+    "relation": "To invoke a rule is to refer to it as a reason or authority for taking action.",
+    "sentence": "She had to invoke the rule to settle the dispute.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet meeting room",
+      "actor": "One woman calmly points to a blank rulebook while two people pause their disagreement.",
+      "props": [
+        "one woman",
+        "one plain closed rulebook",
+        "one simple meeting table"
+      ],
+      "beats": [
+        "A disagreement begins",
+        "She refers to the rule",
+        "The rule is invoked to settle the dispute"
+      ],
+      "ending": "A woman invokes a rule to settle a dispute."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two or three people total; no writing, legal symbols, labels, or signs."
+  },
+  {
+    "id": "kyc-2655",
+    "word": "January",
+    "anchor": "winter",
+    "anchorMeaning": "冬季，（天文）从冬至点到春分点的期间",
+    "relation": "January is the first month of the year and falls in winter in the Northern Hemisphere.",
+    "sentence": "January arrived in the middle of winter.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A snowy winter garden",
+      "actor": "No people: snow covers the garden as the coldest part of winter continues.",
+      "props": [
+        "one snowy garden",
+        "one bare tree",
+        "one pale winter sky"
+      ],
+      "beats": [
+        "Winter settles in",
+        "January arrives",
+        "The garden remains cold and snowy"
+      ],
+      "ending": "January arrives in the middle of winter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-2656",
+    "word": "jug",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "A jug is a container with a handle and spout, used for holding and pouring liquid.",
+    "sentence": "He poured water from the jug into a glass.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One person pours water from a plain jug into a clear glass.",
+      "props": [
+        "one person",
+        "one plain jug",
+        "one clear glass"
+      ],
+      "beats": [
+        "The jug is filled with water",
+        "He tips it carefully",
+        "Water pours into the glass"
+      ],
+      "ending": "A person pours water from a jug into a glass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2657",
+    "word": "July",
+    "anchor": "summer",
+    "anchorMeaning": "夏天，夏季",
+    "relation": "July is the seventh month of the year and occurs during summer in the Northern Hemisphere.",
+    "sentence": "July arrived during the warmest part of summer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny summer garden",
+      "actor": "No people: bright sunlight falls on a garden at the height of summer.",
+      "props": [
+        "one summer garden",
+        "one bright sun",
+        "one shaded tree"
+      ],
+      "beats": [
+        "Summer grows warm",
+        "July arrives",
+        "The garden feels hot"
+      ],
+      "ending": "July arrives during summer warmth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendar, dates, labels, numbers, or text."
+  },
+  {
+    "id": "kyc-2658",
+    "word": "June",
+    "anchor": "summer",
+    "anchorMeaning": "夏天，夏季",
+    "relation": "June is the sixth month of the year and marks the beginning of summer in the Northern Hemisphere.",
+    "sentence": "June brings the first warmth of summer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright garden at the start of summer",
+      "actor": "No people: early summer flowers open in warm sunlight.",
+      "props": [
+        "one garden",
+        "one bright sun",
+        "several summer flowers"
+      ],
+      "beats": [
+        "Spring flowers begin to fade",
+        "Warm weather arrives",
+        "June brings the first summer warmth"
+      ],
+      "ending": "June brings the first warmth of summer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendar dates, labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2659",
+    "word": "lash",
+    "anchor": "eye",
+    "anchorMeaning": "眼睛",
+    "relation": "A lash is one eyelash, the short hair growing along the edge of the eyelid.",
+    "sentence": "One long lash curled above her eye.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm portrait close-up",
+      "actor": "One woman blinks gently, showing one long curved eyelash above her eye.",
+      "props": [
+        "one woman's eye",
+        "one long lash",
+        "one soft face profile"
+      ],
+      "beats": [
+        "The eye opens",
+        "The lash curves along the lid",
+        "One long lash is visible above the eye"
+      ],
+      "ending": "One long lash curls above an eye."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Change targetSense to 睫毛；鞭打; keep the close-up gentle, no makeup labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2660",
+    "word": "Latin",
+    "anchor": "book",
+    "anchorMeaning": "书，书籍",
+    "relation": "Latin is the language of ancient Rome and remains important in historical, scientific, and religious texts.",
+    "sentence": "She studied Latin from an old book.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet library table",
+      "actor": "One student studies a blank old book beside a small unlabelled Roman-style clay pot.",
+      "props": [
+        "one student",
+        "one old blank book",
+        "one plain clay pot"
+      ],
+      "beats": [
+        "The student opens the old book",
+        "She studies the language",
+        "She learns Latin"
+      ],
+      "ending": "A student studies Latin from an old book."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Pages and pottery must have no letters, inscriptions, labels, or logos."
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "endeavor",
+    "anchor": "seed",
+    "anchorMeaning": "种子",
+    "sentence": "Her endeavor to restore the garden began with one tiny seed.",
+    "relation": "The scene links endeavor with seed: Her endeavor to restore the garden began with one tiny seed.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, watermarks, extra seeds, or extra seedlings; show exactly one seed in the scene.",
+    "scene": {
+      "setting": "A small uncluttered garden bed in soft morning light.",
+      "actor": "One adult gardener places exactly one visible seed into fresh soil; no other seeds or seedlings appear.",
+      "props": [
+        "exactly one tiny seed",
+        "one plain garden trowel",
+        "one simple patch of garden soil"
+      ],
+      "beats": [
+        "The gardener loosens one patch of soil.",
+        "She holds one seed between her fingers.",
+        "She plants that single seed in the earth."
+      ],
+      "ending": "The gardener begins restoring the garden with exactly one seed."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links endeavor with seed: Her endeavor to restore the garden began with one tiny seed.",
+      "reviewNote": "The sentence was manually checked for naturalness and readability before generation; the art direction was revised after visual review of the previous image."
+    }
+  },
+  {
+    "word": "enlarge",
+    "anchor": "glass",
+    "anchorMeaning": "放大镜",
+    "sentence": "A magnifying glass helped him enlarge the tiny leaf.",
+    "relation": "The scene links enlarge with glass: A magnifying glass helped him enlarge the tiny leaf.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden table beside a window.",
+      "actor": "One adult carefully views a tiny leaf through a magnifying glass.",
+      "props": [
+        "one magnifying glass",
+        "one tiny green leaf",
+        "one plain wooden table"
+      ],
+      "beats": [
+        "He picks up the tiny leaf.",
+        "He looks through the lens.",
+        "The leaf appears larger through the glass."
+      ],
+      "ending": "The man enlarges the leaf with a magnifying glass."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links enlarge with glass: A magnifying glass helped him enlarge the tiny leaf.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "bush",
+    "anchor": "fence",
+    "anchorMeaning": "篱笆",
+    "sentence": "A small bird hid in the bush beside the fence.",
+    "relation": "The scene links bush with fence: A small bird hid in the bush beside the fence.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny cottage yard beside a wooden fence.",
+      "actor": "No people; one small bird peeks from a leafy bush.",
+      "props": [
+        "one leafy bush",
+        "one wooden fence",
+        "one small bird"
+      ],
+      "beats": [
+        "The bird approaches the yard.",
+        "It slips among the leaves.",
+        "It hides in the bush beside the fence."
+      ],
+      "ending": "The bird hides inside the bush beside the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links bush with fence: A small bird hid in the bush beside the fence.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "scatter",
+    "anchor": "leaves",
+    "anchorMeaning": "叶子",
+    "sentence": "The wind began to scatter dry leaves across the yard.",
+    "relation": "The scene links scatter with leaves: The wind began to scatter dry leaves across the yard.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet yard on a breezy autumn day.",
+      "actor": "No people; a gust blows dry leaves outward across the open yard.",
+      "props": [
+        "one leafy tree",
+        "many dry leaves",
+        "one open yard"
+      ],
+      "beats": [
+        "The leaves lie in a small pile.",
+        "A gust sweeps through the yard.",
+        "The leaves scatter across the ground."
+      ],
+      "ending": "The wind scatters dry leaves across the yard."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links scatter with leaves: The wind began to scatter dry leaves across the yard.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "flourish",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "sentence": "With sunlight and water, the young plant began to flourish.",
+    "relation": "The scene links flourish with plant: With sunlight and water, the young plant began to flourish.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright windowsill with a small flowerpot.",
+      "actor": "No people; one healthy young plant grows upright in warm sunlight.",
+      "props": [
+        "one thriving young plant",
+        "one plain flowerpot",
+        "one small watering can"
+      ],
+      "beats": [
+        "The plant receives water.",
+        "Sunlight reaches its leaves.",
+        "The plant looks healthy and flourishing."
+      ],
+      "ending": "The young plant flourishes in sunlight and water."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links flourish with plant: With sunlight and water, the young plant began to flourish.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "youngster",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "sentence": "The youngster kicked a red ball across the field.",
+    "relation": "The scene links youngster with ball: The youngster kicked a red ball across the field.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An open grassy field on a clear day.",
+      "actor": "One child kicks one red ball across the field.",
+      "props": [
+        "one red ball",
+        "one grassy field",
+        "one simple goal frame"
+      ],
+      "beats": [
+        "The child runs toward the ball.",
+        "The child swings one foot.",
+        "The ball rolls across the field."
+      ],
+      "ending": "The youngster kicks the red ball across the field."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links youngster with ball: The youngster kicked a red ball across the field.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "dictate",
+    "anchor": "tide",
+    "anchorMeaning": "潮汐",
+    "sentence": "The morning tide can dictate when fishing boats leave the harbor.",
+    "relation": "The scene links dictate with tide: The morning tide can dictate when fishing boats leave the harbor.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small harbor at morning low tide.",
+      "actor": "No people; several fishing boats wait as the water rises toward the dock.",
+      "props": [
+        "one harbor dock",
+        "fishing boats",
+        "visible rising tide"
+      ],
+      "beats": [
+        "The water sits below the dock.",
+        "The tide begins to rise.",
+        "The boats wait for the tide before leaving."
+      ],
+      "ending": "The rising tide dictates when the boats can leave."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dictate with tide: The morning tide can dictate when fishing boats leave the harbor.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "twist",
+    "anchor": "lid",
+    "anchorMeaning": "盖子",
+    "sentence": "He used both hands to twist the jar lid open.",
+    "relation": "The scene links twist with lid: He used both hands to twist the jar lid open.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple kitchen counter.",
+      "actor": "One adult turns a tight jar lid with both hands.",
+      "props": [
+        "one glass jar",
+        "one screw-on lid",
+        "one clean counter"
+      ],
+      "beats": [
+        "He holds the jar steady.",
+        "He grips the lid with both hands.",
+        "He twists the lid open."
+      ],
+      "ending": "The man twists open the jar lid."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links twist with lid: He used both hands to twist the jar lid open.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "wherever",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "sentence": "Wherever the dog went, the child followed.",
+    "relation": "The scene links wherever with dog: Wherever the dog went, the child followed.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny garden path winding through a yard.",
+      "actor": "Exactly one child follows one friendly dog along the path.",
+      "props": [
+        "one friendly dog",
+        "one small backpack",
+        "one winding garden path"
+      ],
+      "beats": [
+        "The dog walks ahead.",
+        "The child follows close behind.",
+        "They continue together wherever the dog goes."
+      ],
+      "ending": "The child follows the dog along the garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links wherever with dog: Wherever the dog went, the child followed.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "gaze",
+    "anchor": "moon",
+    "anchorMeaning": "月亮",
+    "sentence": "Her gaze stayed on the bright moon through the window.",
+    "relation": "The scene links gaze with moon: Her gaze stayed on the bright moon through the window.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet bedroom at night.",
+      "actor": "One adult woman sits by a window and looks up at the moon.",
+      "props": [
+        "one bright moon",
+        "one open window",
+        "one simple chair"
+      ],
+      "beats": [
+        "She sits beside the window.",
+        "The moon shines outside.",
+        "Her gaze stays on the moon."
+      ],
+      "ending": "The woman gazes at the moon through the window."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links gaze with moon: Her gaze stayed on the bright moon through the window.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "pyramid",
+    "anchor": "desert",
+    "anchorMeaning": "沙漠",
+    "sentence": "A stone pyramid stood alone in the desert.",
+    "relation": "The scene links pyramid with desert: A stone pyramid stood alone in the desert.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A broad sandy desert beneath a pale sky.",
+      "actor": "No people; one ancient stone pyramid rises alone from the sand.",
+      "props": [
+        "one stone pyramid",
+        "one open desert",
+        "one low distant ridge"
+      ],
+      "beats": [
+        "The pyramid rises above the sand.",
+        "The desert stretches around it.",
+        "The pyramid stands alone in the open land."
+      ],
+      "ending": "A stone pyramid stands alone in the desert."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links pyramid with desert: A stone pyramid stood alone in the desert.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "remedy",
+    "anchor": "cloth",
+    "anchorMeaning": "布",
+    "sentence": "A cool cloth was her remedy for the child's fever.",
+    "relation": "The scene links remedy with cloth: A cool cloth was her remedy for the child's fever.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm bedroom with morning light.",
+      "actor": "One adult gently places a cool cloth on one resting child's forehead.",
+      "props": [
+        "one cool damp cloth",
+        "one small water bowl",
+        "one simple bed"
+      ],
+      "beats": [
+        "The child rests with a fever.",
+        "The adult wets a cloth.",
+        "She places the cool cloth on the child's forehead as a remedy."
+      ],
+      "ending": "The woman uses a cool cloth to comfort the child."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links remedy with cloth: A cool cloth was her remedy for the child's fever.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "pump",
+    "anchor": "well",
+    "anchorMeaning": "井",
+    "sentence": "The farmer used a pump to draw water from the well.",
+    "relation": "The scene links pump with well: The farmer used a pump to draw water from the well.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A farmyard beside an old stone well.",
+      "actor": "One farmer works a hand pump to draw clean water from the well.",
+      "props": [
+        "one hand pump",
+        "one stone well",
+        "one empty bucket"
+      ],
+      "beats": [
+        "The farmer lowers the pump handle.",
+        "Water rises through the pump.",
+        "The farmer fills the bucket from the well."
+      ],
+      "ending": "The pump draws water from the well."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links pump with well: The farmer used a pump to draw water from the well.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "tropical",
+    "anchor": "parrot",
+    "anchorMeaning": "鹦鹉",
+    "sentence": "A tropical parrot rested among the palm leaves.",
+    "relation": "The scene links tropical with parrot: A tropical parrot rested among the palm leaves.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A lush tropical garden with broad palm leaves.",
+      "actor": "No people; one bright parrot rests in the palm canopy.",
+      "props": [
+        "one colorful parrot",
+        "one palm tree",
+        "one broad palm frond"
+      ],
+      "beats": [
+        "The parrot lands on a branch.",
+        "Palm leaves spread around it.",
+        "The bird rests in the tropical greenery."
+      ],
+      "ending": "A tropical parrot rests among palm leaves."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tropical with parrot: A tropical parrot rested among the palm leaves.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "junk",
+    "anchor": "garage",
+    "anchorMeaning": "车库",
+    "sentence": "They cleared old junk from the garage.",
+    "relation": "The scene links junk with garage: They cleared old junk from the garage.",
+    "artDirection": "No text, letters, numbers, boxes, labels, stickers, tags, signs, logos, or watermarks; show a plain garage with no marked objects.",
+    "scene": {
+      "setting": "A simple uncluttered home garage with a wide open doorway.",
+      "actor": "Exactly two adults sweep a small pile of useless broken objects out of the garage.",
+      "props": [
+        "one small pile of old broken junk",
+        "one plain push broom",
+        "one open garage doorway"
+      ],
+      "beats": [
+        "The adults find unwanted clutter.",
+        "They sweep the broken objects toward the doorway.",
+        "They clear the junk from the garage."
+      ],
+      "ending": "Two adults clear old junk from a clean, unmarked garage."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links junk with garage: They cleared old junk from the garage.",
+      "reviewNote": "The sentence was manually checked for naturalness and readability before generation; the art direction was revised after visual review of the previous image."
+    }
+  },
+  {
+    "word": "interior",
+    "anchor": "cave",
+    "anchorMeaning": "山洞",
+    "sentence": "The cave's interior stayed cool and dark.",
+    "relation": "The scene links interior with cave: The cave's interior stayed cool and dark.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "The mouth of a deep cave on a quiet hillside.",
+      "actor": "No people; the view looks from outside into the cool, dark inside of a cave.",
+      "props": [
+        "one cave entrance",
+        "one dark inner chamber",
+        "one small underground pool"
+      ],
+      "beats": [
+        "The cave mouth opens in the rock.",
+        "The inner chamber recedes into shadow.",
+        "The cool, dark interior is visible."
+      ],
+      "ending": "The cave's dark interior lies beyond the entrance."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links interior with cave: The cave's interior stayed cool and dark.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "liability",
+    "anchor": "ladder",
+    "anchorMeaning": "梯子",
+    "sentence": "The broken ladder was a liability to everyone on the worksite.",
+    "relation": "The scene links liability with ladder: The broken ladder was a liability to everyone on the worksite.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet worksite beside a wooden wall.",
+      "actor": "One worker notices a cracked ladder and keeps away from it.",
+      "props": [
+        "one cracked wooden ladder",
+        "one plain workbench",
+        "one unfinished wall"
+      ],
+      "beats": [
+        "The ladder leans by the wall.",
+        "A rung is visibly broken.",
+        "The worker avoids the unsafe ladder."
+      ],
+      "ending": "The broken ladder is a safety liability."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links liability with ladder: The broken ladder was a liability to everyone on the worksite.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "bid",
+    "anchor": "paddle",
+    "anchorMeaning": "拍卖牌",
+    "sentence": "She raised her paddle to bid on an old vase.",
+    "relation": "The scene links bid with paddle: She raised her paddle to bid on an old vase.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small auction room with a display table.",
+      "actor": "One woman raises a plain bidding paddle toward an old vase.",
+      "props": [
+        "one blank bidding paddle",
+        "one old ceramic vase",
+        "one auction table"
+      ],
+      "beats": [
+        "The vase is displayed.",
+        "The woman lifts her paddle.",
+        "She bids on the vase."
+      ],
+      "ending": "The woman raises her paddle to bid on the vase."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links bid with paddle: She raised her paddle to bid on an old vase.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "gradual",
+    "anchor": "sunrise",
+    "anchorMeaning": "日出",
+    "sentence": "The gradual sunrise slowly warmed the snowy hill.",
+    "relation": "The scene links gradual with sunrise: The gradual sunrise slowly warmed the snowy hill.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet snowy hillside at dawn.",
+      "actor": "No people; soft early sunlight slowly brightens the snow-covered hill.",
+      "props": [
+        "one snowy hill",
+        "one rising sun",
+        "one line of distant trees"
+      ],
+      "beats": [
+        "The sky begins to brighten.",
+        "The sun rises above the horizon.",
+        "Warm light gradually reaches the hill."
+      ],
+      "ending": "The gradual sunrise warms the snowy hill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links gradual with sunrise: The gradual sunrise slowly warmed the snowy hill.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "objection",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "sentence": "She raised her hand to voice an objection at the meeting.",
+    "relation": "The scene links objection with hand: She raised her hand to voice an objection at the meeting.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small community meeting in a plain room.",
+      "actor": "One adult woman raises her hand while a meeting continues around a table.",
+      "props": [
+        "one raised hand",
+        "one plain meeting table",
+        "one empty chair"
+      ],
+      "beats": [
+        "The group discusses an issue.",
+        "The woman raises her hand.",
+        "She voices an objection."
+      ],
+      "ending": "The woman raises her hand to object at the meeting."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links objection with hand: She raised her hand to voice an objection at the meeting.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

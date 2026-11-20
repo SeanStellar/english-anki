@@ -14,7 +14,13 @@ if (!window.englishAnki) {
     },
     loadMemoryRelease: () => fetch('./data/memory-release.json').then(response => response.json()),
     loadMemoryStories: () => fetch('./data/memory-stories.json').then(response => response.json()),
-    loadMemoryStoryOverrides: () => fetch('./data/memory-stories-v3-overrides.json').then(response => response.json()),
+    loadMemoryStoryOverrides: async () => {
+      const [overrides, kaoyan] = await Promise.all([
+        fetch('./data/memory-stories-v3-overrides.json').then(response => response.json()),
+        fetch('./data/memory-stories-kaoyan.json').then(response => response.json())
+      ]);
+      return { ...overrides, cards: [...(overrides.cards || []), ...(kaoyan.cards || [])] };
+    },
     loadData: () => Promise.resolve(JSON.parse(localStorage.getItem('english-anki-preview') || localStorage.getItem('mori-preview') || 'null')),
     saveData: data => { localStorage.setItem('english-anki-preview', JSON.stringify(data)); return Promise.resolve(true); },
     exportData: () => Promise.resolve(false),
@@ -31,9 +37,9 @@ if (!window.englishAnki) {
     pullSyncData: () => Promise.resolve({ ok: false }),
     autoSyncData: () => Promise.resolve({ ok: true, action: 'disabled' }),
     setSyncAuto: () => Promise.resolve({ configured: false, state: 'disabled', auto: true }),
-    updateStatus: () => Promise.resolve({ currentVersion: '4.2.0', source: '', auto: true }),
-    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.2.0', source: preferences.source || '', auto: preferences.auto !== false }),
-    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.2.0', reason: 'no-source' }),
+    updateStatus: () => Promise.resolve({ currentVersion: '4.3.0', source: '', auto: true }),
+    setUpdatePreferences: preferences => Promise.resolve({ currentVersion: '4.3.0', source: preferences.source || '', auto: preferences.auto !== false }),
+    checkForUpdates: () => Promise.resolve({ ok: true, available: false, currentVersion: '4.3.0', reason: 'no-source' }),
     openUpdateDownload: () => Promise.resolve(false),
     loadStudySession: () => Promise.resolve(null),
     saveStudySession: () => Promise.resolve(true),
@@ -158,14 +164,6 @@ let keywordFamiliarityCache = new Map();
 const relatedWordCache = new Map();
 let relatedVocabularyIndex = null;
 let saveTimer;
-let memoryGraph = {
-  nodes: [], edges: [], projected: [], focusWord: null, strongIds: new Set(),
-  rotationX: -.14, rotationY: .22, zoom: 1, dragging: false, dragDistance: 0,
-  lastX: 0, lastY: 0, hovered: null, frame: null, width: 0, height: 0, dpr: 1, lastDraw: 0,
-  relations: [], history: [], autoRotate: true, onlyStrong: false, hoverX: 0, hoverY: 0,
-  searchResults: [], searchIndex: -1, panX: 0, panY: 0, physicsFrames: 0, nodesById: new Map(), positionDirtyIds: new Set()
-};
-let memoryResizeObserver;
 const wordTonePalette = ['#8974f6', '#3ea6ff', '#62d9bd', '#f078b2', '#ff9b69', '#b86ff3'];
 let performanceProfile = {
   lite: false,
@@ -324,7 +322,6 @@ function advanceLiteWordTone() {
 }
 
 function setPerformanceLite(enabled, reason = 'full') {
-  const changed = performanceProfile.lite !== enabled;
   performanceProfile.lite = enabled;
   performanceProfile.reason = reason;
   document.body.classList.toggle('performance-lite', enabled);
@@ -339,10 +336,6 @@ function setPerformanceLite(enabled, reason = 'full') {
     $$('.word-card').forEach(card => card.style.removeProperty('--word-tone'));
   }
 
-  if (changed && currentRoute === 'memory' && memoryGraph.focusWord) {
-    buildMemoryGraph(memoryGraph.focusWord);
-    resizeMemoryCanvas();
-  }
   if (enabled) stopPerformanceMonitor();
 }
 
@@ -355,7 +348,7 @@ function applyPerformanceMode(notify = false) {
   const lite = requested === 'smooth' || (requested === 'auto' && lowHardware);
   setPerformanceLite(lite, requested === 'auto' && lowHardware ? 'hardware' : requested);
   performanceProfile.slowSamples = 0;
-  if (requested === 'auto' && !lite && ['study', 'memory'].includes(currentRoute)) startPerformanceMonitor();
+  if (requested === 'auto' && !lite && (currentRoute === 'study')) startPerformanceMonitor();
   else stopPerformanceMonitor();
   if (notify) toast(lite ? '已启用流畅模式：保留 3D 与动态颜色，减少高开销特效' : requested === 'full' ? '已启用完整特效模式' : '已启用自动性能调节');
 }
@@ -374,7 +367,7 @@ function stopPerformanceMonitor() {
 
 function monitorPerformance(time = 0) {
   performanceProfile.monitorFrame = 0;
-  if (document.hidden || !['study', 'memory'].includes(currentRoute) || state.settings.performanceMode !== 'auto' || performanceProfile.lite) {
+  if (document.hidden || !(currentRoute === 'study') || state.settings.performanceMode !== 'auto' || performanceProfile.lite) {
     performanceProfile.sampleStartedAt = 0;
     performanceProfile.sampleFrames = 0;
     return;
@@ -552,22 +545,19 @@ function planFor(deckId = defaultDeckId()) {
 function route(name, options = {}) {
   currentRoute = name;
   document.body.classList.toggle('study-mode', name === 'study');
-  document.body.classList.toggle('memory-mode', name === 'memory');
   if (name === 'study') startRhythmTimer();
   else { clearInterval(rhythmTimer); rhythmTimer = 0; }
-  if (['study', 'memory'].includes(name)) {
+  if (name === 'study') {
     if (state.settings.performanceMode === 'auto' && !performanceProfile.lite) startPerformanceMonitor();
   } else stopPerformanceMonitor();
-  if (name !== 'memory' && memoryGraph.frame) { cancelAnimationFrame(memoryGraph.frame); memoryGraph.frame = null; }
   $$('.view').forEach(view => view.classList.toggle('active', view.dataset.view === name));
   $$('[data-route]').forEach(button => button.classList.toggle('active', button.dataset.route === name));
-  const labels = { 'study-select': '选择词单', home: '今日计划', study: '沉浸学习', memory: '记忆星图', library: '词库管理', stats: '学习统计' };
+  const labels = { 'study-select': '选择词单', home: '今日计划', study: '沉浸学习', library: '词库管理', stats: '学习统计' };
   $('#routeLabel').textContent = labels[name];
   if (name === 'study-select') renderStudyDeckChoices();
   if (name === 'home') renderHome();
   if (name === 'library') { libraryPage = 0; renderLibrary(); }
   if (name === 'stats') renderStats();
-  if (name === 'memory') renderMemory(options.wordId);
   if (name === 'study' && options.start !== false) maybeStartStudy(options.deckId || selectedDeck, options.wordId);
 }
 
@@ -579,7 +569,6 @@ function refreshDataViews() {
   renderHome();
   if (currentRoute === 'library') renderLibrary();
   else if (currentRoute === 'stats') renderStats();
-  else if (currentRoute === 'memory') renderMemory(memoryGraph.focusWord?.id || '');
 }
 
 function renderHome() {
@@ -825,10 +814,10 @@ function formatSessionTime(iso) {
 async function maybeStartStudy(deckId, wordId) {
   const deck = deckId || selectedDeck;
   try {
-    const session = await window.englishAnki.loadStudySession();
+    const session = wordId ? null : await window.englishAnki.loadStudySession(deck);
     if (session && session.deckId === deck && Array.isArray(session.queue) && session.queue.length
-        && Number.isInteger(session.index) && session.index > 0 && session.index < session.queue.length) {
-      const sourceWords = session.mode === 'weak' ? allWords() : wordsForDeck(deck);
+        && Number.isInteger(session.index) && session.index >= 0 && session.index < session.queue.length) {
+      const sourceWords = wordsForDeck(deck);
       const wordsById = new Map(sourceWords.map(word => [word.id, word]));
       const queue = session.queue.map(id => wordsById.get(id)).filter(Boolean);
       if (queue.length === session.queue.length) {
@@ -902,13 +891,19 @@ function showCurrentCard() {
     panel.querySelectorAll('.panel-body, .memory-scene').forEach(body => body.setAttribute('aria-hidden', 'true'));
   });
   const detail = wordDetail(word);
+  const scenePanel = $('#scenePanel');
+  const sentencePanel = $('#keywordScenePanel');
+  scenePanel.hidden = detail.basic || detail.story?.textOnly || false;
+  sentencePanel.hidden = detail.basic || false;
+  $('#wordCard').classList.toggle('without-illustration', scenePanel.hidden);
+  $('#wordCard .visual-tab').hidden = scenePanel.hidden;
   renderKeywordLink(word, detail);
   const anchorWord = String(currentKeywordLink?.word || '').trim();
   renderTargetWord(word.word, anchorWord);
   fitWordWidth();
   $('#wordDepthBack').textContent = word.word;
   $('#wordDepthMid').textContent = word.word;
-  const related = anchorWord && anchorWord.toLowerCase() !== String(word.word).toLowerCase()
+  const related = detail.basic ? [] : anchorWord && anchorWord.toLowerCase() !== String(word.word).toLowerCase()
     ? [anchorWord]
     : relatedWordsFor(word).slice(0, 1);
   $('#relatedCloud').innerHTML = related.map((item, index) => renderRelatedWord(item, word, index, { alternateValue: word.word })).join('');
@@ -918,7 +913,7 @@ function showCurrentCard() {
   $('#levelTag').textContent = word.tierName || deckFor(word.deckId).short;
   $('#meaning').textContent = [word.pos, word.meaning].filter(Boolean).join(' ');
   $('#morphStrip').innerHTML = visualChunks(word.word).map((chunk, index) => `<span class="morph-letter" style="--delay:${index * .22}s">${escapeHtml(chunk)}</span>${index < visualChunks(word.word).length - 1 ? '<b>·</b>' : ''}`).join('') + '<i>∞</i>';
-  $('#exampleSentence').innerHTML = detail.mnemonic?.html || detail.example;
+  $('#exampleSentence').innerHTML = detail.mnemonic?.html || detail.example || '';
   $('#cardStatus').textContent = detail.story ? 'STORY · 已审核' : (card?.reps ? `FSRS · 第 ${card.reps + 1} 次` : 'NEW · 新学');
   const completed = Math.min(currentStudyIndex, initialQueueSize);
   $('#wordIndex').textContent = `${String(completed + 1).padStart(2, '0')} / ${String(initialQueueSize).padStart(2, '0')}`;
@@ -939,8 +934,12 @@ function showCurrentCard() {
 }
 
 function renderKeywordLink(word, detail) {
-  currentKeywordLink = detail.keyword || keywordLinkFor(word);
+  currentKeywordLink = detail.basic ? null : detail.keyword || keywordLinkFor(word);
   $('#memory').textContent = detail.memory;
+  if ($('#scenePanel').hidden) {
+    $('#memoryScene').replaceChildren();
+    return;
+  }
   $('#memoryScene').innerHTML = detail.story
     ? storySceneSvg(word, detail.story)
     : sceneSvg(word, detail.icon, currentKeywordLink, detail.scene, detail.mnemonic);
@@ -974,7 +973,11 @@ function revealStudyPanel(panel) {
 }
 
 function allAnswersRevealed() {
-  return revealOrder.every(id => revealedAnswerPanels.has(id));
+  return !nextRevealPanel();
+}
+
+function nextRevealPanel() {
+  return revealOrder.find(id => !$('#' + id).hidden && !revealedAnswerPanels.has(id));
 }
 
 function updateRevealHint() {
@@ -985,7 +988,7 @@ function updateRevealHint() {
     hint.textContent = '答案已揭晓，可以评分了';
     return;
   }
-  const next = revealOrder.find(id => !revealedAnswerPanels.has(id));
+  const next = nextRevealPanel();
   hint.textContent = `按空格查看${names[next] || '答案'}`;
 }
 
@@ -1001,7 +1004,7 @@ function syncReviewGate() {
 
 function advanceReveal() {
   if (allAnswersRevealed()) return;
-  const next = revealOrder.find(id => !revealedAnswerPanels.has(id));
+  const next = nextRevealPanel();
   const panel = $('#' + next);
   if (panel) revealStudyPanel(panel);
 }
@@ -1165,6 +1168,9 @@ function wordDetail(word) {
     if (word.memory) detail.memory = word.memory;
     return detail;
   }
+  if (word.deckId === 'kaoyan-2752') {
+    return { basic: true, memory: word.memory || '朗读单词，回想释义，再给自己评分。' };
+  }
   const key = word.word.toLowerCase().split(/[\/\s]/)[0].replace(/[^a-z-]/g, '');
   const keyword = keywordLinkFor(word);
   const mnemonic = keywordMnemonicFor(word, keyword);
@@ -1218,7 +1224,7 @@ function storySentenceHtml(story, targetMeaning) {
 
 function formalStoryDetail(word, story) {
   const anchorMeaning = story.anchorMeaning || '熟词';
-  const targetMeaning = shortMeaning(word.meaning);
+  const targetMeaning = shortMeaning(story.targetSense || word.meaning);
   return {
     story,
     icon: story.scene?.props?.[0]?.[1] || '◆',
@@ -1231,7 +1237,7 @@ function formalStoryDetail(word, story) {
     memory: story.review?.reason || '已通过人工语义复核',
     mnemonic: {
       plain: story.sentence,
-      html: storySentenceHtml(story, shortMeaning(word.meaning)),
+      html: storySentenceHtml(story, targetMeaning),
       linkHtml: `<span class="mnemonic-link-label">熟词</span><strong class="mnemonic-word mnemonic-anchor">${escapeHtml(story.anchor)}</strong><small>（${escapeHtml(anchorMeaning)}）</small><i>→</i><span class="mnemonic-link-label">生词</span><strong class="mnemonic-word mnemonic-target">${escapeHtml(story.word)}</strong><small>（${escapeHtml(targetMeaning)}）</small>`
     }
   };
@@ -1271,7 +1277,7 @@ function preloadUpcomingStoryImages() {
   for (let offset = 1; offset <= preloadCount; offset += 1) {
     const nextWord = studyQueue[currentStudyIndex + offset];
     const nextStory = nextWord ? memoryStories.get(nextWord.id) : null;
-    if (!nextWord || !nextStory) continue;
+    if (!nextWord || !nextStory || nextStory.textOnly) continue;
     const image = new Image();
     image.decoding = 'async';
     image.fetchPriority = 'low';
@@ -1879,619 +1885,6 @@ function stableHash(value, salt = 0) {
   return hash >>> 0;
 }
 
-function hashUnit(value, salt = 0) {
-  return (stableHash(value, salt) % 10000) / 10000;
-}
-
-function memoryMeaningPairs(value) {
-  const pairs = new Set();
-  const segments = String(value || '').match(/[\u4e00-\u9fff]{2,}/g) || [];
-  for (const segment of segments) {
-    for (let index = 0; index < segment.length - 1; index += 1) pairs.add(segment.slice(index, index + 2));
-  }
-  return pairs;
-}
-
-function strongMemoryRelations(focus) {
-  const label = String(focus.word || '').toLowerCase();
-  const key = label.replace(/[^a-z]/g, '');
-  const focusTokens = label.split(/[^a-z]+/).filter(token => token.length >= 3);
-  const focusStem = relatedStem(key);
-  const category = memoryCategoryFor(focus).id;
-  const curatedNames = new Set(relatedWordsFor(focus).map(item => String(item).toLowerCase()));
-  const focusPairs = memoryMeaningPairs(focus.meaning);
-  const focusSound = soundSkeleton(key);
-  return allWords()
-    .filter(candidate => state.cards[candidate.id]?.reps > 0 && candidate.id !== focus.id && String(candidate.word || '').length >= 2)
-    .map(candidate => {
-      const candidateLabel = String(candidate.word || '').toLowerCase();
-      const candidateKey = candidateLabel.replace(/[^a-z]/g, '');
-      const candidateTokens = candidateLabel.split(/[^a-z]+/).filter(token => token.length >= 3);
-      if (!candidateKey) return null;
-      const candidateStem = relatedStem(candidateKey);
-      const minLength = Math.min(key.length, candidateKey.length);
-      const curated = curatedNames.has(candidateLabel) || curatedNames.has(candidateKey);
-      const compound = minLength >= 3 && (candidateKey.length >= 4 || ['man', 'men'].includes(candidateKey)) && (
-        focusTokens.some(token => token === candidateKey || token.startsWith(candidateKey) || token.endsWith(candidateKey))
-        || candidateTokens.some(token => token === key || token.startsWith(key) || token.endsWith(key))
-      );
-      const stemMatch = focusStem.length >= 4 && focusStem === candidateStem;
-      const prefix = minLength >= 4 && key.slice(0, 4) === candidateKey.slice(0, 4);
-      const suffix = minLength >= 5 && key.slice(-4) === candidateKey.slice(-4);
-      const distance = Math.abs(candidateKey.length - key.length) <= 3 ? wordDistance(key, candidateKey) : 9;
-      const candidatePairs = memoryMeaningPairs(candidate.meaning);
-      const semanticMatches = [...focusPairs].filter(pair => candidatePairs.has(pair)).length;
-      const sameCategory = memoryCategoryFor(candidate).id === category;
-      const candidateSound = soundSkeleton(candidateKey);
-      const sound = focusSound && candidateSound
-        ? 1 - wordDistance(focusSound, candidateSound) / Math.max(focusSound.length, candidateSound.length, 2)
-        : 0;
-      let type = '';
-      let score = 0;
-      if (curated) { type = '人工精选'; score = 130; }
-      else if (compound) {
-        const likelyAffix = Math.abs(candidateKey.length - key.length) >= 2;
-        type = likelyAffix ? '构词关联' : '近形词';
-        score = (likelyAffix ? 114 : 99) + Math.min(8, minLength);
-      }
-      else if (stemMatch) { type = '词族关联'; score = 108; }
-      else if (distance === 1) { type = '近形词'; score = 103; }
-      else if (prefix || suffix) { type = '词形关联'; score = 91 + (prefix && suffix ? 5 : 0); }
-      else if (distance === 2 && minLength >= 5) { type = '近形词'; score = 84; }
-      else if (semanticMatches >= 2 || (semanticMatches >= 1 && sameCategory)) { type = '语义关联'; score = 70 + semanticMatches * 8; }
-      else if (sound >= .84 && minLength >= 4) { type = '近音词'; score = 66 + sound * 10; }
-      if (!type) return null;
-      score -= Math.abs(candidateKey.length - key.length) * .35;
-      return { word: candidate, type, score };
-    })
-    .filter(Boolean)
-    .sort((left, right) => right.score - left.score || stableHash(left.word.word) - stableHash(right.word.word))
-    .slice(0, 6);
-}
-
-function sampleMemoryWords(focus, relations) {
-  const buckets = new Map(memoryCategories.map(category => [category.id, []]));
-  for (const word of words) buckets.get(memoryCategoryFor(word).id).push(word);
-  const sampled = [];
-  const perCategory = performanceProfile.lite ? 4 : 7;
-  for (const category of memoryCategories) {
-    const bucket = buckets.get(category.id)
-      .filter(word => word.id !== focus.id)
-      .sort((left, right) => stableHash(left.word, category.id.length) - stableHash(right.word, category.id.length));
-    sampled.push(...bucket.slice(0, category.id === 'abstract' ? perCategory + 2 : perCategory));
-  }
-  const unique = new Map([[focus.id, focus]]);
-  relations.forEach(relation => unique.set(relation.word.id, relation.word));
-  sampled.forEach(word => unique.set(word.id, word));
-  return [...unique.values()].slice(0, performanceProfile.lite ? 58 : 96);
-}
-
-function buildMemoryGraph(focus) {
-  const source = allWords().filter(word => state.cards[word.id]?.reps > 0);
-  const previousNodes = new Map(memoryGraph.nodes.map(node => [node.id, node]));
-  const graphChanged = source.length !== previousNodes.size || source.some(word => !previousNodes.has(word.id));
-  const nodes = source.map(word => {
-    const key = String(word.word || '').toLowerCase().replace(/[^a-z]/g, '');
-    // Include en- word families such as enable/able; this remains a heuristic.
-    const stem = key.startsWith('en') && key.length >= 6 ? relatedStem(key.slice(2)) : relatedStem(key);
-    const anchor = stem.length >= 4 ? stem : word.id;
-    const card = state.cards[word.id];
-    const status = wordStatus(word) === 'mastered' ? 'mastered' : card.reps <= 1 ? 'fresh' : 'learning';
-    const stored = isPlainObject(state.settings.memoryNodePositions) ? state.settings.memoryNodePositions[word.id] : null;
-    const previous = previousNodes.get(word.id);
-    return { id: word.id, word, key, stem, status, category: memoryCategoryFor(word), learned: true,
-      x: previous?.x ?? (Number.isFinite(stored?.x) ? stored.x : (hashUnit(anchor, 101) - .5) * 2600 + (hashUnit(word.id, 201) - .5) * 65),
-      y: previous?.y ?? (Number.isFinite(stored?.y) ? stored.y : (hashUnit(anchor, 102) - .5) * 2000 + (hashUnit(word.id, 202) - .5) * 65),
-      vx: previous?.vx || 0, vy: previous?.vy || 0 };
-  });
-  const byId = new Map(nodes.map(node => [node.id, node]));
-  const byWord = new Map();
-  const stems = new Map();
-  for (const node of nodes) {
-    if (!byWord.has(node.key)) byWord.set(node.key, []);
-    byWord.get(node.key).push(node);
-    if (node.stem.length >= 4) {
-      if (!stems.has(node.stem)) stems.set(node.stem, []);
-      stems.get(node.stem).push(node);
-    }
-  }
-  const edges = [], edgeKeys = new Set();
-  function link(a, b, type) {
-    if (a.id === b.id || a.key === b.key) return;
-    const key = [a.id, b.id].sort().join('|');
-    if (edgeKeys.has(key)) return;
-    edgeKeys.add(key); edges.push({ from: a.id, to: b.id, type });
-  }
-  for (const node of nodes) {
-    for (const name of curatedRelatedWords[node.key] || []) {
-      const targetKey = name.toLowerCase().replace(/[^a-z]/g, '');
-      for (const target of byWord.get(targetKey) || []) link(node, target, '精选关联');
-    }
-  }
-  // Reuse reviewed mnemonic anchors only when their written forms actually overlap.
-  for (const node of nodes) {
-    const story = memoryStories.get(node.id);
-    const anchor = String(story?.anchor || '').toLowerCase().replace(/[^a-z]/g, '');
-    if (story?.review?.relationStrong !== true || anchor.length < 3 || node.key.length < 3) continue;
-    if (!node.key.includes(anchor) && !anchor.includes(node.key)) continue;
-    for (const target of byWord.get(anchor) || []) link(node, target, '词形记忆锚点');
-  }
-  for (const group of stems.values()) {
-    for (let i = 0; i < group.length; i++) {
-      for (let j = i + 1; j < group.length; j++) link(group[i], group[j], '词干相同（自动推测）');
-    }
-  }
-  const relations = [];
-  for (const edge of edges) {
-    const target = edge.from === focus.id ? edge.to : edge.to === focus.id ? edge.from : null;
-    if (target && byId.has(target)) relations.push({ word: byId.get(target).word, type: edge.type });
-  }
-  const relationIds = new Set(relations.map(relation => relation.word.id));
-  const meta = new Map(relations.map(relation => [relation.word.id, relation.type]));
-  nodes.forEach(node => { node.focus = node.id === focus.id; node.relation = relationIds.has(node.id); node.relationType = meta.get(node.id) || ''; });
-  memoryGraph.nodes = nodes; memoryGraph.nodesById = byId; memoryGraph.edges = edges; memoryGraph.focusWord = focus;
-  if (graphChanged) memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 110);
-  memoryGraph.strongIds = relationIds; memoryGraph.relations = relations; memoryGraph.hovered = null;
-  hideMemoryHoverCard(); updateMemoryFocusPanel(); requestMemoryDraw();
-}
-
-function renderMemoryWall() {
-  const wall = $('#memoryCardWall');
-  if (!wall || wall.childElementCount) return;
-  const showcase = words.filter(word => /^[a-z-]{3,12}$/i.test(word.word)).filter((_, index) => index % 107 === 0).slice(0, 24);
-  wall.innerHTML = showcase.map((word, index) => {
-    const column = index % 6;
-    const row = Math.floor(index / 6);
-    const x = -2 + column * 20.5 + (row % 2 ? 3 : 0);
-    const y = -3 + row * 29;
-    const rotation = -3 + (index % 5) * 1.5;
-    const scale = .74 + (index % 4) * .045;
-    return `<article class="memory-wall-card" style="--wall-x:${x}%;--wall-y:${y}%;--wall-r:${rotation}deg;--wall-s:${scale};--wall-delay:${-index * .31}s"><strong>${escapeHtml(word.word)}</strong><em>${escapeHtml(word.phonetic || '/ — /')}</em><small>${escapeHtml(shortMeaning(word.meaning))}</small><i></i></article>`;
-  }).join('');
-}
-
-function updateMemoryFocusPanel() {
-  const focus = memoryGraph.focusWord;
-  if (!focus || !$('#memoryFocusWord')) return;
-  const panel = $('#memoryFocusPanel');
-  panel.classList.toggle('is-long', String(focus.word).length > 17);
-  panel.classList.toggle('is-very-long', String(focus.word).length > 28);
-  $('#memoryFocusWord').textContent = focus.word;
-  $('#memoryFocusPhonetic').textContent = focus.phonetic || '/ — /';
-  $('#memoryFocusMeaning').textContent = focus.meaning;
-  const progress = state.cards[focus.id];
-  $('#memoryFocusState').textContent = progress?.reps ? `已复习 ${progress.reps} 次` : '未学习';
-  $('#memoryFocusCategory').textContent = `#${memoryCategoryFor(focus).label}`;
-  $('#memoryRelationCount').textContent = `${memoryGraph.relations.length} 个关联`;
-  $('#memoryFocusLinks').innerHTML = memoryGraph.relations.length
-    ? memoryGraph.relations.map(relation => {
-      const type = relation.type;
-      return `<button type="button" data-memory-word-id="${escapeHtml(relation.word.id)}" title="${escapeHtml(relation.word.meaning || '')}"><span>${escapeHtml(relation.word.word)}</span><small>${escapeHtml(type)}</small></button>`;
-    }).join('')
-    : '<p class="memory-empty-relations">已学词中暂未找到词形关联。</p>';
-  $('#memoryBackBtn').disabled = memoryGraph.history.length === 0;
-  updateMemoryGraphHud();
-}
-
-function memoryVisibleNodes() {
-  if (!memoryGraph.onlyStrong) return memoryGraph.nodes;
-  return memoryGraph.nodes.filter(node => node.focus || node.relation);
-}
-
-function updateMemoryGraphHud() {
-  const visible = memoryVisibleNodes();
-  $('#memoryVisibleCount').textContent = visible.length;
-  $('#memoryCountLabel').textContent = memoryGraph.onlyStrong ? `个显示节点（共 ${memoryGraph.nodes.length} 个已学）` : '个已学节点';
-  $('#memoryStrongCount').textContent = memoryGraph.relations.length;
-  $('#memoryCanvas').setAttribute('aria-label', `${memoryGraph.focusWord?.word || '当前词'} 的二维关系图，显示 ${visible.length} 个已学节点和 ${memoryGraph.relations.length} 个关联词`);
-  $('#memoryRotateBtn').classList.toggle('is-active', memoryGraph.autoRotate);
-  $('#memoryRotateBtn').setAttribute('aria-pressed', String(memoryGraph.autoRotate));
-  $('#memoryFocusModeBtn').classList.toggle('is-active', memoryGraph.onlyStrong);
-  $('#memoryFocusModeBtn').setAttribute('aria-pressed', String(memoryGraph.onlyStrong));
-  $('#memoryFocusModeBtn').textContent = memoryGraph.onlyStrong ? '显示全部' : '聚焦关联';
-}
-
-function renderMemory(preferredWordId = '') {
-  const learned = allWords().filter(word => state.cards[word.id]?.reps > 0);
-  const wall = $('#memoryCardWall');
-  if (wall) wall.innerHTML = '';
-  $('#memoryEmpty').hidden = learned.length > 0;
-  $('#memoryFocusPanel').hidden = learned.length === 0;
-  memoryGraph.history = [];
-  memoryGraph.onlyStrong = false;
-  if (!learned.length) {
-    memoryGraph.nodes = []; memoryGraph.nodesById = new Map(); memoryGraph.edges = []; memoryGraph.relations = []; memoryGraph.focusWord = null; memoryGraph.physicsFrames = 0;
-    $('#memorySearch').value = '';
-    hideMemorySearchResults();
-    updateMemoryGraphHud();
-  } else {
-    const currentStudyWord = studyQueue[currentStudyIndex];
-    const focus = learned.find(word => word.id === preferredWordId)
-      || learned.find(word => word.id === currentStudyWord?.id)
-      || learned[0];
-    buildMemoryGraph(focus);
-    $('#memorySearch').value = focus.word;
-    hideMemorySearchResults();
-  }
-  resizeMemoryCanvas();
-  resetMemoryCamera();
-  requestMemoryDraw();
-}
-
-function resizeMemoryCanvas() {
-  const canvas = $('#memoryCanvas');
-  if (!canvas) return;
-  const rect = canvas.getBoundingClientRect();
-  const dpr = Math.min(performanceProfile.lite ? 1.2 : 2, window.devicePixelRatio || 1);
-  const width = Math.max(1, Math.round(rect.width));
-  const height = Math.max(1, Math.round(rect.height));
-  if (canvas.width !== Math.round(width * dpr) || canvas.height !== Math.round(height * dpr)) {
-    canvas.width = Math.round(width * dpr); canvas.height = Math.round(height * dpr);
-  }
-  memoryGraph.width = width; memoryGraph.height = height; memoryGraph.dpr = dpr;
-  requestMemoryDraw();
-}
-
-function memoryGraphViewport() {
-  const canvas = $('#memoryCanvas').getBoundingClientRect();
-  const panel = $('#memoryFocusPanel');
-  const rect = panel.hidden ? null : panel.getBoundingClientRect();
-  let left = 0, top = 0;
-  if (rect && rect.width && rect.height) {
-    if (rect.width < canvas.width * .6) left = Math.min(canvas.width * .48, Math.max(0, rect.right - canvas.left + 18));
-    else top = Math.min(canvas.height * .55, Math.max(0, rect.bottom - canvas.top + 18));
-  }
-  return { left, top, width: Math.max(1, memoryGraph.width - left), height: Math.max(1, memoryGraph.height - top), centerX: (memoryGraph.width + left) / 2, centerY: (memoryGraph.height + top) / 2 };
-}
-function projectMemoryNode(node) {
-  const viewport = memoryGraph.viewport || memoryGraphViewport();
-  return { node, x: viewport.centerX + memoryGraph.panX + node.x * memoryGraph.zoom,
-    y: viewport.centerY + memoryGraph.panY + node.y * memoryGraph.zoom, z: 0, perspective: 1 };
-}
-
-function requestMemoryDraw() {
-  if (currentRoute === 'memory' && !memoryGraph.frame) memoryGraph.frame = requestAnimationFrame(drawMemoryFrame);
-}
-
-function fitMemoryLabel(context, label, maxWidth) {
-  const source = String(label || '');
-  if (context.measureText(source).width <= maxWidth) return source;
-  let result = source;
-  while (result.length > 4 && context.measureText(`${result}…`).width > maxWidth) result = result.slice(0, -1);
-  return `${result}…`;
-}
-
-function memoryRectsOverlap(left, right, padding = 4) {
-  return left.x < right.x + right.width + padding && left.x + left.width + padding > right.x
-    && left.y < right.y + right.height + padding && left.y + left.height + padding > right.y;
-}
-
-function drawNodeLabel(context, point, occupied, active = false) {
-  const related = point.node.relation;
-  context.save();
-  context.font = `${active ? 760 : 650} ${active ? 13 : 10.5}px "Segoe UI",sans-serif`;
-  const label = fitMemoryLabel(context, point.node.word.word, active ? 230 : 132);
-  const height = active ? 28 : 23;
-  const width = Math.min(active ? 250 : 150, context.measureText(label).width + (active ? 22 : 18));
-  const centerX = memoryGraph.width * (memoryGraph.width < 900 ? .5 : .61);
-  let x = point.x < centerX && !active ? point.x - width - 10 : point.x + 10;
-  let y = point.y - height / 2;
-  x = Math.max(12, Math.min(memoryGraph.width - width - 12, x));
-  y = Math.max(12, Math.min(memoryGraph.height - height - 12, y));
-  const offsets = [0, -(height + 5), height + 5, -(height * 2 + 9), height * 2 + 9];
-  let rect = { x, y, width, height };
-  for (const offset of offsets) {
-    const candidate = { ...rect, y: Math.max(12, Math.min(memoryGraph.height - height - 12, y + offset)) };
-    if (!occupied.some(item => memoryRectsOverlap(candidate, item))) { rect = candidate; break; }
-  }
-  if (!active && occupied.some(item => memoryRectsOverlap(rect, item))) { context.restore(); return; }
-  occupied.push(rect);
-  context.fillStyle = active ? 'rgba(203,255,126,.96)' : related ? 'rgba(5,24,29,.9)' : 'rgba(8,21,27,.85)';
-  context.strokeStyle = active ? 'rgba(229,255,183,.82)' : 'rgba(122,231,205,.4)';
-  context.lineWidth = 1;
-  context.shadowBlur = active ? 17 : 9;
-  context.shadowColor = active ? 'rgba(184,255,107,.28)' : 'rgba(71,218,181,.13)';
-  context.beginPath(); context.roundRect(rect.x, rect.y, rect.width, rect.height, active ? 9 : 8); context.fill(); context.stroke();
-  context.fillStyle = active ? '#09221c' : '#dffff6';
-  context.shadowBlur = 0;
-  context.fillText(label, rect.x + (active ? 11 : 9), rect.y + (active ? 18.5 : 15.5));
-  context.restore();
-}
-
-// Nearby-node spatial buckets keep repulsion bounded as the vocabulary grows.
-function stepMemoryPhysics() {
-  const nodes = memoryGraph.nodes;
-  if (!nodes.length) { memoryGraph.physicsFrames = 0; return; }
-  const cellSize = 100, grid = new Map();
-  for (const node of nodes) {
-    const x = Math.floor(node.x / cellSize), y = Math.floor(node.y / cellSize), key = `${x},${y}`;
-    if (!grid.has(key)) grid.set(key, []);
-    grid.get(key).push(node);
-  }
-  for (const node of nodes) {
-    let fx = 0, fy = 0, compared = 0;
-    const gx = Math.floor(node.x / cellSize), gy = Math.floor(node.y / cellSize);
-    for (let ox = -1; ox <= 1 && compared < 24; ox++) for (let oy = -1; oy <= 1 && compared < 24; oy++) {
-      for (const other of grid.get(`${gx + ox},${gy + oy}`) || []) {
-        if (other === node) continue;
-        let dx = node.x - other.x, dy = node.y - other.y, dist2 = dx * dx + dy * dy;
-        if (dist2 < .01) { dx = (hashUnit(node.id, 10) - .5) || .1; dy = (hashUnit(node.id, 11) - .5) || .1; dist2 = dx * dx + dy * dy; }
-        if (dist2 > 10000) continue;
-        const dist = Math.sqrt(dist2), force = Math.min(2.5, (100 - dist) * .028);
-        fx += dx / dist * force; fy += dy / dist * force;
-        if (++compared >= 24) break;
-      }
-    }
-    node.vx = (node.vx || 0) + fx; node.vy = (node.vy || 0) + fy;
-  }
-  for (const edge of memoryGraph.edges) {
-    const a = memoryGraph.nodesById.get(edge.from), b = memoryGraph.nodesById.get(edge.to);
-    if (!a || !b) continue;
-    const dx = b.x - a.x, dy = b.y - a.y, distance = Math.hypot(dx, dy) || 1;
-    const force = Math.max(-4, Math.min(4, (distance - 95) * .024));
-    const fx = dx / distance * force, fy = dy / distance * force;
-    a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
-  }
-  for (const node of nodes) {
-    if (node === memoryGraph.dragNode && memoryGraph.dragging) { node.vx = 0; node.vy = 0; continue; }
-    node.vx = Math.max(-12, Math.min(12, node.vx * .76));
-    node.vy = Math.max(-12, Math.min(12, node.vy * .76));
-    node.x += node.vx; node.y += node.vy;
-  }
-  memoryGraph.physicsFrames = Math.max(0, memoryGraph.physicsFrames - 1);
-}
-
-function drawMemoryFrame() {
-  memoryGraph.frame = null;
-  if (currentRoute !== 'memory') return;
-  if (memoryGraph.physicsFrames > 0) stepMemoryPhysics();
-  const canvas = $('#memoryCanvas'), context = canvas.getContext('2d');
-  context.setTransform(memoryGraph.dpr, 0, 0, memoryGraph.dpr, 0, 0);
-  context.clearRect(0, 0, memoryGraph.width, memoryGraph.height);
-  memoryGraph.viewport = memoryGraphViewport();
-  const nodes = memoryVisibleNodes();
-  const allPoints = new Map(nodes.map(node => [node.id, projectMemoryNode(node)]));
-  const margin = 35;
-  const onScreen = point => point.x >= -margin && point.x <= memoryGraph.width + margin && point.y >= -margin && point.y <= memoryGraph.height + margin;
-  const projected = [...allPoints.values()].filter(onScreen);
-  memoryGraph.projected = projected;
-  context.lineCap = 'round';
-  for (const edge of memoryGraph.edges) {
-    const from = allPoints.get(edge.from), to = allPoints.get(edge.to);
-    if (!from || !to) continue;
-    if (Math.max(from.x, to.x) < 0 || Math.min(from.x, to.x) > memoryGraph.width || Math.max(from.y, to.y) < 0 || Math.min(from.y, to.y) > memoryGraph.height) continue;
-    const highlighted = edge.from === memoryGraph.focusWord?.id || edge.to === memoryGraph.focusWord?.id;
-    context.beginPath(); context.moveTo(from.x, from.y); context.lineTo(to.x, to.y);
-    context.strokeStyle = highlighted ? 'rgba(130,229,204,.7)' : 'rgba(111,157,153,.26)';
-    context.lineWidth = highlighted ? 1.5 : .8; context.stroke();
-  }
-  const colors = { fresh: '#7bb8ff', learning: '#54d2ba', mastered: '#efc66a' };
-  for (const point of projected) {
-    const node = point.node, active = node.focus;
-    context.beginPath(); context.fillStyle = colors[node.status];
-    context.arc(point.x, point.y, active ? 7 : 4, 0, Math.PI * 2); context.fill();
-    if (active) { context.strokeStyle = '#fff'; context.lineWidth = 2; context.beginPath(); context.arc(point.x, point.y, 11, 0, Math.PI * 2); context.stroke(); }
-  }
-  const occupied = [];
-  const labels = projected.filter(point => point.node.focus || point.node.id === memoryGraph.hovered || point.node.relation || memoryGraph.zoom >= .55 || projected.length <= 35)
-    .sort((a, b) => Number(b.node.focus) - Number(a.node.focus) || Number(b.node.id === memoryGraph.hovered) - Number(a.node.id === memoryGraph.hovered) || Number(b.node.relation) - Number(a.node.relation)).slice(0, 120);
-  for (const point of labels) drawNodeLabel(context, point, occupied, point.node.focus);
-  if (memoryGraph.physicsFrames > 0) requestMemoryDraw();
-  else if (memoryGraph.positionDirtyIds.size && !memoryGraph.dragging) {
-    if (!isPlainObject(state.settings.memoryNodePositions)) state.settings.memoryNodePositions = {};
-    for (const id of memoryGraph.positionDirtyIds) {
-      const node = memoryGraph.nodesById.get(id);
-      if (node) state.settings.memoryNodePositions[id] = { x: node.x, y: node.y };
-    }
-    memoryGraph.positionDirtyIds.clear(); persist();
-  }
-}
-
-function focusMemoryWord(word, options = {}) {
-  if (!word || !state.cards[word.id]?.reps) return;
-  const previous = memoryGraph.focusWord;
-  if (options.pushHistory !== false && previous && previous.id !== word.id) {
-    memoryGraph.history.push(previous.id);
-    memoryGraph.history = memoryGraph.history.slice(-20);
-  }
-  buildMemoryGraph(word);
-  const node = memoryGraph.nodes.find(item => item.id === word.id);
-  if (node) { memoryGraph.panX = -node.x * memoryGraph.zoom; memoryGraph.panY = -node.y * memoryGraph.zoom; }
-  requestMemoryDraw();
-  $('#memorySearch').value = word.word;
-  hideMemorySearchResults();
-}
-
-function resetMemoryCamera() {
-  const nodes = memoryGraph.nodes;
-  if (!nodes.length) { memoryGraph.zoom = 1; memoryGraph.panX = 0; memoryGraph.panY = 0; requestMemoryDraw(); return; }
-  const xs = nodes.map(node => node.x), ys = nodes.map(node => node.y);
-  const minX = Math.min(...xs), maxX = Math.max(...xs), minY = Math.min(...ys), maxY = Math.max(...ys);
-  const viewport = memoryGraph.viewport = memoryGraphViewport();
-  const width = Math.max(100, viewport.width - 80), height = Math.max(100, viewport.height - 100);
-  memoryGraph.zoom = Math.min(1.4, Math.max(.08, Math.min(width / Math.max(200, maxX - minX), height / Math.max(200, maxY - minY))));
-  memoryGraph.panX = -(minX + maxX) / 2 * memoryGraph.zoom;
-  memoryGraph.panY = -(minY + maxY) / 2 * memoryGraph.zoom;
-  hideMemoryHoverCard(); requestMemoryDraw();
-}
-
-function changeMemoryZoom(factor, x = (memoryGraph.viewport || memoryGraphViewport()).centerX, y = (memoryGraph.viewport || memoryGraphViewport()).centerY) {
-  const before = memoryGraph.zoom;
-  const next = Math.max(.08, Math.min(5, before * factor));
-  const viewport = memoryGraph.viewport || memoryGraphViewport();
-  const dx = x - viewport.centerX, dy = y - viewport.centerY;
-  memoryGraph.panX = dx - (dx - memoryGraph.panX) * next / before;
-  memoryGraph.panY = dy - (dy - memoryGraph.panY) * next / before;
-  memoryGraph.zoom = next; requestMemoryDraw();
-}
-
-function goBackMemoryWord() {
-  const previousId = memoryGraph.history.pop();
-  const previous = allWords().find(word => word.id === previousId);
-  if (previous) focusMemoryWord(previous, { pushHistory: false });
-  else updateMemoryFocusPanel();
-}
-
-function showMemoryHoverCard(node, x, y) {
-  const card = $('#memoryHoverCard');
-  if (!card || !node || node.focus) return hideMemoryHoverCard();
-  $('#memoryHoverWord').textContent = node.word.word;
-  $('#memoryHoverPhonetic').textContent = node.word.phonetic || '/ — /';
-  $('#memoryHoverMeaning').textContent = node.word.meaning || '暂无释义';
-  $('#memoryHoverRelation').textContent = node.relation ? node.relationType : `#${node.category.label}`;
-  const cardWidth = 218; const cardHeight = 112;
-  const left = x + cardWidth + 24 > memoryGraph.width ? x - cardWidth - 14 : x + 14;
-  const top = Math.max(12, Math.min(memoryGraph.height - cardHeight - 12, y - 18));
-  card.style.left = `${Math.max(12, left)}px`;
-  card.style.top = `${top}px`;
-  card.hidden = false;
-}
-
-function hideMemoryHoverCard() {
-  const card = $('#memoryHoverCard');
-  if (card) card.hidden = true;
-}
-
-function memorySearchMatches(query) {
-  const source = String(query || '').trim().toLowerCase();
-  if (!source) return [];
-  return allWords().filter(word => state.cards[word.id]?.reps > 0)
-    .map(word => {
-      const label = String(word.word || '').toLowerCase();
-      const phonetic = String(word.phonetic || '').toLowerCase();
-      const meaning = String(word.meaning || '').toLowerCase();
-      let score = 99;
-      if (label === source) score = 0;
-      else if (label.startsWith(source)) score = 1;
-      else if (label.split(/[\s/,-]+/).some(part => part.startsWith(source))) score = 2;
-      else if (label.includes(source)) score = 3;
-      else if (meaning.includes(source)) score = 4;
-      else if (phonetic.includes(source)) score = 5;
-      return { word, score };
-    })
-    .filter(item => item.score < 99)
-    .sort((left, right) => left.score - right.score || left.word.word.length - right.word.word.length || stableHash(left.word.word) - stableHash(right.word.word))
-    .slice(0, 6)
-    .map(item => item.word);
-}
-
-function renderMemorySearchResults(query) {
-  const results = $('#memorySearchResults');
-  const input = $('#memorySearch');
-  memoryGraph.searchResults = memorySearchMatches(query);
-  memoryGraph.searchIndex = memoryGraph.searchResults.length ? 0 : -1;
-  if (!String(query || '').trim()) return hideMemorySearchResults();
-  results.innerHTML = memoryGraph.searchResults.length
-    ? memoryGraph.searchResults.map((word, index) => `<button class="memory-search-result${index === 0 ? ' is-selected' : ''}" type="button" role="option" aria-selected="${index === 0}" data-memory-search-id="${escapeHtml(word.id)}"><strong>${escapeHtml(word.word)}</strong><em>${escapeHtml(word.phonetic || '/ — /')}</em><small>${escapeHtml(shortMeaning(word.meaning))}</small></button>`).join('')
-    : '<p class="memory-search-empty">已学词中没有匹配结果。</p>';
-  results.hidden = false;
-  input.setAttribute('aria-expanded', 'true');
-}
-
-function updateMemorySearchSelection(index) {
-  if (!memoryGraph.searchResults.length) return;
-  memoryGraph.searchIndex = (index + memoryGraph.searchResults.length) % memoryGraph.searchResults.length;
-  $$('.memory-search-result').forEach((button, buttonIndex) => {
-    const selected = buttonIndex === memoryGraph.searchIndex;
-    button.classList.toggle('is-selected', selected);
-    button.setAttribute('aria-selected', String(selected));
-  });
-}
-
-function chooseMemorySearchResult(word = memoryGraph.searchResults[memoryGraph.searchIndex]) {
-  if (!word) return toast('没有找到匹配的单词');
-  focusMemoryWord(word);
-}
-
-function hideMemorySearchResults() {
-  const results = $('#memorySearchResults');
-  const input = $('#memorySearch');
-  if (results) results.hidden = true;
-  if (input) input.setAttribute('aria-expanded', 'false');
-  memoryGraph.searchResults = [];
-  memoryGraph.searchIndex = -1;
-}
-
-function bindMemoryInteractions() {
-  const canvas = $('#memoryCanvas');
-  function nodeAt(x, y) {
-    let nearest = null, distance = Infinity;
-    for (const point of memoryGraph.projected) {
-      const d = Math.hypot(point.x - x, point.y - y);
-      if (d <= (point.node.focus ? 15 : 11) && d < distance) { nearest = point.node; distance = d; }
-    }
-    return nearest;
-  }
-  canvas.addEventListener('pointerdown', event => {
-    if (event.button !== 0) return;
-    const rect = canvas.getBoundingClientRect();
-    const node = nodeAt(event.clientX - rect.left, event.clientY - rect.top);
-    memoryGraph.dragging = true; memoryGraph.dragDistance = 0;
-    memoryGraph.dragStartX = event.clientX; memoryGraph.dragStartY = event.clientY;
-    memoryGraph.dragNode = node;
-    memoryGraph.dragOriginalX = node ? node.x : memoryGraph.panX;
-    memoryGraph.dragOriginalY = node ? node.y : memoryGraph.panY;
-    memoryGraph.hovered = node?.id || null;
-    hideMemoryHoverCard(); canvas.classList.add('dragging'); canvas.setPointerCapture(event.pointerId);
-  });
-  canvas.addEventListener('pointermove', event => {
-    if (memoryGraph.dragging) {
-      const dx = event.clientX - memoryGraph.dragStartX, dy = event.clientY - memoryGraph.dragStartY;
-      memoryGraph.dragDistance = Math.max(memoryGraph.dragDistance, Math.hypot(dx, dy));
-      if (memoryGraph.dragDistance > 4) {
-        if (memoryGraph.dragNode) {
-          memoryGraph.dragNode.x = memoryGraph.dragOriginalX + dx / memoryGraph.zoom;
-          memoryGraph.dragNode.y = memoryGraph.dragOriginalY + dy / memoryGraph.zoom;
-          memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 75);
-        } else {
-          memoryGraph.panX = memoryGraph.dragOriginalX + dx; memoryGraph.panY = memoryGraph.dragOriginalY + dy;
-        }
-        requestMemoryDraw();
-      }
-      return;
-    }
-    const rect = canvas.getBoundingClientRect(), x = event.clientX - rect.left, y = event.clientY - rect.top;
-    const node = nodeAt(x, y), nearestId = node?.id || null;
-    canvas.classList.toggle('over-node', !!node);
-    if (memoryGraph.hovered !== nearestId) { memoryGraph.hovered = nearestId; requestMemoryDraw(); }
-    if (node) showMemoryHoverCard(node, x, y); else hideMemoryHoverCard();
-  });
-  const release = event => {
-    if (!memoryGraph.dragging) return;
-    const node = memoryGraph.dragNode;
-    if (node && memoryGraph.dragDistance > 4) {
-      if (event.type === 'pointercancel') { node.x = memoryGraph.dragOriginalX; node.y = memoryGraph.dragOriginalY; requestMemoryDraw(); }
-      else {
-        if (!isPlainObject(state.settings.memoryNodePositions)) state.settings.memoryNodePositions = {};
-        state.settings.memoryNodePositions[node.id] = { x: node.x, y: node.y };
-        memoryGraph.positionDirtyIds.add(node.id);
-        memoryGraph.physicsFrames = Math.max(memoryGraph.physicsFrames, 75);
-        requestMemoryDraw();
-        persist();
-      }
-    }
-    memoryGraph.dragging = false; memoryGraph.dragNode = null; canvas.classList.remove('dragging');
-    if (canvas.hasPointerCapture(event.pointerId)) canvas.releasePointerCapture(event.pointerId);
-  };
-  canvas.addEventListener('pointerup', release); canvas.addEventListener('pointercancel', release);
-  canvas.addEventListener('click', () => { if (memoryGraph.dragDistance > 4 || !memoryGraph.hovered) return; focusMemoryWord(memoryGraph.nodes.find(node => node.id === memoryGraph.hovered)?.word); });
-  canvas.addEventListener('pointerleave', () => { if (!memoryGraph.dragging) { memoryGraph.hovered = null; hideMemoryHoverCard(); requestMemoryDraw(); } });
-  canvas.addEventListener('wheel', event => { event.preventDefault(); const rect = canvas.getBoundingClientRect(); changeMemoryZoom(event.deltaY > 0 ? .9 : 1.1, event.clientX - rect.left, event.clientY - rect.top); }, { passive: false });
-  canvas.addEventListener('dblclick', resetMemoryCamera);
-  canvas.addEventListener('keydown', event => {
-    if (event.key === '+' || event.key === '=') changeMemoryZoom(1.12);
-    else if (event.key === '-') changeMemoryZoom(.88);
-    else if (event.key === '0') resetMemoryCamera();
-    else if (event.key === 'ArrowLeft') memoryGraph.panX += 30;
-    else if (event.key === 'ArrowRight') memoryGraph.panX -= 30;
-    else if (event.key === 'ArrowUp') memoryGraph.panY += 30;
-    else if (event.key === 'ArrowDown') memoryGraph.panY -= 30;
-    else return;
-    event.preventDefault(); requestMemoryDraw();
-  });
-  memoryResizeObserver = new ResizeObserver(resizeMemoryCanvas); memoryResizeObserver.observe(canvas);
-}
-
 function speak(text, sentence = false) {
   if (!('speechSynthesis' in window)) return toast('当前系统没有可用的语音引擎');
   speechSynthesis.cancel();
@@ -2531,7 +1924,9 @@ function renderLibrary() {
   $('#libraryCount').textContent = `${filtered.length.toLocaleString()} 个词`;
   const isCustomDeck = state.customDecks.some(item => item.id === selectedDeck);
   $('#addWordBtn').disabled = !isCustomDeck;
-  $('#exportDeckBtn').disabled = !isCustomDeck || !wordsForDeck(selectedDeck).length;
+  const hasWords = wordsForDeck(selectedDeck).length > 0;
+  $('#exportDeckBtn').disabled = !hasWords;
+  $('#exportApkgBtn').disabled = !hasWords || !window.englishAnki.exportApkg || exportingDeck;
   const openIssues = state.cardIssues.filter(issue => issue.status !== 'resolved').length;
   $('#issueCenterCount').textContent = String(openIssues);
   $('#issueCenterBtn').classList.toggle('has-issues', openIssues > 0);
@@ -2602,16 +1997,50 @@ function csvCell(value) {
 }
 
 function exportSelectedDeck() {
-  const deck = state.customDecks.find(item => item.id === selectedDeck);
-  if (!deck) return toast('内置词库无需导出；请选择自定义词库');
-  const rows = wordsForDeck(deck.id).map(word => [word.word, word.phonetic, word.pos, word.meaning, word.example, word.zh, word.memory].map(csvCell).join(','));
-  const content = `\uFEFF单词,音标,词性,中文释义,英文例句,例句翻译,记忆提示\n${rows.join('\n')}`;
+  const deck = deckFor(selectedDeck);
+  const rows = wordsForDeck(deck.id).map(word => {
+    const story = memoryStories.get(word.id);
+    return [word.word, word.phonetic, word.pos, word.meaning, word.frequency, word.alt,
+      word.example || story?.sentence, word.zh, word.memory || story?.review?.reason].map(csvCell).join(',');
+  });
+  const content = `\uFEFF单词,音标,词性,中文释义,词频,其他拼写,例句或联想句,例句翻译,记忆提示\n${rows.join('\n')}`;
   const link = document.createElement('a');
   link.href = URL.createObjectURL(new Blob([content], { type: 'text/csv;charset=utf-8' }));
   link.download = `${deck.name.replace(/[\\/:*?"<>|]/g, '-')}.csv`;
   link.click();
   URL.revokeObjectURL(link.href);
   toast(`已导出「${deck.name}」的 ${rows.length} 个单词`);
+}
+
+let exportingDeck = false;
+async function exportSelectedApkg() {
+  if (exportingDeck || !window.englishAnki.exportApkg) return;
+  const deck = deckFor(selectedDeck);
+  const cards = wordsForDeck(deck.id).map(word => {
+    const story = memoryStories.get(word.id);
+    const illustration = story?.illustration?.file || (story && !story.textOnly ? word.id + '.webp' : '');
+    return {
+      id: word.id, word: word.word, meaning: word.meaning, phonetic: word.phonetic, pos: word.pos,
+      anchor: story?.anchor, anchorMeaning: story?.anchorMeaning, story: story?.sentence,
+      example: word.example, translation: word.zh, memory: word.memory || story?.review?.reason,
+      imageId: /(?:^|\/)([A-Za-z0-9_-]+)\.webp$/.exec(illustration)?.[1]
+    };
+  });
+  exportingDeck = true;
+  const button = $('#exportApkgBtn');
+  button.disabled = true;
+  button.textContent = '正在导出…';
+  try {
+    const result = await window.englishAnki.exportApkg({ deckName: deck.name, cards });
+    if (result?.error) toast(`导出失败：${result.error}`);
+    else if (result) toast(`已导出 ${result.noteCount} 张卡和 ${result.mediaCount} 张图片${result.missingMedia ? `，缺失 ${result.missingMedia} 张图片` : ''}`);
+  } catch (error) {
+    toast(`导出失败：${error.message}`);
+  } finally {
+    exportingDeck = false;
+    button.textContent = '导出 Anki';
+    button.disabled = !wordsForDeck(selectedDeck).length;
+  }
 }
 
 function renderImportTargets() {
@@ -3522,11 +2951,6 @@ function bindEvents() {
     studyCard.style.setProperty('--word-shadow-x', '0px');
     studyCard.style.setProperty('--word-shadow-y', '0px');
   });
-  $('#memoryMapBtn').addEventListener('click', event => {
-    event.stopPropagation();
-    const word = studyQueue[currentStudyIndex];
-    route('memory', { wordId: word?.id });
-  });
   ['keywordLinkPanel', 'scenePanel', 'keywordScenePanel'].forEach(id => {
     const panel = $('#' + id);
     if (!panel) return;
@@ -3546,51 +2970,6 @@ function bindEvents() {
     event.stopPropagation();
     speak(button.dataset.relatedSpeak);
   });
-  $('#memoryResetBtn').addEventListener('click', resetMemoryCamera);
-  $('#memoryZoomOutBtn').addEventListener('click', () => changeMemoryZoom(.86));
-  $('#memoryZoomInBtn').addEventListener('click', () => changeMemoryZoom(1.16));
-  $('#memoryFitBtn').addEventListener('click', resetMemoryCamera);
-  $('#memoryRotateBtn').addEventListener('click', () => {
-    memoryGraph.autoRotate = !memoryGraph.autoRotate;
-    updateMemoryGraphHud();
-  });
-  $('#memoryFocusModeBtn').addEventListener('click', () => {
-    memoryGraph.onlyStrong = !memoryGraph.onlyStrong;
-    memoryGraph.hovered = null;
-    hideMemoryHoverCard();
-    updateMemoryGraphHud(); requestMemoryDraw();
-  });
-  $('#memoryBackBtn').addEventListener('click', goBackMemoryWord);
-  $('#memorySpeakBtn').addEventListener('click', () => memoryGraph.focusWord && speak(memoryGraph.focusWord.word));
-  $('#memoryFocusLinks').addEventListener('click', event => {
-    const button = event.target.closest('[data-memory-word-id]');
-    if (!button) return;
-    focusMemoryWord(allWords().find(word => word.id === button.dataset.memoryWordId));
-  });
-  $('#memorySearch').addEventListener('input', event => renderMemorySearchResults(event.currentTarget.value));
-  $('#memorySearch').addEventListener('focus', event => {
-    if (event.currentTarget.value.trim()) renderMemorySearchResults(event.currentTarget.value);
-  });
-  $('#memorySearch').addEventListener('keydown', event => {
-    if (event.key === 'ArrowDown') { event.preventDefault(); updateMemorySearchSelection(memoryGraph.searchIndex + 1); return; }
-    if (event.key === 'ArrowUp') { event.preventDefault(); updateMemorySearchSelection(memoryGraph.searchIndex - 1); return; }
-    if (event.key === 'Escape') { hideMemorySearchResults(); event.currentTarget.blur(); return; }
-    if (event.key !== 'Enter') return;
-    event.preventDefault();
-    if (!memoryGraph.searchResults.length) renderMemorySearchResults(event.currentTarget.value);
-    chooseMemorySearchResult();
-  });
-  $('#memorySearchResults').addEventListener('click', event => {
-    const button = event.target.closest('[data-memory-search-id]');
-    if (!button) return;
-    chooseMemorySearchResult(allWords().find(word => word.id === button.dataset.memorySearchId));
-  });
-  document.addEventListener('pointerdown', event => { if (!event.target.closest('.memory-search-shell')) hideMemorySearchResults(); });
-  $('#memoryStudyBtn').addEventListener('click', () => {
-    const word = memoryGraph.focusWord;
-    if (word) route('study', { deckId: word.deckId, wordId: word.id });
-  });
-  bindMemoryInteractions();
   $$('.rating-button').forEach(button => button.addEventListener('click', () => rateCard(button.dataset.rating)));
   $('#cardSuspendBtn').addEventListener('click', () => {
     const word = wordById(currentCardActionWordId);
@@ -3675,6 +3054,7 @@ function bindEvents() {
   $('#dismissLibraryGuideBtn').addEventListener('click', () => { state.settings.libraryOnboardingSeen = true; persist(); renderLibraryGuide(); });
   $('#addWordBtn').addEventListener('click', () => openNewWordEditor(selectedDeck));
   $('#exportDeckBtn').addEventListener('click', exportSelectedDeck);
+  $('#exportApkgBtn').addEventListener('click', exportSelectedApkg);
   $('#issueCenterBtn').addEventListener('click', openIssueCenter);
   $$('#issueFilters button').forEach(button => button.addEventListener('click', () => { currentIssueFilter = button.dataset.issueFilter; renderIssueCenter(); }));
   $('#createDeckBtn').addEventListener('click', () => {
@@ -4057,13 +3437,11 @@ function bindEvents() {
     const { deck, wordId } = resumePending || {};
     resumePending = null;
     closeModals();
-    window.englishAnki.clearStudySession();
     startStudy(deck || selectedDeck, wordId);
   });
   $('#resumeCloseBtn').addEventListener('click', () => {
     const { deck, wordId } = resumePending || {};
     resumePending = null;
-    window.englishAnki.clearStudySession();
     startStudy(deck || selectedDeck, wordId);
   });
   $('#minimizeBtn').addEventListener('click', window.englishAnki.window.minimize);

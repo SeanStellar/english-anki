@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2536",
+    "anchor": "elephant",
+    "sentence": "The elephant's long tusks were made of ivory.",
+    "relation": "Ivory is the hard pale material found in the tusks of elephants and some other animals.",
+    "setting": "A peaceful grassland",
+    "actor": "No people: one healthy elephant stands calmly with two visible curved tusks.",
+    "props": [
+      "one elephant",
+      "two curved tusks",
+      "one grassy plain"
+    ],
+    "beats": [
+      "The elephant stands in the grass",
+      "Its tusks are clearly seen",
+      "The pale tusk material is ivory"
+    ],
+    "ending": "A healthy elephant shows its long ivory tusks.",
+    "artDirection": "No hunting, injury, trade, or extra animals; show the elephant with four legs and no text."
+  },
+  {
+    "id": "kyc-2537",
+    "anchor": "door",
+    "sentence": "She turned the knob on the door to enter the room.",
+    "relation": "A knob is a small rounded handle used to operate a door, drawer, or machine.",
+    "setting": "A quiet home doorway",
+    "actor": "One woman turns a plain round knob on a closed door.",
+    "props": [
+      "one woman",
+      "one plain door",
+      "one round door knob"
+    ],
+    "beats": [
+      "The woman reaches for the door",
+      "She turns the knob",
+      "The door opens into the room"
+    ],
+    "ending": "A woman turns the knob on a door to enter.",
+    "artDirection": "No labels, keyholes with symbols, text, or logos."
+  },
+  {
+    "id": "kyc-2538",
+    "anchor": "globe",
+    "sentence": "A globe helped the sailor understand longitude at sea.",
+    "relation": "Longitude measures how far east or west a place lies on Earth, shown by lines running from pole to pole on a globe.",
+    "setting": "A quiet ship cabin",
+    "actor": "One sailor studies a plain globe beside a small ship window.",
+    "props": [
+      "one sailor",
+      "one plain globe with unlabelled meridian lines",
+      "one ship window"
+    ],
+    "beats": [
+      "The sailor looks at the globe",
+      "He follows a line from pole to pole",
+      "The globe helps explain longitude"
+    ],
+    "ending": "A sailor uses a globe to understand longitude at sea.",
+    "artDirection": "No place names, letters, numbers, labels, or map symbols."
+  },
+  {
+    "id": "kyc-2539",
+    "anchor": "song",
+    "sentence": "One lyric from the song stayed in her mind.",
+    "relation": "A lyric is a line or group of words from a song.",
+    "setting": "A quiet music room",
+    "actor": "One woman listens thoughtfully to a song beside a blank music sheet.",
+    "props": [
+      "one woman",
+      "one plain music player",
+      "one blank music sheet"
+    ],
+    "beats": [
+      "The song plays",
+      "One lyric catches her attention",
+      "The lyric stays in her mind"
+    ],
+    "ending": "A song leaves one lyric in a listener's mind.",
+    "artDirection": "No written words, notes, labels, logos, or speech bubbles."
+  },
+  {
+    "id": "kyc-2540",
+    "anchor": "car",
+    "sentence": "The driver had to manoeuvre the car into a narrow parking space.",
+    "relation": "To manoeuvre a vehicle is to steer or move it skillfully, especially in a tight space.",
+    "setting": "A quiet parking area",
+    "actor": "One driver carefully steers a plain car into a narrow open space.",
+    "props": [
+      "one driver",
+      "one plain car",
+      "one narrow parking space"
+    ],
+    "beats": [
+      "The driver approaches the tight space",
+      "The car is carefully steered",
+      "The car manoeuvres into place"
+    ],
+    "ending": "A driver manoeuvres a car into a narrow parking space.",
+    "artDirection": "No road markings with symbols, signs, license numbers, or logos."
+  },
+  {
+    "id": "kyc-2541",
+    "anchor": "song",
+    "sentence": "She sang the song into the microphone.",
+    "relation": "A microphone is a device that picks up sound and turns it into an electrical signal for recording or amplification.",
+    "setting": "A small music room",
+    "actor": "One singer performs a song into a plain handheld microphone.",
+    "props": [
+      "one singer",
+      "one plain microphone",
+      "one simple music stand"
+    ],
+    "beats": [
+      "The song begins",
+      "The singer holds the microphone near her mouth",
+      "Her voice enters the microphone"
+    ],
+    "ending": "A singer performs a song into a microphone.",
+    "artDirection": "No logos, writing, labels, or extra performers."
+  },
+  {
+    "id": "kyc-2542",
+    "anchor": "fight",
+    "sentence": "The militant would fight for political change.",
+    "relation": "A militant is a person who strongly supports a cause and is prepared to use force or confrontational action for it.",
+    "setting": "A quiet public square",
+    "actor": "One militant activist stands firmly at the edge of a protest, urging forceful change without a weapon.",
+    "props": [
+      "one activist",
+      "one plain stone barrier",
+      "one open square"
+    ],
+    "beats": [
+      "The activist chooses a cause",
+      "The activist takes a forceful stance",
+      "The militant would fight for change"
+    ],
+    "ending": "A militant activist takes a firm stand in a political struggle.",
+    "artDirection": "No weapons, violence, flags, signs, text, logos, or extra protesters."
+  },
+  {
+    "id": "kyc-2543",
+    "anchor": "wall",
+    "sentence": "The artist made a mosaic of colored tiles on the wall.",
+    "relation": "A mosaic is a picture or pattern made by arranging many small pieces of colored material.",
+    "setting": "A bright craft room",
+    "actor": "One artist places small colored tiles into a clear pattern on a wall.",
+    "props": [
+      "one artist",
+      "small colored tiles",
+      "one plain wall"
+    ],
+    "beats": [
+      "The artist selects the tiles",
+      "The pieces are fitted together",
+      "A mosaic pattern forms on the wall"
+    ],
+    "ending": "An artist forms a mosaic from colored tiles on a wall.",
+    "artDirection": "No letters, numbers, signs, or readable shapes in the mosaic."
+  },
+  {
+    "id": "kyc-2544",
+    "anchor": "ear",
+    "sentence": "He leaned toward his friend's ear to mutter a complaint.",
+    "relation": "To mutter is to speak quietly and indistinctly, often in dissatisfaction.",
+    "setting": "A quiet room",
+    "actor": "Exactly two adults: one leans close to the other's ear and speaks in a low, unclear voice.",
+    "props": [
+      "one speaker",
+      "one listening friend",
+      "one plain table"
+    ],
+    "beats": [
+      "The speaker feels dissatisfied",
+      "He lowers his voice near his friend's ear",
+      "He mutters a complaint"
+    ],
+    "ending": "A man mutters a complaint near his friend's ear.",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  },
+  {
+    "id": "kyc-2545",
+    "anchor": "table",
+    "sentence": "At the table, he used a napkin to wipe his hands.",
+    "relation": "A napkin is a small piece of cloth or paper used at a meal to wipe the hands or mouth.",
+    "setting": "A simple dining table",
+    "actor": "One diner wipes his hands with a plain cloth napkin after eating.",
+    "props": [
+      "one diner",
+      "one plain cloth napkin",
+      "one dining table"
+    ],
+    "beats": [
+      "The diner finishes his meal",
+      "He picks up the napkin",
+      "He wipes his hands"
+    ],
+    "ending": "A diner uses a napkin at the table to wipe his hands.",
+    "artDirection": "No packaging, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2546",
+    "anchor": "photo",
+    "sentence": "The old photo made her nostalgic for her childhood.",
+    "relation": "Nostalgic describes a wistful feeling for a time, place, or experience from the past.",
+    "setting": "A quiet living room",
+    "actor": "One woman looks fondly at an old family photo of a childhood playground.",
+    "props": [
+      "one woman",
+      "one old photo showing a simple playground",
+      "one small keepsake box"
+    ],
+    "beats": [
+      "She opens the keepsake box",
+      "An old photo brings back childhood memories",
+      "She feels nostalgic for the past"
+    ],
+    "ending": "An old photo makes a woman nostalgic for childhood.",
+    "artDirection": "Photo has no visible text, labels, or recognizable repeated people."
+  },
+  {
+    "id": "kyc-2547",
+    "anchor": "hand",
+    "sentence": "The witness raised her hand and took an oath in court.",
+    "relation": "An oath is a solemn promise, often made formally in court or before an authority.",
+    "setting": "A plain courtroom",
+    "actor": "One witness raises a hand while making a solemn promise beside a blank book.",
+    "props": [
+      "one witness",
+      "one plain closed book",
+      "one plain desk"
+    ],
+    "beats": [
+      "The witness stands before the court",
+      "She raises her hand",
+      "She takes an oath"
+    ],
+    "ending": "A witness raises a hand and takes an oath.",
+    "artDirection": "One person only; no writing, legal emblems, signs, or symbols."
+  },
+  {
+    "id": "kyc-2548",
+    "anchor": "radio",
+    "sentence": "The old radio became obsolete when newer machines arrived.",
+    "relation": "Obsolete describes something no longer used because it has been replaced by something newer or better.",
+    "setting": "A quiet home shelf",
+    "actor": "No people: an old radio sits unused beside a newer plain music player.",
+    "props": [
+      "one old radio",
+      "one newer music player",
+      "one bare shelf"
+    ],
+    "beats": [
+      "The old radio is used",
+      "Newer machines arrive",
+      "The radio becomes obsolete"
+    ],
+    "ending": "An old radio sits unused after a newer machine replaces it.",
+    "artDirection": "No brands, buttons with writing, labels, numbers, or logos."
+  },
+  {
+    "id": "kyc-2549",
+    "anchor": "ear",
+    "sentence": "As he passed the door, his ear caught a conversation he did not mean to overhear.",
+    "relation": "To overhear is to hear a conversation or remark without the speakers intending you to hear it.",
+    "setting": "A quiet hallway",
+    "actor": "One man passing a partly closed door happens to catch a conversation from the room inside.",
+    "props": [
+      "one man",
+      "one partly closed door",
+      "one visible ear turned toward the room"
+    ],
+    "beats": [
+      "The man walks past the door",
+      "A conversation carries through it",
+      "He accidentally overhears the words"
+    ],
+    "ending": "A passerby overhears a conversation through a partly closed door.",
+    "artDirection": "No speech bubbles, writing, symbols, or extra people."
+  },
+  {
+    "id": "kyc-2550",
+    "anchor": "fear",
+    "sentence": "Fear can paralyse a person during a crisis.",
+    "relation": "To paralyse is to make someone unable to move or act normally; fear can also leave someone unable to respond.",
+    "setting": "A safe room during a storm",
+    "actor": "One frightened person freezes in place as wind rattles a closed window.",
+    "props": [
+      "one frightened person",
+      "one closed window",
+      "one curtain moving in the wind"
+    ],
+    "beats": [
+      "A sudden storm begins",
+      "Fear overwhelms the person",
+      "The person is paralysed by fear"
+    ],
+    "ending": "Fear paralyses a person who freezes during a storm.",
+    "artDirection": "No injuries, disaster damage, text, or extra people."
+  },
+  {
+    "id": "kyc-2551",
+    "anchor": "road",
+    "sentence": "A passerby found a lost wallet beside the road.",
+    "relation": "A passerby is a person who happens to be going past a place.",
+    "setting": "A quiet country road",
+    "actor": "One pedestrian walking along the road notices a lost wallet on the ground.",
+    "props": [
+      "one pedestrian",
+      "one quiet road",
+      "one plain wallet"
+    ],
+    "beats": [
+      "The person walks along the road",
+      "A wallet is noticed on the ground",
+      "The passerby stops to pick it up"
+    ],
+    "ending": "A passerby finds a wallet beside the road.",
+    "artDirection": "No signs, license plates, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2552",
+    "anchor": "dog",
+    "sentence": "The dog lifted one paw to touch the ball.",
+    "relation": "A paw is the foot of an animal such as a dog, cat, or bear.",
+    "setting": "A quiet garden",
+    "actor": "One dog gently raises a front paw to touch a plain ball.",
+    "props": [
+      "one dog",
+      "one plain ball",
+      "one patch of grass"
+    ],
+    "beats": [
+      "The dog sees the ball",
+      "It lifts one paw",
+      "The paw touches the ball"
+    ],
+    "ending": "A dog touches a ball with one paw.",
+    "artDirection": "Show one dog with exactly four legs and one tail; no extra animals or people."
+  },
+  {
+    "id": "kyc-2553",
+    "anchor": "monkey",
+    "sentence": "The monkey cracked a peanut with its hands.",
+    "relation": "A peanut is an edible seed that grows underground in a pod and is often eaten as a snack.",
+    "setting": "A quiet forest clearing",
+    "actor": "One monkey carefully opens one peanut while seated on a low branch.",
+    "props": [
+      "one monkey",
+      "one peanut",
+      "one low branch"
+    ],
+    "beats": [
+      "The monkey finds a peanut",
+      "It holds the peanut with both hands",
+      "The shell cracks open"
+    ],
+    "ending": "A monkey cracks open a peanut.",
+    "artDirection": "One monkey only; anatomically plausible limbs and hands, no extra tail or text."
+  },
+  {
+    "id": "kyc-2554",
+    "anchor": "cup",
+    "sentence": "She placed a porcelain cup carefully on the table.",
+    "relation": "Porcelain is a hard, smooth white ceramic material used to make fine dishes and objects.",
+    "setting": "A quiet dining room",
+    "actor": "One woman carefully sets a delicate white porcelain cup on a plain table.",
+    "props": [
+      "one woman",
+      "one white porcelain cup",
+      "one plain table"
+    ],
+    "beats": [
+      "The woman lifts the cup",
+      "She places it gently on the table",
+      "The cup rests safely without breaking"
+    ],
+    "ending": "A woman carefully places a porcelain cup on the table.",
+    "artDirection": "No patterns containing letters or symbols, no logos, labels, or text."
+  },
+  {
+    "id": "kyc-2555",
+    "anchor": "smile",
+    "sentence": "Her radiant smile brightened the room.",
+    "relation": "Radiant means shining brightly or showing great joy and warmth.",
+    "setting": "A softly lit home room",
+    "actor": "One woman smiles warmly in a softly lit room.",
+    "props": [
+      "one woman",
+      "one softly lit room",
+      "one small window"
+    ],
+    "beats": [
+      "The room is quiet",
+      "The woman smiles with joy",
+      "Her radiant expression brightens the room"
+    ],
+    "ending": "A radiant smile brightens a room.",
+    "artDirection": "Change targetSense to 发光的；容光焕发的; use warm light, no literal rays, text, symbols, or duplicated faces."
+  },
+  {
+    "id": "kyc-2556",
+    "anchor": "money",
+    "sentence": "He paid money to redeem the watch he had pawned.",
+    "relation": "To redeem an item is to get it back by paying money or meeting a required condition.",
+    "setting": "A small pawnshop counter",
+    "actor": "One man gives unmarked coins to a shopkeeper and receives his watch back.",
+    "props": [
+      "one man",
+      "one plain watch",
+      "one small stack of unmarked coins"
+    ],
+    "beats": [
+      "The watch is held at the counter",
+      "The man pays money",
+      "He redeems and receives his watch"
+    ],
+    "ending": "A man pays money to redeem his watch.",
+    "artDirection": "No currency symbols, price tags, text, signs, or logos."
+  },
+  {
+    "id": "kyc-2557",
+    "anchor": "wire",
+    "sentence": "She wound the wire onto a reel.",
+    "relation": "A reel is a cylindrical device around which wire, film, or another long flexible material is wound.",
+    "setting": "A tidy workshop",
+    "actor": "One person winds a loose wire around a plain reel.",
+    "props": [
+      "one person",
+      "one loose wire",
+      "one plain reel"
+    ],
+    "beats": [
+      "The wire is uncoiled",
+      "The person guides it around the reel",
+      "The wire forms a neat coil"
+    ],
+    "ending": "Wire is wound neatly onto a reel.",
+    "artDirection": "No labels, numbers, logos, or extra people."
+  },
+  {
+    "id": "kyc-2558",
+    "anchor": "soup",
+    "sentence": "He learned to relish the warm soup after a cold walk.",
+    "relation": "To relish something is to enjoy it greatly, especially food or an experience.",
+    "setting": "A warm kitchen after a winter walk",
+    "actor": "One person happily tastes a bowl of hot soup after coming in from the cold.",
+    "props": [
+      "one person",
+      "one bowl of soup",
+      "one plain spoon"
+    ],
+    "beats": [
+      "The person returns from a cold walk",
+      "He tastes the warm soup",
+      "He learns to relish its comforting flavor"
+    ],
+    "ending": "A person relishes warm soup after a cold walk.",
+    "artDirection": "No food labels, text, symbols, or extra people."
+  },
+  {
+    "id": "kyc-2559",
+    "anchor": "book",
+    "sentence": "The shop sold the remainder of its book stock at a low price.",
+    "relation": "The remainder is what is left after some of a group or amount has been used or sold.",
+    "setting": "A small bookshop counter",
+    "actor": "One shopkeeper moves the last few plain books from a larger stack to a separate sale pile.",
+    "props": [
+      "one shopkeeper",
+      "one larger stack of plain books",
+      "one small remaining stack"
+    ],
+    "beats": [
+      "Most books are sold",
+      "A few books remain",
+      "The shop sells the remainder at a low price"
+    ],
+    "ending": "A shopkeeper sells the remaining books at a low price.",
+    "artDirection": "No price signs, numbers, writing, logos, or currency symbols."
+  },
+  {
+    "id": "kyc-2560",
+    "anchor": "red",
+    "sentence": "The salient red sail stood out against the gray harbor.",
+    "relation": "Salient describes something especially noticeable or important compared with what is around it.",
+    "setting": "A calm gray harbor",
+    "actor": "No people: one vivid red sail stands out clearly against muted boats and water.",
+    "props": [
+      "one red sail",
+      "one gray harbor",
+      "one plain boat"
+    ],
+    "beats": [
+      "The harbor stays muted and gray",
+      "A red sail catches the eye",
+      "The salient feature stands out"
+    ],
+    "ending": "A salient red sail stands out against a gray harbor.",
+    "artDirection": "No signs, flags, lettering, numbers, or logos."
+  }
+]

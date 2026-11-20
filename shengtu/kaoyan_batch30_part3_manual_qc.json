@@ -1,0 +1,108 @@
+{
+  "batch": 30,
+  "part": 3,
+  "reviews": [
+    {
+      "id": "kyc-1421",
+      "status": "pass",
+      "review": "孩子把球沿山坡滚下，斜坡关系清楚；人物肢体自然。"
+    },
+    {
+      "id": "kyc-1422",
+      "status": "pass",
+      "review": "复核通过：眼泪和孩子抱着玩具哭泣的情绪明确；记忆句随后改为与图一致的含泪呜咽。"
+    },
+    {
+      "id": "kyc-1423",
+      "status": "pass",
+      "review": "坦克驶过空旷战场，烟柱呈现战争环境；无伤亡人物或文字。"
+    },
+    {
+      "id": "kyc-1424",
+      "status": "pass",
+      "review": "幼龟和破裂蛋壳同框，juvenile 的幼年含义清楚；四肢自然。"
+    },
+    {
+      "id": "kyc-1425",
+      "status": "pass",
+      "review": "朝圣者手持无字地图，远处圣地可见，旅程场景明确。"
+    },
+    {
+      "id": "kyc-1426",
+      "status": "pass",
+      "review": "兔子跃过网，evade 的躲避义清楚；兔子四肢和尾部正常。"
+    },
+    {
+      "id": "kyc-1427",
+      "status": "pass",
+      "review": "海绵吸满水后滴水，saturate 的充满义清楚；无文字。"
+    },
+    {
+      "id": "kyc-1428",
+      "status": "pass",
+      "review": "玫瑰作为感谢的象征性礼物递给朋友，token 的象征义明确。"
+    },
+    {
+      "id": "kyc-1429",
+      "status": "pass",
+      "review": "打碎花瓶后人物愧疚地收拾碎片，良心不安的关系清晰且无伤害。"
+    },
+    {
+      "id": "kyc-1430",
+      "status": "pass",
+      "review": "连续降雨填满花园桶，continual 的持续义明确。"
+    },
+    {
+      "id": "kyc-1431",
+      "status": "pass",
+      "review": "蜜蜂从蜂巢出发采花蜜，勤劳含义清楚；昆虫轮廓自然。"
+    },
+    {
+      "id": "kyc-1432",
+      "status": "pass",
+      "review": "完整与破裂鸡蛋对照，直观例证蛋壳易碎；无标签文字。"
+    },
+    {
+      "id": "kyc-1433",
+      "status": "pass",
+      "review": "冰雹砸向屋顶，窗内观察者处于安全位置；无文字。"
+    },
+    {
+      "id": "kyc-1434",
+      "status": "pass",
+      "review": "珠子按数量分组并排列，numerical 的数量关系可见；无数字。"
+    },
+    {
+      "id": "kyc-1435",
+      "status": "pass",
+      "review": "书籍按大小整齐排列在书架上，orderly 清楚可见；书脊无字。"
+    },
+    {
+      "id": "kyc-1436",
+      "status": "pass",
+      "review": "复核通过：法官将空白授权文件交给穿无标记制服的警员，房屋在旁；无徽标或文字。",
+      "initialIssue": "首版有警员帽徽和肩章，重画后制服无徽章、星标、肩章图案或标志。"
+    },
+    {
+      "id": "kyc-1437",
+      "status": "pass",
+      "review": "牙医用镜子检查牙齿模型上的龋洞，dental 目标清楚；非血腥。"
+    },
+    {
+      "id": "kyc-1438",
+      "status": "pass",
+      "review": "苹果篮放在无数字秤上称重，kilogram 与苹果锚点同框。"
+    },
+    {
+      "id": "kyc-1439",
+      "status": "pass",
+      "review": "牧师在教堂讲坛布道，preach 含义直接；无文字。"
+    },
+    {
+      "id": "kyc-1440",
+      "status": "pass",
+      "review": "复核通过：工作人员查看无数字钟面时列车进站；衣物无徽章，车身无文字。",
+      "initialIssue": "首版工作人员帽子和制服有徽章，重画后改为无标记服装与空白钟面。"
+    }
+  ]
+}

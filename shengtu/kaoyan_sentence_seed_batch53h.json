@@ -1,0 +1,665 @@
+[
+  {
+    "id": "kyc-2736",
+    "word": "tanker",
+    "anchor": "sea",
+    "anchorMeaning": "海洋",
+    "relation": "A tanker is a large ship designed to carry oil or another liquid cargo in bulk.",
+    "sentence": "A tanker carried oil across the sea.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm open sea",
+      "actor": "No people: one large tanker carries oil across the water.",
+      "props": [
+        "one tanker",
+        "one calm sea",
+        "one distant horizon"
+      ],
+      "beats": [
+        "The tanker loads its cargo",
+        "It travels across the sea",
+        "The oil tanker moves steadily forward"
+      ],
+      "ending": "An oil tanker carries cargo across the sea."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No company logos, flags, writing, or signs."
+  },
+  {
+    "id": "kyc-2737",
+    "word": "Thanksgiving",
+    "anchor": "family",
+    "anchorMeaning": "家，家庭",
+    "relation": "Thanksgiving is a holiday celebrated in the United States and some other countries, often with a family meal of gratitude.",
+    "sentence": "The family shared a meal at Thanksgiving.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm dining room on Thanksgiving",
+      "actor": "Exactly two family members share a simple holiday meal at a table.",
+      "props": [
+        "two family members",
+        "one plain dinner table",
+        "one bowl of food"
+      ],
+      "beats": [
+        "The family gathers",
+        "They share a meal",
+        "They celebrate Thanksgiving together"
+      ],
+      "ending": "A family shares a meal at Thanksgiving."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no flags, religious symbols, text, labels, or logos."
+  },
+  {
+    "id": "kyc-2738",
+    "word": "thigh",
+    "anchor": "leg",
+    "anchorMeaning": "腿",
+    "relation": "The thigh is the part of the leg between the hip and the knee.",
+    "sentence": "The thigh is the upper part of the leg.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm anatomy classroom",
+      "actor": "One teacher points to the upper leg on a simple unlabelled body model.",
+      "props": [
+        "one teacher",
+        "one plain body model",
+        "one classroom table"
+      ],
+      "beats": [
+        "The leg is shown",
+        "The upper section is identified",
+        "The thigh is located above the knee"
+      ],
+      "ending": "The thigh is the upper part of the leg."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational model only; no labels, writing, or medical symbols."
+  },
+  {
+    "id": "kyc-2739",
+    "word": "thorn",
+    "anchor": "rose",
+    "anchorMeaning": "玫瑰，蔷薇",
+    "relation": "A thorn is a sharp point growing on the stem of some plants, such as roses.",
+    "sentence": "A thorn on the rose pricked her hand.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden",
+      "actor": "One gardener touches a rose stem and notices its thorn near her hand, without injury.",
+      "props": [
+        "one rose",
+        "one thorn on its stem",
+        "one gardener's hand"
+      ],
+      "beats": [
+        "The gardener reaches for the rose",
+        "The thorn touches her hand",
+        "She notices the sharp point"
+      ],
+      "ending": "A thorn on a rose pricks a gardener's hand without injury."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No blood or wound; one rose only, no extra people or text."
+  },
+  {
+    "id": "kyc-2740",
+    "word": "Thursday",
+    "anchor": "week",
+    "anchorMeaning": "星期，周",
+    "relation": "Thursday is the day of the week between Wednesday and Friday.",
+    "sentence": "Thursday comes near the end of the week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office late in the workweek",
+      "actor": "One worker closes a plain notebook as the workweek nears its end.",
+      "props": [
+        "one worker",
+        "one plain notebook",
+        "one simple desk"
+      ],
+      "beats": [
+        "The week is nearly finished",
+        "Thursday arrives",
+        "The worker gets close to the weekend"
+      ],
+      "ending": "Thursday comes near the end of the week."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2741",
+    "word": "Tuesday",
+    "anchor": "week",
+    "anchorMeaning": "星期，周",
+    "relation": "Tuesday is the day of the week between Monday and Wednesday.",
+    "sentence": "Tuesday comes early in the week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom early in the week",
+      "actor": "One student begins a school day at a plain desk.",
+      "props": [
+        "one student",
+        "one plain notebook",
+        "one classroom desk"
+      ],
+      "beats": [
+        "The week begins",
+        "Tuesday arrives",
+        "The student starts the day's work"
+      ],
+      "ending": "Tuesday comes early in the week."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, numbers, writing, or logos."
+  },
+  {
+    "id": "kyc-2742",
+    "word": "underlying",
+    "anchor": "problem",
+    "anchorMeaning": "问题，难题，困难",
+    "relation": "Underlying describes something hidden beneath the surface or serving as the basic cause of something.",
+    "sentence": "An underlying problem caused the machine to stop.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple repair workshop",
+      "actor": "One mechanic opens a plain machine and discovers a hidden loose wire causing it to stop.",
+      "props": [
+        "one mechanic",
+        "one plain machine",
+        "one loose wire"
+      ],
+      "beats": [
+        "The machine stops",
+        "The mechanic looks inside",
+        "An underlying problem is found"
+      ],
+      "ending": "A hidden underlying problem stops the machine."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No electrical sparks, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2743",
+    "word": "up-to-date",
+    "anchor": "news",
+    "anchorMeaning": "消息，新情况",
+    "relation": "Up-to-date describes information that is current and includes the newest facts or developments.",
+    "sentence": "The up-to-date report included the latest news.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet news desk",
+      "actor": "One reporter checks a fresh plain report beside a radio carrying current news.",
+      "props": [
+        "one reporter",
+        "one plain report",
+        "one simple radio"
+      ],
+      "beats": [
+        "New information arrives",
+        "The report is updated",
+        "The up-to-date report includes the latest news"
+      ],
+      "ending": "An up-to-date report includes the latest news."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Paper and radio have no writing, labels, screens, numbers, or logos."
+  },
+  {
+    "id": "kyc-2744",
+    "word": "vein",
+    "anchor": "heart",
+    "anchorMeaning": "心，心脏",
+    "relation": "A vein is a blood vessel that carries blood toward the heart.",
+    "sentence": "A vein carries blood back toward the heart.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm health classroom",
+      "actor": "One teacher points to a plain unlabelled model showing veins returning blood toward a heart.",
+      "props": [
+        "one teacher",
+        "one plain heart model",
+        "one simple vein model"
+      ],
+      "beats": [
+        "Blood moves through a vessel",
+        "The vein carries it toward the heart",
+        "The direction of flow is shown"
+      ],
+      "ending": "A vein carries blood back toward the heart."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational model only; no labels, text, or medical symbols."
+  },
+  {
+    "id": "kyc-2745",
+    "word": "velvet",
+    "anchor": "cloth",
+    "anchorMeaning": "布，布料",
+    "relation": "Velvet is a soft fabric with a dense pile of short fibers that gives it a smooth feel.",
+    "sentence": "Velvet is a soft cloth with a short, thick pile.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet fabric shop",
+      "actor": "One shopkeeper lets a customer feel a plain piece of velvet cloth.",
+      "props": [
+        "one shopkeeper",
+        "one customer",
+        "one piece of velvet cloth"
+      ],
+      "beats": [
+        "The cloth is unfolded",
+        "The customer touches its soft surface",
+        "The velvet feels smooth and thick"
+      ],
+      "ending": "A customer feels the soft pile of velvet cloth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no fabric labels, text, patterns with letters, or logos."
+  },
+  {
+    "id": "kyc-2746",
+    "word": "vinegar",
+    "anchor": "table",
+    "anchorMeaning": "桌子，台子",
+    "relation": "Vinegar is a sour liquid used in cooking, especially in dressings and pickling.",
+    "sentence": "The cook added vinegar to the salad at the table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen table",
+      "actor": "One cook pours a little vinegar over a fresh salad in a plain bowl.",
+      "props": [
+        "one cook",
+        "one small unlabelled vinegar bottle",
+        "one salad bowl"
+      ],
+      "beats": [
+        "The salad is prepared",
+        "The cook adds vinegar",
+        "The salad is ready to serve"
+      ],
+      "ending": "A cook adds vinegar to a salad at the table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No bottle labels, writing, logos, or extra people."
+  },
+  {
+    "id": "kyc-2747",
+    "word": "waken",
+    "anchor": "child",
+    "anchorMeaning": "儿童，小孩",
+    "relation": "To waken is to wake someone or cause them to stop sleeping.",
+    "sentence": "She tried to waken the child after the nap.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bedroom after a nap",
+      "actor": "One parent gently calls to one sleeping child beside the bed.",
+      "props": [
+        "one parent",
+        "one sleeping child",
+        "one bed"
+      ],
+      "beats": [
+        "The child finishes a nap",
+        "The parent calls gently",
+        "She tries to waken the child"
+      ],
+      "ending": "A parent tries to waken a child after a nap."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; calm scene with no alarm text, labels, or logos."
+  },
+  {
+    "id": "kyc-2748",
+    "word": "Wednesday",
+    "anchor": "week",
+    "anchorMeaning": "星期，周",
+    "relation": "Wednesday is the day of the week between Tuesday and Thursday.",
+    "sentence": "Wednesday falls in the middle of the week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study room midweek",
+      "actor": "One student studies at a plain desk during the middle of a school week.",
+      "props": [
+        "one student",
+        "one plain book",
+        "one desk"
+      ],
+      "beats": [
+        "The week begins",
+        "Several days pass",
+        "Wednesday arrives in the middle"
+      ],
+      "ending": "Wednesday falls in the middle of the week."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2749",
+    "word": "wicked",
+    "anchor": "thief",
+    "anchorMeaning": "贼，小偷，偷窃犯",
+    "relation": "Wicked describes someone morally bad or deliberately cruel; a thief is a familiar example of a wrongdoer.",
+    "sentence": "The wicked thief stole a child's toy.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet playroom",
+      "actor": "One thief sneaks away with a child's toy while one child watches in surprise.",
+      "props": [
+        "one thief",
+        "one child",
+        "one plain toy"
+      ],
+      "beats": [
+        "The child leaves a toy nearby",
+        "The thief steals it",
+        "The wicked act is revealed"
+      ],
+      "ending": "A wicked thief steals a child's toy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no violence, threatening tools, text, or symbols."
+  },
+  {
+    "id": "kyc-2750",
+    "word": "wink",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "To wink is to close and open one eye briefly, often as a signal or joke.",
+    "sentence": "She gave her friend a quick wink.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "Exactly two friends share a light moment as one gives the other a quick wink.",
+      "props": [
+        "two friends",
+        "one plain chair",
+        "one small table"
+      ],
+      "beats": [
+        "The friends meet",
+        "One friend closes one eye briefly",
+        "She gives her friend a wink"
+      ],
+      "ending": "One friend gives another a quick wink."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; show one eye closing naturally, no exaggerated facial distortion, text, or symbols."
+  },
+  {
+    "id": "kyc-2751",
+    "word": "yourselves",
+    "anchor": "work",
+    "anchorMeaning": "工作，职业",
+    "relation": "Yourselves is the plural reflexive pronoun referring back to the people being addressed; it can also add emphasis that they do something without help.",
+    "sentence": "You can do the work yourselves.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple work table",
+      "actor": "Exactly two people complete a small task together without outside help.",
+      "props": [
+        "two people",
+        "one plain work table",
+        "one small wooden model"
+      ],
+      "beats": [
+        "The pair starts the task",
+        "They work together unaided",
+        "They complete the work yourselves"
+      ],
+      "ending": "You can complete the work yourselves."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no writing, labels, or extra helpers."
+  },
+  {
+    "id": "kyc-2752",
+    "word": "zigzag",
+    "anchor": "road",
+    "anchorMeaning": "路，公路，马路，街",
+    "relation": "Zigzag describes a line or path that turns sharply in alternating directions.",
+    "sentence": "The road made a zigzag around the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet hill country",
+      "actor": "No people: a winding road bends in sharp alternating turns around a small hill.",
+      "props": [
+        "one road",
+        "one small hill",
+        "one distant tree"
+      ],
+      "beats": [
+        "The road approaches the hill",
+        "It turns sharply one way",
+        "It zigzags around the hill"
+      ],
+      "ending": "A road makes a zigzag around a hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No road signs, text, labels, or symbols."
+  }
+]

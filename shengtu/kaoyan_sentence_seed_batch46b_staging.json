@@ -1,0 +1,922 @@
+[
+  {
+    "id": "kyc-1901",
+    "anchor": "blocks",
+    "anchorMeaning": "积木",
+    "relation": "孩子用积木搭出一座微缩房屋，表现 miniature。",
+    "sentence": "The child built a miniature house from blocks.",
+    "scene": {
+      "setting": "A bright playroom",
+      "actor": "One child builds one miniature house from wooden blocks.",
+      "props": [
+        "one child",
+        "wooden blocks",
+        "one miniature house"
+      ],
+      "beats": [
+        "The child gathers the blocks",
+        "The child stacks them carefully",
+        "A miniature house takes shape"
+      ],
+      "ending": "One child builds a miniature house from blocks."
+    },
+    "artDirection": "One child assembling a small wooden block house. No letters, labels, or text."
+  },
+  {
+    "id": "kyc-1902",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "雨水和阳光滋养幼苗，表现 nourish。",
+    "sentence": "Rain and sunlight nourish the young plant.",
+    "scene": {
+      "setting": "A sunny garden bed after rain",
+      "actor": "One young plant grows in moist soil under warm sunlight.",
+      "props": [
+        "one young plant",
+        "rainwater",
+        "sunlight"
+      ],
+      "beats": [
+        "Rain moistens the soil",
+        "Sunlight reaches the leaves",
+        "The plant is nourished"
+      ],
+      "ending": "Rain and sunlight nourish one young plant."
+    },
+    "artDirection": "One small healthy plant in moist soil under warm sun. No labels or text."
+  },
+  {
+    "id": "kyc-1903",
+    "anchor": "ropes",
+    "anchorMeaning": "绳索",
+    "relation": "救援队带着绳索和头盔抵达，表现 outfit。",
+    "sentence": "A rescue outfit arrived with ropes and helmets.",
+    "scene": {
+      "setting": "A safe mountain training area",
+      "actor": "Exactly two rescuers arrive together carrying plain ropes and helmets.",
+      "props": [
+        "two rescuers",
+        "plain ropes",
+        "plain helmets"
+      ],
+      "beats": [
+        "The rescue outfit arrives",
+        "The rescuers prepare their gear",
+        "They stand ready to help"
+      ],
+      "ending": "A rescue outfit arrives with ropes and helmets."
+    },
+    "artDirection": "Exactly two rescuers with simple ropes and unmarked helmets. No logos, badges, signs, or text."
+  },
+  {
+    "id": "kyc-1904",
+    "anchor": "cloth",
+    "anchorMeaning": "布料",
+    "relation": "针能够穿透厚布，表现 penetrate。",
+    "sentence": "A needle can penetrate thick cloth.",
+    "scene": {
+      "setting": "A quiet sewing table",
+      "actor": "One hand guides a needle through a piece of thick cloth.",
+      "props": [
+        "one needle",
+        "thick cloth",
+        "one hand"
+      ],
+      "beats": [
+        "The needle approaches the cloth",
+        "It passes through the fibers",
+        "The cloth is pierced"
+      ],
+      "ending": "A needle penetrates thick cloth."
+    },
+    "artDirection": "Close view of a plain needle passing through thick fabric. No labels or writing."
+  },
+  {
+    "id": "kyc-1905",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "一棵高大的松树长在山路旁。",
+    "sentence": "A tall pine grew beside the mountain path.",
+    "scene": {
+      "setting": "A cool mountain path",
+      "actor": "One tall pine stands beside a winding mountain path.",
+      "props": [
+        "one pine tree",
+        "mountain path",
+        "open sky"
+      ],
+      "beats": [
+        "The path climbs uphill",
+        "The pine stands beside it",
+        "Its branches sway in the breeze"
+      ],
+      "ending": "One pine grows beside the mountain path."
+    },
+    "artDirection": "One tall pine beside a quiet mountain trail. No signs, writing, or text."
+  },
+  {
+    "id": "kyc-1906",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "他用旧破布擦拭木桌，表现 rag。",
+    "sentence": "He used an old rag to wipe the table.",
+    "scene": {
+      "setting": "A simple kitchen",
+      "actor": "One man wipes a wooden table with one old rag.",
+      "props": [
+        "one man",
+        "one old rag",
+        "one wooden table"
+      ],
+      "beats": [
+        "The table is dusty",
+        "The man wets the rag",
+        "He wipes the surface clean"
+      ],
+      "ending": "One man wipes a table with an old rag."
+    },
+    "artDirection": "One person cleaning a plain table with a worn blank cloth. No text."
+  },
+  {
+    "id": "kyc-1907",
+    "anchor": "villager",
+    "anchorMeaning": "村民",
+    "relation": "村民拒绝统治者命令，反抗从宫门前开始。",
+    "sentence": "The rebellion began when villagers refused the ruler’s orders.",
+    "scene": {
+      "setting": "A plain palace gate",
+      "actor": "One villager stands firm before one ruler at the palace gate, refusing an order.",
+      "props": [
+        "one villager",
+        "one ruler",
+        "one palace gate"
+      ],
+      "beats": [
+        "The ruler gives an order",
+        "The villager refuses to yield",
+        "A rebellion begins at the gate"
+      ],
+      "ending": "One villager’s refusal marks the start of rebellion."
+    },
+    "artDirection": "Exactly two people facing each other at a plain palace gate, one calmly refusing the ruler. No weapons, flags, signs, or text."
+  },
+  {
+    "id": "kyc-1908",
+    "anchor": "spring",
+    "anchorMeaning": "弹簧",
+    "relation": "弹簧被压下后弹回来，体现 resilient。",
+    "sentence": "The resilient spring bounced back after being pressed.",
+    "scene": {
+      "setting": "A small work table",
+      "actor": "One metal spring rebounds after a hand presses it down.",
+      "props": [
+        "one metal spring",
+        "one hand",
+        "one plain table"
+      ],
+      "beats": [
+        "The spring stands upright",
+        "A hand presses it down",
+        "It bounces back resiliently"
+      ],
+      "ending": "One resilient spring bounces back after pressure."
+    },
+    "artDirection": "A plain metal spring returning to shape after being pressed by one hand. No labels or text."
+  },
+  {
+    "id": "kyc-1909",
+    "anchor": "plain",
+    "anchorMeaning": "平原",
+    "relation": "狮子的咆哮在开阔平原上回荡。",
+    "sentence": "A lion let out a roar across the plain.",
+    "scene": {
+      "setting": "A broad grassy plain",
+      "actor": "One lion roars from a low rocky ledge across the open plain.",
+      "props": [
+        "one lion",
+        "one rocky ledge",
+        "open plain"
+      ],
+      "beats": [
+        "The lion lifts its head",
+        "It opens its mouth to roar",
+        "The sound carries over the plain"
+      ],
+      "ending": "One lion roars across the plain."
+    },
+    "artDirection": "One lion roaring on a rocky rise above a peaceful plain. No sound words or text."
+  },
+  {
+    "id": "kyc-1910",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "relation": "农夫把羊和山羊分开，表现 segregate。",
+    "sentence": "The farmer will segregate the sheep from the goats.",
+    "scene": {
+      "setting": "A calm farmyard with two pens",
+      "actor": "One farmer guides sheep into one pen and goats into another.",
+      "props": [
+        "one farmer",
+        "sheep",
+        "goats"
+      ],
+      "beats": [
+        "The animals gather together",
+        "The farmer separates them",
+        "Sheep and goats stand in different pens"
+      ],
+      "ending": "The farmer segregates sheep from goats."
+    },
+    "artDirection": "A farmer separating sheep and goats into two simple pens. No signs, writing, or text."
+  },
+  {
+    "id": "kyc-1911",
+    "anchor": "breeze",
+    "anchorMeaning": "微风",
+    "relation": "凉爽微风吹过她的脸，带来舒适的感觉。",
+    "sentence": "The cool breeze was a pleasant sensation on her face.",
+    "scene": {
+      "setting": "A sunny garden",
+      "actor": "One woman closes her eyes and enjoys a cool breeze on her face.",
+      "props": [
+        "one woman",
+        "cool breeze",
+        "garden flowers"
+      ],
+      "beats": [
+        "The breeze passes through the garden",
+        "It touches her face",
+        "She enjoys the pleasant sensation"
+      ],
+      "ending": "A cool breeze is a pleasant sensation."
+    },
+    "artDirection": "One woman enjoying a gentle garden breeze. No motion arrows, symbols, or text."
+  },
+  {
+    "id": "kyc-1912",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "relation": "一棵细长的树立在小路旁边。",
+    "sentence": "A slender tree stood beside the path.",
+    "scene": {
+      "setting": "A quiet park path",
+      "actor": "One tall slender tree grows beside a simple path.",
+      "props": [
+        "one slender tree",
+        "one path",
+        "open sky"
+      ],
+      "beats": [
+        "The path crosses the park",
+        "A slim tree stands at its edge",
+        "The tree rises straight and slender"
+      ],
+      "ending": "One slender tree stands beside a path."
+    },
+    "artDirection": "One slim tree growing beside a park path. No signs or text."
+  },
+  {
+    "id": "kyc-1913",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "雨后湿石阶很滑，行人小心踩踏。",
+    "sentence": "The wet steps became slippery after rain.",
+    "scene": {
+      "setting": "A stone path after rain",
+      "actor": "One careful walker steps cautiously on wet stone steps.",
+      "props": [
+        "one walker",
+        "wet stone steps",
+        "rain puddles"
+      ],
+      "beats": [
+        "Rain wets the steps",
+        "The walker approaches carefully",
+        "The slippery surface makes each step cautious"
+      ],
+      "ending": "Wet steps become slippery after rain."
+    },
+    "artDirection": "One person carefully stepping across wet stone steps. No falls, signs, or text."
+  },
+  {
+    "id": "kyc-1914",
+    "anchor": "sunset",
+    "anchorMeaning": "日落",
+    "relation": "日落时西南海岸泛起暖红色光。",
+    "sentence": "The southwest coast glowed at sunset.",
+    "scene": {
+      "setting": "A quiet coastline at sunset",
+      "actor": "A southwest-facing coast glows in warm evening light.",
+      "props": [
+        "one coast",
+        "setting sun",
+        "calm ocean"
+      ],
+      "beats": [
+        "The sun lowers toward the horizon",
+        "Evening light reaches the southwest coast",
+        "The coast glows warmly"
+      ],
+      "ending": "The southwest coast glows at sunset."
+    },
+    "artDirection": "A calm coast glowing at sunset, with no map, compass, labels, or text."
+  },
+  {
+    "id": "kyc-1915",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "一只雨燕从桥下飞掠而过。",
+    "sentence": "A swift darted under the bridge.",
+    "scene": {
+      "setting": "A calm river under a stone bridge",
+      "actor": "One swift bird darts beneath one stone bridge.",
+      "props": [
+        "one swift bird",
+        "one stone bridge",
+        "river"
+      ],
+      "beats": [
+        "The bird appears above the river",
+        "It dives under the bridge",
+        "It darts across the water"
+      ],
+      "ending": "One swift flies beneath a bridge."
+    },
+    "artDirection": "One small swift bird darting under a plain bridge. No extra birds or text."
+  },
+  {
+    "id": "kyc-1916",
+    "anchor": "newspaper",
+    "anchorMeaning": "报纸",
+    "relation": "审查制度用黑条遮住报纸上的内容。",
+    "sentence": "Censorship covered several newspaper passages with black bars.",
+    "scene": {
+      "setting": "A quiet newsroom desk",
+      "actor": "One censor covers blank newspaper columns with broad black bars.",
+      "props": [
+        "one blank newspaper",
+        "black censor bars",
+        "one desk"
+      ],
+      "beats": [
+        "The blank page is examined",
+        "Black bars cover several columns",
+        "Censorship hides the passages"
+      ],
+      "ending": "Black bars cover a newspaper under censorship."
+    },
+    "artDirection": "A blank newspaper page partly obscured by plain black bars. No letters, headlines, or readable text."
+  },
+  {
+    "id": "kyc-1917",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "硬币滑进窄槽里，表现 slot。",
+    "sentence": "The coin slid through the narrow slot.",
+    "scene": {
+      "setting": "A simple wooden box on a table",
+      "actor": "One coin drops through one narrow slot in a plain box.",
+      "props": [
+        "one coin",
+        "one narrow slot",
+        "one plain box"
+      ],
+      "beats": [
+        "The coin approaches the box",
+        "It reaches the narrow slot",
+        "It slides through"
+      ],
+      "ending": "One coin slips through one narrow slot."
+    },
+    "artDirection": "A single plain coin slipping into a narrow slot in an unmarked box. No numbers or text."
+  },
+  {
+    "id": "kyc-1918",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "她点头肯定朋友的回答，表现 affirm。",
+    "sentence": "She nodded to affirm her friend’s answer.",
+    "scene": {
+      "setting": "A quiet conversation at a table",
+      "actor": "One woman nods warmly to affirm one friend’s answer.",
+      "props": [
+        "one woman",
+        "one friend",
+        "one table"
+      ],
+      "beats": [
+        "The friend gives an answer",
+        "The woman listens",
+        "She nods to affirm it"
+      ],
+      "ending": "One woman nods to affirm her friend’s answer."
+    },
+    "artDirection": "Exactly two friends at a plain table, one nodding in agreement. No speech bubbles or text."
+  },
+  {
+    "id": "kyc-1919",
+    "anchor": "roots",
+    "anchorMeaning": "根",
+    "relation": "植物根部从土壤中吸收水分和养分。",
+    "sentence": "The roots assimilate water and nutrients from the soil.",
+    "scene": {
+      "setting": "A garden cutaway view",
+      "actor": "One plant’s roots absorb water and nutrients underground.",
+      "props": [
+        "one plant",
+        "roots",
+        "soil"
+      ],
+      "beats": [
+        "Water reaches the roots",
+        "The roots absorb nutrients",
+        "The plant uses what it assimilates"
+      ],
+      "ending": "Roots assimilate water and nutrients from soil."
+    },
+    "artDirection": "A simple cutaway of a plant’s roots among moist soil, with no labels, arrows, or text."
+  },
+  {
+    "id": "kyc-1920",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "蛋糕掉落时，他开始皱眉。",
+    "sentence": "He began to frown when the cake fell.",
+    "scene": {
+      "setting": "A kitchen table",
+      "actor": "One child frowns as a small cake tips onto the floor.",
+      "props": [
+        "one child",
+        "one small cake",
+        "kitchen floor"
+      ],
+      "beats": [
+        "The cake slips off the table",
+        "It falls to the floor",
+        "The child frowns"
+      ],
+      "ending": "One child frowns when the cake falls."
+    },
+    "artDirection": "One child with a clear frown beside a fallen small cake. No writing or text."
+  },
+  {
+    "id": "kyc-1921",
+    "anchor": "crab",
+    "anchorMeaning": "螃蟹",
+    "relation": "螃蟹在湿沙上向侧面移动，表现 lateral。",
+    "sentence": "The crab made a lateral move across the wet sand.",
+    "scene": {
+      "setting": "A quiet beach at low tide",
+      "actor": "One crab moves sideways across the wet sand.",
+      "props": [
+        "one crab",
+        "wet sand",
+        "shoreline"
+      ],
+      "beats": [
+        "The crab pauses",
+        "It shifts sideways",
+        "It continues laterally along the shore"
+      ],
+      "ending": "One crab makes a lateral move across the sand."
+    },
+    "artDirection": "One crab clearly moving sideways across wet sand. No arrows, labels, or text."
+  },
+  {
+    "id": "kyc-1922",
+    "anchor": "story",
+    "anchorMeaning": "故事",
+    "relation": "作者在故事前加上一段简短前言。",
+    "sentence": "The author added a short preface before the story.",
+    "scene": {
+      "setting": "A quiet writing desk",
+      "actor": "One author opens a blank book to its first pages.",
+      "props": [
+        "one author",
+        "one blank book",
+        "one desk"
+      ],
+      "beats": [
+        "The author prepares the book",
+        "A short preface is placed before the story",
+        "The book is ready to read"
+      ],
+      "ending": "An author adds a preface before the story."
+    },
+    "artDirection": "One author with an open book showing blank first pages. No writing, labels, or text."
+  },
+  {
+    "id": "kyc-1923",
+    "anchor": "teacher",
+    "anchorMeaning": "老师",
+    "relation": "学生向老师询问作业的问题。",
+    "sentence": "The student paused to query the teacher about the homework.",
+    "scene": {
+      "setting": "A quiet classroom",
+      "actor": "One student raises a hand to query one teacher.",
+      "props": [
+        "one student",
+        "one teacher",
+        "one classroom"
+      ],
+      "beats": [
+        "The student studies the homework",
+        "The student raises a hand",
+        "The teacher listens to the query"
+      ],
+      "ending": "One student queries the teacher about homework."
+    },
+    "artDirection": "Exactly one student and one teacher in a calm classroom, student politely asking a question. No speech bubbles or text."
+  },
+  {
+    "id": "kyc-1924",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "一滩水溅到厨房地砖上，表现 splash。",
+    "sentence": "A splash of water landed on the kitchen floor.",
+    "scene": {
+      "setting": "A clean kitchen floor",
+      "actor": "One small splash of water spreads across the tile floor.",
+      "props": [
+        "water",
+        "one splash",
+        "tile floor"
+      ],
+      "beats": [
+        "Water spills from a cup",
+        "It hits the tile",
+        "A splash spreads across the floor"
+      ],
+      "ending": "A splash of water lands on the floor."
+    },
+    "artDirection": "A small clear splash of water on clean kitchen tiles. No writing or text."
+  },
+  {
+    "id": "kyc-1925",
+    "anchor": "puddle",
+    "anchorMeaning": "水坑",
+    "relation": "他大步跨过路上的水坑，表现 stride。",
+    "sentence": "He took a long stride over the puddle.",
+    "scene": {
+      "setting": "A quiet path after rain",
+      "actor": "One man takes one long stride across a puddle.",
+      "props": [
+        "one man",
+        "one puddle",
+        "one path"
+      ],
+      "beats": [
+        "He approaches the puddle",
+        "He takes a long step",
+        "He strides safely over it"
+      ],
+      "ending": "One man strides over one puddle."
+    },
+    "artDirection": "One person taking a clear long stride over a small puddle. No text."
+  },
+  {
+    "id": "kyc-1926",
+    "anchor": "tire",
+    "anchorMeaning": "轮胎",
+    "relation": "打气筒把空气压进轮胎，表现 compress。",
+    "sentence": "The pump can compress air inside the tire.",
+    "scene": {
+      "setting": "A simple bicycle repair area",
+      "actor": "One hand pump pushes air into one bicycle tire.",
+      "props": [
+        "one hand pump",
+        "one tire",
+        "air"
+      ],
+      "beats": [
+        "The tire is partly flat",
+        "The pump is pressed down",
+        "Air is compressed inside the tire"
+      ],
+      "ending": "A pump compresses air into a tire."
+    },
+    "artDirection": "One plain bicycle pump connected to a tire. No pressure numbers, labels, or text."
+  },
+  {
+    "id": "kyc-1927",
+    "anchor": "smoke",
+    "anchorMeaning": "烟",
+    "relation": "烟雾开始弥漫到整个房间，表现 diffuse。",
+    "sentence": "Smoke began to diffuse through the room.",
+    "scene": {
+      "setting": "A bright room with an open window",
+      "actor": "Thin harmless smoke spreads gradually through the room toward an open window.",
+      "props": [
+        "smoke",
+        "one room",
+        "one open window"
+      ],
+      "beats": [
+        "A thin wisp appears",
+        "It spreads through the air",
+        "It diffuses toward the window"
+      ],
+      "ending": "Smoke diffuses through a room."
+    },
+    "artDirection": "Thin harmless smoke spreading in a bright room and drifting toward an open window. No fire, signs, or text."
+  },
+  {
+    "id": "kyc-1928",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "她透过薄雾辨认出远处的小船。",
+    "sentence": "She could discern a boat through the mist.",
+    "scene": {
+      "setting": "A quiet shore in light mist",
+      "actor": "One woman looks toward a small boat barely visible through mist.",
+      "props": [
+        "one woman",
+        "one distant boat",
+        "soft mist"
+      ],
+      "beats": [
+        "The woman scans the water",
+        "A boat appears faintly",
+        "She discerns it through the mist"
+      ],
+      "ending": "One woman discerns a boat through the mist."
+    },
+    "artDirection": "A small boat faintly visible through mist as one person watches from shore. No labels or text."
+  },
+  {
+    "id": "kyc-1929",
+    "anchor": "neighbor",
+    "anchorMeaning": "邻居",
+    "relation": "她帮助邻居提购物袋，体现善良。",
+    "sentence": "Her goodness showed when she helped a neighbor.",
+    "scene": {
+      "setting": "A quiet home doorway",
+      "actor": "One woman helps one neighbor carry grocery bags.",
+      "props": [
+        "one woman",
+        "one neighbor",
+        "grocery bags"
+      ],
+      "beats": [
+        "The neighbor struggles with bags",
+        "The woman steps in to help",
+        "Her goodness is clear"
+      ],
+      "ending": "One woman’s goodness shows in helping a neighbor."
+    },
+    "artDirection": "Exactly two neighbors carrying plain grocery bags together. No logos or text."
+  },
+  {
+    "id": "kyc-1930",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "失去陪伴多年的老狗后，他们彼此安慰悲伤。",
+    "sentence": "They grieve together after losing their old dog.",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "Two friends comfort each other beside an empty dog bed and unused leash.",
+      "props": [
+        "two friends",
+        "one empty dog bed",
+        "one unused leash"
+      ],
+      "beats": [
+        "They remember their old dog",
+        "Their sadness shows",
+        "They grieve together"
+      ],
+      "ending": "Two friends grieve the loss of their old dog."
+    },
+    "artDirection": "Exactly two people quietly comforting each other beside an empty dog bed. No words or text."
+  },
+  {
+    "id": "kyc-1931",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "朋友说话时，他保持沉默。",
+    "sentence": "He stayed mute while his friend spoke.",
+    "scene": {
+      "setting": "A quiet sitting room",
+      "actor": "One silent man listens while one friend speaks calmly.",
+      "props": [
+        "one man",
+        "one friend",
+        "one sitting room"
+      ],
+      "beats": [
+        "The friend begins talking",
+        "The man remains silent",
+        "He stays mute"
+      ],
+      "ending": "One man stays mute while his friend speaks."
+    },
+    "artDirection": "Exactly two friends in a calm conversation, one listening silently. No speech bubbles or text."
+  },
+  {
+    "id": "kyc-1932",
+    "anchor": "lane",
+    "anchorMeaning": "小巷",
+    "relation": "狭窄小巷蜿蜒穿过拥挤的贫民窟住宅。",
+    "sentence": "The narrow lane wound between crowded homes in the slum.",
+    "scene": {
+      "setting": "A dense neighborhood of small homes",
+      "actor": "A narrow lane winds between closely spaced modest homes.",
+      "props": [
+        "one narrow lane",
+        "crowded homes",
+        "small courtyard"
+      ],
+      "beats": [
+        "The homes stand close together",
+        "The lane passes between them",
+        "The neighborhood forms a slum"
+      ],
+      "ending": "A lane winds between crowded homes in the slum."
+    },
+    "artDirection": "A respectful view of a narrow lane between modest densely spaced homes. No signs or text."
+  },
+  {
+    "id": "kyc-1933",
+    "anchor": "barn",
+    "anchorMeaning": "谷仓",
+    "relation": "农夫把稻草铺在谷仓地板上。",
+    "sentence": "The farmer spread straw over the barn floor.",
+    "scene": {
+      "setting": "A clean barn interior",
+      "actor": "One farmer spreads a layer of straw across the barn floor.",
+      "props": [
+        "one farmer",
+        "straw",
+        "one barn floor"
+      ],
+      "beats": [
+        "The floor is bare",
+        "The farmer lays down straw",
+        "The floor is covered"
+      ],
+      "ending": "One farmer spreads straw on the barn floor."
+    },
+    "artDirection": "One farmer laying clean straw across a simple barn floor. No labels or text."
+  },
+  {
+    "id": "kyc-1934",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "坚固的小桥提供一条可行的过溪路线。",
+    "sentence": "A sturdy footbridge offered a viable way across the stream.",
+    "scene": {
+      "setting": "A wooded stream crossing",
+      "actor": "Two hikers approach one sturdy footbridge across a stream.",
+      "props": [
+        "two hikers",
+        "one footbridge",
+        "one stream"
+      ],
+      "beats": [
+        "The hikers reach the stream",
+        "They inspect the bridge",
+        "The crossing proves viable"
+      ],
+      "ending": "A sturdy bridge offers a viable crossing."
+    },
+    "artDirection": "Exactly two hikers looking at a safe footbridge across a stream. No signs or text."
+  },
+  {
+    "id": "kyc-1935",
+    "anchor": "tea",
+    "anchorMeaning": "茶",
+    "relation": "忙完拼图后，他们坐下喝茶。",
+    "sentence": "They shared tea afterward.",
+    "scene": {
+      "setting": "A cozy table after a puzzle",
+      "actor": "Two friends share tea beside a completed blank jigsaw puzzle.",
+      "props": [
+        "two friends",
+        "two plain tea cups",
+        "completed jigsaw puzzle"
+      ],
+      "beats": [
+        "They finish the puzzle",
+        "They sit down together",
+        "They share tea afterward"
+      ],
+      "ending": "Two friends share tea afterward."
+    },
+    "artDirection": "Exactly two friends drinking tea beside a completed puzzle with no writing. No labels or text."
+  },
+  {
+    "id": "kyc-1936",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "一位温柔的天使守护着熟睡的孩子。",
+    "sentence": "A small angel watched over the sleeping child.",
+    "scene": {
+      "setting": "A peaceful bedroom at night",
+      "actor": "One gentle winged angel watches over one sleeping child.",
+      "props": [
+        "one angel",
+        "one sleeping child",
+        "one bed"
+      ],
+      "beats": [
+        "The child falls asleep",
+        "The angel watches quietly",
+        "The room remains peaceful"
+      ],
+      "ending": "A gentle angel watches over a sleeping child."
+    },
+    "artDirection": "One kind winged angel beside a sleeping child, with no halo, cross, or text."
+  },
+  {
+    "id": "kyc-1937",
+    "anchor": "tea",
+    "anchorMeaning": "茶",
+    "relation": "他把盐倒进茶里，犯了一个大错。",
+    "sentence": "He made a blunder by pouring salt into the tea.",
+    "scene": {
+      "setting": "A simple kitchen counter",
+      "actor": "One man accidentally pours salt into a cup of tea and looks shocked.",
+      "props": [
+        "one man",
+        "one salt shaker",
+        "one tea cup"
+      ],
+      "beats": [
+        "He reaches for a shaker",
+        "Salt falls into the tea",
+        "He realizes his blunder"
+      ],
+      "ending": "One man makes a blunder by salting his tea."
+    },
+    "artDirection": "One person noticing salt in a tea cup with a surprised expression. No labels or text."
+  },
+  {
+    "id": "kyc-1938",
+    "anchor": "phone",
+    "anchorMeaning": "电话",
+    "relation": "她从木制电话亭里打电话。",
+    "sentence": "She made a call from the wooden phone booth.",
+    "scene": {
+      "setting": "A quiet street corner",
+      "actor": "One woman uses a plain phone inside a wooden phone booth.",
+      "props": [
+        "one woman",
+        "one wooden phone booth",
+        "one plain phone"
+      ],
+      "beats": [
+        "She enters the booth",
+        "She lifts the receiver",
+        "She makes a call"
+      ],
+      "ending": "One woman makes a call from a phone booth."
+    },
+    "artDirection": "One simple wooden phone booth with a woman using a plain phone. No signs, numbers, or text."
+  },
+  {
+    "id": "kyc-1939",
+    "anchor": "man",
+    "anchorMeaning": "男人",
+    "relation": "老人用手指夹着一支未点燃的雪茄。",
+    "sentence": "The old man held an unlit cigar between his fingers.",
+    "scene": {
+      "setting": "A quiet sitting room",
+      "actor": "One old man holds one unlit cigar without smoking it.",
+      "props": [
+        "one old man",
+        "one unlit cigar",
+        "one chair"
+      ],
+      "beats": [
+        "The man sits quietly",
+        "He holds the cigar",
+        "The cigar remains unlit"
+      ],
+      "ending": "One old man holds an unlit cigar."
+    },
+    "artDirection": "One older man holding one unlit plain cigar. No smoke, labels, or text."
+  },
+  {
+    "id": "kyc-1940",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "relation": "教练会表扬归还丢失球的球员。",
+    "sentence": "The coach will commend the player for returning the lost ball.",
+    "scene": {
+      "setting": "A plain sports field",
+      "actor": "One coach praises one player who returns one lost ball.",
+      "props": [
+        "one coach",
+        "one player",
+        "one plain ball"
+      ],
+      "beats": [
+        "The player finds the ball",
+        "He returns it to the coach",
+        "The coach commends him"
+      ],
+      "ending": "One coach commends a player for returning a ball."
+    },
+    "artDirection": "Exactly two people on a plain sports field, coach warmly praising the player with one ball. No logos, badges, or text."
+  }
+]

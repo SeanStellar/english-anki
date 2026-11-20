@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2386",
+    "anchor": "song",
+    "sentence": "The song filled the church as the choir sang.",
+    "relation": "A choir is an organized group of people who sing together.",
+    "setting": "A simple church interior without symbols",
+    "actor": "Exactly two choir members sing together from one plain songbook in a quiet church.",
+    "props": [
+      "two choir members",
+      "one plain songbook",
+      "one simple church room"
+    ],
+    "beats": [
+      "The singers gather",
+      "They sing the song together",
+      "Their voices form a choir"
+    ],
+    "ending": "Two choir members sing a song together.",
+    "artDirection": "No crosses, religious icons, writing, sheet music notes, or extra singers."
+  },
+  {
+    "id": "kyc-2387",
+    "anchor": "rain",
+    "sentence": "He wore a cloak against the rain.",
+    "relation": "A cloak is a loose outer garment worn over other clothes for warmth or protection.",
+    "setting": "A country path during light rain",
+    "actor": "One traveler wears a plain long cloak while walking in light rain.",
+    "props": [
+      "one traveler",
+      "one plain cloak",
+      "one rain-darkened path"
+    ],
+    "beats": [
+      "Rain begins to fall",
+      "The traveler puts on a cloak",
+      "The cloak protects him from the rain"
+    ],
+    "ending": "A traveler wears a cloak in the rain.",
+    "artDirection": "No cloak patterns, emblems, text, or logos; no rain icons."
+  },
+  {
+    "id": "kyc-2388",
+    "anchor": "stage",
+    "sentence": "The young dancer made her debut on the stage.",
+    "relation": "A debut is a person's first public appearance or performance.",
+    "setting": "A small theater stage before the audience arrives",
+    "actor": "One young dancer performs her first bow on a plain stage.",
+    "props": [
+      "one young dancer",
+      "one plain stage",
+      "one curtain"
+    ],
+    "beats": [
+      "The dancer steps onto the stage",
+      "She performs for the first time",
+      "She takes her debut bow"
+    ],
+    "ending": "A young dancer makes her debut on stage.",
+    "artDirection": "No audience, posters, stage signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2389",
+    "anchor": "roof",
+    "sentence": "The family built a dwelling beneath a sturdy roof.",
+    "relation": "A dwelling is a place where people live.",
+    "setting": "A simple countryside home",
+    "actor": "Exactly two family members finish a small dwelling beneath a sturdy roof.",
+    "props": [
+      "two family members",
+      "one small dwelling",
+      "one sturdy roof"
+    ],
+    "beats": [
+      "The walls are raised",
+      "The roof is placed on top",
+      "The dwelling becomes ready to live in"
+    ],
+    "ending": "A family finishes a dwelling beneath a sturdy roof.",
+    "artDirection": "Exactly two people; no house numbers, signs, writing, or logos."
+  },
+  {
+    "id": "kyc-2390",
+    "anchor": "sun",
+    "sentence": "The sun can harden the wet clay.",
+    "relation": "To harden is to become firm or solid.",
+    "setting": "A sunny pottery yard",
+    "actor": "No people: one lump of wet clay dries and hardens in the sun beside a clay pot.",
+    "props": [
+      "one lump of clay",
+      "one plain clay pot",
+      "one patch of sunlight"
+    ],
+    "beats": [
+      "The clay is soft",
+      "Sun warms and dries it",
+      "The clay hardens into a firm shape"
+    ],
+    "ending": "Sunlight hardens wet clay beside a pot.",
+    "artDirection": "No signs, text, or symbols; keep clay visibly firming."
+  },
+  {
+    "id": "kyc-2391",
+    "anchor": "air",
+    "sentence": "The swimmer had to inhale air before diving.",
+    "relation": "To inhale is to breathe air into the lungs.",
+    "setting": "A quiet poolside",
+    "actor": "One swimmer takes a deep breath of air before entering the water.",
+    "props": [
+      "one swimmer",
+      "one pool edge",
+      "one towel"
+    ],
+    "beats": [
+      "The swimmer stands by the pool",
+      "The swimmer inhales deeply",
+      "The swimmer prepares to dive"
+    ],
+    "ending": "A swimmer inhales air before diving.",
+    "artDirection": "One swimmer only; no bubbles around the face, text, or symbols."
+  },
+  {
+    "id": "kyc-2392",
+    "anchor": "friend",
+    "sentence": "They had to mourn their friend after the funeral.",
+    "relation": "To mourn is to feel or show sorrow after someone has died or been lost.",
+    "setting": "A quiet garden after a funeral",
+    "actor": "Exactly two friends stand together in silence beside a simple flower arrangement.",
+    "props": [
+      "two friends",
+      "one simple flower arrangement",
+      "one garden bench"
+    ],
+    "beats": [
+      "The friends remember someone they lost",
+      "They stand together quietly",
+      "They mourn their friend"
+    ],
+    "ending": "Two friends mourn a friend in a quiet garden.",
+    "artDirection": "Exactly two people; gentle, respectful mood; no grave, text, religious symbols, or distress."
+  },
+  {
+    "id": "kyc-2393",
+    "anchor": "wall",
+    "sentence": "The crack in the wall will necessitate a repair.",
+    "relation": "To necessitate is to make something necessary or unavoidable.",
+    "setting": "A plain home interior",
+    "actor": "One homeowner points at a clear crack in a wall that needs repair.",
+    "props": [
+      "one homeowner",
+      "one cracked wall",
+      "one plain repair tool"
+    ],
+    "beats": [
+      "The crack appears",
+      "The homeowner notices it",
+      "The crack necessitates a repair"
+    ],
+    "ending": "A crack in the wall makes a repair necessary.",
+    "artDirection": "No labels, text, symbols, or extra people."
+  },
+  {
+    "id": "kyc-2394",
+    "anchor": "road",
+    "sentence": "A fallen tree can obstruct the road.",
+    "relation": "To obstruct is to block or get in the way of movement or progress.",
+    "setting": "A quiet country road after a storm",
+    "actor": "No people: one fallen tree blocks the full width of a narrow road.",
+    "props": [
+      "one fallen tree",
+      "one blocked road",
+      "one roadside ditch"
+    ],
+    "beats": [
+      "The tree falls across the road",
+      "The road is blocked",
+      "Travel is obstructed"
+    ],
+    "ending": "A fallen tree obstructs a road.",
+    "artDirection": "Make the road impassable; no arrows, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2395",
+    "anchor": "metal",
+    "sentence": "Rust is an oxide that forms on metal.",
+    "relation": "An oxide is a chemical compound formed when oxygen combines with another element.",
+    "setting": "A simple workshop table",
+    "actor": "No people: a rusted metal object rests beside a clean iron piece to show an oxide forming on metal.",
+    "props": [
+      "one rusted metal piece",
+      "one clean metal piece",
+      "one workbench"
+    ],
+    "beats": [
+      "The metal is exposed to air and moisture",
+      "A rust-colored oxide forms",
+      "The metal surface changes"
+    ],
+    "ending": "A rust-colored oxide appears on metal.",
+    "artDirection": "No chemical symbols, formulas, writing, labels, or diagrams."
+  },
+  {
+    "id": "kyc-2396",
+    "anchor": "hill",
+    "sentence": "From the hill, the panorama showed the whole village.",
+    "relation": "A panorama is a wide, complete view of a large area.",
+    "setting": "A lookout on a green hill",
+    "actor": "One hiker looks out over a broad view of an entire village from the hilltop.",
+    "props": [
+      "one hiker",
+      "one hilltop",
+      "one wide village view"
+    ],
+    "beats": [
+      "The hiker climbs the hill",
+      "The view opens across the valley",
+      "The panorama reveals the whole village"
+    ],
+    "ending": "A hiker sees a panorama of the village from a hill.",
+    "artDirection": "No map labels, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2397",
+    "anchor": "garden",
+    "sentence": "She used a rake to clear the garden.",
+    "relation": "A rake is a long-handled tool used to gather leaves or loosen soil.",
+    "setting": "A home garden",
+    "actor": "One gardener pulls a plain rake across the garden bed to collect fallen leaves.",
+    "props": [
+      "one gardener",
+      "one plain rake",
+      "one garden bed"
+    ],
+    "beats": [
+      "Leaves cover the garden",
+      "The gardener uses the rake",
+      "The bed is cleared"
+    ],
+    "ending": "A gardener clears a garden with a rake.",
+    "artDirection": "No signs, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2398",
+    "anchor": "song",
+    "sentence": "One song from the band's repertoire delighted the audience.",
+    "relation": "A repertoire is the full set of works or performances someone can present.",
+    "setting": "A small music hall",
+    "actor": "One musician selects one familiar song from a small set of blank music folders.",
+    "props": [
+      "one musician",
+      "one plain songbook",
+      "one small stack of blank music folders"
+    ],
+    "beats": [
+      "The musician reviews the available songs",
+      "One song is chosen",
+      "The repertoire is ready for performance"
+    ],
+    "ending": "A musician chooses one song from a broad repertoire.",
+    "artDirection": "No sheet music notes, writing, letters, signs, or extra musicians."
+  },
+  {
+    "id": "kyc-2399",
+    "anchor": "circle",
+    "sentence": "A circle curled into a spiral on the shell's surface.",
+    "relation": "A spiral is a curve that circles around a center while moving farther away.",
+    "setting": "A sandy beach",
+    "actor": "No people: one large shell displays a clearly visible spiral curve.",
+    "props": [
+      "one shell",
+      "one patch of sand",
+      "one small tide pool"
+    ],
+    "beats": [
+      "The shell rests on the sand",
+      "Its curve winds around a center",
+      "The spiral shape is clear"
+    ],
+    "ending": "A shell shows a spiral winding around its center.",
+    "artDirection": "One shell only; no diagram lines, labels, or symbols."
+  },
+  {
+    "id": "kyc-2400",
+    "anchor": "room",
+    "sentence": "The staircase connected the room to the upper floor.",
+    "relation": "A staircase is a set of steps joining different levels of a building.",
+    "setting": "A simple two-story home interior",
+    "actor": "No people: one staircase rises from a plain room to the upper floor.",
+    "props": [
+      "one staircase",
+      "one lower room",
+      "one upper floor landing"
+    ],
+    "beats": [
+      "The lower room is visible",
+      "The staircase rises upward",
+      "It connects to the upper level"
+    ],
+    "ending": "A staircase connects a room to the upper floor.",
+    "artDirection": "No signs, house numbers, writing, or symbols."
+  },
+  {
+    "id": "kyc-2401",
+    "anchor": "stick",
+    "sentence": "One stick joined two more to form a triangle on the floor.",
+    "relation": "A triangle is a shape with three straight sides and three corners.",
+    "setting": "A plain playroom floor",
+    "actor": "No people: exactly three straight sticks are laid to form one triangle on the floor.",
+    "props": [
+      "exactly three sticks",
+      "one triangular shape",
+      "one plain floor"
+    ],
+    "beats": [
+      "Three sticks are placed down",
+      "Their ends meet",
+      "The triangle is complete"
+    ],
+    "ending": "Three sticks form a triangle on the floor.",
+    "artDirection": "Show exactly three straight sticks and one clear triangle; no letters, numbers, or diagrams."
+  },
+  {
+    "id": "kyc-2402",
+    "anchor": "house",
+    "sentence": "The adjacent house stood next to our home.",
+    "relation": "Adjacent means next to or directly beside something.",
+    "setting": "A quiet residential street",
+    "actor": "No people: two neighboring houses stand directly beside one another.",
+    "props": [
+      "one house",
+      "one adjacent house",
+      "one shared street"
+    ],
+    "beats": [
+      "One house stands on the street",
+      "Another house sits directly beside it",
+      "The houses are adjacent"
+    ],
+    "ending": "One adjacent house stands next to another home.",
+    "artDirection": "No house numbers, signs, writing, or logos."
+  },
+  {
+    "id": "kyc-2403",
+    "anchor": "radio",
+    "sentence": "The radio antenna caught a signal from far away.",
+    "relation": "An antenna sends or receives radio signals.",
+    "setting": "A simple home roof",
+    "actor": "No people: one long antenna rises above a small house beside a plain radio indoors.",
+    "props": [
+      "one plain radio",
+      "one long antenna",
+      "one house roof"
+    ],
+    "beats": [
+      "The radio rests inside",
+      "The antenna reaches above the roof",
+      "It receives a distant signal"
+    ],
+    "ending": "A radio antenna reaches above a roof.",
+    "artDirection": "No radio labels, numbers, symbols, logos, or text."
+  },
+  {
+    "id": "kyc-2404",
+    "anchor": "rope",
+    "sentence": "The rope's approximate length matched the stick beside it.",
+    "relation": "Approximate means close to the correct amount or value, but not exact.",
+    "setting": "A plain worktable",
+    "actor": "One person compares a rope with a plain ruler to estimate its approximate length.",
+    "props": [
+      "one rope",
+      "one unmarked ruler",
+      "one person"
+    ],
+    "beats": [
+      "The rope is laid out",
+      "The ruler is placed beside it",
+      "The approximate length is judged"
+    ],
+    "ending": "A rope's approximate length is compared with a ruler.",
+    "artDirection": "Compare the rope with a plain unmarked ruler; no measurement marks, numbers, text, or symbols."
+  },
+  {
+    "id": "kyc-2405",
+    "anchor": "field",
+    "sentence": "The field lay in the center of a packed arena.",
+    "relation": "An arena is a large enclosed place where sports or public events are held.",
+    "setting": "A broad sports arena",
+    "actor": "No people: one open field sits in the center of a large ring of empty seats.",
+    "props": [
+      "one central field",
+      "one ring of seats",
+      "one arena roof"
+    ],
+    "beats": [
+      "The arena surrounds the space",
+      "The field sits in the middle",
+      "The event area is ready"
+    ],
+    "ending": "A field lies in the center of an arena.",
+    "artDirection": "No scoreboard, numbers, flags, signs, or logos."
+  },
+  {
+    "id": "kyc-2406",
+    "anchor": "heart",
+    "sentence": "The artery carried blood from the heart.",
+    "relation": "An artery is a blood vessel that carries blood away from the heart.",
+    "setting": "A calm science classroom",
+    "actor": "One teacher points to a simple heart-and-artery model for one student.",
+    "props": [
+      "one teacher",
+      "one plain heart model",
+      "one simple artery tube"
+    ],
+    "beats": [
+      "The heart pumps",
+      "Blood enters the artery",
+      "The artery carries it away"
+    ],
+    "ending": "An artery carries blood away from the heart.",
+    "artDirection": "Use a simple non-graphic teaching model; no medical crosses, labels, or text."
+  },
+  {
+    "id": "kyc-2407",
+    "anchor": "stage",
+    "sentence": "The stage stood inside the auditorium.",
+    "relation": "An auditorium is a large room or hall where people gather to watch performances or hear talks.",
+    "setting": "An empty performance hall",
+    "actor": "No people: one plain stage stands before rows of empty seats inside a large auditorium.",
+    "props": [
+      "one stage",
+      "rows of empty seats",
+      "one high ceiling"
+    ],
+    "beats": [
+      "The hall is empty",
+      "The stage is visible at the front",
+      "The auditorium is ready for an event"
+    ],
+    "ending": "A stage stands inside an empty auditorium.",
+    "artDirection": "No signs, posters, text, seat numbers, or logos."
+  },
+  {
+    "id": "kyc-2408",
+    "anchor": "leaf",
+    "sentence": "The leaf turned gold in autumn.",
+    "relation": "Autumn is the season when many leaves change color and fall.",
+    "setting": "A quiet woodland in autumn",
+    "actor": "No people: one golden leaf hangs from a tree branch in fall.",
+    "props": [
+      "one golden leaf",
+      "one tree branch",
+      "one woodland path"
+    ],
+    "beats": [
+      "The leaf is green",
+      "The season cools",
+      "The leaf turns gold in autumn"
+    ],
+    "ending": "A leaf turns gold in autumn.",
+    "artDirection": "No extra leaves dominating the scene, no text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2409",
+    "anchor": "knee",
+    "sentence": "She wrapped a bandage around her knee.",
+    "relation": "A bandage is a strip of material used to cover or support an injured part of the body.",
+    "setting": "A calm home room",
+    "actor": "One child carefully wraps a plain bandage around one scraped knee.",
+    "props": [
+      "one child",
+      "one plain bandage",
+      "one chair"
+    ],
+    "beats": [
+      "The knee is lightly scraped",
+      "The bandage is wrapped around it",
+      "The knee is protected"
+    ],
+    "ending": "A bandage wraps around a child's knee.",
+    "artDirection": "Keep the scrape mild and non-graphic; no blood, medical symbols, text, or labels."
+  },
+  {
+    "id": "kyc-2410",
+    "anchor": "book",
+    "sentence": "The book appeared in the bibliography.",
+    "relation": "A bibliography is a list of books and other sources used or consulted in a piece of work.",
+    "setting": "A quiet study desk",
+    "actor": "One student places a plain book beside a blank bibliography sheet.",
+    "props": [
+      "one plain book",
+      "one blank bibliography sheet",
+      "one desk"
+    ],
+    "beats": [
+      "The student consults the book",
+      "The source is added to the list",
+      "The book appears in the bibliography"
+    ],
+    "ending": "A book is included in a bibliography.",
+    "artDirection": "Paper must be blank with no writing, letters, numbers, or symbols."
+  }
+]

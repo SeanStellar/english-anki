@@ -1,0 +1,642 @@
+[
+  {
+    "word": "actual",
+    "anchor": "sketch",
+    "anchorMeaning": "草图",
+    "relation": "The actual object is the real thing, while a sketch is only a drawing of it.",
+    "sentence": "The actual cake on the table looks just like the sketch beside it.（桌上的真实蛋糕看起来和旁边的草图一模一样。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bakery worktable.",
+      "actor": "One baker places a real cake beside its simple paper sketch; only one person.",
+      "props": [
+        "one finished plain cake",
+        "one paper sketch showing only a cake drawing",
+        "one plain serving plate"
+      ],
+      "beats": [
+        "The baker studies the cake sketch.",
+        "She finishes the real cake.",
+        "She places the actual cake beside the sketch."
+      ],
+      "ending": "A finished cake sits next to the sketch that inspired it."
+    },
+    "artDirection": "The sketch and cake must have no writing, candles with numbers, lettering, or decorations resembling text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，草图与真实蛋糕形成真实物和图画的区别，actual 义清楚。"
+    }
+  },
+  {
+    "word": "survival",
+    "anchor": "tent",
+    "anchorMeaning": "帐篷",
+    "relation": "A tent provides shelter that can help hikers survive a cold night outdoors.",
+    "sentence": "The hikers rely on a tent for survival during the freezing night.（寒冷的夜晚，徒步者依靠帐篷求生。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A snowy mountain campsite at dusk.",
+      "actor": "Two hikers shelter beside one tent during a cold night; exactly two people.",
+      "props": [
+        "one sturdy tent",
+        "one thick shared blanket",
+        "one plain thermos"
+      ],
+      "beats": [
+        "The hikers reach the campsite in freezing weather.",
+        "They shelter beside the tent and share the blanket.",
+        "The shelter helps them survive the night."
+      ],
+      "ending": "Two hikers stay warm beside their tent under a cold night sky."
+    },
+    "artDirection": "Exactly two hikers, each with two arms and two legs. No labels or writing on the tent or thermos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，帐篷作为避难所与生存直接相关。"
+    }
+  },
+  {
+    "word": "invention",
+    "anchor": "idea",
+    "anchorMeaning": "想法",
+    "relation": "An invention turns an idea into a practical device that performs a task.",
+    "sentence": "Her new invention turns a simple idea into a machine that waters the garden.（她把一个简单想法做成了能给花园浇水的新发明。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden workbench.",
+      "actor": "One inventor tests a small handmade watering machine beside a plant; only one person.",
+      "props": [
+        "one simple hand-built watering machine",
+        "one potted plant",
+        "one plain picture sketch of the idea"
+      ],
+      "beats": [
+        "She draws a simple idea for watering a plant.",
+        "She builds the small machine.",
+        "The invention releases water onto the plant."
+      ],
+      "ending": "The inventor watches her homemade device water the plant."
+    },
+    "artDirection": "The sketch must contain only simple shapes, no words, arrows, numbers, or labels. No extra people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，发明是想法变成实用装置，关系真实。"
+    }
+  },
+  {
+    "word": "discovery",
+    "anchor": "footprint",
+    "anchorMeaning": "脚印",
+    "relation": "Following footprints can lead someone to discover a place that was hidden from view.",
+    "sentence": "A trail of tiny footprints leads her to the discovery of a hidden cave.（一串细小的脚印带她发现了一个隐蔽的山洞。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A rocky woodland path near a hillside.",
+      "actor": "One explorer follows small footprints toward a hidden cave; only one person.",
+      "props": [
+        "one trail of tiny footprints",
+        "one dark cave opening",
+        "one plain lantern"
+      ],
+      "beats": [
+        "The explorer notices the tiny footprints.",
+        "She follows them along the rocky path.",
+        "The trail leads to the discovery of a hidden cave."
+      ],
+      "ending": "The explorer holds a lantern near the cave entrance while the footprints lead up to it."
+    },
+    "artDirection": "No signs or markings around the cave. Keep the footprints natural and clearly visible, no text or symbols.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，脚印引导人物发现山洞，discovery 的发现义明确。"
+    }
+  },
+  {
+    "word": "impose",
+    "anchor": "whistle",
+    "anchorMeaning": "哨子",
+    "relation": "A coach may use a whistle to enforce a rule or strict starting time on others.",
+    "sentence": "The coach blows a whistle to impose a strict starting time on the runners.（教练吹响哨子，给跑者规定了严格的开跑时间。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A running track before sunrise.",
+      "actor": "One coach blows a whistle as one runner waits at the starting line; exactly two people.",
+      "props": [
+        "one plain whistle",
+        "one running track",
+        "one blank clock with no numerals"
+      ],
+      "beats": [
+        "The runner waits before practice begins.",
+        "The coach blows the whistle and sets the start time.",
+        "The runner starts at the time imposed by the coach."
+      ],
+      "ending": "The coach raises the whistle while the runner waits at the track."
+    },
+    "artDirection": "No clocks with numbers, no signs, bibs, or text. Exactly two people with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，教练通过哨声强制执行开跑时间，impose 用法准确。"
+    }
+  },
+  {
+    "word": "valuable",
+    "anchor": "gold",
+    "anchorMeaning": "黄金",
+    "relation": "Gold is a familiar material that can make an object valuable or precious.",
+    "sentence": "The valuable gold ring stays locked in a small box.（这枚贵重的金戒指一直锁在小盒子里。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet jewelry workshop.",
+      "actor": "One jeweler places a gold ring into a small locked box; only one person.",
+      "props": [
+        "one plain gold ring",
+        "one small jewelry box",
+        "one simple key"
+      ],
+      "beats": [
+        "The jeweler checks the gold ring.",
+        "She places the ring in the box.",
+        "She locks away the valuable ring."
+      ],
+      "ending": "The jeweler holds the key beside the closed box containing the ring."
+    },
+    "artDirection": "No gemstones with letters, no currency symbols, labels, or text on the box or jewelry.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，黄金与贵重物品的关系明确，valuable 义准确。"
+    }
+  },
+  {
+    "word": "addition",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "A lamp can be a useful addition when it is added to a study desk.",
+    "sentence": "A small lamp is a useful addition to her study desk.（一盏小台灯是她书桌上的实用添置物。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy study corner.",
+      "actor": "One student places a small lamp on her desk; only one person.",
+      "props": [
+        "one small desk lamp",
+        "one plain study desk",
+        "one open book with blank pages"
+      ],
+      "beats": [
+        "The student studies at the desk.",
+        "She adds the small lamp to the workspace.",
+        "The lamp becomes a useful addition to the desk."
+      ],
+      "ending": "A small lamp lights the desk beside the open book."
+    },
+    "artDirection": "Book pages must be blank, and the lamp must have no logo, writing, or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，灯是新添到书桌上的实用物品，addition 的“加添”义清楚。"
+    }
+  },
+  {
+    "word": "description",
+    "anchor": "drawing",
+    "anchorMeaning": "图画；草图",
+    "relation": "A drawing can help someone give a description of a place by showing its features.",
+    "sentence": "She gives a detailed description of the garden while pointing to each flower in her drawing.（她指着画中的每朵花，详细描述花园的样子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden beside a quiet home.",
+      "actor": "One woman explains a garden drawing to one child; exactly two people.",
+      "props": [
+        "one drawing with simple flower and path pictures",
+        "one real flower",
+        "one small garden table"
+      ],
+      "beats": [
+        "The woman shows the drawing.",
+        "She points to the flowers and path.",
+        "She gives a detailed description of the garden."
+      ],
+      "ending": "The woman points to a flower in the picture while the child listens."
+    },
+    "artDirection": "The drawing contains only pictures of flowers and paths, with no words, labels, symbols, or numbers. Exactly two people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，图画帮助表达对花园的描述，description 用法准确。"
+    }
+  },
+  {
+    "word": "strengthen",
+    "anchor": "brace",
+    "anchorMeaning": "支撑木条；支架",
+    "relation": "Adding a brace makes a weak or wobbly structure stronger.",
+    "sentence": "The carpenter adds a wooden brace to strengthen the wobbly shelf.（木匠加上一根木支撑条，让摇晃的架子更牢固。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple carpentry workshop.",
+      "actor": "One carpenter fixes a wooden brace under a wobbly shelf; only one person.",
+      "props": [
+        "one wobbly wooden shelf",
+        "one plain wooden brace",
+        "one simple hammer"
+      ],
+      "beats": [
+        "The carpenter tests the wobbly shelf.",
+        "He adds the brace underneath.",
+        "The shelf stands firm and strengthened."
+      ],
+      "ending": "The carpenter checks the steady shelf after fixing the brace."
+    },
+    "artDirection": "Show only one brace and one hammer; no writing, logos, or extra tools in the foreground. Person has normal two arms and hands.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，支撑木条使架子更牢固，strengthen 的加强义直接可画。"
+    }
+  },
+  {
+    "word": "suggestion",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "relation": "A person can suggest adding flowers as a concrete idea for improving a garden.",
+    "sentence": "She offers a suggestion to add flowers along the garden path.（她建议沿着花园小路种些花。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden path beside a flower bed.",
+      "actor": "One neighbor points to a flower as she suggests adding more along the path; only one person.",
+      "props": [
+        "one bright flower",
+        "one plain garden path",
+        "one small hand trowel"
+      ],
+      "beats": [
+        "The woman notices the empty edge of the path.",
+        "She points to a flower as an example.",
+        "She offers the suggestion to plant more flowers."
+      ],
+      "ending": "The woman gestures from the flower toward the bare garden path."
+    },
+    "artDirection": "No signs, writing, arrows, or labels. Show one woman only, with normal arms and hands.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，花是建议内容的具体锚点，suggestion 用法准确。"
+    }
+  },
+  {
+    "word": "evolution",
+    "anchor": "fossil",
+    "anchorMeaning": "化石",
+    "relation": "Fossils provide evidence scientists use to study how living species evolved over long periods.",
+    "sentence": "A feathered dinosaur fossil helps scientists study the evolution of birds.（带羽毛的恐龙化石帮助科学家研究鸟类的进化。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet natural history gallery.",
+      "actor": "One scientist examines a feathered dinosaur fossil while one small bird perches nearby; one person and one bird.",
+      "props": [
+        "one feathered dinosaur fossil",
+        "one small living bird",
+        "one plain magnifying glass"
+      ],
+      "beats": [
+        "The scientist studies the fossil feathers.",
+        "She notices the living bird beside the display.",
+        "The fossil helps her understand the evolution of birds."
+      ],
+      "ending": "A scientist looks from the feathered fossil to a small living bird."
+    },
+    "artDirection": "No museum labels or text. The fossil must be clearly ancient and the bird clearly living; bird has two legs and two wings.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然准确，化石是研究生物演化的证据，鸟类演化关系真实。"
+    }
+  },
+  {
+    "word": "pleasure",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "Reading a favorite book can bring someone pleasure and enjoyment.",
+    "sentence": "She takes pleasure in reading a book beside the warm fireplace.（她喜欢坐在温暖的壁炉旁读书。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy living room on a cold evening.",
+      "actor": "One woman relaxes in a chair and reads beside the fireplace; only one person.",
+      "props": [
+        "one open book with blank pages",
+        "one comfortable chair",
+        "one warm fireplace"
+      ],
+      "beats": [
+        "She settles into the chair.",
+        "She opens the book and begins to read.",
+        "She enjoys the pleasure of a quiet evening."
+      ],
+      "ending": "The woman reads peacefully in the warm light of the fireplace."
+    },
+    "artDirection": "Book pages have no writing or symbols; no extra people or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，阅读带来愉悦，book 是具体锚点。"
+    }
+  },
+  {
+    "word": "rarely",
+    "anchor": "winter",
+    "anchorMeaning": "冬天",
+    "relation": "Butterflies are seldom seen in winter, making the season a concrete context for rarely.",
+    "sentence": "Butterflies rarely visit the garden in winter, so a single butterfly stands out.（冬天蝴蝶很少飞到花园，因此一只蝴蝶格外显眼。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet winter garden with bare plants and light snow.",
+      "actor": "No person; one lone butterfly appears among the winter plants.",
+      "props": [
+        "one small butterfly",
+        "a snow-covered garden bed",
+        "several bare flower stalks"
+      ],
+      "beats": [
+        "Winter leaves the garden quiet and bare.",
+        "A single butterfly appears unexpectedly.",
+        "Its rare visit stands out in the still garden."
+      ],
+      "ending": "One butterfly rests above the snow-covered garden bed."
+    },
+    "artDirection": "Exactly one butterfly, with natural wings. No text, signs, or decorative markings that resemble letters.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，冬季少见蝴蝶的场景体现 rarely 的低频义。"
+    }
+  },
+  {
+    "word": "privacy",
+    "anchor": "curtain",
+    "anchorMeaning": "窗帘",
+    "relation": "Closing curtains blocks outside views and gives people privacy.",
+    "sentence": "He closes the curtains to protect his privacy while he reads at home.（他在家读书时拉上窗帘，保护自己的隐私。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home reading corner at dusk.",
+      "actor": "One man draws the curtains around his reading space; only one person.",
+      "props": [
+        "one pair of plain curtains",
+        "one window",
+        "one comfortable chair"
+      ],
+      "beats": [
+        "The man sits down to read.",
+        "He notices the uncovered window.",
+        "He closes the curtains for privacy."
+      ],
+      "ending": "The curtains are closed around the man reading in his chair."
+    },
+    "artDirection": "No text visible through the window, no signs or labels. Keep the scene private and fully clothed.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，拉窗帘遮挡外部视线，清楚表现隐私义。"
+    }
+  },
+  {
+    "word": "burden",
+    "anchor": "bag",
+    "anchorMeaning": "包；袋子",
+    "relation": "A heavy bag can become a physical burden that is difficult to carry.",
+    "sentence": "The heavy bag becomes a burden as she climbs the steep hill.（她爬陡坡时，沉重的包成了负担。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A steep hillside path.",
+      "actor": "One hiker struggles uphill with a heavy bag; only one person.",
+      "props": [
+        "one oversized heavy travel bag",
+        "one steep path",
+        "one plain walking stick"
+      ],
+      "beats": [
+        "The hiker starts up the hill.",
+        "The heavy bag slows her down.",
+        "She leans forward under the burden and keeps climbing."
+      ],
+      "ending": "The hiker pauses on the slope, leaning under the heavy bag."
+    },
+    "artDirection": "One person only, with exactly two arms and two legs. No labels or writing on the bag.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，沉重的包是 burden（负担）的具体锚点。"
+    }
+  },
+  {
+    "word": "telephone",
+    "anchor": "ring",
+    "anchorMeaning": "铃声；响声",
+    "relation": "A telephone often rings when someone calls, making the sound a familiar cue for the device.",
+    "sentence": "The telephone rings on the desk while she reaches to answer it.（桌上的电话响了，她伸手去接。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home study.",
+      "actor": "One woman reaches toward a ringing telephone on a desk; only one person.",
+      "props": [
+        "one plain corded telephone with an unmarked keypad",
+        "one simple desk",
+        "one wooden chair"
+      ],
+      "beats": [
+        "The woman sits at the desk.",
+        "The telephone rings.",
+        "She reaches for the handset to answer."
+      ],
+      "ending": "The woman lifts the plain telephone handset from the desk."
+    },
+    "artDirection": "The telephone keypad must have no digits, letters, symbols, or logos. No text anywhere in the room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，电话铃声是识别 telephone 的熟悉声音锚点。"
+    }
+  },
+  {
+    "word": "partly",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "Partly means not completely; frosting only one portion of a cake makes the idea visible.",
+    "sentence": "The cake is partly covered with frosting, leaving one side plain.（蛋糕只部分抹上了糖霜，另一边仍是原样。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean kitchen counter.",
+      "actor": "One baker spreads frosting on only part of a cake; only one person.",
+      "props": [
+        "one plain round cake",
+        "one small bowl of frosting",
+        "one plain spatula"
+      ],
+      "beats": [
+        "The baker places the cake on the counter.",
+        "She spreads frosting across one portion.",
+        "The other side remains plain, so the cake is partly covered."
+      ],
+      "ending": "One half-frosted cake sits beside the frosting bowl and spatula."
+    },
+    "artDirection": "Clearly frost only part of the cake and leave the rest bare. No writing, candles, decorations, or symbols on the cake.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，用蛋糕局部覆糖霜直观表现 partly。"
+    }
+  },
+  {
+    "word": "existence",
+    "anchor": "footprint",
+    "anchorMeaning": "脚印",
+    "relation": "Fresh footprints are evidence that an animal exists or has recently been present.",
+    "sentence": "Fresh footprints prove the fox’s existence in the snowy forest.（新鲜的脚印证明狐狸曾在雪林中出现。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A snowy forest clearing.",
+      "actor": "One fox stands near its fresh tracks; only one animal.",
+      "props": [
+        "one fox",
+        "one trail of clear paw prints",
+        "one snow-covered forest floor"
+      ],
+      "beats": [
+        "The fox crosses the clearing.",
+        "Fresh paw prints remain in the snow.",
+        "The tracks show the fox’s existence in the forest."
+      ],
+      "ending": "A fox stands beside its visible footprints in the snow."
+    },
+    "artDirection": "Exactly one fox with four legs and one tail. No text or markings in the snow.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，脚印作为狐狸存在的证据，existence 义明确。"
+    }
+  },
+  {
+    "word": "willing",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "Sharing an umbrella willingly shows that someone is ready and glad to help.",
+    "sentence": "She is willing to share her umbrella with a friend in the rain.（下雨时，她愿意和朋友共用一把伞。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A rainy sidewalk beside a quiet park.",
+      "actor": "One woman gladly shares her umbrella with one friend; exactly two people.",
+      "props": [
+        "one plain umbrella",
+        "one small puddle",
+        "one simple shoulder bag"
+      ],
+      "beats": [
+        "The two friends meet in the rain.",
+        "One friend opens her umbrella.",
+        "She willingly makes room for the other friend beneath it."
+      ],
+      "ending": "Both friends walk together under the shared umbrella."
+    },
+    "artDirection": "Exactly two people, each with normal arms and hands. No writing or logos on the umbrella or bag.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，共伞帮助朋友表现 willing 的自愿意愿。"
+    }
+  },
+  {
+    "word": "curiosity",
+    "anchor": "box",
+    "anchorMeaning": "盒子",
+    "relation": "A mysterious box can spark curiosity and make someone want to know what is inside.",
+    "sentence": "Curiosity makes the child open the mysterious box.（好奇心促使孩子打开那个神秘盒子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy playroom with a quiet corner.",
+      "actor": "One child kneels beside a mysterious wooden box and opens it; only one person.",
+      "props": [
+        "one plain closed wooden box",
+        "one small brass key",
+        "one soft feather partly visible inside"
+      ],
+      "beats": [
+        "The child notices the locked box.",
+        "Curiosity makes the child use the key.",
+        "The box opens and reveals a feather."
+      ],
+      "ending": "The child peers into the open box with an eager, curious expression."
+    },
+    "artDirection": "No symbols, writing, labels, or numbers on the box or key. One child only, with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简短自然，神秘盒子引发想知道内容的 curiosity。"
+    }
+  }
+]

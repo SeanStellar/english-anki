@@ -1,0 +1,506 @@
+[
+  {
+    "id": "kyc-2211",
+    "anchor": "coin",
+    "sentence": "The coin contained nickel, which gave it a silvery shine.",
+    "relation": "Nickel is a silvery metal used in some coins.",
+    "setting": "A simple tabletop close-up",
+    "actor": "No people: one plain silver-colored coin rests beside a small piece of nickel metal.",
+    "props": [
+      "one plain coin",
+      "one small piece of nickel",
+      "one tabletop"
+    ],
+    "beats": [
+      "The metal is shaped",
+      "Nickel is used in the coin",
+      "The coin shines with a silvery surface"
+    ],
+    "ending": "A small piece of nickel metal sits beside a coin.",
+    "artDirection": "No currency symbols, faces, lettering, numerals, or logos on the coin."
+  },
+  {
+    "id": "kyc-2212",
+    "anchor": "name",
+    "sentence": "A noun gives a name to a person, place, or thing.",
+    "relation": "A noun is a word that names a person, place, or thing.",
+    "setting": "A calm classroom with a blank wall",
+    "actor": "Exactly two people: one teacher points to a child, a flower, and a small chair as examples of things that can be named.",
+    "props": [
+      "one teacher",
+      "one flower",
+      "one small chair"
+    ],
+    "beats": [
+      "The teacher presents a person",
+      "The teacher points to a flower and chair",
+      "The lesson shows that a noun names things"
+    ],
+    "ending": "A teacher illustrates that a noun gives a name to a person or thing.",
+    "artDirection": "Exactly two people; no writing, labels, letters, classroom posters, symbols, or numbers."
+  },
+  {
+    "id": "kyc-2213",
+    "anchor": "church",
+    "sentence": "The orthodox church continued its old ceremony unchanged.",
+    "relation": "Orthodox describes beliefs or practices that follow established tradition.",
+    "setting": "A simple old church interior without decorations",
+    "actor": "Exactly two people: one plain-robed minister performs a traditional ceremony while one congregant watches quietly.",
+    "props": [
+      "one plain church interior",
+      "one minister",
+      "one congregant"
+    ],
+    "beats": [
+      "The congregant enters",
+      "The minister follows the old ceremony",
+      "The traditional practice continues unchanged"
+    ],
+    "ending": "A traditional church ceremony continues in an orthodox manner.",
+    "artDirection": "No crosses, icons, religious symbols, written prayers, signs, letters, or numbers; exactly two people."
+  },
+  {
+    "id": "kyc-2214",
+    "anchor": "rocket",
+    "sentence": "The rocket rested on its launch pad before liftoff.",
+    "relation": "A launch pad is the platform that supports a rocket before launch.",
+    "setting": "An open launch site",
+    "actor": "No people: one plain rocket stands upright on a sturdy launch pad.",
+    "props": [
+      "one rocket",
+      "one launch pad",
+      "one open sky"
+    ],
+    "beats": [
+      "The rocket is brought to the site",
+      "It rests on the pad",
+      "It waits before liftoff"
+    ],
+    "ending": "A rocket rests on its launch pad.",
+    "artDirection": "No flags, logos, markings, smoke, text, numbers, or symbols.",
+    "targetSense": "发射台"
+  },
+  {
+    "id": "kyc-2215",
+    "anchor": "machine",
+    "sentence": "The engineer changed a parameter on the machine to control its speed.",
+    "relation": "A parameter is a measurable setting or factor that affects how a system works.",
+    "setting": "A clean workshop",
+    "actor": "One engineer adjusts a plain control knob on a machine to change its speed.",
+    "props": [
+      "one engineer",
+      "one machine",
+      "one plain control knob"
+    ],
+    "beats": [
+      "The machine runs slowly",
+      "The engineer changes one parameter",
+      "The machine runs at a different speed"
+    ],
+    "ending": "An engineer adjusts a parameter on a machine with a control knob.",
+    "artDirection": "No numeric dials, labels, letters, symbols, or visible electrical diagrams."
+  },
+  {
+    "id": "kyc-2216",
+    "anchor": "ticket",
+    "sentence": "A patron bought a ticket to support the small theater.",
+    "relation": "A patron is a customer or supporter of a place, artist, or activity.",
+    "setting": "A small theater entrance",
+    "actor": "One theater patron buys a plain blank ticket at a simple counter.",
+    "props": [
+      "one patron",
+      "one blank ticket",
+      "one theater counter"
+    ],
+    "beats": [
+      "The patron arrives at the theater",
+      "A ticket is purchased",
+      "The patron supports the theater by attending"
+    ],
+    "ending": "A patron buys a ticket at a small theater.",
+    "artDirection": "No signs, text, numbers, logos, or marks on the ticket; no extra people.",
+    "targetSense": "顾客；赞助者"
+  },
+  {
+    "id": "kyc-2217",
+    "anchor": "bread",
+    "sentence": "He made a petty complaint over one small piece of bread.",
+    "relation": "Petty describes something unimportant or too small to matter.",
+    "setting": "A plain kitchen table",
+    "actor": "One adult complains over a tiny piece of bread beside a much larger meal.",
+    "props": [
+      "one adult",
+      "one small piece of bread",
+      "one full plate of food"
+    ],
+    "beats": [
+      "The meal is served",
+      "The adult notices one tiny piece",
+      "The adult makes a petty complaint"
+    ],
+    "ending": "An adult makes a petty complaint about one small piece of bread.",
+    "artDirection": "Make the bread piece obviously tiny beside the meal; no text or symbols."
+  },
+  {
+    "id": "kyc-2218",
+    "anchor": "boat",
+    "sentence": "The pickup carried a small boat along the country road.",
+    "relation": "A pickup is a small truck with an open rear bed for carrying loads.",
+    "setting": "A quiet country road",
+    "actor": "One pickup truck carries a small boat securely in its open rear bed.",
+    "props": [
+      "one pickup truck",
+      "one small boat",
+      "one country road"
+    ],
+    "beats": [
+      "The boat is loaded into the truck bed",
+      "The pickup drives along the road",
+      "The boat is carried to the lake"
+    ],
+    "ending": "A pickup carries a small boat along a country road.",
+    "artDirection": "Show the open truck bed clearly; no logos, license numbers, letters, or signs.",
+    "targetSense": "小型卡车（皮卡）"
+  },
+  {
+    "id": "kyc-2219",
+    "anchor": "roof",
+    "sentence": "A stone pillar held the roof above the temple entrance.",
+    "relation": "A pillar is a tall support that carries weight from above.",
+    "setting": "A simple stone temple entrance",
+    "actor": "No people: one strong stone pillar supports the heavy roof above an entrance.",
+    "props": [
+      "one stone pillar",
+      "one broad roof",
+      "one plain entrance"
+    ],
+    "beats": [
+      "The roof rests above the doorway",
+      "The pillar stands beneath it",
+      "The pillar supports the roof"
+    ],
+    "ending": "A stone pillar supports the roof over an entrance.",
+    "artDirection": "No carved emblems, writing, religious symbols, or signs."
+  },
+  {
+    "id": "kyc-2220",
+    "anchor": "door",
+    "sentence": "She swept leaves from the porch outside the front door.",
+    "relation": "A porch is a covered area at the entrance of a house.",
+    "setting": "The front entrance of a small home",
+    "actor": "One person sweeps leaves from the covered porch beside the front door.",
+    "props": [
+      "one porch",
+      "one front door",
+      "one broom"
+    ],
+    "beats": [
+      "Leaves collect on the porch",
+      "The person sweeps them away",
+      "The clean porch remains outside the door"
+    ],
+    "ending": "A person sweeps the porch outside the front door.",
+    "artDirection": "No house numbers, signs, or labels."
+  },
+  {
+    "id": "kyc-2221",
+    "anchor": "gate",
+    "sentence": "A locked gate can preclude cars from entering the garden.",
+    "relation": "To preclude is to prevent something from happening or entering.",
+    "setting": "A garden entrance",
+    "actor": "No people: one locked gate blocks a small car from entering a garden.",
+    "props": [
+      "one closed gate",
+      "one small car",
+      "one garden entrance"
+    ],
+    "beats": [
+      "The car approaches",
+      "The gate blocks its way",
+      "The car cannot enter the garden"
+    ],
+    "ending": "A locked gate precludes a car from entering the garden.",
+    "artDirection": "Make the barrier clear; no signs, letters, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2222",
+    "anchor": "bed",
+    "sentence": "He used a headache as a pretext to stay in bed all day.",
+    "relation": "A pretext is an excuse used to hide the real reason for an action.",
+    "setting": "A simple bedroom in the morning",
+    "actor": "One adult lounges comfortably in bed while pretending to feel ill; a neatly packed work bag remains unused nearby.",
+    "props": [
+      "one bed",
+      "one adult",
+      "one plain work bag"
+    ],
+    "beats": [
+      "The work bag is ready by the door",
+      "The adult claims a headache",
+      "He uses it as a pretext to stay in bed"
+    ],
+    "ending": "A comfortable adult stays in bed all day using a headache as a pretext.",
+    "artDirection": "Hint that the headache is only an excuse through the relaxed, secretly cheerful expression; no medical symbols, text, or numbers."
+  },
+  {
+    "id": "kyc-2223",
+    "anchor": "suitcase",
+    "sentence": "The rack above the seat held a suitcase during the train ride.",
+    "relation": "A rack is a framework or shelf that holds objects.",
+    "setting": "Inside a quiet passenger train",
+    "actor": "No people: one plain suitcase rests securely on a luggage rack above a seat.",
+    "props": [
+      "one overhead rack",
+      "one suitcase",
+      "one train seat"
+    ],
+    "beats": [
+      "The suitcase is lifted",
+      "It is placed on the rack",
+      "The rack holds it above the seat"
+    ],
+    "ending": "A train rack holds a suitcase above a seat.",
+    "artDirection": "No carriage labels, numbers, signs, or text."
+  },
+  {
+    "id": "kyc-2224",
+    "anchor": "soap",
+    "sentence": "The new soap left a rash on his skin.",
+    "relation": "A rash is an irritated patch or eruption on the skin.",
+    "setting": "A simple bathroom",
+    "actor": "One child looks at a mild red rash on one forearm beside a plain bar of soap.",
+    "props": [
+      "one child",
+      "one mild skin rash",
+      "one plain bar of soap"
+    ],
+    "beats": [
+      "The child washes with the new soap",
+      "A rash appears on the skin",
+      "The child notices the irritation"
+    ],
+    "ending": "A mild rash appears after a child uses new soap.",
+    "artDirection": "Keep skin irritation mild and non-graphic; no medical crosses, text, labels, or symbols.",
+    "targetSense": "皮疹"
+  },
+  {
+    "id": "kyc-2225",
+    "anchor": "coat",
+    "sentence": "A remnant of blue cloth remained after she repaired the coat.",
+    "relation": "A remnant is a small leftover piece of something after most has been used.",
+    "setting": "A quiet sewing room",
+    "actor": "One tailor holds a small leftover piece of blue cloth beside a repaired coat.",
+    "props": [
+      "one small cloth remnant",
+      "one repaired coat",
+      "one tailor"
+    ],
+    "beats": [
+      "The coat is repaired",
+      "A little cloth remains",
+      "The tailor holds the remnant beside the coat"
+    ],
+    "ending": "A small remnant of cloth remains after repairing a coat.",
+    "artDirection": "No writing or patterns on the cloth; exactly one tailor."
+  },
+  {
+    "id": "kyc-2226",
+    "anchor": "floor",
+    "sentence": "She had to reproach her son for leaving mud on the floor.",
+    "relation": "To reproach is to criticize or blame someone for a mistake.",
+    "setting": "A home entryway",
+    "actor": "Exactly two family members: one parent gently scolds one child beside muddy footprints on the floor.",
+    "props": [
+      "one parent",
+      "one child",
+      "one muddy floor"
+    ],
+    "beats": [
+      "The child walks in with muddy shoes",
+      "Mud marks the floor",
+      "The parent reproaches the child"
+    ],
+    "ending": "A parent reproaches a child for muddy footprints on the floor.",
+    "artDirection": "Exactly two people; no text, symbols, or harsh distress."
+  },
+  {
+    "id": "kyc-2227",
+    "anchor": "bed",
+    "sentence": "The restless child tossed on the bed through the night.",
+    "relation": "Restless means unable to stay still or settle down.",
+    "setting": "A quiet bedroom at night",
+    "actor": "One child lies awake and turns restlessly on a plain bed.",
+    "props": [
+      "one child",
+      "one bed",
+      "one plain pillow"
+    ],
+    "beats": [
+      "The child lies down",
+      "The child cannot settle",
+      "The child tosses on the bed"
+    ],
+    "ending": "A restless child cannot settle on the bed at night.",
+    "artDirection": "Show one child once, not repeated poses; no motion lines, clock numbers, text, or symbols."
+  },
+  {
+    "id": "kyc-2228",
+    "anchor": "king",
+    "sentence": "One villager joined the revolt against the king's rule.",
+    "relation": "A revolt is an organized act of resistance against authority.",
+    "setting": "A village courtyard before a plain stone palace",
+    "actor": "One villager stands firmly before the king's empty throne, resisting the ruler's authority.",
+    "props": [
+      "one villager",
+      "one plain throne",
+      "one palace doorway"
+    ],
+    "beats": [
+      "The ruler's authority is shown by the throne",
+      "The villager steps forward in resistance",
+      "The revolt begins"
+    ],
+    "ending": "One villager takes a stand in a revolt against the king.",
+    "artDirection": "Only one person; no flags, weapons, emblems, crowns with symbols, text, or signs."
+  },
+  {
+    "id": "kyc-2229",
+    "anchor": "bed",
+    "sentence": "She hung the robe beside her bed after changing.",
+    "relation": "A robe is a loose outer garment that hangs from the shoulders.",
+    "setting": "A simple bedroom",
+    "actor": "One adult hangs a plain long robe on a wall hook beside a bed.",
+    "props": [
+      "one plain robe",
+      "one bed",
+      "one wall hook"
+    ],
+    "beats": [
+      "The person changes clothes",
+      "The robe is hung on a hook",
+      "It hangs beside the bed"
+    ],
+    "ending": "A plain robe hangs beside a bed.",
+    "artDirection": "No patterns, logos, letters, or symbols on the robe."
+  },
+  {
+    "id": "kyc-2230",
+    "anchor": "ship",
+    "sentence": "The sailor climbed from the dock onto the ship.",
+    "relation": "A sailor works or travels on a ship.",
+    "setting": "A calm harbor dock",
+    "actor": "One sailor steps from the dock onto a small ship.",
+    "props": [
+      "one sailor",
+      "one ship",
+      "one dock"
+    ],
+    "beats": [
+      "The ship rests beside the dock",
+      "The sailor steps aboard",
+      "The sailor joins the ship"
+    ],
+    "ending": "A sailor climbs aboard a ship from the dock.",
+    "artDirection": "No flags, ship names, uniforms with badges, text, or logos."
+  },
+  {
+    "id": "kyc-2231",
+    "anchor": "bread",
+    "sentence": "The saint shared bread with a hungry child.",
+    "relation": "A saint is a person honored for exceptional holiness or goodness.",
+    "setting": "A simple village courtyard",
+    "actor": "Exactly two people: one humble adult shares bread with one hungry child.",
+    "props": [
+      "one humble adult",
+      "one loaf of bread",
+      "one child"
+    ],
+    "beats": [
+      "The child waits hungrily",
+      "The adult shares the bread",
+      "The child receives it kindly"
+    ],
+    "ending": "A saint shares bread with a hungry child.",
+    "artDirection": "Show kindness and humility without halos, crosses, icons, or religious symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2232",
+    "anchor": "clock",
+    "sentence": "The sceptical child checked the clock before believing the story.",
+    "relation": "Sceptical means not easily convinced and inclined to question a claim.",
+    "setting": "A quiet home room",
+    "actor": "One child gives a doubtful look while checking a plain clock after hearing a story.",
+    "props": [
+      "one child",
+      "one plain clock",
+      "one closed storybook"
+    ],
+    "beats": [
+      "The child hears a claim",
+      "The child looks doubtful",
+      "The child checks the clock before believing"
+    ],
+    "ending": "A sceptical child checks a clock before believing a story.",
+    "artDirection": "Clock has hands only, no numbers or ticks; no text or speech bubbles."
+  },
+  {
+    "id": "kyc-2233",
+    "anchor": "cake",
+    "sentence": "Seventeen candles stood on the birthday cake as the teen smiled.",
+    "relation": "Seventeen is the number between sixteen and eighteen.",
+    "setting": "A simple birthday table",
+    "actor": "One teenager smiles beside a cake holding exactly seventeen separate plain candles.",
+    "props": [
+      "one teenager",
+      "one birthday cake",
+      "exactly seventeen plain candles"
+    ],
+    "beats": [
+      "The cake is set on the table",
+      "Seventeen candles stand upright",
+      "The teenager smiles at the cake"
+    ],
+    "ending": "A teenager celebrates a birthday cake with exactly seventeen candles.",
+    "artDirection": "Show exactly seventeen separate candles, clearly countable and not grouped or doubled. No numerals, text, letters, symbols, or extra candles."
+  },
+  {
+    "id": "kyc-2234",
+    "anchor": "cold",
+    "sentence": "The cold wind made the child shiver.",
+    "relation": "To shiver is to tremble slightly, often because of cold or fear.",
+    "setting": "A winter path",
+    "actor": "One child huddles in a coat and visibly trembles in a cold breeze.",
+    "props": [
+      "one child",
+      "one plain coat",
+      "one snowy path"
+    ],
+    "beats": [
+      "Cold air surrounds the path",
+      "The child huddles in the coat",
+      "The child begins to shiver"
+    ],
+    "ending": "A child shivers in the cold wind.",
+    "artDirection": "One child only; no motion lines, snowflake icons, text, or extra limbs."
+  },
+  {
+    "id": "kyc-2235",
+    "anchor": "fruit",
+    "sentence": "The traveler tried to smuggle fruit past the border guard.",
+    "relation": "To smuggle is to move goods secretly past a barrier or authority.",
+    "setting": "A simple border checkpoint",
+    "actor": "Exactly two adults: one traveler hides plain fruit inside a bag while one unmarked guard watches nearby.",
+    "props": [
+      "one traveler",
+      "one plain bag of fruit",
+      "one unmarked guard"
+    ],
+    "beats": [
+      "The traveler packs the fruit",
+      "The traveler hides it in the bag",
+      "The guard stands at the checkpoint"
+    ],
+    "ending": "A traveler tries to smuggle fruit past a guard.",
+    "artDirection": "No weapons, badges, flags, signs, writing, or additional people."
+  }
+]

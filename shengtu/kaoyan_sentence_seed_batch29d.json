@@ -1,0 +1,788 @@
+[
+  {
+    "word": "overtake",
+    "targetSense": "超过；赶上",
+    "anchor": "truck",
+    "anchorMeaning": "卡车",
+    "relation": "To overtake is to move past someone or something traveling in the same direction.",
+    "sentence": "The red bus began to overtake the slower delivery truck on the country road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open country road",
+      "actor": "One red bus overtakes one slower box-shaped delivery truck on a clear road",
+      "props": [
+        "red bus",
+        "box-shaped delivery truck",
+        "open road"
+      ],
+      "beats": [
+        "The red bus approaches behind the delivery truck",
+        "The bus draws level with the truck",
+        "The red bus moves clearly ahead of the truck"
+      ],
+      "ending": "The red bus is clearly ahead of the delivery truck after passing it",
+      "artDirection": "The second vehicle must be a small box-shaped delivery truck with a cargo compartment, not a passenger car. Show the bus clearly moving from behind to ahead."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The red bus began to overtake the slower delivery truck on the country road.” The sentence is natural and readable, includes the exact target word and anchor, and matches the revised scene."
+    }
+  },
+  {
+    "word": "pulse",
+    "targetSense": "脉搏",
+    "anchor": "wrist",
+    "anchorMeaning": "手腕",
+    "relation": "A pulse is the regular beat of blood moving through the arteries.",
+    "sentence": "The nurse checked the runner's pulse at his wrist after the race.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain quiet room with blank undecorated walls",
+      "actor": "One nurse checks one runner's wrist after a race",
+      "props": [
+        "runner's wrist",
+        "plain watch with a blank face",
+        "simple bench"
+      ],
+      "beats": [
+        "The runner sits down after the race",
+        "The nurse touches his wrist",
+        "She checks the pulse with two fingers"
+      ],
+      "ending": "A nurse checks a runner's pulse at the wrist",
+      "artDirection": "The walls must be completely blank. No red cross, medical symbol, sign, poster, label, wall art, or writing. The watch face has no numbers or marks."
+    },
+    "artDirection": "No readable text, numbers, logos, symbols, signs, or posters. Use a blank undecorated wall; absolutely no red cross or medical icon. Blank watch face.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The nurse checked the runner’s pulse at his wrist after the race.” Natural and readable; the next image must show a blank wall and blank watch face with no medical symbols."
+    }
+  },
+  {
+    "word": "quantify",
+    "targetSense": "量化；确定数量",
+    "anchor": "scale",
+    "anchorMeaning": "秤",
+    "relation": "To quantify something is to measure or express its amount numerically.",
+    "sentence": "The scientist used a scale to quantify the salt in each sample.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple laboratory bench",
+      "actor": "One scientist measures salt samples using an unmarked balance scale",
+      "props": [
+        "plain beam balance with unmarked pans",
+        "small salt sample",
+        "blank glass dish"
+      ],
+      "beats": [
+        "She places the salt sample in one pan",
+        "She balances it with plain unmarked weights",
+        "She compares the measured samples"
+      ],
+      "ending": "A scientist measures the amount of salt with a number-free balance scale",
+      "artDirection": "Use a simple beam balance with no dial, graduations, printed marks, numerals, or display. Show salt being physically measured; do not include any writing, numbers, or labels."
+    },
+    "artDirection": "No readable text, numbers, letters, logos, labels, graduations, or digital displays. Use an unmarked beam balance, not a digital scale.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: The sentence is natural and readable; the next image must make the target action clear while excluding any visible text or numerals."
+    }
+  },
+  {
+    "word": "riot",
+    "targetSense": "骚乱；暴乱",
+    "anchor": "square",
+    "anchorMeaning": "广场",
+    "relation": "A riot is a violent public disturbance involving a crowd.",
+    "sentence": "After the riot, the market square was scattered with overturned stalls.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A deserted market square at dawn",
+      "actor": "No people; overturned market stalls and baskets remain after a riot",
+      "props": [
+        "market square",
+        "overturned stall",
+        "empty baskets"
+      ],
+      "beats": [
+        "The square lies quiet",
+        "Stalls are overturned",
+        "Baskets remain scattered"
+      ],
+      "ending": "An empty square shows the aftermath of a riot"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “After the riot, the market square was scattered with overturned stalls.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "situate",
+    "targetSense": "使位于；坐落于",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "To situate a building is to place or locate it in a particular position.",
+    "sentence": "The planners will situate the new school beside the river.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A riverside planning site",
+      "actor": "Two planners point toward an open building plot beside a river",
+      "props": [
+        "river",
+        "open building plot",
+        "blank plan"
+      ],
+      "beats": [
+        "They inspect the riverbank",
+        "They choose the plot",
+        "They plan a school beside the river"
+      ],
+      "ending": "A school site is situated beside a river"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The planners will situate the new school beside the river.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "specification",
+    "targetSense": "规格；详细说明",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "A specification is a detailed statement of required features or dimensions.",
+    "sentence": "The engineer checked every specification before building the bridge.",
+    "mode": "concept",
+    "scene": {
+      "setting": "An engineering workbench",
+      "actor": "One engineer checks a blank bridge plan beside a small model",
+      "props": [
+        "blank bridge plan",
+        "small bridge model",
+        "measuring ruler"
+      ],
+      "beats": [
+        "The engineer studies the plan",
+        "She measures the model",
+        "She checks each specification"
+      ],
+      "ending": "An engineer checks bridge specifications"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The engineer checked every specification before building the bridge.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "transit",
+    "targetSense": "运输；运送",
+    "anchor": "boxes",
+    "anchorMeaning": "箱子",
+    "relation": "Transit is the movement of people or goods from one place to another.",
+    "sentence": "The boxes were in transit from the warehouse to the store.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A loading area between two buildings",
+      "actor": "No people; closed boxes are loaded into a delivery van",
+      "props": [
+        "closed boxes",
+        "delivery van",
+        "warehouse door"
+      ],
+      "beats": [
+        "The boxes leave the warehouse",
+        "They travel in the van",
+        "They arrive at the store"
+      ],
+      "ending": "Boxes are in transit between buildings"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The boxes were in transit from the warehouse to the store.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "tumble",
+    "targetSense": "翻滚；跌倒",
+    "anchor": "slope",
+    "anchorMeaning": "斜坡",
+    "relation": "To tumble is to fall or roll over in an uncontrolled way.",
+    "sentence": "The child began to tumble down the grassy slope.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy hill",
+      "actor": "One child rolls safely down a soft grassy slope",
+      "props": [
+        "grassy slope",
+        "child",
+        "fallen cap"
+      ],
+      "beats": [
+        "The child loses balance",
+        "He tumbles down the hill",
+        "He stops on the grass"
+      ],
+      "ending": "A child tumbles down a grassy slope"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The child began to tumble down the grassy slope.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "geology",
+    "targetSense": "地质学",
+    "anchor": "rock",
+    "anchorMeaning": "岩石",
+    "relation": "Geology is the study of Earth's rocks, structure, and history.",
+    "sentence": "Her geology book showed layers of rock beneath the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A field-study table outdoors beside a rocky hillside",
+      "actor": "One geology student studies a layered rock sample beside an open book showing only a simple unlabeled picture of rock strata",
+      "props": [
+        "layered rock sample",
+        "open book with an unlabeled color illustration",
+        "small magnifying glass"
+      ],
+      "beats": [
+        "She opens the book to a simple rock-layer picture",
+        "She examines the real rock layers with a magnifying glass",
+        "She compares the colored bands in the rock and picture"
+      ],
+      "ending": "A geology student studies layered rock beside an unlabeled illustration",
+      "artDirection": "The open book must contain only a simple color illustration of rock layers. Leave all pages completely free of writing, letters, numbers, labels, and marks."
+    },
+    "artDirection": "No readable text, numbers, letters, labels, or logos. The open book may show only one unlabeled color illustration of rock strata.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “Her geology book showed layers of rock beneath the hill.” The sentence is natural and readable; the next image should show rock strata and a book with an unlabeled illustration only."
+    }
+  },
+  {
+    "word": "inference",
+    "targetSense": "推论；推断",
+    "anchor": "footprints",
+    "anchorMeaning": "脚印",
+    "relation": "An inference is a conclusion drawn from clues or evidence.",
+    "sentence": "From the dog's wet footprints, the detective made an inference that it had entered the house.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A hallway near a doorway",
+      "actor": "One detective studies wet dog paw prints leading toward a closed door",
+      "props": [
+        "wet paw prints",
+        "closed door",
+        "magnifying glass"
+      ],
+      "beats": [
+        "The detective finds the paw prints",
+        "She follows them toward the door",
+        "She infers that a dog entered the house"
+      ],
+      "ending": "A detective draws an inference from wet paw prints",
+      "artDirection": "Show animal paw prints, not human shoe prints. No readable text, numbers, or logos."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “From the dog's wet footprints, the detective made an inference that it had entered the house.” The sentence is natural and readable, includes the exact target word and anchor, and matches the revised scene."
+    }
+  },
+  {
+    "word": "cocaine",
+    "targetSense": "可卡因",
+    "anchor": "bag",
+    "anchorMeaning": "袋子",
+    "relation": "Cocaine is an illegal stimulant drug that can cause serious harm.",
+    "sentence": "The officer sealed the suspected cocaine sample in an evidence bag.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A plain evidence room",
+      "actor": "One officer seals a small suspected sample inside an evidence bag",
+      "props": [
+        "sealed evidence bag",
+        "plain gloves",
+        "metal evidence tray"
+      ],
+      "beats": [
+        "The officer examines the sample",
+        "She places it in the bag",
+        "She seals the bag"
+      ],
+      "ending": "A suspected cocaine sample is sealed as evidence"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The officer sealed the suspected cocaine sample in an evidence bag.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "graph",
+    "targetSense": "图表；曲线图",
+    "anchor": "rainfall",
+    "anchorMeaning": "降雨",
+    "relation": "A graph is a visual display used to compare or show data.",
+    "sentence": "The student drew a simple graph to compare monthly rainfall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A classroom desk",
+      "actor": "One student draws a simple unlabeled graph of monthly rainfall",
+      "props": [
+        "blank graph sheet",
+        "plain pencil",
+        "small rain gauge"
+      ],
+      "beats": [
+        "The student studies the rain gauge",
+        "She draws a line",
+        "She compares rainfall"
+      ],
+      "ending": "A student draws a graph about rainfall"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The student drew a simple graph to compare monthly rainfall.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "monarch",
+    "targetSense": "君主",
+    "anchor": "balcony",
+    "anchorMeaning": "阳台",
+    "relation": "A monarch is a king or queen who rules a country.",
+    "sentence": "The monarch stood on the palace balcony with a golden crown.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A palace balcony",
+      "actor": "One monarch stands alone on a palace balcony wearing a crown",
+      "props": [
+        "palace balcony",
+        "golden crown",
+        "stone column"
+      ],
+      "beats": [
+        "The monarch steps onto the balcony",
+        "She looks over the grounds",
+        "The crown catches the light"
+      ],
+      "ending": "A monarch stands on the palace balcony"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The monarch stood on the palace balcony with a golden crown.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "multitude",
+    "targetSense": "大量；众多",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "relation": "A multitude is a very large number of people or things.",
+    "sentence": "A multitude of lanterns filled the night market.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A night market street",
+      "actor": "No people; many glowing lanterns hang above a market lane",
+      "props": [
+        "many lanterns",
+        "market stall",
+        "night sky"
+      ],
+      "beats": [
+        "Lanterns light a stall",
+        "More lanterns appear along the lane",
+        "The market glows"
+      ],
+      "ending": "A multitude of lanterns fills the market"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A multitude of lanterns filled the night market.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "succession",
+    "targetSense": "连续；继承顺序",
+    "anchor": "crown",
+    "anchorMeaning": "王冠",
+    "relation": "A succession is a series of people or events that follow one another.",
+    "sentence": "The crown passed from a parent to an heir in the royal succession.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple royal room with a blank wall and no throne",
+      "actor": "One adult parent in plain clothes passes one gold crown to one adult heir in plain clothes; neither person wears a crown",
+      "props": [
+        "one gold crown",
+        "plain cushion",
+        "low wooden table"
+      ],
+      "beats": [
+        "The only crown rests on the cushion",
+        "The parent lifts the single crown",
+        "The heir receives that same crown"
+      ],
+      "ending": "One crown passes from a parent to an heir",
+      "artDirection": "Exactly one crown in the entire image. Both people wear plain clothes and have bare heads. No kings, queens, royal robes, thrones, portraits, crown motifs, or other crown-shaped decorations."
+    },
+    "artDirection": "No readable text or numbers. Show exactly one crown, passed between two bareheaded people in plain clothes. No royal robes, thrones, portraits, or extra crown symbols.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Further review after repeated extra-crown outputs: “The crown passed from a parent to an heir in the royal succession.” Natural and clear; the scene avoids depicting a crowned king so exactly one crown can be shown."
+    }
+  },
+  {
+    "word": "analogy",
+    "targetSense": "类比",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "An analogy explains an idea by comparing it with a similar one.",
+    "sentence": "The teacher used an analogy, comparing a school to a garden.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A classroom garden corner",
+      "actor": "One teacher explains an idea to one student beside seedlings",
+      "props": [
+        "seedling tray",
+        "small garden pot",
+        "wooden desk"
+      ],
+      "beats": [
+        "The teacher points to a seedling",
+        "She compares it with a growing student",
+        "The student understands"
+      ],
+      "ending": "A teacher compares a school to a garden"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The teacher used an analogy, comparing a school to a garden.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "despair",
+    "targetSense": "绝望",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "Despair is a feeling of having no hope.",
+    "sentence": "He sat beside the broken bicycle in despair.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet park path",
+      "actor": "One man sits sadly beside his broken bicycle",
+      "props": [
+        "broken bicycle",
+        "park bench",
+        "fallen wheel"
+      ],
+      "beats": [
+        "He notices the broken wheel",
+        "He sits beside the bicycle",
+        "He lowers his head"
+      ],
+      "ending": "A man sits beside a broken bicycle"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “He sat beside the broken bicycle in despair.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "forge",
+    "targetSense": "建立；形成",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "To forge a friendship is to build it through shared effort or experience.",
+    "sentence": "The two climbers forge a friendship while crossing the mountain.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A mountain trail",
+      "actor": "Two climbers help each other along a steep trail",
+      "props": [
+        "two climbing packs",
+        "mountain rope",
+        "rocky trail"
+      ],
+      "beats": [
+        "One climber offers help",
+        "They cross the difficult section",
+        "They share a smile"
+      ],
+      "ending": "Two climbers forge a friendship on the mountain"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The two climbers forge a friendship while crossing the mountain.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "hitherto",
+    "targetSense": "迄今；到目前为止",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Hitherto means up to the time being discussed.",
+    "sentence": "Hitherto, no one had crossed the old bridge.",
+    "mode": "concept",
+    "scene": {
+      "setting": "An old bridge over a stream",
+      "actor": "No people; an old bridge remains untouched above a stream",
+      "props": [
+        "old bridge",
+        "stream",
+        "grassy bank"
+      ],
+      "beats": [
+        "The bridge stands empty",
+        "No footprints cross it",
+        "The far bank remains untouched"
+      ],
+      "ending": "An old bridge no one had crossed until now"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Hitherto, no one had crossed the old bridge.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "predecessor",
+    "targetSense": "前任；前身",
+    "anchor": "note",
+    "anchorMeaning": "便条",
+    "relation": "A predecessor is someone or something that came before another in the same role.",
+    "sentence": "The new librarian found a note left by her predecessor.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small library desk",
+      "actor": "One new librarian finds a plain note in an empty desk drawer",
+      "props": [
+        "plain note",
+        "wooden desk",
+        "book shelf"
+      ],
+      "beats": [
+        "She opens the drawer",
+        "She finds the note",
+        "She wonders who left it before her"
+      ],
+      "ending": "A new librarian finds a note from her predecessor"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The new librarian found a note left by her predecessor.” The anchor and target sense are clear in one drawable scene."
+    }
+  }
+]

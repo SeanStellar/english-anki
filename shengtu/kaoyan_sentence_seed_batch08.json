@@ -1,0 +1,642 @@
+[
+  {
+    "word": "advanced",
+    "anchor": "basic",
+    "anchorMeaning": "基础的；基本的",
+    "relation": "Advanced describes a higher or more complex level than a basic one.",
+    "sentence": "After learning the controls of a basic model, she builds an advanced robot.（掌握基础模型的操作后，她开始制作一台高级机器人。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy home workshop.",
+      "actor": "One girl works at a table with a simple model and a more complex robot; only one person.",
+      "props": [
+        "one simple basic wooden model",
+        "one advanced robot with several articulated parts",
+        "one plain screwdriver"
+      ],
+      "beats": [
+        "She studies the simple model.",
+        "She uses what she learned to assemble the complex robot.",
+        "She finishes the advanced robot beside the basic model."
+      ],
+      "ending": "A girl compares her completed advanced robot with the simple basic model."
+    },
+    "artDirection": "Make the basic model simple and the advanced robot visibly more complex. No screens, writing, labels, letters, or numbers.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然；basic 与 advanced 是真实的程度对照，画面能表现复杂程度提升。"
+    }
+  },
+  {
+    "word": "whatever",
+    "anchor": "weather",
+    "anchorMeaning": "天气",
+    "relation": "Whatever the weather means that the action continues regardless of changing weather conditions.",
+    "sentence": "Whatever the weather, he walks his dog every morning.（无论天气如何，他每天早晨都会遛狗。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet neighborhood path under an overcast morning sky.",
+      "actor": "One man walks one dog calmly in light rain; only one person and one dog.",
+      "props": [
+        "one plain umbrella",
+        "one dog leash",
+        "one sidewalk with small puddles"
+      ],
+      "beats": [
+        "Clouds gather and light rain begins.",
+        "The man opens the umbrella and takes the dog outside.",
+        "They continue their usual walk despite the weather."
+      ],
+      "ending": "The man and dog walk on through light rain beneath the umbrella."
+    },
+    "artDirection": "Show one calm weather condition and a determined routine; no split panels, text, signs, or labels. Dog has exactly four legs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，whatever the weather 表示不受天气影响，天气是具体锚点。"
+    }
+  },
+  {
+    "word": "productivity",
+    "anchor": "machine",
+    "anchorMeaning": "机器",
+    "relation": "A machine can help a worker produce more in the same amount of time, increasing productivity.",
+    "sentence": "The factory’s productivity rises when one worker uses a new machine to assemble more chairs.（一名工人使用新机器组装更多椅子后，工厂的生产力提高了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean, small furniture workshop.",
+      "actor": "One worker operates one simple assembly machine beside several finished chairs; only one person.",
+      "props": [
+        "one plain assembly machine",
+        "one unfinished chair",
+        "a small neat group of finished chairs"
+      ],
+      "beats": [
+        "The worker places a chair part in the machine.",
+        "The machine helps assemble chairs more quickly.",
+        "Several finished chairs stand ready, showing higher productivity."
+      ],
+      "ending": "The worker stands beside the machine and a neat group of finished chairs."
+    },
+    "artDirection": "No machine displays, labels, text, or numbers. Show one worker and one machine; finished chairs are a modest group, not a crowd of duplicates.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，机器提高单位时间产出，生产力含义明确。"
+    }
+  },
+  {
+    "word": "attractive",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "relation": "A beautiful flower can be attractive because it draws people’s attention.",
+    "sentence": "An attractive flower catches her eye as she walks through the garden.（她在花园散步时，一朵迷人的花吸引了她的目光。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden path in soft morning light.",
+      "actor": "One woman notices one unusually beautiful flower; only one person.",
+      "props": [
+        "one colorful flower",
+        "one plain watering can",
+        "one small butterfly"
+      ],
+      "beats": [
+        "The woman walks along the garden path.",
+        "She notices the colorful flower.",
+        "She pauses beside it, drawn to its attractive appearance."
+      ],
+      "ending": "The woman looks closely at the distinctive flower as a butterfly hovers nearby."
+    },
+    "artDirection": "Make one flower the clear focal point; no signs, labels, or text. Keep the butterfly anatomically natural.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，花的吸引力可视化，flower 是具体锚点。"
+    }
+  },
+  {
+    "word": "eight",
+    "anchor": "octopus",
+    "anchorMeaning": "章鱼",
+    "relation": "An octopus has exactly eight arms, providing a natural real-world anchor for the number eight.",
+    "sentence": "An octopus has eight arms as it swims among the rocks.（一只章鱼在岩石间游动，身边伸展着八条腕足。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm underwater reef.",
+      "actor": "One octopus swims above the seabed; only one animal.",
+      "props": [
+        "one octopus with exactly eight arms",
+        "a few plain sea rocks",
+        "one small shell"
+      ],
+      "beats": [
+        "The octopus glides over the seabed.",
+        "All eight arms spread around its body.",
+        "It swims among the rocks with each arm visible."
+      ],
+      "ending": "One octopus is shown with exactly eight separate arms fully visible among a few rocks."
+    },
+    "artDirection": "Count carefully: exactly eight arms total, each attached once to one octopus body; no extra tentacles, no duplicated animal, no letters or numbers. All eight arms must be fully visible and distinguishable.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然准确，章鱼的八条腕足提供真实且可画的数量锚点。"
+    }
+  },
+  {
+    "word": "original",
+    "anchor": "sketch",
+    "anchorMeaning": "草图",
+    "relation": "An original sketch can be the first version made before a finished artwork.",
+    "sentence": "The artist keeps the original sketch beside her finished painting.（艺术家把最初的草图留在完成的画作旁边。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet art studio.",
+      "actor": "One artist compares an early sketch with the finished painting; only one person.",
+      "props": [
+        "one simple pencil sketch on blank paper",
+        "one finished landscape painting",
+        "one plain easel"
+      ],
+      "beats": [
+        "The artist looks at the first sketch.",
+        "She completes the painting based on it.",
+        "She keeps the original sketch beside the finished work."
+      ],
+      "ending": "The artist stands between the original sketch and the finished painting."
+    },
+    "artDirection": "The sketch and painting must contain only simple landscape imagery, no writing, signatures, letters, or numbers.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，草图作为最初版本的熟悉锚点，original 义准确。"
+    }
+  },
+  {
+    "word": "expectation",
+    "anchor": "curtain",
+    "anchorMeaning": "窗帘；幕布",
+    "relation": "A closed stage curtain creates expectation because the audience anticipates the show behind it.",
+    "sentence": "A child watches the closed curtain in expectation of the puppet show.（一个孩子望着紧闭的幕布，期待木偶戏开场。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small puppet theater before the show begins.",
+      "actor": "One child sits watching the closed stage curtain; only one person.",
+      "props": [
+        "one closed red stage curtain",
+        "one small puppet stage",
+        "one empty child-sized chair"
+      ],
+      "beats": [
+        "The child takes a seat.",
+        "The curtain remains closed while the child waits.",
+        "The child watches eagerly in expectation of the show."
+      ],
+      "ending": "A child leans forward toward the closed curtain, waiting for the puppet show."
+    },
+    "artDirection": "Curtain stays closed; do not reveal a puppet performance. No signs, letters, or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，闭幕和等待演出表现对即将发生之事的预期。"
+    }
+  },
+  {
+    "word": "recession",
+    "anchor": "factory",
+    "anchorMeaning": "工厂",
+    "relation": "A recession is an economic slowdown that can force a factory to reduce production.",
+    "sentence": "The recession forces a factory to cut production, leaving many machines idle.（经济衰退迫使工厂削减产量，许多机器因此闲置。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet factory floor during a downturn.",
+      "actor": "No person; several machines are idle and only a small stack of products remains.",
+      "props": [
+        "one large factory machine switched off",
+        "a small stack of unfinished products",
+        "one quiet factory floor"
+      ],
+      "beats": [
+        "The factory produces fewer goods.",
+        "The machine is left idle.",
+        "A reduced stack of products shows the recession’s effect."
+      ],
+      "ending": "An idle machine and a small amount of unfinished output sit on a quiet factory floor."
+    },
+    "artDirection": "No signs, displays, labels, text, or numbers. Keep the factory empty and subdued to suggest reduced economic activity.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，衰退导致工厂减产的经济义准确，factory 是具体场景锚点。"
+    }
+  },
+  {
+    "word": "clothe",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "To clothe someone is to dress them; putting a coat on a child is a clear example.",
+    "sentence": "She helps clothe her child in a warm coat before they go outside.（出门前，她帮孩子穿上暖和的外套。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm entryway beside the front door.",
+      "actor": "One parent helps one child put on a warm coat; exactly two people.",
+      "props": [
+        "one warm coat",
+        "one knitted hat",
+        "one pair of boots"
+      ],
+      "beats": [
+        "The child prepares to go outside.",
+        "The parent helps the child put on the coat.",
+        "The child is fully dressed for the cold weather."
+      ],
+      "ending": "The parent fastens the child’s coat before they leave through the door."
+    },
+    "artDirection": "Show exactly two people, each with two arms and two hands; no extra hands emerging from clothing. No lettering on clothing.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，穿外套是 clothe（给……穿衣）的具体实例。"
+    }
+  },
+  {
+    "word": "directly",
+    "anchor": "line",
+    "anchorMeaning": "线；直线",
+    "relation": "A straight line connects two points directly without a detour.",
+    "sentence": "She draws a line directly from one point to another.（她从一个点直接画线连到另一个点。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean tabletop viewed from above.",
+      "actor": "No person; a pencil rests beside a simple drawing.",
+      "props": [
+        "one plain pencil",
+        "one blank sheet with two small dots",
+        "one straight line joining the dots"
+      ],
+      "beats": [
+        "Two points are placed on the blank sheet.",
+        "A straight line is drawn between them.",
+        "The line reaches the second point directly without turning."
+      ],
+      "ending": "One straight line connects two dots on a blank page."
+    },
+    "artDirection": "Show exactly two small dots and one straight connecting line; no arrows, letters, numbers, writing, or extra marks.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，直线呈现 directly 的直接、不绕行关系。"
+    }
+  },
+  {
+    "word": "obesity",
+    "anchor": "scale",
+    "anchorMeaning": "体重秤",
+    "relation": "A scale can be part of a respectful health check when discussing obesity.",
+    "sentence": "The doctor discusses obesity as a health concern while the patient steps off the scale.（病人刚从体重秤上下来，医生便和他平和地谈起肥胖相关的健康问题。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm, welcoming doctor’s office.",
+      "actor": "One doctor speaks supportively with one adult patient beside a plain scale; exactly two people.",
+      "props": [
+        "one plain scale with a blank display",
+        "one simple doctor’s chair",
+        "one unmarked medical chart turned face down"
+      ],
+      "beats": [
+        "The patient steps off the scale.",
+        "The doctor listens and discusses health without judgment.",
+        "They consider a supportive plan for obesity-related health."
+      ],
+      "ending": "A doctor speaks kindly with an adult patient beside a simple scale."
+    },
+    "artDirection": "Use a respectful, nonjudgmental medical scene; no exaggerated body features, no visible numbers, text, labels, or medical signage.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然且保持中性医疗语境；体重秤是与肥胖健康讨论相关的熟悉锚点。"
+    }
+  },
+  {
+    "word": "threaten",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨",
+    "relation": "A storm can threaten a place by bringing wind and rain that may cause harm.",
+    "sentence": "Dark storm clouds threaten the small village as heavy rain approaches.（暴雨将至，乌云笼罩着小村庄，可能带来威胁。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small village under a darkening sky.",
+      "actor": "No person; heavy storm clouds gather over the village.",
+      "props": [
+        "one bank of dark storm clouds",
+        "one small village house",
+        "one wind-bent tree"
+      ],
+      "beats": [
+        "Clouds gather above the village.",
+        "Wind bends the tree as rain approaches.",
+        "The storm threatens the house and village."
+      ],
+      "ending": "Dark clouds and a bent tree loom over one small house."
+    },
+    "artDirection": "Show approaching weather, not destruction or injury. No signs, text, or extra people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，暴风雨可能造成损害，真实表现 threaten 的威胁义。"
+    }
+  },
+  {
+    "word": "historical",
+    "anchor": "museum",
+    "anchorMeaning": "博物馆",
+    "relation": "A museum preserves and displays objects from the past, giving a clear setting for something historical.",
+    "sentence": "The museum displays a historical crown from an ancient kingdom.（博物馆里陈列着一顶古代王国留下的历史王冠。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet museum gallery.",
+      "actor": "No person; one old crown sits inside a glass display case.",
+      "props": [
+        "one old gold crown",
+        "one clear display case",
+        "one plain museum pedestal"
+      ],
+      "beats": [
+        "The crown is found from an ancient time.",
+        "It is carefully placed in the display case.",
+        "Visitors can see the historical crown in the museum."
+      ],
+      "ending": "An old crown is displayed clearly in a simple museum case."
+    },
+    "artDirection": "No visitors, labels, plaques, numbers, or writing; the crown should look old and preserved, not fantasy-themed.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，museum 场景准确承载 historical 的历史相关义。"
+    }
+  },
+  {
+    "word": "criminal",
+    "anchor": "guard",
+    "anchorMeaning": "保安；看守",
+    "relation": "A guard may stop a criminal who is carrying stolen property; the roles are related but not synonymous.",
+    "sentence": "A plain-clothed guard stops the criminal carrying a stolen bag.（便装守卫拦住了带着赃物包袋的罪犯。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet city sidewalk beside a low brick wall and a simple gate.",
+      "actor": "One plain-clothed guard in an ordinary sweater and trousers stops one suspect carrying a bag; exactly two people.",
+      "props": [
+        "one plain unmarked bag",
+        "one low brick wall",
+        "one simple metal gate"
+      ],
+      "beats": [
+        "The suspect walks along the wall carrying the bag.",
+        "The guard steps out beside the gate and raises a hand to stop the suspect.",
+        "The criminal is stopped calmly without a struggle."
+      ],
+      "ending": "A casually dressed guard calmly stops the person with the plain bag beside the gate."
+    },
+    "artDirection": "The guard wears ordinary everyday clothing, not a uniform. No badge, shield emblem, patch, cap, ID card, logo, police equipment, weapon, writing, letters, digits, or text anywhere. Exactly two people, with normal arms and legs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，便装守卫与罪犯是不同角色；通过拦停携赃物者表达关系，不依赖制服文字。"
+    }
+  },
+  {
+    "word": "friendly",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A warm smile is a familiar way to show a friendly attitude.",
+    "sentence": "A friendly neighbor welcomes a new child with a warm smile.（友好的邻居带着温暖的微笑欢迎新来的孩子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A welcoming front garden.",
+      "actor": "One neighbor greets one child at the garden gate; exactly two people.",
+      "props": [
+        "one small flower offered as a welcome",
+        "one open garden gate",
+        "one simple path"
+      ],
+      "beats": [
+        "The child arrives at the gate.",
+        "The neighbor steps forward with a smile.",
+        "The friendly welcome puts the child at ease."
+      ],
+      "ending": "The neighbor smiles and offers a flower to the child by the open gate."
+    },
+    "artDirection": "Both people must have exactly two arms and two hands; use warm relaxed body language, no text or signs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，微笑是友好态度的具体外在表现。"
+    }
+  },
+  {
+    "word": "useful",
+    "anchor": "flashlight",
+    "anchorMeaning": "手电筒",
+    "relation": "A flashlight is useful when it helps someone complete a task in the dark.",
+    "sentence": "A flashlight is useful when she searches a dark room for her keys.（她在黑暗房间里找钥匙时，手电筒很有用。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A dim bedroom at night.",
+      "actor": "One woman searches for keys using a flashlight; only one person.",
+      "props": [
+        "one plain flashlight",
+        "one small set of keys",
+        "one bed with a simple blanket"
+      ],
+      "beats": [
+        "The room is dark and the keys are missing.",
+        "She turns on the flashlight.",
+        "Its beam helps her find the keys under the bed."
+      ],
+      "ending": "The woman shines the flashlight toward the keys under the bed."
+    },
+    "artDirection": "No glowing text or symbols on the flashlight; show the beam revealing the keys clearly.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，手电筒在找钥匙时发挥作用，useful 的意义明确。"
+    }
+  },
+  {
+    "word": "genetic",
+    "anchor": "hair",
+    "anchorMeaning": "头发",
+    "relation": "Curly hair can be a genetic trait inherited from a parent.",
+    "sentence": "A child inherits a genetic trait, such as curly hair, from her mother.（孩子从母亲那里遗传了卷发这样的基因特征。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm family room.",
+      "actor": "One mother and one child with matching naturally curly hair; exactly two people.",
+      "props": [
+        "one simple hand mirror",
+        "one family photo with only the same mother and child",
+        "one plain hairbrush"
+      ],
+      "beats": [
+        "The mother looks in the mirror with the child.",
+        "Their similar curly hair is visible.",
+        "The shared feature suggests a genetic trait passed from parent to child."
+      ],
+      "ending": "Mother and child stand together, their naturally curly hair clearly alike."
+    },
+    "artDirection": "Show only two people with normal arms and hands. Any family photo must contain only a simple picture with no text, borders, or extra people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，卷发作为从母亲遗传的特征说明 genetic 的基因义。"
+    }
+  },
+  {
+    "word": "competitive",
+    "anchor": "clock",
+    "anchorMeaning": "时钟",
+    "relation": "A clock makes a solo time trial competitive by giving the runner a time to beat.",
+    "sentence": "The competitive runner races against the clock to beat her personal record.（这位有竞争意识的跑者与时间赛跑，想打破自己的纪录。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet running track during a solo time trial.",
+      "actor": "One runner sprints alone toward a blank finish ribbon; only one person.",
+      "props": [
+        "one plain running track",
+        "one unmarked stopwatch",
+        "one blank finish ribbon"
+      ],
+      "beats": [
+        "The runner starts a timed solo trial.",
+        "She sprints toward the finish while racing against the clock.",
+        "She crosses the ribbon and beats her personal record."
+      ],
+      "ending": "One runner crosses a blank finish ribbon during a solo timed race."
+    },
+    "artDirection": "Exactly one runner, with no other runners, spectators, or people. Show a solo time trial. The stopwatch has no digits or text; the finish ribbon is blank. Runner has exactly two arms and two legs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，clock 是单人计时赛的锚点，competitive 由争取刷新纪录体现。"
+    }
+  },
+  {
+    "word": "visitor",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A visitor arrives at a place and is often first seen at the door.",
+    "sentence": "A visitor knocks at the door before entering the house.（来访者进屋前先敲门。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home entrance.",
+      "actor": "One visitor stands outside and knocks gently on the front door; only one person.",
+      "props": [
+        "one wooden front door",
+        "one small travel bag",
+        "one plain potted plant"
+      ],
+      "beats": [
+        "The visitor arrives at the entrance.",
+        "She knocks on the closed door.",
+        "She waits to be welcomed inside."
+      ],
+      "ending": "A visitor with a small bag waits outside the closed front door."
+    },
+    "artDirection": "No house numbers, nameplates, signs, text, or extra people. Show the visitor’s two arms and hands naturally.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，来访者在门外敲门，visitor 场景明确。"
+    }
+  },
+  {
+    "word": "inform",
+    "anchor": "phone",
+    "anchorMeaning": "电话；手机",
+    "relation": "A phone call is a familiar way to inform someone by telling them news.",
+    "sentence": "She uses her phone to inform her friend that the train is delayed.（她用手机告诉朋友，火车晚点了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm railway platform.",
+      "actor": "One woman speaks on a phone while waiting for a train; only one person.",
+      "props": [
+        "one plain phone",
+        "one small travel suitcase",
+        "one stationary passenger train"
+      ],
+      "beats": [
+        "The woman waits beside her suitcase.",
+        "She calls her friend on the phone.",
+        "She informs him about the delay while the train remains at the platform."
+      ],
+      "ending": "The woman speaks into her phone beside her suitcase and the waiting train."
+    },
+    "artDirection": "No phone screen text, station signs, numbers, labels, or logos. Only one person visible; no extra hands.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，phone 是 inform 的具体通知媒介，inform 用作动词准确。"
+    }
+  }
+]

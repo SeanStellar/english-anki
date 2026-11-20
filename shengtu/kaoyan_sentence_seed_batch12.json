@@ -1,0 +1,642 @@
+[
+  {
+    "word": "wisdom",
+    "anchor": "compass",
+    "anchorMeaning": "指南针",
+    "relation": "A wise guide uses experience and a compass to lead someone safely.",
+    "sentence": "The guide used wisdom and a compass to lead one hiker safely through the forest.（向导凭借智慧和指南针，安全地带着一名徒步者穿过森林。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A leafy forest trail in warm morning light.",
+      "actor": "One experienced guide calmly leads one hiker along the trail; exactly two people.",
+      "props": [
+        "one plain compass",
+        "one winding forest path",
+        "one small canvas backpack"
+      ],
+      "beats": [
+        "The guide studies the forest path and compass.",
+        "The guide chooses a safe direction from experience.",
+        "The hiker follows the guide along the safe path."
+      ],
+      "ending": "The experienced guide leads the hiker safely through the forest."
+    },
+    "artDirection": "Exactly two people with normal limbs. Make the compass clearly visible. Fill the frame with a softly painted forest; no blank white margins, writing, labels, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "indifferent",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "Someone absorbed in a book and unconcerned by a nearby game appears indifferent to it.",
+    "sentence": "Mia was indifferent to the colorful board game and kept reading her book.（米娅对那款彩色棋盘游戏漠不关心，继续读书。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy living room with a rug and a low table.",
+      "actor": "One girl quietly reads a book beside an untouched board game; only one person.",
+      "props": [
+        "one open plain book",
+        "one colorful board game with blank pieces and no writing",
+        "one low table"
+      ],
+      "beats": [
+        "The board game sits ready on the table.",
+        "Mia keeps her attention on the book instead of the game.",
+        "She continues reading with a calm, uninterested expression."
+      ],
+      "ending": "Mia remains absorbed in her book and indifferent to the game."
+    },
+    "artDirection": "One girl with normal hands. Board pieces have no letters, numbers, or symbols. No text, labels, or logos; fill the room with warm illustrated detail.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "neglect",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "When someone neglects a plant, they fail to care for it and its leaves may dry and droop.",
+    "sentence": "When people neglect a potted plant, its dry leaves droop.（人们疏于照料盆栽时，它的叶子就会干枯下垂。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room beside a sunlit window.",
+      "actor": "One person notices a forgotten potted plant with dry drooping leaves.",
+      "props": [
+        "one potted plant with dry drooping leaves",
+        "one small watering can sitting unused",
+        "one sunny windowsill"
+      ],
+      "beats": [
+        "The plant sits forgotten on the windowsill.",
+        "Its soil looks dry and its leaves droop.",
+        "The person notices the plant has been neglected."
+      ],
+      "ending": "The neglected plant's dry leaves and unused watering can make the lack of care clear."
+    },
+    "artDirection": "One person only, with natural hands. Keep the plant clearly dry but not dead. No writing, labels, or logos; full-frame warm hand-painted room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子简短自然，neglect 与 plant 锚点均明确出现，后果直观。"
+    }
+  },
+  {
+    "word": "recovery",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "A short walk in a garden can show someone regaining strength during recovery.",
+    "sentence": "After a long illness, her recovery began with a short walk in the garden.（久病之后，她开始在花园里短暂散步，逐渐恢复。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful garden path in gentle morning light.",
+      "actor": "One woman takes a careful but steady walk as she regains her strength.",
+      "props": [
+        "one winding garden path",
+        "fresh flowers and green shrubs",
+        "one light walking stick held at her side"
+      ],
+      "beats": [
+        "The woman steps onto the garden path.",
+        "She walks slowly but steadily among the flowers.",
+        "Her posture shows growing strength and recovery."
+      ],
+      "ending": "The woman enjoys a short, steady walk through the garden."
+    },
+    "artDirection": "One adult with normal limbs; show quiet strength, not distress. Fill the scene with textured garden detail; no writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "inflation",
+    "anchor": "coins",
+    "anchorMeaning": "硬币",
+    "relation": "When prices rise during inflation, the same coins buy fewer goods.",
+    "sentence": "During inflation, the same coins bought fewer apples at the market.（通货膨胀期间，同样多的硬币买到的苹果变少了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small outdoor fruit market with a simple apple stall.",
+      "actor": "One buyer shows the same small handful of coins while one seller offers only a few apples; exactly two people.",
+      "props": [
+        "a small handful of plain coins",
+        "a few apples in the buyer's bag",
+        "a stall piled with many apples"
+      ],
+      "beats": [
+        "The buyer counts the same coins in one palm.",
+        "The seller points to the few apples those coins can buy.",
+        "Many apples remain at the stall while the buyer leaves with only a few."
+      ],
+      "ending": "The same coins purchase fewer apples than expected, suggesting rising prices."
+    },
+    "artDirection": "Exactly two people with normal limbs. Coins have no symbols or numbers; no price tags, signs, text, or logos. Fill the frame with a warm market scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "religion",
+    "anchor": "temple",
+    "anchorMeaning": "寺庙",
+    "relation": "Attending a quiet service at a temple can be part of following a religion.",
+    "sentence": "She followed her religion by attending a quiet service at the temple.（她通过参加寺庙里的安静礼拜，践行自己的宗教信仰。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful temple hall with warm daylight and simple wooden architecture.",
+      "actor": "One woman sits quietly during a respectful service; only one person.",
+      "props": [
+        "one simple temple altar with flowers",
+        "one plain wooden bench",
+        "soft daylight through a tall window"
+      ],
+      "beats": [
+        "The woman enters the quiet temple hall.",
+        "She sits respectfully on the bench during the service.",
+        "She bows her head in a quiet moment of faith."
+      ],
+      "ending": "The woman attends a calm, respectful religious service in the temple."
+    },
+    "artDirection": "Keep religious imagery neutral and respectful; no readable scripture, symbols, writing, or logos. One person only, full-frame warm painted interior.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "extreme",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "The intense heat beneath a blazing sun makes the desert conditions extreme.",
+    "sentence": "The extreme heat of the sun made the desert hike difficult.（烈日下的酷热让沙漠徒步变得艰难。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunlit desert trail with distant dunes.",
+      "actor": "Two hikers pause in the shade of a small rock, tired from the intense heat; exactly two people.",
+      "props": [
+        "one large bright sun high overhead",
+        "one sandy desert trail",
+        "one small water flask"
+      ],
+      "beats": [
+        "The hikers cross the hot desert path.",
+        "The intense sun beats down on the exposed trail.",
+        "The hikers pause to rest from the extreme heat."
+      ],
+      "ending": "The blazing sun and hot desert make the conditions look extreme."
+    },
+    "artDirection": "Exactly two hikers with normal limbs. Show heat through warm light and shade, not danger or injury. No text or logos; fill the image with desert scenery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "introduction",
+    "anchor": "handshake",
+    "anchorMeaning": "握手",
+    "relation": "A friendly handshake can begin an introduction between two people meeting for the first time.",
+    "sentence": "Their introduction was warm, beginning with a friendly handshake.（他们初次相识时，以友好的握手开始了温暖的介绍。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright community room at a small gathering.",
+      "actor": "Two new neighbors smile and shake hands as they meet; exactly two people.",
+      "props": [
+        "one friendly handshake",
+        "one small table with a plain vase of flowers",
+        "one open doorway"
+      ],
+      "beats": [
+        "The two neighbors meet for the first time.",
+        "They exchange a friendly handshake.",
+        "The warm introduction begins a new acquaintance."
+      ],
+      "ending": "The two neighbors smile during their first friendly introduction."
+    },
+    "artDirection": "Exactly two people, each with natural hands and normal limbs. No extra guests, signs, writing, or logos; full-frame warm illustrated room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "minority",
+    "anchor": "flowers",
+    "anchorMeaning": "花朵",
+    "relation": "A small number of white flowers among many red ones forms a minority.",
+    "sentence": "A minority of the flowers in this garden are white; most are red.（花园里只有少数花是白色的，大多数都是红色的。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A lush flower garden in soft daylight.",
+      "actor": "No people; a flower bed shows only a few white blooms among many red ones.",
+      "props": [
+        "many red flowers",
+        "a small minority of white flowers",
+        "one green garden bed"
+      ],
+      "beats": [
+        "The flower bed contains many blooms.",
+        "A few white flowers appear among a larger group of red flowers.",
+        "The red flowers clearly outnumber the white ones."
+      ],
+      "ending": "The small number of white flowers is visibly the minority."
+    },
+    "artDirection": "Make white flowers clearly fewer than red ones, without requiring a precise count. No labels or text; fill the frame with textured flowers and greenery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然，minority 与 flowers 锚点均明确出现，少数白花与多数红花形成对比。"
+    }
+  },
+  {
+    "word": "politician",
+    "anchor": "resident",
+    "anchorMeaning": "居民",
+    "relation": "A politician listens to residents before speaking at a local meeting.",
+    "sentence": "The politician listened to a resident before speaking at the town meeting.（这位政治家在镇民会议上发言前，先听取了一位居民的意见。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A modest town meeting room with a round table.",
+      "actor": "One politician listens attentively to one local resident; exactly two people.",
+      "props": [
+        "one round meeting table",
+        "one plain notebook with blank pages",
+        "two simple chairs"
+      ],
+      "beats": [
+        "The resident speaks calmly at the table.",
+        "The politician listens with attention and nods.",
+        "The politician prepares to respond after hearing the resident."
+      ],
+      "ending": "The politician listens respectfully before taking a turn to speak."
+    },
+    "artDirection": "Exactly two people with normal limbs. No campaign signs, flags, slogans, writing, labels, or logos. Full-frame neutral civic room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "beautiful",
+    "anchor": "sunrise",
+    "anchorMeaning": "日出",
+    "relation": "A beautiful sunrise can make an ordinary landscape look especially lovely.",
+    "sentence": "The beautiful sunrise turned the quiet lake gold.（美丽的日出把宁静的湖面映成了金色。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet lakeshore at dawn.",
+      "actor": "No people; a golden sunrise reflects across still water.",
+      "props": [
+        "one rising golden sun",
+        "one calm lake reflecting warm light",
+        "one distant tree-lined shore"
+      ],
+      "beats": [
+        "The first sunlight appears over the horizon.",
+        "Golden light spreads across the lake.",
+        "The sunrise makes the landscape glow beautifully."
+      ],
+      "ending": "A peaceful golden sunrise shines across the lake."
+    },
+    "artDirection": "Fill the frame edge to edge with richly textured dawn sky, water, and shore; no blank white areas, text, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "specialist",
+    "anchor": "lens",
+    "anchorMeaning": "镜片",
+    "relation": "An eye specialist uses a small lens to examine a patient's vision.",
+    "sentence": "The eye specialist used a small lens to examine the patient.（眼科专家用一片小镜片检查病人的眼睛。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm eye clinic examination room.",
+      "actor": "One eye specialist examines one seated adult patient with a small hand lens; exactly two people.",
+      "props": [
+        "one small plain examination lens",
+        "one simple clinic chair",
+        "one unmarked eye chart turned away from view"
+      ],
+      "beats": [
+        "The patient sits calmly in the examination chair.",
+        "The specialist looks carefully through the small lens.",
+        "The specialist completes the eye examination."
+      ],
+      "ending": "The specialist's careful use of the lens makes professional expertise clear."
+    },
+    "artDirection": "Exactly two adults with normal hands and limbs. The chart must show no letters, numbers, or symbols. No labels, text, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "mere",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "The mere smell of soup, without tasting it, can be enough to make someone smile.",
+    "sentence": "The mere smell of hot soup made the tired hiker smile.（光是热汤的香味，就让疲惫的徒步者露出了笑容。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy cabin kitchen after a long walk.",
+      "actor": "One tired hiker smiles as the aroma of soup rises from a bowl; only one person.",
+      "props": [
+        "one steaming bowl of soup",
+        "one plain wooden table",
+        "one hiking backpack resting nearby"
+      ],
+      "beats": [
+        "The hiker returns tired from the trail.",
+        "The smell of hot soup reaches the hiker before a taste.",
+        "The mere aroma is enough to bring a happy smile."
+      ],
+      "ending": "The hiker smiles at the soup's comforting smell without eating yet."
+    },
+    "artDirection": "One hiker only, with normal limbs. No letters, writing, or logos on the bowl or backpack; warm full-frame cabin scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "possess",
+    "anchor": "owl",
+    "anchorMeaning": "猫头鹰",
+    "relation": "Owls possess excellent night vision, which helps them see in darkness.",
+    "sentence": "Owls possess excellent night vision that helps them hunt after sunset.（猫头鹰拥有出色的夜视能力，日落后也能捕猎。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A moonlit forest at night.",
+      "actor": "One owl watches clearly through the dark from a tree branch; only one animal.",
+      "props": [
+        "one owl with large bright eyes",
+        "one sturdy tree branch",
+        "a deep blue night sky with a soft moon"
+      ],
+      "beats": [
+        "The forest grows dark after sunset.",
+        "The owl's large eyes catch the faint moonlight.",
+        "The owl sees clearly through the night."
+      ],
+      "ending": "The alert owl's bright eyes show the night vision it possesses."
+    },
+    "artDirection": "One owl with natural anatomy and exactly two wings and two legs. No other animals, symbols, text, or logos; fill the scene with textured night foliage.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "recognition",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "A dog showing instant recognition when its owner returns makes recognition easy to see.",
+    "sentence": "The dog showed instant recognition when its owner returned home.（主人回家时，小狗立刻认出了他。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A welcoming home entryway in afternoon light.",
+      "actor": "One happy dog greets one returning adult owner; exactly two living subjects.",
+      "props": [
+        "one happy dog with a wagging tail",
+        "one open front door",
+        "one plain doormat"
+      ],
+      "beats": [
+        "The owner returns through the open door.",
+        "The dog immediately recognizes the familiar owner.",
+        "The dog runs over to greet the owner happily."
+      ],
+      "ending": "The dog's eager greeting clearly shows instant recognition."
+    },
+    "artDirection": "One dog with natural canine anatomy and one adult with normal limbs. No text, signs, or logos; full-frame warm entryway.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "attribute",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "Long ears are a distinctive attribute of a rabbit and help it hear faint sounds.",
+    "sentence": "A rabbit's long ears are an attribute that helps it hear faint sounds.（兔子长长的耳朵是一种特征，能帮助它听见细微的声音。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet grassy meadow beside a leafy hedge.",
+      "actor": "One rabbit raises its long ears to listen carefully; only one animal.",
+      "props": [
+        "one rabbit with clearly long upright ears",
+        "one leafy hedge",
+        "one small rustling leaf on the ground"
+      ],
+      "beats": [
+        "The rabbit sits quietly in the meadow.",
+        "Its long ears lift toward a faint rustle.",
+        "The rabbit listens attentively using this distinctive feature."
+      ],
+      "ending": "The rabbit's long ears stand out as a useful attribute."
+    },
+    "artDirection": "One rabbit with natural anatomy and two long ears. No other animals, symbols, text, or logos; fill the frame with soft meadow detail.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "reduction",
+    "anchor": "road",
+    "anchorMeaning": "道路",
+    "relation": "A reduction in traffic leaves fewer cars on the road and makes it quieter.",
+    "sentence": "A reduction in traffic left the road almost empty after rush hour.（高峰期后，车辆减少，道路几乎空了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad city road just after rush hour.",
+      "actor": "No people in focus; only one small car remains on a mostly empty road.",
+      "props": [
+        "one broad open road",
+        "one small car in the distance",
+        "quiet roadside trees"
+      ],
+      "beats": [
+        "The busy hour ends.",
+        "Traffic thins until only a few vehicles remain.",
+        "The road looks almost empty and quiet."
+      ],
+      "ending": "The nearly empty road shows a clear reduction in traffic."
+    },
+    "artDirection": "Show a calm, mostly empty road with very few cars, not a traffic jam. No signs, words, numbers, or logos; full-frame city scenery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "percentage",
+    "anchor": "marbles",
+    "anchorMeaning": "弹珠",
+    "relation": "A high percentage of blue marbles means blue ones make up most of the group.",
+    "sentence": "A high percentage of the marbles in the jar were blue.（罐子里的弹珠大部分都是蓝色的。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright tabletop in a child's playroom.",
+      "actor": "No people; a clear jar displays a group of mostly blue marbles and a few yellow ones.",
+      "props": [
+        "one clear jar filled mostly with blue marbles",
+        "a few yellow marbles mixed in",
+        "one plain tabletop"
+      ],
+      "beats": [
+        "The jar holds a mixed group of marbles.",
+        "Most marbles are blue, with only a few yellow ones.",
+        "The large blue share is easy to compare with the smaller yellow share."
+      ],
+      "ending": "Blue marbles make up a high percentage of the visible group."
+    },
+    "artDirection": "Make blue marbles clearly the majority. No labels, numbers, writing, or logos; full-frame warm hand-painted playroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "dramatic",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨",
+    "relation": "A storm can cause a dramatic, striking change from bright sky to dark clouds.",
+    "sentence": "The storm caused a dramatic change in the sky, from bright blue to dark gray.（暴风雨让天空发生了戏剧性的变化，从明亮的蓝色变成深灰色。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open countryside beneath a rapidly changing sky.",
+      "actor": "No people; a dramatic storm cloud rolls across the sky above a field.",
+      "props": [
+        "one large dark storm cloud",
+        "a bright blue opening in the sky",
+        "one green field below"
+      ],
+      "beats": [
+        "The sky is bright blue over the field.",
+        "A dark storm cloud moves in quickly.",
+        "The sky changes dramatically from bright to dark."
+      ],
+      "ending": "The storm cloud creates a striking change in the sky."
+    },
+    "artDirection": "Show a single continuous sky with bright blue on one side and dark gray storm clouds moving across it. No split panels, lightning danger, text, or logos; full-frame landscape.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "faculty",
+    "anchor": "lecture hall",
+    "anchorMeaning": "讲堂",
+    "relation": "A university faculty is a department or academic body that may meet in a lecture hall.",
+    "sentence": "The university's law faculty met in its old lecture hall.（大学的法学院在自己的旧讲堂里开会。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "An old university lecture hall with wooden seats and a front lectern.",
+      "actor": "Two members of the law faculty meet quietly at the front of the hall; exactly two people.",
+      "props": [
+        "rows of old wooden lecture seats",
+        "one plain lectern with a blank front",
+        "one small stack of closed books with blank covers"
+      ],
+      "beats": [
+        "Two law faculty members enter the old lecture hall.",
+        "They meet beside the lectern to discuss their work.",
+        "The academic colleagues gather in their university hall."
+      ],
+      "ending": "The old lecture hall and two academic colleagues suggest a university faculty."
+    },
+    "artDirection": "Exactly two adults with normal limbs. No writing, chalkboard marks, labels, or logos. Fill the lecture hall with warm textured detail.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "word": "ritual",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "A ritual is a repeated ceremonial action and a birthday candle is a familiar part of that celebration.",
+    "sentence": "At each birthday, Maya follows a small ritual of placing a candle on the cake.",
+    "scene": {
+      "setting": "A quiet family birthday table",
+      "actor": "One child has both arms clearly visible and connected; one hand places one candle on one small cake while the other hand rests on the table",
+      "props": [
+        "birthday cake",
+        "single candle",
+        "plain cake plate"
+      ],
+      "beats": [
+        "The cake sits on the plate",
+        "Maya places one candle on top",
+        "The familiar birthday ritual is complete"
+      ],
+      "ending": "One child places a single candle on the cake while the other hand rests on the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A ritual is a repeated ceremonial action and a birthday candle is a familiar part of that celebration. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show both arms and both hands clearly attached to the child; the candle is unlit and the matchbox is absent; no extra people or text."
+  },
+  {
+    "word": "vanish",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "To vanish is to disappear from sight and a rabbit slipping behind a hedge is an everyday example.",
+    "sentence": "A rabbit can vanish behind the hedge in one quick hop.",
+    "scene": {
+      "setting": "A sunny garden beside a thick hedge",
+      "actor": "One rabbit hops behind the hedge until only its ears are visible",
+      "props": [
+        "single rabbit",
+        "thick hedge",
+        "patch of grass"
+      ],
+      "beats": [
+        "The rabbit approaches the hedge",
+        "It makes one quick hop behind the leaves",
+        "Most of its body disappears from view"
+      ],
+      "ending": "One rabbit is partly hidden behind the hedge"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To vanish is to disappear from sight and a rabbit slipping behind a hedge is an everyday example. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show one rabbit only with natural anatomy and no duplicate animal."
+  },
+  {
+    "word": "consent",
+    "anchor": "nod",
+    "anchorMeaning": "点头",
+    "relation": "A nod is a clear nonverbal signal of agreement or permission.",
+    "sentence": "Her mother gave consent with a nod before her daughter entered the pool.",
+    "scene": {
+      "setting": "A calm swimming pool edge",
+      "actor": "One mother nods permission to one child waiting beside the water",
+      "props": [
+        "pool edge",
+        "plain towel",
+        "small swim bag"
+      ],
+      "beats": [
+        "The child waits at the pool edge",
+        "The mother gives a clear nod",
+        "The child steps toward the water after receiving consent"
+      ],
+      "ending": "One mother nods as one child enters the pool"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A nod is a clear nonverbal signal of agreement or permission. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no pool signs or text."
+  },
+  {
+    "word": "bubble",
+    "anchor": "soap",
+    "anchorMeaning": "肥皂",
+    "relation": "Soap and water naturally form bubbles when someone washes.",
+    "sentence": "A soap bubble floated above the basin while the child washed her hands.",
+    "scene": {
+      "setting": "A bright washroom with a simple basin",
+      "actor": "One child washes hands while one round soap bubble floats above the basin",
+      "props": [
+        "bar of plain soap",
+        "wash basin",
+        "single soap bubble"
+      ],
+      "beats": [
+        "The child rubs the soap between wet hands",
+        "A bubble forms in the suds",
+        "One bubble floats above the basin"
+      ],
+      "ending": "One child watches a single soap bubble rise from the basin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Soap and water naturally form bubbles when someone washes. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No labels or lettering on the soap or basin."
+  },
+  {
+    "word": "grip",
+    "anchor": "rail",
+    "anchorMeaning": "栏杆",
+    "relation": "A grip is a firm hold and a rail is a familiar object people hold for support.",
+    "sentence": "He kept a firm grip on the rail as the boat rocked.",
+    "scene": {
+      "setting": "A small boat on gently choppy water",
+      "actor": "One sailor holds the boat rail firmly with both hands",
+      "props": [
+        "boat rail",
+        "small boat",
+        "plain life jacket"
+      ],
+      "beats": [
+        "The boat rocks gently",
+        "The sailor reaches for the rail",
+        "He keeps a firm grip to steady himself"
+      ],
+      "ending": "One sailor grips the rail as the boat tilts slightly"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A grip is a firm hold and a rail is a familiar object people hold for support. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One person only with two arms and two hands clearly attached."
+  },
+  {
+    "word": "sociable",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "A sociable person enjoys talking and spending time with other people.",
+    "sentence": "The sociable girl chatted with her friend at the garden table.",
+    "scene": {
+      "setting": "A quiet garden patio",
+      "actor": "Exactly two friends sit together and chat warmly at a small table",
+      "props": [
+        "wooden garden table",
+        "two plain cups",
+        "flower pot"
+      ],
+      "beats": [
+        "The girl greets her friend",
+        "They talk face to face",
+        "Her friendly conversation shows she is sociable"
+      ],
+      "ending": "Two friends share a pleasant conversation at the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A sociable person enjoys talking and spending time with other people. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no speech bubbles or text."
+  },
+  {
+    "word": "betray",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "Betraying a friend means breaking trust and a secretly kept shared key makes that disloyalty concrete.",
+    "sentence": "He can betray his friend by secretly keeping their shared key instead of returning it.",
+    "scene": {
+      "setting": "A simple garden gate beside a bench",
+      "actor": "One friend secretly slips a shared key behind his back while the other turns away trusting him",
+      "props": [
+        "shared plain key",
+        "garden gate",
+        "wooden bench"
+      ],
+      "beats": [
+        "The two friends stand by the gate",
+        "One friend hides the shared key",
+        "He withholds it instead of returning it and betrays the other's trust"
+      ],
+      "ending": "One friend hides the key behind his back as the other looks away"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Betraying a friend means breaking trust and a secretly kept shared key makes that disloyalty concrete. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no signs, labels, or extra keys."
+  },
+  {
+    "word": "handful",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "relation": "Hand + -ful forms handful; -ful indicates a quantity that can fill a hand.",
+    "sentence": "She scooped berries with her hand, leaving a handful in her palm.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One person scoops several berries by hand and holds a small handful",
+      "props": [
+        "fresh berries",
+        "wooden bowl",
+        "plain cloth"
+      ],
+      "beats": [
+        "She reaches into the bowl",
+        "She scoops berries with her hand",
+        "A handful rests in her open palm"
+      ],
+      "ending": "One open hand holds a small handful of berries beside the bowl"
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Hand + -ful forms handful; -ful indicates a quantity that can fill a hand. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show a modest handful only and no writing."
+  },
+  {
+    "word": "imperative",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "relation": "An imperative action is urgently necessary and a nearby fire makes the need to act immediate.",
+    "sentence": "With the fire closing in, it was imperative to reach the exit at once.",
+    "scene": {
+      "setting": "A plain room with a small fire near one doorway",
+      "actor": "One person hurries toward a clear open exit as a small contained fire spreads nearby",
+      "props": [
+        "small contained fire",
+        "plain open doorway",
+        "wooden bucket"
+      ],
+      "beats": [
+        "The fire grows near the room",
+        "The person notices the danger",
+        "Reaching the exit becomes imperative at once"
+      ],
+      "ending": "One person moves quickly toward the open doorway away from the fire"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An imperative action is urgently necessary and a nearby fire makes the need to act immediate. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No exit signs or text and keep the fire non-graphic."
+  },
+  {
+    "word": "reckon",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "To reckon means to calculate or estimate and coins are commonly counted to work out a fare.",
+    "sentence": "She used the coins in her palm to reckon the fare before boarding the bus.",
+    "scene": {
+      "setting": "A quiet bus stop at dawn",
+      "actor": "One traveler counts several coins before boarding a waiting bus",
+      "props": [
+        "plain coins",
+        "city bus",
+        "small travel bag"
+      ],
+      "beats": [
+        "The traveler checks the coins in her palm",
+        "She reckons the fare",
+        "She turns toward the waiting bus"
+      ],
+      "ending": "One traveler counts coins beside the bus door"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To reckon means to calculate or estimate and coins are commonly counted to work out a fare. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No route numbers, signs, or text."
+  },
+  {
+    "word": "acute",
+    "anchor": "mouse",
+    "anchorMeaning": "老鼠",
+    "relation": "Acute hearing is unusually keen and can catch a faint sound such as a mouse scratching.",
+    "sentence": "Her acute hearing caught the faint scratching of a mouse behind the wall.",
+    "scene": {
+      "setting": "A quiet cottage room beside a plain wall",
+      "actor": "One girl shown in a clear three-quarter front view, both arms and hands fully visible; one hand cups her ear and the other rests on her knee; one small mouse peeks from a single wall opening",
+      "props": [
+        "plain wall",
+        "single mouse",
+        "small wooden stool"
+      ],
+      "beats": [
+        "The room becomes quiet",
+        "A faint scratch comes from behind the wall",
+        "The girl's acute hearing catches the mouse"
+      ],
+      "ending": "One girl listens with one hand at her ear and her other hand resting on her knee as one mouse peeks from a wall opening"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Acute hearing is unusually keen and can catch a faint sound such as a mouse scratching. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show both full arms and both hands connected naturally; one hand cups the ear and the other rests on the knee; one mouse only; no sound symbols or text."
+  },
+  {
+    "word": "considerate",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "Bringing warm soup to someone who is ill is a thoughtful and considerate act.",
+    "sentence": "The considerate neighbor brought warm soup to the sick child.",
+    "scene": {
+      "setting": "A cozy bedroom in daylight",
+      "actor": "One neighbor gently offers a warm bowl of soup to one resting child",
+      "props": [
+        "bowl of warm soup",
+        "plain blanket",
+        "wooden bedside table"
+      ],
+      "beats": [
+        "The child rests under a blanket",
+        "The neighbor brings soup",
+        "The thoughtful gesture shows considerate care"
+      ],
+      "ending": "One neighbor offers soup to the child in bed"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Bringing warm soup to someone who is ill is a thoughtful and considerate act. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no labels or text."
+  },
+  {
+    "word": "heighten",
+    "anchor": "height",
+    "anchorMeaning": "高度",
+    "relation": "Height + -en forms heighten, a verb meaning to make higher or stronger.",
+    "sentence": "Workers heighten the fence with an extra board, increasing its height.",
+    "scene": {
+      "setting": "A garden beside a low wooden fence",
+      "actor": "One worker fastens a single board on top of the fence to make it higher",
+      "props": [
+        "wooden fence",
+        "single top board",
+        "plain hammer"
+      ],
+      "beats": [
+        "The worker measures the low fence by sight",
+        "He places one board along its top",
+        "The added board heightens the fence"
+      ],
+      "ending": "One worker attaches a board to the top of the fence"
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Height + -en forms heighten, a verb meaning to make higher or stronger. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One worker only and no measurements, marks, or numbers."
+  },
+  {
+    "word": "magnificent",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "Magnificent describes something grand and impressive and a towering mountain is a familiar example.",
+    "sentence": "The magnificent mountain rose above the small village.",
+    "scene": {
+      "setting": "A broad mountain valley at sunrise",
+      "actor": "No people; one grand mountain rises above a tiny village",
+      "props": [
+        "tall mountain",
+        "small village",
+        "soft morning clouds"
+      ],
+      "beats": [
+        "The clouds lift from the valley",
+        "The mountain peak comes into view",
+        "Its immense scale makes the scene magnificent"
+      ],
+      "ending": "A towering mountain overlooks the small village"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Magnificent describes something grand and impressive and a towering mountain is a familiar example. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Keep the scene natural with no signs or buildings bearing text."
+  },
+  {
+    "word": "rhythm",
+    "anchor": "drum",
+    "anchorMeaning": "鼓",
+    "relation": "A drum produces a steady rhythm through repeated beats.",
+    "sentence": "A steady rhythm came from the drum as she tapped it.",
+    "scene": {
+      "setting": "A simple music practice room with a plain blank wall",
+      "actor": "One child shown from the front with both arms and hands clearly visible; one hand taps a small hand drum while the other rests on the knee",
+      "props": [
+        "small hand drum",
+        "plain wooden stool",
+        "soft rug"
+      ],
+      "beats": [
+        "The child raises one hand",
+        "She taps the drum",
+        "A steady rhythm fills the quiet room"
+      ],
+      "ending": "One child taps the drum with one hand while the other hand rests visibly on the knee"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A drum produces a steady rhythm through repeated beats. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No writing, letters, framed pictures, posters, music notes, symbols, or extra objects; keep the wall blank; show exactly one child, one drum, one stool, and one rug."
+  },
+  {
+    "word": "cliff",
+    "anchor": "sea",
+    "anchorMeaning": "海",
+    "relation": "A cliff is a steep rock face that may rise directly above the sea.",
+    "sentence": "The narrow trail ended at a cliff above the sea.",
+    "scene": {
+      "setting": "A rocky coast under a clear sky",
+      "actor": "No people; a narrow trail stops at a steep cliff above the sea",
+      "props": [
+        "steep cliff",
+        "blue sea",
+        "narrow coastal trail"
+      ],
+      "beats": [
+        "The trail winds along the coast",
+        "It reaches the rock edge",
+        "The steep cliff drops toward the sea"
+      ],
+      "ending": "A coastal trail ends at the cliff above the water"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A cliff is a steep rock face that may rise directly above the sea. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs or rail labels."
+  },
+  {
+    "word": "curve",
+    "anchor": "hill",
+    "anchorMeaning": "小山",
+    "relation": "A curve is a line that bends rather than continuing straight.",
+    "sentence": "The road makes a sharp curve around the hill.",
+    "scene": {
+      "setting": "A country road around a green hill",
+      "actor": "No people; one smooth road bends around the side of a low hill",
+      "props": [
+        "curving road",
+        "green hill",
+        "small plain car"
+      ],
+      "beats": [
+        "The road approaches the hill",
+        "It bends sharply around it",
+        "The car follows the curve"
+      ],
+      "ending": "A car follows the curved road around the hill"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A curve is a line that bends rather than continuing straight. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No road signs, lane numbers, or writing."
+  },
+  {
+    "word": "destiny",
+    "anchor": "road",
+    "anchorMeaning": "道路",
+    "relation": "Destiny is a future course a person believes is meant for them and a fork in the road makes that choice visible.",
+    "sentence": "At the fork in the road, she chose the path she believed was her destiny.",
+    "scene": {
+      "setting": "A quiet countryside fork in a road",
+      "actor": "One traveler faces directly toward the viewer in a full-body front view; both arms and hands are held clearly away from the body; one hand holds a walking stick and the other points toward the chosen path; one small travel bag rests on the ground",
+      "props": [
+        "forked road",
+        "plain walking stick",
+        "small travel bag"
+      ],
+      "beats": [
+        "The traveler reaches the fork",
+        "She studies both open paths",
+        "She points toward the path she chooses as her destiny"
+      ],
+      "ending": "A front-facing traveler points clearly toward one path at a fork while holding a walking stick"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Destiny is a future course a person believes is meant for them and a fork in the road makes that choice visible. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show a full front view, never a rear view; both arms and hands must be fully visible and separate; keep the travel bag on the ground; no signs, labels, letters, or text."
+  },
+  {
+    "word": "dim",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "A dim lamp gives off only a weak amount of light.",
+    "sentence": "The dim lamp barely lit the room after sunset.",
+    "scene": {
+      "setting": "A small room at dusk",
+      "actor": "No people; one weak lamp gives a faint pool of light in the dark room",
+      "props": [
+        "plain table lamp",
+        "wooden table",
+        "dark window"
+      ],
+      "beats": [
+        "Sunset fades outside",
+        "The lamp glows weakly",
+        "Its dim light barely reaches across the room"
+      ],
+      "ending": "A weak lamp glows faintly on a table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A dim lamp gives off only a weak amount of light. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No clock faces, writing, or symbols."
+  },
+  {
+    "word": "paradox",
+    "anchor": "chicken",
+    "anchorMeaning": "鸡",
+    "relation": "The chicken-and-egg paradox is a familiar puzzle about which came first.",
+    "sentence": "The chicken-and-egg paradox made the farmer scratch his head.",
+    "scene": {
+      "setting": "A small farmyard beside a coop",
+      "actor": "One puzzled farmer looks between one hen and one egg",
+      "props": [
+        "single hen",
+        "single egg",
+        "plain straw basket"
+      ],
+      "beats": [
+        "The farmer sees the egg beside the hen",
+        "He considers which came first",
+        "The chicken-and-egg paradox leaves him puzzled"
+      ],
+      "ending": "One farmer scratches his head beside one hen and one egg"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. The chicken-and-egg paradox is a familiar puzzle about which came first. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly one hen and one egg with no words, signs, or extra animals."
+  }
+]

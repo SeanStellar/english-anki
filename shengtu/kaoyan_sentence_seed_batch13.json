@@ -1,0 +1,642 @@
+[
+  {
+    "word": "undergraduate",
+    "anchor": "campus",
+    "anchorMeaning": "校园",
+    "relation": "An undergraduate studies for a first university degree and spends time on campus.",
+    "sentence": "The undergraduate carried her books across the campus courtyard.（这名本科生抱着书穿过校园庭院。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A leafy university campus courtyard on a bright morning.",
+      "actor": "One undergraduate student carries a few plain books across the courtyard; only one person.",
+      "props": [
+        "one small stack of blank-covered books",
+        "a stone campus walkway",
+        "one leafy campus tree"
+      ],
+      "beats": [
+        "The student leaves a university building.",
+        "She carries her books across the campus courtyard.",
+        "She continues toward another classroom."
+      ],
+      "ending": "A young university student walks with books through the campus."
+    },
+    "artDirection": "One young adult with normal limbs. Book covers have no titles or text. No signs, writing, or logos; fill the frame with warm campus scenery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "publication",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "The publication of a new book makes the finished work available to readers.",
+    "sentence": "The publication of the new book delighted its author.（新书出版让作者十分高兴。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy bookshop on the day a new book arrives.",
+      "actor": "One author smiles while holding a fresh copy of the newly published book.",
+      "props": [
+        "one plain newly printed book with a blank cover",
+        "a small stack of identical blank-covered books",
+        "one simple bookshop counter"
+      ],
+      "beats": [
+        "A finished new book arrives at the shop.",
+        "The author opens and holds the first copy.",
+        "The author smiles as the book becomes available to readers."
+      ],
+      "ending": "The author celebrates the publication of the new book."
+    },
+    "artDirection": "No readable titles, labels, or writing on any book. One adult with natural hands; full-frame warm bookshop interior.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "poetry",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "Reading poetry aloud beside a quiet river links a poem with a peaceful scene.",
+    "sentence": "He read poetry aloud beside the quiet river.（他在宁静的河边朗读诗歌。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm riverbank beneath leafy trees.",
+      "actor": "One person reads from a small blank book beside the river; only one person.",
+      "props": [
+        "one gently flowing river",
+        "one small open book with blank pages",
+        "one smooth river stone"
+      ],
+      "beats": [
+        "The reader sits beside the quiet river.",
+        "He opens the little book and reads poetry aloud.",
+        "The words are spoken softly as the water flows."
+      ],
+      "ending": "A peaceful poetry reading takes place beside the river."
+    },
+    "artDirection": "Pages must be blank with no marks. One person only. No text or logos; fill the image with softly painted riverbank detail.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "necessity",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "A warm coat is a necessity when the weather is very cold.",
+    "sentence": "A warm coat is a necessity on the snowy mountain.（在雪山上，保暖外套是必需品。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A snowy mountain trail in cold weather.",
+      "actor": "One hiker wears a warm coat and walks through deep snow.",
+      "props": [
+        "one thick warm coat",
+        "a snowy mountain trail",
+        "snow-covered pine trees"
+      ],
+      "beats": [
+        "Cold wind sweeps across the mountain.",
+        "The hiker wraps the warm coat tightly.",
+        "The coat protects the hiker as the walk continues."
+      ],
+      "ending": "The warm coat is clearly necessary in the cold mountain weather."
+    },
+    "artDirection": "One hiker with normal limbs. Show cold weather without distress. No writing or logos; fill the frame with textured snow and trees.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "exposure",
+    "anchor": "painting",
+    "anchorMeaning": "画作",
+    "relation": "Uncovering a hidden painting reveals it to view; its exposure surprises the visitors.",
+    "sentence": "The exposure of the hidden painting surprised the visitors.（那幅隐藏画作的揭露让访客们很惊讶。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet gallery room during a small unveiling.",
+      "actor": "One gallery guide reveals a covered painting to one visitor; exactly two people.",
+      "props": [
+        "one framed painting partly uncovered by a plain cloth",
+        "one simple gallery wall",
+        "one small display plinth"
+      ],
+      "beats": [
+        "The painting is hidden beneath a cloth.",
+        "The guide lifts the cloth to reveal it.",
+        "The visitor looks surprised at the newly exposed painting."
+      ],
+      "ending": "The previously hidden painting is now fully exposed to view."
+    },
+    "artDirection": "Exactly two people with normal limbs. The painting itself has only simple abstract colors, no lettering. No signs, text, or logos; full-frame gallery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "imagination",
+    "anchor": "box",
+    "anchorMeaning": "纸箱",
+    "relation": "A child can use imagination to pretend an ordinary cardboard box is a spaceship.",
+    "sentence": "The child's imagination turned a cardboard box into a spaceship.（孩子发挥想象，把一个纸箱当成了宇宙飞船。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A playful bedroom transformed by a child's make-believe.",
+      "actor": "One child sits inside a cardboard box and imagines it is a spaceship; only one person.",
+      "props": [
+        "one large plain cardboard box with open flaps",
+        "one toy steering wheel with no markings",
+        "soft starry shapes painted on the wall"
+      ],
+      "beats": [
+        "The child climbs into the empty box.",
+        "The child pretends to steer it like a spaceship.",
+        "The child's imagination turns the box into an adventure."
+      ],
+      "ending": "The child happily pilots an ordinary box as an imaginary spaceship."
+    },
+    "artDirection": "One child with normal limbs. Use dreamy stars as scenery only, no symbols, letters, controls, or text. Keep the box obvious and fill the full frame with a warm room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "incentive",
+    "anchor": "medal",
+    "anchorMeaning": "奖牌",
+    "relation": "A medal can give a runner an incentive, or a reason, to keep training.",
+    "sentence": "The chance to win a medal gave the runner an incentive to train.（有机会赢得奖牌，成为跑步者坚持训练的动力。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny running track at a quiet sports field.",
+      "actor": "One runner trains steadily while a medal rests in clear view nearby.",
+      "props": [
+        "one plain medal with no engraving",
+        "one running track",
+        "one pair of running shoes"
+      ],
+      "beats": [
+        "The runner looks toward the medal.",
+        "The runner begins another practice lap.",
+        "The medal serves as motivation to keep training."
+      ],
+      "ending": "The runner continues practicing with the medal as a motivating goal."
+    },
+    "artDirection": "One runner with normal limbs. Medal has no writing or symbols. No signs, numbers, or logos; full-frame track and field.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "confident",
+    "anchor": "stage",
+    "anchorMeaning": "舞台",
+    "relation": "A person who speaks comfortably on stage looks confident.",
+    "sentence": "She felt confident as she spoke on the small stage.（她在小舞台上讲话时显得很自信。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small community theater stage with warm lights.",
+      "actor": "One woman stands upright and speaks calmly to an unseen audience; only one person visible.",
+      "props": [
+        "one simple wooden stage",
+        "one plain microphone stand",
+        "one warm spotlight"
+      ],
+      "beats": [
+        "The woman steps onto the stage.",
+        "She stands tall and speaks clearly.",
+        "Her relaxed smile and steady posture show confidence."
+      ],
+      "ending": "The speaker looks self-assured under the stage light."
+    },
+    "artDirection": "Only one visible person with normal limbs; no audience figures. No signs, words, or logos; full-frame softly painted theater.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "preference",
+    "anchor": "tea",
+    "anchorMeaning": "茶",
+    "relation": "Choosing tea over coffee shows a preference for tea.",
+    "sentence": "Her preference for tea was clear when she chose it over coffee.（她选择茶而不选咖啡，清楚地表现出她更喜欢茶。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen table in morning light.",
+      "actor": "One woman reaches for a cup of tea while leaving the coffee untouched.",
+      "props": [
+        "one steaming cup of tea",
+        "one plain cup of coffee",
+        "one small teapot"
+      ],
+      "beats": [
+        "Both tea and coffee sit on the table.",
+        "The woman reaches for the tea.",
+        "The coffee remains untouched, showing her preference."
+      ],
+      "ending": "The chosen tea and untouched coffee make her preference clear."
+    },
+    "artDirection": "One person with a natural hand. Cups and teapot have no writing or logos; full-frame cozy kitchen.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "assignment",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "A teacher's assignment to draw a tree gives the student a clear task to complete.",
+    "sentence": "The teacher gave one student an assignment to draw a tree.（老师给一名学生布置了画树的作业。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright classroom with a small desk.",
+      "actor": "One teacher hands one student a blank sheet with a simple tree sketch; exactly two people.",
+      "props": [
+        "one blank sheet with a simple tree drawing",
+        "one plain pencil",
+        "one small classroom desk"
+      ],
+      "beats": [
+        "The teacher gives the student a task.",
+        "The student looks at the tree drawing prompt.",
+        "The student begins the assigned drawing."
+      ],
+      "ending": "The student starts the assignment to draw a tree."
+    },
+    "artDirection": "Exactly two people with normal limbs. Paper has only a simple tree sketch, no words or numbers. No signs or logos; full-frame classroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "reliable",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "A reliable clock keeps accurate time day after day.",
+    "sentence": "The reliable old clock kept time through the long winter.（这座可靠的老钟整个漫长冬季都准时走着。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm cottage living room during winter.",
+      "actor": "No people; an old clock continues ticking steadily beside a frosty window.",
+      "props": [
+        "one wooden wall clock with a blank face and plain hands",
+        "one frosty window",
+        "one small log basket"
+      ],
+      "beats": [
+        "Snow gathers outside the window.",
+        "The old clock continues ticking steadily indoors.",
+        "The clock keeps time throughout the winter."
+      ],
+      "ending": "The dependable clock remains running through the cold season."
+    },
+    "artDirection": "Clock face must have no numbers or words, only plain hands. No writing or logos; fill the frame with warm winter interior.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "considerable",
+    "anchor": "snow",
+    "anchorMeaning": "积雪",
+    "relation": "A considerable amount of snow is large enough to cover much of a path.",
+    "sentence": "A considerable pile of snow covered the garden path.（一大堆积雪覆盖了花园小路。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden after a heavy snowfall.",
+      "actor": "No people; a large mound of snow covers most of a narrow garden path.",
+      "props": [
+        "one considerable mound of fresh snow",
+        "one narrow garden path partly buried",
+        "snow-covered shrubs"
+      ],
+      "beats": [
+        "Snow falls across the garden.",
+        "A large amount piles up on the narrow path.",
+        "The path becomes mostly covered by snow."
+      ],
+      "ending": "A considerable pile of snow makes the path difficult to see."
+    },
+    "artDirection": "Make the snow mound visibly large relative to the path. No people, writing, or logos; full-frame textured winter garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "massive",
+    "anchor": "boulder",
+    "anchorMeaning": "巨石",
+    "relation": "A massive boulder is extremely large and can block a narrow trail.",
+    "sentence": "A massive boulder blocked the narrow mountain trail.（一块巨石挡住了狭窄的山路。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A narrow mountain trail between rocky slopes.",
+      "actor": "No people; one huge boulder blocks the trail completely.",
+      "props": [
+        "one massive round boulder",
+        "one narrow mountain trail",
+        "rocky slopes with small stones"
+      ],
+      "beats": [
+        "The trail winds between the rocky slopes.",
+        "A huge boulder rests across the path.",
+        "The enormous rock blocks the way forward."
+      ],
+      "ending": "The boulder looks massive beside the narrow trail."
+    },
+    "artDirection": "Show one main boulder much larger than nearby stones. No people, text, or logos; fill the frame with hand-painted mountain scenery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "reverse",
+    "anchor": "garage",
+    "anchorMeaning": "车库",
+    "relation": "The driver selecting reverse gear before moving is a clear use of reverse for backward motion.",
+    "sentence": "The driver shifted into reverse inside the open garage.（司机在敞开的车库里挂入倒挡。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A driveway seen from outside an open garage, with a small car at the entrance.",
+      "actor": "One driver sits inside the car and shifts into reverse before leaving the garage; only one person.",
+      "props": [
+        "one small car with plain taillights",
+        "one open garage",
+        "one clear driveway"
+      ],
+      "beats": [
+        "The driver sits inside the car at the open garage.",
+        "The driver selects reverse gear to prepare to move backward.",
+        "The rear reverse lights turn on before the car backs out."
+      ],
+      "ending": "The car waits at the open garage with its reverse lights on and the driver inside."
+    },
+    "artDirection": "Show one driver inside the car and clear white reverse lights at the rear, with the open garage visible. No one outside. No arrows, writing, numbers, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "复核通过：句子自然简洁，reverse 和 garage 锚点明确；挂入倒挡与现图中的司机、车库及倒车灯一致。"
+    }
+  },
+  {
+    "word": "skim",
+    "anchor": "pond",
+    "anchorMeaning": "池塘",
+    "relation": "A flat stone can skim by bouncing lightly across the surface of a pond.",
+    "sentence": "A flat stone can skim across the surface of the pond.（一块扁平的石头可以掠过池塘水面。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful pond beside a grassy bank.",
+      "actor": "No people; one flat stone skips lightly across the water surface.",
+      "props": [
+        "one flat smooth stone just above the water",
+        "one pond surface with small ripples",
+        "one grassy bank"
+      ],
+      "beats": [
+        "The flat stone touches the pond surface.",
+        "It bounces lightly from ripple to ripple.",
+        "The stone skims across the water before sinking near the far side."
+      ],
+      "ending": "The stone travels lightly over the pond surface in a clear skipping motion."
+    },
+    "artDirection": "Show one continuous pond scene and one stone at the moment it skips. No text or logos; full-frame natural water and bank.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "skilled",
+    "anchor": "wood",
+    "anchorMeaning": "木材",
+    "relation": "A skilled carpenter shapes wood with practiced, precise movements.",
+    "sentence": "The skilled carpenter shaped the wood with steady hands.（熟练的木匠用稳健的手法塑造木材。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy woodworking shop in warm daylight.",
+      "actor": "One carpenter carefully smooths a wooden board with a hand plane.",
+      "props": [
+        "one wooden board clamped to a workbench",
+        "one simple hand plane",
+        "wood shavings curling on the bench"
+      ],
+      "beats": [
+        "The carpenter positions the board securely.",
+        "The carpenter guides the hand plane smoothly along the wood.",
+        "A clean surface and curled shavings show practiced skill."
+      ],
+      "ending": "The carpenter shapes the wood with confidence and precision."
+    },
+    "artDirection": "One adult with natural hands and arms. No power tools, writing, labels, or logos; full-frame detailed workshop.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "satisfaction",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "relation": "Finishing a puzzle can bring a feeling of satisfaction and accomplishment.",
+    "sentence": "Finishing the puzzle gave him a feeling of satisfaction.（完成拼图让他感到满足和自豪。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy playroom with a low table.",
+      "actor": "One child smiles with quiet pride beside a completed puzzle.",
+      "props": [
+        "one completed plain wooden puzzle",
+        "one low table",
+        "one simple toy shelf"
+      ],
+      "beats": [
+        "The child places the final puzzle piece.",
+        "The picture becomes complete.",
+        "The child smiles with a satisfied sense of accomplishment."
+      ],
+      "ending": "The completed puzzle and pleased expression show satisfaction."
+    },
+    "artDirection": "One child with normal limbs. Puzzle has only simple colors, no letters or numbers; no text or logos, full-frame warm room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "ceremony",
+    "anchor": "flower arch",
+    "anchorMeaning": "花拱门",
+    "relation": "A flower arch can frame a formal ceremony such as a wedding.",
+    "sentence": "The ceremony began as the couple walked beneath a flower arch.（这对新人从花拱门下走过，仪式随之开始。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden decorated for a small wedding ceremony.",
+      "actor": "Two adults walk together beneath a flower arch; exactly two people.",
+      "props": [
+        "one flower-covered arch",
+        "one garden path",
+        "two simple chairs at the side"
+      ],
+      "beats": [
+        "The couple approaches the flower arch.",
+        "They walk together beneath it.",
+        "The ceremony begins in the garden."
+      ],
+      "ending": "The couple passes under the flower arch at the start of the ceremony."
+    },
+    "artDirection": "Exactly two adults with normal limbs. No officiant, guests, signs, writing, or logos; fill the image with a warm garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "unlikely",
+    "anchor": "paper boat",
+    "anchorMeaning": "纸船",
+    "relation": "A paper boat carrying a heavy stone across a pond is unlikely because it would probably sink.",
+    "sentence": "It is unlikely that a paper boat will carry a heavy stone across the pond.（纸船不太可能载着沉重的石头横渡池塘。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small pond beside a quiet garden path.",
+      "actor": "No people; one small paper boat is almost sinking under the weight of one heavy stone.",
+      "props": [
+        "one small plain paper boat",
+        "one heavy smooth stone inside the boat",
+        "one calm pond surface"
+      ],
+      "beats": [
+        "The tiny paper boat floats low on the pond.",
+        "The heavy stone makes one side of the boat bend and dip beneath the water.",
+        "Water reaches the rim, showing the boat is unlikely to carry the stone across."
+      ],
+      "ending": "The overloaded paper boat is tilted and nearly sinking before it can cross the pond."
+    },
+    "artDirection": "Show the paper boat bending and riding dangerously low, with water lapping over one edge; it must look unlikely to carry the heavy stone across. One boat and one stone only. No writing, symbols, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复审通过：例句清楚表达 unlikely，纸船和重石锚点明确；已把船改为倾斜近沉，以呈现难以承载。"
+    }
+  },
+  {
+    "word": "observation",
+    "anchor": "nest",
+    "anchorMeaning": "鸟巢",
+    "relation": "Careful observation can reveal a nest hidden among the tree branches.",
+    "sentence": "Her careful observation revealed a nest hidden in the tree.（她仔细观察后，发现树上藏着一个鸟巢。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden with a leafy tree.",
+      "actor": "One woman looks closely into the tree and notices a hidden nest; only one person.",
+      "props": [
+        "one small bird nest tucked among branches",
+        "one leafy tree",
+        "one simple handheld magnifying glass"
+      ],
+      "beats": [
+        "The woman scans the tree branches carefully.",
+        "She notices a nest partly hidden by leaves.",
+        "Her observation reveals what was easy to miss."
+      ],
+      "ending": "The woman has spotted the hidden nest through careful observation."
+    },
+    "artDirection": "Keep one nest clearly visible among leaves, no birds necessary. One person with normal limbs; no writing or logos, full-frame garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  }
+]

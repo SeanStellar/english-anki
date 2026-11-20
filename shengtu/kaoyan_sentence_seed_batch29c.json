@@ -1,0 +1,787 @@
+[
+  {
+    "word": "beverage",
+    "targetSense": "饮料",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃杯",
+    "relation": "A beverage is any drink prepared for people to consume.",
+    "sentence": "She poured a cold beverage into a glass after the race.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A shady rest stop",
+      "actor": "One woman pours a cool drink into a glass after running",
+      "props": [
+        "clear beverage",
+        "drinking glass",
+        "water bottle"
+      ],
+      "beats": [
+        "She reaches the rest stop",
+        "She pours the drink",
+        "She lifts the glass"
+      ],
+      "ending": "A cold beverage is poured into a glass"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She poured a cold beverage into a glass after the race.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "bulb",
+    "targetSense": "灯泡",
+    "anchor": "desk",
+    "anchorMeaning": "书桌",
+    "relation": "A bulb is the light-producing part of a lamp.",
+    "sentence": "The electrician replaced the broken bulb above the desk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study room",
+      "actor": "One electrician replaces a broken bulb above a desk lamp",
+      "props": [
+        "single bulb",
+        "desk lamp",
+        "small screwdriver"
+      ],
+      "beats": [
+        "The old bulb is removed",
+        "The new bulb is fitted",
+        "The desk lamp lights up"
+      ],
+      "ending": "A new bulb glows above a desk"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The electrician replaced the broken bulb above the desk.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "erect",
+    "targetSense": "建立；竖起",
+    "anchor": "flagpole",
+    "anchorMeaning": "旗杆",
+    "relation": "To erect something is to build it or put it upright in position.",
+    "sentence": "Workers used a crane to erect a new flagpole.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A schoolyard",
+      "actor": "Two workers guide a crane as it raises a new flagpole",
+      "props": [
+        "crane",
+        "new flagpole",
+        "schoolyard ground"
+      ],
+      "beats": [
+        "The pole lies on the ground",
+        "The crane lifts it",
+        "The workers set it upright"
+      ],
+      "ending": "A flagpole is erected in a schoolyard"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Workers used a crane to erect a new flagpole.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "expire",
+    "targetSense": "到期；失效",
+    "anchor": "milk",
+    "anchorMeaning": "牛奶",
+    "relation": "When something expires, its valid period or useful life ends.",
+    "sentence": "The milk will expire soon, so she checked the carton.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright kitchen with an open refrigerator",
+      "actor": "One woman checks a plain blank milk carton beside the open refrigerator",
+      "props": [
+        "plain blank milk carton",
+        "refrigerator",
+        "clear glass"
+      ],
+      "beats": [
+        "She takes the carton from the fridge",
+        "She checks the unmarked carton",
+        "She returns the milk to the refrigerator"
+      ],
+      "ending": "A woman checks a plain milk carton before it expires",
+      "artDirection": "The carton must be completely blank with no logo, word, date, or writing. No other text."
+    },
+    "artDirection": "The carton must be completely blank with no logo, word, date, or writing. No other text.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The milk will expire soon, so she checked the carton.” It matches the intended food-expiration sense."
+    }
+  },
+  {
+    "word": "grace",
+    "targetSense": "优雅；文雅",
+    "anchor": "stage",
+    "anchorMeaning": "舞台",
+    "relation": "Grace is smooth, controlled movement that looks elegant.",
+    "sentence": "The dancer moved with grace across the wooden stage.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small dance stage",
+      "actor": "One dancer moves elegantly across a wooden stage",
+      "props": [
+        "wooden stage",
+        "soft curtain",
+        "plain dance shoes"
+      ],
+      "beats": [
+        "The dancer steps forward",
+        "She turns smoothly",
+        "She finishes in a balanced pose"
+      ],
+      "ending": "A dancer moves with grace across the stage"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The dancer moved with grace across the wooden stage.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "gulf",
+    "targetSense": "海湾；巨大差距",
+    "anchor": "shore",
+    "anchorMeaning": "海岸",
+    "relation": "A gulf is a wide inlet of the sea or a large separation.",
+    "sentence": "A wide gulf separated the two rocky shores.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A rocky coastline",
+      "actor": "No people; a broad gulf of water lies between two rocky shores",
+      "props": [
+        "wide gulf",
+        "rocky shore",
+        "small distant island"
+      ],
+      "beats": [
+        "The water stretches between the shores",
+        "Waves cross the gulf",
+        "The two sides remain far apart"
+      ],
+      "ending": "A wide gulf separates two shores"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A wide gulf separated the two rocky shores.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "layout",
+    "targetSense": "布局；安排",
+    "anchor": "shelf",
+    "anchorMeaning": "架子",
+    "relation": "A layout is the way items or parts are arranged in a space.",
+    "sentence": "She changed the layout of the books on the shelf.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet library corner",
+      "actor": "One woman rearranges books along a wooden shelf",
+      "props": [
+        "wooden shelf",
+        "stack of books",
+        "small stool"
+      ],
+      "beats": [
+        "She studies the arrangement",
+        "She moves the books",
+        "She creates a new layout"
+      ],
+      "ending": "Books form a changed layout on the shelf"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She changed the layout of the books on the shelf.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "librarian",
+    "targetSense": "图书管理员",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "A librarian organizes books and helps people use a library.",
+    "sentence": "The librarian returned a book to its proper shelf.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small library",
+      "actor": "One librarian places a book on a library shelf",
+      "props": [
+        "single book",
+        "wooden shelf",
+        "book trolley"
+      ],
+      "beats": [
+        "The librarian wheels the trolley over",
+        "She picks up the book",
+        "She returns it to the shelf"
+      ],
+      "ending": "A librarian reshelves a book"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The librarian returned a book to its proper shelf.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "lover",
+    "targetSense": "情人；恋人",
+    "anchor": "rose",
+    "anchorMeaning": "玫瑰",
+    "relation": "A lover is someone in a romantic relationship with another person.",
+    "sentence": "Her lover gave her a red rose beside the garden gate.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden gate",
+      "actor": "Two adults meet beside a garden gate as one gives the other a rose",
+      "props": [
+        "single red rose",
+        "wooden gate",
+        "small path"
+      ],
+      "beats": [
+        "The two adults meet",
+        "One offers the rose",
+        "The other accepts it"
+      ],
+      "ending": "A lover gives a rose at the garden gate"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Her lover gave her a red rose beside the garden gate.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "marital",
+    "targetSense": "婚姻的",
+    "anchor": "counselor",
+    "anchorMeaning": "咨询师",
+    "relation": "Marital describes something relating to marriage or spouses.",
+    "sentence": "A counselor helped the couple discuss a marital problem.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A calm counseling room",
+      "actor": "One counselor sits across a married couple as they discuss a marital problem",
+      "props": [
+        "three chairs",
+        "blank notepad",
+        "plain wedding rings"
+      ],
+      "beats": [
+        "The couple sits with the counselor",
+        "The counselor listens as they describe a problem",
+        "The couple discusses a way forward"
+      ],
+      "ending": "A counselor helps a couple discuss a marital problem",
+      "artDirection": "Show exactly one counselor and one couple. Keep the notepad blank. No readable text, numbers, or logos."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “A counselor helped the couple discuss a marital problem.” The sentence is natural, the counselor anchor is directly drawable, and “marital” clearly modifies “problem.”"
+    }
+  },
+  {
+    "word": "precedent",
+    "targetSense": "先例",
+    "anchor": "court",
+    "anchorMeaning": "法院",
+    "relation": "A precedent is an earlier decision used as a guide for a later one.",
+    "sentence": "The court followed a precedent from an earlier case.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet courtroom desk",
+      "actor": "One judge compares an older case file with a new blank file",
+      "props": [
+        "older case file",
+        "blank new file",
+        "wooden desk"
+      ],
+      "beats": [
+        "The judge opens the older file",
+        "She considers its ruling",
+        "She applies the precedent"
+      ],
+      "ending": "An earlier case guides a new court decision"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The court followed a precedent from an earlier case.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "reckless",
+    "targetSense": "鲁莽的",
+    "anchor": "cyclist",
+    "anchorMeaning": "骑车人",
+    "relation": "Reckless describes acting without enough care for danger or consequences.",
+    "sentence": "The reckless cyclist sped down the hill without a helmet.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A sloping road in a park",
+      "actor": "One cyclist rides too fast downhill without a helmet",
+      "props": [
+        "bicycle",
+        "steep hill",
+        "plain helmet on the ground"
+      ],
+      "beats": [
+        "The cyclist starts down the slope",
+        "He speeds up",
+        "He struggles to control the bicycle"
+      ],
+      "ending": "A reckless cyclist speeds down a hill"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The reckless cyclist sped down the hill without a helmet.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "spill",
+    "targetSense": "洒出；溢出",
+    "anchor": "milk",
+    "anchorMeaning": "牛奶",
+    "relation": "To spill a liquid is to let it flow out of its container by accident.",
+    "sentence": "The child began to spill milk across the wooden table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen",
+      "actor": "One child tips a glass and spills milk across the table",
+      "props": [
+        "glass of milk",
+        "wooden table",
+        "plain cloth"
+      ],
+      "beats": [
+        "The glass tips over",
+        "Milk spreads across the table",
+        "The child reaches for a cloth"
+      ],
+      "ending": "Milk spills across a wooden table"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The child began to spill milk across the wooden table.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "bald",
+    "targetSense": "秃头的",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "Bald describes a person whose head has little or no hair.",
+    "sentence": "The bald man took off his wool hat, revealing his smooth bare scalp in the snow.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A snowy garden path",
+      "actor": "One visibly bald man removes his wool hat and reveals his smooth bare scalp",
+      "props": [
+        "wool hat held in one hand",
+        "smooth bare scalp",
+        "snowy path"
+      ],
+      "beats": [
+        "Snow falls on the winter path",
+        "The bald man removes his wool hat",
+        "His smooth bare scalp is clearly visible"
+      ],
+      "ending": "A bald man holds his wool hat with his bare scalp visible in the snow",
+      "artDirection": "Show a clearly hairless scalp and the wool hat in his hand. No readable text, numbers, logos, or extra people."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The bald man took off his wool hat, revealing his smooth bare scalp in the snow.” The sentence is natural, readable, and makes both the target feature and hat anchor visible."
+    }
+  },
+  {
+    "word": "bankrupt",
+    "targetSense": "破产的",
+    "anchor": "shop",
+    "anchorMeaning": "商店",
+    "relation": "A business is bankrupt when it can no longer pay its debts.",
+    "sentence": "The shop went bankrupt after it could no longer pay its bills.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A closed shop interior",
+      "actor": "One shop owner sits beside a stack of unpaid blank bills",
+      "props": [
+        "closed shop door",
+        "blank bills",
+        "empty cash box"
+      ],
+      "beats": [
+        "The shop has no customers",
+        "The owner studies the bills",
+        "The empty box shows the business cannot pay"
+      ],
+      "ending": "A shop closes after going bankrupt"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The shop went bankrupt after it could no longer pay its bills.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "cumulative",
+    "targetSense": "累积的",
+    "anchor": "books",
+    "anchorMeaning": "书",
+    "relation": "Cumulative describes an effect that grows as more parts are added.",
+    "sentence": "The cumulative weight of the books made the wooden shelf sag in the middle.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A study room",
+      "actor": "No people; a heavy stack of books makes the center of a wooden shelf sag visibly downward",
+      "props": [
+        "wooden shelf bowed at the center",
+        "stack of books",
+        "clear floor beneath the shelf"
+      ],
+      "beats": [
+        "Several books rest together on the shelf",
+        "Their combined load presses down on its center",
+        "The shelf curves visibly under the cumulative weight"
+      ],
+      "ending": "The middle of the shelf bends sharply under the combined weight of the books",
+      "artDirection": "Make the shelf visibly curved downward at its center, with the books clearly causing the bend. Avoid a flat or straight shelf."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The cumulative weight of the books made the wooden shelf sag in the middle.” Natural and readable; the anchor books and cumulative effect are both directly drawable."
+    }
+  },
+  {
+    "word": "dubious",
+    "targetSense": "可疑的；不确定的",
+    "anchor": "stranger",
+    "anchorMeaning": "陌生人",
+    "relation": "Dubious describes something doubtful or not easy to believe.",
+    "sentence": "The detective found the stranger's excuse dubious.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple interview room",
+      "actor": "One detective studies a stranger's blank note with a doubtful expression",
+      "props": [
+        "plain chair",
+        "blank note",
+        "wooden table"
+      ],
+      "beats": [
+        "The stranger offers an excuse",
+        "The detective studies the note",
+        "She looks doubtful"
+      ],
+      "ending": "A detective finds an excuse dubious"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The detective found the stranger's excuse dubious.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "gently",
+    "targetSense": "轻轻地；温柔地",
+    "anchor": "kitten",
+    "anchorMeaning": "小猫",
+    "relation": "Gently means using a soft, careful touch or manner.",
+    "sentence": "She gently placed the sleeping kitten on a cushion.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm living room",
+      "actor": "One woman carefully places a sleeping kitten on a cushion",
+      "props": [
+        "sleeping kitten",
+        "soft cushion",
+        "wooden chair"
+      ],
+      "beats": [
+        "She lifts the kitten carefully",
+        "She lowers it to the cushion",
+        "The kitten remains asleep"
+      ],
+      "ending": "A kitten is placed gently on a cushion"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She gently placed the sleeping kitten on a cushion.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "integral",
+    "targetSense": "必需的；不可或缺的",
+    "anchor": "cart",
+    "anchorMeaning": "手推车",
+    "relation": "Integral describes a part that is necessary to make a whole complete.",
+    "sentence": "A wheel is an integral part of the old cart.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A farmyard",
+      "actor": "No people; an old cart stands with all its wheels attached",
+      "props": [
+        "old cart",
+        "single visible wheel",
+        "grass field"
+      ],
+      "beats": [
+        "The cart rests on the grass",
+        "Its wheel supports the frame",
+        "The complete cart stands ready"
+      ],
+      "ending": "A wheel is integral to a cart"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A wheel is an integral part of the old cart.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "mediate",
+    "targetSense": "调停；促成和解",
+    "anchor": "talk",
+    "anchorMeaning": "交谈",
+    "relation": "To mediate is to help people settle a disagreement through discussion.",
+    "sentence": "A calm talk helped the neighbors mediate their disagreement.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A garden bench between two neighboring homes",
+      "actor": "Two neighbors sit apart at first, then calmly talk and shake hands after resolving their disagreement",
+      "props": [
+        "garden bench",
+        "two cups of tea",
+        "open garden gate"
+      ],
+      "beats": [
+        "The neighbors sit with tense expressions",
+        "They discuss their disagreement calmly over tea",
+        "They shake hands after reaching agreement"
+      ],
+      "ending": "Two neighbors settle a disagreement through a calm talk",
+      "artDirection": "Show a clear transition from disagreement to agreement while keeping the scene warm and readable."
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “A calm talk helped the neighbors mediate their disagreement.” The sentence is natural and clear; the next image should show both the disagreement and its resolution through a calm talk."
+    }
+  }
+]

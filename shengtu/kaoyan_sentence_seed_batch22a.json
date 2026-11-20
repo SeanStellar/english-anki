@@ -1,0 +1,662 @@
+[
+  {
+    "word": "reflection",
+    "anchor": "mirror",
+    "anchorMeaning": "镜子",
+    "sentence": "Her reflection in the mirror copied every movement.",
+    "relation": "The scene links reflection with mirror: Her reflection in the mirror copied every movement.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet bedroom with a plain full-length mirror.",
+      "actor": "One adult woman looks into the mirror and raises one hand.",
+      "props": [
+        "one tall mirror",
+        "one simple wooden stool",
+        "one plain hairbrush"
+      ],
+      "beats": [
+        "The woman looks at herself in the mirror.",
+        "She raises a hand.",
+        "Her reflection makes the same movement."
+      ],
+      "ending": "The woman and her matching reflection are clearly visible in the mirror."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links reflection with mirror: Her reflection in the mirror copied every movement.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "golden",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "sentence": "The golden sun lit the field behind the old barn.",
+    "relation": "The scene links golden with sun: The golden sun lit the field behind the old barn.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A wide farm field at sunrise.",
+      "actor": "No people; the warm golden sun shines over the field.",
+      "props": [
+        "one large golden sun",
+        "one open field",
+        "one old barn"
+      ],
+      "beats": [
+        "The sun rises above the horizon.",
+        "Golden light spreads across the field.",
+        "The barn and grass glow warm gold."
+      ],
+      "ending": "Golden sunlight fills the field behind the barn."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links golden with sun: The golden sun lit the field behind the old barn.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "charm",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "sentence": "The kitten’s charm won a smile from the child.",
+    "relation": "The scene links charm with smile: The kitten’s charm won a smile from the child.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cozy living room with a soft rug.",
+      "actor": "Exactly two people or animals: one child smiles at one friendly kitten.",
+      "props": [
+        "one friendly kitten",
+        "one simple ball of yarn",
+        "one soft rug"
+      ],
+      "beats": [
+        "The kitten sits beside the yarn.",
+        "The child notices its playful face.",
+        "The kitten’s charm brings a smile."
+      ],
+      "ending": "The child smiles warmly at the charming kitten."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links charm with smile: The kitten’s charm won a smile from the child.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "edit",
+    "anchor": "pencil",
+    "anchorMeaning": "铅笔",
+    "sentence": "She used a pencil to edit the drawing before dinner.",
+    "relation": "The scene links edit with pencil: She used a pencil to edit the drawing before dinner.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright art table near a window.",
+      "actor": "One adult woman carefully corrects a simple drawing with a pencil.",
+      "props": [
+        "one plain pencil",
+        "one blank-edged drawing of a house",
+        "one wooden table"
+      ],
+      "beats": [
+        "She studies the drawing.",
+        "She changes one small part with the pencil.",
+        "The corrected drawing looks better."
+      ],
+      "ending": "The woman edits her drawing with a pencil."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links edit with pencil: She used a pencil to edit the drawing before dinner.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "lifetime",
+    "anchor": "watch",
+    "anchorMeaning": "手表",
+    "sentence": "He kept the old watch with him for a lifetime.",
+    "relation": "The scene links lifetime with watch: He kept the old watch with him for a lifetime.",
+    "artDirection": "No text, letters, numbers, tick marks, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet sitting room in warm afternoon light.",
+      "actor": "One elderly man holds a well-worn wristwatch and looks at it fondly.",
+      "props": [
+        "one old wristwatch with a completely blank face and no hands or markings",
+        "one comfortable armchair",
+        "one small family portrait with no writing"
+      ],
+      "beats": [
+        "He lifts the old wristwatch.",
+        "He remembers a long life with it.",
+        "He holds it carefully beside the chair."
+      ],
+      "ending": "The elderly man keeps the blank-faced watch close after a lifetime of memories."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links lifetime with watch: He kept the old watch with him for a lifetime.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  },
+  {
+    "word": "amid",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "sentence": "Amid the tall trees, a small cabin stood beside a stream.",
+    "relation": "The scene links amid with tree: Amid the tall trees, a small cabin stood beside a stream.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful forest clearing.",
+      "actor": "No people; one small cabin sits among many tall trees by the stream.",
+      "props": [
+        "one small wooden cabin",
+        "many tall trees",
+        "one clear stream"
+      ],
+      "beats": [
+        "Tall trees surround the clearing.",
+        "The cabin stands between them.",
+        "The stream runs beside the cabin."
+      ],
+      "ending": "The cabin sits amid the trees beside the stream."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links amid with tree: Amid the tall trees, a small cabin stood beside a stream.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "identical",
+    "anchor": "twin",
+    "anchorMeaning": "双胞胎",
+    "sentence": "The twins wore identical red coats beside the garden gate.",
+    "relation": "The scene links identical with twin: The twins wore identical red coats beside the garden gate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cottage garden entrance.",
+      "actor": "Exactly two children who are twins stand side by side in matching red coats.",
+      "props": [
+        "two identical red coats",
+        "one plain garden gate",
+        "one short path"
+      ],
+      "beats": [
+        "The twins meet beside the gate.",
+        "They wear matching coats.",
+        "Their coats look identical."
+      ],
+      "ending": "The twins stand together in identical red coats."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links identical with twin: The twins wore identical red coats beside the garden gate.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "instruct",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "sentence": "The coach used a ball to instruct the child in how to pass.",
+    "relation": "The scene links instruct with ball: The coach used a ball to instruct the child in how to pass.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An empty practice field.",
+      "actor": "Exactly two people: one adult coach shows one child how to pass a ball.",
+      "props": [
+        "one plain soccer ball",
+        "one open patch of grass",
+        "one simple pair of cones"
+      ],
+      "beats": [
+        "The coach demonstrates a pass.",
+        "The child watches carefully.",
+        "The coach instructs the child to pass the ball."
+      ],
+      "ending": "The coach guides the child through a simple pass."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links instruct with ball: The coach used a ball to instruct the child in how to pass.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "refugee",
+    "anchor": "suitcase",
+    "anchorMeaning": "手提箱",
+    "sentence": "A refugee carried a suitcase toward a welcoming shelter after crossing the river.",
+    "relation": "The scene links refugee with suitcase: A refugee carried a suitcase toward a welcoming shelter after crossing the river.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm riverside path leading to a small shelter.",
+      "actor": "One adult refugee carries a suitcase toward the shelter; no other people appear.",
+      "props": [
+        "one plain suitcase",
+        "one small welcoming shelter",
+        "one simple path beside the river"
+      ],
+      "beats": [
+        "The refugee reaches the far bank.",
+        "They carry the suitcase along the path.",
+        "The shelter offers a safe place to rest."
+      ],
+      "ending": "The refugee arrives at the shelter with a suitcase."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links refugee with suitcase: A refugee carried a suitcase toward a welcoming shelter after crossing the river.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "nap",
+    "anchor": "sofa",
+    "anchorMeaning": "沙发",
+    "sentence": "The tired cat took a nap on the warm sofa.",
+    "relation": "The scene links nap with sofa: The tired cat took a nap on the warm sofa.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cozy sunlit living room.",
+      "actor": "No people; one sleepy cat naps on a soft sofa.",
+      "props": [
+        "one calm cat",
+        "one comfortable sofa",
+        "one patch of warm sunlight"
+      ],
+      "beats": [
+        "The cat curls up on the sofa.",
+        "Its eyes close.",
+        "The cat settles into a nap."
+      ],
+      "ending": "The cat sleeps peacefully on the sofa."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links nap with sofa: The tired cat took a nap on the warm sofa.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "classical",
+    "anchor": "piano",
+    "anchorMeaning": "钢琴",
+    "sentence": "She played classical music on the piano beside the open window.",
+    "relation": "The scene links classical with piano: She played classical music on the piano beside the open window.",
+    "artDirection": "No sheet music, notation, text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An elegant, quiet music room with an open window.",
+      "actor": "One adult pianist plays a grand piano; no audience appears.",
+      "props": [
+        "one grand piano with an empty music stand",
+        "one wooden piano stool",
+        "one plain open window"
+      ],
+      "beats": [
+        "The pianist sits at the keys.",
+        "Their hands play a gentle melody.",
+        "Classical music fills the room."
+      ],
+      "ending": "The pianist plays classical music beside the open window."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links classical with piano: She played classical music on the piano beside the open window.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  },
+  {
+    "word": "sequence",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "sentence": "She arranged the cups in sequence from smallest to largest.",
+    "relation": "The scene links sequence with cup: She arranged the cups in sequence from smallest to largest.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean kitchen counter.",
+      "actor": "One adult woman lines up several plain cups in increasing size.",
+      "props": [
+        "three plain cups of different sizes",
+        "one clean counter",
+        "one simple shelf"
+      ],
+      "beats": [
+        "She places the smallest cup first.",
+        "She adds cups in order of size.",
+        "The sequence ends with the largest cup."
+      ],
+      "ending": "The cups form a clear sequence from small to large."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links sequence with cup: She arranged the cups in sequence from smallest to largest.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "systematic",
+    "anchor": "plan",
+    "anchorMeaning": "计划",
+    "sentence": "He used a systematic plan to sort the tools by size.",
+    "relation": "The scene links systematic with plan: He used a systematic plan to sort the tools by size.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy workbench in a quiet shed.",
+      "actor": "One adult man sorts tools carefully into an orderly row.",
+      "props": [
+        "one simple tool rack",
+        "several plain tools",
+        "one wooden workbench"
+      ],
+      "beats": [
+        "He lays the tools out.",
+        "He sorts them by size in a fixed order.",
+        "His systematic plan keeps the bench tidy."
+      ],
+      "ending": "The tools are arranged methodically by size."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links systematic with plan: He used a systematic plan to sort the tools by size.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "horizon",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "sentence": "The red sun sank below the horizon beyond the sea.",
+    "relation": "The scene links horizon with sun: The red sun sank below the horizon beyond the sea.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet beach at sunset.",
+      "actor": "No people; the red sun lowers toward the distant sea horizon.",
+      "props": [
+        "one red setting sun",
+        "one calm sea",
+        "one clear horizon line"
+      ],
+      "beats": [
+        "The sun moves lower.",
+        "The sea meets the sky far away.",
+        "The sun slips below the horizon."
+      ],
+      "ending": "The sun sinks beneath the distant horizon."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links horizon with sun: The red sun sank below the horizon beyond the sea.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "apparent",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "sentence": "Her relief was apparent when she smiled at the open gate.",
+    "relation": "The scene links apparent with smile: Her relief was apparent when she smiled at the open gate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A garden entrance in soft morning light.",
+      "actor": "One adult woman smiles with visible relief beside an open gate.",
+      "props": [
+        "one open garden gate",
+        "one simple path",
+        "one small flowering plant"
+      ],
+      "beats": [
+        "The woman sees the gate open.",
+        "Her worried face relaxes.",
+        "Her relief is apparent in her smile."
+      ],
+      "ending": "The woman smiles with clear relief by the gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links apparent with smile: Her relief was apparent when she smiled at the open gate.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "guidance",
+    "anchor": "teacher",
+    "anchorMeaning": "老师",
+    "sentence": "With her teacher’s guidance, she learned to cross the narrow bridge.",
+    "relation": "The scene links guidance with teacher: With her teacher’s guidance, she learned to cross the narrow bridge.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet park with a narrow footbridge.",
+      "actor": "Exactly two people: one adult teacher guides one student across the bridge.",
+      "props": [
+        "one narrow wooden bridge",
+        "one calm stream",
+        "one plain school bag"
+      ],
+      "beats": [
+        "The student pauses at the bridge.",
+        "The teacher offers a steady hand.",
+        "The student crosses with guidance."
+      ],
+      "ending": "The teacher guides the student safely across."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links guidance with teacher: With her teacher’s guidance, she learned to cross the narrow bridge.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "fierce",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "sentence": "A fierce dog guarded the gate during the storm.",
+    "relation": "The scene links fierce with dog: A fierce dog guarded the gate during the storm.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cottage gate on a windy rainy evening.",
+      "actor": "One alert dog stands guard behind the gate; no one is threatened or hurt.",
+      "props": [
+        "one strong-looking dog",
+        "one sturdy gate",
+        "one dark rain cloud"
+      ],
+      "beats": [
+        "Rain blows across the garden.",
+        "The dog watches the entrance closely.",
+        "Its fierce stance guards the gate."
+      ],
+      "ending": "The fierce dog watches the gate in the storm."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fierce with dog: A fierce dog guarded the gate during the storm.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "trigger",
+    "anchor": "button",
+    "anchorMeaning": "按钮",
+    "sentence": "One press of the button can trigger the bell beside the door.",
+    "relation": "The scene links trigger with button: One press of the button can trigger the bell beside the door.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple entryway with a doorbell.",
+      "actor": "One adult presses a plain button and listens as the bell rings.",
+      "props": [
+        "one plain doorbell button",
+        "one small bell",
+        "one simple door"
+      ],
+      "beats": [
+        "The hand presses the button.",
+        "The bell begins to ring.",
+        "The button triggers the sound."
+      ],
+      "ending": "The pressed button makes the doorbell ring."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links trigger with button: One press of the button can trigger the bell beside the door.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "cue",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "sentence": "The conductor raised a hand as a cue for one singer to begin.",
+    "relation": "The scene links cue with hand: The conductor raised a hand as a cue for one singer to begin.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small rehearsal room with a bare wall.",
+      "actor": "Exactly two adults: one conductor raises a hand while one singer watches.",
+      "props": [
+        "one conductor’s raised hand",
+        "one plain music stand",
+        "one simple stool"
+      ],
+      "beats": [
+        "The singer waits quietly.",
+        "The conductor raises a hand.",
+        "The hand gives the cue to begin."
+      ],
+      "ending": "The singer starts when the conductor raises a hand."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links cue with hand: The conductor raised a hand as a cue for one singer to begin.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "hostile",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "sentence": "The hostile dog growled behind the fence as the visitor walked away.",
+    "relation": "The scene links hostile with dog: The hostile dog growled behind the fence as the visitor walked away.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden path beside a fence.",
+      "actor": "Exactly two beings: one dog growls behind the fence while one adult visitor calmly walks away.",
+      "props": [
+        "one alert dog",
+        "one solid fence",
+        "one empty path"
+      ],
+      "beats": [
+        "The visitor approaches the fence.",
+        "The dog growls from behind it.",
+        "The visitor turns away from the hostile dog."
+      ],
+      "ending": "The visitor walks away from the hostile dog behind the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hostile with dog: The hostile dog growled behind the fence as the visitor walked away.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

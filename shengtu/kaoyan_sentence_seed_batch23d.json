@@ -1,0 +1,662 @@
+[
+  {
+    "word": "transmission",
+    "anchor": "tower",
+    "anchorMeaning": "塔",
+    "sentence": "The radio tower sent a transmission across the valley.",
+    "relation": "The scene links transmission with tower: The radio tower sent a transmission across the valley.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet hilltop above a broad valley.",
+      "actor": "No people; a radio tower broadcasts a clear signal toward a small receiver across the valley.",
+      "props": [
+        "one radio tower",
+        "one simple receiver",
+        "one distant valley"
+      ],
+      "beats": [
+        "The tower begins to broadcast.",
+        "A signal travels across the open valley.",
+        "The receiver picks up the transmission."
+      ],
+      "ending": "A radio tower sends a transmission across the valley."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links transmission with tower: The radio tower sent a transmission across the valley.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "reservation",
+    "anchor": "restaurant",
+    "anchorMeaning": "餐馆",
+    "sentence": "She called ahead to make a reservation at the restaurant.",
+    "relation": "The scene links reservation with restaurant: She called ahead to make a reservation at the restaurant.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, menus, posters, or watermarks; the wall must be plain and blank. Exactly one table and exactly two chairs in the entire image. The phone screen stays blank.",
+    "scene": {
+      "setting": "Inside a small restaurant at early evening, with a completely plain blank wall and no visible sign or menu.",
+      "actor": "One adult woman calls ahead on a plain phone while a host prepares an empty table.",
+      "props": [
+        "one plain telephone with blank screen",
+        "one small restaurant table",
+        "exactly two simple chairs, with no other chairs anywhere in the image"
+      ],
+      "beats": [
+        "The woman calls the restaurant on the plain phone.",
+        "The host prepares the empty table with exactly two chairs.",
+        "The woman completes a reservation as the host sets the table."
+      ],
+      "ending": "The woman calls ahead while the host prepares one table with exactly two chairs."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links reservation with restaurant: She called ahead to make a reservation at the restaurant.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "gadget",
+    "anchor": "screw",
+    "anchorMeaning": "螺丝",
+    "sentence": "He used a small gadget to tighten the loose screw.",
+    "relation": "The scene links gadget with screw: He used a small gadget to tighten the loose screw.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy workbench in a home workshop.",
+      "actor": "One adult uses a compact hand gadget to tighten a loose screw.",
+      "props": [
+        "one small multi-tool gadget",
+        "one loose screw",
+        "one wooden board"
+      ],
+      "beats": [
+        "The screw is loose.",
+        "He picks up the gadget.",
+        "He tightens the screw with the tool."
+      ],
+      "ending": "The man tightens a screw with a small gadget."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links gadget with screw: He used a small gadget to tighten the loose screw.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "tenant",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "sentence": "The tenant carried a key to the apartment door.",
+    "relation": "The scene links tenant with key: The tenant carried a key to the apartment door.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet apartment hallway.",
+      "actor": "One adult tenant stands at an apartment door holding one key.",
+      "props": [
+        "one plain metal key",
+        "one apartment door",
+        "one small potted plant"
+      ],
+      "beats": [
+        "The tenant walks down the hall.",
+        "They reach the apartment door.",
+        "They hold the key ready to unlock it."
+      ],
+      "ending": "The tenant approaches the apartment door with a key."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tenant with key: The tenant carried a key to the apartment door.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "assert",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "sentence": "She raised her hand to assert her right to speak.",
+    "relation": "The scene links assert with hand: She raised her hand to assert her right to speak.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small public meeting in a plain hall.",
+      "actor": "One adult woman stands confidently with one hand raised to speak.",
+      "props": [
+        "one raised hand",
+        "one plain chair",
+        "one meeting table"
+      ],
+      "beats": [
+        "The group discusses a topic.",
+        "The woman raises her hand.",
+        "She firmly asserts her right to speak."
+      ],
+      "ending": "The woman raises her hand and speaks confidently."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links assert with hand: She raised her hand to assert her right to speak.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "mysterious",
+    "anchor": "cave",
+    "anchorMeaning": "山洞",
+    "sentence": "A mysterious light shone from the cave at dusk.",
+    "relation": "The scene links mysterious with cave: A mysterious light shone from the cave at dusk.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A rocky hillside at dusk.",
+      "actor": "No people; a soft, unexplained glow shines from deep inside a cave.",
+      "props": [
+        "one dark cave",
+        "one gentle glow",
+        "one rocky hillside"
+      ],
+      "beats": [
+        "The evening grows dim.",
+        "A glow appears inside the cave.",
+        "The mysterious light shines at dusk."
+      ],
+      "ending": "A mysterious light glows inside the cave."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links mysterious with cave: A mysterious light shone from the cave at dusk.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "inherent",
+    "anchor": "nest",
+    "anchorMeaning": "鸟巢",
+    "sentence": "A bird's ability to find its nest is inherent.",
+    "relation": "The scene links inherent with nest: A bird's ability to find its nest is inherent.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden tree in spring.",
+      "actor": "One small bird returns naturally to its nest in the branches.",
+      "props": [
+        "one small bird",
+        "one woven nest",
+        "one leafy tree"
+      ],
+      "beats": [
+        "The bird flies through the garden.",
+        "It approaches the familiar nest.",
+        "It settles into the nest by instinct."
+      ],
+      "ending": "A bird returns to its nest by inherent instinct."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links inherent with nest: A bird's ability to find its nest is inherent.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "sixty",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "sentence": "The clock’s second hand completes a full circle in sixty seconds.",
+    "relation": "A second hand completes one full rotation in sixty seconds, a standard time measurement that directly links clock to sixty.",
+    "artDirection": "No text, letters, numerals, labels, signs, logos, or watermarks. The clock face must have no written numbers. Show one full circular ring of small, evenly spaced ticks; no motion arrows, duplicated hands, ghost hands, or other clocks.",
+    "scene": {
+      "setting": "A quiet desk against a plain blank wall, with a single classic round analog clock.",
+      "actor": "No people. Show one plain clock face with exactly sixty evenly spaced minute ticks, no numerals, and one red second hand pointing straight up after completing a full circle.",
+      "props": [
+        "one plain round analog clock with an unnumbered face",
+        "exactly sixty small evenly spaced tick marks around the dial",
+        "one red second hand at the top of the dial"
+      ],
+      "beats": [
+        "The red second hand starts at the top of the clock.",
+        "It completes one full circuit past all sixty evenly spaced ticks.",
+        "It returns to the top after sixty seconds."
+      ],
+      "ending": "A simple unnumbered clock face shows sixty equal tick marks around its rim and the second hand returned to the top after one full circuit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links sixty with cake: At sixty, she celebrated a quiet birthday with a cake.",
+      "reviewNote": "Sentence manually checked: natural, grammatical, and factually accurate; the standard 60-second revolution links the familiar clock anchor to sixty."
+    }
+  },
+  {
+    "word": "specify",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "sentence": "The host pointed to the blue door to specify the meeting place.",
+    "relation": "The scene links specify with door: The host pointed to the blue door to specify the meeting place.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet hallway with two plain doors.",
+      "actor": "One adult host points clearly to one blue door for a waiting guest.",
+      "props": [
+        "one blue door",
+        "one plain white door",
+        "one small hallway bench"
+      ],
+      "beats": [
+        "The guest asks where to wait.",
+        "The host points to the blue door.",
+        "The host specifies the meeting place."
+      ],
+      "ending": "The host points to the blue door as the meeting place."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links specify with door: The host pointed to the blue door to specify the meeting place.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "margin",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "sentence": "A narrow path ran along the margin of the lake.",
+    "relation": "The scene links margin with lake: A narrow path ran along the margin of the lake.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful lake edge in early morning.",
+      "actor": "No people; a narrow path traces the boundary where the lake meets the shore.",
+      "props": [
+        "one narrow path",
+        "one calm lake",
+        "one grassy shoreline"
+      ],
+      "beats": [
+        "The path follows the water.",
+        "It stays at the lake's edge.",
+        "The path marks the margin of the lake."
+      ],
+      "ending": "A path follows the lake's margin."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links margin with lake: A narrow path ran along the margin of the lake.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "extract",
+    "anchor": "grapes",
+    "anchorMeaning": "葡萄",
+    "sentence": "She used a small press to extract juice from the grapes.",
+    "relation": "The scene links extract with grapes: She used a small press to extract juice from the grapes.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean kitchen counter during harvest season.",
+      "actor": "One adult uses a small hand press to extract juice from grapes.",
+      "props": [
+        "one small fruit press",
+        "one bunch of grapes",
+        "one clear juice glass"
+      ],
+      "beats": [
+        "She places grapes in the press.",
+        "She presses the handle down.",
+        "Juice flows into the glass."
+      ],
+      "ending": "The woman extracts grape juice with a small press."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links extract with grapes: She used a small press to extract juice from the grapes.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "apology",
+    "anchor": "toy",
+    "anchorMeaning": "玩具",
+    "sentence": "He offered an apology and returned the broken toy.",
+    "relation": "The scene links apology with toy: He offered an apology and returned the broken toy.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A child's playroom with a plain rug.",
+      "actor": "One child returns a broken toy to a friend and makes a sincere apologetic gesture.",
+      "props": [
+        "one broken toy car",
+        "one simple rug",
+        "one plain toy box"
+      ],
+      "beats": [
+        "The child sees the broken toy.",
+        "He returns it to his friend.",
+        "He offers an apology with a gentle gesture."
+      ],
+      "ending": "The child returns the broken toy and apologizes."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links apology with toy: He offered an apology and returned the broken toy.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "portray",
+    "anchor": "lighthouse",
+    "anchorMeaning": "灯塔",
+    "sentence": "The painter used watercolors to portray the old lighthouse.",
+    "relation": "The scene links portray with lighthouse: The painter used watercolors to portray the old lighthouse.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A seaside artist's room with a view of the coast.",
+      "actor": "One adult painter paints a watercolor picture of a lighthouse without any writing.",
+      "props": [
+        "one old lighthouse in the distance",
+        "one watercolor painting",
+        "one plain brush"
+      ],
+      "beats": [
+        "The painter looks toward the coast.",
+        "They paint the lighthouse.",
+        "The picture portrays the old tower."
+      ],
+      "ending": "The painter portrays the lighthouse in watercolor."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links portray with lighthouse: The painter used watercolors to portray the old lighthouse.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "burst",
+    "anchor": "bubble",
+    "anchorMeaning": "泡泡",
+    "sentence": "A soap bubble burst above the child's hand.",
+    "relation": "The scene links burst with bubble: A soap bubble burst above the child's hand.",
+    "artDirection": "No text, letters, numbers, labels, logos, or watermarks. Show the bubble at the instant of popping: split transparent film and a few small droplets, not one intact round bubble. No additional bubbles, arrows, or motion marks.",
+    "scene": {
+      "setting": "A sunny garden with a plain fence and no writing.",
+      "actor": "One child holds a plain bubble wand in one hand and reaches toward exactly one large soap bubble with the other; the bubble is visibly popping into a few small clear droplets.",
+      "props": [
+        "one plain bubble wand",
+        "exactly one large soap bubble visibly breaking into a few clear droplets",
+        "one small bottle of plain bubble solution with a blank surface"
+      ],
+      "beats": [
+        "The child blows one large soap bubble.",
+        "The child reaches toward the single bubble.",
+        "The bubble bursts into a few clear droplets above the child’s hand."
+      ],
+      "ending": "One bubble is caught at the instant it bursts into a few droplets above the child’s open hand; no intact bubbles remain."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links burst with bubble: A soap bubble burst above the child's hand.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "excitement",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "sentence": "The puppy jumped with excitement when its owner came home.",
+    "relation": "The scene links excitement with puppy: The puppy jumped with excitement when its owner came home.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A welcoming front doorway in warm afternoon light.",
+      "actor": "One puppy jumps happily toward one returning adult owner.",
+      "props": [
+        "one playful puppy",
+        "one plain doorway",
+        "one travel bag"
+      ],
+      "beats": [
+        "The door opens.",
+        "The puppy sees its owner.",
+        "It jumps with excitement to greet them."
+      ],
+      "ending": "The puppy jumps excitedly as its owner arrives."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links excitement with puppy: The puppy jumped with excitement when its owner came home.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "prevalent",
+    "anchor": "meadow",
+    "anchorMeaning": "草地",
+    "sentence": "Wildflowers were prevalent along the meadow path in spring.",
+    "relation": "The scene links prevalent with meadow: Wildflowers were prevalent along the meadow path in spring.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A broad meadow in springtime.",
+      "actor": "No people; many wildflowers grow all along a path through the meadow.",
+      "props": [
+        "many wildflowers",
+        "one narrow meadow path",
+        "one open meadow"
+      ],
+      "beats": [
+        "The path crosses the field.",
+        "Flowers grow on both sides.",
+        "Wildflowers are prevalent throughout the meadow."
+      ],
+      "ending": "Wildflowers grow prevalently along the meadow path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links prevalent with meadow: Wildflowers were prevalent along the meadow path in spring.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "silence",
+    "anchor": "music",
+    "anchorMeaning": "音乐",
+    "sentence": "Silence fell over the room when the music stopped.",
+    "relation": "The scene links silence with music: Silence fell over the room when the music stopped.",
+    "artDirection": "No text, letters, musical notes, sheet music, labels, logos, watermarks, sound waves, or motion marks. The child is not touching the keys; both hands are visible resting in the lap. Keep the room still and quiet.",
+    "scene": {
+      "setting": "A quiet, softly lit music room with a plain wall and no written materials.",
+      "actor": "One child sits still on a piano bench after stopping the music, with both hands resting in the lap and clearly away from the keys.",
+      "props": [
+        "one upright piano with no music book or sheet on it",
+        "one plain piano bench",
+        "one closed unmarked music-book cover placed on a side table"
+      ],
+      "beats": [
+        "The child finishes playing a quiet melody.",
+        "The child lifts both hands away from the piano keys and closes the music book.",
+        "The room becomes still and silent."
+      ],
+      "ending": "The child sits quietly with hands in the lap beside the silent piano; no sheet music or sound symbols are visible."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links silence with music: Silence fell over the room when the music stopped.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "theoretical",
+    "anchor": "model",
+    "anchorMeaning": "模型",
+    "sentence": "The students tested a theoretical bridge design with a small model.",
+    "relation": "The scene links theoretical with model: The students tested a theoretical bridge design with a small model.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet classroom table with a river model.",
+      "actor": "Exactly two students examine a small bridge model to test a theoretical design.",
+      "props": [
+        "one small bridge model",
+        "one plain desk",
+        "one simple stream tray"
+      ],
+      "beats": [
+        "The students study the model.",
+        "They consider how the bridge would work.",
+        "They test the theoretical design with the model."
+      ],
+      "ending": "The students test a theoretical bridge with a model."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links theoretical with model: The students tested a theoretical bridge design with a small model.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "rigorous",
+    "anchor": "track",
+    "anchorMeaning": "跑道",
+    "sentence": "The coach led a rigorous training session on the track.",
+    "relation": "The scene links rigorous with track: The coach led a rigorous training session on the track.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An outdoor running track in the morning.",
+      "actor": "One coach leads one athlete through a demanding training session.",
+      "props": [
+        "one running track",
+        "one plain water bottle",
+        "one simple training cone"
+      ],
+      "beats": [
+        "The athlete begins to run.",
+        "The coach sets a demanding pace.",
+        "The rigorous training continues on the track."
+      ],
+      "ending": "The coach leads rigorous training on the track."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links rigorous with track: The coach led a rigorous training session on the track.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "waiter",
+    "anchor": "tray",
+    "anchorMeaning": "托盘",
+    "sentence": "The waiter carried a tray of soup to the table.",
+    "relation": "The scene links waiter with tray: The waiter carried a tray of soup to the table.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cozy restaurant dining room.",
+      "actor": "One waiter carefully carries a tray with a bowl of soup toward a table.",
+      "props": [
+        "one serving tray",
+        "one bowl of soup",
+        "one dining table"
+      ],
+      "beats": [
+        "The waiter lifts the tray.",
+        "They walk steadily across the room.",
+        "They carry the soup to the table."
+      ],
+      "ending": "The waiter brings soup to the table on a tray."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links waiter with tray: The waiter carried a tray of soup to the table.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

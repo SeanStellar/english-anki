@@ -1,0 +1,802 @@
+[
+  {
+    "id": "kyc-1541",
+    "word": "agony",
+    "targetSense": "极度痛苦",
+    "anchor": "thorn",
+    "anchorMeaning": "荆棘",
+    "relation": "靴里的荆棘带来极度痛苦，表现 agony。",
+    "sentence": "The thorn in his boot caused him agony on the trail.",
+    "scene": {
+      "setting": "A quiet forest trail",
+      "actor": "One hiker sits on a low rock and carefully removes one thorn from his boot, his face showing intense pain",
+      "props": [
+        "one thorn",
+        "one hiking boot",
+        "one walking stick"
+      ],
+      "beats": [
+        "The hiker stops on the trail",
+        "He finds a thorn caught in his boot",
+        "He winces as he removes the thorn"
+      ],
+      "ending": "One hiker grimaces while pulling a thorn from his boot on the trail."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“荆棘”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show pain through one hiker’s facial expression and posture, with a single thorn caught in the boot; keep the injury mild and non-graphic, with no text or symbols."
+  },
+  {
+    "id": "kyc-1542",
+    "word": "bizarre",
+    "targetSense": "奇异的",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "鱼形怪帽让整体装扮显得奇异，表现 bizarre。",
+    "sentence": "She wore a bizarre hat shaped like a curled fish.",
+    "scene": {
+      "setting": "A simple outdoor parade route",
+      "actor": "One woman wears one absurd curled-fish hat and smiles at its unusual shape",
+      "props": [
+        "one curled-fish hat",
+        "one coat",
+        "one plain street"
+      ],
+      "beats": [
+        "She picks up the unusual hat",
+        "She places it on her head",
+        "Its strange shape makes her outfit look bizarre"
+      ],
+      "ending": "One woman wears a clearly unusual fish-shaped hat."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“帽子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the hat unmistakably odd but friendly; use no crowd, signs, lettering, or extra hats."
+  },
+  {
+    "id": "kyc-1543",
+    "word": "conversely",
+    "targetSense": "相反地",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "花朵在阳光下茂盛；conversely，背阴花床光秃，形成相反对照。",
+    "sentence": "Flowers flourished in the sun; conversely, the shaded bed remained bare.",
+    "scene": {
+      "setting": "Two garden beds beside one tall wall",
+      "actor": "Two adjacent flower beds contrast: the sunlit bed is full of blooms, while the wall shades a bare bed",
+      "props": [
+        "sunlight",
+        "flower bed",
+        "tall wall"
+      ],
+      "beats": [
+        "Sunlight reaches one bed",
+        "Flowers flourish in the bright soil",
+        "The wall casts shade over the opposite bare bed"
+      ],
+      "ending": "One flower bed blooms in sunlight while the adjacent shaded bed stays bare."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“太阳”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the two outcomes clearly opposite in one continuous garden scene; no labels, arrows, signs, or text."
+  },
+  {
+    "id": "kyc-1544",
+    "word": "dedicate",
+    "targetSense": "致力于",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "她每天早晨把时间投入写书，表现 dedicate 的致力于义。",
+    "sentence": "She would dedicate each morning to writing her book.",
+    "scene": {
+      "setting": "A quiet writing desk at dawn",
+      "actor": "One woman works steadily at a desk with her book and pen as morning light enters",
+      "props": [
+        "one open book",
+        "one pen",
+        "one dawn-lit window"
+      ],
+      "beats": [
+        "She sits down at dawn",
+        "She works at the book with her pen",
+        "She continues writing as the morning light fills the room"
+      ],
+      "ending": "One woman devotes the morning to working on her book."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“书”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show focused steady work; keep pages blank or with no readable marks, and omit clocks, text, signs, or logos."
+  },
+  {
+    "id": "kyc-1545",
+    "word": "extinguish",
+    "targetSense": "扑灭",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "他把水倒在营火上将其扑灭，表现 extinguish。",
+    "sentence": "He poured water on the campfire to extinguish it.",
+    "scene": {
+      "setting": "A safe campsite after sunset",
+      "actor": "One camper pours one bucket of water over a small controlled campfire",
+      "props": [
+        "water bucket",
+        "small campfire",
+        "camping log"
+      ],
+      "beats": [
+        "A small campfire burns low",
+        "The camper tips water from the bucket",
+        "The flames go out and only damp ash remains"
+      ],
+      "ending": "One camper extinguishes a small campfire with water."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“水”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Keep the fire small and safely contained; show no smoke lettering, signs, or extra people."
+  },
+  {
+    "id": "kyc-1546",
+    "word": "incur",
+    "targetSense": "招致",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "把车堵在车道会招致罚款，表现 incur。",
+    "sentence": "A driver may incur a fine by leaving his car across the driveway.",
+    "scene": {
+      "setting": "A residential driveway mouth with a garage behind it",
+      "actor": "One parking attendant hands a blank fine slip to one driver beside a car parked crosswise directly across the driveway entrance, visibly blocking the garage",
+      "props": [
+        "one car parked across the driveway",
+        "one completely blank fine slip",
+        "one blocked driveway entrance"
+      ],
+      "beats": [
+        "The driver leaves the car crosswise at the driveway mouth",
+        "The parked car visibly blocks access to the garage",
+        "The attendant gives the driver a blank fine slip"
+      ],
+      "ending": "A car blocks a residential driveway while the attendant hands its driver a blank penalty slip."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“汽车”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the car visibly block the full driveway entrance and garage access. Show exactly two adults: a driver and an attendant handing over one entirely blank fine slip. No screens, text, parking signs, painted lettering, license plate characters, logos, or uniform insignia."
+  },
+  {
+    "id": "kyc-1547",
+    "word": "invalid",
+    "targetSense": "无效的",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "不合适的钥匙打不开门锁，表现 invalid 的无效义。",
+    "sentence": "The invalid key would not turn in the lock.",
+    "scene": {
+      "setting": "A plain wooden front door",
+      "actor": "One person tries one wrong-shaped key in the door lock, but it will not turn",
+      "props": [
+        "one key",
+        "one door lock",
+        "one wooden door"
+      ],
+      "beats": [
+        "The person brings the key to the lock",
+        "The key fails to turn",
+        "The locked door remains shut"
+      ],
+      "ending": "A key that does not fit leaves the door locked."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“钥匙”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one key and one lock in a single clear attempt; no warning marks, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-1548",
+    "word": "loosen",
+    "targetSense": "松开；放松",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "她用双手松开绳结，表现 loosen。",
+    "sentence": "She used both hands to loosen the knot in the rope.",
+    "scene": {
+      "setting": "A simple workshop table",
+      "actor": "One woman uses both hands to loosen one tight knot in a rope",
+      "props": [
+        "one rope",
+        "one tight knot",
+        "one plain table"
+      ],
+      "beats": [
+        "The rope lies with one tight knot",
+        "The woman grips both sides of the knot",
+        "The knot opens and the rope slackens"
+      ],
+      "ending": "A woman loosens a knot in a rope with both hands."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“绳子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two hands attached naturally to the woman; no extra loops that resemble separate ropes, and no text."
+  },
+  {
+    "id": "kyc-1549",
+    "word": "orchestra",
+    "targetSense": "管弦乐队",
+    "anchor": "violin",
+    "anchorMeaning": "小提琴",
+    "relation": "小提琴与其他乐器同列，组成管弦乐队，表现 orchestra。",
+    "sentence": "The violin rested among the orchestra’s instruments before the concert.",
+    "scene": {
+      "setting": "A small concert stage before a performance",
+      "actor": "One conductor stands before an arc of empty chairs and a neatly arranged group of orchestral instruments, including one violin",
+      "props": [
+        "one violin",
+        "a group of varied orchestral instruments",
+        "one low stage platform"
+      ],
+      "beats": [
+        "The conductor enters the quiet stage",
+        "The violin is placed among strings and other instruments",
+        "The full ensemble waits for the concert"
+      ],
+      "ending": "One violin sits among a varied orchestral ensemble on a concert stage."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“小提琴”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Use only one conductor and no other people; include a violin, cello, horn, and timpani as recognizable instruments. No sheet music, text, labels, logos, or signs."
+  },
+  {
+    "id": "kyc-1550",
+    "word": "pottery",
+    "targetSense": "陶器",
+    "anchor": "clay",
+    "anchorMeaning": "黏土",
+    "relation": "她在制陶轮上把黏土塑成碗，表现 pottery。",
+    "sentence": "She shaped clay into a bowl at the pottery wheel.",
+    "scene": {
+      "setting": "A small pottery studio with a plain empty wall",
+      "actor": "One potter shapes one simple unmarked bowl from clay on a pottery wheel",
+      "props": [
+        "one lump of clay",
+        "one pottery wheel",
+        "one forming bowl"
+      ],
+      "beats": [
+        "The lump of clay rests on the wheel",
+        "The potter shapes it with both hands",
+        "One plain bowl takes form"
+      ],
+      "ending": "One potter shapes one unmarked clay bowl on a wheel."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“黏土”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Keep the studio minimal and empty. Show only one vessel: the single plain bowl being formed on the wheel. No shelves, no finished pots, no other pottery, no decorations or marks on the bowl, no writing, symbols, or text."
+  },
+  {
+    "id": "kyc-1551",
+    "word": "quantitative",
+    "targetSense": "定量的",
+    "anchor": "scale",
+    "anchorMeaning": "秤",
+    "relation": "她用秤称量种子并作定量比较，表现 quantitative。",
+    "sentence": "She made a quantitative comparison by weighing seeds on the scale.",
+    "scene": {
+      "setting": "A bright research table",
+      "actor": "One researcher weighs two small seed samples on a balance scale to compare their measured amounts",
+      "props": [
+        "one balance scale",
+        "two seed samples",
+        "one plain worktable"
+      ],
+      "beats": [
+        "The researcher places one sample on each side",
+        "The scale responds to their different amounts",
+        "She records the comparison without any visible writing"
+      ],
+      "ending": "A researcher uses a scale to compare measured seed samples."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“秤”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the weighing scale and two separate samples unmistakable; use no numerals, charts, labels, or written notes."
+  },
+  {
+    "id": "kyc-1552",
+    "word": "spectacle",
+    "targetSense": "景象、奇观",
+    "anchor": "firework",
+    "anchorMeaning": "烟花",
+    "relation": "烟花把夜空变成壮观景象，表现 spectacle。",
+    "sentence": "The fireworks turned the night sky into a spectacle.",
+    "scene": {
+      "setting": "An open field at night",
+      "actor": "A colorful firework display fills the sky above an open field as two friends look up",
+      "props": [
+        "fireworks",
+        "night sky",
+        "two watching friends"
+      ],
+      "beats": [
+        "The night sky is dark",
+        "Fireworks burst in a broad brilliant display",
+        "The friends look up at the spectacle"
+      ],
+      "ending": "Two friends watch a spectacular firework display in the night sky."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“烟花”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two viewers; no signs, banners, text, logos, or extra fireworks on the ground."
+  },
+  {
+    "id": "kyc-1553",
+    "word": "stripe",
+    "targetSense": "条纹",
+    "anchor": "zebra",
+    "anchorMeaning": "斑马",
+    "relation": "斑马身上的条纹与浅色皮毛形成明显对比，表现 stripe。",
+    "sentence": "One zebra’s stripe showed clearly against its pale coat.",
+    "scene": {
+      "setting": "A quiet grassy savanna",
+      "actor": "One zebra stands broadside so a single dark stripe is easy to distinguish from its pale coat",
+      "props": [
+        "one zebra",
+        "dark stripes",
+        "pale coat"
+      ],
+      "beats": [
+        "The zebra stands in the grass",
+        "Its dark stripes contrast with its pale body",
+        "One stripe is clearly visible across the coat"
+      ],
+      "ending": "One zebra’s stripe stands out against its pale coat."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“斑马”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one zebra with natural anatomy and distinct stripes; no extra animals, fences with markings, or text."
+  },
+  {
+    "id": "kyc-1554",
+    "word": "viewpoint",
+    "targetSense": "视角；观点",
+    "anchor": "camera",
+    "anchorMeaning": "相机",
+    "relation": "相机从低处拍摄，让她获得观察城市的新视角，表现 viewpoint。",
+    "sentence": "The camera gave her a new viewpoint on the city.",
+    "scene": {
+      "setting": "A city overlook at ground level",
+      "actor": "One photographer crouches low with a camera aimed upward at a tall city tower",
+      "props": [
+        "one camera",
+        "one city tower",
+        "one low stone ledge"
+      ],
+      "beats": [
+        "The photographer lowers the camera near the ground",
+        "She aims up toward the tower",
+        "The low angle gives her a new viewpoint"
+      ],
+      "ending": "A camera held from a low angle gives a new viewpoint on the city."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“相机”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the low camera angle and changed perspective obvious; no screens, text, signs, or logos."
+  },
+  {
+    "id": "kyc-1555",
+    "word": "alternate",
+    "targetSense": "交替",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "relation": "红灯笼与蓝灯笼沿小路轮流排列，表现 alternate。",
+    "sentence": "Red lanterns alternate with blue lanterns along the path.",
+    "scene": {
+      "setting": "A quiet garden path at dusk",
+      "actor": "A row of red and blue lanterns hangs in a clear alternating sequence along one garden path",
+      "props": [
+        "red lanterns",
+        "blue lanterns",
+        "garden path"
+      ],
+      "beats": [
+        "Red and blue lanterns hang at regular intervals",
+        "Each red lantern is followed by a blue one",
+        "The alternating sequence continues down the path"
+      ],
+      "ending": "Red and blue lanterns take turns along a garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“灯笼”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the red-blue-red-blue sequence clear and evenly spaced; no writing, signs, or extra colors of lanterns."
+  },
+  {
+    "id": "kyc-1556",
+    "word": "attendant",
+    "targetSense": "服务员",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "服务员听见铃声后为客人送茶，表现 attendant。",
+    "sentence": "The attendant answered the bell and carried tea to a guest.",
+    "scene": {
+      "setting": "A hotel tea counter against a completely blank wall",
+      "actor": "One attendant in a plain uniform carries a tea tray to one guest; exactly one small tabletop service bell sits on the counter",
+      "props": [
+        "one tabletop service bell",
+        "one tea tray",
+        "one plain counter"
+      ],
+      "beats": [
+        "The guest rings the single tabletop bell",
+        "The attendant picks up the tea tray",
+        "The attendant serves tea to the guest"
+      ],
+      "ending": "A plain-uniformed attendant serves tea beside the one tabletop service bell."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“铃”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly one tabletop service bell on the counter. Keep the wall and entire background completely empty: no wall objects, doorbells, round fixtures, frames, monitors, screens, devices, decorations, badges, pins, flowers, emblems, insignia, logos, labels, signs, or text. Show exactly two adults in plain unmarked clothing."
+  },
+  {
+    "id": "kyc-1557",
+    "word": "clash",
+    "targetSense": "冲突",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "两位朋友因争同一把椅子而发生冲突，表现 clash。",
+    "sentence": "The two friends clash over the only chair at dinner.",
+    "scene": {
+      "setting": "A modest dining room",
+      "actor": "Two friends disagree as each reaches for the same empty chair at the table",
+      "props": [
+        "one chair",
+        "one dining table",
+        "one plain plate"
+      ],
+      "beats": [
+        "The friends arrive at the table",
+        "Both reach for the only chair",
+        "Their opposing gestures show a clash"
+      ],
+      "ending": "Two friends clash over one chair at dinner."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“椅子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two people and one chair; make the disagreement nonviolent, with no speech bubbles or text."
+  },
+  {
+    "id": "kyc-1558",
+    "word": "converge",
+    "targetSense": "会聚、集中",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "两条小路在石桥前会聚，表现 converge。",
+    "sentence": "Two roads converge at the stone bridge.",
+    "scene": {
+      "setting": "A green countryside with a stone bridge",
+      "actor": "Two narrow paths approach from different directions and meet at one stone bridge",
+      "props": [
+        "two paths",
+        "one stone bridge",
+        "one small traveler"
+      ],
+      "beats": [
+        "The two paths begin apart",
+        "They draw closer toward the bridge",
+        "Both paths meet at the bridge"
+      ],
+      "ending": "Two paths converge at one stone bridge."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“桥”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show two distinct paths joining at the same bridge; no signs, maps, arrows, or text."
+  },
+  {
+    "id": "kyc-1559",
+    "word": "correspondence",
+    "targetSense": "通信",
+    "anchor": "letter",
+    "anchorMeaning": "信",
+    "relation": "双方互寄信件，形成 correspondence。",
+    "sentence": "Their correspondence continued as each sent the other a letter.",
+    "scene": {
+      "setting": "A quiet courtyard table",
+      "actor": "Two friends exchange plain unmarked letters across a small table",
+      "props": [
+        "two blank letters",
+        "one small table",
+        "one mailbag"
+      ],
+      "beats": [
+        "One friend offers a letter",
+        "The other gives a letter in return",
+        "They continue their correspondence by exchanging letters"
+      ],
+      "ending": "Two friends continue a correspondence by exchanging letters."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“信”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two people and two blank envelopes with no writing, stamps, logos, or readable marks."
+  },
+  {
+    "id": "kyc-1560",
+    "word": "designate",
+    "targetSense": "指定",
+    "anchor": "cap",
+    "anchorMeaning": "帽子",
+    "relation": "教练把一顶帽子交给被指定为队长的队员，表现 designate。",
+    "sentence": "The coach will designate one player as captain and give her a plain cap.",
+    "scene": {
+      "setting": "A quiet sports field after practice",
+      "actor": "One coach hands a plain cap to one player while naming her captain",
+      "props": [
+        "one plain cap",
+        "one soccer ball",
+        "one empty bench"
+      ],
+      "beats": [
+        "The coach selects one player",
+        "The coach gives her the cap",
+        "The player accepts the designated captain role"
+      ],
+      "ending": "A coach designates one player as captain and gives her a plain cap."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“帽子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two people; the cap has no badge, lettering, number, or logo. No signs or team uniforms with markings."
+  }
+]

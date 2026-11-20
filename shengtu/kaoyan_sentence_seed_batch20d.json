@@ -1,0 +1,662 @@
+[
+  {
+    "word": "intensive",
+    "anchor": "hill",
+    "anchorMeaning": "山坡",
+    "relation": "Intensive training can involve focused repeated running up a hill.",
+    "sentence": "The runners completed intensive training on a steep hill.（跑步者在陡坡上完成了高强度训练。）",
+    "artDirection": "Exactly two runners; no labels, numbers, logos, or extra people.",
+    "scene": {
+      "setting": "A green hillside training path.",
+      "actor": "Exactly two runners train together on the hill; exactly two people.",
+      "props": [
+        "one steep grassy hill",
+        "two pairs of plain running shoes",
+        "one unmarked water bottle"
+      ],
+      "beats": [
+        "The runners start their hill workout.",
+        "They repeat the climb with focused effort.",
+        "Their session is intensive training."
+      ],
+      "ending": "Two runners pause after a demanding hill workout."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Intensive training can involve focused repeated running up a hill.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "exceed",
+    "anchor": "ladder",
+    "anchorMeaning": "梯子",
+    "relation": "A tall tree can exceed the reach of a ladder.",
+    "sentence": "The old tree's height can exceed the ladder's reach by several feet.",
+    "artDirection": "No numbers or measurement markings on the rope; no extra ladders or text.",
+    "scene": {
+      "setting": "A quiet garden beside an old tree.",
+      "actor": "No people; one tall tree rises well above one ladder.",
+      "props": [
+        "one old tall tree",
+        "one plain ladder leaning against the trunk",
+        "one simple measuring rope"
+      ],
+      "beats": [
+        "The ladder reaches only partway up the tree.",
+        "The tree continues much higher.",
+        "The tree's height exceeds the ladder's reach."
+      ],
+      "ending": "The old tree stands several feet taller than the ladder can reach."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A tall tree can exceed the reach of a ladder.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "glance",
+    "anchor": "clock",
+    "anchorMeaning": "时钟",
+    "relation": "A quick look at a clock is a glance.",
+    "sentence": "He took a quick glance at the clock before leaving.（他离开前迅速看了一眼时钟。）",
+    "artDirection": "Clock face has no numbers or letters; no other people or text.",
+    "scene": {
+      "setting": "A simple hallway by the front door.",
+      "actor": "One man glances at a wall clock as he gets ready to leave; only one person.",
+      "props": [
+        "one plain wall clock without numerals",
+        "one simple front door",
+        "one plain coat"
+      ],
+      "beats": [
+        "He puts on his coat.",
+        "He takes a quick glance at the clock.",
+        "He turns toward the door to leave."
+      ],
+      "ending": "The man gives the clock one quick look before going out."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A quick look at a clock is a glance.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "chronic",
+    "anchor": "bed",
+    "anchorMeaning": "床",
+    "relation": "A chronic cough lasts a long time and can keep someone awake in bed.",
+    "sentence": "A chronic cough kept the child awake in bed.（长期咳嗽让孩子躺在床上难以入睡。）",
+    "artDirection": "No medicine labels, clocks with numbers, text, or signs; keep the child calm and safe.",
+    "scene": {
+      "setting": "A calm bedroom at night.",
+      "actor": "One child sits awake in bed after a lingering cough; only one person.",
+      "props": [
+        "one simple bed",
+        "one plain scarf around the child's shoulders",
+        "one closed bedroom window"
+      ],
+      "beats": [
+        "The child tries to rest in bed.",
+        "A lingering cough keeps returning.",
+        "The chronic cough prevents sleep."
+      ],
+      "ending": "The child sits awake in bed, tired from a long-lasting cough."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A chronic cough lasts a long time and can keep someone awake in bed.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "pension",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "A pension can support a person after retirement, leaving time to tend a garden.",
+    "sentence": "After retiring, she received a pension and tended her garden.（退休后，她领取养老金并照料自己的花园。）",
+    "artDirection": "Envelope has no writing, stamps, or numbers; no financial symbols or logos.",
+    "scene": {
+      "setting": "A peaceful home garden in the afternoon.",
+      "actor": "One older woman tends her garden after retirement; only one person.",
+      "props": [
+        "one small garden bed",
+        "one plain watering can",
+        "one blank unmarked envelope"
+      ],
+      "beats": [
+        "She finishes work and turns to the garden.",
+        "She waters the plants.",
+        "Her pension supports her retired life and garden time."
+      ],
+      "ending": "The retired woman waters her garden beside a plain envelope."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A pension can support a person after retirement, leaving time to tend a garden.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "beneficial",
+    "anchor": "seedling",
+    "anchorMeaning": "幼苗",
+    "relation": "Sunlight is beneficial to the growth of a seedling.",
+    "sentence": "Morning sunlight is beneficial to a seedling in the garden.（清晨的阳光有益于花园里一株幼苗的生长。）",
+    "artDirection": "No labels, signs, text, or extra plants competing with the one seedling.",
+    "scene": {
+      "setting": "A quiet garden in soft morning light.",
+      "actor": "No people; one small seedling grows in sunlight.",
+      "props": [
+        "one small green seedling",
+        "one plain flowerpot",
+        "one soft beam of morning sunlight"
+      ],
+      "beats": [
+        "Morning light reaches the seedling.",
+        "The leaves open toward the sun.",
+        "The sunlight is beneficial to the plant's growth."
+      ],
+      "ending": "The seedling stands upright in the warm morning light."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Sunlight is beneficial to the growth of a seedling.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "humor",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "A silly hat can bring out someone's sense of humor and make a friend laugh.",
+    "sentence": "His sense of humor made his friend laugh at the silly hat.（他的幽默感让朋友看到那顶滑稽帽子时笑了起来。）",
+    "artDirection": "Exactly two people; no words, logos, extra hats, or exaggerated facial anatomy.",
+    "scene": {
+      "setting": "A relaxed picnic under a tree.",
+      "actor": "Exactly two friends share a laugh over one funny hat; exactly two people.",
+      "props": [
+        "one plain oversized silly hat",
+        "one picnic blanket",
+        "one simple food basket"
+      ],
+      "beats": [
+        "One friend puts on the funny hat.",
+        "The other notices and begins to laugh.",
+        "Their shared humor brightens the picnic."
+      ],
+      "ending": "Two friends laugh together as one wears the silly hat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A silly hat can bring out someone's sense of humor and make a friend laugh.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "desirable",
+    "anchor": "cottage",
+    "anchorMeaning": "小屋",
+    "relation": "A sunny garden can make a cottage more desirable to people looking for a home.",
+    "sentence": "A sunny garden made the cottage more desirable to the young couple.（阳光充足的花园让这对年轻夫妇更想要这间小屋。）",
+    "artDirection": "Exactly two people; no property signs, house numbers, text, or logos.",
+    "scene": {
+      "setting": "A welcoming cottage with a bright garden.",
+      "actor": "Exactly two adults admire the cottage and its garden; exactly two people.",
+      "props": [
+        "one small cottage",
+        "one sunny garden patch",
+        "one plain flowerpot"
+      ],
+      "beats": [
+        "The couple arrives outside the cottage.",
+        "They notice the bright garden.",
+        "The attractive setting makes the cottage desirable."
+      ],
+      "ending": "The couple smiles at the cottage framed by its sunny garden."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A sunny garden can make a cottage more desirable to people looking for a home.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "storage",
+    "anchor": "chest",
+    "anchorMeaning": "箱子",
+    "relation": "A wooden chest provides storage for folded blankets.",
+    "sentence": "The wooden chest provided storage for her folded blankets.（木箱用来存放她叠好的毯子。）",
+    "artDirection": "Exactly one chest and three blankets; no labels, writing, or logos.",
+    "scene": {
+      "setting": "A tidy bedroom with a plain wooden chest.",
+      "actor": "No people; folded blankets are neatly stored in the open chest.",
+      "props": [
+        "one wooden storage chest",
+        "three neatly folded plain blankets",
+        "one simple bedroom floor"
+      ],
+      "beats": [
+        "The blankets are folded neatly.",
+        "They are placed into the chest.",
+        "The chest provides storage and keeps them organized."
+      ],
+      "ending": "Three blankets rest inside the open wooden chest."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A wooden chest provides storage for folded blankets.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "commodity",
+    "anchor": "wheat",
+    "anchorMeaning": "小麦",
+    "relation": "Wheat is a commodity that can be sold at a market.",
+    "sentence": "Wheat became a valuable commodity at the village market.（小麦成了村庄集市上的一种贵重商品。）",
+    "artDirection": "Exactly two people; no price tags, signs, labels, writing, or logos.",
+    "scene": {
+      "setting": "A small village market stall.",
+      "actor": "One farmer presents wheat to one market buyer; exactly two people.",
+      "props": [
+        "one sack of golden wheat",
+        "one simple market table",
+        "one plain woven basket"
+      ],
+      "beats": [
+        "The farmer brings wheat to the market.",
+        "The buyer examines the grain.",
+        "The wheat is treated as a valuable commodity."
+      ],
+      "ending": "The farmer and buyer look over one sack of wheat at the stall."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Wheat is a commodity that can be sold at a market.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "compromise",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "Sharing the last slice of cake can be a compromise between two people.",
+    "sentence": "They reached a compromise by sharing the last slice of cake.（他们通过分享最后一块蛋糕达成了妥协。）",
+    "artDirection": "Exactly two people, one slice, one plate, and two forks; no text or extra food.",
+    "scene": {
+      "setting": "A simple kitchen table after a meal.",
+      "actor": "Exactly two friends agree to share one last slice of cake.",
+      "props": [
+        "one last slice of plain cake on one plate",
+        "two plain forks",
+        "one small kitchen table"
+      ],
+      "beats": [
+        "Both friends want the final slice.",
+        "They pause and agree to split it.",
+        "Sharing the cake becomes their compromise."
+      ],
+      "ending": "The two friends share one cake slice peacefully."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Sharing the last slice of cake can be a compromise between two people.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "endure",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "An old bridge can endure a winter storm and remain standing.",
+    "sentence": "The old bridge can endure the winter storm without damage.（这座老桥能够经受冬季风暴而不受损。）",
+    "artDirection": "No collapse, danger, signs, or text; snow and wind are gentle.",
+    "scene": {
+      "setting": "A sturdy bridge during a gentle winter storm.",
+      "actor": "No people; one old bridge stands firm through wind and snow.",
+      "props": [
+        "one old stone bridge",
+        "one flowing river beneath it",
+        "soft winter snow and wind"
+      ],
+      "beats": [
+        "Snow and wind move across the river.",
+        "The bridge remains steady.",
+        "It endures the winter storm without damage."
+      ],
+      "ending": "The old bridge remains intact as the storm passes."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An old bridge can endure a winter storm and remain standing.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "immune",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "Vaccination can make a dog immune to a disease.",
+    "sentence": "Vaccination helped make the dog immune to the disease.",
+    "artDirection": "Exactly one veterinarian and one dog; no other animals or people. Bare blank clinic walls with no crosses, plus signs, medical emblems, posters, symbols, labels, text, logos, or charts. All medical objects are plain and unmarked.",
+    "scene": {
+      "setting": "A calm veterinary clinic with plain blank walls.",
+      "actor": "One veterinarian calmly checks one healthy vaccinated dog; exactly two living subjects.",
+      "props": [
+        "one healthy dog",
+        "one plain unmarked syringe set aside safely",
+        "one simple examination table"
+      ],
+      "beats": [
+        "The veterinarian checks the dog after vaccination.",
+        "The dog stays calm and healthy.",
+        "The vaccination protects the dog, making it immune."
+      ],
+      "ending": "The healthy dog stands calmly beside the veterinarian in a bare clinic."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Vaccination can make a dog immune to a disease.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "pleasant",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "A gentle breeze under a shade tree can make the moment pleasant.",
+    "sentence": "A pleasant breeze cooled her beneath the tree.（树下的微风让她感到凉爽惬意。）",
+    "artDirection": "No text, signs, logos, or extra people; use gentle, visible movement in the scarf and leaves.",
+    "scene": {
+      "setting": "A sunny park beneath a broad shade tree.",
+      "actor": "One woman rests peacefully beneath the tree as a breeze moves her scarf; only one person.",
+      "props": [
+        "one broad shade tree",
+        "one plain park bench",
+        "one light scarf moving in the breeze"
+      ],
+      "beats": [
+        "She rests on the bench in warm sunlight.",
+        "A light breeze moves through the tree.",
+        "The breeze makes the moment pleasant."
+      ],
+      "ending": "The woman relaxes beneath the tree in the cool breeze."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A gentle breeze under a shade tree can make the moment pleasant.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "span",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "A bridge's span stretches across a river from one bank to the other.",
+    "sentence": "The bridge's span crosses the river from bank to bank.（桥的跨度横跨河流，连接两岸。）",
+    "artDirection": "No vehicles, signs, lettering, or extra bridges.",
+    "scene": {
+      "setting": "A clear riverside landscape in daylight.",
+      "actor": "No people; one bridge extends from one riverbank to the other.",
+      "props": [
+        "one long bridge",
+        "one broad river",
+        "two visible riverbanks"
+      ],
+      "beats": [
+        "The river runs between the banks.",
+        "The bridge stretches across the water.",
+        "Its span connects one side to the other."
+      ],
+      "ending": "One bridge spans the river from bank to bank."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A bridge's span stretches across a river from one bank to the other.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "norm",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A friendly smile can be the normal greeting shared by neighbors.",
+    "sentence": "A friendly smile was the norm when neighbors met.（邻居们见面时友好地微笑是常见的习惯。）",
+    "artDirection": "Exactly two people; no speech bubbles, text, signs, or logos.",
+    "scene": {
+      "setting": "A quiet village lane in the morning.",
+      "actor": "Exactly two neighbors greet one another with friendly smiles; exactly two people.",
+      "props": [
+        "one quiet lane",
+        "one simple garden gate",
+        "one small tree"
+      ],
+      "beats": [
+        "The neighbors meet on the lane.",
+        "They exchange a friendly smile.",
+        "The familiar greeting is the norm."
+      ],
+      "ending": "Two neighbors smile as they meet by the gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A friendly smile can be the normal greeting shared by neighbors.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "hazard",
+    "anchor": "ice",
+    "anchorMeaning": "冰",
+    "relation": "A thin sheet of ice can be a hazard on a walking path.",
+    "sentence": "A thin sheet of ice was a hazard on the path.（小路上的薄冰是一种危险。）",
+    "artDirection": "One icy patch lies clearly off to the side of the dry walking path. The walker stays entirely on dry ground and steps around the ice; no foot touches it. No fall, injury, warning signs, text, or extra people.",
+    "scene": {
+      "setting": "A quiet path on a cold morning, with a dry walking route around one icy patch.",
+      "actor": "One walker notices a slippery icy patch beside the path and carefully walks around it on dry ground; only one person.",
+      "props": [
+        "one thin icy patch on the path",
+        "one pair of sturdy boots",
+        "one plain walking stick"
+      ],
+      "beats": [
+        "The walker approaches on the dry part of the path.",
+        "They notice the thin sheet of ice off to the side.",
+        "They keep both feet on dry ground and avoid the hazard."
+      ],
+      "ending": "The walker passes the icy hazard safely on the dry path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A thin sheet of ice can be a hazard on a walking path.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "knit",
+    "anchor": "yarn",
+    "anchorMeaning": "纱线",
+    "relation": "A person knits by turning yarn into fabric with needles.",
+    "sentence": "She learned to knit a warm scarf from blue yarn.（她学着用蓝色毛线织一条暖和的围巾。）",
+    "artDirection": "No words, logos, or extra people; hands and needles should look natural.",
+    "scene": {
+      "setting": "A cozy chair beside a window.",
+      "actor": "One woman knits a scarf with yarn; only one person.",
+      "props": [
+        "one ball of blue yarn",
+        "one pair of plain knitting needles",
+        "one partly knitted scarf"
+      ],
+      "beats": [
+        "She unwinds yarn from the ball.",
+        "She works the needles through the loops.",
+        "The yarn becomes a warm knitted scarf."
+      ],
+      "ending": "The woman holds the scarf she has knitted from yarn."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A person knits by turning yarn into fabric with needles.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "reading",
+    "anchor": "book",
+    "anchorMeaning": "书；读物",
+    "relation": "A book can be someone's evening reading.",
+    "sentence": "She spent the evening reading a book about birds.",
+    "artDirection": "A bare quiet reading nook with no framed art, extra books, shelves, plants, or wall decorations. The single open book has only simple bird pictures, with no letters or legible text; no logos.",
+    "scene": {
+      "setting": "A quiet reading nook with a plain blank wall.",
+      "actor": "One woman reads one open book beside a simple lamp; only one person.",
+      "props": [
+        "one open book with simple bird pictures and no words",
+        "one plain armchair",
+        "one small reading lamp"
+      ],
+      "beats": [
+        "She settles into the armchair.",
+        "She opens the single book and reads quietly.",
+        "The bird book provides her evening reading."
+      ],
+      "ending": "The woman reads the one open bird book in a plain quiet nook."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A book can be someone's evening reading.",
+      "reviewNote": "Manually reviewed for fluent, natural, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "philosopher",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "A philosopher thinks deeply about life's questions, sometimes sitting quietly under a tree.",
+    "sentence": "The philosopher pondered life's meaning beneath a tree.（哲学家在树下思索人生的意义。）",
+    "artDirection": "No written notes, signs, symbols, text, or extra people.",
+    "scene": {
+      "setting": "A peaceful garden under a broad tree.",
+      "actor": "One older thinker sits quietly beneath the tree; only one person.",
+      "props": [
+        "one broad tree",
+        "one plain stone bench",
+        "one closed blank notebook"
+      ],
+      "beats": [
+        "The philosopher settles beneath the tree.",
+        "They gaze thoughtfully into the distance.",
+        "They ponder a deep question about life."
+      ],
+      "ending": "The philosopher sits quietly under the tree, absorbed in thought."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A philosopher thinks deeply about life's questions, sometimes sitting quietly under a tree.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  }
+]

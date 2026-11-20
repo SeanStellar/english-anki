@@ -1,0 +1,642 @@
+[
+  {
+    "word": "cyberspace",
+    "anchor": "computer",
+    "anchorMeaning": "电脑",
+    "relation": "Cyberspace is the online world people access through computers and connected networks.",
+    "sentence": "The child explores cyberspace on a computer from home.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The child explores cyberspace on a computer from home.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain computer",
+        "wooden desk",
+        "small desk lamp"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: computer (电脑).",
+        "Show the sentence's main action linking the anchor to cyberspace.",
+        "Make the target meaning clear: 网络空间."
+      ],
+      "ending": "The child explores cyberspace on a computer from home."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Show only abstract connected light dots on screen; no readable content, icons, menus, or logos."
+  },
+  {
+    "word": "dawn",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "Dawn is the first light of day as the sun rises.",
+    "sentence": "At dawn, the sun rose over the quiet hills.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: At dawn, the sun rose over the quiet hills.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "rising sun",
+        "low hills",
+        "small morning cloud"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: sun (太阳).",
+        "Show the sentence's main action linking the anchor to dawn.",
+        "Make the target meaning clear: 黎明."
+      ],
+      "ending": "At dawn, the sun rose over the quiet hills."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "timely",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "A timely arrival happens at the needed moment, just before an event or deadline.",
+    "sentence": "Her timely arrival let her board the train just before it left.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: Her timely arrival let her board the train just before it left.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "waiting train",
+        "small travel bag",
+        "empty platform bench"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: train (火车).",
+        "Show the sentence's main action linking the anchor to timely.",
+        "Make the target meaning clear: 及时的."
+      ],
+      "ending": "Her timely arrival let her board the train just before it left."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "altitude",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "Altitude is height above sea level, clearly associated with climbing high on a mountain.",
+    "sentence": "The climber reached a high altitude near the mountain summit.",
+    "scene": {
+      "setting": "A steep mountain ridge rising high above a soft layer of clouds.",
+      "actor": "One climber ascending the ridge with a plain walking stick; no other people.",
+      "props": [
+        "mountain ridge",
+        "plain walking stick",
+        "cloud layer"
+      ],
+      "beats": [
+        "The climber starts low on the mountain slope.",
+        "She climbs above the clouds.",
+        "She reaches a high altitude near the summit."
+      ],
+      "ending": "One climber stands on the ridge high above the clouds beside a small stone cairn."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Use only a small pile of plain stones at the summit; no flag, marker sign, emblem, symbol, text, or writing."
+  },
+  {
+    "word": "drown",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "To drown is to be unable to breathe after being submerged in water.",
+    "sentence": "The swimmer began to drown in deep water, but a lifeguard pulled him out.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The swimmer began to drown in deep water, but a lifeguard pulled him out.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "deep blue water",
+        "plain rescue ring",
+        "grassy shore"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: water (水).",
+        "Show the sentence's main action linking the anchor to drown.",
+        "Make the target meaning clear: 淹没."
+      ],
+      "ending": "The swimmer began to drown in deep water, but a lifeguard pulled him out."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "empire",
+    "anchor": "crown",
+    "anchorMeaning": "皇冠",
+    "relation": "A crown is a familiar symbol of an empire's ruler and power.",
+    "sentence": "The golden crown symbolized the empire's power across many lands.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The golden crown symbolized the empire's power across many lands.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain golden crown",
+        "stone pedestal",
+        "distant rolling lands"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: crown (皇冠).",
+        "Show the sentence's main action linking the anchor to empire.",
+        "Make the target meaning clear: 帝国."
+      ],
+      "ending": "The golden crown symbolized the empire's power across many lands."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "ignorance",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "Ignorance is a lack of knowledge; not understanding a map can leave a traveler lost.",
+    "sentence": "His ignorance of the route marked on the map left him wandering in the forest.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: His ignorance of the route marked on the map left him wandering in the forest.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "blank folded map",
+        "forked forest trail",
+        "small backpack"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: map (地图).",
+        "Show the sentence's main action linking the anchor to ignorance.",
+        "Make the target meaning clear: 无知."
+      ],
+      "ending": "His ignorance of the route marked on the map left him wandering in the forest."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "landlord",
+    "anchor": "land",
+    "anchorMeaning": "土地",
+    "relation": "Landlord is the compound land + lord, a person who owns land and rents property.",
+    "sentence": "The landlord owns the land and gives one tenant a key to the cottage.",
+    "scene": {
+      "setting": "A small cottage on a green piece of land.",
+      "actor": "Exactly one landlord handing a plain cottage key to exactly one tenant; no other people.",
+      "props": [
+        "small cottage",
+        "green land",
+        "plain key"
+      ],
+      "beats": [
+        "The landlord owns the cottage and land.",
+        "One tenant arrives to rent the cottage.",
+        "The landlord gives the tenant the key."
+      ],
+      "ending": "One landlord hands one tenant a plain key outside the cottage."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the simple compound or suffix gives a valid spelling cue."
+    },
+    "artDirection": "Show exactly two people, with a clear landlord-to-tenant key handoff; no other people, signs, labels, or writing."
+  },
+  {
+    "word": "prosperous",
+    "anchor": "harvest",
+    "anchorMeaning": "收成",
+    "relation": "A large successful harvest is visible evidence that a farm is thriving and prosperous.",
+    "sentence": "A prosperous farm produced a large harvest of apples and wheat.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A prosperous farm produced a large harvest of apples and wheat.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "basket of apples",
+        "bundle of wheat",
+        "small barn"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: harvest (收成).",
+        "Show the sentence's main action linking the anchor to prosperous.",
+        "Make the target meaning clear: 繁荣的."
+      ],
+      "ending": "A prosperous farm produced a large harvest of apples and wheat."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "versus",
+    "anchor": "match",
+    "anchorMeaning": "比赛",
+    "relation": "Versus marks the two opposing sides in a contest or match.",
+    "sentence": "The final match was one home player versus one visiting player.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The final match was one home player versus one visiting player.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "round ball",
+        "plain cup trophy",
+        "open field"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: match (比赛).",
+        "Show the sentence's main action linking the anchor to versus.",
+        "Make the target meaning clear: 对抗."
+      ],
+      "ending": "The final match was one home player versus one visiting player."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "allocate",
+    "anchor": "desk",
+    "anchorMeaning": "书桌",
+    "relation": "To allocate is to distribute resources for specific people or uses; desks can be assigned to students.",
+    "sentence": "The teacher will allocate one desk to the new student.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The teacher will allocate one desk to the new student.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "empty wooden desk",
+        "plain school bag",
+        "wooden chair"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: desk (书桌).",
+        "Show the sentence's main action linking the anchor to allocate.",
+        "Make the target meaning clear: 分配."
+      ],
+      "ending": "The teacher will allocate one desk to the new student."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "beg",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "An empty bowl can make a hungry person beg for food.",
+    "sentence": "The hungry child had to beg the baker for bread while holding out an empty bowl.",
+    "scene": {
+      "setting": "A small village bakery counter with one baker and one hungry child.",
+      "actor": "Exactly one hungry child holds out an empty bowl and asks one baker for bread; the baker places one small loaf into the bowl.",
+      "props": [
+        "empty bowl",
+        "small loaf of bread",
+        "plain bakery counter"
+      ],
+      "beats": [
+        "The hungry child approaches the baker with an empty bowl.",
+        "The child holds out the bowl and begs for bread.",
+        "The baker gives the child a small loaf of bread."
+      ],
+      "ending": "One child holds out an empty bowl as one baker places a loaf inside."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "troublesome",
+    "anchor": "wheel",
+    "anchorMeaning": "轮子",
+    "relation": "A faulty wheel can cause repeated difficulty, making it troublesome.",
+    "sentence": "A troublesome wheel kept the cart from rolling smoothly.",
+    "scene": {
+      "setting": "A simple dirt path where a small handcart has stopped beside a shallow rut.",
+      "actor": "One child strains to pull the cart while its front wheel is visibly tilted loose and jammed; no other people.",
+      "props": [
+        "small handcart",
+        "loose tilted wheel",
+        "plain tool box"
+      ],
+      "beats": [
+        "The child tries to pull the handcart along the path.",
+        "Its loose tilted wheel jams in a shallow rut.",
+        "The troublesome wheel keeps the cart from rolling smoothly."
+      ],
+      "ending": "One child strains beside a stopped cart with a visibly tilted, jammed wheel."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "delegate",
+    "anchor": "delivery",
+    "anchorMeaning": "递送；任务",
+    "relation": "To delegate is to assign responsibility for a task to another person.",
+    "sentence": "The manager chose to delegate the parcel delivery to her assistant.",
+    "scene": {
+      "setting": "A quiet office entrance with a manager assigning a delivery task to an assistant.",
+      "actor": "Exactly two adults: one manager hands a plain parcel to one assistant and gestures toward a small handcart for the delivery; no other people.",
+      "props": [
+        "plain parcel",
+        "small handcart",
+        "office door"
+      ],
+      "beats": [
+        "The manager has a parcel that needs delivery.",
+        "She gives the parcel to her assistant and assigns the task.",
+        "The assistant takes responsibility for delivering it."
+      ],
+      "ending": "One manager hands one assistant a plain parcel beside a small handcart."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Parcel has no writing, label, logo, or address."
+  },
+  {
+    "word": "hop",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "A rabbit is a familiar animal that moves with short hops.",
+    "sentence": "The rabbit can hop over a low log in the meadow.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The rabbit can hop over a low log in the meadow.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "single rabbit",
+        "low log",
+        "patch of grass"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: rabbit (兔子).",
+        "Show the sentence's main action linking the anchor to hop.",
+        "Make the target meaning clear: 跳跃."
+      ],
+      "ending": "The rabbit can hop over a low log in the meadow."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "pat",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "A gentle pat is a light touch often given to a friendly dog.",
+    "sentence": "She gave the dog a gentle pat on the head.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: She gave the dog a gentle pat on the head.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "friendly dog",
+        "low fence",
+        "soft brush"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: dog (狗).",
+        "Show the sentence's main action linking the anchor to pat.",
+        "Make the target meaning clear: 轻拍."
+      ],
+      "ending": "She gave the dog a gentle pat on the head."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "prospective",
+    "anchor": "campus",
+    "anchorMeaning": "校园",
+    "relation": "A prospective student is someone who may attend a school or university in the future.",
+    "sentence": "The prospective student toured the campus before applying to the university.",
+    "scene": {
+      "setting": "A quiet, tree-lined university campus path leading toward a plain academic hall.",
+      "actor": "One prospective student tours the campus while carrying a blank folder; exactly one person.",
+      "props": [
+        "plain university hall with no flag or clock",
+        "tree-lined campus path",
+        "blank folder"
+      ],
+      "beats": [
+        "The student walks along the university campus path.",
+        "He looks toward the academic hall while holding a blank folder.",
+        "As someone who may apply and attend, he is a prospective student."
+      ],
+      "ending": "One student tours a quiet campus holding a blank folder, with no flags, clocks, or signs."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Folder and building have no readable text, letters, or logos."
+  },
+  {
+    "word": "blueprint",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "A blueprint is a technical plan used to build a house.",
+    "sentence": "The builder unrolled a blueprint beside the house under construction.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The builder unrolled a blueprint beside the house under construction.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "unfinished house",
+        "blank blueprint",
+        "wooden ruler"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: house (房子).",
+        "Show the sentence's main action linking the anchor to blueprint.",
+        "Make the target meaning clear: 蓝图."
+      ],
+      "ending": "The builder unrolled a blueprint beside the house under construction."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Blueprint shows only faint abstract floor-plan lines, no text, labels, numbers, or symbols."
+  },
+  {
+    "word": "federation",
+    "anchor": "clubs",
+    "anchorMeaning": "俱乐部",
+    "relation": "A federation is an organization formed by several smaller groups joining together.",
+    "sentence": "Two local clubs formed a federation to share one swimming pool.",
+    "scene": {
+      "setting": "A shared swimming pool where two local swimming clubs meet to form one federation.",
+      "actor": "Exactly two club representatives stand on opposite sides of the pool, each beside one plain sports bag; they join hands over one shared key to show their clubs joining together.",
+      "props": [
+        "two plain club bags with no emblems",
+        "swimming pool",
+        "shared key"
+      ],
+      "beats": [
+        "One representative arrives for each of two local clubs.",
+        "They agree to share the swimming pool and join their hands around one key.",
+        "Their two clubs unite to form a federation."
+      ],
+      "ending": "Two club representatives from separate sides join hands over one key beside a shared pool."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "No emblems, team names, logos, writing, or numbers."
+  },
+  {
+    "word": "republican",
+    "anchor": "voters",
+    "anchorMeaning": "选民",
+    "relation": "A republican system gives political authority to elected representatives chosen by voters rather than inherited rulers.",
+    "sentence": "In a republican system, voters choose representatives instead of inheriting a crown.",
+    "scene": {
+      "setting": "A quiet civic room where two voters choose representatives through a simple election.",
+      "actor": "Exactly two voters place completely blank paper ballots into a plain ballot box; a plain unmarked crown rests unused beside an empty wooden chair, with no other people.",
+      "props": [
+        "blank paper ballots",
+        "plain ballot box",
+        "plain unmarked crown beside an empty wooden chair"
+      ],
+      "beats": [
+        "Two voters prepare to choose leaders themselves.",
+        "They put blank ballots into a plain ballot box beside an empty chair.",
+        "The unused crown contrasts elected leadership with inherited rule in a republican system."
+      ],
+      "ending": "Two voters cast blank ballots while a plain crown sits unused beside an empty chair."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "No flags, political emblems, writing, letters, numbers, or ballot markings."
+  }
+]

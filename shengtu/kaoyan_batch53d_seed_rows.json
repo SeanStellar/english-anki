@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2636",
+    "anchor": "day",
+    "sentence": "The following day brought light rain.",
+    "relation": "Following means coming next in time, order, or position.",
+    "setting": "A quiet garden on two successive mornings",
+    "actor": "No people: one rain cloud moves over a garden scene with a fresh morning after the previous day.",
+    "props": [
+      "one garden",
+      "one rain cloud",
+      "one pale morning sky"
+    ],
+    "beats": [
+      "One day ends",
+      "The next day begins",
+      "The following day brings light rain"
+    ],
+    "ending": "The following day brings light rain to the garden.",
+    "artDirection": "Use a single dawn scene, not a split-frame; no calendar dates, text, or symbols."
+  },
+  {
+    "id": "kyc-2637",
+    "anchor": "flower",
+    "sentence": "The fragrant flower filled the room with a sweet scent.",
+    "relation": "Fragrant describes something that has a pleasant, noticeable smell.",
+    "setting": "A bright room with a garden window",
+    "actor": "No people: one fresh flower gives off a gentle scent near an open window.",
+    "props": [
+      "one flower",
+      "one open window",
+      "one plain vase"
+    ],
+    "beats": [
+      "The flower opens",
+      "Its pleasant scent spreads",
+      "The room smells fragrant"
+    ],
+    "ending": "A fragrant flower fills the room with a sweet scent.",
+    "artDirection": "No scent icons, swirls, text, labels, or logos."
+  },
+  {
+    "id": "kyc-2638",
+    "anchor": "vote",
+    "sentence": "The franchise gave citizens the right to vote.",
+    "relation": "Franchise can mean the right to vote in public elections.",
+    "setting": "A quiet polling place",
+    "actor": "One adult woman places a plain blank ballot into an unmarked box, exercising her voting right.",
+    "props": [
+      "one woman",
+      "one blank ballot",
+      "one unmarked ballot box"
+    ],
+    "beats": [
+      "The citizen arrives to vote",
+      "She places the ballot in the box",
+      "The franchise allows her to take part"
+    ],
+    "ending": "A citizen uses her franchise to cast a vote.",
+    "artDirection": "No text, numbers, party logos, flags, or political symbols."
+  },
+  {
+    "id": "kyc-2639",
+    "anchor": "week",
+    "sentence": "Friday is the last workday of the week.",
+    "relation": "Friday is the day of the week between Thursday and Saturday.",
+    "setting": "A quiet office at the end of the workweek",
+    "actor": "One worker closes a plain notebook at the end of Friday's work.",
+    "props": [
+      "one worker",
+      "one plain notebook",
+      "one simple wall clock"
+    ],
+    "beats": [
+      "The workweek moves toward its end",
+      "Friday arrives",
+      "The worker finishes the last workday"
+    ],
+    "ending": "Friday ends the workweek.",
+    "artDirection": "No calendars, numbers, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2640",
+    "anchor": "door",
+    "sentence": "The gaol door closed behind the prisoner.",
+    "relation": "A gaol is a prison or jail, especially in British English.",
+    "setting": "A quiet old prison corridor",
+    "actor": "One prisoner stands behind a heavy plain cell door as it closes.",
+    "props": [
+      "one prisoner",
+      "one plain iron door",
+      "one bare corridor"
+    ],
+    "beats": [
+      "The prisoner enters the cell",
+      "The gaol door moves shut",
+      "The door closes behind him"
+    ],
+    "ending": "A gaol door closes behind a prisoner.",
+    "artDirection": "No violence, chains, labels, numbers, text, or threatening imagery."
+  },
+  {
+    "id": "kyc-2641",
+    "anchor": "light",
+    "sentence": "A warm light added glamor to the singer's entrance.",
+    "relation": "Glamor is an attractive, exciting quality associated with beauty, style, or fame.",
+    "setting": "A small theater stage",
+    "actor": "One singer enters under warm stage lights in an elegant plain outfit.",
+    "props": [
+      "one singer",
+      "warm stage lights",
+      "one simple stage"
+    ],
+    "beats": [
+      "The stage is dim",
+      "Lights brighten the entrance",
+      "The singer appears with glamor"
+    ],
+    "ending": "Stage lights add glamor to a singer's entrance.",
+    "artDirection": "No spotlights with logos, signs, text, or extra performers."
+  },
+  {
+    "id": "kyc-2642",
+    "anchor": "machine",
+    "sentence": "He applied grease to the machine's moving gears.",
+    "relation": "Grease is a thick oily substance used to lubricate moving parts and reduce friction.",
+    "setting": "A tidy repair workshop",
+    "actor": "One mechanic applies a small amount of grease to a plain machine's exposed gears.",
+    "props": [
+      "one mechanic",
+      "one plain machine",
+      "one small grease tin"
+    ],
+    "beats": [
+      "The gears squeak",
+      "The mechanic applies grease",
+      "The gears move smoothly"
+    ],
+    "ending": "Grease helps the machine's gears move smoothly.",
+    "artDirection": "No labels, writing, logos, or extra workers."
+  },
+  {
+    "id": "kyc-2643",
+    "anchor": "child",
+    "sentence": "The grown-up helped the child cross the street.",
+    "relation": "A grown-up is an adult rather than a child.",
+    "setting": "A safe neighborhood crossing",
+    "actor": "One adult walks beside one child as they cross an empty street together.",
+    "props": [
+      "one adult",
+      "one child",
+      "one quiet street"
+    ],
+    "beats": [
+      "The child waits at the curb",
+      "The grown-up takes the child's hand",
+      "They cross the street safely"
+    ],
+    "ending": "A grown-up helps a child cross the street.",
+    "artDirection": "Exactly two people; no traffic signs with text, license plates, or logos."
+  },
+  {
+    "id": "kyc-2644",
+    "anchor": "office",
+    "sentence": "The company moved its headquarters to a larger office.",
+    "relation": "Headquarters is the main office or center from which an organization is directed.",
+    "setting": "A simple office building entrance",
+    "actor": "Two workers carry a plain box into a larger main office.",
+    "props": [
+      "two workers",
+      "one plain moving box",
+      "one large office doorway"
+    ],
+    "beats": [
+      "The company outgrows its old space",
+      "The main office is moved",
+      "The headquarters opens in a larger office"
+    ],
+    "ending": "The company moves its headquarters to a larger office.",
+    "artDirection": "Exactly two people; no signs, logos, addresses, or text."
+  },
+  {
+    "id": "kyc-2645",
+    "anchor": "engine",
+    "sentence": "The car's horsepower measured the strength of its engine.",
+    "relation": "Horsepower is a unit used to measure an engine's power or rate of doing work.",
+    "setting": "A quiet garage",
+    "actor": "One mechanic compares a plain car engine with a simple mechanical power tester.",
+    "props": [
+      "one mechanic",
+      "one car engine",
+      "one plain power tester"
+    ],
+    "beats": [
+      "The engine is inspected",
+      "Its power is measured",
+      "Horsepower describes the engine's strength"
+    ],
+    "ending": "A mechanic measures a car engine's horsepower.",
+    "artDirection": "No numbers, units, labels, diagrams, or logos."
+  },
+  {
+    "id": "kyc-2646",
+    "anchor": "rabbit",
+    "sentence": "The hound followed a rabbit's scent across the field.",
+    "relation": "A hound is a dog bred or trained to hunt by scent.",
+    "setting": "A quiet open field",
+    "actor": "One hound follows a scent trail left by one rabbit across the grass without catching it.",
+    "props": [
+      "one hound",
+      "one rabbit",
+      "one open field"
+    ],
+    "beats": [
+      "The rabbit crosses the field",
+      "The hound finds its scent",
+      "The hound follows the trail"
+    ],
+    "ending": "A hound follows a rabbit's scent across a field.",
+    "artDirection": "One hound with four legs and one tail; one rabbit with two long ears and four legs; no chase injury."
+  },
+  {
+    "id": "kyc-2647",
+    "anchor": "dog",
+    "sentence": "The dog began to howl at the moon.",
+    "relation": "To howl is to make a long, loud cry, as a dog or wolf may do.",
+    "setting": "A quiet yard at night",
+    "actor": "One dog lifts its muzzle and makes a long howl beneath the moon.",
+    "props": [
+      "one dog",
+      "one full moon",
+      "one quiet yard"
+    ],
+    "beats": [
+      "Night falls",
+      "The dog raises its muzzle",
+      "The dog begins to howl"
+    ],
+    "ending": "A dog howls beneath the moon.",
+    "artDirection": "One dog only, with four legs and one tail; no extra animals, text, or symbols."
+  },
+  {
+    "id": "kyc-2648",
+    "anchor": "cry",
+    "sentence": "She became hysterical after the frightening news and began to cry.",
+    "relation": "Hysterical describes extremely uncontrolled emotion, such as intense fear or distress.",
+    "setting": "A quiet living room",
+    "actor": "One woman reacts with overwhelming distress after hearing difficult news, crying and struggling to stay calm.",
+    "props": [
+      "one woman",
+      "one plain phone",
+      "one empty chair"
+    ],
+    "beats": [
+      "She receives upsetting news",
+      "Her distress becomes overwhelming",
+      "She cries in a hysterical state"
+    ],
+    "ending": "A woman cries in an intensely hysterical reaction to bad news.",
+    "artDirection": "Show distress respectfully without caricature or medical stereotypes; no text or symbols."
+  },
+  {
+    "id": "kyc-2649",
+    "anchor": "summer",
+    "sentence": "Ice cream cooled her on a hot summer day.",
+    "relation": "Ice cream is a sweet frozen food made from cream or milk, often eaten as a dessert.",
+    "setting": "A sunny summer park",
+    "actor": "One child enjoys a small scoop of ice cream on a hot summer day.",
+    "props": [
+      "one child",
+      "one scoop of ice cream",
+      "one sunny park bench"
+    ],
+    "beats": [
+      "The day feels hot",
+      "The child tastes the cold dessert",
+      "Ice cream cools her down"
+    ],
+    "ending": "Ice cream cools a child on a hot summer day.",
+    "artDirection": "No food wrappers, logos, text, or extra people."
+  },
+  {
+    "id": "kyc-2650",
+    "anchor": "house",
+    "sentence": "The storm can inflict damage on a house's roof.",
+    "relation": "To inflict damage is to cause harm or loss to a person or thing.",
+    "setting": "A house after a severe storm",
+    "actor": "No people: a storm-damaged roof has a few missing tiles and a fallen branch nearby.",
+    "props": [
+      "one house",
+      "one damaged roof",
+      "one fallen branch"
+    ],
+    "beats": [
+      "The storm strikes the house",
+      "The roof is damaged",
+      "The storm inflicts harm on the house"
+    ],
+    "ending": "A storm inflicts damage on a house's roof.",
+    "artDirection": "No injured people, readable signs, text, or dramatic destruction."
+  },
+  {
+    "id": "kyc-2651",
+    "anchor": "bed",
+    "sentence": "Influenza kept her in bed with a fever.",
+    "relation": "Influenza is a contagious viral illness commonly called the flu, often causing fever and aches.",
+    "setting": "A calm bedroom",
+    "actor": "One sick woman rests in bed with a blanket and a plain cup of water nearby.",
+    "props": [
+      "one woman",
+      "one bed",
+      "one plain cup of water"
+    ],
+    "beats": [
+      "She develops a fever",
+      "Influenza makes her feel unwell",
+      "She rests in bed"
+    ],
+    "ending": "Influenza keeps a woman in bed with a fever.",
+    "artDirection": "Non-graphic, no medical labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2652",
+    "anchor": "red",
+    "sentence": "An infrared camera detects heat beyond visible red light.",
+    "relation": "Infrared is electromagnetic radiation just beyond red light in the spectrum, often detected as heat.",
+    "setting": "A simple science room",
+    "actor": "One researcher aims a plain infrared camera at a warm mug, whose heat appears as a soft color gradient on a blank display.",
+    "props": [
+      "one researcher",
+      "one plain camera",
+      "one warm mug"
+    ],
+    "beats": [
+      "The mug releases heat",
+      "The camera detects the invisible radiation",
+      "Infrared appears as a gentle thermal color pattern"
+    ],
+    "ending": "An infrared camera detects heat beyond visible red light.",
+    "artDirection": "No screen text, numbers, labels, radiation symbols, or logos."
+  },
+  {
+    "id": "kyc-2653",
+    "anchor": "money",
+    "sentence": "She paid the first instalment with money from her savings.",
+    "relation": "An instalment is one of a series of regular payments made over time to pay for something.",
+    "setting": "A quiet home desk",
+    "actor": "One woman sets aside a small unmarked payment beside a plain purchase agreement.",
+    "props": [
+      "one woman",
+      "one small stack of unmarked coins",
+      "one blank agreement paper"
+    ],
+    "beats": [
+      "The purchase is made",
+      "She pays part of the total",
+      "The first instalment is complete"
+    ],
+    "ending": "A woman pays an instalment with money from her savings.",
+    "artDirection": "No currency symbols, numbers, writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2654",
+    "anchor": "rule",
+    "sentence": "She had to invoke the rule to settle the dispute.",
+    "relation": "To invoke a rule is to refer to it as a reason or authority for taking action.",
+    "setting": "A quiet meeting room",
+    "actor": "One woman calmly points to a blank rulebook while two people pause their disagreement.",
+    "props": [
+      "one woman",
+      "one plain closed rulebook",
+      "one simple meeting table"
+    ],
+    "beats": [
+      "A disagreement begins",
+      "She refers to the rule",
+      "The rule is invoked to settle the dispute"
+    ],
+    "ending": "A woman invokes a rule to settle a dispute.",
+    "artDirection": "Exactly two or three people total; no writing, legal symbols, labels, or signs."
+  },
+  {
+    "id": "kyc-2655",
+    "anchor": "winter",
+    "sentence": "January arrived in the middle of winter.",
+    "relation": "January is the first month of the year and falls in winter in the Northern Hemisphere.",
+    "setting": "A snowy winter garden",
+    "actor": "No people: snow covers the garden as the coldest part of winter continues.",
+    "props": [
+      "one snowy garden",
+      "one bare tree",
+      "one pale winter sky"
+    ],
+    "beats": [
+      "Winter settles in",
+      "January arrives",
+      "The garden remains cold and snowy"
+    ],
+    "ending": "January arrives in the middle of winter.",
+    "artDirection": "No calendars, dates, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-2656",
+    "anchor": "water",
+    "sentence": "He poured water from the jug into a glass.",
+    "relation": "A jug is a container with a handle and spout, used for holding and pouring liquid.",
+    "setting": "A simple kitchen table",
+    "actor": "One person pours water from a plain jug into a clear glass.",
+    "props": [
+      "one person",
+      "one plain jug",
+      "one clear glass"
+    ],
+    "beats": [
+      "The jug is filled with water",
+      "He tips it carefully",
+      "Water pours into the glass"
+    ],
+    "ending": "A person pours water from a jug into a glass.",
+    "artDirection": "No labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2657",
+    "anchor": "summer",
+    "sentence": "July arrived during the warmest part of summer.",
+    "relation": "July is the seventh month of the year and occurs during summer in the Northern Hemisphere.",
+    "setting": "A sunny summer garden",
+    "actor": "No people: bright sunlight falls on a garden at the height of summer.",
+    "props": [
+      "one summer garden",
+      "one bright sun",
+      "one shaded tree"
+    ],
+    "beats": [
+      "Summer grows warm",
+      "July arrives",
+      "The garden feels hot"
+    ],
+    "ending": "July arrives during summer warmth.",
+    "artDirection": "No calendar, dates, labels, numbers, or text."
+  },
+  {
+    "id": "kyc-2658",
+    "anchor": "summer",
+    "sentence": "June brings the first warmth of summer.",
+    "relation": "June is the sixth month of the year and marks the beginning of summer in the Northern Hemisphere.",
+    "setting": "A bright garden at the start of summer",
+    "actor": "No people: early summer flowers open in warm sunlight.",
+    "props": [
+      "one garden",
+      "one bright sun",
+      "several summer flowers"
+    ],
+    "beats": [
+      "Spring flowers begin to fade",
+      "Warm weather arrives",
+      "June brings the first summer warmth"
+    ],
+    "ending": "June brings the first warmth of summer.",
+    "artDirection": "No calendar dates, labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2659",
+    "anchor": "eye",
+    "sentence": "One long lash curled above her eye.",
+    "relation": "A lash is one eyelash, the short hair growing along the edge of the eyelid.",
+    "setting": "A calm portrait close-up",
+    "actor": "One woman blinks gently, showing one long curved eyelash above her eye.",
+    "props": [
+      "one woman's eye",
+      "one long lash",
+      "one soft face profile"
+    ],
+    "beats": [
+      "The eye opens",
+      "The lash curves along the lid",
+      "One long lash is visible above the eye"
+    ],
+    "ending": "One long lash curls above an eye.",
+    "artDirection": "Change targetSense to 睫毛；鞭打; keep the close-up gentle, no makeup labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2660",
+    "anchor": "book",
+    "sentence": "She studied Latin from an old book.",
+    "relation": "Latin is the language of ancient Rome and remains important in historical, scientific, and religious texts.",
+    "setting": "A quiet library table",
+    "actor": "One student studies a blank old book beside a small unlabelled Roman-style clay pot.",
+    "props": [
+      "one student",
+      "one old blank book",
+      "one plain clay pot"
+    ],
+    "beats": [
+      "The student opens the old book",
+      "She studies the language",
+      "She learns Latin"
+    ],
+    "ending": "A student studies Latin from an old book.",
+    "artDirection": "Pages and pottery must have no letters, inscriptions, labels, or logos."
+  }
+]

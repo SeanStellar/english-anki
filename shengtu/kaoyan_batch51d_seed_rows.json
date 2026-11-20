@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2436",
+    "anchor": "road",
+    "sentence": "One road met another at the intersection.",
+    "relation": "An intersection is the place where two or more roads or lines cross.",
+    "setting": "A quiet neighborhood street",
+    "actor": "No people: two plain roads meet at one clear crossing.",
+    "props": [
+      "one road",
+      "a second road",
+      "one crossing point"
+    ],
+    "beats": [
+      "The first road approaches",
+      "The second road crosses it",
+      "They meet at an intersection"
+    ],
+    "ending": "Two roads meet at an intersection.",
+    "artDirection": "No road signs, traffic lights with symbols, text, or numbers."
+  },
+  {
+    "id": "kyc-2437",
+    "anchor": "hill",
+    "sentence": "The inverse route led back down the hill.",
+    "relation": "Inverse means opposite or reversed in position or direction.",
+    "setting": "A hillside path",
+    "actor": "One hiker follows the reverse path downhill toward the valley.",
+    "props": [
+      "one hiker",
+      "one hillside path",
+      "one valley below"
+    ],
+    "beats": [
+      "The hiker reaches the top",
+      "The route turns back downhill",
+      "The inverse direction leads to the valley"
+    ],
+    "ending": "The inverse route leads back down the hill.",
+    "artDirection": "No arrows, map labels, signs, or text."
+  },
+  {
+    "id": "kyc-2438",
+    "anchor": "sea",
+    "sentence": "The isle rose from the sea.",
+    "relation": "An isle is a small island surrounded by water.",
+    "setting": "A calm open sea",
+    "actor": "No people: one small green isle rises from the surrounding sea.",
+    "props": [
+      "one small isle",
+      "one surrounding sea",
+      "one rocky shore"
+    ],
+    "beats": [
+      "The sea stretches outward",
+      "Land appears above the water",
+      "The isle stands alone"
+    ],
+    "ending": "A small isle rises from the sea.",
+    "artDirection": "No map lines, labels, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2439",
+    "anchor": "smile",
+    "sentence": "Her smile made his jolly mood obvious.",
+    "relation": "Jolly means cheerful and full of good humor.",
+    "setting": "A friendly home gathering",
+    "actor": "One cheerful adult smiles as one friend laughs beside him.",
+    "props": [
+      "one cheerful adult",
+      "one friend",
+      "one plain table"
+    ],
+    "beats": [
+      "The friends meet",
+      "One person smiles broadly",
+      "His jolly mood becomes obvious"
+    ],
+    "ending": "A smile reveals a jolly mood.",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  },
+  {
+    "id": "kyc-2440",
+    "anchor": "court",
+    "sentence": "The judicial decision came from the court.",
+    "relation": "Judicial means related to judges, courts, or the administration of justice.",
+    "setting": "A plain courtroom",
+    "actor": "One judge gives a decision from a simple courtroom bench.",
+    "props": [
+      "one judge",
+      "one plain bench",
+      "one blank document"
+    ],
+    "beats": [
+      "The court hears the matter",
+      "The judge considers it",
+      "A judicial decision is given"
+    ],
+    "ending": "A judge gives a judicial decision in court.",
+    "artDirection": "Document must be blank; no scales, legal emblems, writing, signs, or symbols."
+  },
+  {
+    "id": "kyc-2441",
+    "anchor": "shoe",
+    "sentence": "She tied the lace on her shoe.",
+    "relation": "A lace is a cord threaded through holes to fasten a shoe or garment.",
+    "setting": "A home entryway",
+    "actor": "One person ties a plain lace on one shoe.",
+    "props": [
+      "one person",
+      "one plain shoe",
+      "one lace"
+    ],
+    "beats": [
+      "The lace is loosened",
+      "The person threads and pulls it",
+      "The shoe is fastened"
+    ],
+    "ending": "A lace ties a shoe securely.",
+    "artDirection": "No logos, text, or symbols on the shoe."
+  },
+  {
+    "id": "kyc-2442",
+    "anchor": "sink",
+    "sentence": "The lavatory had one sink and a toilet.",
+    "relation": "A lavatory is a room or facility containing a toilet and washing area.",
+    "setting": "A clean public restroom",
+    "actor": "No people: one toilet and one sink stand in a simple lavatory.",
+    "props": [
+      "one plain toilet",
+      "one sink",
+      "one empty restroom"
+    ],
+    "beats": [
+      "The room is entered",
+      "The sink and toilet are visible",
+      "The lavatory is ready for use"
+    ],
+    "ending": "A lavatory contains a sink and toilet.",
+    "artDirection": "No signs, labels, writing, symbols, or extra fixtures."
+  },
+  {
+    "id": "kyc-2443",
+    "anchor": "mouth",
+    "sentence": "One lick of ice cream left a sweet taste in her mouth.",
+    "relation": "To lick is to pass the tongue over a surface or food.",
+    "setting": "A simple kitchen table",
+    "actor": "One child gives one scoop of ice cream a small lick.",
+    "props": [
+      "one child",
+      "one scoop of ice cream",
+      "one plain bowl"
+    ],
+    "beats": [
+      "The ice cream is served",
+      "The child tastes it with her tongue",
+      "The child licks the scoop"
+    ],
+    "ending": "A child licks a scoop of ice cream.",
+    "artDirection": "One child with natural anatomy; no text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2444",
+    "anchor": "flower",
+    "sentence": "The maiden placed one flower on the table.",
+    "relation": "Maiden can mean a young unmarried woman or girl, especially in older or literary use.",
+    "setting": "A simple cottage room",
+    "actor": "One young woman places a flower on a plain table.",
+    "props": [
+      "one young woman",
+      "one flower",
+      "one plain table"
+    ],
+    "beats": [
+      "The young woman enters",
+      "She chooses one flower",
+      "She places it on the table"
+    ],
+    "ending": "A maiden places one flower on a table.",
+    "artDirection": "No bridal symbols, signs, text, or writing."
+  },
+  {
+    "id": "kyc-2445",
+    "anchor": "scan",
+    "sentence": "The scan revealed a malignant tumor.",
+    "relation": "Malignant describes a harmful growth that can spread and damage nearby tissue.",
+    "setting": "A calm medical examination room",
+    "actor": "One doctor studies a plain scan beside one seated patient.",
+    "props": [
+      "one doctor",
+      "one plain scan image",
+      "one patient"
+    ],
+    "beats": [
+      "The scan is examined",
+      "A harmful tumor is noticed",
+      "The doctor identifies it as malignant"
+    ],
+    "ending": "A scan reveals a malignant tumor.",
+    "artDirection": "No medical crosses, labels, numbers, or graphic body detail; keep the scan unmarked."
+  },
+  {
+    "id": "kyc-2446",
+    "anchor": "computer",
+    "sentence": "The computer contained a replaceable module.",
+    "relation": "A module is a separate part that can be combined with other parts in a system.",
+    "setting": "A simple electronics workbench",
+    "actor": "One technician removes a plain replaceable module from an open computer case.",
+    "props": [
+      "one computer case",
+      "one removable module",
+      "one technician"
+    ],
+    "beats": [
+      "The computer case is opened",
+      "The module is removed",
+      "The module can be replaced"
+    ],
+    "ending": "A technician removes a module from a computer.",
+    "artDirection": "No circuit symbols, labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2447",
+    "anchor": "cold",
+    "sentence": "Her fingers went numb in the cold.",
+    "relation": "Numb means unable to feel normally, often because of cold or injury.",
+    "setting": "A winter path",
+    "actor": "One person rubs cold fingers together while standing in winter air.",
+    "props": [
+      "one person",
+      "one pair of gloves",
+      "one snowy path"
+    ],
+    "beats": [
+      "Cold air chills the hands",
+      "The fingers lose feeling",
+      "The person rubs them to warm up"
+    ],
+    "ending": "Cold makes a person's fingers numb.",
+    "artDirection": "One person with normal anatomy; no ice icons, text, or motion marks."
+  },
+  {
+    "id": "kyc-2448",
+    "anchor": "rope",
+    "sentence": "The rope was made from nylon.",
+    "relation": "Nylon is a strong synthetic material used to make ropes, fabrics, and other goods.",
+    "setting": "A simple workshop",
+    "actor": "No people: one bright plain nylon rope lies beside a coil of nylon fiber.",
+    "props": [
+      "one nylon rope",
+      "one small coil of nylon fiber",
+      "one workbench"
+    ],
+    "beats": [
+      "The fiber is prepared",
+      "It is woven into rope",
+      "The strong nylon rope is ready"
+    ],
+    "ending": "A rope made from nylon rests on a bench.",
+    "artDirection": "No product labels, logos, text, or symbols."
+  },
+  {
+    "id": "kyc-2449",
+    "anchor": "road",
+    "sentence": "A fallen tree became an obstruction in the road.",
+    "relation": "An obstruction is something that blocks a path or prevents progress.",
+    "setting": "A country road after a storm",
+    "actor": "No people: one fallen tree blocks the road completely.",
+    "props": [
+      "one fallen tree",
+      "one blocked road",
+      "one roadside ditch"
+    ],
+    "beats": [
+      "The tree falls across the road",
+      "The road is blocked",
+      "The obstruction prevents travel"
+    ],
+    "ending": "A fallen tree becomes an obstruction in the road.",
+    "artDirection": "No arrows, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2450",
+    "anchor": "glass",
+    "sentence": "The opaque glass blocked the view.",
+    "relation": "Opaque means not allowing light or an image to pass through clearly.",
+    "setting": "A simple house window",
+    "actor": "No people: one opaque glass pane blocks the view of the room beyond it.",
+    "props": [
+      "one opaque glass pane",
+      "one window frame",
+      "one blurred room beyond"
+    ],
+    "beats": [
+      "The window is approached",
+      "The glass blocks a clear view",
+      "The room cannot be seen through it"
+    ],
+    "ending": "Opaque glass blocks the view through a window.",
+    "artDirection": "Make the glass visibly nontransparent; no curtains with patterns, signs, or text."
+  },
+  {
+    "id": "kyc-2451",
+    "anchor": "lake",
+    "sentence": "The family planned an outing to the lake.",
+    "relation": "An outing is a short trip or visit taken for pleasure.",
+    "setting": "A home doorway with a view of the lake",
+    "actor": "Exactly two family members prepare a picnic basket before a short trip to the lake.",
+    "props": [
+      "two family members",
+      "one plain picnic basket",
+      "one lake view"
+    ],
+    "beats": [
+      "The family prepares to leave",
+      "They take the basket",
+      "They set out on an outing to the lake"
+    ],
+    "ending": "A family sets out for an outing at the lake.",
+    "artDirection": "Exactly two people; no labels, writing, or symbols on the basket."
+  },
+  {
+    "id": "kyc-2452",
+    "anchor": "field",
+    "sentence": "The ox pulled a plow across the field.",
+    "relation": "An ox is a castrated adult bovine trained to pull loads or farm equipment.",
+    "setting": "A quiet farm field",
+    "actor": "One ox pulls a simple wooden plow through the soil.",
+    "props": [
+      "one ox",
+      "one plain plow",
+      "one field"
+    ],
+    "beats": [
+      "The plow is set in the soil",
+      "The ox pulls forward",
+      "A furrow forms in the field"
+    ],
+    "ending": "An ox pulls a plow across a field.",
+    "artDirection": "One ox with natural anatomy and four legs; no extra animals, text, or symbols."
+  },
+  {
+    "id": "kyc-2453",
+    "anchor": "toy",
+    "sentence": "The broken toy looked pathetic beside a new one.",
+    "relation": "Pathetic describes something that makes people feel pity or contempt because it is poor or weak.",
+    "setting": "A child's playroom",
+    "actor": "No people: one broken worn toy sits beside one clean new toy.",
+    "props": [
+      "one broken toy",
+      "one new toy",
+      "one playroom floor"
+    ],
+    "beats": [
+      "The old toy is damaged",
+      "A new toy is placed beside it",
+      "The contrast makes the broken toy look pathetic"
+    ],
+    "ending": "A pathetic broken toy lies beside a new one.",
+    "artDirection": "No labels, logos, text, or symbols on the toys."
+  },
+  {
+    "id": "kyc-2454",
+    "anchor": "flag",
+    "sentence": "The patriotic student saluted a plain flag.",
+    "relation": "Patriotic means showing love, pride, and loyalty toward one's country.",
+    "setting": "A simple school courtyard",
+    "actor": "One student respectfully salutes a completely blank flag on a pole.",
+    "props": [
+      "one student",
+      "one plain flag",
+      "one flagpole"
+    ],
+    "beats": [
+      "The flag is raised",
+      "The student stands respectfully",
+      "The student shows patriotic feeling"
+    ],
+    "ending": "A patriotic student salutes a blank flag.",
+    "artDirection": "Flag is blank with no colors arranged as a national symbol, no emblem, text, or marks."
+  },
+  {
+    "id": "kyc-2455",
+    "anchor": "shoe",
+    "sentence": "A pebble slipped inside his shoe.",
+    "relation": "A pebble is a small smooth stone, often found on a path or shore.",
+    "setting": "A country footpath",
+    "actor": "One walker pauses and tips a shoe to remove one small pebble.",
+    "props": [
+      "one walker",
+      "one shoe",
+      "one small pebble"
+    ],
+    "beats": [
+      "The walker steps on a pebble",
+      "It slips into the shoe",
+      "The walker removes it"
+    ],
+    "ending": "A pebble slips inside a shoe on a path.",
+    "artDirection": "One person only; no extra feet, text, or symbols."
+  },
+  {
+    "id": "kyc-2456",
+    "anchor": "orange",
+    "sentence": "She used a peeler to peel the orange.",
+    "relation": "To peel is to remove the outer skin of fruit or another object.",
+    "setting": "A kitchen table",
+    "actor": "One person uses a plain blunt-edged peeler to remove the skin from one orange.",
+    "props": [
+      "one orange",
+      "one plain peeler",
+      "one table"
+    ],
+    "beats": [
+      "The orange is placed on the table",
+      "The person removes its skin",
+      "The peeled orange is ready to eat"
+    ],
+    "ending": "A person peels an orange at the table.",
+    "artDirection": "No text, logos, or labels on the tool; keep the action safe."
+  },
+  {
+    "id": "kyc-2457",
+    "anchor": "flower",
+    "sentence": "The flower's perfume filled the room.",
+    "relation": "Perfume is a pleasant-smelling liquid or scent used to make a person or place smell pleasant.",
+    "setting": "A bright room with one flower",
+    "actor": "No people: one fragrant flower stands beside a small plain perfume bottle.",
+    "props": [
+      "one flower",
+      "one plain perfume bottle",
+      "one room table"
+    ],
+    "beats": [
+      "The flower opens",
+      "Its scent spreads through the room",
+      "The perfume fills the air"
+    ],
+    "ending": "A flower's perfume fills a quiet room.",
+    "artDirection": "Bottle has no label, logo, writing, or symbols."
+  },
+  {
+    "id": "kyc-2458",
+    "anchor": "lung",
+    "sentence": "Pneumonia affected one lung.",
+    "relation": "Pneumonia is an infection that inflames the air sacs in one or both lungs.",
+    "setting": "A calm medical examination room",
+    "actor": "One doctor points to one affected lung on a plain non-graphic torso model.",
+    "props": [
+      "one doctor",
+      "one plain torso model",
+      "one affected lung area"
+    ],
+    "beats": [
+      "The model is examined",
+      "One lung shows inflammation",
+      "The doctor identifies pneumonia"
+    ],
+    "ending": "Pneumonia affects one lung on a teaching model.",
+    "artDirection": "No medical crosses, labels, text, numbers, or graphic imagery."
+  },
+  {
+    "id": "kyc-2459",
+    "anchor": "memory",
+    "sentence": "She tried to recollect the memory of her first bicycle.",
+    "relation": "To recollect is to remember something from the past.",
+    "setting": "A quiet garden",
+    "actor": "One adult studies an old plain bicycle and tries to recall her first ride.",
+    "props": [
+      "one adult",
+      "one old bicycle",
+      "one garden bench"
+    ],
+    "beats": [
+      "The bicycle brings back the past",
+      "The adult searches her memory",
+      "She recollects her first ride"
+    ],
+    "ending": "A woman recollects a memory of her first bicycle.",
+    "artDirection": "No photo labels, writing, symbols, or extra people."
+  },
+  {
+    "id": "kyc-2460",
+    "anchor": "question",
+    "sentence": "He gave a quick retort to her question.",
+    "relation": "A retort is a quick, sharp reply, often made in response to criticism or a question.",
+    "setting": "A quiet sitting room",
+    "actor": "Exactly two adults: one asks a question while the other gives a quick sharp reply.",
+    "props": [
+      "two adults",
+      "one plain chair",
+      "one small table"
+    ],
+    "beats": [
+      "One adult asks a question",
+      "The other responds quickly",
+      "A retort ends the exchange"
+    ],
+    "ending": "One adult gives a quick retort to another's question.",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  }
+]

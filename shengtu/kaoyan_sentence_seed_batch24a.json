@@ -1,0 +1,625 @@
+[
+  {
+    "word": "lag",
+    "anchor": "trail",
+    "anchorMeaning": "小路",
+    "sentence": "One hiker began to lag behind the group on the steep trail.",
+    "relation": "On a hike, lag means falling behind the group.",
+    "scene": {
+      "setting": "A clear mountain trail in soft morning light.",
+      "actor": "Three hikers walk along the trail; two lead and one trails noticeably behind.",
+      "props": [
+        "one winding trail",
+        "three small hiking backpacks",
+        "one low rocky hill"
+      ],
+      "beats": [
+        "The hikers begin walking uphill.",
+        "The two leaders continue ahead.",
+        "The third hiker slows down behind them."
+      ],
+      "ending": "One hiker visibly lags behind the other two on the steep trail."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "hypothesis",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "sentence": "Her hypothesis was that sunlight helped a seedling grow, so she tested it beside a second seedling in shade.",
+    "relation": "A hypothesis is a testable idea; the scientist tests her idea about sunlight and plant growth.",
+    "scene": {
+      "setting": "A bright, uncluttered greenhouse with one sunny window.",
+      "actor": "One scientist compares two matching seedlings, one in sunlight and one in shade.",
+      "props": [
+        "two matching potted seedlings",
+        "one sunny window",
+        "one plain watering can"
+      ],
+      "beats": [
+        "The scientist places one seedling in sunlight.",
+        "She sets the matching seedling in shade.",
+        "She compares their growth to test her idea."
+      ],
+      "ending": "She tests her hypothesis about sunlight."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "revive",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "sentence": "Warm rain helped revive the wilted flower, lifting its leaves toward the sun.",
+    "relation": "Rain revives a wilted flower by restoring its freshness and life.",
+    "scene": {
+      "setting": "A minimal garden corner after a gentle spring shower, with a plain warm wall and a small patch of soil.",
+      "actor": "One child kneels beside the single flower, now upright with open petals and fresh lifted leaves.",
+      "props": [
+        "one revived flower in a plain pot",
+        "one plain watering can",
+        "one bare garden patch"
+      ],
+      "beats": [
+        "Raindrops rest on the flower and its leaves.",
+        "The child notices its fresh, lifted leaves.",
+        "The single flower stands upright with open petals."
+      ],
+      "ending": "The upright petals and lifted leaves show that rain helped revive the flower."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability after revision; revive is used exactly and the anchor relation remains direct."
+    },
+    "artDirection": "Show exactly one flower and no other plants, flowers, shrubs, or greenery anywhere in the image. The only plant is the single potted flower. Keep the background plain and uncluttered, with the watering can and bare soil patch visible. No extra flowers."
+  },
+  {
+    "word": "undertake",
+    "anchor": "crate",
+    "anchorMeaning": "木箱",
+    "sentence": "She agreed to undertake the task of carrying a heavy crate upstairs.",
+    "relation": "To undertake a task is to take it on; she accepts the crate-carrying job.",
+    "scene": {
+      "setting": "A simple home staircase with a clear landing.",
+      "actor": "One adult woman braces herself to carry a heavy crate up the stairs.",
+      "props": [
+        "one heavy wooden crate",
+        "one short staircase",
+        "one sturdy handrail"
+      ],
+      "beats": [
+        "She grips the crate at the bottom step.",
+        "She lifts it carefully.",
+        "She starts carrying it up the stairs."
+      ],
+      "ending": "She undertakes the task and starts carrying the crate upstairs."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "deficiency",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "sentence": "A deficiency of sunlight left the seedlings pale and weak.",
+    "relation": "A deficiency is a lack; the pale seedlings lack sunlight.",
+    "scene": {
+      "setting": "A bare greenhouse corner with one bright framed window and a plain wall.",
+      "actor": "No people; exactly two weak seedlings with pale leaves stand together in the shade, away from the sunbeam.",
+      "props": [
+        "two pale seedlings in terracotta pots",
+        "one simple bright window",
+        "one clear patch of sunlight"
+      ],
+      "beats": [
+        "Both seedlings remain in a dim shaded corner.",
+        "Their leaves look pale and weak beside the bright window.",
+        "A sunbeam falls on the empty floor beyond them."
+      ],
+      "ending": "The two pale seedlings in shade show a deficiency of sunlight."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    },
+    "artDirection": "Show exactly two seedlings and exactly two pots in the entire image. No person and no other plants, flowers, leaves, or pots. Keep the greenhouse bare; a bright window and sunbeam fall on empty floor while the two pale seedlings remain in shade."
+  },
+  {
+    "word": "enrol",
+    "anchor": "pottery",
+    "anchorMeaning": "陶器",
+    "sentence": "Maya went to enrol in a pottery class after meeting the teacher.",
+    "relation": "Enrol means to register to join a class; Maya joins a pottery class.",
+    "scene": {
+      "setting": "A nearly empty pottery classroom with blank walls and a clear floor.",
+      "actor": "One teacher in plain clothes with no apron welcomes one student wearing the single plain student apron beside a potter’s wheel.",
+      "props": [
+        "one pottery wheel",
+        "one small round lump of clay",
+        "one plain student apron"
+      ],
+      "beats": [
+        "The student arrives at the empty classroom.",
+        "The teacher welcomes the student beside the wheel.",
+        "The teacher hands the clay lump to the apron-wearing student."
+      ],
+      "ending": "The teacher welcomes the student who is joining the pottery class."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    },
+    "artDirection": "Only one pottery wheel, one small round ball of clay, and one student apron are visible. Teacher wears an ordinary plain shirt and no apron. Keep the room empty with blank walls. Do not show pots, vessels, shelves, extra tools, extra aprons, or text."
+  },
+  {
+    "word": "peaceful",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "sentence": "The lake was peaceful before sunrise.",
+    "relation": "A still lake at dawn is a peaceful scene.",
+    "scene": {
+      "setting": "A quiet lakeshore just before sunrise.",
+      "actor": "No people; still water lies beneath a few trees.",
+      "props": [
+        "one calm lake",
+        "one low wooden dock",
+        "one willow tree"
+      ],
+      "beats": [
+        "The sky brightens softly.",
+        "The lake remains still.",
+        "The first light touches the trees."
+      ],
+      "ending": "The peaceful lake rests beneath the quiet morning trees."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "resemble",
+    "anchor": "mother",
+    "anchorMeaning": "母亲",
+    "sentence": "The puppy’s floppy ears resemble its mother’s.",
+    "relation": "Resemble means look like; the puppy and its mother share floppy ears.",
+    "scene": {
+      "setting": "A grassy yard beside a simple cottage.",
+      "actor": "One puppy sits beside its mother, both with matching floppy ears.",
+      "props": [
+        "one adult dog",
+        "one puppy",
+        "one plain dog bowl"
+      ],
+      "beats": [
+        "The mother dog sits on the grass.",
+        "The puppy sits close beside her.",
+        "Both dogs tilt their floppy ears forward."
+      ],
+      "ending": "Their matching floppy ears make the puppy resemble its mother."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "spiritual",
+    "anchor": "prayer",
+    "anchorMeaning": "祈祷",
+    "sentence": "The family found spiritual comfort in a quiet prayer.",
+    "relation": "A quiet prayer can provide spiritual comfort.",
+    "scene": {
+      "setting": "A simple, softly lit family room.",
+      "actor": "Three family members sit quietly together with heads gently bowed.",
+      "props": [
+        "one plain cushion",
+        "one small candle with no label",
+        "one simple wooden table"
+      ],
+      "beats": [
+        "The family gathers quietly.",
+        "They bow their heads for a prayer.",
+        "They sit together in calm reflection."
+      ],
+      "ending": "The family shares spiritual comfort in the still room."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "fortunate",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "sentence": "She was fortunate to find her lost key beside the garden gate.",
+    "relation": "Finding a lost key just in time is a stroke of good fortune.",
+    "scene": {
+      "setting": "A garden path beside a wooden gate.",
+      "actor": "One woman smiles as she finds a small key on the path.",
+      "props": [
+        "one plain metal key",
+        "one wooden garden gate",
+        "one patch of flowers"
+      ],
+      "beats": [
+        "She searches beside the gate.",
+        "She spots the lost key on the path.",
+        "She picks it up with relief."
+      ],
+      "ending": "She feels fortunate to find the key before leaving."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "temptation",
+    "anchor": "pie",
+    "anchorMeaning": "馅饼",
+    "sentence": "The warm pie was a temptation for the hungry child.",
+    "relation": "A tempting pie strongly attracts the hungry child.",
+    "scene": {
+      "setting": "A cozy kitchen with a plain wooden table.",
+      "actor": "One hungry child gazes at a warm pie cooling on the table.",
+      "props": [
+        "one round fruit pie",
+        "one empty plate",
+        "one plain oven mitt"
+      ],
+      "beats": [
+        "The pie cools on the table.",
+        "The child smells its warm scent.",
+        "The child reaches toward the tempting pie."
+      ],
+      "ending": "The warm pie is a temptation for the hungry child."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "cater",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "sentence": "The cook tried to cater to the guests’ tastes by serving mild soup.",
+    "relation": "Cater to someone’s tastes means meet their preferences; the cook serves the guests a mild soup they enjoy.",
+    "scene": {
+      "setting": "A small dining room set for a family meal.",
+      "actor": "One cook serves mild soup to two guests who smile at the meal.",
+      "props": [
+        "one pot of mild soup",
+        "two plain soup bowls",
+        "one serving ladle"
+      ],
+      "beats": [
+        "The guests sit at the table.",
+        "The cook serves the mild soup.",
+        "The guests enjoy the meal."
+      ],
+      "ending": "The cook caters to their tastes with the meal."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "grave",
+    "anchor": "shovel",
+    "anchorMeaning": "铲子",
+    "sentence": "The shovel stood beside the fresh grave under a quiet tree.",
+    "relation": "A shovel beside freshly turned earth points to a grave.",
+    "scene": {
+      "setting": "A peaceful cemetery beneath one broad tree.",
+      "actor": "No people; a simple fresh grave lies beside a plain shovel.",
+      "props": [
+        "one low mound of earth",
+        "one plain shovel",
+        "one leafy tree"
+      ],
+      "beats": [
+        "The soil is newly turned.",
+        "The shovel rests beside the mound.",
+        "Leaves shade the quiet ground."
+      ],
+      "ending": "The fresh grave lies quietly under the tree."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "historic",
+    "anchor": "bell",
+    "anchorMeaning": "钟",
+    "sentence": "The town saved its historic bell when the old tower was damaged.",
+    "relation": "The old town bell is an object of historical importance.",
+    "scene": {
+      "setting": "A village square beneath a damaged stone tower.",
+      "actor": "Two townspeople carefully carry the old bell to safety.",
+      "props": [
+        "one large bronze bell",
+        "one damaged stone tower",
+        "one wooden carrying frame"
+      ],
+      "beats": [
+        "The tower stones crack.",
+        "The townspeople lift the old bell down.",
+        "They carry it away from the damaged tower."
+      ],
+      "ending": "They save the historic bell from the damaged tower."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "incorporate",
+    "anchor": "berries",
+    "anchorMeaning": "浆果",
+    "sentence": "The baker began to incorporate berries into the bread dough.",
+    "relation": "Incorporate means mix or combine; berries are folded into the dough.",
+    "scene": {
+      "setting": "A bright bakery counter with a plain wall.",
+      "actor": "One baker folds berries into a bowl of bread dough.",
+      "props": [
+        "one bowl of bread dough",
+        "one handful of berries",
+        "one wooden mixing spoon"
+      ],
+      "beats": [
+        "The baker pours berries into the dough.",
+        "She folds the mixture with the spoon.",
+        "The berries spread through the dough."
+      ],
+      "ending": "The berries become incorporated throughout the dough."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "physicist",
+    "anchor": "magnet",
+    "anchorMeaning": "磁铁",
+    "sentence": "The physicist used a magnet to test how metal filings moved.",
+    "relation": "A physicist studies matter and forces; the magnet experiment is a physics investigation.",
+    "scene": {
+      "setting": "A simple science workbench with no written charts.",
+      "actor": "One physicist holds a magnet over a small pile of metal filings.",
+      "props": [
+        "one plain bar magnet",
+        "one small pile of metal filings",
+        "one shallow metal tray"
+      ],
+      "beats": [
+        "The physicist brings the magnet near the filings.",
+        "The filings shift toward it.",
+        "The physicist observes the magnetic force at work."
+      ],
+      "ending": "The physicist tests the magnet’s force."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "prey",
+    "anchor": "mouse",
+    "anchorMeaning": "老鼠",
+    "sentence": "An owl swooped toward a mouse, its prey.",
+    "relation": "Prey is an animal hunted by another; the mouse is the owl’s prey.",
+    "scene": {
+      "setting": "A moonlit field with soft grass.",
+      "actor": "One owl swoops toward one mouse without touching it.",
+      "props": [
+        "one owl",
+        "one small mouse",
+        "one patch of grass"
+      ],
+      "beats": [
+        "The owl spots the mouse.",
+        "It swoops down from a low branch.",
+        "The mouse is clearly in danger."
+      ],
+      "ending": "The mouse is the owl’s prey."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "toxic",
+    "anchor": "mushroom",
+    "anchorMeaning": "蘑菇",
+    "sentence": "The toxic mushrooms made the forager step back from the patch.",
+    "relation": "Toxic means poisonous; the forager avoids the dangerous mushrooms.",
+    "scene": {
+      "setting": "A damp forest floor after rain.",
+      "actor": "One forager cautiously steps back from a cluster of unusual mushrooms.",
+      "props": [
+        "one small mushroom cluster",
+        "one woven foraging basket",
+        "one fern patch"
+      ],
+      "beats": [
+        "The forager notices the mushrooms.",
+        "She pauses before touching them.",
+        "She steps back from the patch."
+      ],
+      "ending": "She avoids the toxic mushrooms."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "sheer",
+    "anchor": "trail",
+    "anchorMeaning": "小路",
+    "sentence": "The sheer cliff rose above the narrow trail.",
+    "relation": "Sheer describes a very steep cliff rising beside the trail.",
+    "scene": {
+      "setting": "A mountain trail beneath a tall rock face.",
+      "actor": "No people; a sheer cliff towers over the narrow path.",
+      "props": [
+        "one steep rock cliff",
+        "one narrow trail",
+        "one small scrub plant"
+      ],
+      "beats": [
+        "The trail curves along the cliff base.",
+        "The rock face rises almost vertically.",
+        "The path looks tiny beside the cliff."
+      ],
+      "ending": "The sheer cliff towers above the narrow trail."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "soar",
+    "anchor": "valley",
+    "anchorMeaning": "山谷",
+    "sentence": "The eagle can soar above the valley on a warm updraft.",
+    "relation": "Soar means fly high and smoothly; the eagle rises over the valley.",
+    "scene": {
+      "setting": "A broad mountain valley in warm afternoon light.",
+      "actor": "One eagle glides high above the valley with wings spread.",
+      "props": [
+        "one soaring eagle",
+        "one wide green valley",
+        "one warm rising air current suggested only by the eagle’s lifted wings"
+      ],
+      "beats": [
+        "The eagle catches the rising air.",
+        "It spreads its wings.",
+        "It glides high over the valley."
+      ],
+      "ending": "The eagle soars above the valley."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; the anchor relation is direct and visualizable."
+    }
+  }
+]

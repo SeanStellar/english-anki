@@ -1,0 +1,762 @@
+[
+  {
+    "word": "seventy",
+    "anchor": "bead",
+    "anchorMeaning": "珠子",
+    "relation": "An abacus with seven rows of ten beads shows seventy beads altogether.",
+    "sentence": "Seven rows of ten beads make seventy beads altogether.",
+    "scene": {
+      "setting": "A plain cream tabletop with a wooden counting abacus viewed straight on",
+      "actor": "No people; one simple abacus has exactly 7 horizontal rods. Each rod holds exactly ten large round beads in one continuous, evenly spaced line, with no center gap or clusters. All rods and beads fit fully in the frame.",
+      "props": [
+        "exactly 70 distinct round beads",
+        "plain wooden abacus with seven rods",
+        "cream tabletop"
+      ],
+      "beats": [
+        "Exactly seven horizontal rods are visible",
+        "Every rod has exactly ten beads in one continuous line",
+        "The seven rows make seventy beads altogether"
+      ],
+      "ending": "One centered wooden abacus with 7 rods and ten countable beads on each rod"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Seven rows of ten beads make seventy beads altogether.” The visual uses seven clear rows of ten."
+    },
+    "artDirection": "Children’s watercolor picture-book illustration matching the reference. Straight-on view of one plain wooden abacus with exactly 7 horizontal rods. Each rod has one continuous line of exactly ten large round beads, evenly spaced with no center gap and no clusters. All beads lie fully on the rod, are separate and countable, and all rods fit in the frame. No extra bead-shaped parts, no short dash marks, no words, letters, numbers, signs, symbols, logos, or decorations."
+  },
+  {
+    "word": "surpass",
+    "anchor": "leader",
+    "anchorMeaning": "领跑者",
+    "relation": "To surpass means to move ahead of or exceed someone, and overtaking the leader shows that action.",
+    "sentence": "The runner will surpass the leader before the finish line.",
+    "scene": {
+      "setting": "A quiet running track",
+      "actor": "Exactly two runners race toward one plain finish line as one overtakes the other",
+      "props": [
+        "two runners",
+        "plain finish line",
+        "running track"
+      ],
+      "beats": [
+        "Both runners approach the line",
+        "One runner moves ahead",
+        "She surpasses the leader before the finish"
+      ],
+      "ending": "One runner is clearly ahead of the other just before the line"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To surpass means to move ahead of or exceed someone, and overtaking the leader shows that action. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two runners and no lane numbers or signs."
+  },
+  {
+    "word": "defy",
+    "anchor": "wave",
+    "anchorMeaning": "海浪",
+    "relation": "To defy means to resist or face something difficult and a small boat can press on against rough waves.",
+    "sentence": "The small boat can defy the rough waves and keep sailing toward shore.",
+    "scene": {
+      "setting": "A stormy coast seen from the water",
+      "actor": "No people; one small boat rides against rough waves toward the shore",
+      "props": [
+        "single small boat",
+        "rough waves",
+        "distant shore"
+      ],
+      "beats": [
+        "The waves rise around the boat",
+        "It points toward land",
+        "The boat defies the waves and keeps moving"
+      ],
+      "ending": "One boat pushes through rough water toward shore"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To defy means to resist or face something difficult and a small boat can press on against rough waves. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No flags, signs, or extra boats."
+  },
+  {
+    "word": "gratitude",
+    "anchor": "gift",
+    "anchorMeaning": "礼物",
+    "relation": "Gratitude is thankfulness and a warm response to a gift can show it clearly.",
+    "sentence": "She showed gratitude for the gift by hugging her friend.",
+    "scene": {
+      "setting": "A quiet garden patio",
+      "actor": "Exactly two friends shown in a clear full-body three-quarter view; one gives a small plain gift and the other hugs her gratefully with both arms clearly visible",
+      "props": [
+        "plain wrapped gift",
+        "wooden bench",
+        "flower pot"
+      ],
+      "beats": [
+        "One friend offers the gift",
+        "The other accepts it",
+        "She shows gratitude with a warm hug"
+      ],
+      "ending": "One friend gives a plain gift and receives a clear grateful hug"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Gratitude is thankfulness and a warm response to a gift can show it clearly. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show a warm hug between exactly two friends; the gift wrap must be plain with no hearts, patterns, symbols, writing, letters, or labels; both people have two visible connected arms."
+  },
+  {
+    "word": "morality",
+    "anchor": "wallet",
+    "anchorMeaning": "钱包",
+    "relation": "Morality concerns right and wrong and returning a found wallet is a clear honest choice.",
+    "sentence": "Finding a wallet tested the boy's morality and he returned it to its owner.",
+    "scene": {
+      "setting": "A quiet sidewalk beside a park",
+      "actor": "One boy returns a found wallet to one grateful owner",
+      "props": [
+        "plain wallet",
+        "park bench",
+        "small travel bag"
+      ],
+      "beats": [
+        "The boy finds the wallet",
+        "He considers what to do",
+        "He returns it to its owner as a moral choice"
+      ],
+      "ending": "One boy hands the wallet back to its owner"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Morality concerns right and wrong and returning a found wallet is a clear honest choice. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no money or cards with writing."
+  },
+  {
+    "word": "paradise",
+    "anchor": "island",
+    "anchorMeaning": "岛屿",
+    "relation": "Paradise describes an ideal peaceful place and a quiet tropical island is a familiar image of one.",
+    "sentence": "The tropical island felt like paradise because its beach was peaceful.",
+    "scene": {
+      "setting": "A quiet tropical shoreline",
+      "actor": "One traveler rests on a peaceful island beach beneath palm trees",
+      "props": [
+        "small tropical island",
+        "soft beach",
+        "single palm tree"
+      ],
+      "beats": [
+        "The traveler reaches the shore",
+        "She sees the calm beach",
+        "The peaceful island feels like paradise"
+      ],
+      "ending": "One traveler rests on a quiet island beach"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Paradise describes an ideal peaceful place and a quiet tropical island is a familiar image of one. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs, flags, or extra people."
+  },
+  {
+    "word": "prince",
+    "anchor": "crown",
+    "anchorMeaning": "王冠",
+    "relation": "A prince is a young male member of a royal family and a crown is a familiar royal object.",
+    "sentence": "The young prince stood beside the crown on the palace steps.",
+    "scene": {
+      "setting": "Plain palace steps against a completely empty pale stone wall with no towers or banners",
+      "actor": "One young boy in a simple royal cloak, not wearing a crown, stands beside one single crown resting on a palace step",
+      "props": [
+        "single plain crown",
+        "stone palace steps",
+        "simple royal cloak"
+      ],
+      "beats": [
+        "The boy approaches the steps",
+        "He stands beside the single crown",
+        "His royal clothing identifies the prince"
+      ],
+      "ending": "One young prince in a plain royal cloak stands beside one crown on the steps"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A prince is a young male member of a royal family and a crown is a familiar royal object. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly one crown resting on one step; the boy wears only a simple royal cloak and no headgear; empty plain wall; no flags, banners, towers, emblems, badges, symbols, or text."
+  },
+  {
+    "word": "revenge",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "Revenge is an action returned in response to an earlier harm and a playful splash can show the retaliation.",
+    "sentence": "After his friend splashed water on him, the boy took revenge by splashing back.",
+    "scene": {
+      "setting": "A shallow pond edge on a warm day",
+      "actor": "Exactly two children at a shallow pond; one child with a visibly wet shirt returns one splash of water toward the friend who splashed first",
+      "props": [
+        "shallow water",
+        "plain towel",
+        "smooth pond edge"
+      ],
+      "beats": [
+        "One child has wet clothes from the first splash",
+        "He turns toward his friend",
+        "He splashes back in revenge"
+      ],
+      "ending": "One child clearly returns a splash to the friend who splashed him first"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Revenge is an action returned in response to an earlier harm and a playful splash can show the retaliation. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show exactly two children and one clear returning splash; the splashed child has a wet shirt; one child is retaliating playfully; no collage, extra people, or dangerous action."
+  },
+  {
+    "word": "deceive",
+    "anchor": "cheese",
+    "anchorMeaning": "奶酪",
+    "relation": "To deceive someone is to make them believe something false and a fox hiding cheese from a crow is a familiar fable-like trick.",
+    "sentence": "The fox tried to deceive the crow by hiding the cheese behind a stump.",
+    "scene": {
+      "setting": "A grassy woodland clearing",
+      "actor": "One fox hides one piece of cheese from one nearby crow",
+      "props": [
+        "single fox",
+        "single crow",
+        "piece of cheese"
+      ],
+      "beats": [
+        "The fox notices the crow",
+        "It hides the cheese behind the stump",
+        "The trick is meant to deceive the crow"
+      ],
+      "ending": "One fox hides cheese as one crow watches"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To deceive someone is to make them believe something false and a fox hiding cheese from a crow is a familiar fable-like trick. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One fox with four legs and one crow with two legs; no extra animals."
+  },
+  {
+    "word": "horror",
+    "anchor": "shadow",
+    "anchorMeaning": "影子",
+    "relation": "Horror is intense fear and a sudden shadow in a dark place can create it.",
+    "sentence": "In the dark cellar, a sudden shadow filled the child with horror.",
+    "scene": {
+      "setting": "A dim cellar with a plain stone wall",
+      "actor": "One child holds a small lamp and recoils from a large unexpected shadow",
+      "props": [
+        "small plain lamp",
+        "stone cellar wall",
+        "wooden stair"
+      ],
+      "beats": [
+        "The child enters the cellar",
+        "A large shadow appears on the wall",
+        "The child feels horror and steps back"
+      ],
+      "ending": "One frightened child faces a shadow in the cellar"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Horror is intense fear and a sudden shadow in a dark place can create it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No monsters, writing, symbols, or extra people."
+  },
+  {
+    "word": "princess",
+    "anchor": "crown",
+    "anchorMeaning": "王冠",
+    "relation": "A princess is a young female member of a royal family and a crown is a familiar royal object.",
+    "sentence": "The young princess wore a simple crown in the palace garden.",
+    "scene": {
+      "setting": "A quiet garden with a plain path and low flower beds; no buildings in view",
+      "actor": "One young girl in a plain royal dress wears one small crown",
+      "props": [
+        "simple crown",
+        "garden path",
+        "flower bed"
+      ],
+      "beats": [
+        "The girl walks through the garden",
+        "She wears the crown",
+        "Her royal appearance identifies the princess"
+      ],
+      "ending": "One princess stands in the palace garden"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A princess is a young female member of a royal family and a crown is a familiar royal object. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "The princess wears a plain unadorned dress and one simple crown; show only the path and flower beds behind her; no castle, buildings, flags, banners, crosses, badges, emblems, jewelry, logos, or text."
+  },
+  {
+    "word": "threshold",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A threshold is the sill or entrance at the bottom of a doorway.",
+    "sentence": "She paused at the threshold before stepping through the open door.",
+    "scene": {
+      "setting": "A quiet room with one open doorway",
+      "actor": "One woman pauses with one foot on the doorway sill before entering",
+      "props": [
+        "open door",
+        "visible wooden threshold",
+        "plain travel bag"
+      ],
+      "beats": [
+        "She approaches the doorway",
+        "She pauses on the threshold",
+        "She prepares to step through the open door"
+      ],
+      "ending": "One woman stands at the doorway threshold"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A threshold is the sill or entrance at the bottom of a doorway. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs, labels, or text."
+  },
+  {
+    "word": "vocal",
+    "anchor": "piano",
+    "anchorMeaning": "钢琴",
+    "relation": "Vocal describes singing produced by the voice and a vocal solo can be contrasted with a silent piano.",
+    "sentence": "Her vocal solo filled the hall while the piano stayed silent.",
+    "scene": {
+      "setting": "A small recital hall",
+      "actor": "One singer performs alone beside one silent piano",
+      "props": [
+        "plain piano",
+        "wooden chair",
+        "open stage"
+      ],
+      "beats": [
+        "The singer opens her mouth to sing",
+        "The piano remains untouched",
+        "Her vocal solo fills the hall"
+      ],
+      "ending": "One singer performs beside the silent piano"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Vocal describes singing produced by the voice and a vocal solo can be contrasted with a silent piano. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No music notes, sheet music, signs, or text."
+  },
+  {
+    "word": "autonomy",
+    "anchor": "island",
+    "anchorMeaning": "岛屿",
+    "relation": "Autonomy is the ability to govern oneself and an island community managing its own decisions makes that idea concrete.",
+    "sentence": "The island community gained autonomy when its residents began governing themselves.",
+    "scene": {
+      "setting": "A small island meeting room with a window toward the shore",
+      "actor": "Exactly two island residents sit face to face and visibly make a local decision together; both have their hands in view, one pointing at an unmarked island map while the other agrees",
+      "props": [
+        "plain island map with no labels",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The residents gather as equals",
+        "One points to the unmarked island map",
+        "Together they make their own local decision"
+      ],
+      "ending": "Two island residents jointly decide how to govern their community around an unmarked island map"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Autonomy is the ability to govern oneself and an island community managing its own decisions makes that idea concrete. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Clearly show self-governance by the two residents making their own decision; the map has no labels; no flags, emblems, writing, numbers, or extra people."
+  },
+  {
+    "word": "cloudy",
+    "anchor": "cloud",
+    "anchorMeaning": "云",
+    "relation": "Cloud + -y forms cloudy, an adjective meaning covered with clouds.",
+    "sentence": "A cloudy sky hid the sun behind a broad cloud.",
+    "scene": {
+      "setting": "An open meadow beneath a gray sky",
+      "actor": "No people; a broad cloud covers the sun in a cloudy sky",
+      "props": [
+        "broad cloud",
+        "meadow",
+        "partly hidden sun"
+      ],
+      "beats": [
+        "Clouds gather overhead",
+        "The sun becomes partly hidden",
+        "The sky turns cloudy"
+      ],
+      "ending": "A broad cloud hides most of the sun"
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Cloud + -y forms cloudy, an adjective meaning covered with clouds. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No drawn symbols or text in the sky."
+  },
+  {
+    "word": "grief",
+    "anchor": "tear",
+    "anchorMeaning": "眼泪",
+    "relation": "Grief is deep sadness and a tear can visibly express it.",
+    "sentence": "A tear rolled down her cheek as she felt grief beside the empty chair.",
+    "scene": {
+      "setting": "A quiet room with a plain empty chair",
+      "actor": "One woman cries softly beside an empty chair",
+      "props": [
+        "plain empty chair",
+        "soft blanket",
+        "small side table"
+      ],
+      "beats": [
+        "The woman notices the empty chair",
+        "A tear rolls down her cheek",
+        "Her grief is visible in her sadness"
+      ],
+      "ending": "One tearful woman sits beside the empty chair"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Grief is deep sadness and a tear can visibly express it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One person only and no writing or symbols."
+  },
+  {
+    "word": "hierarchy",
+    "anchor": "ladder",
+    "anchorMeaning": "梯子",
+    "relation": "A hierarchy ranks people or roles in levels and a ladder provides a familiar picture of higher and lower positions.",
+    "sentence": "In the office hierarchy, the manager held a higher position than the assistant, much like the upper rung of a ladder.",
+    "scene": {
+      "setting": "A plain office with a wooden step ladder",
+      "actor": "Exactly two office workers stand at different levels beside one ladder",
+      "props": [
+        "plain wooden ladder",
+        "office desk",
+        "closed blank folder"
+      ],
+      "beats": [
+        "The assistant stands on a lower step",
+        "The manager stands one level higher",
+        "Their positions show the office hierarchy"
+      ],
+      "ending": "Two workers occupy different levels beside the ladder"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A hierarchy ranks people or roles in levels and a ladder provides a familiar picture of higher and lower positions. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no labels, signs, or writing."
+  },
+  {
+    "word": "probable",
+    "anchor": "cloud",
+    "anchorMeaning": "云",
+    "relation": "A dark cloud makes rain seem probable because it is a visible sign that rain may come.",
+    "sentence": "A dark cloud made rain seem probable.",
+    "scene": {
+      "setting": "A quiet field beneath a darkening sky",
+      "actor": "One child looks up at one dark cloud while holding a plain umbrella",
+      "props": [
+        "single dark cloud",
+        "plain umbrella",
+        "grassy field"
+      ],
+      "beats": [
+        "The cloud gathers overhead",
+        "The child checks the sky",
+        "Rain seems probable"
+      ],
+      "ending": "One child watches a dark cloud with an umbrella ready"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A dark cloud makes rain seem probable because it is a visible sign that rain may come. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No weather symbols, signs, or text."
+  },
+  {
+    "word": "wooden",
+    "anchor": "wood",
+    "anchorMeaning": "木材",
+    "relation": "Wood + -en forms wooden, an adjective meaning made of wood.",
+    "sentence": "She chose a wooden chair made from local wood.",
+    "scene": {
+      "setting": "A simple workshop",
+      "actor": "One carpenter inspects a chair made from a fresh wood plank",
+      "props": [
+        "plain wooden chair",
+        "wood plank",
+        "small mallet"
+      ],
+      "beats": [
+        "The carpenter selects the plank",
+        "She shapes the chair",
+        "The finished chair is wooden"
+      ],
+      "ending": "A wooden chair stands beside the plank"
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Wood + -en forms wooden, an adjective meaning made of wood. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No writing, measurements, or numbers."
+  },
+  {
+    "word": "comparative",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "Comparative means involving comparison and two trees of different heights provide a simple comparison.",
+    "sentence": "A comparative study showed that one tree was taller than the other.",
+    "scene": {
+      "setting": "A quiet garden with two trees",
+      "actor": "One gardener compares two trees of different heights using an unmarked measuring pole",
+      "props": [
+        "tall tree",
+        "shorter tree",
+        "plain measuring pole"
+      ],
+      "beats": [
+        "The gardener looks at both trees",
+        "She compares their heights",
+        "The comparative study shows which is taller"
+      ],
+      "ending": "One gardener stands between the two different-height trees"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Comparative means involving comparison and two trees of different heights provide a simple comparison. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two trees and no markings, numbers, or text."
+  }
+]

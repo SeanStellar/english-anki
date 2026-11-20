@@ -1,0 +1,642 @@
+[
+  {
+    "word": "convey",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A warm smile can convey gratitude to someone who holds a door open.",
+    "sentence": "A warm smile can convey gratitude to the neighbor who holds the door.（邻居为她扶门时，一个温暖的微笑可以表达感谢。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny apartment entryway with an open front door.",
+      "actor": "One woman smiles gratefully at one neighbor who holds the door; exactly two people.",
+      "props": [
+        "one open front door",
+        "one small plain shopping bag",
+        "one potted green plant beside the doorway"
+      ],
+      "beats": [
+        "The neighbor holds the door open.",
+        "The woman walks through carrying her bag.",
+        "Her warm smile conveys her gratitude."
+      ],
+      "ending": "The neighbor sees the woman's grateful smile as the door remains open."
+    },
+    "artDirection": "Exactly two people with normal limbs. Show a plain floor with no doormat or rug and bare walls with no framed pictures. No signs, letters, words, writing, or logos anywhere; fill the scene with warm illustrated detail.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：句子自然，convey 与 door 锚点明确；已去除可能出现文字的门垫和墙饰，避免模型生成字样。"
+    }
+  },
+  {
+    "word": "discourage",
+    "anchor": "hill",
+    "anchorMeaning": "山坡",
+    "relation": "A steep hill does not discourage a determined cyclist who keeps climbing.",
+    "sentence": "The steep hill did not discourage the determined cyclist.（陡坡没有让那位坚定的骑行者泄气。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A steep country road climbing toward a green ridge.",
+      "actor": "One determined cyclist pedals uphill with a focused expression; only one person.",
+      "props": [
+        "one sturdy bicycle",
+        "one steep winding hill road",
+        "one distant green ridge"
+      ],
+      "beats": [
+        "The cyclist reaches the bottom of the steep hill.",
+        "The climb looks difficult, but the cyclist keeps pedaling.",
+        "The cyclist continues toward the hilltop without giving up."
+      ],
+      "ending": "The challenging hill fails to discourage the cyclist."
+    },
+    "artDirection": "One cyclist with normal limbs. No extra people, text, signs, or logos; full-frame textured countryside.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "location",
+    "anchor": "cabin",
+    "anchorMeaning": "小木屋",
+    "relation": "A map can show the exact location of a cabin beside a lake.",
+    "sentence": "The map showed the exact location of the cabin beside the lake.（地图标出了湖边小木屋的准确位置。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A wooden table beside a window overlooking a lake.",
+      "actor": "One traveler studies a simple map showing a cabin beside a lake; only one person.",
+      "props": [
+        "one plain map with a simple cabin and lake drawing",
+        "one small cabin visible through the window",
+        "one wooden table"
+      ],
+      "beats": [
+        "The traveler opens the map on the table.",
+        "The traveler compares its drawing with the cabin outside.",
+        "The exact cabin location becomes clear beside the lake."
+      ],
+      "ending": "The map and the real cabin line up in the same lakeside location."
+    },
+    "artDirection": "Map contains only simple shapes with no words, letters, or symbols. One person only; full-frame warm cabin interior.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "merit",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "A drip system has merit because it saves water in the garden.",
+    "sentence": "The drip system has merit because it saves water in the garden.（这种滴灌系统有价值，因为它能节省花园用水。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny vegetable garden with neat planting rows.",
+      "actor": "One gardener checks a simple drip irrigation line beside healthy plants.",
+      "props": [
+        "one drip irrigation hose with small outlets",
+        "healthy garden plants",
+        "one rain barrel collecting water"
+      ],
+      "beats": [
+        "The gardener turns on the drip line.",
+        "Small drops water the roots without flooding the soil.",
+        "The gardener sees that the system saves water."
+      ],
+      "ending": "The useful drip system shows its merit by watering efficiently."
+    },
+    "artDirection": "One gardener with natural limbs. No text, labels, or logos; fill the frame with detailed green garden rows.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "implication",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "One implication, or result, of heavy rain can be a flooded garden path.",
+    "sentence": "One implication of the heavy rain was a flooded garden path.（暴雨造成的一个后果是花园小路被淹。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden just after a heavy rainstorm.",
+      "actor": "No people; rainwater covers a narrow garden path.",
+      "props": [
+        "one shallowly flooded garden path",
+        "rain-soaked flower beds",
+        "one large puddle reflecting clouds"
+      ],
+      "beats": [
+        "Heavy rain falls over the garden.",
+        "Water gathers along the narrow path.",
+        "The flooded path shows one implication of the storm."
+      ],
+      "ending": "The consequence of heavy rain is visible in the water-covered path."
+    },
+    "artDirection": "Show shallow water and wet ground, no dangerous flooding. No text or logos; full-frame softly painted garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "inevitable",
+    "anchor": "clouds",
+    "anchorMeaning": "乌云",
+    "relation": "When dark clouds gather overhead, rain can seem inevitable.",
+    "sentence": "With dark clouds overhead, rain was inevitable.（乌云压顶，降雨似乎不可避免。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open field beneath a sky full of heavy clouds.",
+      "actor": "No people; rain is beginning beneath gathering dark clouds.",
+      "props": [
+        "thick dark clouds covering the sky",
+        "the first visible raindrops",
+        "one green field"
+      ],
+      "beats": [
+        "Dark clouds gather above the field.",
+        "The air grows dim and the first drops begin to fall.",
+        "The coming rain feels inevitable."
+      ],
+      "ending": "Rain starts beneath the heavy clouds, making it seem unavoidable."
+    },
+    "artDirection": "Show one continuous landscape, not split panels. No lightning danger, text, or logos; fill the full frame with sky and field.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "independence",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "Learning to ride a bicycle alone can help a young person gain independence.",
+    "sentence": "Her independence grew as she learned to ride a bicycle alone.（她学会独自骑自行车后，独立性增强了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet paved path in a neighborhood park.",
+      "actor": "One girl rides her bicycle by herself with a proud, steady smile; only one person.",
+      "props": [
+        "one simple bicycle",
+        "one clear park path",
+        "one leafy tree beside the path"
+      ],
+      "beats": [
+        "The girl starts pedaling on her own.",
+        "She balances without anyone holding the bicycle.",
+        "She rides forward independently with confidence."
+      ],
+      "ending": "The girl rides alone, showing her growing independence."
+    },
+    "artDirection": "One child with natural arms and legs. No extra people, signs, writing, or logos; fill the frame with a calm park.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "bind",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "A rope can bind a loose bundle of sticks together.",
+    "sentence": "She used a rope to bind the bundle of sticks.（她用绳子把一捆木棍捆在一起。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet woodland clearing beside a woodpile.",
+      "actor": "One woman ties a rope around a bundle of sticks; only one person.",
+      "props": [
+        "one loose bundle of sticks",
+        "one length of plain rope",
+        "one small woodpile"
+      ],
+      "beats": [
+        "The sticks lie loose on the ground.",
+        "The woman wraps the rope around the bundle.",
+        "She pulls the rope tight to bind the sticks together."
+      ],
+      "ending": "The sticks are held firmly together by the rope."
+    },
+    "artDirection": "One person with normal hands. No text or logos; full-frame warm woodland clearing.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "recruit",
+    "anchor": "team",
+    "anchorMeaning": "队伍",
+    "relation": "A coach may recruit a new player to join the team.",
+    "sentence": "The coach hopes to recruit one new player for the team.（教练希望为队伍招募一名新队员。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny soccer field beside a simple bench.",
+      "actor": "One coach welcomes one prospective player to join the team; exactly two people.",
+      "props": [
+        "one soccer ball",
+        "one plain team jersey with no emblem",
+        "one simple field bench"
+      ],
+      "beats": [
+        "The coach meets the prospective player beside the field.",
+        "The coach offers a plain team jersey.",
+        "The new player smiles and joins the team."
+      ],
+      "ending": "The coach recruits one new player for the team."
+    },
+    "artDirection": "Exactly two people with normal limbs. Jersey has no writing, numbers, or logos; full-frame field scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "retail",
+    "anchor": "fruit",
+    "anchorMeaning": "水果",
+    "relation": "A retail shop sells goods directly to individual customers.",
+    "sentence": "The retail shop sold fresh fruit directly to local customers.（这家零售店直接向当地顾客出售新鲜水果。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small neighborhood fruit shop with open shelves.",
+      "actor": "One shopkeeper serves one customer at the fruit counter; exactly two people.",
+      "props": [
+        "fresh fruit arranged in small baskets",
+        "one simple shop counter",
+        "one plain shopping bag"
+      ],
+      "beats": [
+        "The shopkeeper arranges fruit for sale.",
+        "One customer chooses a few pieces of fruit.",
+        "The shopkeeper sells the fruit directly to the customer."
+      ],
+      "ending": "A customer buys fruit directly from the retail shop."
+    },
+    "artDirection": "Exactly two people. No price tags, signs, writing, or logos; full-frame warmly painted shop.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然易懂，retail 与 fruit 锚点都明确出现，零售场景直观。"
+    }
+  },
+  {
+    "word": "excerpt",
+    "anchor": "story",
+    "anchorMeaning": "故事",
+    "relation": "An excerpt is a short part taken from a longer story.",
+    "sentence": "She read a short excerpt from a story to her friend.（她给朋友读了一段故事节选。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet reading nook near a sunny window.",
+      "actor": "One woman reads a short passage from a plain book to one friend; exactly two people.",
+      "props": [
+        "one open book with blank pages",
+        "one small reading chair",
+        "one sunlit window"
+      ],
+      "beats": [
+        "The reader opens the book to one short section.",
+        "She reads that small part of the story aloud.",
+        "Her friend listens to the excerpt."
+      ],
+      "ending": "The friend hears a short excerpt from the larger story."
+    },
+    "artDirection": "Book pages must be blank with no marks or writing. Exactly two people; no text or logos; full-frame warm reading nook.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "cultivate",
+    "anchor": "soil",
+    "anchorMeaning": "土壤",
+    "relation": "A farmer cultivates soil by preparing it before planting seeds.",
+    "sentence": "The farmer works to cultivate the soil before planting seeds.（农民在播种前耕整土壤。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small farm field in early spring.",
+      "actor": "One farmer loosens the soil with a hand hoe; only one person.",
+      "props": [
+        "one hand hoe",
+        "freshly turned soil in a planting row",
+        "a small bowl of seeds"
+      ],
+      "beats": [
+        "The farmer breaks up the firm soil.",
+        "The farmer prepares a straight planting row.",
+        "The loosened soil is ready for seeds."
+      ],
+      "ending": "The farmer has cultivated the earth for planting."
+    },
+    "artDirection": "One farmer with natural hands and limbs. No text, signs, or logos; full-frame textured field and soil.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子简洁自然，cultivate 与 soil 锚点均出现，耕整土壤的场景直观。"
+    }
+  },
+  {
+    "word": "bacteria",
+    "anchor": "food",
+    "anchorMeaning": "食物",
+    "relation": "Bacteria can grow on uncovered food left in a warm place.",
+    "sentence": "Bacteria can grow on food left uncovered in a warm room.（食物在温暖的房间里敞开放置时，细菌可能繁殖。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm kitchen with a plate on the counter.",
+      "actor": "No people; uncovered food sits in the room while tiny bacteria are shown magnified nearby.",
+      "props": [
+        "one uncovered piece of bread on a plate",
+        "a small magnified cluster of simple round bacteria",
+        "one warm sunny kitchen counter"
+      ],
+      "beats": [
+        "The bread is left uncovered on the counter.",
+        "Tiny bacteria begin to grow on its surface.",
+        "A magnified view makes the bacteria visible."
+      ],
+      "ending": "The uncovered food and magnified bacteria show how bacteria can grow."
+    },
+    "artDirection": "Bacteria are simple tiny round shapes, not scary and without faces. No labels, letters, or text; full-frame kitchen setting.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "selection",
+    "anchor": "peaches",
+    "anchorMeaning": "桃子",
+    "relation": "A wide selection means a shop offers many different peaches to choose from.",
+    "sentence": "The market offered a wide selection of fresh peaches.（市场提供了多种新鲜桃子供人挑选。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright farmers' market fruit stall.",
+      "actor": "One shopper looks over several kinds of peaches; only one person.",
+      "props": [
+        "many fresh peaches with varied shades and sizes",
+        "several small produce baskets",
+        "one plain market counter"
+      ],
+      "beats": [
+        "The shopper approaches the peach display.",
+        "Several varieties and sizes are visible together.",
+        "The shopper considers the broad selection."
+      ],
+      "ending": "A wide selection of peaches fills the market counter."
+    },
+    "artDirection": "Show varied peaches without labels or price cards. One shopper only; no writing or logos; full-frame market scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "everybody",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "When everybody in a room smiles at a puppy, the word includes each person there.",
+    "sentence": "Everybody in the room smiled when the puppy trotted in.（小狗跑进房间时，屋里的每个人都笑了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright family living room.",
+      "actor": "Exactly two family members smile as one small puppy trots into the room.",
+      "props": [
+        "one small puppy",
+        "one soft living room rug",
+        "one plain sofa"
+      ],
+      "beats": [
+        "The two family members sit in the room.",
+        "The puppy trots in through the open doorway.",
+        "Both people smile at the puppy."
+      ],
+      "ending": "Everybody present—the two family members—smiles at the puppy."
+    },
+    "artDirection": "Exactly two people total and one puppy with natural anatomy. No extra figures, text, or logos; fill the frame with a warm living room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "helpful",
+    "anchor": "groceries",
+    "anchorMeaning": "食品杂货",
+    "relation": "A helpful neighbor carries groceries to make another person's task easier.",
+    "sentence": "A helpful neighbor carried the groceries up the stairs for her.（一位热心的邻居帮她把食品杂货提上楼。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean apartment stairwell in warm daylight.",
+      "actor": "One neighbor carries grocery bags while another person opens the apartment door; exactly two people.",
+      "props": [
+        "two plain grocery bags with no labels",
+        "one short flight of stairs",
+        "one open apartment door"
+      ],
+      "beats": [
+        "The resident reaches the stairs with groceries.",
+        "The helpful neighbor carries the bags upward.",
+        "The resident opens the door as the neighbor helps."
+      ],
+      "ending": "The neighbor's helpful action makes carrying groceries easier."
+    },
+    "artDirection": "Exactly two people with normal limbs. Grocery bags have no labels or writing; full-frame stairwell, no logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "admission",
+    "anchor": "ticket",
+    "anchorMeaning": "门票",
+    "relation": "A ticket can grant someone admission, or permission to enter a museum.",
+    "sentence": "The ticket gave him admission to the museum.（这张票让他得以进入博物馆。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "The entrance hall of a quiet museum.",
+      "actor": "One visitor presents a blank ticket to one attendant at the open doorway; exactly two people.",
+      "props": [
+        "one plain ticket with no printing",
+        "one open museum doorway",
+        "one simple entry desk"
+      ],
+      "beats": [
+        "The visitor arrives at the museum entrance.",
+        "The visitor shows the blank ticket to the attendant.",
+        "The attendant welcomes him inside."
+      ],
+      "ending": "The ticket grants the visitor admission to the museum."
+    },
+    "artDirection": "Exactly two people with normal limbs. Ticket must be blank; no signs, text, numbers, or logos; full-frame museum entry.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "clothing",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "Warm waterproof clothing keeps hikers dry when rain falls.",
+    "sentence": "Warm clothing kept the two hikers dry in the rain.（温暖的衣物让两名徒步者在雨中保持干爽。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A rainy forest trail with puddles.",
+      "actor": "Two hikers wear warm waterproof clothing and walk together in the rain; exactly two people.",
+      "props": [
+        "two warm waterproof jackets",
+        "one rainy forest path",
+        "one plain umbrella carried between them"
+      ],
+      "beats": [
+        "Rain falls across the trail.",
+        "The hikers pull their warm clothing close.",
+        "Their jackets keep them dry as they continue walking."
+      ],
+      "ending": "The hikers' clothing protects them from the rain."
+    },
+    "artDirection": "Exactly two hikers with natural limbs. No writing or logos on clothing or umbrella; full-frame rainy woodland.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "pursuit",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "A dog running after a rolling ball is in pursuit of it.",
+    "sentence": "The dog ran in pursuit of the rolling ball.（狗追着滚动的球跑。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny grassy park.",
+      "actor": "One dog runs after one rolling ball; no people visible.",
+      "props": [
+        "one playful dog",
+        "one plain rolling ball",
+        "one open grassy field"
+      ],
+      "beats": [
+        "The ball rolls across the grass.",
+        "The dog notices and starts running after it.",
+        "The dog continues in pursuit of the ball."
+      ],
+      "ending": "The dog follows the ball across the field in a clear chase."
+    },
+    "artDirection": "One dog with natural canine anatomy and one ball only. No people, text, or logos; full-frame park scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "conscious",
+    "anchor": "bird",
+    "anchorMeaning": "鸟",
+    "relation": "Someone conscious of a nearby bird is aware of its presence and song.",
+    "sentence": "He became conscious of the tiny bird singing nearby.（他注意到附近有只小鸟在鸣叫。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden path beside a leafy tree.",
+      "actor": "One man pauses and turns toward one tiny bird singing in a branch.",
+      "props": [
+        "one small bird perched on a branch",
+        "one leafy tree",
+        "one garden path"
+      ],
+      "beats": [
+        "The man walks quietly along the path.",
+        "A tiny bird sings nearby in the tree.",
+        "The man notices the bird and turns toward it."
+      ],
+      "ending": "The man is aware of the bird singing close by."
+    },
+    "artDirection": "One adult and one bird with natural anatomy. No text, symbols, or logos; fill the frame with a quiet garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  }
+]

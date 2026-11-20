@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2561",
+    "anchor": "head",
+    "sentence": "She stayed sane and kept her head during the crisis.",
+    "relation": "Sane describes a person whose mind is healthy and able to think clearly.",
+    "setting": "A quiet room during a storm",
+    "actor": "One woman remains calm and clear-headed as rain taps a closed window.",
+    "props": [
+      "one woman",
+      "one closed window",
+      "one steady chair"
+    ],
+    "beats": [
+      "The storm begins outside",
+      "She takes a steady breath",
+      "She stays sane and keeps her head"
+    ],
+    "ending": "A woman stays sane and keeps her head during a crisis.",
+    "artDirection": "Show calm emotion, not a medical diagnosis scene; no text or symbols."
+  },
+  {
+    "id": "kyc-2562",
+    "anchor": "cloth",
+    "sentence": "A seam joined two pieces of cloth.",
+    "relation": "A seam is the line where two pieces of fabric are sewn together.",
+    "setting": "A small sewing room",
+    "actor": "One seamstress joins two pieces of cloth with a neat row of stitches.",
+    "props": [
+      "one seamstress",
+      "two pieces of cloth",
+      "one plain sewing needle"
+    ],
+    "beats": [
+      "The cloth pieces lie apart",
+      "The needle joins their edges",
+      "A seam holds the pieces together"
+    ],
+    "ending": "A seam joins two pieces of cloth.",
+    "artDirection": "No thread spools with labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2563",
+    "anchor": "camera",
+    "sentence": "The camera shutter clicked as she took a photo.",
+    "relation": "A shutter is the part of a camera that opens briefly to let light reach the film or sensor.",
+    "setting": "A quiet garden",
+    "actor": "One woman takes a picture with a simple camera as its shutter opens and closes.",
+    "props": [
+      "one woman",
+      "one simple camera",
+      "one flowering plant"
+    ],
+    "beats": [
+      "She aims the camera",
+      "The shutter briefly opens",
+      "The photo is captured"
+    ],
+    "ending": "A camera shutter clicks as a woman takes a photo.",
+    "artDirection": "No camera brand, screen text, numbers, or logos."
+  },
+  {
+    "id": "kyc-2564",
+    "anchor": "castle",
+    "sentence": "The castle endured a siege for many weeks.",
+    "relation": "A siege is a military operation in which a place is surrounded to force those inside to surrender.",
+    "setting": "A distant medieval castle",
+    "actor": "No people: a closed castle stands surrounded at a distance by a ring of quiet tents.",
+    "props": [
+      "one stone castle",
+      "a ring of plain tents",
+      "one open field"
+    ],
+    "beats": [
+      "The castle gate closes",
+      "The place is surrounded",
+      "The castle endures a siege"
+    ],
+    "ending": "A castle is surrounded during a siege.",
+    "artDirection": "No weapons, injuries, fire, flags, text, or people in combat."
+  },
+  {
+    "id": "kyc-2565",
+    "anchor": "bed",
+    "sentence": "She left one slipper beside the bed.",
+    "relation": "A slipper is a soft, comfortable shoe worn indoors.",
+    "setting": "A tidy bedroom",
+    "actor": "One woman steps out of a soft slipper beside her bed.",
+    "props": [
+      "one woman",
+      "one soft slipper",
+      "one plain bed"
+    ],
+    "beats": [
+      "She walks into the bedroom",
+      "One slipper slips off",
+      "She leaves it beside the bed"
+    ],
+    "ending": "A woman leaves one slipper beside her bed.",
+    "artDirection": "No footwear labels, writing, or extra people."
+  },
+  {
+    "id": "kyc-2566",
+    "anchor": "rich",
+    "sentence": "The rich guest was snobbish toward the waiter.",
+    "relation": "Snobbish describes someone who treats others as inferior because of social status, wealth, or taste.",
+    "setting": "A quiet restaurant",
+    "actor": "Exactly two adults: a wealthy guest looks disdainfully at a waiter who is serving a plain meal.",
+    "props": [
+      "one wealthy guest",
+      "one waiter",
+      "one plain dining table"
+    ],
+    "beats": [
+      "The waiter approaches the table",
+      "The guest looks down on him",
+      "The rich guest acts snobbish"
+    ],
+    "ending": "A rich guest behaves snobbishly toward a waiter.",
+    "artDirection": "Exactly two people; no menu writing, signs, logos, or mocking expressions beyond mild disdain."
+  },
+  {
+    "id": "kyc-2567",
+    "anchor": "seed",
+    "sentence": "A seed began to sprout in the soil.",
+    "relation": "To sprout is to begin to grow, especially when a seed sends up a new shoot.",
+    "setting": "A sunny garden patch",
+    "actor": "No people: one small green shoot emerges from a seed in dark soil.",
+    "props": [
+      "one seed",
+      "one green shoot",
+      "one patch of soil"
+    ],
+    "beats": [
+      "The seed rests in the soil",
+      "A tiny shoot breaks through",
+      "The seed begins to sprout"
+    ],
+    "ending": "A seed sprouts through the soil.",
+    "artDirection": "Show one clear young shoot; no text, signs, or labels."
+  },
+  {
+    "id": "kyc-2568",
+    "anchor": "room",
+    "sentence": "He had to stagger across the room after a dizzy spell.",
+    "relation": "To stagger is to walk unsteadily, as if about to fall.",
+    "setting": "A safe living room",
+    "actor": "One dizzy man takes an unsteady step across a clear room while reaching for a stable chair.",
+    "props": [
+      "one man",
+      "one stable chair",
+      "one clear room floor"
+    ],
+    "beats": [
+      "The man feels dizzy",
+      "He takes an uneven step",
+      "He staggers toward the chair"
+    ],
+    "ending": "A man staggers across the room after a dizzy spell.",
+    "artDirection": "No fall, injury, alcohol, extra people, or duplicated limbs."
+  },
+  {
+    "id": "kyc-2569",
+    "anchor": "hair",
+    "sentence": "Static electricity made her hair rise after she rubbed a balloon.",
+    "relation": "Static electricity is an electric charge that builds up on a surface and can attract light objects or hair.",
+    "setting": "A bright playroom",
+    "actor": "One child rubs a balloon and watches a few strands of hair lift toward it.",
+    "props": [
+      "one child",
+      "one plain balloon",
+      "a few lifted strands of hair"
+    ],
+    "beats": [
+      "The balloon is rubbed",
+      "Static electricity builds up",
+      "The hair rises toward the balloon"
+    ],
+    "ending": "Static electricity makes a child's hair rise toward a balloon.",
+    "artDirection": "No sparks, charge signs, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2570",
+    "anchor": "table",
+    "sentence": "He pulled a stool up to the table.",
+    "relation": "A stool is a simple seat without a back or arms, often used beside a table.",
+    "setting": "A small kitchen",
+    "actor": "One man pulls a plain stool closer to a kitchen table before sitting.",
+    "props": [
+      "one man",
+      "one plain stool",
+      "one kitchen table"
+    ],
+    "beats": [
+      "The stool stands away from the table",
+      "The man pulls it closer",
+      "The stool is ready for sitting"
+    ],
+    "ending": "A stool is pulled up to the table.",
+    "artDirection": "No labels, lettering, or extra people."
+  },
+  {
+    "id": "kyc-2571",
+    "anchor": "map",
+    "sentence": "The manager used a map to streamline the delivery route.",
+    "relation": "To streamline a process is to make it simpler and more efficient by removing unnecessary steps.",
+    "setting": "A simple office desk",
+    "actor": "One manager removes an unnecessary loop from a blank route map to make deliveries more efficient.",
+    "props": [
+      "one manager",
+      "one plain map",
+      "one delivery bag"
+    ],
+    "beats": [
+      "The manager reviews the route",
+      "An unnecessary detour is removed",
+      "The delivery route is streamlined"
+    ],
+    "ending": "A manager streamlines a delivery route using a map.",
+    "artDirection": "Map has no labels, writing, numbers, or symbols beyond one simple route line."
+  },
+  {
+    "id": "kyc-2572",
+    "anchor": "story",
+    "sentence": "She wrote a short note to summarise the story.",
+    "relation": "To summarise is to state the main points of something briefly.",
+    "setting": "A quiet study table",
+    "actor": "One student writes a short plain note after reading a storybook.",
+    "props": [
+      "one student",
+      "one open storybook",
+      "one blank note card"
+    ],
+    "beats": [
+      "The student reads the story",
+      "She identifies its main events",
+      "She writes a short note to summarise it"
+    ],
+    "ending": "A student writes a short note to summarise a story.",
+    "artDirection": "All pages and note cards remain blank, with no words, labels, or logos."
+  },
+  {
+    "id": "kyc-2573",
+    "anchor": "sound",
+    "sentence": "The supersonic jet flew faster than sound.",
+    "relation": "Supersonic means moving faster than the speed of sound.",
+    "setting": "A wide open sky above the clouds",
+    "actor": "No people: one fast jet streaks ahead of a soft trailing cloud plume.",
+    "props": [
+      "one jet",
+      "one trailing cloud plume",
+      "one open sky"
+    ],
+    "beats": [
+      "The jet accelerates",
+      "It passes the speed of sound",
+      "The supersonic jet races ahead of its sound"
+    ],
+    "ending": "A supersonic jet flies faster than sound, leaving the cloud plume behind.",
+    "artDirection": "Change targetSense to 超音速的；超声速的; no sound-wave marks, text, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2574",
+    "anchor": "lake",
+    "sentence": "A swan glided across the lake.",
+    "relation": "A swan is a large water bird with a long neck and broad wings.",
+    "setting": "A calm lake",
+    "actor": "No people: one white swan glides across the water with its long neck curved gently.",
+    "props": [
+      "one swan",
+      "one calm lake",
+      "one patch of reeds"
+    ],
+    "beats": [
+      "The swan enters the water",
+      "It glides across the lake",
+      "It passes the reeds"
+    ],
+    "ending": "A swan glides across a calm lake.",
+    "artDirection": "Show one swan with two wings and two legs; no extra birds, text, or symbols."
+  },
+  {
+    "id": "kyc-2575",
+    "anchor": "mirror",
+    "sentence": "The mirror showed the symmetry of the butterfly's wings.",
+    "relation": "Symmetry is a balanced arrangement in which parts on opposite sides correspond closely.",
+    "setting": "A quiet nature classroom",
+    "actor": "One student holds a mirror beside a butterfly model to compare matching halves of its wings.",
+    "props": [
+      "one student",
+      "one small mirror",
+      "one butterfly model"
+    ],
+    "beats": [
+      "The butterfly's wings are viewed",
+      "The mirror reflects one side",
+      "The matching halves show symmetry"
+    ],
+    "ending": "A mirror helps reveal the symmetry of butterfly wings.",
+    "artDirection": "No labels, diagrams, writing, or extra butterflies."
+  },
+  {
+    "id": "kyc-2576",
+    "anchor": "song",
+    "sentence": "The drummer kept the tempo of the song steady.",
+    "relation": "Tempo is the speed or pace at which music is played.",
+    "setting": "A small music room",
+    "actor": "One drummer taps a steady beat while a song plays softly nearby.",
+    "props": [
+      "one drummer",
+      "one plain drum",
+      "one simple music player"
+    ],
+    "beats": [
+      "The song begins",
+      "The drummer sets a steady pace",
+      "The song keeps the same tempo"
+    ],
+    "ending": "A drummer keeps the tempo of a song steady.",
+    "artDirection": "No music notes, lyrics, labels, or logos."
+  },
+  {
+    "id": "kyc-2577",
+    "anchor": "clock",
+    "sentence": "A clock helped her arrange events in temporal order.",
+    "relation": "Temporal means relating to time or the order in which events happen.",
+    "setting": "A quiet planning table",
+    "actor": "One woman arranges three simple picture cards from sunrise to sunset beside a plain clock.",
+    "props": [
+      "one woman",
+      "one plain clock",
+      "three simple event cards"
+    ],
+    "beats": [
+      "The woman studies the events",
+      "The clock marks their timing",
+      "She arranges them in temporal order"
+    ],
+    "ending": "A clock helps arrange events in temporal order.",
+    "artDirection": "Clock has no numbers; event cards have pictures only, no text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2578",
+    "anchor": "book",
+    "sentence": "The tiresome book made him yawn.",
+    "relation": "Tiresome describes something so dull or demanding that it makes people tired or bored.",
+    "setting": "A quiet study room",
+    "actor": "One student yawns while reading a dull, thick book.",
+    "props": [
+      "one student",
+      "one thick plain book",
+      "one plain desk"
+    ],
+    "beats": [
+      "The student opens the book",
+      "The reading feels dull and tiring",
+      "He yawns over the tiresome book"
+    ],
+    "ending": "A tiresome book makes a student yawn.",
+    "artDirection": "No readable text, labels, or logos."
+  },
+  {
+    "id": "kyc-2579",
+    "anchor": "day",
+    "sentence": "She wasted a day arguing over a trifle.",
+    "relation": "A trifle is a small or unimportant matter that does not deserve much attention.",
+    "setting": "A quiet kitchen table",
+    "actor": "One woman gestures over a tiny crumb while a large clock shows the day passing without numbers.",
+    "props": [
+      "one woman",
+      "one tiny crumb",
+      "one plain clock"
+    ],
+    "beats": [
+      "A small matter appears",
+      "She spends too long arguing about it",
+      "A day is wasted over a trifle"
+    ],
+    "ending": "A woman wastes a day arguing over a tiny trifle.",
+    "artDirection": "Change targetSense to 琐事；小事; clock has no numerals or marks, no text or symbols."
+  },
+  {
+    "id": "kyc-2580",
+    "anchor": "water",
+    "sentence": "He filled the tub with warm water.",
+    "relation": "A tub is a large open container, often used for bathing or holding liquid.",
+    "setting": "A clean bathroom",
+    "actor": "One person fills a plain bathtub with warm water.",
+    "props": [
+      "one person",
+      "one plain tub",
+      "warm water"
+    ],
+    "beats": [
+      "The tub is empty",
+      "Water flows into it",
+      "The tub fills with warm water"
+    ],
+    "ending": "A tub fills with warm water.",
+    "artDirection": "No labels, logos, or extra people."
+  },
+  {
+    "id": "kyc-2581",
+    "anchor": "story",
+    "sentence": "A clear explanation improved his understanding of the story.",
+    "relation": "Understanding is the ability to grasp the meaning or importance of something.",
+    "setting": "A quiet study table",
+    "actor": "One teacher explains a story to one student using a plain open book.",
+    "props": [
+      "one teacher",
+      "one student",
+      "one plain storybook"
+    ],
+    "beats": [
+      "The student reads the story",
+      "The teacher explains its meaning",
+      "The student's understanding improves"
+    ],
+    "ending": "A clear explanation improves a student's understanding of a story.",
+    "artDirection": "Exactly two people; no writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2582",
+    "anchor": "pipe",
+    "sentence": "A valve controlled water flowing through the pipe.",
+    "relation": "A valve is a device that opens, closes, or controls the flow of liquid or gas through a pipe.",
+    "setting": "A simple utility room",
+    "actor": "No people: a plain hand valve turns to control water inside a clear section of pipe.",
+    "props": [
+      "one plain valve",
+      "one clear pipe section",
+      "flowing water"
+    ],
+    "beats": [
+      "Water moves through the pipe",
+      "The valve is turned",
+      "The water flow changes"
+    ],
+    "ending": "A valve controls water flowing through a pipe.",
+    "artDirection": "No labels, diagrams, symbols, or text."
+  },
+  {
+    "id": "kyc-2583",
+    "anchor": "day",
+    "sentence": "There was great variance in the weather from one day to the next.",
+    "relation": "Variance is a difference or change in amount, level, or condition.",
+    "setting": "A weather view across two adjacent days",
+    "actor": "No people: one day is sunny and the next is rainy, showing a clear change in weather.",
+    "props": [
+      "one sunny sky",
+      "one rainy sky",
+      "one small tree"
+    ],
+    "beats": [
+      "The first day is sunny",
+      "The weather changes significantly",
+      "The next day is rainy"
+    ],
+    "ending": "Great variance in weather is visible from one day to the next.",
+    "artDirection": "No calendar numbers, weather icons, symbols, text, or labels."
+  },
+  {
+    "id": "kyc-2584",
+    "anchor": "shirt",
+    "sentence": "He wore a vest over his shirt.",
+    "relation": "A vest is a sleeveless garment worn over a shirt or under a coat.",
+    "setting": "A simple bedroom",
+    "actor": "One man puts on a plain sleeveless vest over his shirt.",
+    "props": [
+      "one man",
+      "one plain vest",
+      "one plain shirt"
+    ],
+    "beats": [
+      "The man puts on his shirt",
+      "He pulls on the vest",
+      "The vest rests over the shirt"
+    ],
+    "ending": "A vest is worn over a shirt.",
+    "artDirection": "No clothing logos, labels, patterns with letters, or extra people."
+  },
+  {
+    "id": "kyc-2585",
+    "anchor": "bell",
+    "sentence": "The bell made the glass vibrate.",
+    "relation": "To vibrate is to move rapidly back and forth, often because of sound or shaking.",
+    "setting": "A quiet table beside a handbell",
+    "actor": "No people: a ringing handbell makes a nearby glass tremble on the table.",
+    "props": [
+      "one handbell",
+      "one clear glass",
+      "one plain table"
+    ],
+    "beats": [
+      "The bell rings",
+      "Sound reaches the glass",
+      "The glass begins to vibrate"
+    ],
+    "ending": "A ringing bell makes a glass vibrate.",
+    "artDirection": "No motion marks, text, or symbols."
+  }
+]

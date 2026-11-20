@@ -1,0 +1,662 @@
+[
+  {
+    "word": "enforce",
+    "anchor": "line",
+    "anchorMeaning": "线",
+    "relation": "The scene links enforce with line: The coach will enforce the rule that the player waits behind the line.",
+    "sentence": "The coach will enforce the rule that the player waits behind the line.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An empty practice field with one clear boundary line.",
+      "actor": "One adult coach calmly gestures for one adult player to wait; exactly two people.",
+      "props": [
+        "one plain painted line",
+        "one simple soccer ball",
+        "one open patch of grass"
+      ],
+      "beats": [
+        "The player approaches the line.",
+        "The coach points to the waiting rule.",
+        "The player stays behind the line as the coach enforces it."
+      ],
+      "ending": "The coach holds the player behind the plain line."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links enforce with line: The coach will enforce the rule that the player waits behind the line.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "convenience",
+    "anchor": "kettle",
+    "anchorMeaning": "水壶",
+    "relation": "The scene links convenience with kettle: Having a kettle beside her desk was a convenience during her tea break.",
+    "sentence": "Having a kettle beside her desk was a convenience during her tea break.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet sunny study corner.",
+      "actor": "One woman reaches easily for a small kettle beside her desk; only one person.",
+      "props": [
+        "one plain kettle",
+        "one blank teacup",
+        "one simple desk"
+      ],
+      "beats": [
+        "She pauses at her desk.",
+        "The nearby kettle is easy to reach.",
+        "Its convenient placement makes tea simple."
+      ],
+      "ending": "The woman pours tea from the kettle beside her desk."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links convenience with kettle: Having a kettle beside her desk was a convenience during her tea break.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "silicon",
+    "anchor": "sand",
+    "anchorMeaning": "沙子",
+    "relation": "The scene links silicon with sand: Silicon from sand is used to make a computer chip.",
+    "sentence": "Silicon from sand is used to make a computer chip.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean science worktable against a blank wall.",
+      "actor": "No people; a dark silicon chip rests beside a small dish of sand.",
+      "props": [
+        "one plain square computer chip with no markings",
+        "one small dish of pale sand",
+        "one clean worktable"
+      ],
+      "beats": [
+        "A dish of sand sits beside the work area.",
+        "A smooth dark chip rests nearby.",
+        "The scene links sand-derived silicon with a computer chip."
+      ],
+      "ending": "One unmarked chip sits beside the sand."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links silicon with sand: Silicon from sand is used to make a computer chip.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "hunger",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "The scene links hunger with apple: After the hike, hunger made him reach for an apple.",
+    "sentence": "After the hike, hunger made him reach for an apple.",
+    "artDirection": "Show exactly one apple in the entire image and no other fruit or food. Keep the open backpack clearly empty.",
+    "scene": {
+      "setting": "A quiet mountain trail after a long hike, in the same warm hand-painted picture-book style.",
+      "actor": "Exactly one tired adult hiker reaches toward one apple; the open backpack is visibly empty of food, with no other person.",
+      "props": [
+        "exactly one red apple, with no other fruit anywhere",
+        "one open empty hiking backpack",
+        "one plain trail rock"
+      ],
+      "beats": [
+        "The hiker finishes a long climb.",
+        "They reach for the single apple beside the empty pack.",
+        "The one apple clearly answers their hunger."
+      ],
+      "ending": "The tired hiker reaches for the only apple; the open pack contains no food."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hunger with apple: After the hike, hunger made him reach for an apple.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "tragedy",
+    "anchor": "meal",
+    "anchorMeaning": "一餐",
+    "relation": "The scene links tragedy with meal: The flood was a tragedy for the family, so a neighbor brought them a warm meal.",
+    "sentence": "The flood was a tragedy for the family, so a neighbor brought them a warm meal.",
+    "artDirection": "Keep the flood aftermath gentle and non-distressing; show only a faint waterline and mud, with no damage or danger.",
+    "scene": {
+      "setting": "A modest home doorway just after floodwater has receded, with a subtle muddy waterline and no dangerous action.",
+      "actor": "Exactly two adults: one family member stands by the muddy doorway while one neighbor offers a warm meal.",
+      "props": [
+        "one faint flood waterline and a little mud at the doorway",
+        "one covered bowl of warm food",
+        "one simple home doorway"
+      ],
+      "beats": [
+        "The family sees the muddy trace left by the flood.",
+        "The neighbor arrives with a warm meal.",
+        "The neighbor comforts the family after the tragedy."
+      ],
+      "ending": "A neighbor offers a covered warm meal beside the muddy flood-marked doorway."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tragedy with meal: The flood was a tragedy for the family, so a neighbor brought them a warm meal.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "policeman",
+    "anchor": "fountain",
+    "anchorMeaning": "喷泉",
+    "relation": "The scene links policeman with fountain: The policeman guided a lost child to the town fountain.",
+    "sentence": "The policeman guided a lost child to the town fountain.",
+    "artDirection": "Show only the policeman’s back, with the front of the uniform hidden. Uniform must have a smooth blank back and shoulders: no cap, shoulder straps, epaulettes, stars, badge, emblem, patch, rank mark, text, logo, or symbol.",
+    "scene": {
+      "setting": "A quiet sunny town square beside a stone fountain.",
+      "actor": "Exactly two people: one adult policeman shown from behind in a completely plain navy uniform with a smooth blank back and shoulders, no cap or vest, gently guides one lost child toward the fountain.",
+      "props": [
+        "one simple stone fountain",
+        "one plain police utility belt with an unmarked radio",
+        "one small child’s bag"
+      ],
+      "beats": [
+        "The lost child stands uncertainly in the square.",
+        "The plain-uniformed policeman points toward the fountain.",
+        "The child follows the policeman toward safety."
+      ],
+      "ending": "Seen from behind, the unmarked policeman guides the child toward the fountain."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links policeman with fountain: The policeman guided a lost child to the town fountain.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "fatigue",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "The scene links fatigue with boat: Fatigue made the rower rest beside her boat after the long journey.",
+    "sentence": "Fatigue made the rower rest beside her boat after the long journey.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet riverbank in soft afternoon light.",
+      "actor": "One tired woman rests beside her small rowboat; only one person.",
+      "props": [
+        "one plain wooden rowboat",
+        "one single oar",
+        "one grassy riverbank"
+      ],
+      "beats": [
+        "The rower reaches the riverbank.",
+        "She sets down the oar and sits to rest.",
+        "Fatigue shows after the long journey."
+      ],
+      "ending": "The exhausted rower rests beside the boat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fatigue with boat: Fatigue made the rower rest beside her boat after the long journey.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "formation",
+    "anchor": "cave",
+    "anchorMeaning": "洞穴",
+    "relation": "The scene links formation with cave: A tall rock formation rose from the floor of the cave.",
+    "sentence": "A tall rock formation rose from the floor of the cave.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm underground cavern with soft light.",
+      "actor": "No people; one tall natural rock formation rises from the cave floor.",
+      "props": [
+        "one tall rock formation",
+        "one cave floor",
+        "one simple stone wall"
+      ],
+      "beats": [
+        "The cave floor stretches into view.",
+        "A tall stone shape rises from it.",
+        "The natural formation stands clearly in the cave."
+      ],
+      "ending": "One rock formation rises from the cave floor."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links formation with cave: A tall rock formation rose from the floor of the cave.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "dominant",
+    "anchor": "oak",
+    "anchorMeaning": "橡树",
+    "relation": "The scene links dominant with oak: The dominant oak shaded a small flower patch beneath it.",
+    "sentence": "The dominant oak shaded a small flower patch beneath it.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny garden beneath a broad oak tree.",
+      "actor": "No people; one large oak casts shade over a small flower patch.",
+      "props": [
+        "one broad oak tree",
+        "one small flower patch",
+        "one sunlit garden"
+      ],
+      "beats": [
+        "The large oak spreads its branches.",
+        "Its shadow covers the smaller flowers.",
+        "The oak is the dominant feature of the garden."
+      ],
+      "ending": "The broad oak shades the small flowers."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dominant with oak: The dominant oak shaded a small flower patch beneath it.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "verb",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "The scene links verb with rope: While the child jumped over a rope, the teacher explained that “jump” is a verb.",
+    "sentence": "While the child jumped over a rope, the teacher explained that “jump” is a verb.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet classroom corner beside a small indoor play area.",
+      "actor": "One teacher explains while one child jumps over a rope; exactly two people.",
+      "props": [
+        "one plain jump rope",
+        "one blank open notebook",
+        "one simple classroom rug"
+      ],
+      "beats": [
+        "The teacher watches the child move.",
+        "The child jumps over the rope.",
+        "The teacher explains that a verb describes an action."
+      ],
+      "ending": "The child jumps over the rope as the teacher gestures toward the action."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links verb with rope: While the child jumped over a rope, the teacher explained that “jump” is a verb.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "epidemic",
+    "anchor": "doctor",
+    "anchorMeaning": "医生",
+    "relation": "The scene links epidemic with doctor: The doctor warned that a flu epidemic had reached the town.",
+    "sentence": "The doctor warned that a flu epidemic had reached the town.",
+    "artDirection": "Use bare walls. Do not include virus drawings, charts, medical symbols, posters, signs, or labels.",
+    "scene": {
+      "setting": "A simple town clinic with completely bare walls and no charts or posters.",
+      "actor": "Exactly two adults: one doctor calmly warns one town resident about flu spreading through the town.",
+      "props": [
+        "one blank clipboard",
+        "one plain tissue box",
+        "one simple clinic chair"
+      ],
+      "beats": [
+        "The doctor speaks seriously but calmly.",
+        "The resident listens with concern.",
+        "The warning makes the town flu epidemic clear through their clinic conversation."
+      ],
+      "ending": "The doctor gives a calm warning to one resident in the bare clinic."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links epidemic with doctor: The doctor warned that a flu epidemic had reached the town.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "impulse",
+    "anchor": "kite",
+    "anchorMeaning": "风筝",
+    "relation": "The scene links impulse with kite: On impulse, she bought a bright kite at the market.",
+    "sentence": "On impulse, she bought a bright kite at the market.",
+    "artDirection": "Show no vendor, shoppers, or other people; keep the market display sparse and the coins blank.",
+    "scene": {
+      "setting": "A small outdoor market table with a few kites and no sign or crowd.",
+      "actor": "Exactly one adult woman alone at the display suddenly reaches for a bright kite while holding a few plain coins; no vendor or other people.",
+      "props": [
+        "one bright kite in her hand",
+        "one small simple kite display",
+        "three plain unmarked coins"
+      ],
+      "beats": [
+        "The woman notices the kite unexpectedly.",
+        "She quickly chooses it without planning.",
+        "Her sudden purchase shows an impulse."
+      ],
+      "ending": "Alone at the simple display, the woman impulsively takes one kite and holds a few coins."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links impulse with kite: On impulse, she bought a bright kite at the market.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "subtle",
+    "anchor": "paint",
+    "anchorMeaning": "颜料",
+    "relation": "The scene links subtle with paint: A subtle change in the blue paint made the wall look warmer.",
+    "sentence": "A subtle change in the blue paint made the wall look warmer.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright painting room with a blank wall.",
+      "actor": "One painter compares two nearly similar blue paint swatches; only one person.",
+      "props": [
+        "one pale blue paint swatch",
+        "one slightly warmer blue swatch",
+        "one blank wall"
+      ],
+      "beats": [
+        "The painter studies the two blue shades.",
+        "One shade shifts only slightly toward warmth.",
+        "The subtle change is visible on the wall."
+      ],
+      "ending": "The painter notices a small difference between the blue shades."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links subtle with paint: A subtle change in the blue paint made the wall look warmer.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "oblige",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "The scene links oblige with rain: Heavy rain can oblige the hikers to turn back before reaching the summit.",
+    "sentence": "Heavy rain can oblige the hikers to turn back before reaching the summit.",
+    "artDirection": "Show the hikers from the front, walking toward the viewer and away from the summit behind them. The trail must descend toward the foreground; they must not face or walk uphill toward the mountain.",
+    "scene": {
+      "setting": "A steep rainy mountain path with the summit far behind the hikers and a trail descending toward the foreground.",
+      "actor": "Exactly two adult hikers are shown from the front, walking toward the viewer and downhill into the foreground, clearly away from the distant summit behind them.",
+      "props": [
+        "one distant summit behind the hikers",
+        "one wet trail descending toward the foreground",
+        "one plain hiking backpack"
+      ],
+      "beats": [
+        "Heavy rain falls across the mountain.",
+        "The hikers turn around so the summit is behind them.",
+        "They walk downhill toward the foreground, away from the summit."
+      ],
+      "ending": "Both hikers face the viewer and descend toward the foreground in the rain, with the summit behind their backs."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links oblige with rain: Heavy rain can oblige the hikers to turn back before reaching the summit.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "spouse",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "The scene links spouse with gate: Her spouse met her at the garden gate after work.",
+    "sentence": "Her spouse met her at the garden gate after work.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A welcoming garden entrance at sunset.",
+      "actor": "Exactly two adults greet one another warmly beside the gate.",
+      "props": [
+        "one plain garden gate",
+        "one small garden path",
+        "one simple flower bed"
+      ],
+      "beats": [
+        "One spouse arrives at the gate.",
+        "The other comes out to greet them.",
+        "The two spouses meet after work."
+      ],
+      "ending": "The couple smiles together by the garden gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links spouse with gate: Her spouse met her at the garden gate after work.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "tension",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "The scene links tension with rope: Tension stretched the rope as two friends pulled from opposite sides.",
+    "sentence": "Tension stretched the rope as two friends pulled from opposite sides.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An open grassy field in daylight.",
+      "actor": "Exactly two adult friends pull one rope from opposite ends.",
+      "props": [
+        "one taut plain rope",
+        "one patch of grass",
+        "one simple tree in the distance"
+      ],
+      "beats": [
+        "The friends grip opposite ends.",
+        "They pull until the rope becomes taut.",
+        "Tension is visible along the stretched rope."
+      ],
+      "ending": "Two friends hold the tightly stretched rope."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tension with rope: Tension stretched the rope as two friends pulled from opposite sides.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "bargain",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "The scene links bargain with bicycle: They struck a bargain over a used bicycle at the market.",
+    "sentence": "They struck a bargain over a used bicycle at the market.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet market corner without signs or price tags.",
+      "actor": "Exactly two adults discuss one used bicycle; no other people.",
+      "props": [
+        "one plain used bicycle",
+        "one simple market table",
+        "one unmarked cloth bag"
+      ],
+      "beats": [
+        "The buyer examines the bicycle.",
+        "The seller listens as they discuss the exchange.",
+        "They reach a bargain together."
+      ],
+      "ending": "The two adults agree beside the bicycle."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links bargain with bicycle: They struck a bargain over a used bicycle at the market.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "limitation",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "relation": "The scene links limitation with sheep: A fence imposed a limitation on where the sheep could graze.",
+    "sentence": "A fence imposed a limitation on where the sheep could graze.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A green meadow bordered by a low fence.",
+      "actor": "No people; one sheep grazes within the fenced area.",
+      "props": [
+        "one plain low fence",
+        "one sheep",
+        "one green meadow"
+      ],
+      "beats": [
+        "The sheep grazes in the meadow.",
+        "The fence marks where it can go.",
+        "The boundary is a limitation on its movement."
+      ],
+      "ending": "The sheep stays inside the fenced meadow."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links limitation with sheep: A fence imposed a limitation on where the sheep could graze.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "weekly",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "The scene links weekly with clock: The weekly market opened beside the old clock at dawn.",
+    "sentence": "The weekly market opened beside the old clock at dawn.",
+    "artDirection": "The clock face must be blank: no hands, tick marks, Roman numerals, numbers, or letters.",
+    "scene": {
+      "setting": "A morning outdoor market beside a plain old clock.",
+      "actor": "One adult market vendor opens a simple stall at dawn; only one person.",
+      "props": [
+        "one old clock with a completely blank face and no markings",
+        "one small plain market stall",
+        "one empty woven basket"
+      ],
+      "beats": [
+        "Dawn arrives at the market.",
+        "The vendor opens the stall beside the clock.",
+        "The familiar market scene suggests a weekly routine."
+      ],
+      "ending": "The vendor opens the stall beside a completely unmarked clock at dawn."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links weekly with clock: The weekly market opened beside the old clock at dawn.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "foster",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "The scene links foster with book: Daily reading can foster a child’s love of books.",
+    "sentence": "Daily reading can foster a child’s love of books.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cozy reading nook with a blank wall.",
+      "actor": "One adult reads beside one child; exactly two people.",
+      "props": [
+        "one open picture book with no words",
+        "one plain armchair",
+        "one soft floor rug"
+      ],
+      "beats": [
+        "The adult opens the picture book.",
+        "The child leans closer with interest.",
+        "Reading helps foster a love of books."
+      ],
+      "ending": "The child and adult share a quiet reading moment."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links foster with book: Daily reading can foster a child’s love of books.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  }
+]

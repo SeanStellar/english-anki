@@ -1,0 +1,662 @@
+[
+  {
+    "word": "facilitate",
+    "anchor": "ramp",
+    "anchorMeaning": "斜坡",
+    "relation": "A ramp facilitates access by making it easier to reach an entrance.",
+    "sentence": "A short ramp can facilitate access to the library.（一段短坡道可以方便人们进入图书馆。）",
+    "artDirection": "Show a safe, accessible entrance and natural hands; no signs, letters, logos, or extra people.",
+    "scene": {
+      "setting": "A quiet library entrance with a low accessible ramp.",
+      "actor": "One wheelchair user moves comfortably up the ramp; only one person.",
+      "props": [
+        "one short smooth access ramp",
+        "one plain library doorway",
+        "one simple handrail"
+      ],
+      "beats": [
+        "The person approaches the entrance.",
+        "The wheelchair rolls easily up the ramp.",
+        "The ramp facilitates access to the library."
+      ],
+      "ending": "The wheelchair user reaches the library door along the ramp."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A ramp facilitates access by making it easier to reach an entrance.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "combination",
+    "anchor": "fruit",
+    "anchorMeaning": "水果",
+    "relation": "A combination of fruit and yogurt creates one mixed snack.",
+    "sentence": "A combination of fruit and yogurt made a refreshing snack.（水果和酸奶搭配成了一份清爽的点心。）",
+    "artDirection": "No packaging, labels, writing, or logos; keep the bowl and ingredients clear.",
+    "scene": {
+      "setting": "A bright kitchen table.",
+      "actor": "No people; a simple fruit and yogurt snack sits ready to eat.",
+      "props": [
+        "one bowl containing plain yogurt and several pieces of fruit",
+        "one plain spoon",
+        "one small kitchen table"
+      ],
+      "beats": [
+        "Fresh fruit is placed beside the yogurt.",
+        "The ingredients are combined in one bowl.",
+        "The mixed snack is ready to eat."
+      ],
+      "ending": "One bowl shows fruit and yogurt together as a combination."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A combination of fruit and yogurt creates one mixed snack.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "sophisticated",
+    "anchor": "watch",
+    "anchorMeaning": "手表",
+    "relation": "A sophisticated watch has a carefully designed, complex mechanism.",
+    "sentence": "A sophisticated watch tracked the runner's steps.（一块精密的手表记录了跑步者的步数。）",
+    "artDirection": "No digits, labels, interface text, logos, or extra runners; keep watch markings abstract and unreadable.",
+    "scene": {
+      "setting": "A quiet running path in a park.",
+      "actor": "One runner checks a plain advanced watch on their wrist; only one person.",
+      "props": [
+        "one unmarked wristwatch with a few simple blank indicators",
+        "one running shoe",
+        "one park path"
+      ],
+      "beats": [
+        "The runner begins along the path.",
+        "The watch tracks the runner's movement.",
+        "Its detailed design suggests sophisticated technology."
+      ],
+      "ending": "The runner glances at the sophisticated watch after a run."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A sophisticated watch has a carefully designed, complex mechanism.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "convention",
+    "anchor": "microphone",
+    "anchorMeaning": "麦克风",
+    "relation": "A microphone is a familiar object at a conference convention.",
+    "sentence": "At the annual convention, the speaker greeted an attendee beside a microphone.",
+    "artDirection": "Exactly two people; no banners, badges, signs, screens, writing, or logos.",
+    "scene": {
+      "setting": "A small conference hall with a plain stage.",
+      "actor": "One speaker greets one attendee near the stage; exactly two people.",
+      "props": [
+        "one plain standing microphone",
+        "one simple stage",
+        "two empty chairs"
+      ],
+      "beats": [
+        "The speaker steps onto the stage.",
+        "They greet the attendee beside the microphone.",
+        "The gathering continues as an annual convention."
+      ],
+      "ending": "The speaker welcomes the attendee at the convention microphone."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A microphone is a familiar object at a conference convention.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "dependent",
+    "anchor": "mother",
+    "anchorMeaning": "母亲",
+    "relation": "A young child can be dependent on their mother for help reaching something.",
+    "sentence": "The young child was dependent on her mother to reach the high shelf.（小女孩够不到高架子，需要母亲帮忙。）",
+    "artDirection": "Exactly two people with natural limbs; no writing on the toy, shelf, or clothing.",
+    "scene": {
+      "setting": "A simple family kitchen with one high shelf.",
+      "actor": "One young child asks her mother for help reaching a toy; exactly two people.",
+      "props": [
+        "one high shelf",
+        "one plain toy on the shelf",
+        "one small step stool"
+      ],
+      "beats": [
+        "The child reaches but cannot touch the toy.",
+        "Her mother helps her safely onto the step stool.",
+        "The child depends on her mother's help to reach the shelf."
+      ],
+      "ending": "The mother steadies the child as she reaches the toy."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A young child can be dependent on their mother for help reaching something.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "fatal",
+    "anchor": "doctor",
+    "anchorMeaning": "医生",
+    "relation": "A doctor may warn that an untreated infection can be fatal.",
+    "sentence": "The doctor warned that the infection could be fatal.（医生警告说，这种感染可能会致命。）",
+    "artDirection": "Exactly two people only, one doctor and one adult patient. Bare blank clinic walls: no crosses, plus signs, medical emblems, posters, symbols, charts, writing, labels, logos, or extra people. Keep the conversation calm, with no injury or distress.",
+    "scene": {
+      "setting": "A calm clinic consultation room with plain undecorated walls.",
+      "actor": "One doctor gives a serious but calm warning to one adult patient; exactly two people.",
+      "props": [
+        "one plain closed blank folder",
+        "one plain closed unmarked medicine bottle",
+        "one simple examination bed"
+      ],
+      "beats": [
+        "The doctor reviews the closed blank folder.",
+        "The doctor calmly explains the serious danger of the infection.",
+        "The patient listens as the doctor warns that it could be fatal."
+      ],
+      "ending": "The doctor speaks seriously with the patient in a bare, quiet consultation room."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A doctor may warn that an untreated infection can be fatal.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "prevail",
+    "anchor": "cup",
+    "anchorMeaning": "杯；奖杯",
+    "relation": "A team that prevails wins and raises the cup in celebration.",
+    "sentence": "Despite the rain, they expect to prevail and lift the cup.",
+    "artDirection": "Exactly two people total, both teammates. Empty field and completely empty stands: no crowd, silhouettes, spectators, extra players, scoreboard, logos, numbers, or lettering.",
+    "scene": {
+      "setting": "An empty wet sports field just after a match, with empty stands in the far background.",
+      "actor": "Exactly two teammates celebrate their win together; no other people anywhere.",
+      "props": [
+        "one plain unmarked trophy cup",
+        "one simple soccer ball",
+        "one patch of wet field"
+      ],
+      "beats": [
+        "The final moment of the match passes in the rain.",
+        "The two teammates realize their side has prevailed.",
+        "Only the two teammates lift the cup together."
+      ],
+      "ending": "Exactly two teammates raise the cup on an otherwise empty field."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A team that prevails wins and raises the cup in celebration.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "cautious",
+    "anchor": "ice",
+    "anchorMeaning": "冰",
+    "relation": "A cautious person takes careful steps on ice.",
+    "sentence": "She took cautious steps along the path covered in ice.",
+    "artDirection": "No fall, injury, signs, text, or extra people; show stable natural posture.",
+    "scene": {
+      "setting": "A quiet winter footpath with a thin layer of ice.",
+      "actor": "One walker moves carefully along the slippery path; only one person.",
+      "props": [
+        "one icy path",
+        "one pair of sturdy boots",
+        "one plain walking stick"
+      ],
+      "beats": [
+        "She notices ice across the path.",
+        "She tests the ground with the walking stick.",
+        "She takes cautious steps forward."
+      ],
+      "ending": "The walker carefully crosses the icy path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A cautious person takes careful steps on ice.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "convert",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "An old bicycle can be converted into a flower stand by reusing it.",
+    "sentence": "She plans to convert an old bicycle into a flower stand.",
+    "artDirection": "Exactly one bicycle and two flowerpots; no labels, signs, text, or logos.",
+    "scene": {
+      "setting": "A sunny garden corner.",
+      "actor": "One woman arranges flowers on a repurposed bicycle; only one person.",
+      "props": [
+        "one old bicycle used as a flower stand",
+        "two plain flowerpots attached to its frame",
+        "one small watering can"
+      ],
+      "beats": [
+        "She brings the old bicycle into the garden.",
+        "She turns it into a stand for flowerpots.",
+        "The bicycle has been converted into a new use."
+      ],
+      "ending": "The bicycle now holds flowers as a garden stand."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An old bicycle can be converted into a flower stand by reusing it.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "assure",
+    "anchor": "nod",
+    "anchorMeaning": "点头",
+    "relation": "A reassuring nod can assure a friend that a path is safe.",
+    "sentence": "He nodded to assure his friend that the path was safe.（他点头让朋友确信这条路是安全的。）",
+    "artDirection": "Exactly two people; no signs, written warnings, or logos.",
+    "scene": {
+      "setting": "A peaceful woodland path before a small bridge.",
+      "actor": "Exactly two friends: one nods reassuringly while the other looks toward the path.",
+      "props": [
+        "one simple path",
+        "one small wooden bridge",
+        "one plain walking stick"
+      ],
+      "beats": [
+        "The friends pause before the bridge.",
+        "One friend nods to reassure the other.",
+        "They continue along the safe path."
+      ],
+      "ending": "One friend gives a calm nod and the other relaxes."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A reassuring nod can assure a friend that a path is safe.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "edition",
+    "anchor": "book",
+    "anchorMeaning": "书；版本",
+    "relation": "An edition is a particular published version of a book.",
+    "sentence": "She bought the latest edition of the book at the shop.（她在书店买了这本书的最新版本。）",
+    "artDirection": "Exactly two people; book cover and coin have no words, numbers, labels, or logos.",
+    "scene": {
+      "setting": "A small quiet bookshop counter.",
+      "actor": "One customer buys one book from one shopkeeper; exactly two people.",
+      "props": [
+        "one plain book with a blank cover",
+        "one simple counter",
+        "one unmarked coin"
+      ],
+      "beats": [
+        "The customer chooses the book.",
+        "The shopkeeper hands over the latest edition.",
+        "The customer pays at the counter."
+      ],
+      "ending": "The customer leaves with the newly bought book edition."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An edition is a particular published version of a book.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "induce",
+    "anchor": "lullaby",
+    "anchorMeaning": "摇篮曲",
+    "relation": "A gentle lullaby can induce sleep.",
+    "sentence": "The gentle lullaby can induce sleep in the baby.（轻柔的摇篮曲能让婴儿入睡。）",
+    "artDirection": "Exactly one adult and one baby; no written music, text, labels, or logos.",
+    "scene": {
+      "setting": "A calm nursery at bedtime.",
+      "actor": "One parent gently hums beside one sleeping baby; exactly two people.",
+      "props": [
+        "one simple wooden crib",
+        "one soft blanket",
+        "one small unmarked music box"
+      ],
+      "beats": [
+        "The parent hums a gentle lullaby.",
+        "The baby grows sleepy and closes their eyes.",
+        "The lullaby induces sleep."
+      ],
+      "ending": "The baby sleeps peacefully while the parent hums beside the crib."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A gentle lullaby can induce sleep.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "shed",
+    "anchor": "leaves",
+    "anchorMeaning": "树叶",
+    "relation": "A tree sheds leaves when they fall away in autumn.",
+    "sentence": "The maple tree began to shed its leaves in autumn.（秋天，枫树开始落叶。）",
+    "artDirection": "No text or signs; use a modest number of individual leaves and a natural tree shape.",
+    "scene": {
+      "setting": "A quiet autumn garden.",
+      "actor": "No people; one maple tree loses a few leaves in a gentle breeze.",
+      "props": [
+        "one maple tree",
+        "a small cluster of falling leaves",
+        "one patch of garden ground"
+      ],
+      "beats": [
+        "The maple leaves turn warm colors.",
+        "A breeze loosens several leaves.",
+        "The tree begins to shed them."
+      ],
+      "ending": "A few leaves fall from the maple tree to the garden ground."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A tree sheds leaves when they fall away in autumn.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "mechanism",
+    "anchor": "clock",
+    "anchorMeaning": "时钟",
+    "relation": "A clock contains a mechanism that moves its gears and hands.",
+    "sentence": "The clock's mechanism turned its small gears in sequence.（时钟的机械装置让小齿轮依次转动。）",
+    "artDirection": "No clock numbers, letters, labels, or writing; keep the mechanism mechanically plausible.",
+    "scene": {
+      "setting": "A simple clockmaker's workbench.",
+      "actor": "One clockmaker examines an open clock; only one person.",
+      "props": [
+        "one plain clock with its back open",
+        "several small visible gears inside the clock",
+        "one simple workbench"
+      ],
+      "beats": [
+        "The clockmaker opens the clock casing.",
+        "The gears turn in sequence.",
+        "The moving parts reveal the clock's mechanism."
+      ],
+      "ending": "The open clock shows its working mechanism and gears."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A clock contains a mechanism that moves its gears and hands.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "ownership",
+    "anchor": "cottage",
+    "anchorMeaning": "小屋",
+    "relation": "A deed can confirm a person's ownership of a cottage.",
+    "sentence": "The deed confirmed her ownership of the cottage.（契约确认了她对这间小屋的所有权。）",
+    "artDirection": "No readable writing, signatures, seals, numbers, or signs on the deed or cottage.",
+    "scene": {
+      "setting": "The front step of a small cottage.",
+      "actor": "One woman holds a blank deed and the cottage key; only one person.",
+      "props": [
+        "one small cottage",
+        "one blank folded deed paper",
+        "one plain house key"
+      ],
+      "beats": [
+        "She stands before the cottage with its key.",
+        "She checks the blank deed in her hand.",
+        "The deed confirms her ownership of the cottage."
+      ],
+      "ending": "The woman holds the cottage key and deed beside her home."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A deed can confirm a person's ownership of a cottage.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "originate",
+    "anchor": "spring",
+    "anchorMeaning": "泉水；源头",
+    "relation": "A river can originate at a small spring on a hillside.",
+    "sentence": "This river may originate from a small spring on the hillside.",
+    "artDirection": "No text, pipes, labels, or buildings; keep water flow continuous and clear.",
+    "scene": {
+      "setting": "A green hillside with a clear water source.",
+      "actor": "No people; a small spring feeds the start of a stream.",
+      "props": [
+        "one small hillside spring",
+        "one narrow stream flowing away",
+        "one grassy hillside"
+      ],
+      "beats": [
+        "Water bubbles up from the spring.",
+        "It gathers into a narrow stream.",
+        "The river originates at this hillside source."
+      ],
+      "ending": "A stream begins at the small spring on the hill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A river can originate at a small spring on a hillside.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "aircraft",
+    "anchor": "runway",
+    "anchorMeaning": "跑道",
+    "relation": "An aircraft uses a runway when taking off or landing.",
+    "sentence": "The aircraft glided above the runway with its wings level.（飞机保持机翼平稳，滑过跑道上空。）",
+    "artDirection": "No letters, airport signs, numbers, logos, or extra aircraft.",
+    "scene": {
+      "setting": "A clear sky above a quiet airport runway.",
+      "actor": "No people; one small aircraft glides over the runway.",
+      "props": [
+        "one plain aircraft",
+        "one empty runway",
+        "one open sky"
+      ],
+      "beats": [
+        "The aircraft approaches the runway.",
+        "It glides low with level wings.",
+        "The runway anchors the aircraft's flight."
+      ],
+      "ending": "The aircraft passes steadily above the runway."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An aircraft uses a runway when taking off or landing.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "ethic",
+    "anchor": "wallet",
+    "anchorMeaning": "钱包",
+    "relation": "An ethic of honesty can lead someone to return a lost wallet.",
+    "sentence": "Her ethic of honesty led her to return the lost wallet.（诚实的道德准则促使她归还了捡到的钱包。）",
+    "artDirection": "Exactly two people; no logos, cards, text, or visible money in the wallet.",
+    "scene": {
+      "setting": "A quiet park path beside a bench.",
+      "actor": "Exactly two adults: one returns a lost wallet to its owner.",
+      "props": [
+        "one plain unmarked wallet",
+        "one simple park bench",
+        "one quiet path"
+      ],
+      "beats": [
+        "She finds the wallet beside the bench.",
+        "She looks for its owner and offers it back.",
+        "Her ethic of honesty guides her action."
+      ],
+      "ending": "She returns the wallet to its grateful owner."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An ethic of honesty can lead someone to return a lost wallet.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "universal",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A smile is a familiar universal greeting across cultures.",
+    "sentence": "A warm smile is a universal greeting.（温暖的微笑是一种普遍的问候方式。）",
+    "artDirection": "Exactly two people in plain everyday clothes; no flags, cultural symbols, text, or logos.",
+    "scene": {
+      "setting": "A simple park path in soft daylight.",
+      "actor": "Exactly two adults greet one another warmly with smiles; exactly two people.",
+      "props": [
+        "one quiet park path",
+        "one simple bench",
+        "one small tree"
+      ],
+      "beats": [
+        "The two people meet on the path.",
+        "They exchange a warm smile.",
+        "The smile works as a universal greeting."
+      ],
+      "ending": "Two people share a friendly smile as they greet each other."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A smile is a familiar universal greeting across cultures.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "representative",
+    "anchor": "flag",
+    "anchorMeaning": "旗帜",
+    "relation": "A class representative can carry a flag on behalf of the class.",
+    "sentence": "The class representative carried a plain flag to the meeting.（班级代表带着一面素色旗帜去参加会议。）",
+    "artDirection": "Exactly two people; flag has no symbols, lettering, or national design; no signs or writing.",
+    "scene": {
+      "setting": "A simple school meeting room.",
+      "actor": "One student representative enters while one classmate waits; exactly two people.",
+      "props": [
+        "one plain solid-color flag with no emblem",
+        "one simple meeting table",
+        "one empty chair"
+      ],
+      "beats": [
+        "The representative carries the flag into the room.",
+        "The classmate welcomes them at the table.",
+        "The flag-bearer represents the class at the meeting."
+      ],
+      "ending": "The student representative stands beside the plain flag and table."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A class representative can carry a flag on behalf of the class.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  }
+]

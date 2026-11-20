@@ -1,0 +1,762 @@
+[
+  {
+    "word": "helmet",
+    "anchor": "bike",
+    "anchorMeaning": "自行车",
+    "relation": "A helmet protects the head while riding a bicycle.",
+    "sentence": "The helmet protected her head as she rode her bike.",
+    "scene": {
+      "setting": "A quiet park path",
+      "actor": "One child wears a helmet and stands beside a bicycle",
+      "props": [
+        "single plain helmet",
+        "single bicycle",
+        "park path"
+      ],
+      "beats": [
+        "The child puts on the helmet",
+        "She checks its fit",
+        "She starts riding safely"
+      ],
+      "ending": "A child wears a helmet beside a bicycle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A helmet protects the head while riding a bicycle. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, signs, or numbers."
+  },
+  {
+    "word": "fantastic",
+    "anchor": "dragon",
+    "anchorMeaning": "龙",
+    "relation": "Fantastic can describe an imaginative or extraordinary story.",
+    "sentence": "The fantastic story showed a dragon soaring above a castle.",
+    "scene": {
+      "setting": "A cozy reading corner",
+      "actor": "One child looks at a blank open storybook as one friendly imagined dragon appears",
+      "props": [
+        "blank open book",
+        "single friendly dragon",
+        "plain cushion"
+      ],
+      "beats": [
+        "The child opens the book",
+        "The dragon appears",
+        "The story captures the child's attention"
+      ],
+      "ending": "A child imagines one dragon while reading"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Fantastic can describe an imaginative or extraordinary story. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing on the book; no extra creatures."
+  },
+  {
+    "word": "metropolitan",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "Metropolitan describes something belonging to a large city.",
+    "sentence": "Metropolitan trains carried commuters through the busy city.",
+    "scene": {
+      "setting": "A modern city rail station",
+      "actor": "No people; one passenger train passes between tall city buildings",
+      "props": [
+        "single train",
+        "two tall plain buildings",
+        "rail track"
+      ],
+      "beats": [
+        "The train approaches",
+        "It passes the towers",
+        "The metropolitan route crosses downtown"
+      ],
+      "ending": "A train passes among tall city buildings"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Metropolitan describes something belonging to a large city. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, logos, or numbers."
+  },
+  {
+    "word": "restraint",
+    "anchor": "cookie",
+    "anchorMeaning": "饼干",
+    "relation": "Restraint is self-control that stops someone from acting on an impulse.",
+    "sentence": "She showed restraint by leaving the last cookie on the plate.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One child folds both hands and keeps them away from one tempting cookie on a plate",
+      "props": [
+        "single plain cookie",
+        "plain plate",
+        "wooden table"
+      ],
+      "beats": [
+        "The child notices the cookie",
+        "She folds both hands instead of reaching",
+        "She leaves the cookie on the plate"
+      ],
+      "ending": "One cookie remains untouched as the child shows self-control"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Restraint is self-control that stops someone from acting on an impulse. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show exactly one cookie and both hands away from it; no extra food, crumbs, writing, or labels."
+  },
+  {
+    "word": "accordingly",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "Accordingly means acting in a way that fits the situation.",
+    "sentence": "She saw clouds gather and accordingly opened her umbrella.",
+    "scene": {
+      "setting": "A garden path under dark clouds",
+      "actor": "One woman opens an umbrella as rain begins",
+      "props": [
+        "single plain umbrella",
+        "dark rain cloud",
+        "garden path"
+      ],
+      "beats": [
+        "Clouds gather",
+        "The first drops fall",
+        "She opens the umbrella accordingly"
+      ],
+      "ending": "A woman opens an umbrella as rain begins"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Accordingly means acting in a way that fits the situation. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No weather symbols or text."
+  },
+  {
+    "word": "drawing",
+    "anchor": "pencil",
+    "anchorMeaning": "铅笔",
+    "relation": "A drawing is a picture made by hand, often with a pencil.",
+    "sentence": "The child made a drawing of a bird with a pencil.",
+    "scene": {
+      "setting": "A bright art table",
+      "actor": "One child draws one bird with a pencil",
+      "props": [
+        "single plain pencil",
+        "blank drawing sheet",
+        "wooden table"
+      ],
+      "beats": [
+        "The child watches a bird",
+        "She sketches it",
+        "A clear drawing appears"
+      ],
+      "ending": "A child draws a bird with a pencil"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A drawing is a picture made by hand, often with a pencil. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Only a simple bird picture on the page; no letters."
+  },
+  {
+    "word": "eighty",
+    "anchor": "bead",
+    "anchorMeaning": "珠子",
+    "relation": "An abacus with eight rows of ten beads shows eighty beads altogether.",
+    "sentence": "Eight rows of ten beads make eighty beads altogether.",
+    "scene": {
+      "setting": "A plain cream tabletop with a wooden counting abacus viewed straight on",
+      "actor": "No people; one simple abacus has exactly 8 horizontal rods. Each rod holds exactly ten large round beads, five to the left and five to the right of a clear center gap. All rods and all beads fit fully in the frame.",
+      "props": [
+        "exactly 80 distinct round beads",
+        "plain wooden abacus with eight rods",
+        "cream tabletop"
+      ],
+      "beats": [
+        "Exactly eight horizontal rods are visible",
+        "Every rod has exactly ten beads, five on each side of the center gap",
+        "The eight rows make eighty beads altogether"
+      ],
+      "ending": "One centered wooden abacus with 8 rods and ten countable beads on each rod"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Eight rows of ten beads make eighty beads altogether.” The visual uses eight clear rows of ten."
+    },
+    "artDirection": "Children's watercolor illustration in the supplied reference style, straight-on view. Draw one simple wooden abacus with exactly 8 horizontal rods. Put exactly ten large, distinct beads on every rod: five beads, a clear center gap, then five beads. Countable beads are the only round objects on the rods; no extra bead-shaped spacers. All 8 rods must be visible. No writing, letters, numbers, signs, symbols, labels, or decorative objects."
+  },
+  {
+    "word": "inertia",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "Inertia keeps a moving object moving unless another force acts on it.",
+    "sentence": "The ball kept rolling across the smooth floor because of inertia.",
+    "scene": {
+      "setting": "A bright uncluttered room with a smooth floor",
+      "actor": "One child has just released one red ball; it rolls several inches away from the child's open hand",
+      "props": [
+        "single red ball",
+        "smooth floor",
+        "blank cream wall"
+      ],
+      "beats": [
+        "The child gently pushes the ball",
+        "The child releases it",
+        "The ball keeps rolling from inertia"
+      ],
+      "ending": "A child watches the released ball roll across the floor"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Inertia keeps a moving object moving unless another force acts on it. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show one ball clearly rolling away from an open hand, with slight natural motion blur only; no arrows, motion symbols, or extra objects."
+  },
+  {
+    "word": "lately",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "Lately means during the recent period of time.",
+    "sentence": "Lately, she has read beside the same lamp each evening.",
+    "scene": {
+      "setting": "A quiet reading corner at dusk",
+      "actor": "One woman reads by a small lamp",
+      "props": [
+        "plain table lamp",
+        "blank open book",
+        "wooden chair"
+      ],
+      "beats": [
+        "Evening settles",
+        "She reads beside the lamp",
+        "She has done so lately"
+      ],
+      "ending": "A woman reads beside a familiar lamp"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Lately means during the recent period of time. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing on the pages."
+  },
+  {
+    "word": "lump",
+    "anchor": "sugar",
+    "anchorMeaning": "糖",
+    "relation": "A lump is a compact piece of a soft or granular substance.",
+    "sentence": "A lump of sugar dissolved in the warm tea.",
+    "scene": {
+      "setting": "A simple kitchen counter",
+      "actor": "No people; one sugar lump dissolves in a clear cup of tea",
+      "props": [
+        "single sugar lump",
+        "plain cup of tea",
+        "wooden counter"
+      ],
+      "beats": [
+        "The lump rests beside the cup",
+        "It drops into the tea",
+        "It begins to dissolve"
+      ],
+      "ending": "One sugar lump falls into tea"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A lump is a compact piece of a soft or granular substance. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "One lump only; no writing or labels."
+  },
+  {
+    "word": "ninety",
+    "anchor": "bead",
+    "anchorMeaning": "珠子",
+    "relation": "An abacus with nine rows of ten beads shows ninety beads altogether.",
+    "sentence": "Nine rows of ten beads make ninety beads altogether.",
+    "scene": {
+      "setting": "A plain cream tabletop with a wooden counting abacus viewed straight on",
+      "actor": "No people; one simple abacus has exactly 9 horizontal rods. Each rod holds exactly ten large round beads in one continuous, evenly spaced line, with no center gap or clusters. All rods and beads fit fully in the frame.",
+      "props": [
+        "exactly 90 distinct round beads",
+        "plain wooden abacus with nine rods",
+        "cream tabletop"
+      ],
+      "beats": [
+        "Exactly nine horizontal rods are visible",
+        "Every rod has exactly ten beads in one continuous line",
+        "The nine rows make ninety beads altogether"
+      ],
+      "ending": "One centered wooden abacus with 9 rods and ten countable beads on each rod"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Nine rows of ten beads make ninety beads altogether.” The visual uses nine clear rows of ten."
+    },
+    "artDirection": "Children’s watercolor picture-book illustration matching the reference. Straight-on view of one plain wooden abacus with exactly 9 horizontal rods. Each rod has one continuous line of exactly ten large round beads, evenly spaced with no center gap and no clusters. All beads lie fully on the rod, are separate and countable, and all rods fit in the frame. No extra bead-shaped parts, no short dash marks, no words, letters, numbers, signs, symbols, logos, or decorations."
+  },
+  {
+    "word": "plentiful",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "Plentiful means available in large amounts.",
+    "sentence": "A plentiful harvest filled the basket with apples.",
+    "scene": {
+      "setting": "A small orchard",
+      "actor": "No people; one full basket sits beneath an apple tree with ripe apples",
+      "props": [
+        "single full apple basket",
+        "apple tree",
+        "green grass"
+      ],
+      "beats": [
+        "Apples ripen",
+        "The basket fills",
+        "The plentiful harvest is clear"
+      ],
+      "ending": "A full basket beneath an apple tree"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Plentiful means available in large amounts. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra baskets or text."
+  },
+  {
+    "word": "revolve",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "To revolve is to move around another object in a repeated path.",
+    "sentence": "The earth continues to revolve around the sun each year.",
+    "scene": {
+      "setting": "A simple space scene",
+      "actor": "No people; one blue earth moves around one bright sun in one orbital view",
+      "props": [
+        "single earth globe",
+        "single sun",
+        "dark space"
+      ],
+      "beats": [
+        "The earth moves along its path",
+        "It travels around the sun",
+        "The revolution continues"
+      ],
+      "ending": "Earth revolves around the sun"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To revolve is to move around another object in a repeated path. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, labels, or text."
+  },
+  {
+    "word": "theirs",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "Theirs shows that something belongs to more than one person.",
+    "sentence": "The red ball is theirs, so the children carried it home.",
+    "scene": {
+      "setting": "A sunny yard",
+      "actor": "Two children share one ball and carry it together",
+      "props": [
+        "single red ball",
+        "plain path",
+        "small house door"
+      ],
+      "beats": [
+        "They find the ball",
+        "They agree it belongs to them",
+        "They carry it home"
+      ],
+      "ending": "Two children carry their shared ball home"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Theirs shows that something belongs to more than one person. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or labels."
+  },
+  {
+    "word": "breakdown",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "A breakdown is a failure that stops a machine from working.",
+    "sentence": "A breakdown left the car beside the road.",
+    "scene": {
+      "setting": "A quiet roadside",
+      "actor": "One mechanic checks one stopped car",
+      "props": [
+        "single parked car",
+        "plain wrench",
+        "roadside grass"
+      ],
+      "beats": [
+        "The car stops",
+        "The mechanic opens the hood",
+        "The breakdown is clear"
+      ],
+      "ending": "A mechanic inspects a stopped car"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A breakdown is a failure that stops a machine from working. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No smoke, signs, or license numbers."
+  },
+  {
+    "word": "dash",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "A dash is a sudden quick run toward somewhere.",
+    "sentence": "The rabbit made a dash through the open garden gate.",
+    "scene": {
+      "setting": "A quiet garden path",
+      "actor": "One rabbit runs through one open gate",
+      "props": [
+        "single rabbit",
+        "open wooden gate",
+        "garden path"
+      ],
+      "beats": [
+        "The rabbit notices the opening",
+        "It dashes forward",
+        "It passes through the gate"
+      ],
+      "ending": "A rabbit dashes through an open gate"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A dash is a sudden quick run toward somewhere. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "One rabbit only; natural animal anatomy."
+  },
+  {
+    "word": "flee",
+    "anchor": "hole",
+    "anchorMeaning": "洞",
+    "relation": "To flee means to run away from danger.",
+    "sentence": "The mice flee from the owl and hide in a small hole.",
+    "scene": {
+      "setting": "A forest floor beside a tree",
+      "actor": "One mouse runs toward a small hole while one owl watches from a branch",
+      "props": [
+        "single mouse",
+        "single owl",
+        "small tree hole"
+      ],
+      "beats": [
+        "The owl appears",
+        "The mouse flees",
+        "It reaches the hole"
+      ],
+      "ending": "A mouse flees toward a hole as an owl watches"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To flee means to run away from danger. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Natural anatomy; no extra mice."
+  },
+  {
+    "word": "magnify",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "relation": "To magnify is to make a small thing appear larger.",
+    "sentence": "A lens can magnify a tiny shell on the table.",
+    "scene": {
+      "setting": "A quiet study table",
+      "actor": "No people; one magnifying lens enlarges one small shell in its view",
+      "props": [
+        "single magnifying lens",
+        "single small shell",
+        "wooden table"
+      ],
+      "beats": [
+        "The shell rests",
+        "The lens moves above it",
+        "The shell appears magnified"
+      ],
+      "ending": "A tiny shell appears larger through a lens"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To magnify is to make a small thing appear larger. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or extra shells."
+  },
+  {
+    "word": "senate",
+    "anchor": "hall",
+    "anchorMeaning": "大厅",
+    "relation": "A senate is a group of elected lawmakers who meet to discuss laws.",
+    "sentence": "The senate gathered in the hall to debate a new law.",
+    "scene": {
+      "setting": "A plain assembly hall",
+      "actor": "Two lawmakers discuss an issue at a simple table",
+      "props": [
+        "plain meeting table",
+        "two simple chairs",
+        "blank wall"
+      ],
+      "beats": [
+        "The lawmakers gather",
+        "They debate the proposal",
+        "The senate meets in the hall"
+      ],
+      "ending": "Two lawmakers confer in a plain hall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A senate is a group of elected lawmakers who meet to discuss laws. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, seals, or written papers."
+  },
+  {
+    "word": "sixteen",
+    "anchor": "bead",
+    "anchorMeaning": "珠子",
+    "relation": "Four groups of four beads make sixteen beads altogether.",
+    "sentence": "Four groups of four beads make sixteen beads altogether.",
+    "scene": {
+      "setting": "A plain counting tabletop",
+      "actor": "No people; four separated square groups, each group contains exactly four beads in a clear 2-by-2 arrangement",
+      "props": [
+        "exactly sixteen distinct beads",
+        "plain wooden tray",
+        "cream tabletop"
+      ],
+      "beats": [
+        "Four groups are visible",
+        "Each group has four beads",
+        "Together the groups make sixteen"
+      ],
+      "ending": "Four neat clusters of four beads in one tray"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Four groups of four beads make sixteen beads altogether. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Exactly 4 beads per cluster and exactly 4 clusters; 16 distinct beads total; no extra beads, labels, or numerals."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2511",
+    "anchor": "cloth",
+    "sentence": "The coarse cloth scratched his hand.",
+    "relation": "Coarse describes a rough surface or material with a large, uneven texture.",
+    "setting": "A quiet tailoring room",
+    "actor": "One tailor tests a rough piece of cloth with a gloved hand.",
+    "props": [
+      "one rough cloth",
+      "one gloved hand",
+      "one plain table"
+    ],
+    "beats": [
+      "The cloth is laid on the table",
+      "The tailor touches its rough surface",
+      "The coarse texture scratches the glove"
+    ],
+    "ending": "A rough coarse cloth scratches the tailor's gloved hand.",
+    "artDirection": "Show a visibly rough weave; no labels, text, or logos."
+  },
+  {
+    "id": "kyc-2512",
+    "anchor": "sky",
+    "sentence": "A comet crossed the night sky.",
+    "relation": "A comet is a small celestial body that can develop a bright tail as it nears the sun.",
+    "setting": "A clear night above a quiet hillside",
+    "actor": "No people: one bright comet with a soft tail crosses a dark open sky.",
+    "props": [
+      "one comet",
+      "one open night sky",
+      "one dark hillside"
+    ],
+    "beats": [
+      "The sky darkens",
+      "The comet appears above the hill",
+      "Its tail crosses the sky"
+    ],
+    "ending": "A comet with a luminous tail crosses the night sky.",
+    "artDirection": "No stars arranged as symbols, constellations, text, or labels."
+  },
+  {
+    "id": "kyc-2513",
+    "anchor": "smile",
+    "sentence": "She gave him a cordial smile at the door.",
+    "relation": "Cordial describes a warm, friendly, and sincere manner toward another person.",
+    "setting": "A home doorway",
+    "actor": "Exactly two adults: a host welcomes a visitor with a warm, friendly smile.",
+    "props": [
+      "one host",
+      "one visitor",
+      "one open doorway"
+    ],
+    "beats": [
+      "The visitor arrives",
+      "The host smiles warmly",
+      "The cordial greeting welcomes the visitor"
+    ],
+    "ending": "A cordial smile welcomes a visitor at the door.",
+    "artDirection": "Exactly two people; no speech bubbles, signs, or text."
+  },
+  {
+    "id": "kyc-2514",
+    "anchor": "bed",
+    "sentence": "The cosy bed made the little room feel warm and welcoming.",
+    "relation": "Cosy describes a small, warm, comfortable, and inviting place or feeling.",
+    "setting": "A small warm bedroom",
+    "actor": "No people: a neatly made bed sits in a softly lit, inviting room.",
+    "props": [
+      "one comfortable bed",
+      "one warm blanket",
+      "one small bedside lamp"
+    ],
+    "beats": [
+      "The room is cool and quiet",
+      "A warm blanket is spread on the bed",
+      "The room feels cosy and inviting"
+    ],
+    "ending": "A cosy bed makes a small room feel warm and comfortable.",
+    "artDirection": "Change targetSense to 舒适的；温馨的; no lettering, logos, or extra objects with writing."
+  },
+  {
+    "id": "kyc-2515",
+    "anchor": "daughter",
+    "sentence": "She called her daughter darling and gave her a hug.",
+    "relation": "Darling is an affectionate word for someone deeply loved or cherished.",
+    "setting": "A family home doorway",
+    "actor": "One mother warmly hugs her daughter as she welcomes her home.",
+    "props": [
+      "one mother",
+      "one daughter",
+      "one small flower"
+    ],
+    "beats": [
+      "The daughter comes home",
+      "Her mother welcomes her warmly",
+      "The mother calls her darling and hugs her"
+    ],
+    "ending": "A mother welcomes her darling daughter with a hug.",
+    "artDirection": "Exactly two people; no speech bubbles, signs, or text."
+  },
+  {
+    "id": "kyc-2516",
+    "anchor": "bill",
+    "sentence": "The cashier will deduct the discount from the bill.",
+    "relation": "To deduct is to take an amount away from a total.",
+    "setting": "A simple shop counter",
+    "actor": "One cashier removes part of a customer's charge from a blank bill.",
+    "props": [
+      "one cashier",
+      "one blank bill",
+      "one plain coin stack"
+    ],
+    "beats": [
+      "The bill is prepared",
+      "A discount is taken away from the total",
+      "The cashier deducts the amount"
+    ],
+    "ending": "A cashier deducts a discount from a bill.",
+    "artDirection": "Bill must be blank; no currency symbols, numbers, signs, or text."
+  },
+  {
+    "id": "kyc-2517",
+    "anchor": "bridge",
+    "sentence": "The old bridge began to degenerate after years without repair.",
+    "relation": "To degenerate is to become worse or less effective over time.",
+    "setting": "A quiet river beneath an old bridge",
+    "actor": "No people: one neglected wooden bridge shows loose planks and a sagging rail.",
+    "props": [
+      "one old bridge",
+      "one river",
+      "one loose wooden plank"
+    ],
+    "beats": [
+      "The bridge is left unrepaired",
+      "Its structure weakens over time",
+      "The bridge begins to degenerate"
+    ],
+    "ending": "An old bridge degenerates after years without repair.",
+    "artDirection": "No collapse, injury, construction signs, text, or labels."
+  },
+  {
+    "id": "kyc-2518",
+    "anchor": "grass",
+    "sentence": "At dawn, dew covered the grass.",
+    "relation": "Dew is tiny drops of water that form on cool surfaces overnight.",
+    "setting": "A quiet garden at dawn",
+    "actor": "No people: small clear dew drops rest across blades of grass in early light.",
+    "props": [
+      "one patch of grass",
+      "small dew drops",
+      "one pale dawn sky"
+    ],
+    "beats": [
+      "The night air cools the garden",
+      "Water gathers on the grass",
+      "Dew shines at dawn"
+    ],
+    "ending": "Dew covers the grass at dawn.",
+    "artDirection": "No lettering, decorative symbols, or labels."
+  },
+  {
+    "id": "kyc-2519",
+    "anchor": "example",
+    "sentence": "Each example showed a discrete case, separate from the others.",
+    "relation": "Discrete means individually separate and distinct rather than joined together.",
+    "setting": "A simple classroom table",
+    "actor": "One student places three separate plain objects into their own small spaces.",
+    "props": [
+      "one student",
+      "three separate plain boxes",
+      "one bare table"
+    ],
+    "beats": [
+      "The student looks at one example",
+      "Each item is placed in its own space",
+      "The discrete cases remain separate"
+    ],
+    "ending": "Each discrete example sits apart from the others.",
+    "artDirection": "No labels, writing, numbers, or diagrams."
+  },
+  {
+    "id": "kyc-2520",
+    "anchor": "water",
+    "sentence": "Water began to drip from the roof after the rain.",
+    "relation": "To drip is to fall in small drops of liquid, one drop at a time.",
+    "setting": "A quiet garden after rain",
+    "actor": "No people: a single drop of water falls from the edge of a roof into a bucket.",
+    "props": [
+      "one roof edge",
+      "one clear water drop",
+      "one plain bucket"
+    ],
+    "beats": [
+      "Rain leaves water on the roof",
+      "The water gathers at the edge",
+      "A drop falls into the bucket"
+    ],
+    "ending": "Water drips from the roof into a bucket.",
+    "artDirection": "No motion symbols, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2521",
+    "anchor": "moon",
+    "sentence": "The moon entered Earth's shadow during an eclipse.",
+    "relation": "An eclipse occurs when one celestial body blocks light from another.",
+    "setting": "A clear night sky during a lunar eclipse",
+    "actor": "No people: Earth's shadow gradually covers the full moon.",
+    "props": [
+      "one moon",
+      "one broad shadow",
+      "one dark sky"
+    ],
+    "beats": [
+      "The full moon appears",
+      "Earth's shadow moves across it",
+      "The eclipse darkens the moon"
+    ],
+    "ending": "Earth's shadow covers the moon during an eclipse.",
+    "artDirection": "Change targetSense to （日、月）食; no labels, text, diagrams, or symbols."
+  },
+  {
+    "id": "kyc-2522",
+    "anchor": "wire",
+    "sentence": "The electrician repaired a loose wire.",
+    "relation": "An electrician is a trained worker who installs and repairs electrical wiring.",
+    "setting": "A simple home workbench",
+    "actor": "One electrician carefully repairs a loose wire beside a plain lamp.",
+    "props": [
+      "one electrician",
+      "one loose wire",
+      "one plain lamp"
+    ],
+    "beats": [
+      "The lamp stops working",
+      "The electrician finds a loose wire",
+      "The wire is repaired"
+    ],
+    "ending": "An electrician repairs a loose wire beside a lamp.",
+    "artDirection": "No exposed danger, sparks, labels, logos, or text."
+  },
+  {
+    "id": "kyc-2523",
+    "anchor": "wire",
+    "sentence": "An electron moved along the wire in a simple science model.",
+    "relation": "An electron is a tiny negatively charged particle found in atoms and moving through electric currents.",
+    "setting": "A calm science classroom",
+    "actor": "One teacher points to a plain cutaway model showing a tiny bead-like particle inside a wire.",
+    "props": [
+      "one teacher",
+      "one plain wire model",
+      "one tiny bead-like particle"
+    ],
+    "beats": [
+      "The wire model is shown",
+      "A tiny particle moves inside it",
+      "The electron travels along the wire"
+    ],
+    "ending": "An electron moves through a simple wire model.",
+    "artDirection": "No labels, charge signs, diagrams with text, or numbers."
+  },
+  {
+    "id": "kyc-2524",
+    "anchor": "book",
+    "sentence": "She searched an encyclopedia, a thick book of facts, for the plant.",
+    "relation": "An encyclopedia is a reference book containing information on many subjects.",
+    "setting": "A quiet library table",
+    "actor": "One reader consults a thick encyclopedia while a smaller plain book rests nearby.",
+    "props": [
+      "one reader",
+      "one thick encyclopedia",
+      "one smaller plain book"
+    ],
+    "beats": [
+      "The reader wonders about a plant",
+      "She searches the encyclopedia",
+      "She finds the needed information"
+    ],
+    "ending": "A reader searches an encyclopedia, a thick book of facts, for information about a plant.",
+    "artDirection": "All pages and covers must be blank, with no titles, lettering, or logos."
+  },
+  {
+    "id": "kyc-2525",
+    "anchor": "desk",
+    "sentence": "He went to the desk to enquire about the train.",
+    "relation": "To enquire is to ask for information, often by speaking to someone.",
+    "setting": "A quiet station information desk",
+    "actor": "One traveler asks a staff member at a plain desk for information about a train.",
+    "props": [
+      "one traveler",
+      "one staff member",
+      "one plain desk"
+    ],
+    "beats": [
+      "The traveler approaches the desk",
+      "He asks for information",
+      "He enquires about the train"
+    ],
+    "ending": "A traveler enquires at the station desk.",
+    "artDirection": "Exactly two people; no signs, schedules, numbers, tickets with text, or logos."
+  },
+  {
+    "id": "kyc-2526",
+    "anchor": "shadow",
+    "sentence": "A sudden shadow gave the child a fright.",
+    "relation": "A fright is a sudden feeling of fear caused by something unexpected.",
+    "setting": "A quiet room at dusk",
+    "actor": "One child turns in surprise as a large tree shadow crosses the wall.",
+    "props": [
+      "one child",
+      "one broad tree shadow",
+      "one window"
+    ],
+    "beats": [
+      "The room grows dim",
+      "A shadow moves across the wall",
+      "The child feels a sudden fright"
+    ],
+    "ending": "A sudden shadow gives a child a fright.",
+    "artDirection": "Keep it mildly startling, not frightening or violent; no text or symbols."
+  },
+  {
+    "id": "kyc-2527",
+    "anchor": "cloth",
+    "sentence": "The fringe along the cloth brushed the table.",
+    "relation": "A fringe is a row of loose threads or strips attached to the edge of fabric.",
+    "setting": "A quiet sewing room",
+    "actor": "No people: a cloth with a clear thread fringe hangs over the edge of a table.",
+    "props": [
+      "one cloth",
+      "one row of loose fringe threads",
+      "one plain table"
+    ],
+    "beats": [
+      "The cloth is laid over the table edge",
+      "Its loose threads hang down",
+      "The fringe brushes the table"
+    ],
+    "ending": "The fringe on a cloth brushes the table edge.",
+    "artDirection": "Make the loose threads clearly attached to the cloth's edge; no labels or text."
+  },
+  {
+    "id": "kyc-2528",
+    "anchor": "street",
+    "sentence": "A gang of thieves gathered in a side street after dark.",
+    "relation": "A gang is an organized group of people, often involved in crime.",
+    "setting": "A quiet side street at dusk",
+    "actor": "Exactly two thieves meet together in a dim side street, suggesting a larger gang without showing extra people.",
+    "props": [
+      "two thieves",
+      "one quiet side street",
+      "one plain bag"
+    ],
+    "beats": [
+      "The street grows quiet",
+      "Two thieves gather together",
+      "The gang meets after dark"
+    ],
+    "ending": "Two members of a gang gather in a side street after dark.",
+    "artDirection": "Exactly two people; no weapons, violence, text, logos, or extra figures."
+  },
+  {
+    "id": "kyc-2529",
+    "anchor": "example",
+    "sentence": "From one example, she began to generalise a rule for similar cases.",
+    "relation": "To generalise is to form a broad rule or conclusion from particular examples.",
+    "setting": "A simple classroom table",
+    "actor": "One student compares several similar plant leaves and draws a broad conclusion from the example.",
+    "props": [
+      "one student",
+      "three similar leaves",
+      "one plain pot"
+    ],
+    "beats": [
+      "The student studies one example",
+      "She notices the same pattern in similar leaves",
+      "She generalises a rule"
+    ],
+    "ending": "A student generalises a rule from an example and similar leaves.",
+    "artDirection": "No writing, diagrams, labels, or symbols."
+  },
+  {
+    "id": "kyc-2530",
+    "anchor": "dance",
+    "sentence": "She made a graceful turn during the dance.",
+    "relation": "Graceful describes smooth, elegant movement or appearance.",
+    "setting": "A plain dance studio",
+    "actor": "One dancer makes a smooth, balanced turn across an empty floor.",
+    "props": [
+      "one dancer",
+      "one smooth dance floor",
+      "one flowing skirt"
+    ],
+    "beats": [
+      "The dancer begins to turn",
+      "Her movement stays smooth and balanced",
+      "She completes a graceful turn"
+    ],
+    "ending": "A dancer makes a graceful turn during a dance.",
+    "artDirection": "One person only; no mirrors showing duplicate figures, signs, text, or logos."
+  },
+  {
+    "id": "kyc-2531",
+    "anchor": "door",
+    "sentence": "His repeated knocks at her door became harassment.",
+    "relation": "Harassment is repeated unwanted behavior that troubles, pressures, or threatens someone.",
+    "setting": "A quiet apartment doorway",
+    "actor": "Exactly two people: one man keeps knocking while a worried woman stands inside the partly closed door.",
+    "props": [
+      "one man",
+      "one worried woman",
+      "one apartment door"
+    ],
+    "beats": [
+      "The woman asks to be left alone",
+      "The man continues knocking",
+      "The repeated unwanted visits become harassment"
+    ],
+    "ending": "Repeated unwanted knocks at a woman's door amount to harassment.",
+    "artDirection": "Exactly two people; nonviolent, no threatening tools, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2532",
+    "anchor": "school",
+    "sentence": "Henceforth, he would walk to school each morning.",
+    "relation": "Henceforth means from this point forward and continuing into the future.",
+    "setting": "A quiet path leading to a school",
+    "actor": "One student sets off on foot along a path toward school in the morning.",
+    "props": [
+      "one student",
+      "one walking path",
+      "one distant school building"
+    ],
+    "beats": [
+      "The student chooses to walk",
+      "He starts toward school",
+      "Henceforth he follows this routine each morning"
+    ],
+    "ending": "Henceforth, a student walks to school each morning.",
+    "artDirection": "No school signs, lettering, logos, or extra people."
+  },
+  {
+    "id": "kyc-2533",
+    "anchor": "key",
+    "sentence": "He felt like an idiot after leaving his key inside the house.",
+    "relation": "An idiot is a very foolish person; the word is informal and insulting, so use it carefully.",
+    "setting": "A quiet house doorway",
+    "actor": "One man realizes he has locked himself outside while his key remains visible inside the house.",
+    "props": [
+      "one man",
+      "one plain key inside the doorway",
+      "one closed house door"
+    ],
+    "beats": [
+      "The man closes the door",
+      "He notices his key is inside",
+      "He feels like an idiot"
+    ],
+    "ending": "A man feels like an idiot after locking himself out with his key inside.",
+    "artDirection": "Keep the reaction mildly comic, not humiliating; no text, labels, or logos."
+  },
+  {
+    "id": "kyc-2534",
+    "anchor": "school",
+    "sentence": "The mayor will inaugurate the new school at its opening ceremony.",
+    "relation": "To inaugurate something is to mark its formal beginning or officially open it.",
+    "setting": "The entrance of a new school",
+    "actor": "One mayor formally opens a new school by pulling aside a plain curtain from its doorway.",
+    "props": [
+      "one mayor",
+      "one new school entrance",
+      "one plain curtain"
+    ],
+    "beats": [
+      "The new school is ready",
+      "The mayor opens the entrance",
+      "The opening formally inaugurates the school"
+    ],
+    "ending": "A mayor inaugurates a new school at its opening.",
+    "artDirection": "No banners, plaques, signs, logos, text, or extra people."
+  },
+  {
+    "id": "kyc-2535",
+    "anchor": "book",
+    "sentence": "The adult couple learned about intercourse from a health book.",
+    "relation": "Intercourse here means sexual intercourse, a topic commonly explained in adult health education.",
+    "setting": "A private, calm health education office",
+    "actor": "Exactly two adults sit together discussing a closed, plain health book.",
+    "props": [
+      "two adults",
+      "one closed plain book",
+      "one quiet table"
+    ],
+    "beats": [
+      "The couple opens the health book",
+      "They discuss the topic privately",
+      "They learn about intercourse"
+    ],
+    "ending": "An adult couple learns about intercourse from a health book.",
+    "artDirection": "Educational and non-explicit; adults fully clothed, no nudity, sexual act, writing, or symbols."
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "word": "orientation",
+    "anchor": "compass",
+    "anchorMeaning": "指南针",
+    "relation": "Orientation is a person's sense of direction or position.",
+    "sentence": "She checked the compass to get her orientation before entering the forest.",
+    "scene": {
+      "setting": "A forest trailhead",
+      "actor": "One hiker studies a plain compass beside a trail map with no markings",
+      "props": [
+        "plain compass",
+        "blank map",
+        "forest path"
+      ],
+      "beats": [
+        "She stops at the trailhead",
+        "She checks the compass",
+        "She finds her orientation before walking"
+      ],
+      "ending": "A hiker checks a compass before entering the forest"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Orientation is a person's sense of direction or position. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letters, numbers, or map labels."
+  },
+  {
+    "word": "pit",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "A pit is a deep hole in the ground.",
+    "sentence": "The rabbit hopped around a deep pit in the field.",
+    "scene": {
+      "setting": "A grassy field",
+      "actor": "One rabbit approaches a deep round pit and stops beside it",
+      "props": [
+        "single rabbit",
+        "deep pit",
+        "grass field"
+      ],
+      "beats": [
+        "The rabbit hops across the grass",
+        "It notices the pit",
+        "It moves around the opening"
+      ],
+      "ending": "A rabbit beside a deep pit"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A pit is a deep hole in the ground. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep the pit clearly visible; no text or extra animals."
+  },
+  {
+    "word": "questionnaire",
+    "anchor": "clipboard",
+    "anchorMeaning": "夹板",
+    "relation": "A questionnaire is a set of questions used to collect people's answers.",
+    "sentence": "The researcher handed each visitor a questionnaire on a clipboard to complete.",
+    "scene": {
+      "setting": "A quiet visitor desk",
+      "actor": "One researcher offers a plain questionnaire sheet on a clipboard to one visitor",
+      "props": [
+        "plain clipboard",
+        "blank questionnaire sheet",
+        "wooden desk"
+      ],
+      "beats": [
+        "The visitor arrives",
+        "The researcher offers the questionnaire",
+        "The visitor begins to fill it in"
+      ],
+      "ending": "A visitor receives a questionnaire on a clipboard"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A questionnaire is a set of questions used to collect people's answers. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "The page must remain blank or show only empty boxes; no letters, words, numbers, or logos."
+  },
+  {
+    "word": "stake",
+    "anchor": "tomato",
+    "anchorMeaning": "番茄",
+    "relation": "A stake is a strong post driven into the ground to support a plant.",
+    "sentence": "The gardener drove a wooden stake into the soil beside the tomato plant.",
+    "scene": {
+      "setting": "A small vegetable garden",
+      "actor": "One gardener taps a wooden stake into the soil beside a tomato plant",
+      "props": [
+        "single wooden stake",
+        "tomato plant",
+        "small mallet"
+      ],
+      "beats": [
+        "The plant leans",
+        "The gardener places the stake",
+        "The plant rests beside its support"
+      ],
+      "ending": "A stake supports a tomato plant"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A stake is a strong post driven into the ground to support a plant. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or writing."
+  },
+  {
+    "word": "treaty",
+    "anchor": "handshake",
+    "anchorMeaning": "握手",
+    "relation": "A treaty is a formal agreement between groups or countries.",
+    "sentence": "The two leaders sealed the treaty with a handshake across the table.",
+    "scene": {
+      "setting": "A plain meeting room",
+      "actor": "Two leaders shake hands over a blank treaty document",
+      "props": [
+        "blank document",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The leaders meet",
+        "They agree on the treaty",
+        "They seal it with a handshake"
+      ],
+      "ending": "Two leaders shake hands over an unsigned treaty"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A treaty is a formal agreement between groups or countries. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, seals, writing, badges, or text."
+  },
+  {
+    "word": "virgin",
+    "anchor": "lily",
+    "anchorMeaning": "百合",
+    "relation": "A virgin is a person who has never had sexual experience; in stories, purity is often symbolized by a white flower.",
+    "sentence": "In the old tale, the virgin carried a white lily through the garden.",
+    "scene": {
+      "setting": "A calm storybook garden",
+      "actor": "One adult woman in a simple long dress carries one white lily through a quiet garden",
+      "props": [
+        "single white lily",
+        "garden path",
+        "small stone bench"
+      ],
+      "beats": [
+        "She walks through the garden",
+        "She holds the lily carefully",
+        "The white flower recalls the tale"
+      ],
+      "ending": "A woman carries a white lily in a quiet garden"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A virgin is a person who has never had sexual experience; in stories, purity is often symbolized by a white flower. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No sensuality, text, or other people."
+  },
+  {
+    "word": "acquaint",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "To acquaint someone with something is to help them learn about it.",
+    "sentence": "The guide used a map to acquaint the hikers with the new trail.",
+    "scene": {
+      "setting": "A forest trailhead",
+      "actor": "One guide shows one hiker a plain map of a winding trail",
+      "props": [
+        "blank trail map",
+        "walking stick",
+        "forest path"
+      ],
+      "beats": [
+        "The guide opens the map",
+        "She points out the trail",
+        "The hiker becomes acquainted with the route"
+      ],
+      "ending": "A guide introduces a trail with a map"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To acquaint someone with something is to help them learn about it. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, letters, or numbers on the map."
+  },
+  {
+    "word": "ascribe",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "To ascribe something to a cause is to say that the cause produced it.",
+    "sentence": "They may ascribe the pot's crack to a falling stone.",
+    "scene": {
+      "setting": "A garden table at the instant a stone strikes a clay pot",
+      "actor": "One heavy stone is visibly falling onto a single clay pot; show the pot cracking at the exact impact point while the stone makes contact",
+      "props": [
+        "single cracked pot",
+        "single stone",
+        "wooden table"
+      ],
+      "beats": [
+        "The stone falls toward the pot",
+        "The stone strikes the pot and a clear crack forms at the impact point",
+        "The cracked pot and the same stone remain together, making the cause visible"
+      ],
+      "ending": "One cracked pot at the visible point of impact from one fallen stone"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To ascribe something to a cause is to say that the cause produced it. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show one pot and one stone only. Make the stone visibly cause the crack at the moment of impact; no extra shards, labels, or writing."
+  },
+  {
+    "word": "complement",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "To complement is to go well with or complete something else.",
+    "sentence": "A blue scarf can complement her yellow coat.",
+    "scene": {
+      "setting": "A quiet dressing room with a plain empty wall",
+      "actor": "One woman wears one yellow coat and tries one blue scarf in a simple mirror",
+      "props": [
+        "blue scarf",
+        "yellow coat",
+        "plain mirror"
+      ],
+      "beats": [
+        "She wears the yellow coat",
+        "She places the blue scarf against the coat",
+        "The blue scarf and yellow coat look harmonious together"
+      ],
+      "ending": "One blue scarf complements the single yellow coat she is wearing"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To complement is to go well with or complete something else. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Only one yellow coat worn by the woman and one blue scarf. Plain empty wall with no pictures, framed clothing, spare garments, text, or logos."
+  },
+  {
+    "word": "confidential",
+    "anchor": "drawer",
+    "anchorMeaning": "抽屉",
+    "relation": "Confidential information is private and meant to be kept secret.",
+    "sentence": "She kept the confidential letter in a locked drawer.",
+    "scene": {
+      "setting": "A quiet study",
+      "actor": "One person places a sealed blank letter into a locked drawer",
+      "props": [
+        "plain sealed letter",
+        "wooden drawer",
+        "small key"
+      ],
+      "beats": [
+        "She receives the letter",
+        "She locks it away",
+        "The confidential letter stays private"
+      ],
+      "ending": "A letter is kept inside a locked drawer"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Confidential information is private and meant to be kept secret. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing, address, or labels on the letter."
+  },
+  {
+    "word": "gear",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "A gear is a toothed wheel that turns with another wheel in a machine.",
+    "sentence": "One gear turned the next inside the old clock.",
+    "scene": {
+      "setting": "A small clockmaker's workbench",
+      "actor": "No people; two interlocking gears turn inside a plain clock mechanism",
+      "props": [
+        "two simple gears",
+        "plain clock case",
+        "wooden bench"
+      ],
+      "beats": [
+        "One gear begins to turn",
+        "The second gear follows",
+        "The pair keeps the clock moving"
+      ],
+      "ending": "Two gears work together inside a clock"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A gear is a toothed wheel that turns with another wheel in a machine. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No clock face, numerals, or labels."
+  },
+  {
+    "word": "installation",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "Installation is the act of putting equipment in place so it can be used.",
+    "sentence": "The installation of the new lamp took only a few minutes.",
+    "scene": {
+      "setting": "A plain room under renovation",
+      "actor": "One electrician fixes a simple ceiling lamp into place",
+      "props": [
+        "single ceiling lamp",
+        "plain ladder",
+        "blank ceiling"
+      ],
+      "beats": [
+        "The electrician climbs the ladder",
+        "She fits the lamp",
+        "The installation is complete"
+      ],
+      "ending": "A worker installs a ceiling lamp"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Installation is the act of putting equipment in place so it can be used. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No switches with labels, logos, or text."
+  },
+  {
+    "word": "portable",
+    "anchor": "radio",
+    "anchorMeaning": "收音机",
+    "relation": "Portable describes something light and small enough to carry easily.",
+    "sentence": "The portable radio fit inside a small backpack.",
+    "scene": {
+      "setting": "A quiet campsite",
+      "actor": "One camper places a small radio into an open backpack",
+      "props": [
+        "small plain radio",
+        "open backpack",
+        "camp stool"
+      ],
+      "beats": [
+        "The camper picks up the radio",
+        "She slips it into the bag",
+        "The portable radio is easy to carry"
+      ],
+      "ending": "A small radio fits in a backpack"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Portable describes something light and small enough to carry easily. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, dials with numbers, or text."
+  },
+  {
+    "word": "prayer",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "A prayer is a quiet request or expression of faith.",
+    "sentence": "She whispered a prayer beside a candle before dawn.",
+    "scene": {
+      "setting": "A calm chapel corner",
+      "actor": "One person sits quietly with hands folded beside a candle",
+      "props": [
+        "single candle",
+        "wooden bench",
+        "plain window"
+      ],
+      "beats": [
+        "She sits in silence",
+        "She folds her hands",
+        "She whispers a prayer"
+      ],
+      "ending": "A person prays beside a candle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A prayer is a quiet request or expression of faith. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No religious symbols, books with writing, or text."
+  },
+  {
+    "word": "renovate",
+    "anchor": "paint",
+    "anchorMeaning": "油漆",
+    "relation": "To renovate is to repair and improve an old building or room.",
+    "sentence": "Workers renovate the old room with fresh paint and new shelves.",
+    "scene": {
+      "setting": "A nearly bare old room being repaired",
+      "actor": "Exactly two workers repaint one wall with one roller and install one plain wooden shelf",
+      "props": [
+        "plain paint bucket",
+        "single paint roller",
+        "wooden shelf"
+      ],
+      "beats": [
+        "The two workers inspect the bare old room",
+        "One worker paints the wall while the other fits the shelf",
+        "The room looks freshly improved"
+      ],
+      "ending": "Exactly two workers finish renovating the room with one new shelf"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To renovate is to repair and improve an old building or room. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Exactly two people, one paint bucket, one roller, one plain wooden shelf. Keep the room otherwise bare; no plants, extra furniture, extra shelves, extra tools, signs, or text."
+  },
+  {
+    "word": "sweater",
+    "anchor": "wool",
+    "anchorMeaning": "羊毛",
+    "relation": "A sweater is a warm knitted garment often made from wool.",
+    "sentence": "She wore a wool sweater on the cold morning.",
+    "scene": {
+      "setting": "A chilly garden porch",
+      "actor": "One woman wears a thick wool sweater while holding a warm cup",
+      "props": [
+        "wool sweater",
+        "plain cup",
+        "wooden chair"
+      ],
+      "beats": [
+        "Cold air arrives",
+        "She pulls on the sweater",
+        "She stays warm on the porch"
+      ],
+      "ending": "A woman wears a warm wool sweater"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A sweater is a warm knitted garment often made from wool. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, labels, or writing."
+  },
+  {
+    "word": "trash",
+    "anchor": "bin",
+    "anchorMeaning": "垃圾桶",
+    "relation": "Trash is unwanted waste that is thrown away.",
+    "sentence": "He carried the trash bag to the bin after supper.",
+    "scene": {
+      "setting": "A clean kitchen doorway",
+      "actor": "One person carries a tied trash bag to a plain outdoor bin",
+      "props": [
+        "single tied trash bag",
+        "plain bin",
+        "doorway"
+      ],
+      "beats": [
+        "The meal ends",
+        "He ties the bag",
+        "He carries the trash to the bin"
+      ],
+      "ending": "A person takes a trash bag to a bin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Trash is unwanted waste that is thrown away. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, logos, or text."
+  },
+  {
+    "word": "bee",
+    "anchor": "daisy",
+    "anchorMeaning": "雏菊",
+    "relation": "A bee is a flying insect that gathers nectar from flowers.",
+    "sentence": "A bee landed on the daisy beside its hive.",
+    "scene": {
+      "setting": "A sunny meadow",
+      "actor": "One bee lands on one daisy near a small hive",
+      "props": [
+        "single bee",
+        "single daisy",
+        "small hive"
+      ],
+      "beats": [
+        "The bee leaves the hive",
+        "It flies to the daisy",
+        "It lands to gather nectar"
+      ],
+      "ending": "A bee rests on a daisy near its hive"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A bee is a flying insect that gathers nectar from flowers. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep natural bee anatomy; no text."
+  },
+  {
+    "word": "bucket",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "In the phrase “rain in buckets,” bucket helps describe a very heavy amount of rain.",
+    "sentence": "Heavy rain filled a bucket in just a few minutes.",
+    "scene": {
+      "setting": "A small yard during a downpour",
+      "actor": "Rain pours into one bucket while puddles spread across the yard",
+      "props": [
+        "single bucket",
+        "heavy rain",
+        "stone path"
+      ],
+      "beats": [
+        "Clouds gather",
+        "Rain falls heavily",
+        "The bucket fills quickly"
+      ],
+      "ending": "A bucket fills under heavy rain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. In the phrase “rain in buckets,” bucket helps describe a very heavy amount of rain. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No weather symbols, labels, or text."
+  },
+  {
+    "word": "defect",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "A defect is a flaw that makes an object imperfect.",
+    "sentence": "A small crack was a defect in the glass bowl.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One person notices a small crack in a clear glass bowl",
+      "props": [
+        "single glass bowl",
+        "small crack",
+        "wooden table"
+      ],
+      "beats": [
+        "The bowl is lifted",
+        "The crack appears",
+        "The defect is noticed"
+      ],
+      "ending": "A cracked glass bowl shows a defect"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A defect is a flaw that makes an object imperfect. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra shards, writing, or labels."
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "stranger",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A stranger can arrive unexpectedly at a cottage door.",
+    "sentence": "A stranger knocked at the cottage door after sunset.（日落后，一位陌生人在小屋门上敲了敲。）",
+    "artDirection": "No threatening behavior, signs, house numbers, text, or logos.",
+    "scene": {
+      "setting": "A quiet cottage entrance at dusk.",
+      "actor": "One unfamiliar traveler knocks gently at the door; only one person.",
+      "props": [
+        "one plain cottage door",
+        "one small unmarked lantern",
+        "one quiet garden path"
+      ],
+      "beats": [
+        "The traveler approaches the cottage at dusk.",
+        "They knock gently on the door.",
+        "The person at the entrance is a stranger to the household."
+      ],
+      "ending": "A lone stranger waits beside the cottage door at dusk."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A stranger can arrive unexpectedly at a cottage door.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "obscure",
+    "anchor": "fog",
+    "anchorMeaning": "雾",
+    "relation": "Thick fog can obscure a lighthouse and make it hard to see.",
+    "sentence": "A thick fog can obscure the lighthouse along the coast.（浓雾会遮住海岸边的灯塔。）",
+    "artDirection": "No labels, text, or extra buildings; fog is atmospheric, not dangerous.",
+    "scene": {
+      "setting": "A misty coastline in the early morning.",
+      "actor": "No people; fog hides part of one lighthouse.",
+      "props": [
+        "one lighthouse partly hidden by fog",
+        "one thick band of coastal fog",
+        "one stretch of calm sea"
+      ],
+      "beats": [
+        "The lighthouse stands by the coast.",
+        "Fog drifts between it and the viewer.",
+        "The fog obscures part of the lighthouse."
+      ],
+      "ending": "The lighthouse is only faintly visible through the fog."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Thick fog can obscure a lighthouse and make it hard to see.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "strive",
+    "anchor": "line",
+    "anchorMeaning": "线；终点线",
+    "relation": "A runner strives toward a finish line through continued effort.",
+    "sentence": "The runner continued to strive toward the finish line.（跑步者继续努力朝终点线前进。）",
+    "artDirection": "No numbers, letters, signs, audience, or logos; one runner only.",
+    "scene": {
+      "setting": "A quiet running track near the finish.",
+      "actor": "One runner pushes forward toward the finish line; only one person.",
+      "props": [
+        "one plain finish line on the track",
+        "one pair of running shoes",
+        "one simple track lane"
+      ],
+      "beats": [
+        "The runner grows tired near the finish.",
+        "They keep moving with effort.",
+        "They strive to reach the line."
+      ],
+      "ending": "The runner leans forward and keeps striving toward the finish."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A runner strives toward a finish line through continued effort.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "settlement",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "A settlement can grow beside a river where people find water and transport.",
+    "sentence": "The small settlement grew beside the river.",
+    "artDirection": "Exactly three cottages; no signs, smoke text, street names, or logos.",
+    "scene": {
+      "setting": "A peaceful riverside landscape at the edge of a small settlement.",
+      "actor": "No people; a few simple homes stand beside the river.",
+      "props": [
+        "one broad river",
+        "three small plain cottages",
+        "one dirt path connecting the cottages"
+      ],
+      "beats": [
+        "The first homes appear beside the river.",
+        "More cottages gather along the bank.",
+        "The small settlement grows along the water."
+      ],
+      "ending": "Three cottages form a small settlement beside the river."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A settlement can grow beside a river where people find water and transport.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "parliament",
+    "anchor": "bell",
+    "anchorMeaning": "钟",
+    "relation": "A bell can mark the opening of a parliament session.",
+    "sentence": "The parliament began its session when the bell rang in the chamber.（议会大厅的钟声响起后，会议开始了。）",
+    "artDirection": "Exactly two people; no flags, emblems, microphones with logos, signs, or writing.",
+    "scene": {
+      "setting": "A simple parliamentary chamber with rows of plain seats.",
+      "actor": "Exactly two parliament members take their seats as the session begins.",
+      "props": [
+        "one plain chamber bell",
+        "two empty simple desks",
+        "one blank paper sheet"
+      ],
+      "beats": [
+        "The chamber bell rings.",
+        "The two members take their seats.",
+        "Parliament begins its session."
+      ],
+      "ending": "Two members sit ready as the bell signals parliament's opening."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A bell can mark the opening of a parliament session.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "penalty",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "A foul near the goal can lead to a penalty, marked by the ball on the spot.",
+    "sentence": "After a foul near the goal, a penalty was awarded and the ball was placed on the spot.",
+    "artDirection": "Exactly one soccer goal in the entire image, one referee, and one ball. No second goal, extra people, players, scoreboards, numbers, text, or logos; keep field markings simple.",
+    "scene": {
+      "setting": "A quiet soccer field with one distant goal and open empty space.",
+      "actor": "One referee signals a penalty beside the ball; only one person.",
+      "props": [
+        "one plain soccer ball",
+        "one painted penalty spot",
+        "one simple goal in the distance"
+      ],
+      "beats": [
+        "A foul occurs near the single goal.",
+        "The referee signals a penalty.",
+        "The ball rests on the penalty spot."
+      ],
+      "ending": "The referee points toward the penalty spot beside the ball, with only one goal visible."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A foul near the goal can lead to a penalty, marked by the ball on the spot.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "distract",
+    "anchor": "balloon",
+    "anchorMeaning": "气球",
+    "relation": "A bright balloon can distract a child from a lesson.",
+    "sentence": "A bright balloon can distract the child during a lesson.（一只鲜艳的气球会让孩子上课时分心。）",
+    "artDirection": "Worksheet has no writing or numbers; no logos or extra people.",
+    "scene": {
+      "setting": "A quiet child's study room.",
+      "actor": "One child pauses from a blank worksheet to watch one floating balloon; only one person.",
+      "props": [
+        "one bright plain balloon",
+        "one blank worksheet",
+        "one simple desk"
+      ],
+      "beats": [
+        "The child begins a quiet lesson at the desk.",
+        "The balloon drifts into view.",
+        "The child becomes distracted by the balloon."
+      ],
+      "ending": "The child looks up from the blank worksheet at the floating balloon."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A bright balloon can distract a child from a lesson.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "automobile",
+    "anchor": "wheel",
+    "anchorMeaning": "车轮",
+    "relation": "A wheel is a familiar part of an automobile.",
+    "sentence": "The automobile stopped as one wheel rattled on the rough road.（汽车在一只车轮于崎岖路面上发出响声时停了下来。）",
+    "artDirection": "No license plate numbers, badges, logos, road signs, or text; no detached wheels.",
+    "scene": {
+      "setting": "A quiet country road with a small roadside pull-off.",
+      "actor": "No people; one plain automobile has stopped safely on the road.",
+      "props": [
+        "one plain automobile with all wheels attached",
+        "one visible front wheel",
+        "one rough country road"
+      ],
+      "beats": [
+        "The automobile rolls along the rough road.",
+        "One wheel rattles over the uneven surface.",
+        "The car stops safely at the roadside."
+      ],
+      "ending": "The automobile is parked safely with its wheel still attached."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A wheel is a familiar part of an automobile.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "assembly",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "The assembly of a chair means putting its parts together.",
+    "sentence": "The assembly of the wooden chair took all morning.（组装这把木椅花了整个上午。）",
+    "artDirection": "Only one partly assembled chair, one plain hand tool, and one work mat. No other furniture, workbench, drawers, shelves, tool racks, storage items, loose lumber, instruction sheets, labels, or writing. Use a bare blank background and natural hands.",
+    "scene": {
+      "setting": "A minimal workshop with a blank wall and clear floor.",
+      "actor": "One person assembles one wooden chair using one hand tool; only one person.",
+      "props": [
+        "one partly assembled wooden chair",
+        "one plain hand tool",
+        "one small work mat"
+      ],
+      "beats": [
+        "The person arranges the chair parts on the mat.",
+        "They fit the chair pieces together with the tool.",
+        "The chair assembly is completed."
+      ],
+      "ending": "The finished wooden chair stands alone on the work mat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The assembly of a chair means putting its parts together.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "rid",
+    "anchor": "boxes",
+    "anchorMeaning": "箱子",
+    "relation": "Getting rid of boxes means removing them from a space.",
+    "sentence": "She got rid of the old boxes in the attic.（她把阁楼里的旧箱子清理掉了。）",
+    "artDirection": "Exactly two plain cardboard boxes total in the entire image: one in her arms and one on the floor beside her. The space beyond the open doorway is empty and brightly lit, with no box, object, dark box-like shape, or box-shaped shadow. No other boxes anywhere; no labels, shipping marks, writing, or extra people.",
+    "scene": {
+      "setting": "A simple empty attic entrance with a bright, completely empty space beyond the open doorway.",
+      "actor": "One woman carries one old box toward the doorway while the second and final box rests on the floor beside her; only one person.",
+      "props": [
+        "two plain old cardboard boxes",
+        "one open attic doorway",
+        "one small dust cloth"
+      ],
+      "beats": [
+        "She gathers exactly two old boxes.",
+        "She carries one box toward the doorway while one remains on the floor nearby.",
+        "The attic is rid of its clutter."
+      ],
+      "ending": "The woman removes exactly two boxes through an open doorway into an empty space."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Getting rid of boxes means removing them from a space.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "arrival",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "A train's arrival can signal that a journey is about to begin.",
+    "sentence": "The train's arrival at the platform signaled the start of her journey.",
+    "artDirection": "One unmarked passenger train, one traveler, and one small unmarked suitcase. No station signs, signboards, boards, lettering, numbers, logos, or extra people anywhere.",
+    "scene": {
+      "setting": "A calm rural platform with no signboards or signs of any kind.",
+      "actor": "One traveler waits as one train arrives; exactly one person.",
+      "props": [
+        "one plain passenger train",
+        "one simple station platform",
+        "one small unmarked suitcase"
+      ],
+      "beats": [
+        "The traveler waits on the platform.",
+        "The train comes into the station.",
+        "Its arrival begins the traveler's journey."
+      ],
+      "ending": "The unmarked train stops beside the waiting traveler on an empty platform."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A train's arrival can signal that a journey is about to begin.",
+      "reviewNote": "Manually reviewed for fluent, natural, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "readily",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "A door that opens readily can be opened easily with a key.",
+    "sentence": "The old door opened readily when she turned the key.（她转动钥匙时，旧门很容易就打开了。）",
+    "artDirection": "No labels, house numbers, writing, or logos; show one key and one door.",
+    "scene": {
+      "setting": "A quiet cottage doorway.",
+      "actor": "One woman turns one key and the door opens easily; only one person.",
+      "props": [
+        "one old wooden door",
+        "one plain metal key",
+        "one simple door handle"
+      ],
+      "beats": [
+        "She places the key in the lock.",
+        "The lock turns smoothly.",
+        "The door opens readily."
+      ],
+      "ending": "The woman opens the cottage door with little effort."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A door that opens readily can be opened easily with a key.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "interfere",
+    "anchor": "kite",
+    "anchorMeaning": "风筝",
+    "relation": "Tree branches can interfere with a kite's flight.",
+    "sentence": "The tree branches interfere with the kite's flight.（树枝妨碍了风筝飞行。）",
+    "artDirection": "No text or symbols on the kite; safe scene, no broken branches or extra people.",
+    "scene": {
+      "setting": "A breezy open park with one large tree.",
+      "actor": "One child holds a kite string while the kite catches gently among branches; only one person.",
+      "props": [
+        "one colorful plain kite",
+        "one large tree with low branches",
+        "one kite string"
+      ],
+      "beats": [
+        "The child flies the kite in the breeze.",
+        "The kite drifts toward the tree.",
+        "The branches interfere with its flight."
+      ],
+      "ending": "The kite rests lightly among the tree branches as the child holds the string."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Tree branches can interfere with a kite's flight.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "exert",
+    "anchor": "crate",
+    "anchorMeaning": "板条箱",
+    "relation": "A worker must exert strength to lift a heavy crate.",
+    "sentence": "The worker had to exert strength to lift the heavy crate.（工人不得不使出力气搬起沉重的板条箱。）",
+    "artDirection": "One person with natural limbs; no labels, shipping text, logos, or extra crates.",
+    "scene": {
+      "setting": "A simple warehouse with a clear floor.",
+      "actor": "One worker uses effort to lift one heavy crate; only one person.",
+      "props": [
+        "one heavy wooden crate",
+        "one plain pair of work gloves",
+        "one simple warehouse floor"
+      ],
+      "beats": [
+        "The worker bends to grip the crate.",
+        "They exert strength to lift it.",
+        "The crate rises off the floor."
+      ],
+      "ending": "The worker lifts the crate with visible effort."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A worker must exert strength to lift a heavy crate.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "interference",
+    "anchor": "radio",
+    "anchorMeaning": "收音机",
+    "relation": "Radio interference disrupts a clear signal.",
+    "sentence": "The radio picked up interference during the storm.（暴风雨期间，收音机收到了干扰信号。）",
+    "artDirection": "Radio has no readable dial markings, numbers, text, or logos; no frightening lightning.",
+    "scene": {
+      "setting": "A cozy room during a gentle storm.",
+      "actor": "No people; one plain radio crackles beside a rain-streaked window.",
+      "props": [
+        "one plain tabletop radio",
+        "one rain-streaked window",
+        "one soft lightning glow outside"
+      ],
+      "beats": [
+        "The radio plays softly.",
+        "The storm passes outside.",
+        "Static interference breaks up the radio sound."
+      ],
+      "ending": "The radio sits by the window during the storm's interference."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Radio interference disrupts a clear signal.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "anger",
+    "anchor": "toy",
+    "anchorMeaning": "玩具",
+    "relation": "A broken toy can make a child feel anger.",
+    "sentence": "Her anger flared when the toy broke.（玩具摔坏时，她的怒气一下子冒了出来。）",
+    "artDirection": "Show mild frustration only; no violence, text, labels, or extra people.",
+    "scene": {
+      "setting": "A simple child's playroom.",
+      "actor": "One child looks upset beside one broken toy; only one person.",
+      "props": [
+        "one broken wooden toy car",
+        "one soft floor rug",
+        "one plain toy block"
+      ],
+      "beats": [
+        "The child plays with the toy car.",
+        "A wheel comes loose and the toy breaks.",
+        "Her anger flares at the broken toy."
+      ],
+      "ending": "The child frowns beside the broken toy car without harming anything."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A broken toy can make a child feel anger.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "soda",
+    "anchor": "straw",
+    "anchorMeaning": "吸管",
+    "relation": "A straw is used to sip soda from a glass.",
+    "sentence": "She sipped cold soda through a straw.（她用吸管啜饮冰凉的苏打饮料。）",
+    "artDirection": "No cans, labels, text, logos, or extra people.",
+    "scene": {
+      "setting": "A sunny picnic table.",
+      "actor": "One woman drinks soda through one straw; only one person.",
+      "props": [
+        "one clear glass of soda",
+        "one plain drinking straw",
+        "one small picnic table"
+      ],
+      "beats": [
+        "She places the straw in the glass.",
+        "She takes a sip of cold soda.",
+        "The straw makes the drink easy to sip."
+      ],
+      "ending": "The woman enjoys a glass of soda through the straw."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A straw is used to sip soda from a glass.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "prolong",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "Adding oil to a lamp can prolong the time its light lasts.",
+    "sentence": "Extra oil helped prolong the lamp's glow.（添入更多油，让灯光持续得更久。）",
+    "artDirection": "No labels, writing, logos, or open flames near other objects.",
+    "scene": {
+      "setting": "A quiet cabin at twilight.",
+      "actor": "One person carefully adds oil to one simple oil lamp; only one person.",
+      "props": [
+        "one plain oil lamp",
+        "one small unmarked oil bottle",
+        "one wooden table"
+      ],
+      "beats": [
+        "The lamp's oil runs low.",
+        "The person adds a little more oil.",
+        "The extra oil helps prolong the glow."
+      ],
+      "ending": "The lamp continues glowing on the table after being refilled."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Adding oil to a lamp can prolong the time its light lasts.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "approval",
+    "anchor": "nod",
+    "anchorMeaning": "点头",
+    "relation": "A warm nod can show approval.",
+    "sentence": "The coach showed approval with a warm nod.（教练温和地点头表示赞同。）",
+    "artDirection": "Exactly two adult men, around 30 and 40 years old, of similar adult height and clearly adult proportions. No child, teenager, youth-sized player, spectators, or extra people. No arms-crossed pose, no thumbs-up. The coach must visibly dip his head in a warm approving nod to the adult player. No logos, numbers, text, or scoreboard.",
+    "scene": {
+      "setting": "A quiet empty sports field after adult practice.",
+      "actor": "Exactly two adult men of similar height: a middle-aged coach faces an adult player around age 30 and clearly nods his head in approval; the player stands resting beside the ball.",
+      "props": [
+        "one plain soccer ball",
+        "one simple field bench",
+        "one patch of grass"
+      ],
+      "beats": [
+        "The adult player finishes practice and stands beside the ball.",
+        "The adult coach lowers and lifts his head in one clear warm nod.",
+        "The nod shows the coach approves of the adult player."
+      ],
+      "ending": "The adult coach is visibly mid-nod toward the adult player after practice."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A warm nod can show approval.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "extension",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "An extension ladder reaches farther so a painter can access a roof.",
+    "sentence": "The painter used an extension ladder to reach the cottage roof.（油漆工用伸缩梯够到小屋屋顶。）",
+    "artDirection": "One painter only; no house numbers, signs, labels, writing, or logos.",
+    "scene": {
+      "setting": "A small cottage exterior on a clear day.",
+      "actor": "One painter climbs one extension ladder toward the roof; only one person.",
+      "props": [
+        "one plain extension ladder",
+        "one cottage roof edge",
+        "one small unmarked paint bucket"
+      ],
+      "beats": [
+        "The painter sets the ladder against the cottage.",
+        "They extend it high enough to reach the roof.",
+        "The ladder extension makes the roof accessible."
+      ],
+      "ending": "The painter stands safely on the extended ladder beside the roof."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An extension ladder reaches farther so a painter can access a roof.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  }
+]

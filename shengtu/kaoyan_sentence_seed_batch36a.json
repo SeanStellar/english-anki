@@ -1,0 +1,802 @@
+[
+  {
+    "id": "kyc-1581",
+    "word": "concession",
+    "targetSense": "让步",
+    "anchor": "remote",
+    "anchorMeaning": "电视遥控器",
+    "relation": "她把遥控器交给弟弟，做出让步，表现 concession。",
+    "sentence": "She made a concession and handed him the TV remote.",
+    "scene": {
+      "setting": "A quiet living room with one sofa",
+      "actor": "Two siblings sit on one sofa as one reluctantly hands the TV remote to the other",
+      "props": [
+        "one TV remote",
+        "one sofa",
+        "one blank television screen"
+      ],
+      "beats": [
+        "They disagree over what to watch",
+        "One sibling pauses and gives up the remote",
+        "The other accepts the remote and chooses"
+      ],
+      "ending": "One sibling hands over the remote as a small concession."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“电视遥控器”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two siblings and a blank, powered-off television screen; no menus, text, logos, or speech bubbles."
+  },
+  {
+    "id": "kyc-1582",
+    "word": "convict",
+    "targetSense": "罪犯",
+    "anchor": "bar",
+    "anchorMeaning": "铁栏杆",
+    "relation": "罪犯安静地坐在铁栏后，表现 convict。",
+    "sentence": "The convict sat quietly behind iron bars.",
+    "scene": {
+      "setting": "A plain prison cell",
+      "actor": "One adult convict sits quietly on a bench behind a simple set of iron bars",
+      "props": [
+        "iron bars",
+        "one plain bench",
+        "one adult convict"
+      ],
+      "beats": [
+        "The convict enters the cell",
+        "He sits behind the bars",
+        "The quiet cell shows him confined"
+      ],
+      "ending": "One convict sits behind iron bars in a plain cell."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“铁栏杆”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one adult only, no weapons, violence, uniforms with insignia, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-1583",
+    "word": "dwarf",
+    "targetSense": "使显得矮小；相形见绌",
+    "anchor": "house",
+    "anchorMeaning": "小屋",
+    "relation": "高大的树使旁边的小屋显得矮小，表现 dwarf 的动词义。",
+    "sentence": "The tall tree can dwarf the small house beside it.",
+    "scene": {
+      "setting": "A small cottage beside a towering tree",
+      "actor": "One towering tree stands beside one modest low house, making the house look tiny by comparison",
+      "props": [
+        "one tall tree",
+        "one small house",
+        "one grassy yard"
+      ],
+      "beats": [
+        "The small house stands beside the tree",
+        "The tree rises far above its roof",
+        "The house looks dwarfed by the towering tree"
+      ],
+      "ending": "A tall tree dwarfs a small house beside it."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“小屋”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Use a wide landscape 4:3 composition filled edge to edge with uninterrupted illustration. Make the tree and small intact house occupy the full horizontal canvas; continue the painted landscape to all four edges. Absolutely no blank white side bands, margins, frame, or border. No people, signs, numbers, or text."
+  },
+  {
+    "id": "kyc-1584",
+    "word": "embark",
+    "targetSense": "着手",
+    "anchor": "shovel",
+    "anchorMeaning": "铲子",
+    "relation": "她拿起铲子开始花园计划，表现 embark on 的着手义。",
+    "sentence": "She is ready to embark on a garden project with her shovel.",
+    "scene": {
+      "setting": "A sunny backyard garden bed",
+      "actor": "One woman begins a new garden project, holding a shovel beside fresh soil",
+      "props": [
+        "one shovel",
+        "one garden bed",
+        "one seed packet"
+      ],
+      "beats": [
+        "She approaches the empty garden bed",
+        "She takes up the shovel",
+        "She starts the project by turning the first soil"
+      ],
+      "ending": "One woman embarks on a garden project with her shovel."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“铲子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one woman beginning the first task; seed packet must be blank, with no labels, signs, or text."
+  },
+  {
+    "id": "kyc-1585",
+    "word": "embed",
+    "targetSense": "嵌入",
+    "anchor": "wall",
+    "anchorMeaning": "墙",
+    "relation": "木工把玻璃砖嵌入墙面，表现 embed。",
+    "sentence": "The carpenter will embed a glass tile into the wall.",
+    "scene": {
+      "setting": "A small workshop with a plain brick wall",
+      "actor": "One carpenter presses one glass tile firmly into fresh mortar in a wall",
+      "props": [
+        "one glass tile",
+        "one brick wall",
+        "one small trowel"
+      ],
+      "beats": [
+        "The carpenter spreads mortar on the wall",
+        "He presses the glass tile into the surface",
+        "The tile sits embedded and flush with the wall"
+      ],
+      "ending": "A carpenter embeds one glass tile into a brick wall."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“墙”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one tile fitted into the wall surface; no labels, marks, signs, or writing."
+  },
+  {
+    "id": "kyc-1586",
+    "word": "fuss",
+    "targetSense": "大惊小怪",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "他为蛋糕轻微歪斜而大惊小怪，表现 fuss。",
+    "sentence": "He began to fuss over the slightly crooked cake.",
+    "scene": {
+      "setting": "A simple birthday table",
+      "actor": "One child makes an exaggerated worried fuss over a cake that is only slightly tilted",
+      "props": [
+        "one cake",
+        "one plain plate",
+        "one dining table"
+      ],
+      "beats": [
+        "The cake sits a little crooked",
+        "The child notices the small tilt",
+        "He overreacts with a worried fuss"
+      ],
+      "ending": "One child fusses over a slightly tilted cake."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“蛋糕”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the cake harmless and only mildly imperfect; show one child, no speech bubbles, writing, or numbers."
+  },
+  {
+    "id": "kyc-1587",
+    "word": "namely",
+    "targetSense": "即",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "她选了一种水果，也就是苹果，表现 namely 的具体说明义。",
+    "sentence": "For a quick snack, she chose one fruit, namely an apple.",
+    "scene": {
+      "setting": "A bright kitchen counter",
+      "actor": "One woman points to a single apple among a small bowl of mixed fruit",
+      "props": [
+        "one apple",
+        "one fruit bowl",
+        "one kitchen counter"
+      ],
+      "beats": [
+        "She looks over the fruit bowl",
+        "She selects one apple",
+        "The apple is the specific fruit she chooses"
+      ],
+      "ending": "One woman chooses an apple as her fruit snack."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“苹果”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make one apple the clear specific choice; no labels, text, signs, or extra people."
+  },
+  {
+    "id": "kyc-1588",
+    "word": "permeate",
+    "targetSense": "渗透",
+    "anchor": "soil",
+    "anchorMeaning": "土壤",
+    "relation": "雨水渗透干土并到达植物根部，表现 permeate。",
+    "sentence": "Rainwater can permeate the dry soil and reach the roots.",
+    "scene": {
+      "setting": "A garden bed shown with a simple cutaway of the soil",
+      "actor": "Rain seeps through the earth from the surface down to the plant roots",
+      "props": [
+        "rainwater",
+        "dry soil",
+        "plant roots"
+      ],
+      "beats": [
+        "Rain falls on the surface",
+        "Water permeates the dry soil",
+        "Moisture reaches the roots below"
+      ],
+      "ending": "Rainwater permeates the soil and reaches the roots."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“土壤”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Use one natural cutaway view with no labels, arrows, marks, or text; show water entering the soil clearly."
+  },
+  {
+    "id": "kyc-1589",
+    "word": "resemblance",
+    "targetSense": "相似",
+    "anchor": "mother",
+    "anchorMeaning": "母亲",
+    "relation": "女儿和母亲并肩站立时，相貌相似之处很明显，表现 resemblance。",
+    "sentence": "Her resemblance to her mother was clear when they stood side by side.",
+    "scene": {
+      "setting": "A warm family garden",
+      "actor": "One mother and one daughter stand side by side with clearly similar facial features and matching dark hair",
+      "props": [
+        "one mother",
+        "one daughter",
+        "one garden bench"
+      ],
+      "beats": [
+        "The mother and daughter stand together",
+        "Their similar faces and hair are easy to compare",
+        "Their resemblance becomes clear"
+      ],
+      "ending": "A daughter resembles her mother as they stand together."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“母亲”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two people with natural anatomy; no mirrors, extra portraits, or text."
+  },
+  {
+    "id": "kyc-1590",
+    "word": "sometime",
+    "targetSense": "改天、来日",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "relation": "朋友计划下个月某个时候再去湖边，表现 sometime。",
+    "sentence": "They planned to visit the lake sometime next month.",
+    "scene": {
+      "setting": "A calm lakeside at sunset",
+      "actor": "Two friends say goodbye at a lake with a small picnic bag, planning to return at an unspecified future time",
+      "props": [
+        "one lake",
+        "one picnic bag",
+        "two friends"
+      ],
+      "beats": [
+        "The friends finish their visit",
+        "They pack the picnic bag",
+        "They plan to return sometime next month"
+      ],
+      "ending": "Two friends plan to visit the lake again sometime."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“湖”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two friends and no calendar, numbers, writing, or signs."
+  },
+  {
+    "id": "kyc-1591",
+    "word": "staple",
+    "targetSense": "主要的；订书钉",
+    "anchor": "paper",
+    "anchorMeaning": "纸张",
+    "relation": "一枚订书钉把几张纸固定在一起，表现 staple。",
+    "sentence": "A staple held the paper sheets together.",
+    "scene": {
+      "setting": "A close top-down view of two blank sheets overlapping at one corner on a clean desk",
+      "actor": "One tiny standard silver office staple lies flat across the paper corner and pierces both sheets; its short straight crown is flat against the top sheet, with two tiny straight puncture points at the ends and short legs folded flat underneath",
+      "props": [
+        "one small office staple",
+        "two blank paper sheets",
+        "one plain desk"
+      ],
+      "beats": [
+        "Two blank sheets overlap at one corner",
+        "One short flat staple is pressed straight through that corner",
+        "The tiny staple holds both sheets firmly together"
+      ],
+      "ending": "One small flat office staple fastens two blank sheets at a corner."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“纸张”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Use a close top-down view of the paper corner. Show exactly one tiny normal office staple: a very short straight flat metal bar across the corner, with two tiny straight punctures at its ends as it passes through both sheets; its short legs are folded flat underneath. Keep the staple small and pressed flat against the paper. No exposed wire loops, no curved arms, no long clip shape, no paperclip, no binder clip, no stapler, no extra fasteners, no writing, marks, or text."
+  },
+  {
+    "id": "kyc-1592",
+    "word": "suck",
+    "targetSense": "吸",
+    "anchor": "straw",
+    "anchorMeaning": "吸管",
+    "relation": "她用吸管从杯子里吸果汁，表现 suck。",
+    "sentence": "She used a straw to suck juice from her cup.",
+    "scene": {
+      "setting": "A sunny kitchen table",
+      "actor": "One child drinks juice through one straw from one cup",
+      "props": [
+        "one straw",
+        "one cup of juice",
+        "one plain table"
+      ],
+      "beats": [
+        "The child places the straw in the cup",
+        "She draws juice up through the straw",
+        "She drinks from the cup"
+      ],
+      "ending": "A child sucks juice through a straw."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“吸管”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one child with natural anatomy; no labels, text, or logos on the cup."
+  },
+  {
+    "id": "kyc-1593",
+    "word": "terror",
+    "targetSense": "恐惧",
+    "anchor": "shadow",
+    "anchorMeaning": "影子",
+    "relation": "墙上的突然阴影让孩子感到恐惧，表现 terror。",
+    "sentence": "A sudden shadow filled the child with terror.",
+    "scene": {
+      "setting": "A child’s bedroom at night",
+      "actor": "One child looks frightened by a large branch shadow cast across the bedroom wall",
+      "props": [
+        "one branch shadow",
+        "one child",
+        "one bedroom wall"
+      ],
+      "beats": [
+        "The room is quiet at night",
+        "A branch shadow appears on the wall",
+        "The child reacts with terror but remains safe"
+      ],
+      "ending": "A child feels terror at a sudden shadow on the wall."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“影子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Keep the shadow clearly caused by an ordinary tree branch outside; no monsters, violence, text, or symbols."
+  },
+  {
+    "id": "kyc-1594",
+    "word": "wardrobe",
+    "targetSense": "衣柜",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "她把外套挂进衣柜，表现 wardrobe。",
+    "sentence": "She hung her coat inside the wardrobe.",
+    "scene": {
+      "setting": "A tidy bedroom",
+      "actor": "One woman hangs one plain coat inside an open wooden wardrobe",
+      "props": [
+        "one coat",
+        "one wardrobe",
+        "one bedroom"
+      ],
+      "beats": [
+        "She opens the wardrobe",
+        "She lifts the coat onto a hanger",
+        "The coat hangs inside the wardrobe"
+      ],
+      "ending": "A woman hangs her coat inside a wardrobe."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“外套”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show a simple wardrobe interior; coat and clothing have no logos, labels, or text."
+  },
+  {
+    "id": "kyc-1595",
+    "word": "wreck",
+    "targetSense": "残骸、破坏",
+    "anchor": "ship",
+    "anchorMeaning": "船",
+    "relation": "旧船在风暴后变成岩岸上的残骸，表现 wreck。",
+    "sentence": "The old ship became a wreck on the rocky shore.",
+    "scene": {
+      "setting": "A quiet rocky coastline after a storm",
+      "actor": "One old damaged ship rests broken and stranded among rocks near the shore",
+      "props": [
+        "one old ship",
+        "rocky shore",
+        "calm sea"
+      ],
+      "beats": [
+        "The storm passes",
+        "The damaged ship lies broken on the rocks",
+        "Its wreck remains on the shore"
+      ],
+      "ending": "One old ship lies wrecked on the rocky shore."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“船”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one abandoned wreck with no injured people, flags, lettering, or signs."
+  },
+  {
+    "id": "kyc-1596",
+    "word": "compatible",
+    "targetSense": "兼容",
+    "anchor": "plug",
+    "anchorMeaning": "插头",
+    "relation": "插头与墙上插座匹配并能正常接入，表现 compatible。",
+    "sentence": "This plug is compatible with the socket.",
+    "scene": {
+      "setting": "A simple home wall beside a small lamp",
+      "actor": "One hand fits one plug neatly into its matching wall socket, lighting a small lamp",
+      "props": [
+        "one plug",
+        "one wall socket",
+        "one small lamp"
+      ],
+      "beats": [
+        "The hand brings the plug to the socket",
+        "The plug fits the socket without force",
+        "The lamp turns on"
+      ],
+      "ending": "A compatible plug fits its socket and lights the lamp."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“插头”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one hand with no extra fingers; no electrical sparks, labels, numbers, or text."
+  },
+  {
+    "id": "kyc-1597",
+    "word": "courtyard",
+    "targetSense": "院子",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "树荫下两个孩子在院子里玩耍，表现 courtyard。",
+    "sentence": "A tree shaded the courtyard where two children played.",
+    "scene": {
+      "setting": "An enclosed courtyard surrounded by house walls",
+      "actor": "Two children play under one tree in an open paved courtyard",
+      "props": [
+        "one tree",
+        "two children",
+        "courtyard walls"
+      ],
+      "beats": [
+        "The children enter the enclosed space",
+        "They play beneath the tree",
+        "The surrounding walls make the yard a courtyard"
+      ],
+      "ending": "Two children play in a tree-shaded courtyard."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“树”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two children, no signs or writing on the walls, and natural anatomy."
+  },
+  {
+    "id": "kyc-1598",
+    "word": "descent",
+    "targetSense": "下降",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "登山者沿山路小心向下走，表现 descent。",
+    "sentence": "The climber began a careful descent down the mountain.",
+    "scene": {
+      "setting": "A safe mountain trail sloping downward",
+      "actor": "One climber carefully walks down a broad mountain path",
+      "props": [
+        "one mountain trail",
+        "one climber",
+        "one walking stick"
+      ],
+      "beats": [
+        "The climber reaches the upper slope",
+        "He turns onto the downward trail",
+        "He continues a careful descent"
+      ],
+      "ending": "One climber descends a mountain trail carefully."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“山”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one climber with exactly two arms and two legs; the path is safe and broad, with no injury or text."
+  },
+  {
+    "id": "kyc-1599",
+    "word": "excursion",
+    "targetSense": "远足",
+    "anchor": "lunch",
+    "anchorMeaning": "午餐",
+    "relation": "她带午餐去湖边短途远足，表现 excursion。",
+    "sentence": "She packed lunch for a day-long excursion to the lake.",
+    "scene": {
+      "setting": "A quiet lakeshore picnic spot on a day excursion",
+      "actor": "Exactly one woman sits alone beside the lake, reaching toward food inside the one open lunch basket on the ground in front of her; her one daypack rests beside her",
+      "props": [
+        "one open lunch basket",
+        "one daypack",
+        "one lake"
+      ],
+      "beats": [
+        "The woman reaches the lakeshore alone with one daypack",
+        "She sits and opens her single lunch basket on the ground",
+        "She eats lunch while resting beside the lake"
+      ],
+      "ending": "One woman eats from one open lunch basket beside her single daypack at the lake."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“午餐”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Exactly one woman, one daypack, and one lunch basket. Put the single open basket on the ground in front of her; her hands are empty except for reaching into that same basket. Do not put a basket or container in her hands. Absolutely no second basket, bag, lunchbox, cooler, cup, plate, tray, bowl, or extra container; no other person, face, silhouette, or reflection. Keep only this one traveler resting at the empty lakeshore. No writing, labels, or text."
+  },
+  {
+    "id": "kyc-1600",
+    "word": "expel",
+    "targetSense": "驱逐",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "守卫把闯入者从前门请出去，表现 expel。",
+    "sentence": "The guard will expel the intruder through the front door.",
+    "scene": {
+      "setting": "A quiet building entrance",
+      "actor": "One guard calmly ushers one intruder outside through the open front door",
+      "props": [
+        "one front door",
+        "one guard",
+        "one visitor leaving"
+      ],
+      "beats": [
+        "The visitor remains inside the entrance",
+        "The guard guides him toward the open door",
+        "The visitor steps outside and is expelled"
+      ],
+      "ending": "A guard expels an intruder through the front door without force."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“门”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two adults; the action is calm and nonviolent, with no weapons, insignia, signs, or text."
+  }
+]

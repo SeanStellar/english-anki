@@ -1,0 +1,462 @@
+[
+  {
+    "id": "kyc-1941",
+    "anchor": "states",
+    "anchorMeaning": "州",
+    "relation": "联邦把几个相邻州团结在共同治理之下。",
+    "sentence": "The commonwealth brought several neighboring states together.",
+    "scene": {
+      "setting": "A plain civic hall",
+      "actor": "Two delegates stand together before one simple government hall.",
+      "props": [
+        "two delegates",
+        "one civic hall",
+        "one globe"
+      ],
+      "beats": [
+        "The delegates meet",
+        "They agree to cooperate",
+        "The commonwealth unites their states"
+      ],
+      "ending": "A commonwealth brings neighboring states together."
+    },
+    "artDirection": "Exactly two delegates meeting before a simple civic hall and globe. No flags, emblems, writing, or text."
+  },
+  {
+    "id": "kyc-1942",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "比赛后，我们会向获胜者表示祝贺。",
+    "sentence": "We will congratulate the winner after the race.",
+    "scene": {
+      "setting": "A grassy race finish",
+      "actor": "Two friends congratulate one winner just past the finish line.",
+      "props": [
+        "two friends",
+        "one winner",
+        "one race finish"
+      ],
+      "beats": [
+        "The race ends",
+        "The winner crosses the line",
+        "The friends congratulate the winner"
+      ],
+      "ending": "Friends congratulate the winner after a race."
+    },
+    "artDirection": "Exactly two people celebrating at a plain race finish. No numbers, flags, or text."
+  },
+  {
+    "id": "kyc-1943",
+    "anchor": "field",
+    "anchorMeaning": "田野",
+    "relation": "孩子们在绿地上打板球。",
+    "sentence": "The children played cricket on the green field.",
+    "scene": {
+      "setting": "A sunny green field",
+      "actor": "Two children play cricket with one bat and simple wickets.",
+      "props": [
+        "two children",
+        "one cricket bat",
+        "wickets"
+      ],
+      "beats": [
+        "One child bowls the ball",
+        "The other swings the bat",
+        "They play cricket together"
+      ],
+      "ending": "Two children play cricket on a green field."
+    },
+    "artDirection": "Exactly two children playing cricket with one plain bat and wickets. No numbers, logos, or text."
+  },
+  {
+    "id": "kyc-1944",
+    "anchor": "trail",
+    "anchorMeaning": "小径",
+    "relation": "洪水挡住原路，徒步者只得绕道穿过树林。",
+    "sentence": "The flooded trail forced a diversion through the woods.",
+    "scene": {
+      "setting": "A wooded hiking trail after rain",
+      "actor": "One hiker takes a natural side path around a flooded trail.",
+      "props": [
+        "one hiker",
+        "flooded trail",
+        "wooded side path"
+      ],
+      "beats": [
+        "The hiker reaches floodwater",
+        "The main trail is blocked",
+        "A side path provides a diversion"
+      ],
+      "ending": "A flooded trail leads to a diversion through the woods."
+    },
+    "artDirection": "One hiker following a natural side path around a flooded trail. No arrows, signs, or text."
+  },
+  {
+    "id": "kyc-1945",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "她的手肘碰到了桌沿。",
+    "sentence": "She bumped her elbow against the table.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One woman lightly bumps her elbow against the table edge.",
+      "props": [
+        "one woman",
+        "one elbow",
+        "one table"
+      ],
+      "beats": [
+        "She reaches across the table",
+        "Her elbow bumps the edge",
+        "She rubs it briefly"
+      ],
+      "ending": "One woman bumps her elbow on a table."
+    },
+    "artDirection": "One woman rubbing her elbow beside a plain table. No injury detail or text."
+  },
+  {
+    "id": "kyc-1946",
+    "anchor": "partners",
+    "anchorMeaning": "伙伴",
+    "relation": "公平原则让两位伙伴得到相等的一份。",
+    "sentence": "Equity ensured the partners received equal shares.",
+    "scene": {
+      "setting": "A quiet garden bench",
+      "actor": "Two partners divide a small pile of fruit equally between them.",
+      "props": [
+        "two partners",
+        "fruit",
+        "one plain bench"
+      ],
+      "beats": [
+        "The partners gather the fruit",
+        "They split it evenly",
+        "Equity gives them equal shares"
+      ],
+      "ending": "Equity ensures equal shares for two partners."
+    },
+    "artDirection": "Exactly two people dividing fruit into equal portions. No scales, symbols, or text."
+  },
+  {
+    "id": "kyc-1947",
+    "anchor": "blacksmith",
+    "anchorMeaning": "铁匠",
+    "relation": "铁匠加入了当地工匠协会 guild。",
+    "sentence": "The blacksmith joined a guild of local craftspeople.",
+    "scene": {
+      "setting": "A small workshop",
+      "actor": "Two blacksmiths greet each other beside their workbench as guild members.",
+      "props": [
+        "two blacksmiths",
+        "one workbench",
+        "plain tools"
+      ],
+      "beats": [
+        "The blacksmith finishes a tool",
+        "A fellow craftsperson arrives",
+        "They welcome one another into the guild"
+      ],
+      "ending": "Two blacksmiths meet as members of a guild."
+    },
+    "artDirection": "Exactly two craftspeople in a simple workshop welcoming one another. No badges, emblems, or text."
+  },
+  {
+    "id": "kyc-1948",
+    "anchor": "puzzle",
+    "anchorMeaning": "谜题",
+    "relation": "她的建议对解决谜题起到了关键帮助。",
+    "sentence": "Her advice was instrumental in solving the puzzle.",
+    "scene": {
+      "setting": "A quiet study table",
+      "actor": "One woman offers helpful advice as one friend solves a plain jigsaw puzzle.",
+      "props": [
+        "one woman",
+        "one friend",
+        "one blank jigsaw puzzle"
+      ],
+      "beats": [
+        "The friend studies the puzzle",
+        "The woman points to a useful piece",
+        "Her advice helps solve it"
+      ],
+      "ending": "Her advice is instrumental in solving the puzzle."
+    },
+    "artDirection": "Exactly two friends working together on a plain picture puzzle, no writing or text."
+  },
+  {
+    "id": "kyc-1949",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "relation": "地球仪用没有标注的平行线显示纬度。",
+    "sentence": "The globe showed latitude with unmarked parallel lines.",
+    "scene": {
+      "setting": "A quiet classroom desk",
+      "actor": "One unmarked globe displays several plain parallel latitude lines.",
+      "props": [
+        "one unmarked globe",
+        "parallel lines",
+        "one desk"
+      ],
+      "beats": [
+        "The globe is turned",
+        "Parallel lines circle it",
+        "Latitude is shown without labels"
+      ],
+      "ending": "An unmarked globe shows latitude with parallel lines."
+    },
+    "artDirection": "One simple globe with faint unmarked parallel latitude lines. No letters, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-1950",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃杯",
+    "relation": "酒保把烈酒倒进一个空白玻璃杯里。",
+    "sentence": "The bartender poured liquor into a plain glass.",
+    "scene": {
+      "setting": "A quiet bar counter",
+      "actor": "One bartender pours liquor from an unlabeled bottle into one plain glass.",
+      "props": [
+        "one bartender",
+        "one unlabeled bottle",
+        "one plain glass"
+      ],
+      "beats": [
+        "The bartender lifts the bottle",
+        "Liquor pours into the glass",
+        "The glass rests on the counter"
+      ],
+      "ending": "A bartender pours liquor into a plain glass."
+    },
+    "artDirection": "One bartender pouring from an unlabeled bottle into one plain glass. No logos, labels, or text."
+  },
+  {
+    "id": "kyc-1951",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "作者在印书前仔细检查手稿。",
+    "sentence": "The author reviewed a manuscript before printing the book.",
+    "scene": {
+      "setting": "A calm writing desk",
+      "actor": "One author reviews blank manuscript pages beside a closed book.",
+      "props": [
+        "one author",
+        "blank manuscript pages",
+        "one book"
+      ],
+      "beats": [
+        "The author opens the pages",
+        "The manuscript is reviewed",
+        "The book is prepared for printing"
+      ],
+      "ending": "An author reviews a manuscript before printing a book."
+    },
+    "artDirection": "One author checking completely blank manuscript pages beside a plain book. No handwriting or text."
+  },
+  {
+    "id": "kyc-1952",
+    "anchor": "field",
+    "anchorMeaning": "田地",
+    "relation": "农夫牵引犁具在田里翻土。",
+    "sentence": "The farmer guided a plough through the field.",
+    "scene": {
+      "setting": "A broad farm field",
+      "actor": "One farmer guides a simple plough through soil.",
+      "props": [
+        "one farmer",
+        "one plough",
+        "one field"
+      ],
+      "beats": [
+        "The farmer sets the plough in the soil",
+        "He guides it forward",
+        "The field is turned"
+      ],
+      "ending": "One farmer guides a plough through a field."
+    },
+    "artDirection": "One farmer using a simple plough to turn a field. No labels or text."
+  },
+  {
+    "id": "kyc-1953",
+    "anchor": "wait",
+    "anchorMeaning": "等待",
+    "relation": "焦躁的孩子觉得漫长等待简直像折磨。",
+    "sentence": "The long wait felt like torture to the restless child.",
+    "scene": {
+      "setting": "A quiet station waiting area",
+      "actor": "One restless child sits waiting beside an unnumbered wall clock.",
+      "props": [
+        "one child",
+        "one waiting bench",
+        "one unnumbered clock"
+      ],
+      "beats": [
+        "The child waits quietly",
+        "Time passes slowly",
+        "The long wait feels like torture"
+      ],
+      "ending": "A long wait feels like torture to one restless child."
+    },
+    "artDirection": "One restless child waiting on a bench beneath a plain unnumbered clock. No distress, labels, or text."
+  },
+  {
+    "id": "kyc-1954",
+    "anchor": "gym",
+    "anchorMeaning": "健身房",
+    "relation": "她在健身房完成一场轻快的锻炼。",
+    "sentence": "She completed a brisk workout at the gym.",
+    "scene": {
+      "setting": "A bright simple gym",
+      "actor": "One woman completes a brisk workout with a pair of plain weights.",
+      "props": [
+        "one woman",
+        "plain weights",
+        "one gym mat"
+      ],
+      "beats": [
+        "She warms up",
+        "She exercises with the weights",
+        "She completes the workout"
+      ],
+      "ending": "One woman completes a brisk workout at the gym."
+    },
+    "artDirection": "One woman exercising with plain unmarked weights in a clean gym. No logos, numbers, or text."
+  },
+  {
+    "id": "kyc-1955",
+    "anchor": "spring",
+    "anchorMeaning": "春天",
+    "relation": "春天到来，花园里的花朵开始绽放。",
+    "sentence": "The advent of spring brought blossoms to the garden.",
+    "scene": {
+      "setting": "A garden in early spring",
+      "actor": "New blossoms appear across one small garden as spring arrives.",
+      "props": [
+        "spring blossoms",
+        "one garden",
+        "fresh green leaves"
+      ],
+      "beats": [
+        "The garden rests after winter",
+        "Spring arrives",
+        "Blossoms open"
+      ],
+      "ending": "The advent of spring brings blossoms to the garden."
+    },
+    "artDirection": "A small garden beginning to bloom in spring. No signs, writing, or text."
+  },
+  {
+    "id": "kyc-1956",
+    "anchor": "shop",
+    "anchorMeaning": "商店",
+    "relation": "会计师本周将审计商店账目。",
+    "sentence": "The accountant will audit the shop’s books this week.",
+    "scene": {
+      "setting": "A small shop counter",
+      "actor": "One accountant audits blank ledger books at one shop counter.",
+      "props": [
+        "one accountant",
+        "blank ledger books",
+        "one shop counter"
+      ],
+      "beats": [
+        "The accountant opens the ledgers",
+        "The records are reviewed",
+        "The accountant audits the shop’s books"
+      ],
+      "ending": "An accountant audits a shop’s books."
+    },
+    "artDirection": "One accountant reviewing completely blank ledger pages at a simple counter. No numbers, writing, or text."
+  },
+  {
+    "id": "kyc-1957",
+    "anchor": "campers",
+    "anchorMeaning": "露营者",
+    "relation": "日落后，营地里受控制的火焰为露营者取暖。",
+    "sentence": "A contained blaze warmed the campers after sunset.",
+    "scene": {
+      "setting": "A safe campsite at dusk",
+      "actor": "Two campers sit at a safe stone fire ring warmed by a contained blaze.",
+      "props": [
+        "two campers",
+        "one contained campfire",
+        "one campsite"
+      ],
+      "beats": [
+        "The sun sets",
+        "The fire glows within its stone ring",
+        "The campers warm themselves"
+      ],
+      "ending": "A contained blaze warms two campers after sunset."
+    },
+    "artDirection": "Exactly two campers near one small contained fire ring. No danger, signs, or text."
+  },
+  {
+    "id": "kyc-1958",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "猛烈暴风雨把老树的树枝刮断。",
+    "sentence": "A brutal storm tore branches from the old tree.",
+    "scene": {
+      "setting": "A windy field beneath a dark sky",
+      "actor": "A brutal storm bends one old tree and tears away loose branches.",
+      "props": [
+        "one old tree",
+        "broken branches",
+        "storm clouds"
+      ],
+      "beats": [
+        "The wind grows stronger",
+        "Branches break from the tree",
+        "The storm rages across the field"
+      ],
+      "ending": "A brutal storm tears branches from an old tree."
+    },
+    "artDirection": "One old tree in a strong storm with loose branches falling. No people, injuries, or text."
+  },
+  {
+    "id": "kyc-1959",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "一只小虫爬过窗台，表现 bug。",
+    "sentence": "A bug crawled across the windowsill.",
+    "scene": {
+      "setting": "A sunlit room window",
+      "actor": "One small bug crawls along one windowsill.",
+      "props": [
+        "one small bug",
+        "one windowsill",
+        "sunlit window"
+      ],
+      "beats": [
+        "The bug appears on the sill",
+        "It crawls across the surface",
+        "It reaches the window frame"
+      ],
+      "ending": "One bug crawls across a windowsill."
+    },
+    "artDirection": "One small insect crawling along a plain windowsill. No writing or text."
+  },
+  {
+    "id": "kyc-1960",
+    "anchor": "meadow",
+    "anchorMeaning": "草地",
+    "relation": "公牛平静地站在草地上。",
+    "sentence": "The bull stood calmly in the meadow.",
+    "scene": {
+      "setting": "A quiet green meadow",
+      "actor": "One sturdy bull stands calmly in the middle of one meadow.",
+      "props": [
+        "one bull",
+        "green grass",
+        "open meadow"
+      ],
+      "beats": [
+        "The bull enters the grass",
+        "It stops to graze",
+        "It stands calmly"
+      ],
+      "ending": "One bull stands calmly in a meadow."
+    },
+    "artDirection": "One calm bull standing in an open green meadow. No extra cattle, symbols, or text."
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "word": "six",
+    "anchor": "chicks",
+    "anchorMeaning": "小鸡",
+    "relation": "six 与 chicks 押韵，适合作声音联想；不是词源关系。",
+    "sentence": "Six chicks follow their mother hen across the yard（六只小鸡跟着母鸡穿过院子）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨的农家院子，背景不出现其他鸟类",
+      "actor": "一只母鸡带着恰好六只小鸡；六只小鸡全部清晰可数，不能重叠遮挡",
+      "props": [
+        "一只母鸡",
+        "恰好六只小鸡，排成前后两行，每行三只",
+        "空旷的农家院地面"
+      ],
+      "beats": [
+        "母鸡在院子里慢慢走动",
+        "两行共六只小鸡跟在母鸡身后",
+        "母鸡带恰好六只小鸡走到院子另一侧"
+      ],
+      "ending": "画面中仅有一只母鸡和恰好六只小鸡；小鸡分成两行、每行三只且彼此分开；没有其他鸟或小鸡。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然；chicks 与 six 押韵。画面需按两行各三只核对数量。"
+    },
+    "artDirection": "数量核验优先：必须恰好六只小鸡，分成2行、每行3只；所有小鸡完整可见，不许多画、遮挡或在背景添加鸟。"
+  },
+  {
+    "word": "expensive",
+    "anchor": "wallet",
+    "anchorMeaning": "钱包",
+    "relation": "钱包是购买物品时支付金钱的常见物件；wallet 是表现 expensive（昂贵的）的具体生活锚点。",
+    "sentence": "She opens her wallet before choosing the expensive coat over the simple one（她打开钱包，准备买下昂贵的大衣而不是旁边朴素的那件）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "整洁明亮的服装店，背景衣架素净且没有标签",
+      "actor": "一位顾客比较两件不同做工的大衣，并打开钱包准备付款",
+      "props": [
+        "一件做工精致的大衣",
+        "一件朴素的大衣",
+        "打开的素色钱包，里面没有纸币或硬币"
+      ],
+      "beats": [
+        "顾客拿起精致的大衣查看做工",
+        "她把它与朴素的大衣比较",
+        "她打开钱包并选择精致的大衣"
+      ],
+      "ending": "顾客在两件大衣旁打开一个没有标记的钱包，准备购买做工精致的一件；画面没有钱币、价签或数字。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；钱包是支付物品的具体锚点，精致大衣与朴素大衣形成清楚对比。"
+    },
+    "artDirection": "钱包和衣物无字无标记；不要画硬币、纸币、价签、数字、价格符号或标签。"
+  },
+  {
+    "word": "finally",
+    "anchor": "hourglass",
+    "anchorMeaning": "沙漏",
+    "relation": "沙漏中沙粒落下表示时间流逝；拼图终于完成时，沙漏帮助呈现 finally（终于）。",
+    "sentence": "She finally completes the puzzle just as the hourglass empties（沙漏快漏完时，她终于拼完了拼图）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "傍晚安静的儿童活动室",
+      "actor": "一名女孩正放入拼图的最后一块；只有这一名人物",
+      "props": [
+        "拼图底板",
+        "最后一块拼图",
+        "透明无刻度沙漏，沙粒正在落下"
+      ],
+      "beats": [
+        "女孩发现拼图还留有空位",
+        "她找到最后一块拼图",
+        "她放入拼图块，沙漏中的最后一些沙粒落下"
+      ],
+      "ending": "女孩刚放好最后一块拼图，透明无刻度沙漏中的沙粒即将落尽，呈现等待后终于完成的瞬间。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；沙漏的时间流逝与终于完成的结果形成清晰联想。"
+    },
+    "artDirection": "只画无刻度透明沙漏；不出现时钟、数字、刻度、文字或可读符号。"
+  },
+  {
+    "word": "movement",
+    "anchor": "dance",
+    "anchorMeaning": "舞蹈",
+    "relation": "舞蹈由连续动作组成；dance 是 movement（动作、移动）的熟悉具体活动锚点，不是词根。",
+    "sentence": "Her dance carries her across the stage, every movement flowing into the next（她的舞蹈带着她横过舞台，每个动作都自然衔接）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "暖色灯光照亮的小舞台",
+      "actor": "正在横越舞台的独舞者",
+      "props": [
+        "木舞台",
+        "侧边幕布",
+        "舞鞋"
+      ],
+      "beats": [
+        "舞者从舞台一侧起步",
+        "她旋转并优雅地向前移动",
+        "她在舞台另一侧完成动作"
+      ],
+      "ending": "舞者正在舞台上优雅移动，裙摆随动作轻轻展开"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；舞蹈由连续动作组成，清楚表现 movement。"
+    }
+  },
+  {
+    "word": "variety",
+    "anchor": "mix",
+    "anchorMeaning": "混合；组合",
+    "relation": "不同颜色和种类混在一起形成多样性；mix 是 variety（多样性）的具体视觉锚点，不是同义词。",
+    "sentence": "The florist chooses a colorful mix to offer a wide variety of flowers（花店老板挑选色彩丰富的组合，提供多种鲜花）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光下的家庭花园",
+      "actor": "无人物，突出多种花朵",
+      "props": [
+        "红色花朵",
+        "黄色花朵",
+        "紫色花朵"
+      ],
+      "beats": [
+        "不同颜色的花朵在花坛中盛开",
+        "多种形状与颜色交错排列",
+        "花坛呈现丰富的花卉种类"
+      ],
+      "ending": "花园里有多种不同颜色的花朵，整体丰富多彩"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；混合的颜色和花种让多样性在画面中可见。"
+    }
+  },
+  {
+    "word": "employer",
+    "anchor": "worker",
+    "anchorMeaning": "工人；雇员",
+    "relation": "雇主与工人构成直接的工作关系；worker 是 employer 的语义锚点，不是词根。",
+    "sentence": "The employer hires a worker for the farm（雇主为农场聘请了一名工人）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "农场谷仓外的清晨",
+      "actor": "与新工人交谈的农场雇主和一名工人",
+      "props": [
+        "谷仓门",
+        "一捆干草",
+        "工作手套"
+      ],
+      "beats": [
+        "雇主迎接来到农场的工人",
+        "雇主向工人说明农场工作",
+        "工人戴上手套开始工作"
+      ],
+      "ending": "农场雇主欢迎新工人加入，二人站在谷仓旁"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "句子自然，雇主聘请工人的关系明确；worker 是常见语义锚点。"
+    }
+  },
+  {
+    "word": "literature",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "文学作品以书籍为常见载体；book 是 literature（文学）的具体熟悉锚点。",
+    "sentence": "She studies literature through a book of short stories（她通过一本短篇小说集学习文学）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的校园图书馆",
+      "actor": "正在阅读和做笔记的女学生",
+      "props": [
+        "无字书本",
+        "空白笔记本",
+        "木书桌"
+      ],
+      "beats": [
+        "学生从书架取下一本书",
+        "她认真阅读并思考内容",
+        "她在空白笔记本上记录想法"
+      ],
+      "ending": "学生在图书馆阅读文学作品并整理评论思路，书页没有可辨认文字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；书籍作为文学作品载体，场景关系明确。"
+    }
+  },
+  {
+    "word": "weight",
+    "anchor": "scale",
+    "anchorMeaning": "秤",
+    "relation": "秤用来测量物体重量；scale 是 weight（重量）的直接实物锚点。",
+    "sentence": "She checks her suitcase's weight on an old-fashioned balance scale before her trip（出发旅行前，她用老式天平称行李箱的重量）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "出发旅行前的卧室，背景简洁无字",
+      "actor": "一位女子把行李箱放上老式天平称重；只有这一名人物",
+      "props": [
+        "一个旅行行李箱",
+        "无数字或刻度的老式天平",
+        "一双旅行鞋"
+      ],
+      "beats": [
+        "女子把行李箱放在天平一侧",
+        "天平横梁因重量轻微倾斜",
+        "女子确认行李箱的重量并准备出发"
+      ],
+      "ending": "行李箱放在无刻度天平的一侧，女子查看横梁平衡位置；画面没有数字或文字。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；scale 用天平实物呈现，清楚表达行李箱的 weight。"
+    },
+    "artDirection": "使用无刻度老式天平；不出现数字显示屏、刻度、表盘、数字或文字。"
+  },
+  {
+    "word": "investment",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "太阳提供太阳能板所利用的能量；sun 是太阳能投资场景中的具体熟词锚点。",
+    "sentence": "The family sees solar panels as a long-term investment in energy from the sun（一家人把太阳能板视为利用太阳能的长期投资）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光明媚的家庭屋顶",
+      "actor": "两位家庭成员正在屋顶安装太阳能板；只有这两人",
+      "props": [
+        "一组屋顶太阳能板",
+        "无字安装工具",
+        "明亮的太阳"
+      ],
+      "beats": [
+        "家人检查屋顶的太阳能板",
+        "他们用工具固定太阳能板",
+        "太阳照亮已安装好的板面"
+      ],
+      "ending": "家人完成屋顶太阳能板的安装，明亮的太阳照在板面上，呈现长期能源投入。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；太阳是太阳能板的能量来源，构成具体视觉锚点。"
+    },
+    "artDirection": "不出现钱币、钞票、储蓄罐、货币符号、字母、数字或标签；用太阳和太阳能板表现投资场景。"
+  },
+  {
+    "word": "define",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "老师用苹果作为具体例子解释 fruit 的含义；apple 是熟悉实物，帮助表现 define（给……下定义）。",
+    "sentence": "The teacher points to an apple to define the word fruit for her student（老师指着苹果，向学生解释 fruit 这个词的含义）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁明亮的教室，空白墙面",
+      "actor": "恰好一位老师和一名学生；老师左手拿苹果，右手指向桌上的卡片；学生双手放在自己腿上",
+      "props": [
+        "一只红苹果",
+        "平放在桌面上的空白卡片",
+        "无文字黑板"
+      ],
+      "beats": [
+        "老师单手拿起苹果作为具体例子",
+        "她用另一只手指向桌面空白卡片并解释",
+        "学生听懂后点头"
+      ],
+      "ending": "老师一只手拿苹果、另一只手指向平放桌面的空白卡片；学生双手放在腿上听讲。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；苹果作为具体例子表现 define；场景限定两人、老师两只手和桌面卡片。"
+    },
+    "artDirection": "老师恰好两只手：一只拿苹果，另一只指向卡片；卡片必须平放桌面且无人手持；学生双手放在腿上，不伸手。全图恰好两人。"
+  },
+  {
+    "word": "consumption",
+    "anchor": "fuel",
+    "anchorMeaning": "燃料",
+    "relation": "汽车消耗燃料；fuel 是 consumption（消耗量）所涉及的具体物质锚点。",
+    "sentence": "The car burns little fuel, so its fuel consumption stays low（汽车消耗的燃料很少，因此燃料消耗量保持较低）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "晴天的乡间道路旁",
+      "actor": "驾驶汽车驶过的司机",
+      "props": [
+        "小型汽车",
+        "无数字加油泵和油管",
+        "空旷道路"
+      ],
+      "beats": [
+        "汽车沿道路平稳行驶",
+        "司机在加油站旁短暂停车",
+        "汽车继续前行，油泵没有数字或文字"
+      ],
+      "ending": "小汽车平稳驶过道路，表现节省燃料、消耗较低"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；汽车使用燃料并呈现消耗量，词义准确。"
+    }
+  },
+  {
+    "word": "reality",
+    "anchor": "dream",
+    "anchorMeaning": "梦；梦想",
+    "relation": "醒来后亲眼看到的山峰与梦境相对，dream 是 reality（现实）的语义对照锚点。",
+    "sentence": "She wakes from a dream and sees that the mountain is even more beautiful in reality（她从梦中醒来，发现现实中的山峰更加美丽）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "山间小屋的清晨窗边",
+      "actor": "刚从梦中醒来、望向窗外山峰的女子",
+      "props": [
+        "枕头",
+        "打开的窗户",
+        "无文字的淡淡梦境云朵，里面只有山峰轮廓"
+      ],
+      "beats": [
+        "女子从梦中醒来",
+        "梦中的山峰影像逐渐淡去",
+        "她望向窗外真实的山峰，露出惊喜神情"
+      ],
+      "ending": "女子从梦中醒来望向窗外，淡去的山峰梦影与眼前真实山峰形成对照"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；梦境与醒来后所见的真实山峰形成清楚对照。"
+    }
+  },
+  {
+    "word": "operation",
+    "anchor": "switch",
+    "anchorMeaning": "开关",
+    "relation": "按下开关会启动机器的运作；switch 是 operation（运作、操作）的具体触发物。",
+    "sentence": "The machine's operation begins when the worker flips the switch（工人拨动开关后，机器开始运作）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "干净简洁的小型车间",
+      "actor": "启动机器的工人",
+      "props": [
+        "一台简洁机器",
+        "一个开关",
+        "木工作台"
+      ],
+      "beats": [
+        "工人检查机器是否准备就绪",
+        "他按下开关",
+        "机器开始平稳运转"
+      ],
+      "ending": "工人按下开关后机器开始运行，操作过程清楚可见"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；拨动开关引起机器运作，动作因果清楚。"
+    }
+  },
+  {
+    "word": "industrial",
+    "anchor": "factory",
+    "anchorMeaning": "工厂",
+    "relation": "industrial 描述工厂及工业生产所用的机器；factory 是熟悉的具体场景锚点。",
+    "sentence": "The factory uses industrial machines to shape metal parts（工厂使用工业机器加工金属零件）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮整洁的工厂车间",
+      "actor": "操作机器的两名工人",
+      "props": [
+        "工业机器",
+        "传送带",
+        "待加工的金属零件"
+      ],
+      "beats": [
+        "工人把零件放上传送带",
+        "工业机器开始加工零件",
+        "加工好的零件沿传送带继续前进"
+      ],
+      "ending": "工人和机器在车间里持续生产，呈现工业生产场景"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；工厂与工业机器的关系直接，词性和词义匹配。"
+    }
+  },
+  {
+    "word": "highly",
+    "anchor": "peak",
+    "anchorMeaning": "山峰；顶点",
+    "relation": "从高处山峰可以看到很远；peak 的高度帮助联想到 highly 表示程度很高。",
+    "sentence": "From the mountain peak, the village across the valley is highly visible（从山峰上可以清楚地看到山谷对面的村庄）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "晴朗的山谷远景",
+      "actor": "无人物，突出山峰和山谷",
+      "props": [
+        "高耸山峰",
+        "山谷河流",
+        "晴朗天空"
+      ],
+      "beats": [
+        "山谷与河流出现在前景",
+        "高山从谷地上方拔地而起",
+        "阳光照亮醒目的山峰"
+      ],
+      "ending": "高山清晰地耸立在山谷之上，远处也能看见"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；山峰的高度与 highly 所表达的高程度形成具体联想。"
+    }
+  },
+  {
+    "word": "director",
+    "anchor": "camera",
+    "anchorMeaning": "摄像机",
+    "relation": "电影导演在摄像机前后安排场景并指导演员；camera 是 director（指导者、导演）工作的具体锚点。",
+    "sentence": "The director guides an actor while the camera records the scene（导演指导演员，摄像机同时拍摄场景）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁的室内拍摄现场",
+      "actor": "导演和一名正在听指导的演员",
+      "props": [
+        "摄像机",
+        "无字场记板",
+        "聚光灯"
+      ],
+      "beats": [
+        "导演走到演员身边",
+        "他用手势直接说明表演方向",
+        "演员听从指导准备拍摄"
+      ],
+      "ending": "导演在摄像机旁向一名演员做出直接指导，场记板没有文字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；摄像机和导演共同构成清晰的拍摄现场。"
+    }
+  },
+  {
+    "word": "feeling",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "微笑能表现内心感受；smile 是 feeling（感受）的可见表情锚点，不是同义词。",
+    "sentence": "A calm feeling comes over her as she smiles beside the sea（她在海边微笑时，心中涌起平静的感受）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的海边傍晚",
+      "actor": "独自坐在海边的女子",
+      "props": [
+        "海浪",
+        "沙滩",
+        "折叠毯"
+      ],
+      "beats": [
+        "女子在海边铺好折叠毯",
+        "她坐下聆听海浪",
+        "她平静地望向海面"
+      ],
+      "ending": "女子坐在海边微笑着望向海浪，呈现安宁的感受"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；微笑这一可见表情帮助表现平静的内心感受。"
+    }
+  },
+  {
+    "word": "thirty",
+    "anchor": "ten",
+    "anchorMeaning": "十",
+    "relation": "thirty 等于 three tens，即三个十；ten 是每个托盘中弹珠数量的锚点。",
+    "sentence": "Thirty marbles fill three trays, with ten in each（三十颗弹珠装在三个托盘里，每个托盘十颗）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "Wide horizontal overhead still life on an empty wooden table; three long rectangular ten-frame trays side by side.",
+      "actor": "No people; exactly three wide ten-frame trays, each with exactly ten visible marbles.",
+      "props": [
+        "One wide red ten-frame tray: exactly two horizontal rows and five vertical columns, one red marble in each of its ten cells",
+        "One wide blue ten-frame tray: exactly two horizontal rows and five vertical columns, one blue marble in each of its ten cells",
+        "One wide gold ten-frame tray: exactly two horizontal rows and five vertical columns, one gold marble in each of its ten cells"
+      ],
+      "beats": [
+        "The first long tray has two rows of five red marbles",
+        "The second long tray has two rows of five blue marbles",
+        "The third long tray has two rows of five gold marbles"
+      ],
+      "ending": "Three wide horizontal trays, each exactly two rows high and five columns wide; one marble in each cell; exactly thirty marbles total."
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；three groups of ten 准确构成 thirty。每个横向十格框必须为两行五列，逐格核对总数三十。"
+    },
+    "artDirection": "Use three wide horizontal ten-frame trays. Each tray must have exactly ten cells: exactly five cells across the top row and exactly five across the bottom row. Put one marble in every cell. The tray must be much wider than tall. Exactly thirty marbles total. Do not make a three-by-four grid, do not add a third row, and do not place any extra marbles outside the trays. All cells and marbles fully visible; no writing or numbers."
+  },
+  {
+    "word": "intellectual",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "知识分子通过阅读和思考探索知识；book 是 intellectual（知识分子）的具体学习场景锚点。",
+    "sentence": "The intellectual studies the stars and records her observations in a book（这位知识分子研究星星，并把观察记录在书中）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "宁静的山顶观星点",
+      "actor": "通过望远镜观测星空的学者",
+      "props": [
+        "望远镜",
+        "星空",
+        "摊开的无字笔记本"
+      ],
+      "beats": [
+        "学者在夜空下架好望远镜",
+        "她观察星星的排列",
+        "她在无字星图上记录自己的发现"
+      ],
+      "ending": "学者专注观星并思考星体规律，展现知识与才智"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；观星记录和书本表现知识分子的学习与思考。"
+    }
+  },
+  {
+    "word": "safety",
+    "anchor": "rail",
+    "anchorMeaning": "栏杆；扶手",
+    "relation": "扶手能减少楼梯上跌倒的风险；rail 是 safety（安全）的具体保护设施。",
+    "sentence": "Holding the rail improves safety as the child climbs the stairs（孩子爬楼梯时握住扶手，这样更安全）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮整洁的室内楼梯",
+      "actor": "扶着栏杆上楼的孩子",
+      "props": [
+        "楼梯",
+        "牢固的安全扶手",
+        "孩子的拖鞋"
+      ],
+      "beats": [
+        "孩子走到楼梯底部",
+        "她扶住栏杆逐级上楼",
+        "她安全地到达楼梯平台"
+      ],
+      "ending": "孩子扶着安全扶手稳稳走上楼梯"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；扶手作为保护设施，具体表现安全。"
+    }
+  }
+]

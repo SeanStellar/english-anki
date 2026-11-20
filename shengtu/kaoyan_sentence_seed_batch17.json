@@ -1,0 +1,642 @@
+[
+  {
+    "word": "stable",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "A sturdy table can remain stable even on an uneven floor.",
+    "sentence": "The wooden table remained stable on the uneven floor.（木桌在不平的地面上依然稳固。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room with a visibly uneven stone floor.",
+      "actor": "No people; one sturdy wooden table stands firmly with all legs secure on the uneven floor.",
+      "props": [
+        "one sturdy wooden table",
+        "one plain ceramic cup standing upright on the table",
+        "one uneven stone floor"
+      ],
+      "beats": [
+        "The table is placed on the uneven floor.",
+        "Its legs stay firmly planted without wobbling.",
+        "The ceramic cup remains upright on the stable tabletop."
+      ],
+      "ending": "The table and cup remain steady on the uneven floor."
+    },
+    "artDirection": "No people, text, labels, or logos. Keep the table legs natural and firmly on the floor; no tilted cup.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、易读，stable 与 table 均清楚出现，桌面稳固的场景对应目标义。"
+    }
+  },
+  {
+    "word": "modify",
+    "anchor": "jacket",
+    "anchorMeaning": "夹克",
+    "relation": "A tailor can modify a jacket by shortening its sleeves.",
+    "sentence": "She will modify the jacket by shortening its sleeves.（她会通过缩短袖子来修改这件夹克。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright, tidy tailor's workroom.",
+      "actor": "One adult tailor carefully shortens the sleeves of a plain jacket; only one person.",
+      "props": [
+        "one plain jacket on a simple worktable",
+        "one pair of sewing scissors",
+        "one plain spool of sewing thread"
+      ],
+      "beats": [
+        "The tailor checks the jacket sleeves.",
+        "She carefully shortens the sleeves with the scissors.",
+        "The modified jacket rests neatly on the worktable."
+      ],
+      "ending": "The tailor has modified the jacket by adjusting its sleeves."
+    },
+    "artDirection": "One adult with natural hands. Scissors are used safely. Do not show measuring tapes, rulers, marked tools, letters, numbers, labels, writing, or logos; jacket is plain.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句式简洁自然，modify 和 jacket 原词出现，缩短袖子的动作表达修改含义。"
+    }
+  },
+  {
+    "word": "reluctant",
+    "anchor": "stage",
+    "anchorMeaning": "舞台",
+    "relation": "A reluctant child may hesitate before stepping onto a stage.",
+    "sentence": "The reluctant child paused before stepping onto the stage.（不情愿的孩子在走上舞台前停了下来。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small community stage with warm curtains and low steps.",
+      "actor": "One child hesitates at the foot of the stage before stepping up; only one person.",
+      "props": [
+        "one low stage with two safe steps",
+        "one plain closed curtain",
+        "one unmarked microphone stand"
+      ],
+      "beats": [
+        "The child approaches the stage.",
+        "The child pauses and looks unsure.",
+        "The child slowly prepares to step onto the stage."
+      ],
+      "ending": "The child's hesitant posture shows reluctance about going on stage."
+    },
+    "artDirection": "One child with natural limbs. No audience, signs, text, or logos; keep the stage safe and welcoming.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子通顺易懂，reluctant 与 stage 清楚出现，停顿动作表现犹豫、不情愿。"
+    }
+  },
+  {
+    "word": "adequate",
+    "anchor": "tank",
+    "anchorMeaning": "水箱",
+    "relation": "A tank with enough water can provide an adequate supply for a garden.",
+    "sentence": "The tank held an adequate supply of water for the garden.（水箱里存有足够供花园使用的水。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden with a small vegetable bed.",
+      "actor": "No people; a full water tank and a filled watering can show enough water for the garden.",
+      "props": [
+        "one large plain water tank with a visible high water level",
+        "one filled watering can",
+        "one small garden bed"
+      ],
+      "beats": [
+        "The tank contains plenty of water.",
+        "The watering can is filled from the tank.",
+        "The garden has an adequate water supply."
+      ],
+      "ending": "The full tank and watering can provide adequate water for the garden."
+    },
+    "artDirection": "No people, gauges, numbers, labels, writing, or logos. Show a clear but unmarked water level.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：adequate supply 搭配自然，句子易读，tank 锚点在句中，画面对应充足。"
+    }
+  },
+  {
+    "word": "mystery",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "An old key can become a clue to a mystery.",
+    "sentence": "The old key became a clue to the mystery.（这把旧钥匙成了解开谜团的一条线索。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A softly lit attic with a quiet storybook atmosphere.",
+      "actor": "One curious child discovers an old key beside a locked wooden chest; only one person.",
+      "props": [
+        "one old brass key",
+        "one locked plain wooden chest",
+        "one small flashlight"
+      ],
+      "beats": [
+        "The child notices the old key near the chest.",
+        "The child studies the key and the locked chest.",
+        "The key becomes a clue to the mystery."
+      ],
+      "ending": "The old key beside the locked chest suggests an intriguing mystery."
+    },
+    "artDirection": "One child with normal limbs. No frightening elements, writing, labels, or logos; chest remains plain.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、简短，mystery 与 key 锚点都出现，钥匙作为线索的关系明确。"
+    }
+  },
+  {
+    "word": "literacy",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "A picture book can help children develop early literacy.",
+    "sentence": "A picture book helped the children practice early literacy.（一本图画书帮助孩子们练习早期读写能力。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm, quiet reading corner in a classroom.",
+      "actor": "Exactly two children look through a simple picture book together.",
+      "props": [
+        "one open picture book with illustrations but no words",
+        "two plain floor cushions",
+        "one low bookshelf with blank book spines"
+      ],
+      "beats": [
+        "The children open the picture book together.",
+        "They point to the simple pictures and tell what they see.",
+        "The shared reading practice builds early literacy."
+      ],
+      "ending": "Two children practice early literacy with a picture book."
+    },
+    "artDirection": "Exactly two children with natural hands. No letters or words on the book or shelf; no signs, labels, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：literacy 用于早期读写能力恰当，句子自然易读，picture book 锚点清楚。"
+    }
+  },
+  {
+    "word": "slave",
+    "anchor": "chain",
+    "anchorMeaning": "铁链",
+    "relation": "A broken chain in a museum can recall the struggle of a slave for freedom.",
+    "sentence": "The museum displayed a broken chain once worn by a slave who later won freedom.（博物馆展出一条曾由后来获得自由的奴隶戴过的断链。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet history museum gallery with a plain, respectful display area.",
+      "actor": "One adult visitor stands thoughtfully before a historical artifact; only one person.",
+      "props": [
+        "one broken iron chain resting loose and open",
+        "one plain museum display pedestal",
+        "one empty wooden bench"
+      ],
+      "beats": [
+        "The visitor approaches the historical display.",
+        "The visitor looks carefully at the broken chain.",
+        "The artifact recalls a slave's struggle and later freedom."
+      ],
+      "ending": "The broken chain is presented as a respectful reminder of a slave who gained freedom."
+    },
+    "artDirection": "Treat the history respectfully. Show no person in bondage, violence, injury, caricature, labels, writing, or logos; the chain lies broken and unattached on the pedestal.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法清楚，slave 与 chain 均出现；历史语境尊重克制，不把受奴役者描绘成奇观。"
+    }
+  },
+  {
+    "word": "privilege",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "Borrowing a book from a library can be a privilege someone values.",
+    "sentence": "He valued the privilege of borrowing a book from the library.（他珍惜从图书馆借书的权利。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful public library reading area.",
+      "actor": "One student carefully borrows a plain book from a library shelf; only one person.",
+      "props": [
+        "one plain book with a blank cover",
+        "one bookshelf with blank spines",
+        "one simple library table"
+      ],
+      "beats": [
+        "The student selects a book from the shelf.",
+        "He holds the book with appreciation.",
+        "He takes the borrowed book to the reading table."
+      ],
+      "ending": "The student values the privilege of borrowing a library book."
+    },
+    "artDirection": "One student with natural hands. All book covers and spines are blank; no cards, labels, signs, writing, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子搭配自然，privilege 与 book 明确出现，借书权利的含义清楚。"
+    }
+  },
+  {
+    "word": "counterpart",
+    "anchor": "bench",
+    "anchorMeaning": "长凳",
+    "relation": "One glove's matching counterpart may lie beside it on a bench.",
+    "sentence": "One glove lay beside its counterpart on the bench.（一只手套的另一只配对手套放在长凳上。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet entryway with a simple wooden bench.",
+      "actor": "No people; two matching gloves rest side by side on the bench.",
+      "props": [
+        "one plain red left glove",
+        "one matching plain red right glove",
+        "one wooden bench"
+      ],
+      "beats": [
+        "One red glove lies on the bench.",
+        "Its matching counterpart is placed beside it.",
+        "The pair rests together on the bench."
+      ],
+      "ending": "The two matching gloves clearly show that one is the other's counterpart."
+    },
+    "artDirection": "Exactly two gloves and one bench. No hands, labels, writing, or logos; glove shapes and left-right pairing are natural.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：counterpart 表示相对应的另一只，句子简洁自然，bench 锚点清楚。"
+    }
+  },
+  {
+    "word": "accelerate",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "A cyclist can pedal hard to accelerate up a hill.",
+    "sentence": "She pedaled her bicycle hard to accelerate up the gentle hill.（她用力蹬自行车，加速骑上缓坡。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A gentle country hill on a clear day.",
+      "actor": "One cyclist pedals a bicycle uphill with a focused but relaxed expression; only one person.",
+      "props": [
+        "one plain bicycle with two wheels",
+        "one smooth gentle hill road",
+        "one simple safety helmet worn by the cyclist"
+      ],
+      "beats": [
+        "The cyclist begins moving up the hill.",
+        "She pedals harder on the bicycle.",
+        "The bicycle accelerates along the gentle slope."
+      ],
+      "ending": "The cyclist pedals her bicycle to accelerate uphill."
+    },
+    "artDirection": "One cyclist with natural limbs and a helmet. No signs, text, numbers, or logos; safe gentle slope.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：accelerate 和 bicycle 均原词出现，句子自然，骑行加速的动作直观。"
+    }
+  },
+  {
+    "word": "profitable",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "Selling more bread each day can make a small bakery profitable.",
+    "sentence": "The bakery became profitable by selling more bread each day.（这家面包店每天卖出更多面包后开始盈利。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet small bakery interior with a completely blank wall and a plain wooden counter.",
+      "actor": "One baker arranges fresh bread beside a small coin purse; only one person and no customers.",
+      "props": [
+        "one basket of plain bread loaves",
+        "one small open coin purse with a few coins",
+        "one plain wooden bakery counter"
+      ],
+      "beats": [
+        "The baker arranges fresh bread for sale.",
+        "More bread is sold each day.",
+        "Coins collect in the purse as the bakery earns a profit."
+      ],
+      "ending": "The bread sales make the small bakery profitable."
+    },
+    "artDirection": "Only one baker; no customers or people in the background. Plain blank walls and counter; no storefront, signs, menus, price tags, labels, writing, Chinese characters, or logos. Coins have no markings.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：The bakery became profitable by selling more bread each day. 语法自然易读，profitable 与 bread 均出现，销售与盈利的关系清楚。"
+    }
+  },
+  {
+    "word": "breed",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "relation": "Farmers breed sheep to raise healthy lambs.",
+    "sentence": "Farmers breed sheep to raise healthy lambs.（农场主繁殖绵羊以培育健康的小羊。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm fenced pasture on a small farm.",
+      "actor": "One farmer watches over one adult ewe and one healthy lamb; one person and two sheep total.",
+      "props": [
+        "one adult woolly ewe",
+        "one small healthy lamb beside the ewe",
+        "one plain fenced pasture"
+      ],
+      "beats": [
+        "The ewe stands calmly in the pasture.",
+        "A healthy lamb stays close beside her.",
+        "The farmer cares for the sheep and lamb as part of responsible breeding."
+      ],
+      "ending": "The farmer raises sheep to produce healthy lambs."
+    },
+    "artDirection": "One farmer and exactly two sheep: one adult and one lamb. Natural animal anatomy, calm safe scene, no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：breed 用法自然，句子表达繁殖绵羊以培育小羊，sheep 锚点清楚。"
+    }
+  },
+  {
+    "word": "painting",
+    "anchor": "brush",
+    "anchorMeaning": "画笔",
+    "relation": "An artist can finish a painting with one final brushstroke.",
+    "sentence": "She finished the painting with one final stroke of her brush.（她用画笔最后一笔完成了这幅画。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A softly lit artist's studio.",
+      "actor": "One woman artist adds the final brushstroke to a landscape painting; only one person.",
+      "props": [
+        "one landscape painting on a blank canvas",
+        "one plain paintbrush",
+        "one simple paint palette"
+      ],
+      "beats": [
+        "The artist studies the nearly finished painting.",
+        "She adds one careful final stroke with her brush.",
+        "She steps back from the completed painting."
+      ],
+      "ending": "One final brushstroke completes the painting."
+    },
+    "artDirection": "One adult with natural hands. No letters, signatures, labels, or logos on the painting or tools.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：painting 与 brush 原词均出现，句子流畅，最后一笔完成画作的关系明确。"
+    }
+  },
+  {
+    "word": "segment",
+    "anchor": "orange",
+    "anchorMeaning": "橙子",
+    "relation": "An orange segment is one distinct section of the whole fruit.",
+    "sentence": "One orange segment lay beside the fruit on a plate.（一个橙瓣放在盘子里，旁边是橙子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean kitchen table in daylight.",
+      "actor": "No people; one intact whole orange sits beside exactly one detached orange segment on a plate.",
+      "props": [
+        "one intact whole unpeeled orange",
+        "exactly one separate orange segment",
+        "one plain small plate"
+      ],
+      "beats": [
+        "The whole orange rests beside the plate.",
+        "One segment is separated from the orange.",
+        "The single orange segment lies on the plate beside the fruit."
+      ],
+      "ending": "One orange segment lies clearly apart from the whole orange."
+    },
+    "artDirection": "No people. Show exactly one whole orange and exactly one detached orange segment on one plate; no other wedges, slices, or citrus fruit. No writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：One orange segment lay beside the fruit on a plate. 语法自然易读，segment 与 orange 均清楚出现，部分与整体关系明确。"
+    }
+  },
+  {
+    "word": "dam",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "A dam can hold back a river after heavy rain.",
+    "sentence": "The dam held back the river after heavy rain.（大雨过后，水坝拦住了河水。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad river crossing a green valley after rain.",
+      "actor": "No people; a strong dam holds back high river water in a safe landscape.",
+      "props": [
+        "one solid concrete dam across the river",
+        "one broad river with water held behind the dam",
+        "one rain-darkened valley"
+      ],
+      "beats": [
+        "Heavy rain raises the river level.",
+        "The dam holds the water behind its wall.",
+        "The river continues safely beyond the dam."
+      ],
+      "ending": "The dam holds back the river after heavy rain."
+    },
+    "artDirection": "No people, signs, numbers, writing, or logos. Show a sound structure and calm water; no flooding or damage.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：dam 与 river 均清楚出现，句子自然，水坝拦水的关系明确。"
+    }
+  },
+  {
+    "word": "infrastructure",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "A new bridge can become an important part of a town's infrastructure.",
+    "sentence": "The new bridge became an important part of the town's infrastructure.（这座新桥成了城镇基础设施的重要组成部分。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A growing town beside a clear river.",
+      "actor": "No people; a new bridge connects the town's homes and roads across the river.",
+      "props": [
+        "one sturdy new bridge",
+        "one town road leading across the bridge",
+        "several plain homes and buildings"
+      ],
+      "beats": [
+        "The town road approaches the river.",
+        "The new bridge connects both sides.",
+        "The bridge joins the town's essential infrastructure."
+      ],
+      "ending": "The new bridge clearly serves the town as important infrastructure."
+    },
+    "artDirection": "No signs, labels, writing, or logos on buildings or bridge. Full-frame town landscape, no split panels.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：infrastructure 用法正确自然，bridge 锚点直接出现，句意简洁清楚。"
+    }
+  },
+  {
+    "word": "assist",
+    "anchor": "ladder",
+    "anchorMeaning": "梯子",
+    "relation": "A neighbor can use a ladder to assist a painter safely.",
+    "sentence": "A neighbor used a ladder to assist the painter.（邻居用梯子帮忙协助油漆工。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A house exterior on a calm sunny day.",
+      "actor": "Exactly two adults: one painter on a low stable ladder and one neighbor safely steadies it.",
+      "props": [
+        "one sturdy low ladder",
+        "one plain paintbrush",
+        "one small open paint pot"
+      ],
+      "beats": [
+        "The painter stands on a low step of the stable ladder.",
+        "The neighbor holds the ladder securely.",
+        "The neighbor assists while the painter works carefully."
+      ],
+      "ending": "The neighbor uses the ladder to assist the painter safely."
+    },
+    "artDirection": "Exactly two adults with natural limbs. Safe low ladder with neighbor holding it; no writing, signs, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：assist 与 ladder 在句中出现，表达自然，帮助油漆工的场景明确且安全。"
+    }
+  },
+  {
+    "word": "electric",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "An electric lamp can light a reading corner.",
+    "sentence": "An electric lamp lit the quiet reading corner.（一盏电灯照亮了安静的阅读角。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy reading corner at dusk.",
+      "actor": "No people; a plugged-in electric desk lamp lights a quiet corner.",
+      "props": [
+        "one plain electric desk lamp with a visible cord and plug",
+        "one open book with blank pages",
+        "one simple reading chair"
+      ],
+      "beats": [
+        "The room grows dim at dusk.",
+        "The electric lamp is switched on.",
+        "Warm light falls across the open book and chair."
+      ],
+      "ending": "The electric lamp lights the quiet reading corner."
+    },
+    "artDirection": "No people, electrical labels, writing, numbers, or logos. Keep the book pages blank and lamp cord naturally connected.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：electric lamp 搭配自然，句子简洁，lamp 锚点明确。"
+    }
+  },
+  {
+    "word": "injury",
+    "anchor": "bandage",
+    "anchorMeaning": "绷带",
+    "relation": "A clean bandage can cover a runner's minor injury.",
+    "sentence": "A clean bandage covered the runner's injury.（干净的绷带包住了跑者的伤处。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet park rest area beside a running path.",
+      "actor": "One runner sits on a bench with a clean bandage covering a small knee scrape; only one person.",
+      "props": [
+        "one clean plain bandage around the runner's knee",
+        "one pair of running shoes",
+        "one wooden park bench"
+      ],
+      "beats": [
+        "The runner rests after a minor scrape.",
+        "A clean bandage covers the small injury.",
+        "The runner sits comfortably and safely on the bench."
+      ],
+      "ending": "The clean bandage clearly covers the runner's injury."
+    },
+    "artDirection": "One adult with natural limbs. No blood, distress, text, labels, or logos; keep the injury minor and safely covered.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：injury 和 bandage 均出现，句子自然易读，轻微伤处被包扎的关系明确。"
+    }
+  },
+  {
+    "word": "trait",
+    "anchor": "gardener",
+    "anchorMeaning": "园丁",
+    "relation": "Patience can be an important trait for a gardener tending young plants.",
+    "sentence": "Patience is an important trait for a careful gardener.（耐心是细心园丁的一项重要品质。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful small garden in soft morning light.",
+      "actor": "One gardener patiently tends a row of young seedlings; only one person.",
+      "props": [
+        "one plain watering can",
+        "one row of young seedlings",
+        "one small garden bed"
+      ],
+      "beats": [
+        "The gardener slowly waters each seedling.",
+        "The gardener pauses to check the young plants.",
+        "The careful, patient manner shows an important personal trait."
+      ],
+      "ending": "The gardener's patient care illustrates patience as a trait."
+    },
+    "artDirection": "One gardener with natural limbs. No signs, writing, labels, or logos; calm garden scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：trait 与 gardener 锚点清楚出现，句子自然简短，品质含义表达明确。"
+    }
+  }
+]

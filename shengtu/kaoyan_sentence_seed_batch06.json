@@ -1,0 +1,626 @@
+[
+  {
+    "word": "tourist",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "旅行者用地图探索陌生地方；map 是 tourist（旅行者）的具体熟悉物件锚点。",
+    "sentence": "The tourist unfolds a map before exploring the old town（游客展开地图，准备探索古城）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光下的古城石街",
+      "actor": "一名背着小背包、手持地图的游客；只有这一名人物",
+      "props": [
+        "展开的无字城市地图",
+        "小型相机",
+        "古城石拱桥"
+      ],
+      "beats": [
+        "游客停在石街查看地图",
+        "她找到地图上的路线并收起地图",
+        "她朝石拱桥方向继续探索"
+      ],
+      "ending": "游客手持无字地图站在古城拱桥前，准备继续游览。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然；地图是游客探索古城时使用的具体锚点。"
+    }
+  },
+  {
+    "word": "freedom",
+    "anchor": "bird",
+    "anchorMeaning": "鸟",
+    "relation": "鸟飞出笼子、不再受困，具体表现 freedom（自由）；bird 是熟悉的具体生命锚点。",
+    "sentence": "The bird flies out of its open cage and enjoys its freedom（小鸟飞出敞开的鸟笼，享受自由）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮的花园空地",
+      "actor": "一只小鸟正飞出敞开的鸟笼；没有其他动物或人物",
+      "props": [
+        "敞开的鸟笼",
+        "一只飞翔的小鸟",
+        "开阔的蓝天"
+      ],
+      "beats": [
+        "笼门打开",
+        "小鸟飞出笼子",
+        "小鸟在开阔天空中自由飞翔"
+      ],
+      "ending": "小鸟从敞开的笼门飞向开阔天空，清楚表现脱离束缚。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；鸟飞出笼子是自由的直观场景。"
+    }
+  },
+  {
+    "word": "commercial",
+    "anchor": "shop",
+    "anchorMeaning": "商店",
+    "relation": "商业活动围绕买卖商品展开；shop 是 commercial（商业的）常见具体场景锚点。",
+    "sentence": "The commercial bakery sends fresh bread to a local shop every morning（这家商业面包房每天早晨把新鲜面包送到当地商店）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet plain indoor market corner with a completely blank cream wall and no visible storefront.",
+      "actor": "One baker and one shopkeeper exchange a loaf across a simple wooden counter; only these two people.",
+      "props": [
+        "one fresh loaf of bread",
+        "one plain wooden counter",
+        "one small unmarked brass coin"
+      ],
+      "beats": [
+        "The baker places the loaf on the counter.",
+        "The shopkeeper offers one plain coin in exchange.",
+        "The baker and shopkeeper complete the bread sale."
+      ],
+      "ending": "The two people exchange one loaf for one completely blank coin at a bare counter."
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；商店和面包交易构成 commercial 的真实商业场景。"
+    },
+    "artDirection": "Do not depict any bakery, shopfront, awning, sign, window display, shelf, chalkboard, packaging, or readable surface. Use a bare cream wall and plain counter only. The coin must be a completely smooth blank disc with no marks. Absolutely no text, letters, numbers, logos, symbols, labels, or glyph-like shapes anywhere."
+  },
+  {
+    "word": "peer",
+    "anchor": "keyhole",
+    "anchorMeaning": "锁孔",
+    "relation": "peer 作动词表示凑近仔细看；keyhole 是通过狭小开口窥看的具体视觉锚点。",
+    "sentence": "She must peer through the keyhole to see who is outside（她必须从锁孔往外仔细看，才能知道外面是谁）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的室内走廊",
+      "actor": "一名女孩凑近门上的锁孔向外窥看；只有这一名人物",
+      "props": [
+        "带清晰锁孔的木门",
+        "一把放在桌上的钥匙",
+        "门边的地垫"
+      ],
+      "beats": [
+        "女孩走到木门旁",
+        "她凑近锁孔向外仔细看",
+        "她听见门外动静后停下来"
+      ],
+      "ending": "女孩一只眼睛凑近锁孔，专注地向门外窥看。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；peer 的凝视义由透过锁孔仔细看清楚表现。"
+    }
+  },
+  {
+    "word": "limited",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "水瓶里只剩少量水，表示可用资源有限；water 是 limited（有限的）所涉及的具体资源。",
+    "sentence": "With only a little water left in her bottle, the hiker has limited supplies（徒步者的水瓶里只剩一点水，可用补给有限）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet rocky mountain trail.",
+      "actor": "One lone hiker checks exactly one transparent water bottle that is almost empty.",
+      "props": [
+        "one almost-empty transparent water bottle",
+        "one hiking backpack",
+        "the rocky mountain trail"
+      ],
+      "beats": [
+        "The hiker opens the backpack.",
+        "She sees only a little water at the bottom of her single bottle.",
+        "She closes the backpack and continues along the trail with limited supplies."
+      ],
+      "ending": "The hiker holds one nearly empty water bottle beside her backpack on the trail."
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；瓶中水量很少直接表现 limited supplies。"
+    },
+    "artDirection": "There must be exactly one water bottle in the entire image, clearly visible with only a small amount of water. Do not show any second bottle, canteen, cup, flask, jug, or other container. No duplicate bottle shapes in the backpack."
+  },
+  {
+    "word": "twenty",
+    "anchor": "ten",
+    "anchorMeaning": "十",
+    "relation": "twenty 等于 two tens，即两个十；ten 是组成二十的熟悉数值锚点。",
+    "sentence": "Twenty marbles fill two trays, with ten in each（二十颗弹珠装满两个托盘，每盘十颗）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean wooden tabletop viewed from a slightly elevated angle.",
+      "actor": "No person; only two trays, their marbles, and the table.",
+      "props": [
+        "one wide ten-frame tray with exactly two rows and five columns, holding ten marbles",
+        "a second identical wide ten-frame tray with exactly two rows and five columns, holding ten marbles",
+        "a plain wooden tabletop"
+      ],
+      "beats": [
+        "The first tray is filled with ten marbles in a two-by-five grid.",
+        "The second tray is filled with ten marbles in the same grid.",
+        "Both trays sit side by side, showing twenty marbles total."
+      ],
+      "ending": "Exactly two fully visible two-row-by-five-column trays sit side by side, with one marble in every cell: exactly twenty marbles total."
+    },
+    "artDirection": "Countable geometry is critical: exactly two wide ten-frame trays; each tray has exactly five columns across and exactly two rows; one marble centered in every cell. That is ten marbles per tray and twenty total. Do not make a four-by-two grid. No loose marbles, no extra rows or columns, no hidden cells, no numbers or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；两个托盘各十颗准确构成 twenty。画面需逐格核验总数二十。"
+    }
+  },
+  {
+    "word": "associate",
+    "anchor": "rose",
+    "anchorMeaning": "玫瑰",
+    "relation": "associate 表示在心里把事物联系起来；红玫瑰能唤起她对外婆花园的记忆。",
+    "sentence": "She can associate a red rose with her grandmother's garden（她能把红玫瑰和外婆的花园联系起来）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖安静的家中桌边",
+      "actor": "一名女子拿着红玫瑰，望向一张花园照片；只有这一名人物",
+      "props": [
+        "一枝红玫瑰",
+        "一张无字花园照片",
+        "透明玻璃花瓶"
+      ],
+      "beats": [
+        "女子看到桌上的红玫瑰",
+        "她望向照片中的外婆花园",
+        "她把玫瑰插进花瓶并露出怀念的微笑"
+      ],
+      "ending": "女子把红玫瑰插在花园照片旁，表现花与记忆之间的联想。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；红玫瑰与外婆花园形成具体的记忆联想。"
+    }
+  },
+  {
+    "word": "creative",
+    "anchor": "paint",
+    "anchorMeaning": "颜料；绘画",
+    "relation": "绘画和颜料是创造新作品的常见方式；paint 是 creative（有创造力的）的具体活动锚点。",
+    "sentence": "The creative child uses paint to make a bright mural（有创造力的孩子用颜料画出一幅明亮的壁画）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮的儿童美术室",
+      "actor": "一名孩子正专注地创作壁画；只有这一名人物",
+      "props": [
+        "无字颜料盘",
+        "一支宽画笔",
+        "一张空白画布"
+      ],
+      "beats": [
+        "孩子挑选几种颜料",
+        "她用画笔在画布上创作图案",
+        "画布上出现色彩丰富的新画面"
+      ],
+      "ending": "孩子手握画笔，在画布上完成一幅鲜艳的原创图案。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；颜料和原创画作清楚体现 creative。"
+    }
+  },
+  {
+    "word": "derive",
+    "anchor": "orange",
+    "anchorMeaning": "橙子",
+    "relation": "果汁可以从橙子中榨取出来；orange 是 derive（从……取得）的具体来源锚点。",
+    "sentence": "She can derive fresh juice from an orange using a hand press（她用手动压汁器从橙子中榨出新鲜果汁）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光明亮的家庭厨房",
+      "actor": "一名女子使用手动压汁器；只有这一名人物",
+      "props": [
+        "一个切开的橙子",
+        "手动压汁器",
+        "一杯鲜橙汁"
+      ],
+      "beats": [
+        "女子把橙子放进压汁器",
+        "她向下按压把手",
+        "鲜橙汁流进玻璃杯"
+      ],
+      "ending": "女子用手动压汁器从橙子中榨出果汁，杯中已有鲜汁。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；果汁从橙子中取得，准确表现 derive 的来源义。"
+    }
+  },
+  {
+    "word": "china",
+    "anchor": "tea",
+    "anchorMeaning": "茶",
+    "relation": "china 指细致的瓷器；tea 是常用瓷杯的熟悉饮品锚点。",
+    "sentence": "She pours tea into a delicate china cup（她把茶倒进一只精致的瓷杯里）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的茶桌旁",
+      "actor": "一名女子正把茶倒入瓷杯；只有这一名人物",
+      "props": [
+        "一把茶壶",
+        "一只白色瓷杯",
+        "一个配套瓷碟"
+      ],
+      "beats": [
+        "女子拿起茶壶",
+        "她把茶倒入瓷杯",
+        "她把茶壶放回茶碟旁"
+      ],
+      "ending": "茶水正流进精致瓷杯，茶壶和瓷碟摆在桌上。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；茶与瓷杯是常见搭配，china 的瓷器义项清楚。"
+    }
+  },
+  {
+    "word": "agency",
+    "anchor": "trip",
+    "anchorMeaning": "旅行；行程",
+    "relation": "旅行社为顾客安排 trip；trip 是 agency（代理机构）业务的具体熟悉锚点。",
+    "sentence": "A travel agency plans a trip for the family（一家旅行社为这个家庭安排一次旅行）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "没有招牌和文字的旅行服务柜台",
+      "actor": "一名旅行顾问与一名家庭顾客；仅这两人",
+      "props": [
+        "摊开的无字地图",
+        "小型旅行箱",
+        "木制服务柜台"
+      ],
+      "beats": [
+        "顾客把旅行箱放在柜台旁",
+        "旅行顾问查看地图安排路线",
+        "顾问把地图递给顾客确认行程"
+      ],
+      "ending": "旅行顾问和顾客在柜台边查看地图，旁边放着旅行箱。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；旅行机构安排 trip，场景关系明确且无文字。"
+    }
+  },
+  {
+    "word": "unemployment",
+    "anchor": "job",
+    "anchorMeaning": "工作；职位",
+    "relation": "失去 job 会导致没有工作；job 是 unemployment（失业）的熟悉对照锚点。",
+    "sentence": "After losing his job, he struggles with unemployment（失去工作后，他正艰难面对失业）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的工厂大门外",
+      "actor": "一名失去工作的工人站在关闭的大门旁；只有这一名人物",
+      "props": [
+        "关闭的工厂大门",
+        "一顶安全帽",
+        "放在地上的空工具箱"
+      ],
+      "beats": [
+        "工人来到关闭的工厂门外",
+        "他看着手中的安全帽和空工具箱",
+        "他低头站在门边，显出担忧"
+      ],
+      "ending": "工人独自站在关闭的大门外，安全帽和空工具箱放在脚边。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；失去工作和无业状态形成清楚关系，目标义准确。"
+    }
+  },
+  {
+    "word": "possibility",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "钥匙让打开旧箱子成为可能；key 是 possibility（可能性）的具体触发物。",
+    "sentence": "A small key creates the possibility of opening the old chest（一把小钥匙带来了打开旧箱子的可能）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的阁楼木地板上",
+      "actor": "一名女子正把小钥匙插入旧箱子的锁孔；只有这一名人物",
+      "props": [
+        "一把小铜钥匙",
+        "一个上锁的旧木箱",
+        "旧木箱上的锁孔"
+      ],
+      "beats": [
+        "女子发现旧木箱",
+        "她找到小铜钥匙并靠近锁孔",
+        "她把钥匙插入锁中，准备打开箱子"
+      ],
+      "ending": "小铜钥匙刚好插入旧箱子的锁孔，箱盖仍关闭，开启它成为可能。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；钥匙使打开箱子成为可能，具体表现 possibility。"
+    }
+  },
+  {
+    "word": "application",
+    "anchor": "pen",
+    "anchorMeaning": "笔",
+    "relation": "申请表通常需要用笔填写；pen 是 application（申请）的熟悉实物锚点。",
+    "sentence": "She uses a pen to complete her application for a library card（她用笔填写图书证申请表）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet library desk with a simple uncluttered background.",
+      "actor": "One woman applicant writing on a blank form with a pen; only one person.",
+      "props": [
+        "one plain pen",
+        "one application sheet with only faint empty lines and empty boxes",
+        "one completely blank unmarked library card"
+      ],
+      "beats": [
+        "The woman lays the blank form on the desk.",
+        "She fills in the form with the pen.",
+        "She places the blank library card beside the form."
+      ],
+      "ending": "The woman fills in a simple application sheet with a pen beside a completely plain library card."
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；笔和申请表对应 application 的申请义项，画面无文字。"
+    },
+    "artDirection": "The library card must be a completely blank flat rectangle with no stripe, emblem, leaf, icon, logo, decorative mark, or text. The form may show only a few faint empty lines and empty boxes, with no marks inside. No letters, words, digits, symbols, signatures, stamps, or handwriting anywhere in the image."
+  },
+  {
+    "word": "participant",
+    "anchor": "race",
+    "anchorMeaning": "比赛；赛跑",
+    "relation": "participant 是参加 race 的人；race 是 participant（参与者）所参加活动的熟悉锚点。",
+    "sentence": "Every participant in the race receives a medal（比赛中的每位参与者都会得到一枚奖牌）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨的公园跑道终点",
+      "actor": "一名跑者刚冲过终点并接过奖牌；只有这一名人物",
+      "props": [
+        "一段无数字跑道",
+        "空白终点带",
+        "一枚奖牌"
+      ],
+      "beats": [
+        "跑者沿跑道接近终点",
+        "她冲过空白终点带",
+        "她接过奖牌庆祝完成比赛"
+      ],
+      "ending": "跑者站在终点带旁拿着奖牌，表现她是比赛参与者。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；跑者参加比赛并获得奖牌，participant 的含义清楚。"
+    }
+  },
+  {
+    "word": "western",
+    "anchor": "cowboy",
+    "anchorMeaning": "牛仔",
+    "relation": "cowboy 是美国西部文化的熟悉形象；western 描述西部地区及其风格。",
+    "sentence": "The cowboy rides across the western frontier at sunset（牛仔在日落时骑马穿过西部边疆）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "日落时分的西部荒漠边疆",
+      "actor": "一名牛仔骑着一匹马；没有其他人物或动物",
+      "props": [
+        "一顶宽檐牛仔帽",
+        "一株仙人掌",
+        "一条尘土小路"
+      ],
+      "beats": [
+        "牛仔骑马走上荒漠小路",
+        "他经过孤立的仙人掌",
+        "夕阳下他继续穿越西部边疆"
+      ],
+      "ending": "牛仔骑马行走在夕阳映照的荒漠小路上，西部景色清晰可见。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；牛仔和荒漠边疆构成 western（西部的）的具体文化场景。"
+    }
+  },
+  {
+    "word": "marriage",
+    "anchor": "ring",
+    "anchorMeaning": "戒指",
+    "relation": "婚礼上交换戒指是 marriage（婚姻、结婚仪式）的常见象征。",
+    "sentence": "She places a ring on his finger during their marriage ceremony（在结婚仪式上，她把戒指戴到他的手指上）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁温暖的婚礼仪式现场",
+      "actor": "一位新娘正为新郎戴上一枚戒指；只有这两人",
+      "props": [
+        "一枚素面戒指",
+        "一束鲜花",
+        "简单的花拱门"
+      ],
+      "beats": [
+        "新娘拿起戒指",
+        "她把戒指戴到新郎手指上",
+        "两人相视微笑完成仪式"
+      ],
+      "ending": "新娘正把一枚戒指戴到新郎手指上，花拱门和花束在旁。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；戒指是婚姻仪式的具体象征，场景明确。"
+    }
+  },
+  {
+    "word": "relation",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "钥匙与锁之间存在匹配关系；钥匙打开锁，直观表现 relation（关系、联系）。",
+    "sentence": "The relation between a key and its lock is clear when the key opens the door（钥匙打开门时，钥匙和锁之间的关系就很清楚）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "木门锁的近景",
+      "actor": "没有人物；一把钥匙正插入匹配的门锁",
+      "props": [
+        "一把黄铜钥匙",
+        "一个门锁",
+        "一扇木门"
+      ],
+      "beats": [
+        "钥匙靠近门锁",
+        "钥匙插入锁孔并转动",
+        "门锁打开，门微微开启"
+      ],
+      "ending": "钥匙正好插在门锁中，门开始开启，二者关系一目了然。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；钥匙和锁通过匹配与开门动作表现 relation。"
+    }
+  },
+  {
+    "word": "characteristic",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "狗的卷曲尾巴是它容易辨认的特征；dog 是 characteristic（特征）的具体对象锚点。",
+    "sentence": "A dog's curled tail is a characteristic feature that makes it easy to recognize（狗卷曲的尾巴是一个显著特征，让它容易被认出来）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮的家庭院子",
+      "actor": "一名孩子正指认一只尾巴明显卷曲的小狗；只有一名孩子和一只狗",
+      "props": [
+        "一只卷尾小狗",
+        "一个红色小球",
+        "一座无字狗屋"
+      ],
+      "beats": [
+        "小狗在院子里转身",
+        "它的卷尾清楚露出来",
+        "孩子指着卷尾认出这只狗"
+      ],
+      "ending": "孩子看着小狗明显卷曲的尾巴，微笑着认出它。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；卷曲尾巴是狗的独有特征，characteristic 词义清楚。"
+    }
+  },
+  {
+    "word": "pollution",
+    "anchor": "smoke",
+    "anchorMeaning": "烟",
+    "relation": "工厂烟雾会污染空气；smoke 是 pollution（污染）的直接可见来源锚点。",
+    "sentence": "Smoke from the factory causes air pollution（工厂排出的烟造成空气污染）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "工厂边的乡村清晨",
+      "actor": "没有人物；突出工厂烟囱和受烟雾影响的环境",
+      "props": [
+        "一座工厂烟囱",
+        "一团灰色烟雾",
+        "一棵叶片受灰尘覆盖的小树"
+      ],
+      "beats": [
+        "工厂烟囱冒出烟雾",
+        "烟雾飘向周围空气",
+        "附近小树被灰尘覆盖，表现污染影响"
+      ],
+      "ending": "灰色烟雾从工厂飘向空气，旁边的小树叶片蒙尘。"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；烟雾是污染来源，灰尘覆盖的树表现影响。"
+    }
+  }
+]

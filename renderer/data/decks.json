@@ -40,6 +40,16 @@
           "tier": 2
         }
       ]
+    },
+    {
+      "id": "kaoyan-2752",
+      "name": "考研英语全量词汇 5530 条",
+      "short": "考研 5530",
+      "desc": "考研词汇词频排序表 v7.1，按原表顺序学习",
+      "color": "#5474db",
+      "icon": "研",
+      "tier": null,
+      "file": "kaoyan-v7.1.json"
     }
   ]
 }

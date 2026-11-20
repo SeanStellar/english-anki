@@ -1,0 +1,762 @@
+[
+  {
+    "word": "prose",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "prose 是普通散文体裁，常以窗边写作呈现",
+    "sentence": "She wrote the story in prose beside the window.",
+    "scene": {
+      "setting": "A calm writing room",
+      "actor": "One woman writes at a desk beside a window",
+      "props": [
+        "blank notebook",
+        "pen",
+        "window"
+      ],
+      "beats": [
+        "She considers an idea",
+        "She writes the story in prose",
+        "She pauses to look outside"
+      ],
+      "ending": "A writer sits beside the window with an open notebook"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. prose 是普通散文体裁，常以窗边写作呈现 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Notebook pages must be blank; no visible writing or marks."
+  },
+  {
+    "word": "thirteen",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "thirteen 表示十三，句中明确有十三个苹果",
+    "sentence": "She placed thirteen apples in the basket.",
+    "scene": {
+      "setting": "A sunny kitchen table",
+      "actor": "One child places exactly thirteen apples into a basket",
+      "props": [
+        "thirteen apples",
+        "woven basket",
+        "wooden table"
+      ],
+      "beats": [
+        "The child gathers the apples",
+        "She counts them silently",
+        "She places all thirteen in the basket"
+      ],
+      "ending": "Exactly thirteen apples sit in the basket"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. thirteen 表示十三，句中明确有十三个苹果 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly thirteen apples, no other apples; no numerals or text."
+  },
+  {
+    "word": "vertical",
+    "anchor": "wall",
+    "anchorMeaning": "墙",
+    "relation": "The worker checks that the plumb line is vertical beside the wall.",
+    "sentence": "The ladder stood vertical against the wall.",
+    "scene": {
+      "setting": "A simple workshop with a straight plumb line hanging beside the wall",
+      "actor": "One worker holds a plumb line beside a plain wall",
+      "props": [
+        "plumb line with weighted bob",
+        "plain wall",
+        "ladder"
+      ],
+      "beats": [
+        "The worker hangs the line",
+        "The weight settles straight down",
+        "She checks its vertical position beside the wall"
+      ],
+      "ending": "A straight plumb line hangs vertically beside the wall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. The worker checks that the plumb line is vertical beside the wall. The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Make the plumb line perfectly upright and easy to compare with the wall; no signs, writing, letters, or numbers."
+  },
+  {
+    "word": "administer",
+    "anchor": "office",
+    "anchorMeaning": "办公室",
+    "relation": "administer 可表示管理，校长在办公室管理学校事务",
+    "sentence": "The principal will administer the school from her office.",
+    "scene": {
+      "setting": "A modest school office",
+      "actor": "One principal organizes a school day at her desk",
+      "props": [
+        "desk",
+        "plain schedule sheet",
+        "bookshelf"
+      ],
+      "beats": [
+        "The principal reviews the day's plan",
+        "She organizes the school materials",
+        "She oversees the school from her office"
+      ],
+      "ending": "The principal manages the office calmly"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. administer 可表示管理，校长在办公室管理学校事务 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "No wall plaques, signs, writing, letters, numbers, logos, or labels anywhere; the schedule page is blank."
+  },
+  {
+    "word": "aspire",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "aspire to climb a mountain expresses a strong ambition or aim",
+    "sentence": "She continues to aspire to climb the mountain and reach its summit.",
+    "scene": {
+      "setting": "A mountain trail at sunrise",
+      "actor": "One hiker looks up toward a high summit",
+      "props": [
+        "mountain",
+        "walking boots",
+        "trail marker rock"
+      ],
+      "beats": [
+        "The hiker studies the summit",
+        "She starts up the trail",
+        "She continues toward the top"
+      ],
+      "ending": "The hiker faces the distant summit"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. aspire to climb a mountain expresses a strong ambition or aim The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No text or symbols on trail markers."
+  },
+  {
+    "word": "attorney",
+    "anchor": "gavel",
+    "anchorMeaning": "法槌",
+    "relation": "律师在法庭上陈述案件，法槌是熟悉的法庭物件",
+    "sentence": "The attorney presented her case before the judge's gavel fell.",
+    "scene": {
+      "setting": "A quiet courtroom",
+      "actor": "One attorney stands before one seated judge",
+      "props": [
+        "gavel",
+        "wooden bench",
+        "plain folder"
+      ],
+      "beats": [
+        "The attorney presents her case",
+        "The judge listens",
+        "The judge reaches for the gavel"
+      ],
+      "ending": "An attorney faces the judge and gavel"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 律师在法庭上陈述案件，法槌是熟悉的法庭物件 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; folder contains no writing."
+  },
+  {
+    "word": "classification",
+    "anchor": "books",
+    "anchorMeaning": "书",
+    "relation": "classification 是按类别整理，图书馆常按主题分类书籍",
+    "sentence": "The librarian used classification to arrange books by subject.",
+    "scene": {
+      "setting": "A library sorting table",
+      "actor": "One librarian sorts books into subject groups",
+      "props": [
+        "books",
+        "three empty bins",
+        "wooden table"
+      ],
+      "beats": [
+        "The librarian gathers books",
+        "She separates them by subject",
+        "She places each group in a bin"
+      ],
+      "ending": "Books are sorted into distinct groups"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. classification 是按类别整理，图书馆常按主题分类书籍 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No readable titles, labels, or text on bins."
+  },
+  {
+    "word": "declaration",
+    "anchor": "flag",
+    "anchorMeaning": "旗",
+    "relation": "升旗可以作为公开宣告的仪式动作",
+    "sentence": "After the race, his declaration of victory came as he raised the flag.",
+    "scene": {
+      "setting": "A grassy finish area",
+      "actor": "One runner raises a plain flag after winning",
+      "props": [
+        "plain flag",
+        "finish ribbon",
+        "running shoes"
+      ],
+      "beats": [
+        "The runner reaches the finish",
+        "He lifts the flag",
+        "He declares victory to the gathered crowd"
+      ],
+      "ending": "A runner raises the flag at the finish"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 升旗可以作为公开宣告的仪式动作 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No writing, numbers, logos, or flags with symbols."
+  },
+  {
+    "word": "editorial",
+    "anchor": "newspaper",
+    "anchorMeaning": "报纸",
+    "relation": "editorial 是报纸上表达观点的社论文章",
+    "sentence": "She read an editorial in the newspaper before breakfast.",
+    "scene": {
+      "setting": "A breakfast table",
+      "actor": "One woman reads a folded newspaper",
+      "props": [
+        "blank newspaper",
+        "cup of tea",
+        "breakfast plate"
+      ],
+      "beats": [
+        "She opens the paper",
+        "She reads an editorial",
+        "She sets it beside her tea"
+      ],
+      "ending": "A folded newspaper lies open beside breakfast"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. editorial 是报纸上表达观点的社论文章 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Show a folded blank newspaper with completely empty pages, no printed lines, columns, letters, glyphs, text, numbers, logos, or signs."
+  },
+  {
+    "word": "explicit",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "explicit directions 清楚明确，地图上的路线能具体呈现",
+    "sentence": "The guide gave explicit directions by tracing the path on a map.",
+    "scene": {
+      "setting": "A forest trail entrance",
+      "actor": "One guide points to a plain map for one hiker",
+      "props": [
+        "blank map",
+        "walking stick",
+        "trail entrance"
+      ],
+      "beats": [
+        "The guide opens the map",
+        "She traces the exact path",
+        "The hiker follows the clear route"
+      ],
+      "ending": "The guide shows a path on the map"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. explicit directions 清楚明确，地图上的路线能具体呈现 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Remove all signboards and markers; show only two hikers and a plain map with one simple unlabelled route line; no words, letters, numbers, labels, or signs anywhere."
+  },
+  {
+    "word": "fruitful",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "富有成效的果园结出丰盛果实，苹果体现 fruitful",
+    "sentence": "The fruitful garden yielded a basket full of apples.",
+    "scene": {
+      "setting": "A flourishing orchard",
+      "actor": "One gardener gathers ripe apples",
+      "props": [
+        "apple tree",
+        "basket",
+        "garden path"
+      ],
+      "beats": [
+        "The tree bears fruit",
+        "The gardener picks apples",
+        "The basket fills with the harvest"
+      ],
+      "ending": "A full basket of apples beneath a fruitful tree"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 富有成效的果园结出丰盛果实，苹果体现 fruitful The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No labels, text, or extra people."
+  },
+  {
+    "word": "meantime",
+    "anchor": "cups",
+    "anchorMeaning": "杯子",
+    "relation": "in the meantime 表示在此期间，水壶烧水时她摆好杯子",
+    "sentence": "The kettle boiled; in the meantime, she set out two cups.",
+    "scene": {
+      "setting": "A home kitchen",
+      "actor": "One woman sets cups on the counter as a kettle heats",
+      "props": [
+        "kettle",
+        "two cups",
+        "counter"
+      ],
+      "beats": [
+        "The kettle begins to warm",
+        "The woman sets out the cups",
+        "Steam rises while she waits"
+      ],
+      "ending": "Two cups are ready beside the warming kettle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. in the meantime 表示在此期间，水壶烧水时她摆好杯子 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two cups; no writing or logos."
+  },
+  {
+    "word": "nightmare",
+    "anchor": "bed",
+    "anchorMeaning": "床",
+    "relation": "nightmare 是令人害怕的梦，通常发生在睡眠中",
+    "sentence": "The child woke from a nightmare and sat up in bed.",
+    "scene": {
+      "setting": "A dim but gentle bedroom",
+      "actor": "One child wakes startled but safe in bed",
+      "props": [
+        "bed",
+        "soft blanket",
+        "night lamp"
+      ],
+      "beats": [
+        "The child dreams uneasily",
+        "She wakes with a start",
+        "She sits up beneath the blanket"
+      ],
+      "ending": "The child sits safely in bed beside the lamp"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. nightmare 是令人害怕的梦，通常发生在睡眠中 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Keep mood gentle, not frightening; no text or symbols."
+  },
+  {
+    "word": "ornament",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "节日 ornament 常挂在树上作装饰",
+    "sentence": "She hung a glass ornament on the small tree.",
+    "scene": {
+      "setting": "A cozy holiday room",
+      "actor": "One woman hangs one ornament on a small tree",
+      "props": [
+        "single ornament",
+        "small tree",
+        "low stool"
+      ],
+      "beats": [
+        "She lifts the ornament",
+        "She hooks it on a branch",
+        "It swings gently on the tree"
+      ],
+      "ending": "One ornament hangs from the tree branch"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 节日 ornament 常挂在树上作装饰 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Show exactly one glass ornament on the tree; all other branches remain bare, with no heart ornaments, extra decorations, writing, numbers, or logos."
+  },
+  {
+    "word": "perpetual",
+    "anchor": "lighthouse",
+    "anchorMeaning": "灯塔",
+    "relation": "perpetual 表示持续不息，灯塔的光整夜持续照耀",
+    "sentence": "The lighthouse's perpetual beam swept across the dark sea.",
+    "scene": {
+      "setting": "A rocky coast at night",
+      "actor": "One lighthouse sends a steady beam across the sea",
+      "props": [
+        "lighthouse",
+        "steady beam",
+        "dark sea"
+      ],
+      "beats": [
+        "Night falls",
+        "The beam continues across the water",
+        "Morning light begins to appear"
+      ],
+      "ending": "The lighthouse beam remains steady over the waves"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. perpetual 表示持续不息，灯塔的光整夜持续照耀 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No text, lettering, or symbols on lighthouse."
+  },
+  {
+    "word": "pregnant",
+    "anchor": "cradle",
+    "anchorMeaning": "摇篮",
+    "relation": "pregnant 描述正在孕育孩子的女性；空摇篮和准备好的毯子提供温和、日常的画面联想",
+    "sentence": "The pregnant woman stood beside the empty cradle while folding a blanket.",
+    "scene": {
+      "setting": "A quiet nursery being prepared for a new baby",
+      "actor": "One fully clothed expectant woman stands beside an empty cradle",
+      "props": [
+        "empty cradle",
+        "folded blanket",
+        "plain paintbrush"
+      ],
+      "beats": [
+        "The woman prepares the nursery",
+        "She folds the blanket",
+        "She stands beside the cradle"
+      ],
+      "ending": "A fully clothed woman folds a blanket beside the empty cradle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. pregnant 描述正在孕育孩子的女性；空摇篮和准备好的毯子提供温和、日常的画面联想 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Respectful ordinary family preparation; one adult woman fully clothed, no body close-up, no medical imagery, no nudity, no text, labels, logos, or signs."
+  },
+  {
+    "word": "rally",
+    "anchor": "flag",
+    "anchorMeaning": "旗",
+    "relation": "群众集会常围绕旗帜举行，rally 指集会",
+    "sentence": "Two neighbors gathered around the flag at a peaceful rally.",
+    "scene": {
+      "setting": "An otherwise empty town square with a small peaceful gathering",
+      "actor": "Exactly two adult neighbors stand together beside a plain flag",
+      "props": [
+        "plain flag",
+        "town fountain",
+        "open square"
+      ],
+      "beats": [
+        "The two neighbors meet in the square",
+        "They gather beside the flag",
+        "They hold a peaceful rally together"
+      ],
+      "ending": "Exactly two neighbors gather beside the flag in an empty square"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 群众集会常围绕旗帜举行，rally 指集会 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Exactly two people total in the entire image, both in the foreground; no crowd, silhouettes, extra faces, people in windows, slogans, symbols, or writing."
+  },
+  {
+    "word": "rebel",
+    "anchor": "crown",
+    "anchorMeaning": "王冠",
+    "relation": "rebel 反抗统治者，拒绝服从王权的命令",
+    "sentence": "The rebel refused to bow before the king's crown.",
+    "scene": {
+      "setting": "A medieval stone hall",
+      "actor": "One rebel stands before one seated king who wears a single plain crown",
+      "props": [
+        "single crown on the king",
+        "wooden throne",
+        "stone floor"
+      ],
+      "beats": [
+        "The king displays his authority",
+        "The rebel refuses to bow",
+        "The single crown remains on the king"
+      ],
+      "ending": "The rebel stands upright before the crowned king"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. rebel 反抗统治者，拒绝服从王权的命令 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Exactly one crown, worn on the king’s head; no second crown in his hands or elsewhere; no heraldry, writing, symbols, or logos."
+  },
+  {
+    "word": "successive",
+    "anchor": "rock",
+    "anchorMeaning": "岩石",
+    "relation": "successive 表示连续发生，连续的海浪依次拍打同一块岩石",
+    "sentence": "Successive waves washed over the same rock.",
+    "scene": {
+      "setting": "A quiet rocky shore",
+      "actor": "One rock is struck by a sequence of waves",
+      "props": [
+        "single rock",
+        "sea waves",
+        "strip of sand"
+      ],
+      "beats": [
+        "One wave reaches the rock",
+        "Another follows",
+        "A third wave washes over it"
+      ],
+      "ending": "A wave breaks over the same rock"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. successive 表示连续发生，连续的海浪依次拍打同一块岩石 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show one rock and a few distinct waves; no text."
+  },
+  {
+    "word": "warehouse",
+    "anchor": "boxes",
+    "anchorMeaning": "箱子",
+    "relation": "仓库用于存放大量货箱",
+    "sentence": "Workers stacked boxes inside the warehouse before sunrise.",
+    "scene": {
+      "setting": "A spacious storage building",
+      "actor": "One worker stacks plain boxes in a warehouse",
+      "props": [
+        "boxes",
+        "handcart",
+        "high shelf"
+      ],
+      "beats": [
+        "The worker unloads boxes",
+        "She stacks them",
+        "She rolls the handcart deeper inside"
+      ],
+      "ending": "Boxes are stacked beside a handcart in the warehouse"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 仓库用于存放大量货箱 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One worker; boxes have no labels, numbers, or logos."
+  }
+]

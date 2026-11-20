@@ -1,0 +1,977 @@
+[
+  {
+    "id": "kyc-2586",
+    "word": "volatile",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "Volatile describes a substance that changes into vapor easily, or something likely to change suddenly.",
+    "sentence": "Unlike water, the volatile liquid evaporated quickly.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple science workbench",
+      "actor": "No people: a small amount of volatile liquid evaporates beside a glass of water in a safe open space.",
+      "props": [
+        "one unmarked liquid dish",
+        "one glass of water",
+        "one faint vapor cloud"
+      ],
+      "beats": [
+        "The water remains in its glass",
+        "The other liquid begins to evaporate",
+        "The volatile liquid disappears quickly"
+      ],
+      "ending": "A volatile liquid evaporates quickly beside water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Change targetSense to 易挥发的；不稳定的; no labels, flames, fumes near people, text, or hazard symbols."
+  },
+  {
+    "id": "kyc-2587",
+    "word": "volt",
+    "anchor": "battery",
+    "anchorMeaning": "电池，蓄电池",
+    "relation": "A volt is the unit used to measure electrical potential difference, the push that moves charge through a circuit.",
+    "sentence": "A volt measures the electrical push supplied by the battery.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple science workbench",
+      "actor": "No people: one plain battery powers a small lamp through a short wire.",
+      "props": [
+        "one plain battery",
+        "one short wire",
+        "one small glowing lamp"
+      ],
+      "beats": [
+        "The battery is connected",
+        "Electrical potential moves charge through the wire",
+        "A volt measures the electrical push"
+      ],
+      "ending": "A battery supplies electrical potential measured in volts."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No numbers, labels, circuit symbols, text, or logos."
+  },
+  {
+    "id": "kyc-2588",
+    "word": "waterfall",
+    "anchor": "river",
+    "anchorMeaning": "河，江",
+    "relation": "A waterfall is a stream of water that falls from a height over a steep surface.",
+    "sentence": "The river plunged over a cliff as a waterfall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A forested river gorge",
+      "actor": "No people: a river spills over a rocky ledge into a pool below.",
+      "props": [
+        "one river",
+        "one rocky cliff edge",
+        "one pool below"
+      ],
+      "beats": [
+        "The river approaches the ledge",
+        "Water pours over the edge",
+        "The waterfall drops into the pool"
+      ],
+      "ending": "A river plunges over a cliff as a waterfall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No people, signs, writing, or symbols."
+  },
+  {
+    "id": "kyc-2589",
+    "word": "wax",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "Wax is a soft, slightly greasy substance used to make candles and other products.",
+    "sentence": "The candle melted and dripped wax onto the plate.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet dining table",
+      "actor": "No people: a lit candle melts slowly, with a small drop of wax falling onto a plain plate.",
+      "props": [
+        "one plain candle",
+        "one small wax drop",
+        "one plain plate"
+      ],
+      "beats": [
+        "The candle burns gently",
+        "Its wax softens",
+        "A drop of wax falls onto the plate"
+      ],
+      "ending": "Melted wax drips from a candle onto a plate."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No text, labels, symbols, or people near the flame."
+  },
+  {
+    "id": "kyc-2590",
+    "word": "whirl",
+    "anchor": "wind",
+    "anchorMeaning": "风，气流",
+    "relation": "To whirl is to spin or move around rapidly in a circle.",
+    "sentence": "The wind made the leaves whirl around the yard.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breezy garden",
+      "actor": "No people: a swirl of wind sends a few dry leaves circling over the yard.",
+      "props": [
+        "one gust of wind",
+        "several dry leaves",
+        "one quiet yard"
+      ],
+      "beats": [
+        "The wind rises",
+        "Leaves lift from the ground",
+        "The leaves whirl in a circle"
+      ],
+      "ending": "Wind makes leaves whirl around a yard."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Use a single swirl of leaves, not motion symbols; no text or signs."
+  },
+  {
+    "id": "kyc-2591",
+    "word": "witch",
+    "anchor": "cat",
+    "anchorMeaning": "猫，猫科动物",
+    "relation": "A witch is a woman in traditional stories believed to have magical powers; cats are a familiar folklore association.",
+    "sentence": "The witch watched her black cat beneath the moon.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden under a full moon",
+      "actor": "One woman in a simple pointed hat and plain cloak sits beside one black cat beneath the moon.",
+      "props": [
+        "one woman",
+        "one black cat",
+        "one full moon"
+      ],
+      "beats": [
+        "The moon rises",
+        "The woman settles beside the cat",
+        "The witch watches her cat in the night"
+      ],
+      "ending": "A witch watches her black cat beneath the moon."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Folklore storybook mood; plain hat and cloak, no spells, writing, logos, or extra figures."
+  },
+  {
+    "id": "kyc-2592",
+    "word": "wrench",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "To wrench something is to pull, twist, or force it with a sudden strong movement.",
+    "sentence": "She had to wrench the stuck door open.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet house hallway",
+      "actor": "One woman pulls hard on a jammed wooden door until it starts to open.",
+      "props": [
+        "one woman",
+        "one stuck wooden door",
+        "one plain door handle"
+      ],
+      "beats": [
+        "The door will not move",
+        "She pulls with force",
+        "She wrenches the door open"
+      ],
+      "ending": "A woman wrenches a stuck door open."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No injury, violence, text, labels, or extra people."
+  },
+  {
+    "id": "kyc-2593",
+    "word": "according to",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "According to means as stated, reported, or shown by a particular source.",
+    "sentence": "According to the map, the road bends beside the river.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet travel table",
+      "actor": "One traveler compares a plain map with the bend of a nearby river road.",
+      "props": [
+        "one traveler",
+        "one plain map",
+        "one simple road-and-river view"
+      ],
+      "beats": [
+        "The traveler unfolds the map",
+        "The map shows the river road",
+        "According to the map, the road bends beside the river"
+      ],
+      "ending": "A traveler checks the road according to a map."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Map has no words, names, numbers, icons, or labels."
+  },
+  {
+    "id": "kyc-2594",
+    "word": "accustom",
+    "anchor": "school",
+    "anchorMeaning": "（中、小）学校",
+    "relation": "To accustom someone to something is to help them become familiar with it through repeated experience.",
+    "sentence": "She had to accustom herself to the new school.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright school entrance",
+      "actor": "One new student enters a classroom and settles in with a plain schoolbag.",
+      "props": [
+        "one student",
+        "one plain schoolbag",
+        "one classroom doorway"
+      ],
+      "beats": [
+        "The student arrives at the new school",
+        "She explores the classroom",
+        "She begins to accustom herself to the new place"
+      ],
+      "ending": "A student accustoms herself to a new school."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No signs, school logos, writing, or extra students."
+  },
+  {
+    "id": "kyc-2595",
+    "word": "adverb",
+    "anchor": "sentence",
+    "anchorMeaning": "句子，句",
+    "relation": "An adverb is a word that modifies a verb, adjective, or another adverb, often describing how, when, or where something happens.",
+    "sentence": "An adverb can change the meaning of a sentence.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom",
+      "actor": "One teacher uses two blank sentence cards to show how a describing word changes an action.",
+      "props": [
+        "one teacher",
+        "two blank sentence cards",
+        "one simple action drawing"
+      ],
+      "beats": [
+        "The teacher presents a plain sentence",
+        "A describing word changes the action's meaning",
+        "The class learns what an adverb does"
+      ],
+      "ending": "A teacher demonstrates how an adverb can change a sentence's meaning."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No words, letters, writing, punctuation, labels, or symbols on the cards."
+  },
+  {
+    "id": "kyc-2596",
+    "word": "air conditioning",
+    "anchor": "room",
+    "anchorMeaning": "房间，室",
+    "relation": "Air conditioning is a system that cools or controls the air inside a room or building.",
+    "sentence": "Air conditioning kept the room cool during summer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A comfortable living room on a hot day",
+      "actor": "No people: a plain air-conditioning unit cools a room while sunlight warms the window outside.",
+      "props": [
+        "one plain wall unit",
+        "one living room",
+        "one sunny window"
+      ],
+      "beats": [
+        "Summer heat warms the room",
+        "The unit turns on",
+        "Air conditioning keeps the room cool"
+      ],
+      "ending": "Air conditioning keeps a room cool during summer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Normalize the target word to 'air conditioning'; no unit labels, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2597",
+    "word": "albeit",
+    "anchor": "coat",
+    "anchorMeaning": "外套，大衣",
+    "relation": "Albeit means although or even though; it introduces a qualification or contrast.",
+    "sentence": "She wore a coat, albeit a thin one.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cool spring morning",
+      "actor": "One woman wears a light coat while stepping into a chilly breeze.",
+      "props": [
+        "one woman",
+        "one thin coat",
+        "one open doorway"
+      ],
+      "beats": [
+        "The morning feels cool",
+        "She puts on a coat",
+        "Albeit thin, it offers some warmth"
+      ],
+      "ending": "A woman wears a thin coat, albeit on a cool day."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No clothing labels, text, or logos."
+  },
+  {
+    "id": "kyc-2598",
+    "word": "analog",
+    "anchor": "clock",
+    "anchorMeaning": "时钟，时钟的",
+    "relation": "Analog describes a device that represents changing values continuously, such as time shown by moving clock hands.",
+    "sentence": "The analog clock showed the time with moving hands.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen wall",
+      "actor": "No people: a plain analog clock shows the time with two hands and no digital display.",
+      "props": [
+        "one plain clock",
+        "two moving clock hands",
+        "one bare wall"
+      ],
+      "beats": [
+        "The clock begins to run",
+        "Its hands move continuously",
+        "The analog display shows the time"
+      ],
+      "ending": "An analog clock shows time with moving hands."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No numerals, ticks, labels, text, or logos on the clock."
+  },
+  {
+    "id": "kyc-2599",
+    "word": "April",
+    "anchor": "spring",
+    "anchorMeaning": "春天，春季",
+    "relation": "April is the fourth month of the year and falls during spring in the Northern Hemisphere.",
+    "sentence": "April brings spring showers to the garden.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden during a soft spring rain",
+      "actor": "No people: light April rain falls over fresh spring flowers.",
+      "props": [
+        "one spring garden",
+        "gentle rain",
+        "several fresh flowers"
+      ],
+      "beats": [
+        "Spring flowers open",
+        "Light rain begins",
+        "April brings a shower to the garden"
+      ],
+      "ending": "April rain falls over a fresh spring garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2600",
+    "word": "archeology",
+    "anchor": "earth",
+    "anchorMeaning": "地球，世界",
+    "relation": "Archeology is the study of past human life through material remains and objects found in the ground.",
+    "sentence": "Archeology studies human history through objects found in the earth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A careful outdoor excavation",
+      "actor": "One archaeologist gently uncovers a plain ancient pot from the earth.",
+      "props": [
+        "one archaeologist",
+        "one plain old pot",
+        "one patch of earth"
+      ],
+      "beats": [
+        "The archaeologist studies the ground",
+        "An old object is uncovered",
+        "Archeology reveals clues about human history"
+      ],
+      "ending": "An archaeologist finds an old pot in the earth through archeology."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No human remains, labels, writing, or museum signs."
+  },
+  {
+    "id": "kyc-2601",
+    "word": "artefact",
+    "anchor": "earth",
+    "anchorMeaning": "地球，世界",
+    "relation": "An artefact is an object made or changed by people, especially one of historical interest.",
+    "sentence": "The archaeologist uncovered an artefact buried in the earth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A careful outdoor excavation",
+      "actor": "One archaeologist brushes soil from a small handmade clay bowl.",
+      "props": [
+        "one archaeologist",
+        "one handmade clay bowl",
+        "one patch of earth"
+      ],
+      "beats": [
+        "The bowl lies buried",
+        "The archaeologist removes the soil",
+        "The artefact is uncovered"
+      ],
+      "ending": "An artefact is uncovered from the earth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No writing, labels, human remains, or museum signs."
+  },
+  {
+    "id": "kyc-2602",
+    "word": "August",
+    "anchor": "summer",
+    "anchorMeaning": "夏天，夏季",
+    "relation": "August is the eighth month of the year and occurs during summer in the Northern Hemisphere.",
+    "sentence": "August is often the warmest part of summer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny summer garden",
+      "actor": "No people: strong summer sunlight falls on a garden in August.",
+      "props": [
+        "one summer garden",
+        "one bright sun",
+        "one shaded tree"
+      ],
+      "beats": [
+        "Summer days grow warm",
+        "August arrives",
+        "The garden feels especially hot"
+      ],
+      "ending": "August brings summer warmth to the garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No calendars, dates, numbers, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2603",
+    "word": "aural",
+    "anchor": "ear",
+    "anchorMeaning": "耳朵",
+    "relation": "Aural means relating to hearing or the sense of sound.",
+    "sentence": "Her aural memory helped her recognise the song by ear.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet music room",
+      "actor": "One woman recognises a familiar melody while listening with her eyes closed.",
+      "props": [
+        "one woman",
+        "one plain music player",
+        "one visible ear"
+      ],
+      "beats": [
+        "A familiar song plays",
+        "She listens closely",
+        "Her aural memory recognises it by ear"
+      ],
+      "ending": "A woman recognises a song through aural memory."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No lyrics, music notes, text, labels, or logos."
+  },
+  {
+    "id": "kyc-2604",
+    "word": "Bible",
+    "anchor": "church",
+    "anchorMeaning": "教堂",
+    "relation": "The Bible is the sacred scripture of Christianity, commonly kept and read in a church.",
+    "sentence": "The Bible lay open in the church beside a plain book.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet church reading room",
+      "actor": "No people: one plain open Bible lies beside another blank book on a wooden table.",
+      "props": [
+        "one plain open Bible",
+        "one blank book",
+        "one wooden table"
+      ],
+      "beats": [
+        "The church is quiet",
+        "The Bible is opened for reading",
+        "It rests beside another book"
+      ],
+      "ending": "The Bible lies open in a church reading room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No readable cover titles, text, religious symbols, signs, or logos."
+  },
+  {
+    "id": "kyc-2605",
+    "word": "botany",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "Botany is the scientific study of plants.",
+    "sentence": "In botany, she studied how the plant grows.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright science classroom",
+      "actor": "One student examines a living plant and watches a new leaf unfold.",
+      "props": [
+        "one student",
+        "one potted plant",
+        "one plain magnifying glass"
+      ],
+      "beats": [
+        "The student observes the plant",
+        "A new leaf begins to open",
+        "She studies its growth in botany"
+      ],
+      "ending": "A student studies plant growth in botany."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Change targetSense to 植物学; no labels, text, or scientific symbols."
+  },
+  {
+    "id": "kyc-2606",
+    "word": "bowel",
+    "anchor": "body",
+    "anchorMeaning": "身体，躯体",
+    "relation": "The bowel is the intestine, a part of the digestive system inside the body.",
+    "sentence": "The bowel is part of the digestive system inside the body.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm health classroom",
+      "actor": "One teacher points to the digestive tract on a simple unlabelled body model.",
+      "props": [
+        "one teacher",
+        "one simple body model",
+        "one plain classroom table"
+      ],
+      "beats": [
+        "The body model is shown",
+        "The teacher indicates the digestive tract",
+        "The bowel is identified as part of the body"
+      ],
+      "ending": "The bowel is part of the digestive system inside the body."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational model only; no labels, diagrams with text, or medical symbols."
+  },
+  {
+    "id": "kyc-2607",
+    "word": "brace",
+    "anchor": "leg",
+    "anchorMeaning": "腿",
+    "relation": "A brace is a device used to support or strengthen a body part or structure.",
+    "sentence": "A brace supported his injured leg while it healed.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm clinic room",
+      "actor": "One patient sits while a plain brace supports his lower leg.",
+      "props": [
+        "one patient",
+        "one plain leg brace",
+        "one clinic chair"
+      ],
+      "beats": [
+        "The leg needs support",
+        "The brace is fitted around it",
+        "The brace supports the leg while it heals"
+      ],
+      "ending": "A brace supports an injured leg while it heals."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Mild non-graphic injury; no labels, text, or medical symbols."
+  },
+  {
+    "id": "kyc-2608",
+    "word": "brandy",
+    "anchor": "wine",
+    "anchorMeaning": "葡萄酒，果蔬酒",
+    "relation": "Brandy is a strong alcoholic drink commonly made by distilling wine made from grapes.",
+    "sentence": "Brandy is distilled from wine made from grapes.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet fruit press room",
+      "actor": "No people: an unlabelled wine bottle stands beside a simple copper distillation still.",
+      "props": [
+        "one plain wine bottle",
+        "one copper distillation still",
+        "one bunch of grapes"
+      ],
+      "beats": [
+        "Grapes are pressed",
+        "The liquid is distilled",
+        "The spirit becomes brandy"
+      ],
+      "ending": "Brandy is distilled from wine made from grapes."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No drinking, labels, bottles with text, logos, or symbols."
+  },
+  {
+    "id": "kyc-2609",
+    "word": "buffer",
+    "anchor": "wall",
+    "anchorMeaning": "城墙，围墙",
+    "relation": "A buffer is something placed between two things to reduce impact or prevent harm.",
+    "sentence": "A soft buffer protected the wall from the rolling cart.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet storage room",
+      "actor": "No people: a soft padded buffer stands between a rolling cart and a wall.",
+      "props": [
+        "one padded buffer",
+        "one plain rolling cart",
+        "one bare wall"
+      ],
+      "beats": [
+        "The cart rolls toward the wall",
+        "The buffer absorbs the contact",
+        "The wall is protected"
+      ],
+      "ending": "A buffer protects a wall from a rolling cart."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No signs, labels, writing, or extra people."
+  },
+  {
+    "id": "kyc-2610",
+    "word": "Catholic",
+    "anchor": "church",
+    "anchorMeaning": "教堂",
+    "relation": "Catholic refers to a member of the Catholic Church or something connected with that Christian tradition.",
+    "sentence": "A Catholic woman prayed quietly inside the church.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet church interior",
+      "actor": "One woman sits in quiet prayer inside a plain church room.",
+      "props": [
+        "one woman",
+        "one plain wooden bench",
+        "one church window"
+      ],
+      "beats": [
+        "The woman enters the church",
+        "She sits quietly",
+        "The Catholic woman prays"
+      ],
+      "ending": "A Catholic woman prays quietly inside a church."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Respectful, neutral scene; no religious symbols, text, signs, or logos."
+  }
+]

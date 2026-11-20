@@ -1,0 +1,784 @@
+[
+  {
+    "word": "ideology",
+    "targetSense": "意识形态",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "An ideology is a system of beliefs that guides how people think and act.",
+    "sentence": "The book described an ideology built around sharing.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bright reading corner",
+      "actor": "One woman shows a plain book to one child beside a shared basket",
+      "props": [
+        "plain book",
+        "basket of apples",
+        "wooden table"
+      ],
+      "beats": [
+        "She opens the book",
+        "She points to the basket",
+        "They share the apples"
+      ],
+      "ending": "A book and a basket shared between two people"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The book described an ideology built around sharing.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "legacy",
+    "targetSense": "遗赠物",
+    "anchor": "violin",
+    "anchorMeaning": "小提琴",
+    "relation": "A legacy is something valuable passed on from one person to another.",
+    "sentence": "She received a violin as a legacy from her grandmother.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet family room",
+      "actor": "One woman holds a violin beside an old family chair",
+      "props": [
+        "single violin",
+        "plain chair",
+        "closed keepsake box"
+      ],
+      "beats": [
+        "She opens the keepsake box",
+        "She lifts the violin out",
+        "She holds the inherited violin"
+      ],
+      "ending": "One inherited violin beside the keepsake box"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She received a violin as a legacy from her grandmother.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "entail",
+    "targetSense": "意味着；需要",
+    "anchor": "suitcase",
+    "anchorMeaning": "手提箱",
+    "relation": "To entail something is to involve it as a necessary part or result.",
+    "sentence": "The new job will entail several trips, so she packed her suitcase.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bedroom before a trip",
+      "actor": "One woman packs a suitcase for frequent work travel",
+      "props": [
+        "open suitcase",
+        "folded shirt",
+        "travel shoes"
+      ],
+      "beats": [
+        "She checks the clothes",
+        "She places a shirt in the suitcase",
+        "She closes the suitcase for the trip"
+      ],
+      "ending": "A suitcase packed for travel required by the job"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The new job will entail several trips, so she packed her suitcase.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "broker",
+    "targetSense": "经纪人",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "A broker arranges a deal between a buyer and a seller.",
+    "sentence": "The broker showed one buyer a small house before she made an offer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small house for sale",
+      "actor": "One broker shows one buyer the front of a small house",
+      "props": [
+        "small house",
+        "plain key",
+        "wooden gate"
+      ],
+      "beats": [
+        "The buyer arrives",
+        "The broker shows the house",
+        "The buyer examines the key"
+      ],
+      "ending": "A broker and buyer beside the house"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The broker showed one buyer a small house before she made an offer.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "crown",
+    "targetSense": "王冠",
+    "anchor": "king",
+    "anchorMeaning": "国王",
+    "relation": "A crown is a ceremonial headpiece worn by a ruler.",
+    "sentence": "The bareheaded king set the only gold crown on a velvet cushion.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple royal room with a bare wall",
+      "actor": "One bareheaded king places the only gold crown in the room on a velvet cushion",
+      "props": [
+        "one gold crown",
+        "plain velvet cushion",
+        "low wooden table"
+      ],
+      "beats": [
+        "The bareheaded king lifts the single crown",
+        "He sets it on the cushion",
+        "The crown rests alone on the table"
+      ],
+      "ending": "One gold crown rests on a velvet cushion",
+      "artDirection": "Exactly one crown in the entire image. The king must be bareheaded. No crown motifs, portraits, throne carvings, additional crowns, or crown-shaped decorations."
+    },
+    "artDirection": "Show exactly one crown in the whole image. The king is bareheaded; use a plain wall and simple table. No portraits, crown symbols, or throne.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The bareheaded king set the only gold crown on a velvet cushion.” Natural and readable; count-sensitive props and the target detail are explicitly controlled."
+    }
+  },
+  {
+    "word": "lever",
+    "targetSense": "杠杆",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "A lever is a bar used to move or lift something with less effort.",
+    "sentence": "The worker pulled the lever to lift the heavy gate.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain workshop beside a gate",
+      "actor": "One worker pulls a simple lever connected to a heavy gate",
+      "props": [
+        "wooden lever",
+        "heavy gate",
+        "stone block"
+      ],
+      "beats": [
+        "The worker grips the lever",
+        "The lever pivots",
+        "The gate rises slightly"
+      ],
+      "ending": "A lever raises the heavy gate"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The worker pulled the lever to lift the heavy gate.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "likelihood",
+    "targetSense": "可能性",
+    "anchor": "cloud",
+    "anchorMeaning": "云",
+    "relation": "Likelihood describes how probable an event is.",
+    "sentence": "Dark clouds raised the likelihood of rain over the picnic field.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A picnic field under clouds",
+      "actor": "One person looks up as dark clouds gather above a picnic blanket",
+      "props": [
+        "dark clouds",
+        "picnic blanket",
+        "closed basket"
+      ],
+      "beats": [
+        "The sky is clear",
+        "Dark clouds gather",
+        "The person looks toward them"
+      ],
+      "ending": "A picnic under clouds that suggest likely rain"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Dark clouds raised the likelihood of rain over the picnic field.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "limb",
+    "targetSense": "肢体；大树枝",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "relation": "A limb is an arm or leg, or a large branch of a tree.",
+    "sentence": "A broken limb from the oak tree blocked the garden path.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden path beneath an oak",
+      "actor": "No people; one large oak limb has fallen across the path",
+      "props": [
+        "oak tree",
+        "broken tree limb",
+        "garden path"
+      ],
+      "beats": [
+        "The limb breaks from the tree",
+        "It falls across the path",
+        "The blocked path remains visible"
+      ],
+      "ending": "One fallen limb blocks the garden path"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A broken limb from the oak tree blocked the garden path.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "proclaim",
+    "targetSense": "宣布；声明",
+    "anchor": "flag",
+    "anchorMeaning": "旗子",
+    "relation": "To proclaim something is to announce it publicly and clearly.",
+    "sentence": "The mayor raised a flag to proclaim the festival open.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small town square",
+      "actor": "One mayor raises a plain flag to announce a festival",
+      "props": [
+        "plain flag",
+        "small podium",
+        "flower garland"
+      ],
+      "beats": [
+        "The mayor steps forward",
+        "The flag is raised",
+        "The festival is declared open"
+      ],
+      "ending": "A mayor raises a flag in the town square"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The mayor raised a flag to proclaim the festival open.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "await",
+    "targetSense": "等候",
+    "anchor": "station",
+    "anchorMeaning": "车站",
+    "relation": "To await something is to wait for it to arrive or happen.",
+    "sentence": "They gathered at the station to await the train.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet railway platform",
+      "actor": "Two travelers wait beside a station bench for a train",
+      "props": [
+        "station bench",
+        "railway track",
+        "small suitcase"
+      ],
+      "beats": [
+        "The travelers reach the platform",
+        "They wait beside the track",
+        "A train approaches"
+      ],
+      "ending": "Two travelers await a train at the platform"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “They gathered at the station to await the train.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "condemn",
+    "targetSense": "谴责",
+    "anchor": "gavel",
+    "anchorMeaning": "法槌",
+    "relation": "To condemn an act is to express strong disapproval of it.",
+    "sentence": "The judge used a gavel to condemn the cruel act.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple courtroom",
+      "actor": "One judge raises a gavel while speaking about a cruel act",
+      "props": [
+        "plain gavel",
+        "wooden bench",
+        "blank paper"
+      ],
+      "beats": [
+        "The judge reviews the case",
+        "She raises the gavel",
+        "She condemns the act"
+      ],
+      "ending": "A judge condemns an act from the bench"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The judge used a gavel to condemn the cruel act.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "filter",
+    "targetSense": "过滤；滤器",
+    "anchor": "coffee",
+    "anchorMeaning": "咖啡",
+    "relation": "To filter a liquid is to remove unwanted material through a barrier.",
+    "sentence": "She poured coffee through a paper filter to remove the grounds.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen counter with a bare wall and no shelves",
+      "actor": "One woman pours coffee from one single kettle through a paper filter into one cup",
+      "props": [
+        "one plain coffee kettle",
+        "paper coffee filter",
+        "one plain cup"
+      ],
+      "beats": [
+        "She places the filter over the cup",
+        "She pours coffee from the only kettle",
+        "The grounds stay in the filter as coffee fills the cup"
+      ],
+      "ending": "Coffee passes through a paper filter into one cup",
+      "artDirection": "Show exactly one kettle and one cup. No other pots, kettles, jars, bowls, plant pots, containers, shelves, or extra vessels anywhere."
+    },
+    "artDirection": "No readable text, numbers, or logos. Exactly one kettle and one cup; no other pots or containers in the image.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “She poured coffee through a paper filter to remove the grounds.” Natural and readable; count-sensitive props and the target detail are explicitly controlled."
+    }
+  },
+  {
+    "word": "fluid",
+    "targetSense": "流体",
+    "anchor": "tube",
+    "anchorMeaning": "玻璃管",
+    "relation": "A fluid is a substance that flows and takes the shape of its container.",
+    "sentence": "Water is a fluid that flows through a glass tube.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bright science table",
+      "actor": "No people; clear water flows through a curved glass tube",
+      "props": [
+        "water",
+        "glass tube",
+        "plain jar"
+      ],
+      "beats": [
+        "Water enters the tube",
+        "It flows along the curve",
+        "It collects in the jar"
+      ],
+      "ending": "Water moves through a glass tube"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Water is a fluid that flows through a glass tube.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "incidentally",
+    "targetSense": "附带地；顺便说",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "Incidentally introduces an extra fact or side comment in a conversation.",
+    "sentence": "Incidentally, she left her umbrella beside the desk.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet office corner",
+      "actor": "One woman speaks beside a desk while an umbrella is left nearby",
+      "props": [
+        "plain umbrella",
+        "wooden desk",
+        "small chair"
+      ],
+      "beats": [
+        "She talks beside the desk",
+        "She notices the umbrella",
+        "It remains beside the desk"
+      ],
+      "ending": "An umbrella sits beside the desk during a side comment"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Incidentally, she left her umbrella beside the desk.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "parade",
+    "targetSense": "游行",
+    "anchor": "clock tower",
+    "anchorMeaning": "钟楼",
+    "relation": "A parade is a public procession that moves along a route.",
+    "sentence": "A drum led the town parade past the clock tower.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A town street by a clock tower",
+      "actor": "One drummer walks at the front of a small parade route",
+      "props": [
+        "single drum",
+        "clock tower",
+        "plain float"
+      ],
+      "beats": [
+        "The drummer begins to play",
+        "The parade moves along the street",
+        "It passes the tower"
+      ],
+      "ending": "A drummer leads the parade past the tower"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A drum led the town parade past the clock tower.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "pave",
+    "targetSense": "铺设；铺路",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "To pave a path is to cover it with a firm surface.",
+    "sentence": "Workers used flat stones to pave the path through the garden.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden walkway under repair",
+      "actor": "Two workers lay flat stones along a garden path",
+      "props": [
+        "flat stones",
+        "garden path",
+        "wooden wheelbarrow"
+      ],
+      "beats": [
+        "They clear the path",
+        "They place flat stones",
+        "The paved path reaches the gate"
+      ],
+      "ending": "A stone path is being paved"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Workers used flat stones to pave the path through the garden.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "preliminary",
+    "targetSense": "初步的",
+    "anchor": "sketch",
+    "anchorMeaning": "草图",
+    "relation": "Preliminary describes an early step taken before the main work.",
+    "sentence": "The architect made a preliminary sketch before drawing the house plan.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bright architect's studio",
+      "actor": "One architect studies a rough sketch beside a blank house model",
+      "props": [
+        "rough sketch",
+        "blank house model",
+        "wooden pencil"
+      ],
+      "beats": [
+        "The architect studies the model",
+        "She draws a first sketch",
+        "She compares sketch and model"
+      ],
+      "ending": "A first sketch precedes the finished house plan"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The architect made a preliminary sketch before drawing the house plan.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "shield",
+    "targetSense": "盾牌；保护",
+    "anchor": "branch",
+    "anchorMeaning": "树枝",
+    "relation": "A shield is a protective object held to block danger.",
+    "sentence": "The knight raised his shield against a falling branch.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A forest path",
+      "actor": "One knight holds a shield above himself as a branch falls",
+      "props": [
+        "plain shield",
+        "falling branch",
+        "forest path"
+      ],
+      "beats": [
+        "The branch breaks loose",
+        "The knight raises the shield",
+        "The branch lands against it"
+      ],
+      "ending": "A shield blocks a falling branch"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The knight raised his shield against a falling branch.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "terminate",
+    "targetSense": "终止",
+    "anchor": "paper",
+    "anchorMeaning": "纸张",
+    "relation": "To terminate something is to bring it to an end.",
+    "sentence": "They signed a paper to terminate the lease early.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain office desk",
+      "actor": "Two adults sign a blank paper to end a rental agreement",
+      "props": [
+        "blank paper",
+        "house key",
+        "wooden desk"
+      ],
+      "beats": [
+        "They review the paper",
+        "They sign to end the lease",
+        "They place the key beside it"
+      ],
+      "ending": "A blank lease paper lies beside a key"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “They signed a paper to terminate the lease early.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "tow",
+    "targetSense": "拖；牵引",
+    "anchor": "truck",
+    "anchorMeaning": "卡车",
+    "relation": "To tow a vehicle is to pull it behind another vehicle.",
+    "sentence": "A small truck had to tow the broken car from the road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet country road",
+      "actor": "One tow truck pulls a broken car toward the roadside",
+      "props": [
+        "small tow truck",
+        "broken car",
+        "plain tow rope"
+      ],
+      "beats": [
+        "The car stops",
+        "The rope is attached",
+        "The truck pulls the car aside"
+      ],
+      "ending": "A truck tows a broken car off the road"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A small truck had to tow the broken car from the road.” The anchor and target sense are clear in one drawable scene."
+    }
+  }
+]

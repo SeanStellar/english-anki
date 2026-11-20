@@ -1,0 +1,662 @@
+[
+  {
+    "word": "precise",
+    "anchor": "ruler",
+    "anchorMeaning": "尺子",
+    "sentence": "The carpenter used a ruler to make a precise cut in the board.",
+    "relation": "The scene links precise with ruler: The carpenter used a ruler to make a precise cut in the board.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A neat woodworking bench.",
+      "actor": "One adult carpenter measures a board carefully before cutting it.",
+      "props": [
+        "one plain ruler",
+        "one wooden board",
+        "one handsaw"
+      ],
+      "beats": [
+        "The carpenter measures the board.",
+        "They mark a straight cut.",
+        "The ruler helps make a precise cut."
+      ],
+      "ending": "The carpenter makes a straight measured cut."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links precise with ruler: The carpenter used a ruler to make a precise cut in the board.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "suppress",
+    "anchor": "lid",
+    "anchorMeaning": "盖子",
+    "sentence": "A heavy lid helped suppress the steam rising from the pot.",
+    "relation": "The scene links suppress with lid: A heavy lid helped suppress the steam rising from the pot.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean kitchen stove.",
+      "actor": "One adult cook places a heavy lid over a steaming pot.",
+      "props": [
+        "one heavy pot lid",
+        "one steaming pot",
+        "one stovetop"
+      ],
+      "beats": [
+        "Steam rises from the pot.",
+        "The cook lowers the lid.",
+        "The lid suppresses most of the steam."
+      ],
+      "ending": "The lid covers the pot and holds the steam down."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links suppress with lid: A heavy lid helped suppress the steam rising from the pot.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "abundant",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "sentence": "Abundant apples filled the basket beside the orchard tree.",
+    "relation": "The scene links abundant with apple: Abundant apples filled the basket beside the orchard tree.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny apple orchard.",
+      "actor": "No people; many ripe apples fill one basket beneath an apple tree.",
+      "props": [
+        "many red apples",
+        "one woven basket",
+        "one leafy apple tree"
+      ],
+      "beats": [
+        "Apples hang from the tree.",
+        "Several apples rest in the basket.",
+        "The abundant fruit fills the scene."
+      ],
+      "ending": "A full basket shows the orchard’s abundant apples."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links abundant with apple: Abundant apples filled the basket beside the orchard tree.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "appliance",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "sentence": "The toaster, a kitchen appliance, browned the bread for breakfast.",
+    "relation": "The scene links appliance with bread: The toaster, a kitchen appliance, browned the bread for breakfast.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple kitchen counter at breakfast time.",
+      "actor": "No people; a plain toaster finishes browning slices of bread.",
+      "props": [
+        "one plain toaster",
+        "two slices of bread",
+        "one clean counter"
+      ],
+      "beats": [
+        "Bread rests in the toaster.",
+        "The appliance warms the slices.",
+        "Golden toast appears above the toaster."
+      ],
+      "ending": "The toaster browns the bread."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links appliance with bread: The toaster, a kitchen appliance, browned the bread for breakfast.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "currency",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "sentence": "The shopkeeper accepted coins as currency for the loaf.",
+    "relation": "The scene links currency with coin: The shopkeeper accepted coins as currency for the loaf.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small neighborhood bakery counter.",
+      "actor": "Exactly two adults: one customer offers plain coins and the shopkeeper gives one loaf.",
+      "props": [
+        "one plain loaf of bread",
+        "several blank coins",
+        "one simple counter"
+      ],
+      "beats": [
+        "The customer offers coins.",
+        "The shopkeeper accepts them.",
+        "The coins serve as currency for the loaf."
+      ],
+      "ending": "Coins change hands for the loaf of bread."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links currency with coin: The shopkeeper accepted coins as currency for the loaf.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "bicycle",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "sentence": "He parked his bicycle beside the wooden fence.",
+    "relation": "The scene links bicycle with fence: He parked his bicycle beside the wooden fence.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet country lane.",
+      "actor": "One adult parks a bicycle neatly beside the fence.",
+      "props": [
+        "one simple bicycle",
+        "one wooden fence",
+        "one narrow lane"
+      ],
+      "beats": [
+        "The rider arrives on the lane.",
+        "He stops the bicycle.",
+        "He parks it beside the fence."
+      ],
+      "ending": "The bicycle rests beside the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links bicycle with fence: He parked his bicycle beside the wooden fence.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "eastern",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "sentence": "The eastern sky glowed pink as the sun rose over the farm.",
+    "relation": "The scene links eastern with sun: The eastern sky glowed pink as the sun rose over the farm.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An open farm at dawn.",
+      "actor": "No people; soft pink light spreads across the eastern sky as the sun rises.",
+      "props": [
+        "one rising sun",
+        "one open field",
+        "one distant barn"
+      ],
+      "beats": [
+        "The horizon brightens.",
+        "The sun rises in the east.",
+        "The eastern sky turns pink."
+      ],
+      "ending": "The eastern sky glows at sunrise."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links eastern with sun: The eastern sky glowed pink as the sun rose over the farm.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "guilt",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "sentence": "Guilt weighed on him as he found the broken vase beside the ball.",
+    "relation": "The scene links guilt with ball: Guilt weighed on him as he found the broken vase beside the ball.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet living room with a low table.",
+      "actor": "One child looks remorseful beside a broken vase and a toy ball.",
+      "props": [
+        "one broken plain vase",
+        "one simple ball",
+        "one low table"
+      ],
+      "beats": [
+        "The ball rests near the broken vase.",
+        "The child notices the damage.",
+        "A guilty expression appears on his face."
+      ],
+      "ending": "The child looks guilty beside the broken vase and ball."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links guilt with ball: Guilt weighed on him as he found the broken vase beside the ball.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "tolerance",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "sentence": "She showed tolerance when her friend spilled water on the floor.",
+    "relation": "The scene links tolerance with friend: She showed tolerance when her friend spilled water on the floor.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright kitchen with a plain tile floor.",
+      "actor": "Exactly two adults: one friend has accidentally spilled water while the other responds patiently.",
+      "props": [
+        "one small puddle of water",
+        "one plain cup",
+        "one clean towel"
+      ],
+      "beats": [
+        "The cup tips over.",
+        "Water spills on the floor.",
+        "Her friend responds with tolerance and helps clean it."
+      ],
+      "ending": "She patiently helps her friend wipe up the spill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tolerance with friend: She showed tolerance when her friend spilled water on the floor.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "parallel",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "Two parallel rails ran side by side along the bridge.",
+    "relation": "The scene links parallel with bridge: Two parallel rails ran side by side along the bridge.",
+    "artDirection": "No text, letters, numbers, crosswise bars, extra rails, labels, signs, logos, or watermarks; show only two rails running lengthwise with the bridge.",
+    "scene": {
+      "setting": "A narrow wooden footbridge viewed from one end, extending over a stream, with no guardrails or balustrades.",
+      "actor": "No people; exactly two straight, separate rails run lengthwise from the near end to the far end of the bridge, one along each edge.",
+      "props": [
+        "exactly two lengthwise parallel rails, both fully visible from end to end",
+        "one plain wooden bridge deck with no guardrails or crossbars",
+        "one calm stream"
+      ],
+      "beats": [
+        "The two rails begin at the near end of the bridge.",
+        "They extend forward along the two edges of the deck.",
+        "They stay side by side and parallel all the way to the far end."
+      ],
+      "ending": "Two parallel rails run lengthwise along the simple bridge over the stream."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links parallel with bridge: Two parallel rails ran side by side along the bridge.",
+      "reviewNote": "Sentence manually checked for natural, readable English before generation; after image review, the scene prompt was tightened to show exactly two lengthwise rails."
+    }
+  },
+  {
+    "word": "instinct",
+    "anchor": "bird",
+    "anchorMeaning": "鸟",
+    "sentence": "The bird’s instinct led it to build a nest before the rain.",
+    "relation": "The scene links instinct with bird: The bird’s instinct led it to build a nest before the rain.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A leafy tree beside a garden.",
+      "actor": "One small bird carries a twig to a nest as clouds gather.",
+      "props": [
+        "one small bird",
+        "one simple twig nest",
+        "one leafy branch"
+      ],
+      "beats": [
+        "The bird gathers a twig.",
+        "It adds the twig to the nest.",
+        "Instinct guides its building before rain."
+      ],
+      "ending": "The bird builds its nest as rain clouds approach."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links instinct with bird: The bird’s instinct led it to build a nest before the rain.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "premium",
+    "anchor": "insurance",
+    "anchorMeaning": "保险",
+    "sentence": "The family paid a premium for insurance on their house.",
+    "relation": "The scene links premium with insurance: The family paid a premium for insurance on their house.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A modest home table with a house visible through the window.",
+      "actor": "Exactly two adults: one homeowner gives plain coins to an insurance agent across a table.",
+      "props": [
+        "one simple house key",
+        "a few blank coins",
+        "one blank paper sheet"
+      ],
+      "beats": [
+        "The homeowner discusses the house.",
+        "Coins are handed to the agent.",
+        "The payment is an insurance premium."
+      ],
+      "ending": "The homeowner pays for insurance on the house."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links premium with insurance: The family paid a premium for insurance on their house.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "shuttle",
+    "anchor": "sky",
+    "anchorMeaning": "天空",
+    "sentence": "The shuttle rose from its launch pad into the open sky.",
+    "relation": "The scene links shuttle with sky: The shuttle rose from its launch pad into the open sky.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet launch site at dawn.",
+      "actor": "No people; one space shuttle lifts upward from the pad without logos or markings.",
+      "props": [
+        "one unmarked space shuttle",
+        "one simple launch pad",
+        "one open sky"
+      ],
+      "beats": [
+        "The shuttle rests on the pad.",
+        "It rises above the ground.",
+        "The shuttle climbs into the sky."
+      ],
+      "ending": "The shuttle rises into the sky."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links shuttle with sky: The shuttle rose from its launch pad into the open sky.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "collective",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "sentence": "Two neighbors made a collective effort to move the fallen tree from the path.",
+    "relation": "The scene links collective with tree: Two neighbors made a collective effort to move the fallen tree from the path.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A park path blocked by a fallen tree.",
+      "actor": "Exactly two adult neighbors work together to move one fallen tree.",
+      "props": [
+        "one fallen tree",
+        "one clear park path",
+        "one simple rope"
+      ],
+      "beats": [
+        "The neighbors grasp the trunk.",
+        "They lift together.",
+        "Their collective effort clears the path."
+      ],
+      "ending": "The two neighbors move the fallen tree together."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links collective with tree: Two neighbors made a collective effort to move the fallen tree from the path.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "continuous",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "sentence": "A continuous stream of water flowed from the spring into the pond.",
+    "relation": "The scene links continuous with water: A continuous stream of water flowed from the spring into the pond.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A green hillside with a small spring.",
+      "actor": "No people; a steady stream flows continuously downhill into one pond.",
+      "props": [
+        "one clear spring",
+        "one flowing stream of water",
+        "one small pond"
+      ],
+      "beats": [
+        "Water emerges from the spring.",
+        "It flows without stopping.",
+        "The stream reaches the pond continuously."
+      ],
+      "ending": "Water flows in a continuous stream into the pond."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links continuous with water: A continuous stream of water flowed from the spring into the pond.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "resistant",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "sentence": "Her rain-resistant coat kept her dry during the walk.",
+    "relation": "The scene links resistant with rain: Her rain-resistant coat kept her dry during the walk.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A rainy park path.",
+      "actor": "One adult walks comfortably in a coat that repels rain.",
+      "props": [
+        "one plain rain-resistant coat",
+        "one rainy path",
+        "one small umbrella held closed"
+      ],
+      "beats": [
+        "Rain falls on the walk.",
+        "Water beads on the coat.",
+        "The resistant coat keeps her dry."
+      ],
+      "ending": "The woman stays dry in her rain-resistant coat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links resistant with rain: Her rain-resistant coat kept her dry during the walk.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "elaborate",
+    "anchor": "birdhouse",
+    "anchorMeaning": "鸟屋",
+    "sentence": "The artist carved an elaborate birdhouse with many tiny windows.",
+    "relation": "The scene links elaborate with birdhouse: The artist carved an elaborate birdhouse with many tiny windows.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy outdoor workbench in a garden.",
+      "actor": "One adult artist carefully carves a detailed wooden birdhouse.",
+      "props": [
+        "one ornate birdhouse with tiny openings",
+        "one plain carving tool",
+        "one wooden workbench"
+      ],
+      "beats": [
+        "The artist shapes the small details.",
+        "Many tiny windows appear.",
+        "The elaborate birdhouse is complete."
+      ],
+      "ending": "The artist finishes the detailed birdhouse."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links elaborate with birdhouse: The artist carved an elaborate birdhouse with many tiny windows.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "indispensable",
+    "anchor": "bottle",
+    "anchorMeaning": "瓶子",
+    "sentence": "A clean water bottle was indispensable on the long hike.",
+    "relation": "The scene links indispensable with bottle: A clean water bottle was indispensable on the long hike.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A mountain trail under a bright sky.",
+      "actor": "One tired adult hiker drinks from a water bottle during a long walk.",
+      "props": [
+        "one plain water bottle",
+        "one hiking backpack",
+        "one rocky trail"
+      ],
+      "beats": [
+        "The hiker pauses on the trail.",
+        "They drink from the bottle.",
+        "The bottle is indispensable on the hike."
+      ],
+      "ending": "The hiker relies on the water bottle."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links indispensable with bottle: A clean water bottle was indispensable on the long hike.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "electrical",
+    "anchor": "wire",
+    "anchorMeaning": "电线",
+    "sentence": "An electrical wire powered the small lamp on the desk.",
+    "relation": "The scene links electrical with wire: An electrical wire powered the small lamp on the desk.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet study desk in the evening.",
+      "actor": "No people; a visible plain wire connects a small lamp to a simple wall outlet.",
+      "props": [
+        "one unmarked electrical wire",
+        "one small desk lamp",
+        "one plain wall outlet"
+      ],
+      "beats": [
+        "The wire connects to the lamp.",
+        "The lamp turns on.",
+        "Electrical power reaches the desk."
+      ],
+      "ending": "The electrical wire powers the lamp."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links electrical with wire: An electrical wire powered the small lamp on the desk.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "governor",
+    "anchor": "resident",
+    "anchorMeaning": "居民",
+    "sentence": "The governor greeted one resident on the capitol steps.",
+    "relation": "The scene links governor with resident: The governor greeted one resident on the capitol steps.",
+    "artDirection": "No text, letters, numbers, plaques, seals, flags, labels, signs, logos, or watermarks; use a completely blank government building facade.",
+    "scene": {
+      "setting": "Broad stone steps outside a plain capitol building with a completely blank facade.",
+      "actor": "Exactly two adults: one governor in simple formal clothes greets one local resident.",
+      "props": [
+        "one blank government building facade with no sign or emblem",
+        "one plain briefcase",
+        "one broad stone step"
+      ],
+      "beats": [
+        "The resident approaches the governor.",
+        "The governor warmly greets the resident.",
+        "They stand together on the capitol steps."
+      ],
+      "ending": "The governor greets one resident outside the plain capitol."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links governor with resident: The governor greeted one resident on the capitol steps.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  }
+]

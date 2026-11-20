@@ -1,0 +1,662 @@
+[
+  {
+    "word": "permission",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "The scene links permission with gate: She waited for her parent's permission before opening the garden gate.",
+    "sentence": "She waited for her parent's permission before opening the garden gate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny garden entrance with a plain wooden gate.",
+      "actor": "Exactly two people: a child waits while one adult parent gives permission with a gentle nod.",
+      "props": [
+        "one simple garden gate",
+        "one plain key",
+        "one short garden path"
+      ],
+      "beats": [
+        "The child reaches for the gate.",
+        "The parent gives a calm approving nod.",
+        "The child opens it after receiving permission."
+      ],
+      "ending": "The parent nods as the child opens the gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links permission with gate: She waited for her parent's permission before opening the garden gate.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "equivalent",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "The scene links equivalent with cup: The two cups held equivalent amounts of water.",
+    "sentence": "The two cups held equivalent amounts of water.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean kitchen table against a blank wall.",
+      "actor": "No people; two matching cups have exactly equal water levels.",
+      "props": [
+        "one plain blue cup",
+        "one plain green cup",
+        "one simple table"
+      ],
+      "beats": [
+        "The cups are set side by side.",
+        "Their water levels match exactly.",
+        "The equal amounts are equivalent."
+      ],
+      "ending": "Two cups contain the same amount of water."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links equivalent with cup: The two cups held equivalent amounts of water.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "ultimate",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "The scene links ultimate with mountain: Their ultimate goal was to reach the mountain summit.",
+    "sentence": "Their ultimate goal was to reach the mountain summit.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clear high mountain path at sunrise.",
+      "actor": "Exactly two adult hikers look toward the distant summit; no other people.",
+      "props": [
+        "one mountain peak",
+        "two simple hiking backpacks",
+        "one winding trail"
+      ],
+      "beats": [
+        "The hikers climb the final path.",
+        "They look toward the highest peak.",
+        "The summit is their ultimate goal."
+      ],
+      "ending": "Two hikers reach toward the mountain summit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links ultimate with mountain: Their ultimate goal was to reach the mountain summit.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "excess",
+    "anchor": "bucket",
+    "anchorMeaning": "桶",
+    "relation": "The scene links excess with bucket: An excess of rainwater overflowed from the full bucket.",
+    "sentence": "An excess of rainwater overflowed from the full bucket.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet yard after a rain shower.",
+      "actor": "No people; too much water spills over the rim of one full bucket.",
+      "props": [
+        "one full plain bucket",
+        "one small puddle",
+        "one wet stone path"
+      ],
+      "beats": [
+        "Rain fills the bucket.",
+        "Water rises above the rim.",
+        "The excess spills onto the path."
+      ],
+      "ending": "Rainwater overflows from the bucket."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links excess with bucket: An excess of rainwater overflowed from the full bucket.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "setback",
+    "anchor": "log",
+    "anchorMeaning": "原木",
+    "relation": "The scene links setback with log: A fallen log was a setback on the hikers’ path.",
+    "sentence": "A fallen log was a setback on the hikers’ path.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A forest trail in daylight.",
+      "actor": "Exactly two adult hikers pause before one fallen log blocking the trail.",
+      "props": [
+        "one fallen log",
+        "one narrow forest path",
+        "two plain hiking backpacks"
+      ],
+      "beats": [
+        "The hikers approach the blocked trail.",
+        "They stop at the fallen log.",
+        "The obstacle becomes a setback to their walk."
+      ],
+      "ending": "Two hikers pause at a log across the path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links setback with log: A fallen log was a setback on the hikers’ path.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "spelling",
+    "anchor": "pencil",
+    "anchorMeaning": "铅笔",
+    "relation": "The scene links spelling with pencil: She checked the spelling on her worksheet with a pencil before handing it in.",
+    "sentence": "She checked the spelling on her worksheet with a pencil before handing it in.",
+    "artDirection": "Absolutely no letters, words, numbers, marks, or legible writing anywhere, including on the worksheet; keep the sheet fully blank.",
+    "scene": {
+      "setting": "A quiet study desk with a blank wall.",
+      "actor": "One student reviews a completely blank worksheet with a pencil; only one person.",
+      "props": [
+        "one plain pencil",
+        "one blank worksheet with no marks or letters",
+        "one simple desk"
+      ],
+      "beats": [
+        "The student looks over the blank worksheet.",
+        "She checks her work with the pencil.",
+        "She prepares to hand in the page after checking spelling."
+      ],
+      "ending": "The student checks a blank worksheet with her pencil."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links spelling with pencil: She checked the spelling on her worksheet with a pencil before handing it in.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "hinder",
+    "anchor": "branch",
+    "anchorMeaning": "树枝",
+    "relation": "The scene links hinder with branch: A fallen branch could hinder a cyclist on the narrow path.",
+    "sentence": "A fallen branch could hinder a cyclist on the narrow path.",
+    "artDirection": "The cyclist must be off the bicycle with both feet on the ground. Do not show them riding, pedaling, jumping, or crossing over the branch. The bicycle must be stationary on the near side of the obstacle.",
+    "scene": {
+      "setting": "A quiet park path completely blocked by a large fallen branch, with a narrow grassy verge alongside.",
+      "actor": "One adult cyclist is off the bicycle, standing on foot and stopped before the branch; they hold the stationary bicycle and begin walking it around the obstacle.",
+      "props": [
+        "one stationary bicycle with its wheels on the ground",
+        "one large fallen branch spanning the whole path",
+        "one clear narrow grassy route around the branch"
+      ],
+      "beats": [
+        "The cyclist has stopped before the branch.",
+        "The branch blocks the path and hinders forward travel.",
+        "The cyclist walks the bicycle around the obstacle on foot."
+      ],
+      "ending": "The cyclist stands beside the stopped bicycle before the branch, unable to ride through and preparing to walk around it."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hinder with branch: A fallen branch could hinder a cyclist on the narrow path.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "musician",
+    "anchor": "violin",
+    "anchorMeaning": "小提琴",
+    "relation": "The scene links musician with violin: The musician tuned her violin before the concert.",
+    "sentence": "The musician tuned her violin before the concert.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet music room with a plain wall.",
+      "actor": "One adult musician carefully tunes one violin; only one person.",
+      "props": [
+        "one wooden violin",
+        "one plain bow",
+        "one simple music stand holding blank pages"
+      ],
+      "beats": [
+        "The musician lifts the violin.",
+        "She adjusts its strings by ear.",
+        "The instrument is ready for the concert."
+      ],
+      "ending": "The musician tunes her violin beside the stand."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links musician with violin: The musician tuned her violin before the concert.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "narrative",
+    "anchor": "traveler",
+    "anchorMeaning": "旅行者",
+    "relation": "The scene links narrative with traveler: The storyteller’s narrative followed a traveler from the coast to the mountains.",
+    "sentence": "The storyteller’s narrative followed a traveler from the coast to the mountains.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm reading corner with a plain wall.",
+      "actor": "One storyteller shares a wordless picture book with one listener; exactly two people.",
+      "props": [
+        "one open picture book showing a coast and mountains with no words",
+        "one plain armchair",
+        "one simple floor cushion"
+      ],
+      "beats": [
+        "The storyteller opens the picture book.",
+        "The pictures follow a traveler across changing landscapes.",
+        "The sequence forms a narrative."
+      ],
+      "ending": "The storyteller shows a wordless travel story."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links narrative with traveler: The storyteller’s narrative followed a traveler from the coast to the mountains.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "dislike",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "The scene links dislike with cup: He showed his dislike of bitter tea by turning away from the cup.",
+    "sentence": "He showed his dislike of bitter tea by turning away from the cup.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet breakfast table.",
+      "actor": "One adult turns slightly away from one cup of tea; only one person.",
+      "props": [
+        "one plain cup of tea",
+        "one simple wooden table",
+        "one small unmarked spoon"
+      ],
+      "beats": [
+        "He tastes the tea.",
+        "His face shows mild dislike.",
+        "He turns away from the cup."
+      ],
+      "ending": "The man turns from the cup of bitter tea."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dislike with cup: He showed his dislike of bitter tea by turning away from the cup.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "semester",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "The scene links semester with book: On the first day of the semester, she opened a new book.",
+    "sentence": "On the first day of the semester, she opened a new book.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright classroom desk with a blank wall.",
+      "actor": "One adult student opens one new textbook; only one person.",
+      "props": [
+        "one plain closed book with an unmarked cover",
+        "one simple desk",
+        "one blank notebook"
+      ],
+      "beats": [
+        "The student sits down on the first school day.",
+        "She opens the new book.",
+        "A new semester begins with study."
+      ],
+      "ending": "The student opens a book at the start of the semester."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links semester with book: On the first day of the semester, she opened a new book.",
+      "reviewNote": "Manually rechecked for fluent, natural, readable English and a clear link between the target word and familiar anchor before image generation."
+    }
+  },
+  {
+    "word": "machinery",
+    "anchor": "wheat",
+    "anchorMeaning": "小麦",
+    "relation": "The scene links machinery with wheat: The factory machinery ground wheat into flour.",
+    "sentence": "The factory machinery ground wheat into flour.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small flour mill with a clear floor.",
+      "actor": "No people; simple machinery turns grain into flour.",
+      "props": [
+        "one plain mill machine",
+        "one small sack of wheat",
+        "one bowl of flour"
+      ],
+      "beats": [
+        "Wheat enters the mill.",
+        "The machinery turns its gears.",
+        "Flour collects in the bowl."
+      ],
+      "ending": "The mill machinery grinds wheat into flour."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links machinery with wheat: The factory machinery ground wheat into flour.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "census",
+    "anchor": "home",
+    "anchorMeaning": "家",
+    "relation": "The scene links census with home: During the census, the worker asked the resident how many people lived in the home.",
+    "sentence": "During the census, the worker asked the resident how many people lived in the home.",
+    "artDirection": "Clipboard and page must be completely blank, with no letters, numbers, ticks, or marks; no badges, labels, or signs.",
+    "scene": {
+      "setting": "A quiet front doorway with a plain wall.",
+      "actor": "Exactly two adults: one census worker speaks with one resident; both are relaxed.",
+      "props": [
+        "one blank clipboard with no marks",
+        "one simple front door",
+        "one plain pencil"
+      ],
+      "beats": [
+        "The worker visits the home.",
+        "The resident answers a question about household size.",
+        "The worker records the census on a blank page."
+      ],
+      "ending": "The census worker speaks with the resident at the doorway."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links census with home: During the census, the worker asked the resident how many people lived in the home.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "fade",
+    "anchor": "paint",
+    "anchorMeaning": "颜料",
+    "relation": "The scene links fade with paint: The red paint began to fade under the afternoon sun.",
+    "sentence": "The red paint began to fade under the afternoon sun.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden wall in afternoon light.",
+      "actor": "No people; one red painted patch becomes visibly paler where sunlight reaches it.",
+      "props": [
+        "one painted red wall patch fading to pale pink",
+        "one warm sunlit area",
+        "one plain wall"
+      ],
+      "beats": [
+        "The wall begins with a strong red color.",
+        "Afternoon sun washes the color lighter.",
+        "The paint fades gradually."
+      ],
+      "ending": "The red paint is paler in the sunlight."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fade with paint: The red paint began to fade under the afternoon sun.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "tolerant",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "The scene links tolerant with dog: She remained tolerant when her neighbor's dog barked at the gate.",
+    "sentence": "She remained tolerant when her neighbor's dog barked at the gate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful shared garden entrance.",
+      "actor": "Exactly two adults: one woman remains calm while her neighbor’s friendly dog barks softly nearby.",
+      "props": [
+        "one friendly dog",
+        "one plain garden gate",
+        "one small flower bed"
+      ],
+      "beats": [
+        "The dog gives a small bark.",
+        "The woman stays patient and calm.",
+        "Her tolerant response keeps the moment peaceful."
+      ],
+      "ending": "The calm woman stands beside the barking dog and gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tolerant with dog: She remained tolerant when her neighbor's dog barked at the gate.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "architecture",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "The scene links architecture with bridge: The bridge’s architecture combined stone arches with sturdy wooden rails.",
+    "sentence": "The bridge’s architecture combined stone arches with sturdy wooden rails.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet riverside landscape in daylight.",
+      "actor": "No people; one stone bridge has clear arches and wooden rails.",
+      "props": [
+        "one stone bridge with arches",
+        "one set of plain wooden rails",
+        "one broad river"
+      ],
+      "beats": [
+        "The bridge crosses the river.",
+        "Its stone arches support the span.",
+        "The wooden rails complete its architecture."
+      ],
+      "ending": "The arched bridge shows its sturdy design."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links architecture with bridge: The bridge’s architecture combined stone arches with sturdy wooden rails.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "curb",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "relation": "The scene links curb with sheep: A low fence helped curb the sheep’s movement toward the road.",
+    "sentence": "A low fence helped curb the sheep’s movement toward the road.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A green meadow beside a quiet country road.",
+      "actor": "No people; one sheep stays behind a low fence, away from the road.",
+      "props": [
+        "one low wooden fence",
+        "one sheep",
+        "one empty country road"
+      ],
+      "beats": [
+        "The sheep approaches the meadow edge.",
+        "The low fence blocks its way to the road.",
+        "The barrier helps curb its movement."
+      ],
+      "ending": "The sheep remains safely behind the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links curb with sheep: A low fence helped curb the sheep’s movement toward the road.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "entrepreneur",
+    "anchor": "bakery",
+    "anchorMeaning": "面包店",
+    "relation": "The scene links entrepreneur with bakery: The entrepreneur opened a small bakery and served her first customer.",
+    "sentence": "The entrepreneur opened a small bakery and served her first customer.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A cozy bakery interior with a blank storefront.",
+      "actor": "Exactly two adults: one bakery owner serves one customer; no others.",
+      "props": [
+        "one plain loaf of bread",
+        "one empty serving counter",
+        "one simple bakery doorway"
+      ],
+      "beats": [
+        "The entrepreneur opens the bakery.",
+        "A customer arrives.",
+        "She serves the first loaf."
+      ],
+      "ending": "The owner welcomes her first customer at the counter."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links entrepreneur with bakery: The entrepreneur opened a small bakery and served her first customer.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "controversial",
+    "anchor": "statue",
+    "anchorMeaning": "雕像",
+    "relation": "The scene links controversial with statue: The statue became controversial when two neighbors disagreed about keeping it.",
+    "sentence": "The statue became controversial when two neighbors disagreed about keeping it.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet town square with one plain statue.",
+      "actor": "Exactly two adult neighbors discuss the statue with different opinions but calm expressions.",
+      "props": [
+        "one simple unmarked stone statue",
+        "one small square pedestal",
+        "one open town square"
+      ],
+      "beats": [
+        "The neighbors look at the statue.",
+        "One gestures to keep it while the other hesitates.",
+        "Their disagreement makes it controversial."
+      ],
+      "ending": "Two neighbors debate calmly beside the statue."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links controversial with statue: The statue became controversial when two neighbors disagreed about keeping it.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "subsidy",
+    "anchor": "tractor",
+    "anchorMeaning": "拖拉机",
+    "relation": "The scene links subsidy with tractor: A subsidy helped the farmer buy a new tractor.",
+    "sentence": "A subsidy helped the farmer buy a new tractor.",
+    "artDirection": "No currency symbols, numbers, labels, writing, logos, or extra vehicles.",
+    "scene": {
+      "setting": "A sunny farmyard with an empty background.",
+      "actor": "One farmer stands beside a new tractor and a completely blank paper; only one person.",
+      "props": [
+        "one plain tractor with no markings",
+        "one blank paper sheet",
+        "one simple farmyard"
+      ],
+      "beats": [
+        "The farmer looks over the tractor.",
+        "A blank paper represents financial support.",
+        "The subsidy helps make the purchase possible."
+      ],
+      "ending": "The farmer stands beside the new tractor."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links subsidy with tractor: A subsidy helped the farmer buy a new tractor.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  }
+]

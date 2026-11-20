@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1681",
+    "serial": 4201,
+    "frequency": 9,
+    "word": "selfish",
+    "targetSense": "自私的",
+    "alt": "",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "男孩把整块蛋糕留给自己，表现 selfish。",
+    "sentence": "The selfish boy kept the whole cake for himself.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table with a plain pale background",
+      "actor": "One boy clutches the whole cake close to himself while one friend reaches toward it",
+      "props": [
+        "one boy",
+        "one friend",
+        "one whole cake"
+      ],
+      "beats": [
+        "The whole cake sits between the children",
+        "The boy pulls the cake toward himself",
+        "The friend is left without a slice"
+      ],
+      "ending": "One boy keeps the whole cake for himself."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two children and one uncut whole cake. The boy selfishly pulls the cake close while the friend reaches toward it. No other food, extra people, writing, labels, or text.",
+    "imageFile": "kyc-1681.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1682",
+    "serial": 4202,
+    "frequency": 9,
+    "word": "shrug",
+    "targetSense": "耸肩",
+    "alt": "",
+    "anchor": "shoulder",
+    "anchorMeaning": "肩膀",
+    "relation": "抬起双肩的动作就是 shrug，表现耸肩。",
+    "sentence": "She gives a small shrug, lifting both shoulders to show she does not know.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room with a plain pale wall",
+      "actor": "One woman lifts both shoulders and turns both palms upward in a small shrug",
+      "props": [
+        "one woman",
+        "raised shoulders",
+        "plain room"
+      ],
+      "beats": [
+        "She hears a question off scene",
+        "She lifts both shoulders and palms",
+        "She holds the shrug with a puzzled face"
+      ],
+      "ending": "One woman gives a clear shrug with both shoulders raised."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；shoulders 与 shrug 的动作关系清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman making one clear shrug, with both shoulders lifted and palms turned upward. No other people, speech bubbles, question marks, signs, or text.",
+    "imageFile": "kyc-1682.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1683",
+    "serial": 4204,
+    "frequency": 9,
+    "word": "tile",
+    "targetSense": "瓷砖",
+    "alt": "",
+    "anchor": "floor",
+    "anchorMeaning": "地板",
+    "relation": "工人把一块方形瓷砖铺在地板上，表现 tile。",
+    "sentence": "He lays one blue tile on the kitchen floor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple uncluttered room with one smooth unpatterned concrete floor",
+      "actor": "One tiler kneels on a smooth bare floor and presses exactly one blue square ceramic tile into place",
+      "props": [
+        "one tiler",
+        "one blue ceramic tile",
+        "one smooth bare floor"
+      ],
+      "beats": [
+        "The tiler positions the one tile on the bare floor",
+        "He presses the tile into place",
+        "The single blue tile rests alone on the floor"
+      ],
+      "ending": "One blue tile is installed on an otherwise bare floor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one square blue ceramic tile being installed on one otherwise bare smooth concrete floor. The floor must be a single uninterrupted surface with no grout lines, seams, grid, pattern, or other tiles. No other tiles, square patterns, people, tools, labels, writing, or text.",
+    "imageFile": "kyc-1683.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1684",
+    "serial": 4206,
+    "frequency": 9,
+    "word": "verge",
+    "targetSense": "边缘",
+    "alt": "",
+    "anchor": "field",
+    "anchorMeaning": "田野",
+    "relation": "道路边缘的草带紧挨着田野，表现 verge。",
+    "sentence": "The cyclist stopped at the grassy verge beside the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet country road beside an open field",
+      "actor": "One cyclist stops the bicycle at the grassy edge of the road beside the field",
+      "props": [
+        "one cyclist with a bicycle",
+        "one grassy road verge",
+        "one open field"
+      ],
+      "beats": [
+        "The cyclist rides along the road",
+        "The bicycle stops at the grassy edge",
+        "The field begins just beyond the verge"
+      ],
+      "ending": "One cyclist pauses at the grassy verge beside a field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one cyclist and one bicycle stopped at a clear grassy strip along the road, with one field immediately beyond it. No road signs, other cyclists, cars, writing, or text.",
+    "imageFile": "kyc-1684.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1685",
+    "serial": 4208,
+    "frequency": 9,
+    "word": "badge",
+    "targetSense": "徽章、象征",
+    "alt": "",
+    "anchor": "jacket",
+    "anchorMeaning": "夹克",
+    "relation": "徽章别在夹克上，表现 badge。",
+    "sentence": "The scout pins one badge onto her jacket.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet outdoor scout meeting with a plain background",
+      "actor": "One scout pins one small blank round badge onto her jacket",
+      "props": [
+        "one scout",
+        "one blank badge",
+        "one jacket"
+      ],
+      "beats": [
+        "The scout holds the badge near her jacket",
+        "She pins it to the fabric",
+        "The badge rests on the jacket"
+      ],
+      "ending": "One blank badge is pinned to the scout’s jacket."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one scout pinning exactly one plain blank round badge onto her jacket. Badge must have no symbol, mark, number, letter, logo, or text. No other people or extra badges.",
+    "imageFile": "kyc-1685.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1686",
+    "serial": 4210,
+    "frequency": 9,
+    "word": "browse",
+    "targetSense": "浏览",
+    "alt": "",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "她翻看书架上的书而不急着选，表现 browse。",
+    "sentence": "She likes to browse the books on the shelf.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm library aisle with one bookshelf",
+      "actor": "One woman casually looks along several books on the shelf without choosing one",
+      "props": [
+        "one woman",
+        "one shelf of books",
+        "one quiet library"
+      ],
+      "beats": [
+        "She approaches the shelf",
+        "She scans the book spines and covers",
+        "She continues browsing without taking a book"
+      ],
+      "ending": "One woman browses the books on a library shelf."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman browsing several books on one shelf. All book covers and spines must be blank, with no titles, letters, numbers, symbols, or labels. No other people or text.",
+    "imageFile": "kyc-1686.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1687",
+    "serial": 4211,
+    "frequency": 9,
+    "word": "bump",
+    "targetSense": "碰撞、肿块",
+    "alt": "",
+    "anchor": "knee",
+    "anchorMeaning": "膝盖",
+    "relation": "膝盖撞到矮桌，表现 bump。",
+    "sentence": "He can bump his knee against the low table if he walks too fast.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple room with one low wooden table",
+      "actor": "One boy walks past and bumps his knee against the low table",
+      "props": [
+        "one boy",
+        "one knee",
+        "one low table"
+      ],
+      "beats": [
+        "The boy walks past the table",
+        "His knee bumps the table edge",
+        "He pauses and rubs his knee"
+      ],
+      "ending": "One boy bumps his knee against a low table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one mild accidental knee bump against one low table. Keep the contact harmless with no bruise, blood, or injury. No extra people, furniture, signs, or text.",
+    "imageFile": "kyc-1687.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1688",
+    "serial": 4212,
+    "frequency": 9,
+    "word": "bundle",
+    "targetSense": "包、束",
+    "alt": "",
+    "anchor": "string",
+    "anchorMeaning": "绳子；细绳",
+    "relation": "一束木棍用细绳捆在一起，表现 bundle。",
+    "sentence": "She tied a bundle of sticks with a piece of string.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple outdoor work area with plain bare ground",
+      "actor": "One woman ties exactly one bundle of sticks with one short continuous piece of string, with both ends knotted onto the bundle",
+      "props": [
+        "one woman",
+        "one bundle of sticks",
+        "one short piece of string"
+      ],
+      "beats": [
+        "She gathers the sticks into one bundle",
+        "She wraps one short string around them",
+        "She knots the string directly on the bundle with no loose cord left over"
+      ],
+      "ending": "One bundle of sticks is held together by one tied string."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one person tying exactly one bundle of sticks with one short continuous string wrapped around and knotted on the bundle. Show no loose string on the ground, no coil, no spare cord, no second string, no other bundles, no tools, people, writing, or text.",
+    "imageFile": "kyc-1688.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1689",
+    "serial": 4213,
+    "frequency": 9,
+    "word": "carpenter",
+    "targetSense": "木匠",
+    "alt": "",
+    "anchor": "hammer",
+    "anchorMeaning": "锤子",
+    "relation": "木匠用锤子制作木凳，表现 carpenter。",
+    "sentence": "The carpenter uses a hammer to build a wooden stool.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy woodworking corner with a plain wall",
+      "actor": "One carpenter uses one hammer while building one small wooden stool",
+      "props": [
+        "one carpenter",
+        "one hammer",
+        "one wooden stool"
+      ],
+      "beats": [
+        "The carpenter aligns the stool pieces",
+        "The hammer taps a wooden joint",
+        "The stool takes shape"
+      ],
+      "ending": "One carpenter builds a wooden stool with a hammer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one carpenter, one hammer, and one wooden stool in progress. No extra tools, people, signs, writing, or text.",
+    "imageFile": "kyc-1689.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1690",
+    "serial": 4215,
+    "frequency": 9,
+    "word": "coke",
+    "targetSense": "焦炭",
+    "alt": "",
+    "anchor": "coal",
+    "anchorMeaning": "煤",
+    "relation": "煤在焦炉中加热后变成焦炭，表现 coke。",
+    "sentence": "The furnace heats coal to make coke.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small industrial coking oven with a simple dark brick wall",
+      "actor": "One hot furnace heats a lump of coal while dark porous coke appears beside its open mouth",
+      "props": [
+        "one furnace",
+        "one lump of coal",
+        "dark porous coke"
+      ],
+      "beats": [
+        "A lump of coal sits beside the hot oven",
+        "The furnace glows as it heats the coal",
+        "Dark coke emerges at the oven opening"
+      ],
+      "ending": "Dark coke emerges beside the heated furnace."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show a simple coke oven, one piece of coal, and dark porous coke at the opening. This is industrial coke, never a drink or branded product. No cans, bottles, logos, labels, people, or text.",
+    "imageFile": "kyc-1690.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1691",
+    "serial": 4216,
+    "frequency": 9,
+    "word": "custody",
+    "targetSense": "监护、拘留",
+    "alt": "",
+    "anchor": "guard",
+    "anchorMeaning": "看守；警卫",
+    "relation": "警卫看守着被关押的人，表现 custody。",
+    "sentence": "A guard kept the prisoner in custody behind the cell door.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet secure cell corridor with one barred cell door",
+      "actor": "One guard watches one calm detainee inside a cell",
+      "props": [
+        "one guard",
+        "one detainee",
+        "one cell door"
+      ],
+      "beats": [
+        "The detainee stands inside the cell",
+        "The guard remains beside the closed cell door",
+        "The prisoner stays safely in custody"
+      ],
+      "ending": "One guard keeps one prisoner in custody behind the cell door."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one guard and one calm detainee separated by one simple cell door. No weapons, violence, handcuffs, extra people, signs, numbers, or text.",
+    "imageFile": "kyc-1691.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1692",
+    "serial": 4217,
+    "frequency": 9,
+    "word": "daylight",
+    "targetSense": "日光",
+    "alt": "",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "日光从打开的窗户照进房间，表现 daylight。",
+    "sentence": "Daylight streamed through the open window into the room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An empty quiet room in the morning",
+      "actor": "Bright daylight streams through one open window and spreads across the floor",
+      "props": [
+        "one open window",
+        "daylight",
+        "one quiet room"
+      ],
+      "beats": [
+        "The room is softly dim",
+        "Daylight enters through the window",
+        "A bright patch fills the floor"
+      ],
+      "ending": "Daylight streams through one open window into a room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show natural daylight entering through one open window and lighting one empty room. No sun icon, people, lamps, letters, signs, or text.",
+    "imageFile": "kyc-1692.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1693",
+    "serial": 4218,
+    "frequency": 9,
+    "word": "divine",
+    "targetSense": "神圣的；绝妙的",
+    "alt": "",
+    "anchor": "angel",
+    "anchorMeaning": "天使",
+    "relation": "天使被神圣的金色光芒环绕，表现 divine。",
+    "sentence": "A divine light surrounded the angel above the shrine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain open meadow with an unmarked low stone platform beneath a pale sky",
+      "actor": "One gentle angel hovers above one completely plain stone platform in a broad diffuse warm golden light",
+      "props": [
+        "one angel",
+        "one plain stone platform",
+        "one diffuse golden light"
+      ],
+      "beats": [
+        "The angel appears above the platform",
+        "A soft golden wash surrounds the angel",
+        "The quiet scene remains still"
+      ],
+      "ending": "One angel floats in gentle divine light above a plain stone platform."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one gentle angel above one plain unmarked rectangular stone platform in a soft diffuse golden wash. No shrine, chapel, church, religious architecture, cross, star, halo, ray, beam, sparkle, symbol, sign, extra person, writing, or text anywhere.",
+    "imageFile": "kyc-1693.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1694",
+    "serial": 4219,
+    "frequency": 9,
+    "word": "eccentric",
+    "targetSense": "古怪的",
+    "alt": "",
+    "anchor": "odd",
+    "anchorMeaning": "古怪的；奇怪的",
+    "relation": "不寻常的穿着让这个人显得古怪，表现 eccentric。",
+    "sentence": "His eccentric style came from the odd clothes he chose to wear.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain quiet town walkway",
+      "actor": "One man wears a deliberately mismatched outfit, including two different colored socks and mismatched shoes",
+      "props": [
+        "one man",
+        "one odd outfit",
+        "one plain walkway"
+      ],
+      "beats": [
+        "The man steps onto the walkway",
+        "His mismatched clothes stand out",
+        "He walks on confidently in his eccentric style"
+      ],
+      "ending": "One man confidently wears an odd mismatched outfit."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one person with a clearly unusual but friendly mismatched outfit, such as different colored socks and shoes. No other people, logos, symbols, labels, or text.",
+    "imageFile": "kyc-1694.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1695",
+    "serial": 4220,
+    "frequency": 9,
+    "word": "elicit",
+    "targetSense": "引出",
+    "alt": "",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "温和的问题引出了孩子的微笑，表现 elicit。",
+    "sentence": "Her gentle question will elicit a smile from the child.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm quiet room with a plain pale background",
+      "actor": "One woman gently asks one child a question and the child responds with a broad smile",
+      "props": [
+        "one woman",
+        "one child",
+        "one broad smile"
+      ],
+      "beats": [
+        "The woman leans toward the child",
+        "She asks gently without written words",
+        "The child smiles in response"
+      ],
+      "ending": "A gentle question elicits a smile from one child."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one adult and one child; the child smiles in response to the adult speaking gently. No speech bubbles, question marks, extra people, or text.",
+    "imageFile": "kyc-1695.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1696",
+    "serial": 4221,
+    "frequency": 9,
+    "word": "erode",
+    "targetSense": "侵蚀",
+    "alt": "",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "大雨把河岸的松土冲走，表现 erode。",
+    "sentence": "Heavy rain can erode the soft riverbank.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A narrow stream beside a soft exposed riverbank in heavy rain",
+      "actor": "Heavy rain washes small amounts of soil from the riverbank into the stream",
+      "props": [
+        "heavy rain",
+        "one soft riverbank",
+        "one narrow stream"
+      ],
+      "beats": [
+        "Rain falls on the exposed bank",
+        "Loose soil crumbles toward the water",
+        "The stream carries the soil away"
+      ],
+      "ending": "Heavy rain erodes the soft bank beside a stream."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show soil naturally washing from one soft riverbank into one narrow stream under heavy rain. No people, arrows, labels, or text.",
+    "imageFile": "kyc-1696.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1697",
+    "serial": 4222,
+    "frequency": 9,
+    "word": "eternal",
+    "targetSense": "永恒的",
+    "alt": "",
+    "anchor": "flame",
+    "anchorMeaning": "火焰",
+    "relation": "古老石殿旁长明的火焰表现 eternal。",
+    "sentence": "The eternal flame still burns beside an ancient stone shrine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An ancient weathered stone shrine with a plain quiet background",
+      "actor": "One steady flame continues to burn inside a simple stone lantern beside the old shrine",
+      "props": [
+        "one steady flame",
+        "one stone lantern",
+        "one ancient shrine"
+      ],
+      "beats": [
+        "The old shrine stands weathered",
+        "A small flame burns inside the lantern",
+        "The flame remains steady beside the ancient stone"
+      ],
+      "ending": "One eternal flame burns beside an ancient stone shrine."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one small steady flame inside one simple stone lantern beside one ancient shrine. No other flames, candles, people, writing, symbols, or text.",
+    "imageFile": "kyc-1697.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1698",
+    "serial": 4224,
+    "frequency": 9,
+    "word": "foul",
+    "targetSense": "犯规、肮脏的",
+    "alt": "",
+    "anchor": "whistle",
+    "anchorMeaning": "哨子",
+    "relation": "裁判吹哨判罚球员的手球犯规，表现 foul。",
+    "sentence": "The referee blew his whistle when the player committed a foul.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple soccer field with a plain empty background",
+      "actor": "One referee blows a whistle as one player illegally catches the soccer ball with both hands",
+      "props": [
+        "one referee with a whistle",
+        "one player",
+        "one soccer ball"
+      ],
+      "beats": [
+        "The player catches the ball by hand",
+        "The referee notices the foul",
+        "The referee blows the whistle"
+      ],
+      "ending": "One referee blows his whistle after one clear soccer foul."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one referee and one player on a simple soccer field; the player illegally catches one ball by hand while the referee blows a whistle. No other players, goals with text, scoreboards, numbers, logos, or signs.",
+    "imageFile": "kyc-1698.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1699",
+    "serial": 4225,
+    "frequency": 9,
+    "word": "fracture",
+    "targetSense": "断裂",
+    "alt": "",
+    "anchor": "bone",
+    "anchorMeaning": "骨头",
+    "relation": "骨头中间出现清楚的断裂，表现 fracture。",
+    "sentence": "The fracture split the bone cleanly in two.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple educational display on a plain pale background",
+      "actor": "One clean ivory bone model has one clear fracture through its middle",
+      "props": [
+        "one ivory bone model",
+        "one clean fracture",
+        "plain pale background"
+      ],
+      "beats": [
+        "The intact bone model is shown clearly",
+        "A fracture runs across its center",
+        "The two sides separate slightly at the break"
+      ],
+      "ending": "One fracture splits a bone model cleanly in two."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one clean ivory bone model with one clear fracture line. Keep it educational and non-graphic: no blood, flesh, medical labels, letters, numbers, people, or text.",
+    "imageFile": "kyc-1699.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1700",
+    "serial": 4226,
+    "frequency": 9,
+    "word": "graze",
+    "targetSense": "放牧",
+    "alt": "",
+    "anchor": "grass",
+    "anchorMeaning": "草",
+    "relation": "羊低头吃新鲜的草，表现 graze。",
+    "sentence": "Watch that sheep graze on the fresh grass.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet green meadow with a plain pale sky",
+      "actor": "One sheep lowers its head and eats fresh grass in the meadow",
+      "props": [
+        "one sheep",
+        "one patch of fresh grass",
+        "one meadow"
+      ],
+      "beats": [
+        "The sheep finds a green patch",
+        "It lowers its head to eat",
+        "The sheep grazes calmly on the grass"
+      ],
+      "ending": "One sheep grazes calmly on fresh grass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one sheep grazing with its head lowered to one patch of fresh grass. No other animals, flowers, people, fences, signs, or text.",
+    "imageFile": "kyc-1700.webp",
+    "imageError": null
+  }
+]

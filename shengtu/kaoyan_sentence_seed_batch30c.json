@@ -1,0 +1,762 @@
+[
+  {
+    "word": "slope",
+    "anchor": "hill",
+    "anchorMeaning": "山丘",
+    "relation": "hill 的倾斜侧面形成 slope",
+    "sentence": "The children rolled a ball down the slope of the hill.",
+    "scene": {
+      "setting": "A grassy hillside",
+      "actor": "One child releases a ball on a hill",
+      "props": [
+        "hill",
+        "ball",
+        "small tree"
+      ],
+      "beats": [
+        "The child places the ball",
+        "It rolls down the incline",
+        "It stops near the tree"
+      ],
+      "ending": "A ball rests partway down the grassy slope"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. hill 的倾斜侧面形成 slope The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One child only; no text or signs."
+  },
+  {
+    "word": "sob",
+    "anchor": "tear",
+    "anchorMeaning": "眼泪",
+    "relation": "sob 是抽泣，常伴随眼泪",
+    "sentence": "Tears ran down her cheeks as she began to sob into her teddy bear.",
+    "scene": {
+      "setting": "A quiet bedroom",
+      "actor": "One child cries beside a fallen toy",
+      "props": [
+        "tear",
+        "stuffed toy",
+        "bed"
+      ],
+      "beats": [
+        "The toy falls",
+        "The child looks down",
+        "She sobs with tears on her face"
+      ],
+      "ending": "The child holds the toy and sobs"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. sob 是抽泣，常伴随眼泪 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "One child only; gentle non-distressing scene; no text."
+  },
+  {
+    "word": "warfare",
+    "anchor": "tank",
+    "anchorMeaning": "坦克",
+    "relation": "坦克是战争场景中常见的军用车辆",
+    "sentence": "The tank rolled across the field during warfare.",
+    "scene": {
+      "setting": "A distant battlefield under a cloudy sky",
+      "actor": "One tank moves across an empty field",
+      "props": [
+        "tank",
+        "smoke plume",
+        "rocky field"
+      ],
+      "beats": [
+        "The tank advances",
+        "Smoke rises in the distance",
+        "The vehicle pauses on the field"
+      ],
+      "ending": "A single tank crosses the distant field"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 坦克是战争场景中常见的军用车辆 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No people injured, flags, insignia, text, or numbers."
+  },
+  {
+    "word": "juvenile",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "relation": "juvenile 表示年幼的，幼龟从蛋壳中刚刚孵出",
+    "sentence": "The juvenile turtle crawled away from its cracked eggshell.",
+    "scene": {
+      "setting": "A sandy nesting shore",
+      "actor": "One young turtle crawls beside its broken eggshell",
+      "props": [
+        "juvenile turtle",
+        "cracked eggshell",
+        "sand"
+      ],
+      "beats": [
+        "The egg opens",
+        "The young turtle emerges",
+        "It crawls across the sand"
+      ],
+      "ending": "A small juvenile turtle beside its shell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. juvenile 表示年幼的，幼龟从蛋壳中刚刚孵出 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One turtle with natural anatomy; no extra limbs or text."
+  },
+  {
+    "word": "pilgrim",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "pilgrim 长途前往圣地，地图帮助其辨认旅途方向",
+    "sentence": "The pilgrim studied a map before continuing toward the shrine.",
+    "scene": {
+      "setting": "A quiet country path",
+      "actor": "One traveler checks a simple map on the way to a shrine",
+      "props": [
+        "plain map",
+        "walking staff",
+        "distant shrine"
+      ],
+      "beats": [
+        "The traveler pauses",
+        "She studies the map",
+        "She resumes the pilgrimage"
+      ],
+      "ending": "A pilgrim holds a blank map with the shrine ahead"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. pilgrim 长途前往圣地，地图帮助其辨认旅途方向 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Map contains no writing, symbols, labels, or route marks."
+  },
+  {
+    "word": "evade",
+    "anchor": "net",
+    "anchorMeaning": "网",
+    "relation": "逃跑的兔子跃过网，表现 evade 的躲避义",
+    "sentence": "The rabbit can evade the net by leaping over it.",
+    "scene": {
+      "setting": "A grassy garden enclosure",
+      "actor": "One rabbit leaps clear over a low net",
+      "props": [
+        "rabbit",
+        "low net",
+        "patch of grass"
+      ],
+      "beats": [
+        "The rabbit spots the net",
+        "It springs upward",
+        "It lands safely beyond it"
+      ],
+      "ending": "The rabbit clears the net in one leap"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 逃跑的兔子跃过网，表现 evade 的躲避义 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One rabbit with exactly four legs; no extra animals."
+  },
+  {
+    "word": "saturate",
+    "anchor": "sponge",
+    "anchorMeaning": "海绵",
+    "relation": "海绵吸满水后达到饱和状态",
+    "sentence": "Water can saturate the sponge until it drips.",
+    "scene": {
+      "setting": "A bathroom sink",
+      "actor": "One hand holds a sponge beneath a running tap",
+      "props": [
+        "sponge",
+        "water tap",
+        "basin"
+      ],
+      "beats": [
+        "The sponge is dry",
+        "Water fills its pores",
+        "It drips into the basin"
+      ],
+      "ending": "A soaked sponge drips over the basin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 海绵吸满水后达到饱和状态 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show one hand connected to an arm; no extra limbs or text."
+  },
+  {
+    "word": "token",
+    "anchor": "rose",
+    "anchorMeaning": "玫瑰",
+    "relation": "一朵玫瑰可以作为感谢或爱意的象征性 token",
+    "sentence": "He gave her a rose as a token of gratitude.",
+    "scene": {
+      "setting": "A sunny garden path",
+      "actor": "One person offers a rose to one friend",
+      "props": [
+        "rose",
+        "small gift box",
+        "garden path"
+      ],
+      "beats": [
+        "The friend receives the rose",
+        "She holds it close",
+        "The flower becomes a token of thanks"
+      ],
+      "ending": "One rose is offered beside a small gift box"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 一朵玫瑰可以作为感谢或爱意的象征性 token The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; no writing or signs."
+  },
+  {
+    "word": "conscience",
+    "anchor": "vase",
+    "anchorMeaning": "花瓶",
+    "relation": "打碎花瓶后心里不安，体现 conscience 的道德感",
+    "sentence": "Her conscience troubled her after she broke the vase.",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One woman kneels beside a broken vase and gathers the pieces carefully",
+      "props": [
+        "broken vase",
+        "soft cloth",
+        "wooden shelf"
+      ],
+      "beats": [
+        "The vase falls",
+        "It breaks on the floor",
+        "The woman feels guilty and starts cleaning up"
+      ],
+      "ending": "The woman looks remorsefully at the broken vase"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 打碎花瓶后心里不安，体现 conscience 的道德感 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No injury, text, or extra people; safe handling of shards."
+  },
+  {
+    "word": "continual",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "continual 表示持续不断，连绵的雨是直观例子",
+    "sentence": "Continual rain filled the garden bucket through the night.",
+    "scene": {
+      "setting": "A small garden in steady rain",
+      "actor": "One gardener watches a bucket fill with rain",
+      "props": [
+        "rain shower",
+        "bucket",
+        "garden bed"
+      ],
+      "beats": [
+        "Rain begins",
+        "It continues through the night",
+        "The bucket fills to the brim"
+      ],
+      "ending": "A full bucket stands beneath the continual rain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. continual 表示持续不断，连绵的雨是直观例子 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No lettering or rain gauges with numbers."
+  },
+  {
+    "word": "diligent",
+    "anchor": "bee",
+    "anchorMeaning": "蜜蜂",
+    "relation": "勤劳采蜜的蜜蜂常用来比喻 diligent",
+    "sentence": "The diligent bee visited flower after flower to gather nectar.",
+    "scene": {
+      "setting": "A sunlit flower garden",
+      "actor": "One bee visits a row of flowers",
+      "props": [
+        "bee",
+        "three flowers",
+        "hive"
+      ],
+      "beats": [
+        "The bee leaves the hive",
+        "It visits the blossoms",
+        "It carries nectar home"
+      ],
+      "ending": "A bee works among flowers near its hive"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 勤劳采蜜的蜜蜂常用来比喻 diligent The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One bee with natural anatomy; avoid extra insects."
+  },
+  {
+    "word": "exemplify",
+    "anchor": "egg",
+    "anchorMeaning": "鸡蛋",
+    "relation": "易碎的蛋壳可以例证“脆弱”这一特点",
+    "sentence": "The cracked egg can exemplify how fragile a shell is.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One child examines a cracked egg beside an intact one",
+      "props": [
+        "cracked egg",
+        "intact egg",
+        "small bowl"
+      ],
+      "beats": [
+        "The child places the eggs down",
+        "She notices one cracked shell",
+        "The broken shell exemplifies fragility"
+      ],
+      "ending": "Two eggs sit beside the bowl, one cracked"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 易碎的蛋壳可以例证“脆弱”这一特点 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two eggs; no text or labels."
+  },
+  {
+    "word": "hail",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "冰雹落在屋顶上，hail 指冰雹",
+    "sentence": "Hail rattled against the roof during the storm.",
+    "scene": {
+      "setting": "A farmhouse in a storm",
+      "actor": "One farmer watches hail strike the roof from indoors",
+      "props": [
+        "roof",
+        "hailstones",
+        "window"
+      ],
+      "beats": [
+        "Dark clouds gather",
+        "Hail begins to fall",
+        "Ice pellets bounce from the roof"
+      ],
+      "ending": "Hailstones bounce off the farmhouse roof"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 冰雹落在屋顶上，hail 指冰雹 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No visible damage or text; keep person safely indoors."
+  },
+  {
+    "word": "numerical",
+    "anchor": "bead",
+    "anchorMeaning": "珠子",
+    "relation": "numerical 表示与数字或数量相关，珠子可按数量分组",
+    "sentence": "She used a numerical pattern to sort the beads into groups.",
+    "scene": {
+      "setting": "A craft table",
+      "actor": "One child sorts beads into equal groups",
+      "props": [
+        "colored beads",
+        "three small bowls",
+        "wooden table"
+      ],
+      "beats": [
+        "The child arranges the beads",
+        "She notices a repeating count",
+        "She sorts them into groups"
+      ],
+      "ending": "Beads form clear groups on the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. numerical 表示与数字或数量相关，珠子可按数量分组 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No written numerals, labels, or text."
+  },
+  {
+    "word": "orderly",
+    "anchor": "shelf",
+    "anchorMeaning": "架子",
+    "relation": "物品按顺序整齐摆放在架子上，体现 orderly",
+    "sentence": "The orderly shelf held books arranged neatly by size.",
+    "scene": {
+      "setting": "A tidy study",
+      "actor": "One student straightens books on a shelf",
+      "props": [
+        "books",
+        "wooden shelf",
+        "small plant"
+      ],
+      "beats": [
+        "The student gathers the books",
+        "She aligns their spines",
+        "She places them in a neat row"
+      ],
+      "ending": "Books stand in orderly rows on the shelf"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 物品按顺序整齐摆放在架子上，体现 orderly The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No readable titles or writing."
+  },
+  {
+    "word": "warrant",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "搜查令授权警察进入指定房屋，warrant 表示正式授权",
+    "sentence": "The judge issued a warrant before officers entered the house.",
+    "scene": {
+      "setting": "A courthouse doorway beside a small house",
+      "actor": "One judge hands a blank warrant to one officer near a house",
+      "props": [
+        "blank document",
+        "plain house",
+        "closed door"
+      ],
+      "beats": [
+        "The judge issues the warrant",
+        "The officer receives it",
+        "The officer approaches the house"
+      ],
+      "ending": "An officer stands at the house with a blank warrant"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 搜查令授权警察进入指定房屋，warrant 表示正式授权 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "The officer wears plain blue clothing with no badges, stars, patches, emblems, or logos; the warrant page and house are unmarked, with no writing or numbers."
+  },
+  {
+    "word": "dental",
+    "anchor": "tooth",
+    "anchorMeaning": "牙齿",
+    "relation": "dental 表示牙齿或牙科相关，牙齿是直接具体形象",
+    "sentence": "The dentist used a mirror to inspect a dental cavity in the tooth model.",
+    "scene": {
+      "setting": "A clean dental clinic",
+      "actor": "One dentist examines one tooth with a small mirror",
+      "props": [
+        "tooth model",
+        "dental mirror",
+        "clinic stool"
+      ],
+      "beats": [
+        "The dentist lifts the mirror",
+        "She checks the tooth",
+        "She spots a cavity"
+      ],
+      "ending": "A mirror reflects a tooth on the model"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. dental 表示牙齿或牙科相关，牙齿是直接具体形象 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One person; clean non-graphic tooth; no labels or text."
+  },
+  {
+    "word": "kilogram",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "kilogram 是重量单位，篮装苹果可在秤上按公斤称量",
+    "sentence": "A kilogram of apples filled the small basket.",
+    "scene": {
+      "setting": "A market weighing table",
+      "actor": "One vendor places apples in a small basket on a scale",
+      "props": [
+        "apples",
+        "small basket",
+        "plain scale"
+      ],
+      "beats": [
+        "The vendor gathers apples",
+        "She fills the basket",
+        "She weighs the kilogram of fruit"
+      ],
+      "ending": "A basket of apples rests on the scale"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. kilogram 是重量单位，篮装苹果可在秤上按公斤称量 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Scale has no numbers or tick labels; no price signs."
+  },
+  {
+    "word": "preach",
+    "anchor": "church",
+    "anchorMeaning": "教堂",
+    "relation": "牧师在教堂布道，preach 表示讲道",
+    "sentence": "The minister will preach from the pulpit in the church.",
+    "scene": {
+      "setting": "A small country church",
+      "actor": "One minister speaks from a plain pulpit",
+      "props": [
+        "pulpit",
+        "wooden pew",
+        "sunlit window"
+      ],
+      "beats": [
+        "The minister steps to the pulpit",
+        "She addresses the quiet room",
+        "She finishes the sermon"
+      ],
+      "ending": "A minister stands at the pulpit inside the church"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 牧师在教堂布道，preach 表示讲道 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly one visible person; no text, books with writing, or symbols."
+  },
+  {
+    "word": "presently",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "presently 可表示目前，钟面提供“此刻”的视觉线索",
+    "sentence": "The station worker is presently checking the clock as the train arrives.",
+    "scene": {
+      "setting": "A quiet train platform with a blank-faced station clock",
+      "actor": "One station worker in plain unmarked clothes checks the wall clock beside an arriving train",
+      "props": [
+        "blank-faced clock",
+        "train",
+        "platform bench"
+      ],
+      "beats": [
+        "The worker checks the clock",
+        "The train approaches",
+        "The train arrives at the platform"
+      ],
+      "ending": "A station worker looks at the blank clock as the train arrives"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. presently 可表示目前，钟面提供“此刻”的视觉线索 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "The worker wears plain unmarked clothing and a plain cap with no badges, patches, emblems, or logos; clock has no numerals or marks; train has no lettering or logos."
+  }
+]

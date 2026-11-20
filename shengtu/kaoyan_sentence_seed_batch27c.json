@@ -1,0 +1,762 @@
+[
+  {
+    "word": "spin",
+    "anchor": "floor",
+    "anchorMeaning": "地板",
+    "relation": "To spin is to turn quickly around a center point.",
+    "sentence": "A wooden top began to spin across the smooth floor.",
+    "scene": {
+      "setting": "A simple playroom floor",
+      "actor": "No people; one wooden top spins on a smooth floor",
+      "props": [
+        "single wooden spinning top",
+        "plain floor",
+        "low wall"
+      ],
+      "beats": [
+        "The top is set upright",
+        "It turns quickly",
+        "It continues to spin"
+      ],
+      "ending": "A wooden top spins on the floor"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To spin is to turn quickly around a center point. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows or multiple tops."
+  },
+  {
+    "word": "thoughtful",
+    "anchor": "gift",
+    "anchorMeaning": "礼物",
+    "relation": "Thoughtful describes a kind act that shows care for another person.",
+    "sentence": "Her thoughtful gift warmed her neighbor's heart.",
+    "scene": {
+      "setting": "A quiet front porch",
+      "actor": "Two neighbors; one gives a plain handmade gift and the other smiles",
+      "props": [
+        "plain wrapped gift",
+        "wooden doorstep",
+        "small potted plant"
+      ],
+      "beats": [
+        "One neighbor offers the gift",
+        "The other accepts it",
+        "The gesture brings a smile"
+      ],
+      "ending": "One neighbor gives a thoughtful gift"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Thoughtful describes a kind act that shows care for another person. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Blank gift wrap with no symbols or writing."
+  },
+  {
+    "word": "compliment",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A compliment is kind praise that makes someone feel appreciated.",
+    "sentence": "His compliment made his friend smile.",
+    "scene": {
+      "setting": "A garden bench",
+      "actor": "Two friends; one speaks kindly and the other smiles",
+      "props": [
+        "wooden bench",
+        "single flower",
+        "garden path"
+      ],
+      "beats": [
+        "One friend speaks",
+        "The other listens",
+        "A smile follows"
+      ],
+      "ending": "One friend smiles as another speaks"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A compliment is kind praise that makes someone feel appreciated. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No speech bubbles or written words."
+  },
+  {
+    "word": "illuminate",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "To illuminate is to light up a dark place.",
+    "sentence": "A single candle can illuminate a dark room.",
+    "scene": {
+      "setting": "A quiet dark room",
+      "actor": "No people; one candle casts warm light across the room",
+      "props": [
+        "single candle",
+        "plain holder",
+        "wooden table"
+      ],
+      "beats": [
+        "The room is dim",
+        "The candle burns",
+        "Its light illuminates the room"
+      ],
+      "ending": "One candle lights a dark room"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To illuminate is to light up a dark place. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text or symbols."
+  },
+  {
+    "word": "metric",
+    "anchor": "board",
+    "anchorMeaning": "木板",
+    "relation": "Metric describes measurement using units such as meters and centimeters.",
+    "sentence": "The carpenter used a metric ruler to measure the wooden board.",
+    "scene": {
+      "setting": "A plain workshop table",
+      "actor": "One carpenter measures one board with a plain metric ruler",
+      "props": [
+        "single wooden board",
+        "plain ruler with simple ticks",
+        "wooden table"
+      ],
+      "beats": [
+        "The board is placed flat",
+        "The ruler measures its length",
+        "The carpenter uses metric units"
+      ],
+      "ending": "A board is measured with a metric ruler"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Metric describes measurement using units such as meters and centimeters. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No digits, labels, or writing on the ruler."
+  },
+  {
+    "word": "molecule",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+    "sentence": "A model showed one water molecule as three linked atoms beside a glass of water.",
+    "scene": {
+      "setting": "A simple science table",
+      "actor": "No people; one water molecule model has exactly three connected spheres beside one glass",
+      "props": [
+        "three-sphere molecule model",
+        "single glass of water",
+        "plain table"
+      ],
+      "beats": [
+        "The glass is set down",
+        "Three model atoms connect",
+        "The molecule shape is clear"
+      ],
+      "ending": "A three-atom molecule model beside water"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A water molecule contains two hydrogen atoms and one oxygen atom. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Exactly three spheres; no labels, letters, or text."
+  },
+  {
+    "word": "noisy",
+    "anchor": "drum",
+    "anchorMeaning": "鼓",
+    "relation": "Noisy means producing a lot of sound.",
+    "sentence": "The noisy drum woke the child from a quiet nap.",
+    "scene": {
+      "setting": "A cozy room beside a rug",
+      "actor": "One child wakes beside one drum",
+      "props": [
+        "single hand drum",
+        "plain rug",
+        "wooden stool"
+      ],
+      "beats": [
+        "The room is quiet",
+        "The drum is struck",
+        "The child wakes"
+      ],
+      "ending": "A child wakes beside a noisy drum"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Noisy means producing a lot of sound. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No sound symbols, notes, or text."
+  },
+  {
+    "word": "particle",
+    "anchor": "dust",
+    "anchorMeaning": "灰尘",
+    "relation": "A particle is a very small piece of matter.",
+    "sentence": "A tiny particle of dust floated through a beam of sunlight.",
+    "scene": {
+      "setting": "A sunlit room",
+      "actor": "No people; one small dust particle is visible in a narrow sunbeam",
+      "props": [
+        "single dust particle",
+        "sunbeam",
+        "plain window"
+      ],
+      "beats": [
+        "Dust rests in still air",
+        "A particle catches the beam",
+        "It floats across the light"
+      ],
+      "ending": "One dust particle glimmers in a sunbeam"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A particle is a very small piece of matter. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, labels, or text."
+  },
+  {
+    "word": "residence",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "A residence is a place where someone lives.",
+    "sentence": "She turned the key before entering her residence.",
+    "scene": {
+      "setting": "A calm house doorway",
+      "actor": "One woman unlocks her front door",
+      "props": [
+        "single plain key",
+        "wooden front door",
+        "small doorstep"
+      ],
+      "beats": [
+        "She approaches the door",
+        "She turns the key",
+        "She enters her residence"
+      ],
+      "ending": "A woman unlocks her home with a key"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A residence is a place where someone lives. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No house numbers or text."
+  },
+  {
+    "word": "stain",
+    "anchor": "shirt",
+    "anchorMeaning": "衬衫",
+    "relation": "A stain is a mark left on a surface or fabric.",
+    "sentence": "A red stain spread across his white shirt when juice spilled.",
+    "scene": {
+      "setting": "A clean kitchen table",
+      "actor": "One child looks at a juice stain on a shirt",
+      "props": [
+        "plain white shirt",
+        "single cup of juice",
+        "wooden table"
+      ],
+      "beats": [
+        "The cup tips",
+        "Juice spills",
+        "A red stain spreads"
+      ],
+      "ending": "A juice stain marks a white shirt"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A stain is a mark left on a surface or fabric. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos or writing."
+  },
+  {
+    "word": "tangible",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "Tangible means real and able to be touched.",
+    "sentence": "The tangible stone felt cool and solid in her hand.",
+    "scene": {
+      "setting": "A garden path",
+      "actor": "One person holds one smooth stone in both hands",
+      "props": [
+        "single smooth stone",
+        "garden path",
+        "small flower"
+      ],
+      "beats": [
+        "She finds the stone",
+        "She picks it up",
+        "Its solid surface is clear"
+      ],
+      "ending": "A hand holds a tangible stone"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Tangible means real and able to be touched. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "harness",
+    "anchor": "wind",
+    "anchorMeaning": "风",
+    "relation": "To harness a force is to control it and use it for work.",
+    "sentence": "The farm can harness wind to turn the grain mill.",
+    "scene": {
+      "setting": "A breezy farm field",
+      "actor": "No people; wind turns one simple grain mill beside a field",
+      "props": [
+        "single windmill",
+        "open field",
+        "soft clouds"
+      ],
+      "beats": [
+        "Wind rises",
+        "The blades turn",
+        "The farm harnesses the wind"
+      ],
+      "ending": "A windmill turns in the breeze"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To harness a force is to control it and use it for work. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows or text."
+  },
+  {
+    "word": "legend",
+    "anchor": "hero",
+    "anchorMeaning": "英雄",
+    "relation": "A legend is a traditional story about a memorable person or event.",
+    "sentence": "The legend tells how the hero rescued a village.",
+    "scene": {
+      "setting": "A fireside storytelling corner",
+      "actor": "One elder tells a child a story while a heroic figure appears on a blank page",
+      "props": [
+        "blank open storybook",
+        "plain hearth",
+        "small stool"
+      ],
+      "beats": [
+        "The elder opens the book",
+        "The child listens",
+        "The legend's hero appears"
+      ],
+      "ending": "An elder shares a legend with a child"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A legend is a traditional story about a memorable person or event. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or extra people."
+  },
+  {
+    "word": "premise",
+    "anchor": "seed",
+    "anchorMeaning": "种子",
+    "relation": "A premise is an idea accepted as the basis for reasoning.",
+    "sentence": "The gardener worked from the premise that each seed needed water.",
+    "scene": {
+      "setting": "A small garden bed",
+      "actor": "One gardener waters one seedling beside a plain seed packet",
+      "props": [
+        "single blank seed packet",
+        "small seedling",
+        "watering can"
+      ],
+      "beats": [
+        "The gardener plants a seed",
+        "She waters it",
+        "The premise guides her care"
+      ],
+      "ending": "A seedling is watered according to a premise"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A premise is an idea accepted as the basis for reasoning. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing on the packet."
+  },
+  {
+    "word": "refusal",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "Raising an open hand to decline the offered cup makes his refusal clear.",
+    "sentence": "His refusal was clear when he raised an open hand to decline the offered cup.",
+    "scene": {
+      "setting": "A quiet corner with one plain wooden table",
+      "actor": "Exactly two friends sit facing each other. The friend on the left offers one plain cup without touching the other person. The person on the right clearly raises one open palm between himself and the cup to decline it; his other hand rests in his lap.",
+      "props": [
+        "single plain cup",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "One friend offers the cup",
+        "The other friend raises an open hand to decline it",
+        "His refusal is clear"
+      ],
+      "ending": "The open palm clearly declines the offered cup"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “His refusal was clear when he raised an open hand to decline the offered cup.” The visible gesture directly matches the sentence."
+    },
+    "artDirection": "Show exactly two people, one cup, one wooden table, and two chairs. The person on the right raises one open palm between himself and the offered cup, clearly declining it; his other hand stays in his lap. The person on the left offers the cup but does not touch the refusing person. No extra dishes, labels, or text."
+  },
+  {
+    "word": "technician",
+    "anchor": "wrench",
+    "anchorMeaning": "扳手",
+    "relation": "A technician is a skilled worker who installs or repairs equipment.",
+    "sentence": "The technician used a wrench to fix the broken pump.",
+    "scene": {
+      "setting": "A simple utility room",
+      "actor": "One technician repairs one small pump using one wrench",
+      "props": [
+        "single wrench",
+        "small water pump",
+        "plain floor"
+      ],
+      "beats": [
+        "The pump stops",
+        "The technician checks it",
+        "The wrench tightens a part"
+      ],
+      "ending": "A technician repairs a pump with a wrench"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A technician is a skilled worker who installs or repairs equipment. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos or labels."
+  },
+  {
+    "word": "toss",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "To toss is to throw something lightly through the air.",
+    "sentence": "She will toss the ball into the basket from the garden path.",
+    "scene": {
+      "setting": "A small yard",
+      "actor": "One person tosses one ball toward one basket",
+      "props": [
+        "single soft ball",
+        "single open basket",
+        "grassy yard"
+      ],
+      "beats": [
+        "She raises the ball",
+        "She tosses it",
+        "It lands in the basket"
+      ],
+      "ending": "A ball is tossed into a basket"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To toss is to throw something lightly through the air. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows or extra balls."
+  },
+  {
+    "word": "turnover",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "Turnover is the total value of goods sold by a business over time.",
+    "sentence": "When customers bought apples with coins, the shop's turnover increased.",
+    "scene": {
+      "setting": "A small fruit shop counter",
+      "actor": "Two people; a shopkeeper sells apples to one customer and receives coins",
+      "props": [
+        "small apple basket",
+        "single coin",
+        "plain counter"
+      ],
+      "beats": [
+        "The customer chooses apples",
+        "The shopkeeper receives payment",
+        "The sale adds to turnover"
+      ],
+      "ending": "A shopkeeper receives a coin for apples"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Turnover is the total value of goods sold by a business over time. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No price tags, signs, or numerals."
+  },
+  {
+    "word": "ally",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "An ally is a person or group that cooperates with another.",
+    "sentence": "Each neighbor became an ally while the two repaired the old bridge together.",
+    "scene": {
+      "setting": "A quiet stream crossing",
+      "actor": "Two neighbors repair one small bridge together",
+      "props": [
+        "small wooden bridge",
+        "single plank",
+        "stream"
+      ],
+      "beats": [
+        "One neighbor steadies the plank",
+        "The other helps secure it",
+        "They work as allies"
+      ],
+      "ending": "Two neighbors cooperate on a bridge"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An ally is a person or group that cooperates with another. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "cruise",
+    "anchor": "ship",
+    "anchorMeaning": "船",
+    "relation": "A cruise is a pleasure trip by ship.",
+    "sentence": "The family took a cruise on a small ship across the bay.",
+    "scene": {
+      "setting": "A sunny harbor",
+      "actor": "Two family members stand on one passenger ship deck",
+      "props": [
+        "single small cruise ship",
+        "blue bay",
+        "plain life ring"
+      ],
+      "beats": [
+        "The ship leaves the harbor",
+        "It crosses the bay",
+        "The family enjoys the cruise"
+      ],
+      "ending": "Two travelers cruise across the bay"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A cruise is a pleasure trip by ship. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, signs, or ship names."
+  }
+]

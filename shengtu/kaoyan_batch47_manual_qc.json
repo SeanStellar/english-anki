@@ -1,0 +1,563 @@
+{
+  "batch": 47,
+  "part": 1,
+  "cohort": {
+    "first": "kyc-1961",
+    "last": "kyc-2060"
+  },
+  "reviews": [
+    {
+      "id": "kyc-1961",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1962",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1963",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1964",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1965",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1966",
+      "status": "pass",
+      "review": "Redraw passed: plain unlabelled stock boxes and bare shelves clearly show shop inventory."
+    },
+    {
+      "id": "kyc-1967",
+      "status": "pass",
+      "review": "Redraw passed: plain roadside motel facade and parked car; no sign or text."
+    },
+    {
+      "id": "kyc-1968",
+      "status": "pass",
+      "review": "A plain navy ship crosses the harbor with two sailors; the hull has no visible emblem or writing."
+    },
+    {
+      "id": "kyc-1969",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1970",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1971",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1972",
+      "status": "pass",
+      "review": "A doctor gently checks a child beside a plain medicine bottle in a bare clinic; no posters or medical symbols."
+    },
+    {
+      "id": "kyc-1973",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1974",
+      "status": "pass",
+      "review": "An official raises a stop gesture at a desk with a blank paper; no visible writing or signs."
+    },
+    {
+      "id": "kyc-1975",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1976",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1977",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1978",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1979",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1980",
+      "status": "pass",
+      "review": "A suited visitor walks through a doorway carrying one briefcase; the walls are bare."
+    },
+    {
+      "id": "kyc-1981",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1982",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1983",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1984",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1985",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1986",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1987",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1988",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1989",
+      "status": "pass",
+      "review": "A host offers a chair to a visitor in a plain room; the people and chair are clear, with no wall icons."
+    },
+    {
+      "id": "kyc-1990",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1991",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1992",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1993",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1994",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1995",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1996",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1997",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-1998",
+      "status": "pass",
+      "review": "A doctor shows a patient a heart model; the model has no labels and the room has no medical signs."
+    },
+    {
+      "id": "kyc-1999",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2000",
+      "status": "pass",
+      "review": "A small blank-front shop sits between two homes, showing a neighborhood locality without signage."
+    },
+    {
+      "id": "kyc-2001",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2002",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2003",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2004",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2005",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2006",
+      "status": "pass",
+      "review": "One child flies one kite in an open field; there is no second kite."
+    },
+    {
+      "id": "kyc-2007",
+      "status": "pass",
+      "review": "A pharmacist hands a customer one plain, unlabelled bottle over a counter."
+    },
+    {
+      "id": "kyc-2008",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2009",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2010",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2011",
+      "status": "pass",
+      "review": "Two fully clothed adult women talk in a supportive office; one holds a blank folder, and the walls are bare."
+    },
+    {
+      "id": "kyc-2012",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2013",
+      "status": "pass",
+      "review": "A resident faces a closed barred doorway, conveying repression without visible insignia or text."
+    },
+    {
+      "id": "kyc-2014",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2015",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2016",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2017",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2018",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2019",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2020",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2021",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2022",
+      "status": "pass",
+      "review": "A maker examines a plain distinctive bottle beside a completely blank sheet; no mark or symbol is visible."
+    },
+    {
+      "id": "kyc-2023",
+      "status": "pass",
+      "review": "A gardener trims one rounded hedge with shears; the action is clear and there is no text."
+    },
+    {
+      "id": "kyc-2024",
+      "status": "pass",
+      "review": "A typist works at a typewriter with a blank sheet; no readable keys or writing are visible."
+    },
+    {
+      "id": "kyc-2025",
+      "status": "pass",
+      "review": "A camper uses tools while preparing food beside a tent, showing several different tasks in one scene."
+    },
+    {
+      "id": "kyc-2026",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2027",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2028",
+      "status": "pass",
+      "review": "A tired hiker rests on a log along a forest path, clearly conveying weariness."
+    },
+    {
+      "id": "kyc-2029",
+      "status": "pass",
+      "review": "A passenger aeroplane flies above clouds; no labels or markings are visible."
+    },
+    {
+      "id": "kyc-2030",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2031",
+      "status": "pass",
+      "review": "A mechanic inspects a car wheel in a garage; no readable labels or signs appear."
+    },
+    {
+      "id": "kyc-2032",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2033",
+      "status": "pass",
+      "review": "An older sailor steps from the boat onto shore while a distinctly different younger sailor waits aboard."
+    },
+    {
+      "id": "kyc-2034",
+      "status": "pass",
+      "review": "Smoke rises from a brick chimney above a cottage roof; the chimney is the clear focal point."
+    },
+    {
+      "id": "kyc-2035",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2036",
+      "status": "pass",
+      "review": "A photographer with a camera and notebook stands in a flooded town, conveying a correspondent reporting an event."
+    },
+    {
+      "id": "kyc-2037",
+      "status": "pass",
+      "review": "One crab is clearly shown on the sandy beach."
+    },
+    {
+      "id": "kyc-2038",
+      "status": "pass",
+      "review": "A farmer clears a small irrigation ditch through a field; the channel and flowing water are visible."
+    },
+    {
+      "id": "kyc-2039",
+      "status": "pass",
+      "review": "One person gestures while another looks visibly angry, showing indignation without any text."
+    },
+    {
+      "id": "kyc-2040",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2041",
+      "status": "pass",
+      "review": "A small empty boat remains on a rainy shore, conveying that it is there irrespective of the weather."
+    },
+    {
+      "id": "kyc-2042",
+      "status": "pass",
+      "review": "A farmer directs a hose over rows of crops, clearly showing irrigation."
+    },
+    {
+      "id": "kyc-2043",
+      "status": "pass",
+      "review": "A towering mountain stands over a tiny house in the valley, making the magnitude apparent."
+    },
+    {
+      "id": "kyc-2044",
+      "status": "pass",
+      "review": "A housemaid makes a bed in a tidy bedroom; no writing or signs are visible."
+    },
+    {
+      "id": "kyc-2045",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2046",
+      "status": "pass",
+      "review": "A puzzled child studies a map at a fork in the road, conveying a misunderstanding."
+    },
+    {
+      "id": "kyc-2047",
+      "status": "pass",
+      "review": "A clean, unlabeled cross-section of a cell shows its central nucleus."
+    },
+    {
+      "id": "kyc-2048",
+      "status": "pass",
+      "review": "A cook pinches seasoning into a pot; the pinching hand and food are clear."
+    },
+    {
+      "id": "kyc-2049",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2050",
+      "status": "pass",
+      "review": "A child moves a puppet with strings on a small stage; the puppet and strings are visible."
+    },
+    {
+      "id": "kyc-2051",
+      "status": "pass",
+      "review": "A large water reservoir above a small settlement is clearly shown."
+    },
+    {
+      "id": "kyc-2052",
+      "status": "pass",
+      "review": "A hand turns a screw into a wooden joint with a screwdriver; the screw is clearly visible."
+    },
+    {
+      "id": "kyc-2053",
+      "status": "pass",
+      "review": "Rear view clearly shows the flat stern transom, small rudder, and rope tied to a stern cleat; the bow points away."
+    },
+    {
+      "id": "kyc-2054",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2055",
+      "status": "pass",
+      "review": "Two hikers wade through a marsh among reeds, clearly showing swamp terrain."
+    },
+    {
+      "id": "kyc-2056",
+      "status": "pass",
+      "review": "One child playfully teases a friend by placing a leaf-covered hat on their head; the interaction reads as playful."
+    },
+    {
+      "id": "kyc-2057",
+      "status": "pass",
+      "review": "the target scene and anchor are clear, with no visible text or signs."
+    },
+    {
+      "id": "kyc-2058",
+      "status": "pass",
+      "review": "Manual visual QC passed: the adult opens the window and the curtain lifts in the breeze; no arrow marks, text, or symbols remain."
+    },
+    {
+      "id": "kyc-2059",
+      "status": "pass",
+      "review": "A gardener enthusiastically tends a flower garden, conveying zeal."
+    },
+    {
+      "id": "kyc-2060",
+      "status": "pass",
+      "review": "A child carefully assembles a jigsaw puzzle, showing analytical attention to its parts."
+    }
+  ],
+  "rerendered": [
+    "kyc-1966",
+    "kyc-1967",
+    "kyc-1968",
+    "kyc-1972",
+    "kyc-1974",
+    "kyc-1980",
+    "kyc-1989",
+    "kyc-1998",
+    "kyc-2000",
+    "kyc-2006",
+    "kyc-2007",
+    "kyc-2011",
+    "kyc-2013",
+    "kyc-2022",
+    "kyc-2023",
+    "kyc-2024",
+    "kyc-2025",
+    "kyc-2028",
+    "kyc-2029",
+    "kyc-2031",
+    "kyc-2033",
+    "kyc-2034",
+    "kyc-2036",
+    "kyc-2037",
+    "kyc-2038",
+    "kyc-2039",
+    "kyc-2041",
+    "kyc-2042",
+    "kyc-2043",
+    "kyc-2044",
+    "kyc-2046",
+    "kyc-2047",
+    "kyc-2048",
+    "kyc-2050",
+    "kyc-2051",
+    "kyc-2052",
+    "kyc-2053",
+    "kyc-2055",
+    "kyc-2056",
+    "kyc-2058",
+    "kyc-2059",
+    "kyc-2060"
+  ],
+  "rerenderedAgain": [
+    "kyc-2022",
+    "kyc-2033",
+    "kyc-2053",
+    "kyc-2058"
+  ],
+  "rerenderedThirdTime": [
+    "kyc-2053"
+  ]
+}

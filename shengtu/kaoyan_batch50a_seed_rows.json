@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2261",
+    "anchor": "song",
+    "sentence": "The monotonous song repeated the same tune all afternoon.",
+    "relation": "Monotonous means dull and repetitive, like a tune that never changes.",
+    "setting": "A quiet sitting room",
+    "actor": "One child listens wearily to a plain music box playing the same simple tune.",
+    "props": [
+      "one child",
+      "one plain music box",
+      "one chair"
+    ],
+    "beats": [
+      "The music box starts",
+      "The same tune repeats",
+      "The child looks bored"
+    ],
+    "ending": "A child grows bored as a monotonous tune repeats.",
+    "artDirection": "No music notes, sound waves, text, or symbols."
+  },
+  {
+    "id": "kyc-2262",
+    "anchor": "smile",
+    "sentence": "Her smile widened as she began to rejoice at the happy news.",
+    "relation": "To rejoice is to feel or show great happiness.",
+    "setting": "A home doorway",
+    "actor": "One woman smiles with joy as she opens a blank letter from a friend.",
+    "props": [
+      "one woman",
+      "one blank letter",
+      "one doorway"
+    ],
+    "beats": [
+      "The woman opens the letter",
+      "She reads the happy news",
+      "She rejoices with a broad smile"
+    ],
+    "ending": "A woman rejoices over a letter with a joyful smile.",
+    "artDirection": "Letter has no writing, marks, or symbols; no speech bubbles or text."
+  },
+  {
+    "id": "kyc-2263",
+    "anchor": "fox",
+    "sentence": "The sly fox hid behind the bush before stealing a hen.",
+    "relation": "Sly describes clever, secretive behavior often associated with a fox.",
+    "setting": "A farmyard beside a bush",
+    "actor": "One fox peeks slyly from behind a bush near one hen.",
+    "props": [
+      "one fox",
+      "one leafy bush",
+      "one hen"
+    ],
+    "beats": [
+      "The fox spots the hen",
+      "It hides behind the bush",
+      "It sneaks toward the hen"
+    ],
+    "ending": "A sly fox hides behind a bush near a hen.",
+    "artDirection": "One fox and one hen with natural anatomy; no extra animals, text, or symbols."
+  },
+  {
+    "id": "kyc-2264",
+    "anchor": "kitchen",
+    "sentence": "Baking was her speciality in the kitchen.",
+    "relation": "A speciality is a subject or activity someone does especially well.",
+    "setting": "A warm home kitchen",
+    "actor": "One baker proudly presents her best loaf from the oven.",
+    "props": [
+      "one baker",
+      "one fresh loaf",
+      "one oven"
+    ],
+    "beats": [
+      "The baker prepares the dough",
+      "She bakes the loaf",
+      "She presents her speciality"
+    ],
+    "ending": "A baker presents the food she makes best.",
+    "artDirection": "No labels, writing, numbers, or logos on food or kitchenware."
+  },
+  {
+    "id": "kyc-2265",
+    "anchor": "water",
+    "sentence": "The chemist observed the synthesis of water from hydrogen and oxygen.",
+    "relation": "Synthesis joins separate parts to make a new whole.",
+    "setting": "A simple science workbench",
+    "actor": "One chemist carefully combines hydrogen and oxygen in a sealed apparatus to form water.",
+    "props": [
+      "one chemist",
+      "one sealed apparatus",
+      "one clear water vessel"
+    ],
+    "beats": [
+      "Hydrogen and oxygen are separate",
+      "The chemist combines them",
+      "Water forms in the vessel"
+    ],
+    "ending": "A chemist observes the synthesis of water.",
+    "artDirection": "No chemical formulas, labels, symbols, writing, or extra people."
+  },
+  {
+    "id": "kyc-2266",
+    "anchor": "king",
+    "sentence": "The king took his seat on the throne at the front of the hall.",
+    "relation": "A throne is the ceremonial seat of a ruler such as a king.",
+    "setting": "A simple grand hall",
+    "actor": "One king sits on a tall plain throne at the front of an undecorated hall.",
+    "props": [
+      "one king",
+      "one tall plain throne",
+      "one raised platform"
+    ],
+    "beats": [
+      "The king approaches the platform",
+      "He sits on the throne",
+      "The high seat shows his royal position"
+    ],
+    "ending": "A king sits on a tall throne in a plain hall.",
+    "artDirection": "No crowns with symbols, flags, crests, emblems, text, numbers, or extra people."
+  },
+  {
+    "id": "kyc-2267",
+    "anchor": "mirror",
+    "sentence": "Her vanity made her admire herself in the mirror.",
+    "relation": "Vanity is excessive pride in one's appearance or qualities.",
+    "setting": "A simple bedroom",
+    "actor": "One woman admires her reflection in a full-length mirror with a self-satisfied expression.",
+    "props": [
+      "one woman",
+      "one full-length mirror",
+      "one plain dress"
+    ],
+    "beats": [
+      "The woman approaches the mirror",
+      "She admires her appearance",
+      "Her vanity is clear in her proud pose"
+    ],
+    "ending": "A vain woman admires herself in a mirror.",
+    "artDirection": "One person and one reflection only; no duplicate people, logos, or text."
+  },
+  {
+    "id": "kyc-2268",
+    "anchor": "car",
+    "sentence": "The car's velocity increased on the open road.",
+    "relation": "Velocity is the speed and direction of movement.",
+    "setting": "An empty country road",
+    "actor": "One plain car drives along a straight open road at increasing speed.",
+    "props": [
+      "one car",
+      "one open road",
+      "one distant hill"
+    ],
+    "beats": [
+      "The car starts slowly",
+      "It accelerates along the road",
+      "It moves quickly toward the hill"
+    ],
+    "ending": "A car gains velocity on an open road.",
+    "artDirection": "No speed lines, arrows, road signs, license numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2269",
+    "anchor": "door",
+    "sentence": "The wooden wedge kept the door open.",
+    "relation": "A wedge is a piece with a tapered edge that can hold something in place.",
+    "setting": "A quiet home entryway",
+    "actor": "No people: a plain triangular wooden wedge is pressed under an open door.",
+    "props": [
+      "one wooden wedge",
+      "one open door",
+      "one doorframe"
+    ],
+    "beats": [
+      "The door begins to close",
+      "The wedge is pushed beneath it",
+      "The wedge holds the door open"
+    ],
+    "ending": "A wedge keeps a door from closing.",
+    "artDirection": "Make the wedge triangular and visibly lodged under the door; no text or symbols."
+  },
+  {
+    "id": "kyc-2270",
+    "anchor": "flag",
+    "sentence": "The soldier pledged allegiance to the plain flag.",
+    "relation": "Allegiance is loyalty or commitment to a country or leader.",
+    "setting": "A simple outdoor ceremony",
+    "actor": "One unmarked soldier stands respectfully beside one plain blank flag on a pole.",
+    "props": [
+      "one soldier",
+      "one plain blank flag",
+      "one flagpole"
+    ],
+    "beats": [
+      "The flag is raised",
+      "The soldier stands solemnly",
+      "The soldier pledges allegiance"
+    ],
+    "ending": "A soldier shows allegiance beside a blank flag.",
+    "artDirection": "Flag must be completely blank, with no colors arranged as national symbols, emblems, letters, or marks; no text or badges."
+  },
+  {
+    "id": "kyc-2271",
+    "anchor": "coin",
+    "sentence": "The coin was made of bronze and gleamed in the sunlight.",
+    "relation": "Bronze is a brown metal alloy used for coins and statues.",
+    "setting": "A sunlit tabletop",
+    "actor": "No people: one plain bronze coin rests in a patch of sunlight beside a small bronze ingot.",
+    "props": [
+      "one plain coin",
+      "one small bronze ingot",
+      "one tabletop"
+    ],
+    "beats": [
+      "The bronze metal is shaped",
+      "It is made into a coin",
+      "The coin gleams in sunlight"
+    ],
+    "ending": "A bronze coin shines beside a small ingot.",
+    "artDirection": "No coin faces, currency marks, lettering, numbers, logos, or symbols."
+  },
+  {
+    "id": "kyc-2272",
+    "anchor": "photo",
+    "sentence": "The family planted a tree and took a photo to commemorate their reunion.",
+    "relation": "To commemorate is to honor or remember an important event.",
+    "setting": "A family garden",
+    "actor": "Exactly two family members plant one young tree beside a plain old family photograph.",
+    "props": [
+      "one young tree",
+      "one plain family photo",
+      "one patch of garden soil"
+    ],
+    "beats": [
+      "The family remembers its reunion",
+      "They plant the young tree",
+      "The tree commemorates the day"
+    ],
+    "ending": "Two relatives plant a tree to commemorate their reunion.",
+    "artDirection": "Exactly two people; photo has no writing, labels, or symbols."
+  },
+  {
+    "id": "kyc-2273",
+    "anchor": "question",
+    "sentence": "He gave a dumb answer to a simple question.",
+    "relation": "Dumb can mean foolish or showing poor judgment.",
+    "setting": "A quiet classroom",
+    "actor": "One student gives a foolish answer while another student looks puzzled after asking a simple question.",
+    "props": [
+      "one student answering",
+      "one student asking",
+      "one plain desk"
+    ],
+    "beats": [
+      "A simple question is asked",
+      "The answer is foolish",
+      "The other student looks puzzled"
+    ],
+    "ending": "A student gives a dumb answer to a simple question.",
+    "artDirection": "Exactly two students; no writing, speech bubbles, signs, or text."
+  },
+  {
+    "id": "kyc-2274",
+    "anchor": "clock",
+    "sentence": "Several hours must elapse before the clock strikes noon.",
+    "relation": "To elapse is for a period of time to pass.",
+    "setting": "A quiet room with a plain clock",
+    "actor": "No people: a large plain clock stands beside a sunlit window as the day advances.",
+    "props": [
+      "one plain clock",
+      "one window",
+      "one patch of sunlight"
+    ],
+    "beats": [
+      "Morning light enters",
+      "Time passes while the clock advances",
+      "The light approaches midday"
+    ],
+    "ending": "Hours elapse as the clock moves toward noon.",
+    "artDirection": "Clock face has hands only, no numbers or ticks; no text or symbols."
+  },
+  {
+    "id": "kyc-2275",
+    "anchor": "light",
+    "sentence": "The generator kept the light on during the blackout.",
+    "relation": "A generator produces electricity to power lights and other devices.",
+    "setting": "A home during a power outage",
+    "actor": "One homeowner stands beside a small generator that powers a single glowing lamp.",
+    "props": [
+      "one generator",
+      "one glowing lamp",
+      "one homeowner"
+    ],
+    "beats": [
+      "The room loses power",
+      "The generator starts",
+      "The lamp stays on"
+    ],
+    "ending": "A generator keeps one lamp lit during a blackout.",
+    "artDirection": "No electrical diagrams, labels, numbers, logos, or warning symbols."
+  },
+  {
+    "id": "kyc-2276",
+    "anchor": "garden",
+    "sentence": "A hedge enclosed the garden beside the house.",
+    "relation": "A hedge is a row of closely planted shrubs often used as a boundary.",
+    "setting": "A neat home garden",
+    "actor": "No people: a dense green hedge forms a boundary around a small garden beside a house.",
+    "props": [
+      "one hedge",
+      "one garden",
+      "one house"
+    ],
+    "beats": [
+      "The shrubs grow in a line",
+      "They form a boundary",
+      "The garden is enclosed"
+    ],
+    "ending": "A hedge encloses the garden beside a house.",
+    "artDirection": "No signs, lettering, numbers, or symbols; keep the hedge clearly made of shrubs."
+  },
+  {
+    "id": "kyc-2277",
+    "anchor": "rain",
+    "sentence": "Rain left moisture on the leaves after the storm.",
+    "relation": "Moisture is a small amount of water present in the air or on a surface.",
+    "setting": "A garden after rain",
+    "actor": "No people: clear droplets of moisture cling to broad green leaves.",
+    "props": [
+      "one leafy plant",
+      "several clear water droplets",
+      "one rain-darkened garden bed"
+    ],
+    "beats": [
+      "Rain passes over the garden",
+      "Moisture remains on the leaves",
+      "The droplets glisten"
+    ],
+    "ending": "Rain leaves moisture shining on garden leaves.",
+    "artDirection": "No rain icons, lettering, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2278",
+    "anchor": "tree",
+    "sentence": "The mortal farmer planted a tree he hoped would outlive him.",
+    "relation": "Mortal describes a human being who is subject to death rather than immortal.",
+    "setting": "A quiet farmyard",
+    "actor": "One elderly farmer plants a young tree that will grow long after his lifetime.",
+    "props": [
+      "one elderly farmer",
+      "one young tree",
+      "one patch of soil"
+    ],
+    "beats": [
+      "The farmer plants the tree",
+      "He looks at the young growth",
+      "The tree promises a life beyond his own"
+    ],
+    "ending": "A mortal farmer plants a tree he hopes will outlive him.",
+    "artDirection": "Keep the image thoughtful and gentle; no graves, injuries, text, or symbols."
+  },
+  {
+    "id": "kyc-2279",
+    "anchor": "home",
+    "sentence": "The orphan found a caring home in the village.",
+    "relation": "An orphan is a child whose parents have died or are no longer present to care for them.",
+    "setting": "A warm village home",
+    "actor": "One child is welcomed kindly at the doorway by one caring adult.",
+    "props": [
+      "one child",
+      "one caring adult",
+      "one welcoming home doorway"
+    ],
+    "beats": [
+      "The child arrives alone",
+      "The adult welcomes the child",
+      "The child finds a safe home"
+    ],
+    "ending": "An orphan is welcomed into a caring home.",
+    "artDirection": "Exactly two people; gentle hopeful mood, no distress, text, or symbols."
+  },
+  {
+    "id": "kyc-2280",
+    "anchor": "car",
+    "sentence": "The mechanic gave the old car a complete overhaul before the trip.",
+    "relation": "An overhaul is a thorough examination and repair of a machine.",
+    "setting": "A simple auto workshop",
+    "actor": "One mechanic carefully inspects and repairs an old car with its hood open.",
+    "props": [
+      "one old car",
+      "one mechanic",
+      "one plain tool"
+    ],
+    "beats": [
+      "The car arrives for service",
+      "The mechanic checks its parts",
+      "The car is thoroughly overhauled"
+    ],
+    "ending": "A mechanic performs a complete overhaul on an old car.",
+    "artDirection": "No logos, license plates, text, labels, or extra mechanics."
+  },
+  {
+    "id": "kyc-2281",
+    "anchor": "mountain",
+    "sentence": "The hikers reached a broad plateau above the mountain forest.",
+    "relation": "A plateau is a wide, level area of high land.",
+    "setting": "A high mountain landscape",
+    "actor": "Exactly two hikers stand on a broad flat plateau above the forested slopes.",
+    "props": [
+      "two hikers",
+      "one broad flat plateau",
+      "one mountain forest"
+    ],
+    "beats": [
+      "The hikers climb the mountain",
+      "They reach level high ground",
+      "The plateau opens above the forest"
+    ],
+    "ending": "Two hikers stand on a high flat plateau above a forest.",
+    "artDirection": "Exactly two hikers; no trail signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2282",
+    "anchor": "plant",
+    "sentence": "Gardeners propagate the plant from one cutting.",
+    "relation": "To propagate a plant is to produce new plants from seeds or cuttings.",
+    "setting": "A sunny greenhouse",
+    "actor": "One gardener places a cutting from a healthy plant into a small pot to grow a new plant.",
+    "props": [
+      "one parent plant",
+      "one cutting",
+      "one small pot"
+    ],
+    "beats": [
+      "The gardener takes a cutting",
+      "The cutting is planted",
+      "A new plant begins to grow"
+    ],
+    "ending": "A gardener propagates a plant from a cutting.",
+    "artDirection": "No plant labels, text, symbols, or extra gardeners."
+  },
+  {
+    "id": "kyc-2283",
+    "anchor": "smoke",
+    "sentence": "A puff of smoke rose from the chimney.",
+    "relation": "A puff is a small brief burst of air, smoke, or another substance.",
+    "setting": "A quiet cottage at dusk",
+    "actor": "No people: one small puff of smoke rises from a cottage chimney.",
+    "props": [
+      "one cottage",
+      "one chimney",
+      "one small puff of smoke"
+    ],
+    "beats": [
+      "The chimney is still",
+      "A small puff appears",
+      "Smoke rises into the sky"
+    ],
+    "ending": "A puff of smoke rises from a chimney.",
+    "artDirection": "No smoke shaped like letters, no symbols, signs, or text."
+  },
+  {
+    "id": "kyc-2284",
+    "anchor": "friend",
+    "sentence": "Each friend gave a reciprocal gift to the other.",
+    "relation": "Reciprocal describes an exchange or action shared equally by both sides.",
+    "setting": "A simple living room",
+    "actor": "Exactly two friends exchange small plain gifts with each other.",
+    "props": [
+      "two friends",
+      "one plain gift in each person's hands",
+      "one small table"
+    ],
+    "beats": [
+      "The friends meet",
+      "Each offers a gift to the other",
+      "Both receive reciprocal gifts"
+    ],
+    "ending": "Two friends exchange gifts with one another.",
+    "artDirection": "Exactly two people; blank wrapping with no writing, patterns, or symbols."
+  },
+  {
+    "id": "kyc-2285",
+    "anchor": "garden",
+    "sentence": "In retrospect, the photograph showed how much the garden had changed.",
+    "relation": "In retrospect means looking back at or considering something from the past.",
+    "setting": "A garden beside a small home",
+    "actor": "One adult compares an old plain photograph of the garden with the present-day garden.",
+    "props": [
+      "one old plain photograph",
+      "one present-day garden",
+      "one adult"
+    ],
+    "beats": [
+      "The adult looks at the old photograph",
+      "The adult studies the current garden",
+      "Looking back reveals the change"
+    ],
+    "ending": "An adult looks back at a photograph and reflects on the changed garden.",
+    "artDirection": "Photo must have no writing or labels; no symbols or extra people."
+  }
+]

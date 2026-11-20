@@ -1,0 +1,642 @@
+[
+  {
+    "word": "mislead",
+    "anchor": "fork",
+    "anchorMeaning": "岔路",
+    "relation": "A confusing fork in a path can mislead a hiker toward the wrong trail.",
+    "sentence": "The confusing fork in the path could mislead the hiker.（令人困惑的岔路可能会把徒步者引向错误的方向。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet forest trail splitting into two paths.",
+      "actor": "One hiker pauses at a confusing fork in the trail; only one person.",
+      "props": [
+        "one clear fork in the forest path",
+        "one small trail backpack",
+        "two narrow trails leading in different directions"
+      ],
+      "beats": [
+        "The hiker reaches the fork in the path.",
+        "Both trails look similar and confusing.",
+        "The hiker hesitates because the fork could mislead."
+      ],
+      "ending": "The two similar paths make the hiker unsure which way to go."
+    },
+    "artDirection": "No signs, arrows, writing, or maps with labels. One hiker with normal limbs; full-frame forest scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "distinction",
+    "anchor": "cups",
+    "anchorMeaning": "杯子",
+    "relation": "A clear color difference creates a distinction between two cups.",
+    "sentence": "The color of the cups made the distinction between them clear.（杯子的颜色让它们之间的区别一目了然。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table in bright daylight.",
+      "actor": "No people; two matching cups differ clearly in color.",
+      "props": [
+        "one bright blue cup",
+        "one bright red cup",
+        "one plain tabletop"
+      ],
+      "beats": [
+        "The two cups sit side by side.",
+        "Their different colors are easy to compare.",
+        "The color distinction between them becomes clear."
+      ],
+      "ending": "The blue cup and red cup are visibly distinct."
+    },
+    "artDirection": "Exactly two cups and no other drinkware. No writing, logos, or extra symbols; full-frame warm kitchen.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "automation",
+    "anchor": "machines",
+    "anchorMeaning": "机器",
+    "relation": "Automation lets machines complete repetitive factory work with little human help.",
+    "sentence": "Automation lets factory machines package bottles without human help.（自动化让工厂机器无需人工协助就能包装瓶子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean modern factory packaging line.",
+      "actor": "No people; an automated machine arm places plain bottles into a box.",
+      "props": [
+        "one robotic packaging arm",
+        "plain unlabelled bottles on a conveyor",
+        "one open cardboard box"
+      ],
+      "beats": [
+        "The conveyor carries plain bottles forward.",
+        "The robotic arm picks up each bottle automatically.",
+        "The machine places the bottles into the box without a person."
+      ],
+      "ending": "The automated line packages bottles on its own."
+    },
+    "artDirection": "No text, labels, logos, or numbers on bottles or machines. Full-frame clean factory interior.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "curriculum",
+    "anchor": "seeds",
+    "anchorMeaning": "种子",
+    "relation": "A school curriculum can include hands-on science lessons about seeds.",
+    "sentence": "The school curriculum included a hands-on science lesson about seeds.（学校课程中包括一堂关于种子的实践科学课。）",
+    "mode": "scene",
+    "scene": {
+    "setting": "A bright classroom corner with a small science table against a completely plain blank wall.",
+      "actor": "One student examines seeds as part of a school science lesson; only one person.",
+      "props": [
+        "several plain seeds in a small dish",
+        "one simple magnifying glass",
+        "one small pot with soil"
+      ],
+      "beats": [
+        "The student opens the science materials.",
+        "The student examines the seeds closely.",
+        "The hands-on lesson shows one part of the school curriculum."
+      ],
+      "ending": "The student learns about seeds through a classroom science activity."
+    },
+    "artDirection": "One student with natural hands. Show only the student and the three science objects at the table against a plain blank wall. No chalkboard, posters, charts, signs, books, paper, writing, labels, logos, checkmarks, or icons anywhere.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "remark",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A kind remark can make a tired person smile.",
+    "sentence": "Her kind remark made the tired runner smile.（她善意的评论让疲惫的跑者笑了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny park path beside a running track.",
+      "actor": "One woman speaks kindly to one tired runner, who smiles; exactly two people.",
+      "props": [
+        "one running shoe held by the tired runner",
+        "one park bench",
+        "one water bottle with no label"
+      ],
+      "beats": [
+        "The runner pauses to rest on the bench.",
+        "The woman makes a kind remark.",
+        "The runner smiles after hearing it."
+      ],
+      "ending": "The kind comment clearly lifts the runner's mood."
+    },
+    "artDirection": "Exactly two people with normal limbs. No speech bubbles, text, logos, or signs; full-frame park setting.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "comparison",
+    "anchor": "shells",
+    "anchorMeaning": "贝壳",
+    "relation": "Comparing two shells makes their difference in size easy to notice.",
+    "sentence": "A comparison of the two shells showed that one was much larger.（把两枚贝壳放在一起比较，就能看出其中一枚大得多。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet beach beside a tide pool.",
+      "actor": "No people; two seashells of clearly different sizes lie side by side.",
+      "props": [
+        "one large seashell",
+        "one much smaller seashell",
+        "one smooth patch of beach sand"
+      ],
+      "beats": [
+        "The two shells rest beside each other.",
+        "Their sizes are compared directly.",
+        "The larger shell is clearly much bigger."
+      ],
+      "ending": "The comparison makes the size difference obvious."
+    },
+    "artDirection": "Exactly two shells in focus, no extra shells nearby. No text or logos; full-frame beach scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "regulate",
+    "anchor": "thermostat",
+    "anchorMeaning": "恒温器",
+    "relation": "A thermostat helps regulate a room's temperature by controlling heat.",
+    "sentence": "A thermostat helps regulate the room's temperature.（恒温器有助于调节房间温度。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A comfortable living room in winter.",
+      "actor": "No people; a wall thermostat controls a radiator in the room.",
+      "props": [
+        "one plain wall thermostat with a blank display",
+        "one radiator",
+        "one cozy living room"
+      ],
+      "beats": [
+        "The room is chilly near the radiator.",
+        "The thermostat adjusts the heat.",
+        "The room settles at a comfortable temperature."
+      ],
+      "ending": "The thermostat quietly regulates the room's warmth."
+    },
+    "artDirection": "Thermostat display must be blank with no numbers or words. No labels or logos; full-frame cozy room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "interact",
+    "anchor": "blocks",
+    "anchorMeaning": "积木",
+    "relation": "Two children interact when they work together to build with blocks.",
+    "sentence": "The two children interact as they build a tower from blocks.（两个孩子用积木搭塔，在合作中互动。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm playroom with a soft floor rug.",
+      "actor": "Two children cooperate to build one tower from wooden blocks; exactly two people.",
+      "props": [
+        "one partly built wooden block tower",
+        "several plain colored blocks",
+        "one soft floor rug"
+      ],
+      "beats": [
+        "The children sit together beside the blocks.",
+        "One child places a block while the other steadies the tower.",
+        "They interact and build the tower together."
+      ],
+      "ending": "Both children contribute to the same block tower."
+    },
+    "artDirection": "Exactly two children with normal limbs. Blocks have no letters or numbers; no text or logos; full-frame playroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然清楚，interact 与 blocks 锚点均出现，两人合作搭建的场景明确。"
+    }
+  },
+  {
+    "word": "scheme",
+    "anchor": "flowers",
+    "anchorMeaning": "花朵",
+    "relation": "A color scheme is a planned set of colors used to arrange flowers attractively.",
+    "sentence": "A simple color scheme helped her arrange the flowers.（简单的配色方案帮助她搭配花朵。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright flower shop worktable.",
+      "actor": "One florist arranges flowers using a coordinated color scheme; only one person.",
+      "props": [
+        "several flowers in two coordinated colors",
+        "one plain glass vase",
+        "one wooden worktable"
+      ],
+      "beats": [
+        "The florist sorts flowers by color.",
+        "She chooses a simple matching palette.",
+        "She arranges the flowers into the vase using that scheme."
+      ],
+      "ending": "The flowers form a balanced arrangement with a clear color scheme."
+    },
+    "artDirection": "No diagrams, labels, or writing. One florist with natural hands; full-frame flower shop.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "usage",
+    "anchor": "gloves",
+    "anchorMeaning": "手套",
+    "relation": "Proper usage of gardening gloves protects hands while working.",
+    "sentence": "Proper usage of gardening gloves keeps her hands clean.（正确使用园艺手套能让她的双手保持干净。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small garden bed in warm daylight.",
+      "actor": "One gardener wears gloves correctly while tending the soil; only one person.",
+      "props": [
+        "one pair of plain gardening gloves",
+        "one small garden bed",
+        "one hand trowel"
+      ],
+      "beats": [
+        "The gardener puts on the gloves before working.",
+        "She uses the gloved hands to loosen soil.",
+        "The gloves keep her hands clean."
+      ],
+      "ending": "The gardener wears and uses the gloves properly."
+    },
+    "artDirection": "One gardener with natural hands under the gloves. No logos or writing; full-frame garden scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "evil",
+    "anchor": "moon",
+    "anchorMeaning": "月亮",
+    "relation": "An evil sorcerer trying to hide the moon creates a harmless fairy-tale villain scene.",
+    "sentence": "The evil sorcerer tried to hide the moon behind a dark cloud.（邪恶的巫师试图用乌云遮住月亮。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A whimsical night sky above a quiet hill.",
+      "actor": "One storybook sorcerer raises a harmless spell toward the moon; only one person.",
+      "props": [
+        "one bright moon",
+        "one dark cloud drifting across it",
+        "one simple starless hill"
+      ],
+      "beats": [
+        "The sorcerer looks up at the moon.",
+        "A dark cloud moves toward the moon.",
+        "The sorcerer tries to hide the moon behind the cloud."
+      ],
+      "ending": "A mischievous sorcerer attempts a harmless trick under the moon."
+    },
+    "artDirection": "Keep the scene playful, not frightening. One sorcerer only; no text, symbols, or logos; full-frame night sky.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "expansion",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "Adding new rows of vegetables shows the expansion of a garden.",
+    "sentence": "The expansion of the garden added new rows of vegetables.（花园扩建后增加了几排蔬菜。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A backyard vegetable garden being enlarged.",
+      "actor": "One gardener prepares a new planting row beside existing beds.",
+      "props": [
+        "established vegetable rows",
+        "one freshly added garden bed",
+        "one garden spade"
+      ],
+      "beats": [
+        "The gardener tends the original beds.",
+        "The gardener adds space for another row.",
+        "The garden grows wider with the new planting area."
+      ],
+      "ending": "The added rows make the garden's expansion visible."
+    },
+    "artDirection": "One gardener with natural limbs. No writing, labels, or logos; full-frame garden scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "whereas",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "Whereas introduces a contrast between two bowls when one is empty and one is full.",
+    "sentence": "The blue bowl is empty, whereas the red bowl is full.（蓝碗是空的，而红碗是满的。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen counter.",
+      "actor": "No people; two bowls show a clear contrast in contents.",
+      "props": [
+        "one empty blue bowl",
+        "one full red bowl containing apples",
+        "one plain kitchen counter"
+      ],
+      "beats": [
+        "The blue bowl sits empty.",
+        "The red bowl holds many apples.",
+        "The contrast between the bowls is clear."
+      ],
+      "ending": "One bowl is empty, whereas the other is full."
+    },
+    "artDirection": "Exactly two bowls. No labels, writing, or logos; full-frame warm kitchen.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然易读，whereas 和 bowl 锚点明确出现，空满对比清楚。"
+    }
+  },
+  {
+    "word": "deprive",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "relation": "A storm can deprive plants of sunlight by covering the sky with clouds.",
+    "sentence": "Storm clouds can deprive plants of sunlight.（乌云会使植物失去阳光。）",
+    "mode": "scene",
+    "scene": {
+    "setting": "A garden completely covered in deep shade beneath thick storm clouds that fully block the sun.",
+    "actor": "No people; healthy garden plants stand entirely in shade beneath clouds that completely hide the sun.",
+      "props": [
+        "healthy garden plants in deep shade",
+        "thick storm clouds",
+        "one dark shaded garden bed"
+      ],
+      "beats": [
+        "The plants grow in the garden.",
+        "Storm clouds cover the sun.",
+        "The plants remain fully shaded with no sunlight reaching them."
+      ],
+      "ending": "The cloud cover deprives the plants of sunlight."
+    },
+    "artDirection": "Thick clouds completely cover the sun and cast deep shade over all plants. Absolutely no sun, sunbeams, bright patches, or light rays are visible. Keep plants healthy, not damaged. No people, text, or logos; full-frame garden.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：Storm clouds can deprive plants of sunlight. 语法自然、简短易读，deprive 和 sunlight 均以原形/原词出现，场景对应清楚。"
+    }
+  },
+  {
+    "word": "absence",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "An empty chair can show someone's absence from class.",
+    "sentence": "Her absence from class left an empty chair by the desk.（她缺课了，书桌旁留着一把空椅子。）",
+    "mode": "scene",
+    "scene": {
+    "setting": "A quiet classroom corner against a completely plain blank wall, with no board or wall decorations.",
+      "actor": "No people; one empty chair sits beside a classroom desk.",
+      "props": [
+        "one empty classroom chair",
+        "one simple desk",
+        "one blank notebook closed on the desk"
+      ],
+      "beats": [
+        "The classroom is ready for a lesson.",
+        "One chair remains empty beside the desk.",
+        "The empty place shows that a student is absent."
+      ],
+      "ending": "The unused chair makes the absence visible."
+    },
+    "artDirection": "No people. Show only the empty chair, simple desk, and closed blank notebook against plain blank walls. No chalkboard, posters, framed pictures, charts, papers with marks, writing, signs, or logos anywhere.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "whenever",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "Whenever a bell rings, a dog may run to the door each time.",
+    "sentence": "Whenever the small bell rings, the dog runs to the door.（每当小铃响起，狗就跑到门口。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy home entryway.",
+      "actor": "One dog perks up and runs toward the door as a small bell rings; only one animal.",
+      "props": [
+        "one small plain bell near the door",
+        "one open doorway",
+        "one soft entry rug"
+      ],
+      "beats": [
+        "The small bell rings.",
+        "The dog hears it and turns toward the door.",
+        "The dog runs to the doorway as it does whenever the bell rings."
+      ],
+      "ending": "The dog reacts to the bell by hurrying to the door."
+    },
+    "artDirection": "One dog with natural anatomy. Bell has no markings; no text or logos; full-frame warm entryway.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "musical",
+    "anchor": "flute",
+    "anchorMeaning": "长笛",
+    "relation": "A flute produces a musical tune that fills a quiet room.",
+    "sentence": "A musical tune flowed from the flute in the quiet room.（安静的房间里，长笛流淌出优美的乐曲。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet music room with warm afternoon light.",
+      "actor": "One musician plays a simple flute; only one person.",
+      "props": [
+        "one plain silver flute",
+        "one simple wooden chair",
+        "one blank sheet on a music stand"
+      ],
+      "beats": [
+        "The musician lifts the flute to play.",
+        "A gentle tune fills the quiet room.",
+        "The musical sound continues softly."
+      ],
+      "ending": "The flute makes a clear musical tune in the room."
+    },
+    "artDirection": "Sheet must be blank with no notes or words. One musician with normal hands; no sound symbols, text, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "judgment",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "A referee uses judgment to decide whether a ball is in bounds.",
+    "sentence": "The referee used careful judgment to decide whether the ball was in bounds.（裁判谨慎判断球是否出界。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet soccer field during a close play.",
+      "actor": "One referee watches one ball near the boundary line; no other people visible.",
+      "props": [
+        "one plain soccer ball",
+        "one clear white boundary line",
+        "one plain referee whistle"
+      ],
+      "beats": [
+        "The ball rolls close to the field boundary.",
+        "The referee studies its position carefully.",
+        "The referee uses judgment to make a fair call."
+      ],
+      "ending": "The referee carefully judges whether the ball stayed in bounds."
+    },
+    "artDirection": "One referee only, with normal limbs. No players, signs, numbers, or logos; full-frame field scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "boom",
+    "anchor": "buildings",
+    "anchorMeaning": "建筑物",
+    "relation": "A construction boom brings cranes and many new buildings to a town.",
+    "sentence": "The town's construction boom filled the skyline with new buildings.（城镇的建设热潮让天际线上出现了许多新楼。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A growing town skyline in clear daylight.",
+      "actor": "No people in focus; several cranes work around new buildings.",
+      "props": [
+        "several construction cranes",
+        "new buildings rising beside older homes",
+        "one town skyline"
+      ],
+      "beats": [
+        "The town begins expanding outward.",
+        "Cranes lift materials for new buildings.",
+        "The skyline fills with construction as the boom continues."
+      ],
+      "ending": "The busy cranes and new buildings show a construction boom."
+    },
+    "artDirection": "No building signs, writing, or logos. Full-frame town skyline, no split panels.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然易读，boom 与 buildings 锚点均出现，建设繁荣的场景明确。"
+    }
+  },
+  {
+    "word": "fairly",
+    "anchor": "crayons",
+    "anchorMeaning": "蜡笔",
+    "relation": "Two children dividing crayons into equal piles shows that they share fairly.",
+    "sentence": "The two children divided the crayons into equal piles and shared them fairly.（两个孩子把蜡笔分成数量相等的两堆，公平地分享。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cheerful art table in a classroom.",
+      "actor": "Exactly two children sit opposite each other; each has an identical neat pile of four crayons, with the same four colors in both piles.",
+      "props": [
+        "two identical piles of four plain colored crayons, one equal pile in front of each child",
+        "two blank sheets of paper",
+        "one shared table"
+      ],
+      "beats": [
+        "The children divide the crayons into two separate piles.",
+        "Each pile contains the same four colors and the same number of crayons.",
+        "Both children draw using their equal shares."
+      ],
+      "ending": "The two identical four-crayon piles make the fair share unmistakable."
+    },
+    "artDirection": "Exactly two children with natural hands. Show exactly eight crayons total: two clearly separate, identical piles of four crayons, with matching colors and counts, one pile for each child. Keep the piles separate and equally sized. Papers must be blank; crayons have no labels; no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：The two children divided the crayons into equal piles and shared them fairly. 语法自然、易读，fairly 与 crayons 清楚出现，平等分配关系明确。"
+    }
+  }
+]

@@ -1,6 +1,6 @@
 {
   "name": "english-anki",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
@@ -9,13 +9,19 @@
     "start": "electron .",
     "test": "node --test tests/*.test.cjs",
     "test:integration": "node tests/electron-restore.integration.cjs",
+    "audit:content": "node scripts/audit-content.js",
     "audit:vocabulary": "python tools/audit_vocabulary.py",
     "pack": "electron-builder --win --x64 --dir",
-    "dist": "electron-builder --win nsis portable --x64"
+    "dist": "electron-builder --win nsis portable --x64",
+    "build:preload": "node scripts/build-preload.js",
+    "prepack": "npm run build:preload",
+    "predist": "npm run build:preload"
   },
   "devDependencies": {
     "electron": "37.10.3",
-    "electron-builder": "26.18.0"
+    "electron-builder": "26.18.0",
+    "esbuild": "0.27.0",
+    "ts-fsrs": "5.4.1"
   },
   "build": {
     "appId": "com.englishanki.app",
@@ -39,6 +45,7 @@
       "LICENSE",
       "LICENSE-ASSETS.md",
       "LICENSE-ASSETS.txt",
+      "LICENSE-ECDICT.txt",
       "COMMERCIAL-LICENSE.md",
       "renderer/**/*",
       "build/icon.ico",
@@ -81,5 +88,10 @@
   },
   "dependencies": {
     "anki-apkg-export": "5.0.0"
+  },
+  "allowScripts": {
+    "electron@37.10.3": true,
+    "electron-winstaller@5.4.0": true,
+    "esbuild@0.27.0": true
   }
 }

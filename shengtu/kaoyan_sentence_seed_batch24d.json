@@ -1,0 +1,629 @@
+[
+  {
+    "word": "dilemma",
+    "anchor": "fork",
+    "anchorMeaning": "岔路",
+    "sentence": "The traveler faced a dilemma at the fork in the road.",
+    "relation": "A dilemma is a difficult choice; the traveler cannot decide between two paths.",
+    "scene": {
+      "setting": "A quiet country road at a fork.",
+      "actor": "One traveler pauses between two diverging paths, unsure which to take.",
+      "props": [
+        "one fork in the road",
+        "one hiking backpack",
+        "one distant village"
+      ],
+      "beats": [
+        "The traveler reaches the fork.",
+        "Two paths lead in different directions.",
+        "The traveler hesitates between them."
+      ],
+      "ending": "The traveler faces a dilemma at the fork."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "thrill",
+    "anchor": "roller coaster",
+    "anchorMeaning": "过山车",
+    "sentence": "The child felt a thrill as the roller coaster climbed the hill.",
+    "relation": "A roller coaster ride can create a sudden feeling of excitement or thrill.",
+    "scene": {
+      "setting": "A small amusement park on a bright day.",
+      "actor": "One child rides a roller coaster as the car climbs a steep hill.",
+      "props": [
+        "one roller coaster car",
+        "one curved track",
+        "one park tree"
+      ],
+      "beats": [
+        "The car starts up the hill.",
+        "The child grips the safety bar.",
+        "The climb gives the child a thrill."
+      ],
+      "ending": "The child feels a thrill on the roller coaster."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "tribe",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "sentence": "The tribe gathered around the fire to share stories.",
+    "relation": "A tribe is a community whose members gather together; the fire is their meeting place.",
+    "scene": {
+      "setting": "A peaceful village clearing at dusk.",
+      "actor": "A small community gathers around a campfire in everyday clothing, with no stereotyped costumes.",
+      "props": [
+        "one low campfire",
+        "one circle of simple stools",
+        "one village hut"
+      ],
+      "beats": [
+        "The community arrives at dusk.",
+        "People sit around the fire.",
+        "They share stories together."
+      ],
+      "ending": "The tribe gathers around the fire."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "deadly",
+    "anchor": "snake",
+    "anchorMeaning": "蛇",
+    "sentence": "The deadly snake raised its head beside the path.",
+    "relation": "A deadly snake can cause death through its venom; the raised head signals danger.",
+    "scene": {
+      "setting": "A dry trail at the edge of a meadow.",
+      "actor": "One venomous-looking snake raises its head beside the path while a hiker keeps distance.",
+      "props": [
+        "one snake",
+        "one narrow path",
+        "one patch of grass"
+      ],
+      "beats": [
+        "The hiker notices the snake.",
+        "The snake raises its head.",
+        "The hiker stays safely away."
+      ],
+      "ending": "The deadly snake raises its head beside the path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No bite, blood, injury, or gore."
+  },
+  {
+    "word": "favorable",
+    "anchor": "sail",
+    "anchorMeaning": "帆",
+    "sentence": "A favorable wind carried the sailboat toward shore.",
+    "relation": "A favorable wind helps the sailboat move in the desired direction.",
+    "scene": {
+      "setting": "A calm bay with a clear shoreline.",
+      "actor": "One small sailboat glides toward shore with its sail full of wind.",
+      "props": [
+        "one sailboat",
+        "one billowing sail",
+        "one distant shoreline"
+      ],
+      "beats": [
+        "The breeze fills the sail.",
+        "The boat moves smoothly.",
+        "It heads toward the shore."
+      ],
+      "ending": "A favorable wind carries the sailboat toward shore."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "herd",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "sentence": "A herd of sheep crossed the green field together.",
+    "relation": "A herd is a group of grazing animals; the sheep move together.",
+    "scene": {
+      "setting": "A wide green pasture in soft daylight.",
+      "actor": "A group of sheep crosses the field together.",
+      "props": [
+        "one green pasture",
+        "one low wooden fence",
+        "one small water trough"
+      ],
+      "beats": [
+        "The sheep gather near the fence.",
+        "They begin crossing the field.",
+        "The herd moves together."
+      ],
+      "ending": "A herd of sheep crosses the field."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "strip",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "sentence": "After the rain, he began to strip off his wet coat beside the door.",
+    "relation": "Strip off means remove clothing; he takes off his wet outer coat.",
+    "scene": {
+      "setting": "A warm entryway just inside a home.",
+      "actor": "One fully clothed adult removes a wet coat beside the door.",
+      "props": [
+        "one wet coat",
+        "one plain coat hook",
+        "one dry towel"
+      ],
+      "beats": [
+        "He enters from the rain.",
+        "He unbuttons the coat.",
+        "He strips off the wet coat and hangs it up."
+      ],
+      "ending": "He strips off his wet coat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "The character remains modestly dressed throughout; no nudity or exposed underwear."
+  },
+  {
+    "word": "diagnose",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "sentence": "The vet used a stethoscope to diagnose the coughing puppy.",
+    "relation": "A vet diagnoses an illness by examining the puppy and listening to its cough.",
+    "scene": {
+      "setting": "A quiet veterinary examination room.",
+      "actor": "One veterinarian gently listens to a puppy with a plain stethoscope.",
+      "props": [
+        "one stethoscope",
+        "one small puppy",
+        "one plain exam table"
+      ],
+      "beats": [
+        "The puppy coughs softly.",
+        "The vet listens with the stethoscope.",
+        "The vet identifies the cause of the cough."
+      ],
+      "ending": "The vet diagnoses the coughing puppy."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No charts, writing, labels, or medical symbols."
+  },
+  {
+    "word": "scratch",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "sentence": "The kitten can scratch the woven chair with one paw.",
+    "relation": "Scratch means rake or scrape a surface with claws; the kitten marks the chair.",
+    "scene": {
+      "setting": "A simple living room with a blank wall.",
+      "actor": "One kitten scratches the woven side of a chair with one paw.",
+      "props": [
+        "one woven chair",
+        "one kitten",
+        "one small rug"
+      ],
+      "beats": [
+        "The kitten approaches the chair.",
+        "It touches the woven side with one paw.",
+        "A few fibers loosen where it scratches."
+      ],
+      "ending": "The kitten scratches the chair."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    },
+    "artDirection": "Show no extra paws or drawn motion marks."
+  },
+  {
+    "word": "dip",
+    "anchor": "chocolate",
+    "anchorMeaning": "巧克力",
+    "sentence": "She likes to dip a strawberry into melted chocolate.",
+    "relation": "Dip means briefly put something into a liquid; the strawberry enters the chocolate.",
+    "scene": {
+      "setting": "A bright kitchen counter.",
+      "actor": "One person dips one strawberry into a small bowl of melted chocolate.",
+      "props": [
+        "one strawberry",
+        "one small bowl of melted chocolate",
+        "one plain plate"
+      ],
+      "beats": [
+        "She holds the strawberry.",
+        "She lowers it into the chocolate.",
+        "She lifts it out with a chocolate coating."
+      ],
+      "ending": "She dips the strawberry in chocolate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "distress",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨",
+    "sentence": "The storm caused distress for the family sheltering indoors.",
+    "relation": "Distress is worry or suffering; the storm makes the family anxious.",
+    "scene": {
+      "setting": "A family room during a heavy rainstorm.",
+      "actor": "Two family members sit close by a window, worried as rain taps the glass.",
+      "props": [
+        "one rain-streaked window",
+        "one warm blanket",
+        "one small lamp"
+      ],
+      "beats": [
+        "Rain beats against the window.",
+        "The family listens anxiously.",
+        "They huddle under the blanket in distress."
+      ],
+      "ending": "The storm causes distress for the family."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "warmth",
+    "anchor": "blanket",
+    "anchorMeaning": "毯子",
+    "sentence": "The thick blanket gave the child warmth on a cold night.",
+    "relation": "Warmth is the comfortable heat the blanket gives the child.",
+    "scene": {
+      "setting": "A cozy bedroom on a cold night.",
+      "actor": "One child curls up under a thick blanket beside a simple bed.",
+      "props": [
+        "one thick blanket",
+        "one small bed",
+        "one plain bedside lamp"
+      ],
+      "beats": [
+        "The child feels cold.",
+        "The child pulls the blanket close.",
+        "The child relaxes in its warmth."
+      ],
+      "ending": "The blanket gives the child warmth."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "dump",
+    "anchor": "truck",
+    "anchorMeaning": "卡车",
+    "sentence": "The truck will dump a load of leaves into the compost pit.",
+    "relation": "Dump means unload or drop a large amount; the truck tips leaves into the pit.",
+    "scene": {
+      "setting": "A garden compost area with a blank fence.",
+      "actor": "One small truck tips a load of autumn leaves into a compost pit.",
+      "props": [
+        "one small dump truck",
+        "one compost pit",
+        "one pile of leaves"
+      ],
+      "beats": [
+        "The truck backs toward the pit.",
+        "Its bed lifts.",
+        "The leaves dump into the compost pit."
+      ],
+      "ending": "The truck dumps leaves into the pit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "vigorous",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "sentence": "The vigorous puppy raced across the yard.",
+    "relation": "Vigorous means full of energy; the puppy runs with lively strength.",
+    "scene": {
+      "setting": "A sunny fenced yard.",
+      "actor": "One energetic puppy races across the grass.",
+      "props": [
+        "one puppy",
+        "one green yard",
+        "one plain ball"
+      ],
+      "beats": [
+        "The puppy starts running.",
+        "It races around the yard.",
+        "It bounds forward full of energy."
+      ],
+      "ending": "The vigorous puppy races across the yard."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "manifest",
+    "anchor": "smile",
+    "anchorMeaning": "笑容",
+    "sentence": "The child’s joy was manifest in her broad smile.",
+    "relation": "Manifest means clearly visible; the broad smile makes the child’s joy evident.",
+    "scene": {
+      "setting": "A bright family room with a blank wall.",
+      "actor": "One joyful child smiles broadly while holding a small gift.",
+      "props": [
+        "one broad smile",
+        "one small wrapped gift with blank paper",
+        "one simple chair"
+      ],
+      "beats": [
+        "The child opens the gift.",
+        "Her face brightens.",
+        "Her joy becomes manifest in a broad smile."
+      ],
+      "ending": "The child’s joy is manifest in her smile."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No writing, patterns that look like letters, or labels on the gift."
+  },
+  {
+    "word": "bulk",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "sentence": "The bulk of the harvest filled one basket, while a few apples remained on the table.",
+    "relation": "Bulk means the largest part or majority; most apples are in the basket.",
+    "scene": {
+      "setting": "A small farm kitchen with a plain table.",
+      "actor": "One farmer sorts most of the apples into a large basket, leaving a few on the table.",
+      "props": [
+        "one large basket filled with apples",
+        "a few loose apples",
+        "one wooden table"
+      ],
+      "beats": [
+        "The farmer gathers the harvest.",
+        "Most apples go into the basket.",
+        "Only a few remain outside it."
+      ],
+      "ending": "The bulk of the apples fills the basket."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "nonsense",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "sentence": "The boy called it nonsense when the puppy wore a flowerpot as a hat.",
+    "relation": "Nonsense is something absurd or ridiculous; the puppy’s flowerpot hat is silly.",
+    "scene": {
+      "setting": "A playful garden beside a blank fence.",
+      "actor": "One boy laughs gently as a puppy wears an empty flowerpot loosely like a hat.",
+      "props": [
+        "one puppy",
+        "one empty flowerpot",
+        "one garden path"
+      ],
+      "beats": [
+        "The puppy noses the pot.",
+        "The pot rests loosely on its head.",
+        "The boy sees the silly nonsense."
+      ],
+      "ending": "The boy calls the puppy’s flowerpot hat nonsense."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "The pot must not cover the puppy’s nose or restrict breathing."
+  },
+  {
+    "word": "excel",
+    "anchor": "canvas",
+    "anchorMeaning": "画布",
+    "sentence": "She hopes to excel at painting, so she practices filling canvases with flowers.",
+    "relation": "Excel means do very well; repeated careful painting helps her excel.",
+    "scene": {
+      "setting": "A bright art studio with a plain wall.",
+      "actor": "One young painter carefully paints flowers across a canvas.",
+      "props": [
+        "one blank canvas with painted flowers",
+        "one paintbrush",
+        "one small palette"
+      ],
+      "beats": [
+        "She practices the flower shapes.",
+        "She fills the canvas with color.",
+        "Her painting shows how she can excel."
+      ],
+      "ending": "She hopes to excel at painting."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No words, signatures, letters, or numbers on the artwork."
+  },
+  {
+    "word": "nonetheless",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "sentence": "The rain continued; nonetheless, the hikers kept walking under their umbrellas.",
+    "relation": "Nonetheless introduces a contrast; despite rain, the hikers continue.",
+    "scene": {
+      "setting": "A wet forest trail during steady rain.",
+      "actor": "Two hikers continue along the trail beneath umbrellas despite the rain.",
+      "props": [
+        "two plain umbrellas",
+        "one forest trail",
+        "one small puddle"
+      ],
+      "beats": [
+        "Rain falls steadily.",
+        "The hikers open their umbrellas.",
+        "They continue walking nonetheless."
+      ],
+      "ending": "The hikers keep walking despite the rain."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "conquer",
+    "anchor": "hill",
+    "anchorMeaning": "山丘",
+    "sentence": "The climber hopes to conquer the steep hill before sunset.",
+    "relation": "Conquer means overcome or successfully climb; the climber aims to reach the hilltop.",
+    "scene": {
+      "setting": "A steep grassy hill near sunset.",
+      "actor": "One climber reaches the crest of a steep hill and looks across the valley.",
+      "props": [
+        "one steep hill",
+        "one walking stick",
+        "one low sunset"
+      ],
+      "beats": [
+        "The climber starts up the slope.",
+        "The path steepens.",
+        "The climber reaches the crest before sunset."
+      ],
+      "ending": "The climber hopes to conquer the hill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  }
+]

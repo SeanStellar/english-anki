@@ -1,0 +1,342 @@
+[
+  {
+    "id": "kyc-2736",
+    "anchor": "sea",
+    "sentence": "A tanker carried oil across the sea.",
+    "relation": "A tanker is a large ship designed to carry oil or another liquid cargo in bulk.",
+    "setting": "A calm open sea",
+    "actor": "No people: one large tanker carries oil across the water.",
+    "props": [
+      "one tanker",
+      "one calm sea",
+      "one distant horizon"
+    ],
+    "beats": [
+      "The tanker loads its cargo",
+      "It travels across the sea",
+      "The oil tanker moves steadily forward"
+    ],
+    "ending": "An oil tanker carries cargo across the sea.",
+    "artDirection": "No company logos, flags, writing, or signs."
+  },
+  {
+    "id": "kyc-2737",
+    "anchor": "family",
+    "sentence": "The family shared a meal at Thanksgiving.",
+    "relation": "Thanksgiving is a holiday celebrated in the United States and some other countries, often with a family meal of gratitude.",
+    "setting": "A warm dining room on Thanksgiving",
+    "actor": "Exactly two family members share a simple holiday meal at a table.",
+    "props": [
+      "two family members",
+      "one plain dinner table",
+      "one bowl of food"
+    ],
+    "beats": [
+      "The family gathers",
+      "They share a meal",
+      "They celebrate Thanksgiving together"
+    ],
+    "ending": "A family shares a meal at Thanksgiving.",
+    "artDirection": "Exactly two people; no flags, religious symbols, text, labels, or logos."
+  },
+  {
+    "id": "kyc-2738",
+    "anchor": "leg",
+    "sentence": "The thigh is the upper part of the leg.",
+    "relation": "The thigh is the part of the leg between the hip and the knee.",
+    "setting": "A calm anatomy classroom",
+    "actor": "One teacher points to the upper leg on a simple unlabelled body model.",
+    "props": [
+      "one teacher",
+      "one plain body model",
+      "one classroom table"
+    ],
+    "beats": [
+      "The leg is shown",
+      "The upper section is identified",
+      "The thigh is located above the knee"
+    ],
+    "ending": "The thigh is the upper part of the leg.",
+    "artDirection": "Educational model only; no labels, writing, or medical symbols."
+  },
+  {
+    "id": "kyc-2739",
+    "anchor": "rose",
+    "sentence": "A thorn on the rose pricked her hand.",
+    "relation": "A thorn is a sharp point growing on the stem of some plants, such as roses.",
+    "setting": "A sunny garden",
+    "actor": "One gardener touches a rose stem and notices its thorn near her hand, without injury.",
+    "props": [
+      "one rose",
+      "one thorn on its stem",
+      "one gardener's hand"
+    ],
+    "beats": [
+      "The gardener reaches for the rose",
+      "The thorn touches her hand",
+      "She notices the sharp point"
+    ],
+    "ending": "A thorn on a rose pricks a gardener's hand without injury.",
+    "artDirection": "No blood or wound; one rose only, no extra people or text."
+  },
+  {
+    "id": "kyc-2740",
+    "anchor": "week",
+    "sentence": "Thursday comes near the end of the week.",
+    "relation": "Thursday is the day of the week between Wednesday and Friday.",
+    "setting": "A quiet office late in the workweek",
+    "actor": "One worker closes a plain notebook as the workweek nears its end.",
+    "props": [
+      "one worker",
+      "one plain notebook",
+      "one simple desk"
+    ],
+    "beats": [
+      "The week is nearly finished",
+      "Thursday arrives",
+      "The worker gets close to the weekend"
+    ],
+    "ending": "Thursday comes near the end of the week.",
+    "artDirection": "No calendars, dates, writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2741",
+    "anchor": "week",
+    "sentence": "Tuesday comes early in the week.",
+    "relation": "Tuesday is the day of the week between Monday and Wednesday.",
+    "setting": "A quiet classroom early in the week",
+    "actor": "One student begins a school day at a plain desk.",
+    "props": [
+      "one student",
+      "one plain notebook",
+      "one classroom desk"
+    ],
+    "beats": [
+      "The week begins",
+      "Tuesday arrives",
+      "The student starts the day's work"
+    ],
+    "ending": "Tuesday comes early in the week.",
+    "artDirection": "No calendars, dates, numbers, writing, or logos."
+  },
+  {
+    "id": "kyc-2742",
+    "anchor": "problem",
+    "sentence": "An underlying problem caused the machine to stop.",
+    "relation": "Underlying describes something hidden beneath the surface or serving as the basic cause of something.",
+    "setting": "A simple repair workshop",
+    "actor": "One mechanic opens a plain machine and discovers a hidden loose wire causing it to stop.",
+    "props": [
+      "one mechanic",
+      "one plain machine",
+      "one loose wire"
+    ],
+    "beats": [
+      "The machine stops",
+      "The mechanic looks inside",
+      "An underlying problem is found"
+    ],
+    "ending": "A hidden underlying problem stops the machine.",
+    "artDirection": "No electrical sparks, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2743",
+    "anchor": "news",
+    "sentence": "The up-to-date report included the latest news.",
+    "relation": "Up-to-date describes information that is current and includes the newest facts or developments.",
+    "setting": "A quiet news desk",
+    "actor": "One reporter checks a fresh plain report beside a radio carrying current news.",
+    "props": [
+      "one reporter",
+      "one plain report",
+      "one simple radio"
+    ],
+    "beats": [
+      "New information arrives",
+      "The report is updated",
+      "The up-to-date report includes the latest news"
+    ],
+    "ending": "An up-to-date report includes the latest news.",
+    "artDirection": "Paper and radio have no writing, labels, screens, numbers, or logos."
+  },
+  {
+    "id": "kyc-2744",
+    "anchor": "heart",
+    "sentence": "A vein carries blood back toward the heart.",
+    "relation": "A vein is a blood vessel that carries blood toward the heart.",
+    "setting": "A calm health classroom",
+    "actor": "One teacher points to a plain unlabelled model showing veins returning blood toward a heart.",
+    "props": [
+      "one teacher",
+      "one plain heart model",
+      "one simple vein model"
+    ],
+    "beats": [
+      "Blood moves through a vessel",
+      "The vein carries it toward the heart",
+      "The direction of flow is shown"
+    ],
+    "ending": "A vein carries blood back toward the heart.",
+    "artDirection": "Educational model only; no labels, text, or medical symbols."
+  },
+  {
+    "id": "kyc-2745",
+    "anchor": "cloth",
+    "sentence": "Velvet is a soft cloth with a short, thick pile.",
+    "relation": "Velvet is a soft fabric with a dense pile of short fibers that gives it a smooth feel.",
+    "setting": "A quiet fabric shop",
+    "actor": "One shopkeeper lets a customer feel a plain piece of velvet cloth.",
+    "props": [
+      "one shopkeeper",
+      "one customer",
+      "one piece of velvet cloth"
+    ],
+    "beats": [
+      "The cloth is unfolded",
+      "The customer touches its soft surface",
+      "The velvet feels smooth and thick"
+    ],
+    "ending": "A customer feels the soft pile of velvet cloth.",
+    "artDirection": "Exactly two people; no fabric labels, text, patterns with letters, or logos."
+  },
+  {
+    "id": "kyc-2746",
+    "anchor": "table",
+    "sentence": "The cook added vinegar to the salad at the table.",
+    "relation": "Vinegar is a sour liquid used in cooking, especially in dressings and pickling.",
+    "setting": "A quiet kitchen table",
+    "actor": "One cook pours a little vinegar over a fresh salad in a plain bowl.",
+    "props": [
+      "one cook",
+      "one small unlabelled vinegar bottle",
+      "one salad bowl"
+    ],
+    "beats": [
+      "The salad is prepared",
+      "The cook adds vinegar",
+      "The salad is ready to serve"
+    ],
+    "ending": "A cook adds vinegar to a salad at the table.",
+    "artDirection": "No bottle labels, writing, logos, or extra people."
+  },
+  {
+    "id": "kyc-2747",
+    "anchor": "child",
+    "sentence": "She tried to waken the child after the nap.",
+    "relation": "To waken is to wake someone or cause them to stop sleeping.",
+    "setting": "A quiet bedroom after a nap",
+    "actor": "One parent gently calls to one sleeping child beside the bed.",
+    "props": [
+      "one parent",
+      "one sleeping child",
+      "one bed"
+    ],
+    "beats": [
+      "The child finishes a nap",
+      "The parent calls gently",
+      "She tries to waken the child"
+    ],
+    "ending": "A parent tries to waken a child after a nap.",
+    "artDirection": "Exactly two people; calm scene with no alarm text, labels, or logos."
+  },
+  {
+    "id": "kyc-2748",
+    "anchor": "week",
+    "sentence": "Wednesday falls in the middle of the week.",
+    "relation": "Wednesday is the day of the week between Tuesday and Thursday.",
+    "setting": "A quiet study room midweek",
+    "actor": "One student studies at a plain desk during the middle of a school week.",
+    "props": [
+      "one student",
+      "one plain book",
+      "one desk"
+    ],
+    "beats": [
+      "The week begins",
+      "Several days pass",
+      "Wednesday arrives in the middle"
+    ],
+    "ending": "Wednesday falls in the middle of the week.",
+    "artDirection": "No calendars, dates, numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2749",
+    "anchor": "thief",
+    "sentence": "The wicked thief stole a child's toy.",
+    "relation": "Wicked describes someone morally bad or deliberately cruel; a thief is a familiar example of a wrongdoer.",
+    "setting": "A quiet playroom",
+    "actor": "One thief sneaks away with a child's toy while one child watches in surprise.",
+    "props": [
+      "one thief",
+      "one child",
+      "one plain toy"
+    ],
+    "beats": [
+      "The child leaves a toy nearby",
+      "The thief steals it",
+      "The wicked act is revealed"
+    ],
+    "ending": "A wicked thief steals a child's toy.",
+    "artDirection": "Exactly two people; no violence, threatening tools, text, or symbols."
+  },
+  {
+    "id": "kyc-2750",
+    "anchor": "friend",
+    "sentence": "She gave her friend a quick wink.",
+    "relation": "To wink is to close and open one eye briefly, often as a signal or joke.",
+    "setting": "A quiet living room",
+    "actor": "Exactly two friends share a light moment as one gives the other a quick wink.",
+    "props": [
+      "two friends",
+      "one plain chair",
+      "one small table"
+    ],
+    "beats": [
+      "The friends meet",
+      "One friend closes one eye briefly",
+      "She gives her friend a wink"
+    ],
+    "ending": "One friend gives another a quick wink.",
+    "artDirection": "Exactly two people; show one eye closing naturally, no exaggerated facial distortion, text, or symbols."
+  },
+  {
+    "id": "kyc-2751",
+    "anchor": "work",
+    "sentence": "You can do the work yourselves.",
+    "relation": "Yourselves is the plural reflexive pronoun referring back to the people being addressed; it can also add emphasis that they do something without help.",
+    "setting": "A simple work table",
+    "actor": "Exactly two people complete a small task together without outside help.",
+    "props": [
+      "two people",
+      "one plain work table",
+      "one small wooden model"
+    ],
+    "beats": [
+      "The pair starts the task",
+      "They work together unaided",
+      "They complete the work yourselves"
+    ],
+    "ending": "You can complete the work yourselves.",
+    "artDirection": "Exactly two people; no writing, labels, or extra helpers."
+  },
+  {
+    "id": "kyc-2752",
+    "anchor": "road",
+    "sentence": "The road made a zigzag around the hill.",
+    "relation": "Zigzag describes a line or path that turns sharply in alternating directions.",
+    "setting": "A quiet hill country",
+    "actor": "No people: a winding road bends in sharp alternating turns around a small hill.",
+    "props": [
+      "one road",
+      "one small hill",
+      "one distant tree"
+    ],
+    "beats": [
+      "The road approaches the hill",
+      "It turns sharply one way",
+      "It zigzags around the hill"
+    ],
+    "ending": "A road makes a zigzag around a hill.",
+    "artDirection": "No road signs, text, labels, or symbols."
+  }
+]

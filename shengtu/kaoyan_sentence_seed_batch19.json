@@ -1,0 +1,642 @@
+[
+  {
+    "word": "lucky",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "Finding an unexpected coin can make someone feel lucky.",
+    "sentence": "She felt lucky to find a shiny coin in the grass.（她在草地上发现一枚亮闪闪的硬币，觉得自己很幸运。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet, uncluttered green meadow on a bright morning, with plain grass and no flowers.",
+      "actor": "One child discovers and picks up one shiny coin in the grass; only one person.",
+      "props": [
+        "one plain unmarked shiny coin lying in the grass",
+        "one small patch of plain green meadow grass",
+        "one simple woven basket"
+      ],
+      "beats": [
+        "The child searches the meadow grass.",
+        "She finds one shiny coin in the grass.",
+        "She smiles at her lucky discovery."
+      ],
+      "ending": "The child smiles while holding the one shiny coin she found in the grass."
+    },
+    "artDirection": "One child with natural hands. Show exactly one small plain coin with no currency symbol or writing; keep the coin clearly visible in the grass. No extra coins, flowers, text, signs, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：lucky 与 coin 均清楚出现，句子自然易读，在草地上意外发现硬币体现幸运。"
+    }
+  },
+  {
+    "word": "destruction",
+    "anchor": "sandcastle",
+    "anchorMeaning": "沙堡",
+    "relation": "A strong storm can cause the destruction of a sandcastle.",
+    "sentence": "Heavy rain caused the destruction of the old sandcastle.（大雨摧毁了旧沙堡。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet beach beneath a passing raincloud.",
+      "actor": "No people; rainwater and one small wave break down an old sandcastle.",
+      "props": [
+        "one old sandcastle partly crumbling",
+        "one shallow wave washing over the sand",
+        "one rain-darkened beach"
+      ],
+      "beats": [
+        "The sandcastle stands on the beach.",
+        "Rain and a small wave reach its base.",
+        "The sandcastle breaks down into wet sand."
+      ],
+      "ending": "The old sandcastle is visibly damaged by rain and water."
+    },
+    "artDirection": "No people or danger. Show only gentle natural water wearing down the sandcastle; no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：destruction 与 sandcastle 清楚出现，句子简短自然，水流破坏沙堡的因果明确。"
+    }
+  },
+  {
+    "word": "dioxide",
+    "anchor": "leaves",
+    "anchorMeaning": "叶子",
+    "relation": "Plants absorb carbon dioxide through their leaves.",
+    "sentence": "Plants absorb carbon dioxide through their leaves.（植物通过叶子吸收二氧化碳。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright greenhouse with a healthy potted plant in sunlight.",
+      "actor": "No people; a green plant spreads its leaves in clean air and sunlight.",
+      "props": [
+        "one healthy green potted plant",
+        "one broad leaf in clear focus",
+        "soft sunlight entering the greenhouse"
+      ],
+      "beats": [
+        "Sunlight reaches the plant leaves.",
+        "The leaves take in carbon dioxide from the air.",
+        "The healthy plant continues growing."
+      ],
+      "ending": "The plant's leaves are the clear focus as it absorbs carbon dioxide."
+    },
+    "artDirection": "No text, letters, chemical formula, arrows, or labels. A few subtle transparent air bubbles may drift toward the leaves to suggest an invisible gas; keep the scene natural.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：carbon dioxide 与 leaves 用法准确，句子语法自然，说明植物通过叶片吸收二氧化碳。"
+    }
+  },
+  {
+    "word": "gamble",
+    "anchor": "dice",
+    "anchorMeaning": "骰子",
+    "relation": "Taking a gamble means accepting risk, like making one uncertain final dice roll.",
+    "sentence": "He took a gamble on one last roll of the dice.（他冒险押在最后一次掷骰子上。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet game table under warm indoor light.",
+      "actor": "One adult makes a thoughtful final dice roll; only one person.",
+      "props": [
+        "two plain dice showing only small dots",
+        "one simple wooden game table",
+        "one plain closed game box with no markings"
+      ],
+      "beats": [
+        "The player pauses before the final roll.",
+        "He rolls the dice despite uncertainty.",
+        "The risky choice shows he took a gamble."
+      ],
+      "ending": "The player takes a gamble on one last roll of the dice."
+    },
+    "artDirection": "One adult only. Dice show dots, never numerals; no money, cards, writing, logos, or gambling ads.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：gamble 与 dice 均出现，句子自然，最后一次不确定的掷骰体现冒险。"
+    }
+  },
+  {
+    "word": "transaction",
+    "anchor": "coins",
+    "anchorMeaning": "硬币",
+    "relation": "A cashier completes a transaction by accepting payment for an item.",
+    "sentence": "The cashier completed the transaction after counting the coins.（收银员数完硬币后完成了这笔交易。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet shop counter.",
+      "actor": "One cashier and one customer complete a simple purchase; exactly two people.",
+      "props": [
+        "a few plain unmarked coins on the counter",
+        "one plain loaf of bread being purchased",
+        "one simple wooden checkout counter"
+      ],
+      "beats": [
+        "The customer places coins on the counter.",
+        "The cashier counts the coins.",
+        "The purchase transaction is completed."
+      ],
+      "ending": "The cashier finishes the transaction after counting the coins."
+    },
+    "artDirection": "Exactly two adults with natural hands. No receipts, prices, signs, labels, writing, or logos; coins have no markings.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：transaction 与 coins 清楚出现，句子流畅，付款完成交易的意思明确。"
+    }
+  },
+  {
+    "word": "costly",
+    "anchor": "shoes",
+    "anchorMeaning": "鞋子",
+    "relation": "Replacing worn shoes can become costly when repairs are extensive.",
+    "sentence": "Repairing the worn shoes became costly.（修理这双磨损的鞋子变得很昂贵。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small shoe-repair workshop with a plain workbench.",
+      "actor": "One shoemaker examines a worn pair of shoes beside a small coin purse; only one person.",
+      "props": [
+        "one worn pair of plain shoes",
+        "one small open coin purse with a few unmarked coins",
+        "one simple repair workbench"
+      ],
+      "beats": [
+        "The shoemaker inspects the worn shoes.",
+        "The repair requires extra work and materials.",
+        "The shoemaker sees that the repair has become costly."
+      ],
+      "ending": "The worn shoes need an expensive repair."
+    },
+    "artDirection": "One shoemaker only. No bills, price tags, writing, labels, or logos; coins and shoes remain unmarked.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：costly 与 shoes 锚点均出现，句子简洁自然，昂贵维修的含义明确。"
+    }
+  },
+  {
+    "word": "chairman",
+    "anchor": "meeting",
+    "anchorMeaning": "会议",
+    "relation": "A chairman leads and opens a meeting.",
+    "sentence": "The chairman opened the meeting with a short welcome.（主席用简短的欢迎辞开场，会议开始了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple meeting room with a plain table.",
+      "actor": "One chairman welcomes one attendee at the start of a meeting; exactly two people.",
+      "props": [
+        "one simple meeting table",
+        "two plain chairs",
+        "one blank folder"
+      ],
+      "beats": [
+        "The chairman takes a seat at the table.",
+        "One attendee arrives and sits nearby.",
+        "The chairman opens the meeting with a welcome."
+      ],
+      "ending": "The chairman leads the start of the meeting."
+    },
+    "artDirection": "Exactly two adults with natural limbs. No nameplates, signs, papers with writing, or logos; folder is blank.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：chairman 与 meeting 均原词出现，表达自然，主席主持开会的关系清楚。"
+    }
+  },
+  {
+    "word": "bias",
+    "anchor": "scale",
+    "anchorMeaning": "天平",
+    "relation": "A balanced scale can remind a judge to avoid bias.",
+    "sentence": "A balanced scale helped the judge avoid bias.（一架平衡的天平帮助法官避免偏见。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet judge's office with a plain desk.",
+      "actor": "One judge considers a balanced scale before making a fair decision; only one person.",
+      "props": [
+        "one balanced brass scale with equal empty pans",
+        "one plain wooden desk",
+        "one blank closed folder"
+      ],
+      "beats": [
+        "The judge looks at the balanced scale.",
+        "Both sides of the scale remain even.",
+        "The judge considers the decision without bias."
+      ],
+      "ending": "The balanced scale symbolizes a fair judgment without bias."
+    },
+    "artDirection": "One adult only. No legal documents, writing, numbers, signs, or logos; scale is unmarked and balanced.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：bias 与 scale 锚点出现，句子自然，平衡天平象征避免偏见。"
+    }
+  },
+  {
+    "word": "photograph",
+    "anchor": "camera",
+    "anchorMeaning": "相机",
+    "relation": "A camera lets someone take a photograph of a scene.",
+    "sentence": "She took a photograph of the old bridge with her camera.（她用相机拍下了那座旧桥。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm riverside path beside an old stone bridge.",
+      "actor": "One woman takes a photograph of the bridge with a plain camera; only one person.",
+      "props": [
+        "one plain camera without logos",
+        "one old stone bridge",
+        "one clear riverside path"
+      ],
+      "beats": [
+        "The woman notices the old bridge.",
+        "She raises the camera and frames the view.",
+        "She takes a photograph of the bridge."
+      ],
+      "ending": "The camera is clearly used to photograph the old bridge."
+    },
+    "artDirection": "One adult with natural hands. No brand names, writing, screens with icons, signs, or logos; no text in the image.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：photograph 与 camera 清楚出现，句子自然，拍摄动作表达明确。"
+    }
+  },
+  {
+    "word": "rival",
+    "anchor": "line",
+    "anchorMeaning": "线",
+    "relation": "A rival competes against someone at a starting line.",
+    "sentence": "Her rival stood beside her at the starting line.（她的对手站在她身旁的起跑线上。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet running track before a race.",
+      "actor": "Exactly two runners stand side by side at the starting line, ready to compete.",
+      "props": [
+        "one clear starting line",
+        "two pairs of plain running shoes",
+        "one running track"
+      ],
+      "beats": [
+        "The two runners take their places at the line.",
+        "Each looks focused on the race.",
+        "One runner stands beside her rival."
+      ],
+      "ending": "Two competitors wait beside each other at the starting line."
+    },
+    "artDirection": "Exactly two people with natural limbs. No crowd, numbers, logos, signs, or text on clothing.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：rival 和 starting line 关系清楚，句子自然简洁，竞争场景明确。"
+    }
+  },
+  {
+    "word": "disorder",
+    "anchor": "room",
+    "anchorMeaning": "房间",
+    "relation": "Disorder in a room can make it difficult to find things.",
+    "sentence": "The disorder in the room made it hard to find the books.（房间里的凌乱让人很难找到书。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A child's bedroom with clothes and toys scattered around.",
+      "actor": "One child searches the messy room for a book; only one person.",
+      "props": [
+        "several plain books with blank spines",
+        "scattered toy blocks",
+        "one unmade bed"
+      ],
+      "beats": [
+        "The room is messy and cluttered.",
+        "The child looks among the scattered things.",
+        "The disorder makes the books difficult to find."
+      ],
+      "ending": "The cluttered room clearly shows disorder."
+    },
+    "artDirection": "One child with natural limbs. Book spines and bedding have no text, labels, or logos; no signs or writing.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：disorder 与 room 均出现，句子自然，杂乱导致难以寻找物品的关系明确。"
+    }
+  },
+  {
+    "word": "relieve",
+    "anchor": "cloth",
+    "anchorMeaning": "布",
+    "relation": "A cool cloth can relieve discomfort from a mild fever.",
+    "sentence": "A cool cloth helped relieve the child's fever.（一块凉布帮助缓解了孩子的发烧不适。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm bedroom with soft daylight.",
+      "actor": "One caregiver gently places a cool cloth on one resting child's forehead; exactly two people.",
+      "props": [
+        "one cool plain cloth on the child's forehead",
+        "one simple bed with a blank blanket",
+        "one plain glass of water"
+      ],
+      "beats": [
+        "The child rests quietly in bed.",
+        "The caregiver places the cool cloth gently.",
+        "The child looks more comfortable as the cloth relieves the discomfort."
+      ],
+      "ending": "The cool cloth helps relieve the child's fever discomfort."
+    },
+    "artDirection": "Exactly two people with natural limbs. No distress, thermometer numbers, medicine labels, writing, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：relieve 与 cloth 清楚出现，句子语法自然，冷布缓解不适的含义明确。"
+    }
+  },
+  {
+    "word": "overwhelm",
+    "anchor": "boat",
+    "anchorMeaning": "小船",
+    "relation": "A giant wave can overwhelm a much smaller boat.",
+    "sentence": "A giant wave can overwhelm a small boat.（巨浪可能淹没小船。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A dramatic but safe open sea beneath a cloudy sky.",
+      "actor": "No people; one small sturdy boat faces one very large approaching wave from a safe distance.",
+      "props": [
+        "one small plain boat",
+        "one towering ocean wave",
+        "one broad stretch of sea"
+      ],
+      "beats": [
+        "The small boat floats on the open water.",
+        "A much larger wave rises nearby.",
+        "The giant wave threatens to overwhelm the boat."
+      ],
+      "ending": "The huge wave looks capable of overwhelming the small boat, without showing harm."
+    },
+    "artDirection": "No people, sinking, injury, or distress. Keep the boat afloat and at a safe distance; no text, flags, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：overwhelm 与 boat 均清楚出现，句子简单自然，巨浪压过小船的关系直观。"
+    }
+  },
+  {
+    "word": "equip",
+    "anchor": "backpack",
+    "anchorMeaning": "背包",
+    "relation": "A guide can equip a hiker with a sturdy backpack before a trip.",
+    "sentence": "The guide will equip the hiker with a sturdy backpack.（向导会给徒步者配备一个结实的背包。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny trailhead before a hike.",
+      "actor": "One guide helps one hiker put on a sturdy backpack; exactly two people.",
+      "props": [
+        "one plain sturdy backpack",
+        "one simple water bottle with no label",
+        "one clear trailhead path"
+      ],
+      "beats": [
+        "The hiker prepares to leave on the trail.",
+        "The guide hands over the backpack and water bottle.",
+        "The guide equips the hiker for the trip."
+      ],
+      "ending": "The hiker is equipped with a sturdy backpack for the walk."
+    },
+    "artDirection": "Exactly two adults with natural limbs. No maps with writing, signs, logos, or labels on gear.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：equip 与 backpack 锚点均出现，句子自然易读，配备装备的含义明确。"
+    }
+  },
+  {
+    "word": "principal",
+    "anchor": "school",
+    "anchorMeaning": "学校",
+    "relation": "A principal leads a school and meets its community.",
+    "sentence": "The principal met a parent outside the school.（校长在学校外会见了一位家长。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A welcoming school entrance with a plain blank facade.",
+      "actor": "One principal meets one parent outside the entrance; exactly two adults.",
+      "props": [
+        "one plain school doorway with no sign",
+        "one simple flower pot",
+        "one blank folder held by the principal"
+      ],
+      "beats": [
+        "The parent arrives at the school entrance.",
+        "The principal greets the parent warmly.",
+        "They talk briefly outside the school."
+      ],
+      "ending": "The school principal welcomes a parent outside the school."
+    },
+    "artDirection": "Exactly two adults with natural limbs. No school signs, name badges, writing, labels, or logos; facade is blank.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：principal 与 school 均原词出现，句子自然，校长会见家长的场景清楚。"
+    }
+  },
+  {
+    "word": "helicopter",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "A helicopter can hover above a hospital roof.",
+    "sentence": "The helicopter hovered above the hospital roof.（直升机在医院屋顶上方盘旋。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clear sky above a modern hospital roof with blank concrete and no painted markings.",
+      "actor": "No people in focus; one helicopter hovers steadily above the hospital rooftop.",
+      "props": [
+        "one plain helicopter with no markings",
+        "one flat hospital roof with a completely blank landing area and no circles or symbols",
+        "one open sky"
+      ],
+      "beats": [
+        "The helicopter approaches the hospital roof.",
+        "It hovers above the blank rooftop landing area.",
+        "The helicopter remains steady in the open sky."
+      ],
+      "ending": "The helicopter hovers clearly over the hospital roof."
+    },
+      "artDirection": "No people, ambulance text, landing symbols, letters, numbers, painted circles, signs, or logos. Keep the concrete rooftop entirely blank and the helicopter unmarked.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：helicopter 与 roof 清楚出现，句子自然，直升机在屋顶上方盘旋的画面对应明确。"
+    }
+  },
+  {
+    "word": "exception",
+    "anchor": "umbrellas",
+    "anchorMeaning": "雨伞",
+    "relation": "One red umbrella can be an exception among several blue umbrellas.",
+    "sentence": "A red umbrella was an exception among the blue umbrellas.（一把红伞在一群蓝伞中显得与众不同。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple umbrella stand in a quiet entryway.",
+      "actor": "No people; one red umbrella stands among several matching blue umbrellas.",
+      "props": [
+        "one plain red umbrella",
+        "several plain blue umbrellas",
+        "one simple umbrella stand"
+      ],
+      "beats": [
+        "The blue umbrellas are grouped together.",
+        "One red umbrella stands among them.",
+        "Its different color makes it an exception."
+      ],
+      "ending": "The red umbrella is a clear exception among the blue ones."
+    },
+    "artDirection": "No people. Umbrellas have no patterns, writing, logos, or labels; keep one red umbrella distinct among blue umbrellas.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：exception 与 umbrellas 锚点均出现，句子自然，颜色不同的雨伞体现例外。"
+    }
+  },
+  {
+    "word": "unexpected",
+    "anchor": "gift",
+    "anchorMeaning": "礼物",
+    "relation": "A gift that arrives without warning is unexpected.",
+    "sentence": "An unexpected gift appeared on the doorstep.（一份意外的礼物出现在门阶上。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home doorway in morning light.",
+      "actor": "No people; one wrapped gift rests unexpectedly on the doorstep.",
+      "props": [
+        "one plain wrapped gift with a blank ribbon tag",
+        "one simple doorstep",
+        "one closed front door"
+      ],
+      "beats": [
+        "The doorstep is empty and quiet.",
+        "A wrapped gift appears by the closed door.",
+        "The surprising gift is unexpected."
+      ],
+      "ending": "The gift on the doorstep is a pleasant surprise."
+    },
+    "artDirection": "No people, writing, names, cards, logos, or labels; gift wrapping and tag are blank.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：unexpected 与 gift 清楚出现，句子简单自然，门阶上的意外礼物表达惊喜。"
+    }
+  },
+  {
+    "word": "delivery",
+    "anchor": "parcel",
+    "anchorMeaning": "包裹",
+    "relation": "A delivery worker brings a parcel to a home.",
+    "sentence": "The delivery worker left a parcel at the door.（送货员把包裹放在门口。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain home entryway with a blank front door.",
+      "actor": "One delivery worker places one unmarked parcel at the doorstep; only one person.",
+      "props": [
+        "one plain parcel with no shipping label",
+        "one blank front door",
+        "one simple doorstep"
+      ],
+      "beats": [
+        "The delivery worker approaches the home.",
+        "The worker sets the parcel by the door.",
+        "The delivery is completed."
+      ],
+      "ending": "The parcel has been delivered to the door."
+    },
+    "artDirection": "One worker only. No labels, addresses, logos, uniforms with text, or signs; parcel and door remain unmarked.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：delivery 与 parcel 均出现，句子语法自然，送货到门的场景明确。"
+    }
+  },
+  {
+    "word": "ethnic",
+    "anchor": "music",
+    "anchorMeaning": "音乐",
+    "relation": "A music festival can welcome musicians from different ethnic communities.",
+    "sentence": "The music festival welcomed two musicians from different ethnic communities.（音乐节欢迎了两位来自不同族群的音乐家。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small outdoor music festival with a simple, undecorated stage and a quiet background.",
+      "actor": "Exactly two adult musicians with different natural skin tones perform together in contemporary everyday clothes; one plays guitar and the other plays a hand drum; exactly two people.",
+      "props": [
+        "one plain acoustic guitar played by one musician",
+        "one simple hand drum played by the other musician",
+        "one small unmarked stage"
+      ],
+      "beats": [
+        "One musician strums the guitar while the other taps the hand drum.",
+        "The two musicians share a simple rhythm on the stage.",
+        "The festival welcomes musicians from different ethnic communities."
+      ],
+      "ending": "Exactly two musicians of different ethnic backgrounds perform together with one guitar and one hand drum."
+    },
+    "artDirection": "Exactly two adults with natural limbs and naturally different skin tones, wearing plain contemporary casual clothing such as a simple shirt and sweater. No head coverings, traditional or region-specific dress, flags, bunting, symbols, signs, text, or logos; do not use costumes to signal ethnicity.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：ethnic communities 与 music 均清楚出现，句子自然尊重，画面避免刻板化族群符号。"
+    }
+  }
+]

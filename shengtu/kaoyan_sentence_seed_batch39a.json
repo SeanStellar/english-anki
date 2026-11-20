@@ -1,0 +1,922 @@
+[
+  {
+    "id": "kyc-1641",
+    "serial": 4153,
+    "frequency": 9,
+    "word": "discourse",
+    "targetSense": "讨论、谈话",
+    "alt": "discorse",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "两位朋友围桌交谈，谈话持续进行，表现 discourse。",
+    "sentence": "Their discourse continued around the kitchen table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy kitchen with one plain table",
+      "actor": "Exactly two friends sit facing each other and have a thoughtful conversation around the table",
+      "props": [
+        "one plain kitchen table",
+        "two friends",
+        "one simple room"
+      ],
+      "beats": [
+        "The friends take their seats",
+        "They speak and listen to one another",
+        "Their discourse continues across the table"
+      ],
+      "ending": "Two friends share an ongoing discourse at a kitchen table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two people having a natural conversation; no speech bubbles, writing, signs, or extra people."
+  },
+  {
+    "id": "kyc-1642",
+    "serial": 4154,
+    "frequency": 9,
+    "word": "dot",
+    "targetSense": "点缀",
+    "alt": "",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "一个蓝色小圆点点缀着素色碗，表现 dot。",
+    "sentence": "A single blue dot decorated the plain bowl.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple pottery table with a blank wall",
+      "actor": "One potter paints one small blue dot onto one plain ceramic bowl",
+      "props": [
+        "one plain bowl",
+        "one blue dot",
+        "one small paintbrush"
+      ],
+      "beats": [
+        "The plain bowl rests on the table",
+        "The potter adds one blue dot",
+        "The dot decorates the bowl"
+      ],
+      "ending": "One blue dot decorates a plain bowl."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one small blue dot on one plain bowl and one potter; no extra dots, patterns, labels, or text."
+  },
+  {
+    "id": "kyc-1643",
+    "serial": 4155,
+    "frequency": 9,
+    "word": "flatter",
+    "targetSense": "奉承",
+    "alt": "",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "客人夸赞厨师的蛋糕来奉承她，表现 flatter。",
+    "sentence": "He tried to flatter the chef by praising her cake.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright kitchen after baking",
+      "actor": "One guest warmly praises one chef while admiring her single decorated cake",
+      "props": [
+        "one cake",
+        "one guest",
+        "one chef"
+      ],
+      "beats": [
+        "The chef presents her cake",
+        "The guest smiles and gestures admiringly",
+        "The chef blushes as the guest flatters her"
+      ],
+      "ending": "A guest flatters a chef while praising her cake."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults and one cake; convey praise with admiring expressions and gestures only, no speech bubbles or text."
+  },
+  {
+    "id": "kyc-1644",
+    "serial": 4156,
+    "frequency": 9,
+    "word": "knot",
+    "targetSense": "结",
+    "alt": "",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "她在绳子上打了一个牢固的结，表现 knot。",
+    "sentence": "She tied a tight knot in the rope.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet yard beside a wooden post",
+      "actor": "One woman ties one tight knot in one length of rope around the post",
+      "props": [
+        "one rope",
+        "one visible knot",
+        "one plain post"
+      ],
+      "beats": [
+        "She wraps the rope around the post",
+        "She crosses its ends",
+        "She pulls one tight knot closed"
+      ],
+      "ending": "One woman ties one tight knot in a rope."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one rope with one clear knot and one person; no extra ropes, letters, labels, or text."
+  },
+  {
+    "id": "kyc-1645",
+    "serial": 4158,
+    "frequency": 9,
+    "word": "naive",
+    "targetSense": "天真的",
+    "alt": "",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "天真的孩子相信玩具兔子会说话，表现 naive。",
+    "sentence": "The naive child believed her toy rabbit could talk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple child’s bedroom",
+      "actor": "One trusting child listens closely to one plush toy rabbit as if it could speak",
+      "props": [
+        "one toy rabbit",
+        "one child",
+        "one plain bed"
+      ],
+      "beats": [
+        "The child sits with the toy rabbit",
+        "She listens with complete trust",
+        "Her naive belief makes the toy seem able to talk"
+      ],
+      "ending": "A naive child believes her toy rabbit can talk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one child and one plush rabbit with no moving mouth, speech bubbles, extra toys, or text."
+  },
+  {
+    "id": "kyc-1646",
+    "serial": 4159,
+    "frequency": 9,
+    "word": "outset",
+    "targetSense": "开始",
+    "alt": "",
+    "anchor": "trail",
+    "anchorMeaning": "小路",
+    "relation": "徒步一开始，她就踏上森林小路，表现 outset。",
+    "sentence": "At the outset of the hike, she stepped onto the forest trail.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet forest trailhead in morning light",
+      "actor": "One hiker with a small backpack takes her first step onto the trail",
+      "props": [
+        "one forest trail",
+        "one hiker",
+        "one small backpack"
+      ],
+      "beats": [
+        "The hiker reaches the start of the path",
+        "She steps onto the trail",
+        "The hike begins at its outset"
+      ],
+      "ending": "One hiker starts along a forest trail at the outset of her hike."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one hiker at the clear beginning of one trail; no signs, maps with markings, other hikers, or text."
+  },
+  {
+    "id": "kyc-1647",
+    "serial": 4160,
+    "frequency": 9,
+    "word": "sacred",
+    "targetSense": "神圣的",
+    "alt": "",
+    "anchor": "shrine",
+    "anchorMeaning": "神龛",
+    "relation": "她在神圣的神龛前安静鞠躬，表现 sacred。",
+    "sentence": "She bowed quietly at the sacred shrine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet simple shrine room",
+      "actor": "One woman bows respectfully before one plain sacred shrine",
+      "props": [
+        "one shrine",
+        "one woman",
+        "one candle"
+      ],
+      "beats": [
+        "She enters the quiet room",
+        "She lights the single candle",
+        "She bows respectfully before the shrine"
+      ],
+      "ending": "One woman bows quietly at a sacred shrine."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Keep the shrine respectful and simple; no readable inscriptions, labels, signs, or extra people."
+  },
+  {
+    "id": "kyc-1648",
+    "serial": 4161,
+    "frequency": 9,
+    "word": "sovereign",
+    "targetSense": "君主；至高无上的",
+    "alt": "",
+    "anchor": "throne",
+    "anchorMeaning": "王座",
+    "relation": "君主独自坐在王座上主持朝会，表现 sovereign。",
+    "sentence": "The sovereign sat on her throne to address the court.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet royal hall with one plain throne",
+      "actor": "One sovereign queen sits on the throne alone and addresses an unseen court",
+      "props": [
+        "one throne",
+        "one sovereign queen",
+        "one plain royal hall"
+      ],
+      "beats": [
+        "The queen enters the hall",
+        "She sits on the throne as sovereign",
+        "She addresses her court with calm authority"
+      ],
+      "ending": "One sovereign rules from her throne."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one queen and one throne only; no visible subjects, duplicate crowns, banners, writing, or text."
+  },
+  {
+    "id": "kyc-1649",
+    "serial": 4162,
+    "frequency": 9,
+    "word": "turbulent",
+    "targetSense": "动荡的；狂暴的",
+    "alt": "",
+    "anchor": "sea",
+    "anchorMeaning": "海面",
+    "relation": "狂暴的海浪把小船抛来晃去，表现 turbulent。",
+    "sentence": "A turbulent sea tossed the small boat.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A stormy open sea beneath dark clouds",
+      "actor": "One small empty boat rocks on rough turbulent waves",
+      "props": [
+        "one small boat",
+        "one turbulent sea",
+        "dark storm clouds"
+      ],
+      "beats": [
+        "The sea grows rough",
+        "Large waves lift the small boat",
+        "The boat rocks across the turbulent water"
+      ],
+      "ending": "A turbulent sea tosses one small boat."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one empty boat on energetic but non-dangerous waves; no other boats, people falling, lightning strikes, or text."
+  },
+  {
+    "id": "kyc-1650",
+    "serial": 4163,
+    "frequency": 9,
+    "word": "vicious",
+    "targetSense": "恶毒的",
+    "alt": "",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "恶狠狠的狗隔着栅栏吠叫，表现 vicious。",
+    "sentence": "A vicious dog barked from behind the fence.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet yard with one sturdy fence",
+      "actor": "One fierce-looking dog barks from safely behind the fence",
+      "props": [
+        "one dog",
+        "one fence",
+        "one plain yard"
+      ],
+      "beats": [
+        "The dog stands behind the fence",
+        "It bares its teeth and barks",
+        "Its vicious expression remains behind the barrier"
+      ],
+      "ending": "One vicious dog barks safely behind a fence."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one dog behind one secure fence; no attack, injuries, extra animals, people, signs, or text."
+  },
+  {
+    "id": "kyc-1651",
+    "serial": 4164,
+    "frequency": 9,
+    "word": "ample",
+    "targetSense": "充足的",
+    "alt": "",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "装满苹果的大篮子有充足的果实，表现 ample。",
+    "sentence": "The ample basket held enough apples for the family.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny kitchen table",
+      "actor": "One large basket is filled generously with apples, leaving ample room for the family’s fruit",
+      "props": [
+        "one ample basket",
+        "apples",
+        "one plain table"
+      ],
+      "beats": [
+        "The empty basket sits on the table",
+        "Many apples fill it generously",
+        "The full basket looks ample for the family"
+      ],
+      "ending": "One ample basket holds plenty of apples."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one basket filled with apples; no extra baskets, labels, people, or text."
+  },
+  {
+    "id": "kyc-1652",
+    "serial": 4165,
+    "frequency": 9,
+    "word": "atom",
+    "targetSense": "原子",
+    "alt": "",
+    "anchor": "nucleus",
+    "anchorMeaning": "原子核",
+    "relation": "原子模型显示原子核和周围的电子，表现 atom。",
+    "sentence": "The atom model showed a small nucleus with electrons around it.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A plain science classroom with one display board",
+      "actor": "A simple atom model shows one small central nucleus with electrons arranged around it",
+      "props": [
+        "one atom model",
+        "one nucleus",
+        "electrons around the nucleus"
+      ],
+      "beats": [
+        "The model shows the nucleus in the center",
+        "Electrons sit around it",
+        "Together the parts form an atom"
+      ],
+      "ending": "One simple atom model displays a nucleus and surrounding electrons."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one clean, unlabeled atom model with a central nucleus and a few electrons; no equations, letters, numbers, arrows, or extra models."
+  },
+  {
+    "id": "kyc-1653",
+    "serial": 4166,
+    "frequency": 9,
+    "word": "banquet",
+    "targetSense": "宴会",
+    "alt": "",
+    "anchor": "table",
+    "anchorMeaning": "餐桌",
+    "relation": "宾客围坐在长桌旁参加宴会，表现 banquet。",
+    "sentence": "The guests gathered for a banquet around the long table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warmly lit banquet hall",
+      "actor": "Exactly two guests sit at one long table covered with a generous feast",
+      "props": [
+        "one long table",
+        "two guests",
+        "banquet dishes"
+      ],
+      "beats": [
+        "The guests take their seats",
+        "They gather around the plentiful meal",
+        "The banquet begins at the table"
+      ],
+      "ending": "Two guests share a banquet around a long table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two guests at one festive meal; no other people, written menus, signs, or text."
+  },
+  {
+    "id": "kyc-1654",
+    "serial": 4167,
+    "frequency": 9,
+    "word": "bleak",
+    "targetSense": "萧瑟的；无希望的",
+    "alt": "",
+    "anchor": "field",
+    "anchorMeaning": "田野",
+    "relation": "灰色天空下空旷的冬日田野显得萧瑟无望，表现 bleak。",
+    "sentence": "The bleak winter field looked empty beneath the gray sky.",
+    "mode": "concept",
+    "scene": {
+      "setting": "An empty winter field beneath a gray sky",
+      "actor": "A broad bare field stretches quietly beneath cold overcast clouds",
+      "props": [
+        "one winter field",
+        "gray sky",
+        "one bare tree"
+      ],
+      "beats": [
+        "The field appears empty",
+        "A bare tree stands alone",
+        "The gray landscape feels bleak and hopeless"
+      ],
+      "ending": "A bleak winter field lies empty beneath a gray sky."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Use a quiet, desolate winter landscape with one bare tree; no people, buildings, signs, or text."
+  },
+  {
+    "id": "kyc-1655",
+    "serial": 4168,
+    "frequency": 9,
+    "word": "concise",
+    "targetSense": "简明的",
+    "alt": "concize",
+    "anchor": "letter",
+    "anchorMeaning": "信件",
+    "relation": "她选择简短的便条而不是长信，表达 concise。",
+    "sentence": "She wrote a concise note instead of a long letter.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple writing desk in a quiet room",
+      "actor": "One woman compares one small blank note with one much longer folded blank letter",
+      "props": [
+        "one short blank note",
+        "one long blank letter",
+        "one plain writing desk"
+      ],
+      "beats": [
+        "She looks at the long letter",
+        "She chooses the much shorter note",
+        "The concise note says less than the long letter"
+      ],
+      "ending": "One concise note is chosen instead of a long letter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman choosing a small blank note beside one longer blank letter; both papers must have absolutely no writing, letters, or marks."
+  },
+  {
+    "id": "kyc-1656",
+    "serial": 4169,
+    "frequency": 9,
+    "word": "disperse",
+    "targetSense": "分散",
+    "alt": "",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "大门打开后，鸽群四散飞开，表现 disperse。",
+    "sentence": "The pigeons began to disperse when the gate opened.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet courtyard with one open gate",
+      "actor": "A small flock of pigeons flies in different directions as the gate opens",
+      "props": [
+        "one open gate",
+        "one flock of pigeons",
+        "one courtyard"
+      ],
+      "beats": [
+        "The pigeons gather near the gate",
+        "The gate swings open",
+        "The birds disperse across the courtyard"
+      ],
+      "ending": "Pigeons disperse as one courtyard gate opens."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one open gate and a small group of pigeons spreading apart in different directions; no people, signs, or text."
+  },
+  {
+    "id": "kyc-1657",
+    "serial": 4170,
+    "frequency": 9,
+    "word": "dividend",
+    "targetSense": "被除数、股息",
+    "alt": "",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "投资者从公司代表那里收到股息和硬币，表现 dividend。",
+    "sentence": "The investor received a dividend in coins from the company.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain business office with one small desk",
+      "actor": "One company representative gives one investor a few plain coins as a dividend payment",
+      "props": [
+        "coins",
+        "one investor",
+        "one company representative"
+      ],
+      "beats": [
+        "The investor meets the company representative",
+        "The representative hands over the coins",
+        "The investor receives the dividend"
+      ],
+      "ending": "An investor receives a dividend payment in coins."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults and a few plain coins being handed over; no checks with writing, logos, numbers, signs, or extra people."
+  },
+  {
+    "id": "kyc-1658",
+    "serial": 4171,
+    "frequency": 9,
+    "word": "documentary",
+    "targetSense": "纪录片",
+    "alt": "",
+    "anchor": "turtle",
+    "anchorMeaning": "海龟",
+    "relation": "摄制者拍摄一部关于海龟的纪录片，表现 documentary。",
+    "sentence": "The camera crew filmed a documentary about one sea turtle.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Clear shallow ocean water near a coral reef",
+      "actor": "One underwater camera operator films one sea turtle swimming calmly",
+      "props": [
+        "one underwater camera",
+        "one sea turtle",
+        "one coral reef"
+      ],
+      "beats": [
+        "The turtle swims near the reef",
+        "The operator follows it with the camera",
+        "The crew records a wildlife documentary"
+      ],
+      "ending": "A camera operator films one sea turtle for a documentary."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one camera operator and one sea turtle; no extra divers, turtles, screens with text, logos, or writing."
+  },
+  {
+    "id": "kyc-1659",
+    "serial": 4172,
+    "frequency": 9,
+    "word": "exempt",
+    "targetSense": "免除",
+    "alt": "",
+    "anchor": "ticket",
+    "anchorMeaning": "门票",
+    "relation": "孩子免交门票费，工作人员让他直接通过大门，表现 exempt。",
+    "sentence": "The child was exempt from the ticket fee at the gate.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple entrance gate with one ticket attendant",
+      "actor": "One attendant waves one child through while holding one unused blank ticket because the child is exempt from the fee",
+      "props": [
+        "one blank ticket",
+        "one child",
+        "one entrance gate"
+      ],
+      "beats": [
+        "The attendant checks the child at the gate",
+        "The child is exempt from paying",
+        "The attendant lets the child pass without using the ticket"
+      ],
+      "ending": "One child passes the gate exempt from the ticket fee."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one attendant, one child, one blank ticket, and one gate; no signs, prices, writing, logos, or extra people."
+  },
+  {
+    "id": "kyc-1660",
+    "serial": 4173,
+    "frequency": 9,
+    "word": "facet",
+    "targetSense": "方面",
+    "alt": "",
+    "anchor": "crystal",
+    "anchorMeaning": "水晶",
+    "relation": "水晶的一个切面映出阳光，表现 facet。",
+    "sentence": "One facet of the crystal caught the sunlight.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple sunlit tabletop with a blank background",
+      "actor": "One clear crystal shows several flat facets, with one facet catching a bright ray of sunlight",
+      "props": [
+        "one crystal",
+        "one visible facet",
+        "sunlight"
+      ],
+      "beats": [
+        "The crystal rests on the table",
+        "Its flat facets reflect the light",
+        "One facet catches the sunlight clearly"
+      ],
+      "ending": "One facet of a crystal catches the sunlight."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义可在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one clear crystal with distinct flat cut faces; no jewelry labels, diagrams, symbols, or text."
+  }
+]

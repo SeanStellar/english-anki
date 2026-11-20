@@ -1,0 +1,629 @@
+[
+  {
+    "word": "halt",
+    "anchor": "brakes",
+    "anchorMeaning": "刹车",
+    "sentence": "The driver applied the brakes to bring the bus to a halt at the crossing.",
+    "relation": "Applying the brakes makes the bus stop; halt means stop completely.",
+    "scene": {
+      "setting": "A quiet road at a pedestrian crossing.",
+      "actor": "One driver brakes a city bus until it stops before the crossing.",
+      "props": [
+        "one plain city bus",
+        "one crossing with no signs",
+        "one pair of glowing brake lights"
+      ],
+      "beats": [
+        "The bus approaches the crossing.",
+        "The driver applies the brakes.",
+        "The bus comes to a complete halt."
+      ],
+      "ending": "The bus stops safely at the crossing."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "nursery",
+    "anchor": "baby",
+    "anchorMeaning": "婴儿",
+    "sentence": "The nurse watched a baby in the nursery.",
+    "relation": "A nursery is a place where nurses care for babies.",
+    "scene": {
+      "setting": "A calm, bright childcare room.",
+      "actor": "One nurse watches two sleeping babies in their cribs.",
+      "props": [
+        "two simple baby cribs",
+        "one soft blanket",
+        "one small unmarked toy"
+      ],
+      "beats": [
+        "The nurse checks the room.",
+        "The babies rest in their cribs.",
+        "The nurse watches over them."
+      ],
+      "ending": "The nurse watches the babies in the nursery."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "expedition",
+    "anchor": "tent",
+    "anchorMeaning": "帐篷",
+    "sentence": "The team packed tents before their mountain expedition.",
+    "relation": "A mountain expedition is a journey that requires tents and supplies.",
+    "scene": {
+      "setting": "A mountain base camp at dawn with one mountain peak behind it.",
+      "actor": "Three explorers prepare their tents together, with one backpack on each explorer.",
+      "props": [
+        "three hiking backpacks",
+        "one rolled tent and two small tents",
+        "one distant mountain peak"
+      ],
+      "beats": [
+        "The three explorers gather at base camp.",
+        "They pack the rolled tent beside the two smaller tents.",
+        "They prepare to leave for the mountain expedition."
+      ],
+      "ending": "The team packs its tents before the mountain expedition."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "Show exactly three explorers, one backpack on each explorer, one rolled tent and two small tents. Keep the mountain peak visible. No extra people, packs, tents, words, or numbers."
+  },
+  {
+    "word": "simplify",
+    "anchor": "gear",
+    "anchorMeaning": "齿轮",
+    "sentence": "The engineer removed two gears to simplify the machine.",
+    "relation": "To simplify the machine, the engineer removes unnecessary gears.",
+    "scene": {
+      "setting": "A tidy workshop with a plain workbench.",
+      "actor": "One engineer removes two extra gears from a small machine.",
+      "props": [
+        "one small mechanical device",
+        "two loose gears",
+        "one plain wrench"
+      ],
+      "beats": [
+        "The engineer examines the machine.",
+        "She removes the extra gears.",
+        "The device becomes easier to use."
+      ],
+      "ending": "The engineer simplifies the machine by removing two gears."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "deem",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "sentence": "The coach will deem the player ready after practice.",
+    "relation": "Deem means consider or judge; the coach judges the player ready.",
+    "scene": {
+      "setting": "A quiet sports field after practice.",
+      "actor": "One coach gives a ready player an encouraging nod.",
+      "props": [
+        "one training ball",
+        "one open sports field",
+        "one blank water bottle"
+      ],
+      "beats": [
+        "The player finishes practice.",
+        "The coach watches one final drill.",
+        "The coach signals that the player is ready."
+      ],
+      "ending": "The coach deems the player ready."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "contend",
+    "anchor": "runner",
+    "anchorMeaning": "跑步者",
+    "sentence": "Two runners contend for first place on the final lap.",
+    "relation": "To contend for a place is to compete for it.",
+    "scene": {
+      "setting": "A simple running track in daylight.",
+      "actor": "Two runners race side by side on the final lap.",
+      "props": [
+        "one oval running track",
+        "one finish line with no letters",
+        "one plain water bottle"
+      ],
+      "beats": [
+        "The runners reach the final lap.",
+        "They speed up together.",
+        "They contend for the lead."
+      ],
+      "ending": "Two runners contend for first place."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "mathematical",
+    "anchor": "tiles",
+    "anchorMeaning": "瓷砖",
+    "sentence": "The children used a mathematical pattern to arrange the colored tiles.",
+    "relation": "A repeating tile pattern shows mathematical order and structure.",
+    "scene": {
+      "setting": "A bright classroom with a blank wall.",
+      "actor": "Two children arrange colored square tiles in a repeating pattern.",
+      "props": [
+        "one set of colored square tiles",
+        "one plain floor mat",
+        "one empty tray"
+      ],
+      "beats": [
+        "The children choose the tiles.",
+        "They repeat the color pattern.",
+        "The rows form a mathematical design."
+      ],
+      "ending": "The mathematical pattern appears in the arranged tiles."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No numbers, equations, letters, or marks on tiles."
+  },
+  {
+    "word": "outer",
+    "anchor": "shell",
+    "anchorMeaning": "壳",
+    "sentence": "The turtle’s outer shell protected its soft body.",
+    "relation": "Outer means on the outside; the turtle’s shell is its outer protective layer.",
+    "scene": {
+      "setting": "A pond bank with soft grass.",
+      "actor": "One turtle draws its head partly inside its protective shell.",
+      "props": [
+        "one turtle with a clear shell",
+        "one pond edge",
+        "one broad leaf"
+      ],
+      "beats": [
+        "The turtle moves near the pond.",
+        "It draws in its head.",
+        "The shell covers the outside of its body."
+      ],
+      "ending": "The turtle’s outer shell protects its body."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "allowance",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "sentence": "His weekly allowance bought him a new book.",
+    "relation": "An allowance is regular pocket money that can be used to buy a book.",
+    "scene": {
+      "setting": "A small neighborhood bookshop with blank walls.",
+      "actor": "One parent gives a child a few plain coins beside a book.",
+      "props": [
+        "one stack of blank-cover books",
+        "three plain coins",
+        "one simple counter"
+      ],
+      "beats": [
+        "The parent gives the child pocket money.",
+        "The child chooses a book.",
+        "The child pays with the allowance."
+      ],
+      "ending": "His allowance pays for a new book."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No writing or labels on book covers or coins."
+  },
+  {
+    "word": "vague",
+    "anchor": "fog",
+    "anchorMeaning": "雾",
+    "sentence": "A vague shape appeared through the thick fog.",
+    "relation": "Vague means unclear; the fog makes the shape difficult to see.",
+    "scene": {
+      "setting": "A quiet field in dense morning fog.",
+      "actor": "No people; a distant tree appears as a soft indistinct shape.",
+      "props": [
+        "one thick fog bank",
+        "one distant tree silhouette",
+        "one grassy field"
+      ],
+      "beats": [
+        "Fog covers the field.",
+        "A tree becomes faintly visible.",
+        "Its outline remains unclear."
+      ],
+      "ending": "A vague outline barely shows through the fog."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "cable",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "A thick cable held the small bridge above the stream.",
+    "relation": "A strong cable supports the bridge over the stream.",
+    "scene": {
+      "setting": "A small suspension bridge above a clear stream.",
+      "actor": "No people; the bridge hangs securely from thick cables.",
+      "props": [
+        "one narrow wooden bridge",
+        "two thick suspension cables",
+        "one flowing stream"
+      ],
+      "beats": [
+        "The cables stretch across the stream.",
+        "The bridge hangs from them.",
+        "The cables hold it over the water."
+      ],
+      "ending": "The thick cables hold the bridge above the water."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "emit",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "sentence": "The lantern can emit a warm beam into the dark room.",
+    "relation": "Emit means send out; the lantern sends out a beam of light.",
+    "scene": {
+      "setting": "A dim cabin with a plain wooden table.",
+      "actor": "No people; one lantern casts a warm beam across the room.",
+      "props": [
+        "one plain lantern",
+        "one dark cabin wall",
+        "one wooden table"
+      ],
+      "beats": [
+        "The lantern glows in the dark.",
+        "Its light spreads across the table.",
+        "The warm beam reaches the wall."
+      ],
+      "ending": "The lantern emits a warm beam."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "manual",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "sentence": "The mechanic opened a manual to learn how to fix the bicycle.",
+    "relation": "A manual is a handbook that explains how to repair a bicycle.",
+    "scene": {
+      "setting": "A clean bicycle workshop with no signs.",
+      "actor": "One mechanic studies a blank-paged manual beside a bicycle.",
+      "props": [
+        "one open book with blank pages",
+        "one bicycle with a loose chain",
+        "one plain wrench"
+      ],
+      "beats": [
+        "The mechanic notices the loose chain.",
+        "She opens the manual.",
+        "She learns how to repair the bicycle."
+      ],
+      "ending": "She uses the manual to learn how to repair the bicycle."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "The manual pages must remain blank with no words, diagrams, letters, or numbers."
+  },
+  {
+    "word": "prescribe",
+    "anchor": "doctor",
+    "anchorMeaning": "医生",
+    "sentence": "The doctor will prescribe medicine for the child’s cough.",
+    "relation": "A doctor prescribes medicine to treat an illness.",
+    "scene": {
+      "setting": "A quiet doctor’s office with a plain wall.",
+      "actor": "One doctor hands a parent an unmarked medicine bottle for a coughing child.",
+      "props": [
+        "one blank medicine bottle",
+        "one stethoscope",
+        "one plain tissue"
+      ],
+      "beats": [
+        "The doctor listens to the cough.",
+        "The doctor selects suitable medicine.",
+        "The doctor gives the parent the bottle."
+      ],
+      "ending": "The doctor prescribes medicine for the cough."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    },
+    "artDirection": "No labels, writing, symbols, or numbers on the bottle or clothing."
+  },
+  {
+    "word": "shell",
+    "anchor": "turtle",
+    "anchorMeaning": "海龟",
+    "sentence": "The turtle hid its head inside its hard shell.",
+    "relation": "A turtle’s shell is the hard covering that protects it.",
+    "scene": {
+      "setting": "A quiet sandy pond bank.",
+      "actor": "One turtle tucks its head into its hard shell.",
+      "props": [
+        "one turtle with a clear shell",
+        "one patch of sand",
+        "one small pond"
+      ],
+      "beats": [
+        "The turtle senses movement.",
+        "It pulls its head inward.",
+        "The hard shell protects it."
+      ],
+      "ending": "The turtle hides inside its shell."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "competent",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "sentence": "The competent mechanic repaired the bicycle’s loose chain.",
+    "relation": "A competent mechanic has the skill to repair the loose chain.",
+    "scene": {
+      "setting": "A simple bicycle repair shop.",
+      "actor": "One capable mechanic fixes a bicycle chain at a workbench.",
+      "props": [
+        "one bicycle with a loose chain",
+        "one plain wrench",
+        "one repair stand"
+      ],
+      "beats": [
+        "The mechanic checks the chain.",
+        "She adjusts it with the wrench.",
+        "The bicycle works again."
+      ],
+      "ending": "The bicycle works again in the competent mechanic’s hands."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "prestige",
+    "anchor": "award",
+    "anchorMeaning": "奖项",
+    "sentence": "The award brought prestige to the small school.",
+    "relation": "Prestige is respect and standing gained through achievement.",
+    "scene": {
+      "setting": "A modest school hall with a blank wall.",
+      "actor": "One student receives a simple gold trophy as classmates applaud.",
+      "props": [
+        "one plain gold trophy",
+        "one small stage",
+        "one blank display shelf"
+      ],
+      "beats": [
+        "The student steps onto the stage.",
+        "The teacher presents the trophy.",
+        "Classmates applaud the school’s achievement."
+      ],
+      "ending": "The award brings prestige to the school."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No banners, certificates, writing, or logos."
+  },
+  {
+    "word": "split",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "sentence": "She split one apple into two equal halves with a small knife.",
+    "relation": "Split means divide; one apple becomes two halves.",
+    "scene": {
+      "setting": "A bright kitchen counter.",
+      "actor": "One adult carefully cuts a single apple into two equal halves.",
+      "props": [
+        "one apple cut into exactly two halves",
+        "one small kitchen knife",
+        "one plain cutting board"
+      ],
+      "beats": [
+        "She places one apple on the board.",
+        "She cuts through its center.",
+        "Two equal halves rest apart."
+      ],
+      "ending": "She splits one apple into two halves."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "Show exactly one apple and exactly two halves; no other apples or cut pieces."
+  },
+  {
+    "word": "offend",
+    "anchor": "toy",
+    "anchorMeaning": "玩具",
+    "sentence": "He can offend his friend by grabbing her toy without asking.",
+    "relation": "Taking a friend’s toy without permission is rude and can offend them.",
+    "scene": {
+      "setting": "A simple playroom with a blank wall.",
+      "actor": "One child grabs a toy while the other child looks hurt and pulls back.",
+      "props": [
+        "one plain toy truck",
+        "one small rug",
+        "one low toy shelf"
+      ],
+      "beats": [
+        "The friend plays with the toy.",
+        "The boy takes it without asking.",
+        "The friend looks offended and upset."
+      ],
+      "ending": "He offends his friend by grabbing her toy."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "publicity",
+    "anchor": "camera",
+    "anchorMeaning": "照相机",
+    "sentence": "The singer gained publicity when a camera filmed her outdoor performance.",
+    "relation": "Publicity is public attention; a camera filming the singer brings attention to her performance.",
+    "scene": {
+      "setting": "A small outdoor stage in a park.",
+      "actor": "One singer performs while a camera operator films from nearby.",
+      "props": [
+        "one plain handheld camera",
+        "one microphone with no logo",
+        "one simple outdoor stage"
+      ],
+      "beats": [
+        "The singer begins her song.",
+        "The camera records the performance.",
+        "Nearby listeners turn to watch."
+      ],
+      "ending": "The performance gains publicity through the camera."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  }
+]

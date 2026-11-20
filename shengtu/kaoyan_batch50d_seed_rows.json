@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2336",
+    "anchor": "mirror",
+    "sentence": "The oval mirror reflected her face.",
+    "relation": "Oval describes a rounded shape like an egg, longer in one direction than the other.",
+    "setting": "A simple bedroom",
+    "actor": "No people: one tall oval mirror hangs on a plain wall.",
+    "props": [
+      "one oval mirror",
+      "one plain wall",
+      "one small table"
+    ],
+    "beats": [
+      "The mirror hangs on the wall",
+      "Its outline is longer than it is wide",
+      "The oval shape is clear"
+    ],
+    "ending": "A tall oval mirror hangs on a bedroom wall.",
+    "artDirection": "Make the mirror visibly oval, not round or rectangular; no labels, writing, or symbols."
+  },
+  {
+    "id": "kyc-2337",
+    "anchor": "king",
+    "sentence": "The villagers planned to overthrow the king's rule.",
+    "relation": "To overthrow is to remove a ruler or government from power, often by force.",
+    "setting": "A village square beside a plain empty throne",
+    "actor": "Exactly two villagers stand together before an empty throne, preparing to remove the king from power.",
+    "props": [
+      "two villagers",
+      "one plain empty throne",
+      "one palace doorway"
+    ],
+    "beats": [
+      "The king's authority is represented by the throne",
+      "The villagers unite against it",
+      "They plan to overthrow the ruler"
+    ],
+    "ending": "Two villagers prepare a revolt to overthrow the king's rule.",
+    "artDirection": "Exactly two people; no weapons, flags, royal emblems, text, or symbols."
+  },
+  {
+    "id": "kyc-2338",
+    "anchor": "night",
+    "sentence": "An owl watched silently from a branch at night.",
+    "relation": "An owl is a nocturnal bird active at night.",
+    "setting": "A moonlit woodland",
+    "actor": "One owl perches on a branch under a dark night sky.",
+    "props": [
+      "one owl",
+      "one tree branch",
+      "one night sky"
+    ],
+    "beats": [
+      "The woods grow dark",
+      "The owl settles on a branch",
+      "It watches silently through the night"
+    ],
+    "ending": "An owl watches from a branch at night.",
+    "artDirection": "One owl with natural bird anatomy; no extra wings, eyes, text, or symbols."
+  },
+  {
+    "id": "kyc-2339",
+    "anchor": "machine",
+    "sentence": "The teacher used a simple machine as a paradigm for the class.",
+    "relation": "A paradigm is a model or typical example used to explain an idea.",
+    "setting": "A quiet classroom",
+    "actor": "One teacher shows one simple working machine to one student as a model example.",
+    "props": [
+      "one teacher",
+      "one simple machine",
+      "one student"
+    ],
+    "beats": [
+      "The teacher presents the machine",
+      "The student examines how it works",
+      "The machine serves as a paradigm"
+    ],
+    "ending": "A teacher uses a simple machine as a paradigm for a student.",
+    "artDirection": "No labels, diagrams, writing, text, or extra students."
+  },
+  {
+    "id": "kyc-2340",
+    "anchor": "paper",
+    "sentence": "She used paste to attach paper to the wall.",
+    "relation": "Paste is a thick adhesive used to stick paper or other materials together.",
+    "setting": "A plain craft room",
+    "actor": "One person spreads paste on a blank sheet of paper and presses it onto a wall.",
+    "props": [
+      "one blank sheet of paper",
+      "one plain paste pot",
+      "one bare wall"
+    ],
+    "beats": [
+      "The paper is prepared",
+      "Paste is spread on it",
+      "The sheet sticks to the wall"
+    ],
+    "ending": "Paste attaches a blank sheet of paper to a wall.",
+    "artDirection": "No writing, letters, numbers, posters, or symbols on the paper or wall."
+  },
+  {
+    "id": "kyc-2341",
+    "anchor": "tree",
+    "sentence": "A ripe peach hung from the tree.",
+    "relation": "A peach is a soft fruit that grows on a peach tree.",
+    "setting": "A small orchard",
+    "actor": "No people: one ripe peach hangs from a leafy tree branch.",
+    "props": [
+      "one ripe peach",
+      "one leafy tree",
+      "one orchard patch"
+    ],
+    "beats": [
+      "The tree grows fruit",
+      "The peach ripens on the branch",
+      "The ripe peach hangs above the ground"
+    ],
+    "ending": "A ripe peach hangs from a tree.",
+    "artDirection": "One peach only; no labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2342",
+    "anchor": "wheel",
+    "sentence": "He pressed the bicycle pedal and watched the wheel turn.",
+    "relation": "A pedal is a foot-operated part that turns or controls a machine or bicycle.",
+    "setting": "A quiet bike path",
+    "actor": "One cyclist presses a plain bicycle pedal to move forward.",
+    "props": [
+      "one cyclist",
+      "one bicycle pedal",
+      "one bike path"
+    ],
+    "beats": [
+      "The cyclist places a foot on the pedal",
+      "The pedal turns",
+      "The bicycle moves forward"
+    ],
+    "ending": "A cyclist presses a pedal to move a bicycle.",
+    "artDirection": "No logos, gears with numbers, signs, or text."
+  },
+  {
+    "id": "kyc-2343",
+    "anchor": "clock",
+    "sentence": "The clock's pendulum swung beneath its face.",
+    "relation": "A pendulum is a suspended weight that swings back and forth, often inside a clock.",
+    "setting": "A quiet room with a tall wall clock",
+    "actor": "No people: one old clock has a clear pendulum swinging beneath its face.",
+    "props": [
+      "one wall clock",
+      "one visible pendulum",
+      "one bare wall"
+    ],
+    "beats": [
+      "The clock stands still",
+      "The pendulum begins to swing",
+      "It moves back and forth beneath the face"
+    ],
+    "ending": "A clock's pendulum swings beneath its face.",
+    "artDirection": "Clock face has no numbers or writing; no motion lines or symbols."
+  },
+  {
+    "id": "kyc-2344",
+    "anchor": "sea",
+    "sentence": "A peninsula jutted into the sea between two bays.",
+    "relation": "A peninsula is land almost surrounded by water and connected to a larger landmass.",
+    "setting": "A coastal landscape seen from above",
+    "actor": "No people: one long piece of land projects into the sea, with water on both sides.",
+    "props": [
+      "one peninsula",
+      "one broad sea",
+      "two curved bays"
+    ],
+    "beats": [
+      "The coastline narrows",
+      "Land projects into the water",
+      "The peninsula is surrounded on three sides"
+    ],
+    "ending": "A peninsula juts into the sea between two bays.",
+    "artDirection": "No map labels, compass symbols, or text; show a natural coastline, not a diagram."
+  },
+  {
+    "id": "kyc-2345",
+    "anchor": "park",
+    "sentence": "The neighbors signed a petition to save the park.",
+    "relation": "A petition is a written request signed by people asking an authority to act.",
+    "setting": "A park entrance",
+    "actor": "Exactly two neighbors hold a blank petition together and present it near the park entrance.",
+    "props": [
+      "two neighbors",
+      "one blank petition sheet",
+      "one park gate"
+    ],
+    "beats": [
+      "The neighbors meet at the park",
+      "They sign and hold the petition",
+      "They ask to save the park"
+    ],
+    "ending": "Two neighbors present a petition to protect a park.",
+    "artDirection": "Paper is blank with no signatures, letters, numbers, logos, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2346",
+    "anchor": "ship",
+    "sentence": "The pirate boarded the ship at night.",
+    "relation": "A pirate is a person who robs or attacks ships at sea.",
+    "setting": "A moonlit harbor",
+    "actor": "One pirate steps quietly onto a small ship under the night sky.",
+    "props": [
+      "one pirate",
+      "one small ship",
+      "one moonlit harbor"
+    ],
+    "beats": [
+      "The ship rests by the dock",
+      "The pirate approaches at night",
+      "The pirate boards the ship"
+    ],
+    "ending": "A pirate boards a ship at night.",
+    "artDirection": "No skull flags, weapons, ship names, logos, text, or extra people."
+  },
+  {
+    "id": "kyc-2347",
+    "anchor": "plant",
+    "sentence": "Workers tended each coffee plant on the plantation.",
+    "relation": "A plantation is a large farm where one crop is grown for sale.",
+    "setting": "A large tropical coffee estate",
+    "actor": "Exactly two workers tend rows of coffee plants on a broad plantation.",
+    "props": [
+      "two workers",
+      "rows of coffee plants",
+      "one broad cultivated field"
+    ],
+    "beats": [
+      "The workers enter the field",
+      "They tend each crop plant",
+      "Rows extend across the plantation"
+    ],
+    "ending": "Workers tend coffee plants across a plantation.",
+    "artDirection": "Exactly two people; no signs, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2348",
+    "anchor": "letter",
+    "sentence": "The letter needed postage before it could be sent.",
+    "relation": "Postage is the fee or stamp required to send mail.",
+    "setting": "A home desk near the front door",
+    "actor": "One person places a plain blank postage stamp on an unmarked envelope.",
+    "props": [
+      "one blank letter",
+      "one plain postage stamp",
+      "one desk"
+    ],
+    "beats": [
+      "The letter is prepared",
+      "A postage stamp is added",
+      "The envelope is ready to send"
+    ],
+    "ending": "A letter receives postage before mailing.",
+    "artDirection": "No writing, addresses, numbers, logos, or symbols on paper or stamp."
+  },
+  {
+    "id": "kyc-2349",
+    "anchor": "water",
+    "sentence": "The water will recede from the shore after the storm.",
+    "relation": "To recede is to move back or away from a previous position.",
+    "setting": "A beach after a storm",
+    "actor": "No people: seawater pulls back from the shore, leaving wet sand exposed.",
+    "props": [
+      "one shoreline",
+      "one body of water",
+      "one wide strip of wet sand"
+    ],
+    "beats": [
+      "The waves cover the shore",
+      "The water moves back",
+      "Wet sand is revealed"
+    ],
+    "ending": "Water recedes from the shore after a storm.",
+    "artDirection": "No arrows, motion marks, text, or symbols."
+  },
+  {
+    "id": "kyc-2350",
+    "anchor": "water",
+    "sentence": "A reed stood beside the water at the pond's edge.",
+    "relation": "A reed is a tall, slender grass-like plant that grows in or near wetlands.",
+    "setting": "A quiet pond edge",
+    "actor": "No people: one tall reed grows beside still pond water.",
+    "props": [
+      "one tall reed",
+      "one pond edge",
+      "one still water surface"
+    ],
+    "beats": [
+      "The pond water rests quietly",
+      "A reed grows at its edge",
+      "The slender plant bends slightly"
+    ],
+    "ending": "A reed stands beside water at a pond's edge.",
+    "artDirection": "No extra reed plants, ripples, text, or symbols."
+  },
+  {
+    "id": "kyc-2351",
+    "anchor": "horse",
+    "sentence": "She tightened the saddle on the horse.",
+    "relation": "A saddle is a seat fastened to the back of a horse for a rider.",
+    "setting": "A calm stable yard",
+    "actor": "One rider adjusts a plain saddle on one calm horse.",
+    "props": [
+      "one rider",
+      "one plain saddle",
+      "one horse"
+    ],
+    "beats": [
+      "The horse stands calmly",
+      "The rider places the saddle",
+      "The saddle is tightened securely"
+    ],
+    "ending": "A rider tightens a saddle on a horse.",
+    "artDirection": "One horse with natural anatomy; no extra animals, badges, or text."
+  },
+  {
+    "id": "kyc-2352",
+    "anchor": "boat",
+    "sentence": "A boat brought salvation to the stranded sailor.",
+    "relation": "Salvation is rescue or deliverance from danger or difficulty.",
+    "setting": "A calm sea beside a small island",
+    "actor": "Exactly two people: one sailor waits safely on a low rock as one rescuer rows a boat toward him.",
+    "props": [
+      "one boat",
+      "one stranded sailor",
+      "one small rocky shore"
+    ],
+    "beats": [
+      "The sailor waits on the shore",
+      "The boat approaches",
+      "The sailor is rescued from danger"
+    ],
+    "ending": "A boat brings salvation to a stranded sailor.",
+    "artDirection": "Exactly two people; calm non-dangerous water, no text, flags, or symbols."
+  },
+  {
+    "id": "kyc-2353",
+    "anchor": "skin",
+    "sentence": "The scar remained on her skin after the cut healed.",
+    "relation": "A scar is a mark left on skin after a wound has healed.",
+    "setting": "A quiet home room",
+    "actor": "One adult looks at a small healed scar on one forearm.",
+    "props": [
+      "one adult",
+      "one mild healed scar",
+      "one plain sleeve"
+    ],
+    "beats": [
+      "A small cut heals",
+      "A mark remains on the skin",
+      "The scar is visible on the forearm"
+    ],
+    "ending": "A small scar remains on healed skin.",
+    "artDirection": "Keep the mark healed and non-graphic; no blood, medical symbols, text, or labels."
+  },
+  {
+    "id": "kyc-2354",
+    "anchor": "basket",
+    "sentence": "The children will scramble to catch apples rolling from the basket.",
+    "relation": "To scramble is to move quickly and awkwardly, often competing to get something.",
+    "setting": "A grassy yard",
+    "actor": "Exactly two children reach quickly for apples rolling from one tipped basket.",
+    "props": [
+      "two children",
+      "one tipped basket",
+      "three rolling apples"
+    ],
+    "beats": [
+      "The basket tips over",
+      "Apples roll onto the grass",
+      "The children scramble to catch them"
+    ],
+    "ending": "Two children scramble for apples spilled from a basket.",
+    "artDirection": "Exactly two children and exactly three visible apples; no motion lines, text, or symbols."
+  },
+  {
+    "id": "kyc-2355",
+    "anchor": "wheel",
+    "sentence": "The shaft connected the motor to the wheel.",
+    "relation": "A shaft is a long rotating rod that transfers motion or power between machine parts.",
+    "setting": "A simple mechanical workshop",
+    "actor": "No people: a visible metal shaft connects one small motor to one wheel.",
+    "props": [
+      "one shaft",
+      "one motor",
+      "one wheel"
+    ],
+    "beats": [
+      "The motor turns",
+      "The shaft carries the motion",
+      "The wheel rotates"
+    ],
+    "ending": "A shaft connects a motor to a wheel.",
+    "artDirection": "No technical labels, diagrams, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2356",
+    "anchor": "sheep",
+    "sentence": "The farmer used shears to shear the sheep's wool.",
+    "relation": "To shear is to cut wool or hair from an animal with shears.",
+    "setting": "A clean farmyard",
+    "actor": "One farmer carefully trims wool from one calm sheep with hand shears.",
+    "props": [
+      "one farmer",
+      "one sheep",
+      "one pair of plain shears"
+    ],
+    "beats": [
+      "The sheep's fleece grows thick",
+      "The farmer uses the shears",
+      "The wool is trimmed"
+    ],
+    "ending": "A farmer shears wool from a sheep.",
+    "artDirection": "One sheep with natural anatomy; no extra animals, badges, writing, or symbols."
+  },
+  {
+    "id": "kyc-2357",
+    "anchor": "hand",
+    "sentence": "A skilful carpenter guided each cut with one hand.",
+    "relation": "Skilful means having or showing the ability to do something well.",
+    "setting": "A carpentry workshop",
+    "actor": "One experienced carpenter makes a precise smooth cut in a wooden board.",
+    "props": [
+      "one carpenter",
+      "one wooden board",
+      "one plain saw"
+    ],
+    "beats": [
+      "The carpenter measures the board",
+      "A steady hand guides the saw",
+      "A clean precise cut is made"
+    ],
+    "ending": "A skilful carpenter makes a precise cut by hand.",
+    "artDirection": "One carpenter with normal anatomy; no extra hands, text, numbers, or tool labels."
+  },
+  {
+    "id": "kyc-2358",
+    "anchor": "ball",
+    "sentence": "The batter hit a grand slam as the ball cleared the outfield.",
+    "relation": "A grand slam is a powerful baseball hit that scores four runs, clearing the bases.",
+    "setting": "A simple baseball field",
+    "actor": "One batter swings as one ball sails over the outfield fence; no other players visible.",
+    "props": [
+      "one batter",
+      "one baseball",
+      "one outfield fence"
+    ],
+    "beats": [
+      "The batter waits at home plate",
+      "The bat strikes the ball",
+      "The ball clears the fence in a grand slam"
+    ],
+    "ending": "A batter hits a grand slam as the ball clears the outfield.",
+    "artDirection": "No scoreboard, numbers, team logos, signs, or extra players."
+  },
+  {
+    "id": "kyc-2359",
+    "anchor": "guitar",
+    "sentence": "The musician played a guitar solo on the empty stage.",
+    "relation": "A solo is a musical passage performed by one musician alone.",
+    "setting": "An empty concert stage",
+    "actor": "One musician plays a plain guitar alone under a soft spotlight.",
+    "props": [
+      "one musician",
+      "one plain guitar",
+      "one empty stage"
+    ],
+    "beats": [
+      "The stage is empty",
+      "The musician begins to play",
+      "A guitar solo fills the room"
+    ],
+    "ending": "One musician performs a solo on guitar.",
+    "artDirection": "No crowd, music notes, stage signs, logos, text, or symbols."
+  },
+  {
+    "id": "kyc-2360",
+    "anchor": "garden",
+    "sentence": "The gardener used a spade to dig in the garden.",
+    "relation": "A spade is a hand tool with a flat blade used for digging and cutting soil.",
+    "setting": "A home garden",
+    "actor": "One gardener presses a plain spade into the soil to dig a planting hole.",
+    "props": [
+      "one gardener",
+      "one plain spade",
+      "one garden bed"
+    ],
+    "beats": [
+      "The gardener chooses a spot",
+      "The spade cuts into the soil",
+      "A planting hole opens"
+    ],
+    "ending": "A gardener digs the garden with a spade.",
+    "artDirection": "No tool labels, logos, writing, or symbols."
+  }
+]

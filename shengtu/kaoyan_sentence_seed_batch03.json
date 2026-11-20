@@ -1,0 +1,622 @@
+[
+  {
+    "word": "doctor",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "doctor 的工作场景与照料病患相关；狗作为兽医诊所里的病患提供具体语义联想，不表示词源关系。",
+    "sentence": "The doctor checks the dog's paw and wraps it in a bandage（医生检查狗的爪子，然后给它包扎）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁明亮的动物诊所",
+      "actor": "正在检查小狗爪子的医生",
+      "props": [
+        "检查台",
+        "听诊器",
+        "绷带卷"
+      ],
+      "beats": [
+        "医生轻轻抬起小狗的爪子",
+        "医生仔细检查后取下听诊器",
+        "医生用绷带包好小狗的爪子"
+      ],
+      "ending": "医生给小狗包扎好爪子，狗安静地站在检查台旁"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简短自然，doctor 与 dog 通过兽医照料场景关联，未暗示词源关系。"
+    }
+  },
+  {
+    "word": "mother",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "母亲与孩子构成直接、常见的亲属语义关系；concept 场景联想。",
+    "sentence": "The mother holds her child's hand as they cross the street（妈妈牵着孩子的手过马路）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "晴朗白天的安全人行横道",
+      "actor": "牵手过街的母亲和孩子",
+      "props": [
+        "白色人行横道",
+        "路边信号灯",
+        "购物袋"
+      ],
+      "beats": [
+        "母亲和孩子在人行道边停下",
+        "母亲牵住孩子的手确认可以通行",
+        "两人一起沿人行横道过街"
+      ],
+      "ending": "母亲牵着孩子的手走在人行横道上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "句子语法自然、容易朗读；母亲与孩子的关系由动作直接表现。"
+    }
+  },
+  {
+    "word": "financial",
+    "anchor": "finance",
+    "anchorMeaning": "财政；金融",
+    "relation": "finance 与 financial 是同一词族，financial 是表示财政或金融属性的形容词形式。",
+    "sentence": "A finance officer reviews the financial records before approving the budget（财务人员在批准预算前核查财务记录）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静整洁的办公室",
+      "actor": "正在桌边核查记录的财务人员",
+      "props": [
+        "空白账册",
+        "硬币托盘",
+        "木办公桌"
+      ],
+      "beats": [
+        "财务人员打开空白账册",
+        "她查看托盘里的钱币并核对记录",
+        "她合上账册准备批准预算"
+      ],
+      "ending": "财务人员在办公桌边核查财务记录，账页上没有可辨认文字或数字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "finance/financial 为真实词族；records 和 budget 搭配自然，图中文字设为空白。"
+    }
+  },
+  {
+    "word": "professional",
+    "anchor": "profession",
+    "anchorMeaning": "职业；专业",
+    "relation": "profession 加 -al 构成 professional，名词变形容词，表示职业性的或专业的。",
+    "sentence": "Her profession as a violinist makes her a professional musician（她以小提琴演奏为职业，是一名专业乐手）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖灯光下的音乐厅舞台",
+      "actor": "正在演奏的小提琴手",
+      "props": [
+        "小提琴",
+        "无字乐谱架",
+        "圆形舞台凳"
+      ],
+      "beats": [
+        "乐手把小提琴架在肩上",
+        "她专注地拉奏乐曲",
+        "她演奏结束后向观众鞠躬"
+      ],
+      "ending": "职业小提琴手在舞台中央完成演奏并鞠躬"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "profession/professional 为真实词族；句子直接自然，职业身份由音乐厅演奏场景呈现。"
+    }
+  },
+  {
+    "word": "later",
+    "anchor": "late",
+    "anchorMeaning": "迟的；晚的",
+    "relation": "late 加 -r 构成 later，是形容词 late 的比较级形式；此处 later 表示晚些时候。",
+    "sentence": "It is late, so we agree to talk about the plan later（时间很晚了，所以我们同意晚些时候再谈计划）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "暮色渐深的客厅",
+      "actor": "准备结束交谈的两位朋友",
+      "props": [
+        "昏暗窗户",
+        "合上的笔记本",
+        "两只茶杯"
+      ],
+      "beats": [
+        "两位朋友看见窗外天色变暗",
+        "他们合上笔记本",
+        "他们约好之后再继续谈话"
+      ],
+      "ending": "两位朋友合上笔记本，在暮色中约定稍后再谈"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "late/later 为真实词形关系；句子短而自然，暮色和合上笔记本表现时间已晚及改日再谈。"
+    }
+  },
+  {
+    "word": "television",
+    "anchor": "screen",
+    "anchorMeaning": "屏幕",
+    "relation": "电视最醒目的组成部分之一是屏幕；screen 是具体语义锚点，不是 television 的词根。",
+    "sentence": "The family gathers around the television screen to watch a nature show（全家围坐在电视屏幕前观看自然节目）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温馨简洁的家庭客厅",
+      "actor": "坐在沙发上的母亲和孩子",
+      "props": [
+        "电视屏幕",
+        "布沙发",
+        "绿叶盆栽"
+      ],
+      "beats": [
+        "母亲和孩子坐到沙发上",
+        "电视屏幕亮起并显示自然风景",
+        "两人一起观看节目"
+      ],
+      "ending": "母亲和孩子围坐在电视机前观看无文字的自然风景节目"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "句子自然，television screen 是常见表达；屏幕作为具体部件锚点。"
+    }
+  },
+  {
+    "word": "communication",
+    "anchor": "communicate",
+    "anchorMeaning": "沟通；交流",
+    "relation": "communicate 加 -ion 构成 communication，动词变为表示交流过程的名词。",
+    "sentence": "The hikers communicate with hand signals, a simple form of communication（徒步者用手势交流，这是一种简单的沟通方式）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "山间浅溪旁的石滩",
+      "actor": "用手势互相提醒的两名徒步者",
+      "props": [
+        "浅溪",
+        "几块踏脚石",
+        "两根登山杖"
+      ],
+      "beats": [
+        "一名徒步者停在溪边",
+        "她用手势示意同伴踩稳石头",
+        "两人配合着走过溪流"
+      ],
+      "ending": "两名徒步者通过手势配合，安全走到溪流另一侧"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "communicate/communication 为真实词族；句子通顺，手势沟通可视化。"
+    }
+  },
+  {
+    "word": "performance",
+    "anchor": "perform",
+    "anchorMeaning": "表演；执行",
+    "relation": "perform 加 -ance 构成 performance，动词变为表示表演或表现的名词。",
+    "sentence": "She performs a short dance, and the performance ends with a bow（她表演了一小段舞蹈，最后以鞠躬谢幕）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "暖色灯光下的小剧场舞台",
+      "actor": "独自表演的年轻舞者",
+      "props": [
+        "舞台地板",
+        "侧边幕布",
+        "舞鞋"
+      ],
+      "beats": [
+        "舞者轻盈地转身起舞",
+        "她完成一段短舞",
+        "她停下动作并向前鞠躬"
+      ],
+      "ending": "舞者完成短舞后在舞台中央鞠躬谢幕"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "perform/performance 为真实词族；句子连贯，舞蹈与谢幕能直观呈现表演。"
+    }
+  },
+  {
+    "word": "writer",
+    "anchor": "write",
+    "anchorMeaning": "写；书写",
+    "relation": "write 加 -er 构成 writer，表示从事写作的人；真实构词关系。",
+    "sentence": "She writes a story every evening and hopes to become a writer（她每天晚上写故事，希望将来成为作家）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的夜晚书桌旁",
+      "actor": "正在写故事的年轻女子",
+      "props": [
+        "空白笔记本",
+        "木铅笔",
+        "书桌"
+      ],
+      "beats": [
+        "女子翻开空白笔记本",
+        "她用铅笔写下故事",
+        "她停笔想象未来成为作家的样子"
+      ],
+      "ending": "年轻女子坐在书桌前写故事，笔记本上没有可辨认文字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "write/writer 为真实词族；英文句子自然，画面文字按要求保持不可读或空白。"
+    }
+  },
+  {
+    "word": "importance",
+    "anchor": "important",
+    "anchorMeaning": "重要的",
+    "relation": "important 与 importance 同属一个词族，分别表示重要的和重要性。",
+    "sentence": "Practice is important, and the coach explains its importance before the race（练习很重要，教练在比赛前向运动员说明练习的重要性）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨的跑道起点",
+      "actor": "赛前提醒运动员的教练和一名跑者",
+      "props": [
+        "跑道",
+        "运动鞋",
+        "手持口哨"
+      ],
+      "beats": [
+        "跑者系紧鞋带准备比赛",
+        "教练指向跑道并提醒她认真练习",
+        "跑者点头后走向起点"
+      ],
+      "ending": "教练在跑道边鼓励跑者重视赛前练习"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "important/importance 为真实词族；句子自然，用赛前练习说明重要性。"
+    }
+  },
+  {
+    "word": "political",
+    "anchor": "politics",
+    "anchorMeaning": "政治；政治事务",
+    "relation": "politics 与 political 同属一个词族；political 是表示政治事务相关属性的形容词形式。",
+    "sentence": "A political candidate discusses local politics with a neighbor at a town debate（政治候选人在镇上的辩论会上与一位邻居讨论地方政治）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁的社区辩论厅",
+      "actor": "一名候选人和一名居民",
+      "props": [
+        "无字讲台",
+        "两把椅子",
+        "立式麦克风"
+      ],
+      "beats": [
+        "候选人站到讲台前",
+        "居民提出社区议题",
+        "候选人回应并与居民交流"
+      ],
+      "ending": "候选人和居民在讲台旁进行一场平静的政治讨论"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "politics/political 为真实词族；句子自然，地方辩论场景具体且不依赖标语文字。"
+    }
+  },
+  {
+    "word": "action",
+    "anchor": "act",
+    "anchorMeaning": "行动；做事",
+    "relation": "act 加 -ion 构成 action，动词变为表示行动的名词；真实构词关系。",
+    "sentence": "The child acts quickly, and her action brings one kitten inside while another waits on the step（孩子迅速行动，把一只小猫抱进屋，另一只在台阶上等待）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "雨后湿润的门廊",
+      "actor": "正把一只小猫抱向屋内、另一只小猫等在台阶上的孩子",
+      "props": [
+        "门廊台阶",
+        "一条干毛巾",
+        "浅水洼"
+      ],
+      "beats": [
+        "孩子发现两只小猫躲在门廊附近",
+        "她迅速用毛巾抱起其中一只",
+        "另一只小猫留在门阶上等候，孩子带着怀里的小猫进屋"
+      ],
+      "ending": "孩子用毛巾抱着一只小猫走进门，另一只小猫在台阶上等候"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "act/action 为真实词族；句子自然，改为准确描述图中被抱起的一只猫和台阶上的另一只。"
+    }
+  },
+  {
+    "word": "competition",
+    "anchor": "compete",
+    "anchorMeaning": "竞争；比赛",
+    "relation": "compete 与 competition 是同一词族；动词形式表示参赛竞争，名词表示比赛或竞争。",
+    "sentence": "The two runners compete for first place, but end the competition with a friendly handshake（两名跑者争夺第一名，比赛结束后却友好地握手）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "公园跑道终点",
+      "actor": "刚跑完比赛的两名跑者",
+      "props": [
+        "白色终点线",
+        "运动鞋",
+        "无文字奖牌"
+      ],
+      "beats": [
+        "两名跑者并肩冲向终点",
+        "他们先后越过终点线",
+        "比赛后两人握手祝贺"
+      ],
+      "ending": "两名跑者在终点线旁握手，展现友好竞争"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "compete/competition 为真实词族；句子自然，竞赛和握手分别表现比赛与友好关系。"
+    }
+  },
+  {
+    "word": "loss",
+    "anchor": "lose",
+    "anchorMeaning": "失去；丢失",
+    "relation": "lose 与 loss 是同一词族的动词和名词形式，名词拼写不规则地使用双 s。",
+    "sentence": "She loses one scarf to the wind while another remains on the bench, and she feels a deep sense of loss（她的一条围巾被风吹走，另一条仍在长椅上，她感到深深失落）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "有风的公园小径，旁边是一张空长椅",
+      "actor": "没有围巾戴在身上的女子，看着一条围巾被风吹走",
+      "props": [
+        "一条被风吹到空中的围巾",
+        "另一条留在长椅上的围巾",
+        "被风吹落的树叶"
+      ],
+      "beats": [
+        "两条围巾分别在长椅上和女子身旁",
+        "风把其中一条围巾吹向空中",
+        "另一条留在长椅上，女子为失去一条围巾而难过"
+      ],
+      "ending": "全图恰好两条围巾：一条被风吹走，另一条留在长椅上；女子没有围巾戴在身上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "lose/loss 为真实词族，拼写变化已注明；句子自然，修订后准确描述图中飞走的一条和留下的一条围巾。"
+    }
+  },
+  {
+    "word": "production",
+    "anchor": "produce",
+    "anchorMeaning": "生产；制造",
+    "relation": "produce 加 -tion 构成 production，动词转为表示生产过程或产量的名词，拼写有变化。",
+    "sentence": "Workers produce wooden chairs in a workshop, keeping production steady（工人们在作坊里生产木椅，让生产保持稳定）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "整洁的木工工坊",
+      "actor": "并肩制作木椅的两名工人",
+      "props": [
+        "半成品木椅",
+        "木板",
+        "手工工具"
+      ],
+      "beats": [
+        "工人把木板固定到椅架上",
+        "两人配合安装椅背",
+        "工人检查完成的木椅并继续生产"
+      ],
+      "ending": "两名工人正在工坊里制作木椅，生产持续进行"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "produce/production 为真实词族；句子顺畅，木椅制作过程具体。"
+    }
+  },
+  {
+    "word": "security",
+    "anchor": "secure",
+    "anchorMeaning": "安全的；稳固的",
+    "relation": "secure 去掉词尾 e 并加 -ity 构成 security，形容词变为表示安全的名词。",
+    "sentence": "The guard secures the gate, improving security around the building（守卫锁好大门，提升了建筑周围的安全性）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "夜色中的安静院落入口",
+      "actor": "正在锁门的守卫",
+      "props": [
+        "铁门",
+        "无字挂锁",
+        "手提灯笼"
+      ],
+      "beats": [
+        "守卫检查院落入口",
+        "他把挂锁扣在门闩上",
+        "他提灯确认大门已经锁牢"
+      ],
+      "ending": "守卫锁好铁门，在灯笼照亮下确认入口安全"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "secure/security 为真实词族；句子自然，锁门动作表现安全保障。"
+    }
+  },
+  {
+    "word": "pressure",
+    "anchor": "press",
+    "anchorMeaning": "按压；挤压",
+    "relation": "press 与 pressure 同属一个词族；pressure 表示按压或挤压产生的压力。",
+    "sentence": "Water presses against the dam, creating pressure on its walls（水流冲击大坝，在坝墙上形成压力）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "水位上涨的河谷大坝",
+      "actor": "无人物，突出水流与坝体",
+      "props": [
+        "坚固混凝土坝",
+        "上涨的河水",
+        "溢洪道"
+      ],
+      "beats": [
+        "河水逐渐涨到坝前",
+        "水流持续冲击坝面",
+        "水从溢洪道平稳排出"
+      ],
+      "ending": "上涨的水流顶向大坝，压力由水面和坝体的受力关系表现"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "press/pressure 为真实词族；物理压力义明确，句子适合直观场景。"
+    }
+  },
+  {
+    "word": "simply",
+    "anchor": "simple",
+    "anchorMeaning": "简单的",
+    "relation": "simple 去掉词尾 e 并加 -ly 构成 simply，形容词转副词。",
+    "sentence": "She follows a simple recipe and simply stirs the batter in a bowl（她照着简单的食谱，只是把碗里的面糊搅匀）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮整洁的家庭厨房",
+      "actor": "正在搅拌面糊的年轻女子",
+      "props": [
+        "素色搅拌碗",
+        "木勺",
+        "纯色围裙"
+      ],
+      "beats": [
+        "女子把面糊倒进搅拌碗",
+        "她用木勺简单搅拌几下",
+        "她放下木勺检查面糊"
+      ],
+      "ending": "女子只用木勺在碗里搅匀面糊，动作简单直接"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "simple/simply 为真实词族；sentence 中 simply 表示只需、只是，搭配自然。"
+    }
+  },
+  {
+    "word": "farm",
+    "anchor": "farmer",
+    "anchorMeaning": "农民；农场主",
+    "relation": "farm 加 -er 构成 farmer，表示在农场工作的人；真实构词关系。",
+    "sentence": "The farmer feeds a cow on the farm before sunrise（天亮前，农场主在农场喂一头奶牛）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "日出前的乡村农场",
+      "actor": "给奶牛喂草的农场主和一头奶牛",
+      "props": [
+        "干草捆",
+        "木水桶",
+        "谷仓门"
+      ],
+      "beats": [
+        "农场主抱起一捆干草",
+        "他把干草送到奶牛面前",
+        "奶牛开始进食，天边渐渐发亮"
+      ],
+      "ending": "农场主在谷仓旁给奶牛喂草，晨光刚刚出现"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "farm/farmer 为真实词族；句子语序自然，农场劳动场景清楚。"
+    }
+  },
+  {
+    "word": "someone",
+    "anchor": "one",
+    "anchorMeaning": "一个；某一个",
+    "relation": "someone 由 some 与 one 构成，表示某个未指明的人；one 是其组成部分，也是可数的具体锚点。",
+    "sentence": "Someone waits at the door to deliver one small parcel（有人在门口等着送来一个小包裹）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁的住宅门口",
+      "actor": "拿着包裹的送货人和准备开门的屋主",
+      "props": [
+        "木门",
+        "一个小包裹",
+        "素色门垫"
+      ],
+      "beats": [
+        "送货人拿着包裹来到门口",
+        "他在门边等候并轻敲房门",
+        "屋主打开门准备接过包裹"
+      ],
+      "ending": "送货人拿着一个小包裹站在木门旁，屋主刚打开房门"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "someone 的 some+one 复合结构准确；句子自然，one 对应一个包裹，someone 对应送货人。"
+    }
+  }
+]

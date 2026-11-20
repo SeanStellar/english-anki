@@ -1,0 +1,762 @@
+[
+  {
+    "word": "repeatedly",
+    "anchor": "roll",
+    "anchorMeaning": "面包卷",
+    "relation": "Repeatedly means doing the same action again and again and brushing a row of rolls shows repetition.",
+    "sentence": "The baker repeatedly brushed butter over the warm rolls.",
+    "scene": {
+      "setting": "A warm bakery worktable",
+      "actor": "One baker brushes melted butter over a neat row of small rolls",
+      "props": [
+        "several plain rolls",
+        "pastry brush",
+        "small bowl of melted butter"
+      ],
+      "beats": [
+        "The baker dips the brush",
+        "She coats one roll after another",
+        "She repeatedly brushes the row"
+      ],
+      "ending": "One baker brushes butter across several rolls"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Repeatedly means doing the same action again and again and brushing a row of rolls shows repetition. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No labels or writing on food or containers."
+  },
+  {
+    "word": "resolution",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "relation": "A resolution is the solution of a problem and the final puzzle piece completes the solution.",
+    "sentence": "The resolution of the puzzle came when the last piece fit.",
+    "scene": {
+      "setting": "A child's table with a nearly completed jigsaw",
+      "actor": "One child places the final piece into a nearly complete puzzle",
+      "props": [
+        "nearly complete jigsaw puzzle",
+        "single final piece",
+        "wooden table"
+      ],
+      "beats": [
+        "The child studies the open space",
+        "She fits the final piece",
+        "The puzzle's resolution becomes clear"
+      ],
+      "ending": "The last piece fits into the completed puzzle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A resolution is the solution of a problem and the final puzzle piece completes the solution. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Puzzle pieces have no letters, numbers, or printed pictures."
+  },
+  {
+    "word": "collaborate",
+    "anchor": "sandcastle",
+    "anchorMeaning": "沙堡",
+    "relation": "To collaborate means to work together toward one result and building a sandcastle is a clear shared task.",
+    "sentence": "The two children collaborate to build a sandcastle together.",
+    "scene": {
+      "setting": "A sunny beach at the water's edge",
+      "actor": "Exactly two children build one sandcastle side by side",
+      "props": [
+        "one sandcastle",
+        "small bucket",
+        "plain shovel"
+      ],
+      "beats": [
+        "The children gather wet sand",
+        "They shape the same tower together",
+        "Their shared work shows how they collaborate"
+      ],
+      "ending": "Two children finish one sandcastle together"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To collaborate means to work together toward one result and building a sandcastle is a clear shared task. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two children and no writing or extra people."
+  },
+  {
+    "word": "deteriorate",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "To deteriorate is to become worse over time and rain can damage an old roof.",
+    "sentence": "The old roof began to deteriorate as rain widened a crack.",
+    "scene": {
+      "setting": "A small cottage in steady rain",
+      "actor": "No people; rain leaks through one widening crack in an old roof",
+      "props": [
+        "old roof",
+        "raincloud",
+        "plain bucket under the leak"
+      ],
+      "beats": [
+        "Rain falls on the roof",
+        "Water widens a crack",
+        "The roof deteriorates and leaks into the bucket"
+      ],
+      "ending": "An old cracked roof leaks during the rain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To deteriorate is to become worse over time and rain can damage an old roof. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No labels, signs, or numbers."
+  },
+  {
+    "word": "equation",
+    "anchor": "balance",
+    "anchorMeaning": "天平",
+    "relation": "An equation expresses equality and a balance scale shows equal amounts on both sides.",
+    "sentence": "A teacher used a balance scale to demonstrate an equation with equal blocks on both sides.",
+    "scene": {
+      "setting": "A simple classroom table",
+      "actor": "One teacher demonstrates equality with a level balance scale and equal wooden blocks on each side",
+      "props": [
+        "balance scale",
+        "two equal stacks of blocks",
+        "plain table"
+      ],
+      "beats": [
+        "The teacher places blocks on one side",
+        "She matches them on the other",
+        "The level scale demonstrates the equation"
+      ],
+      "ending": "One teacher shows equal blocks balanced on both sides"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An equation expresses equality and a balance scale shows equal amounts on both sides. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No numbers, letters, or marks on the blocks or scale."
+  },
+  {
+    "word": "contaminate",
+    "anchor": "oil",
+    "anchorMeaning": "油",
+    "relation": "Oil spilled into water contaminates it by making it dirty and unsafe.",
+    "sentence": "Oil from the broken drum can contaminate the river and harm the fish.",
+    "scene": {
+      "setting": "A riverbank beside a small storage drum",
+      "actor": "No people; dark oil from one damaged drum spreads across the river surface near one fish",
+      "props": [
+        "plain oil drum",
+        "river water",
+        "single fish"
+      ],
+      "beats": [
+        "The drum tips beside the river",
+        "Oil spreads across the water",
+        "The oil contaminates the river"
+      ],
+      "ending": "A dark oil slick spreads from the drum across the water"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Oil spilled into water contaminates it by making it dirty and unsafe. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No labels on drum and no text or extra fish."
+  },
+  {
+    "word": "creep",
+    "anchor": "bird",
+    "anchorMeaning": "鸟",
+    "relation": "To creep is to move slowly and quietly, as a cat stalking a bird.",
+    "sentence": "The cat began to creep through the grass toward a bird.",
+    "scene": {
+      "setting": "A grassy garden beside a low stone wall",
+      "actor": "One cat moves low and slowly toward one small bird",
+      "props": [
+        "single cat",
+        "single bird",
+        "tall grass"
+      ],
+      "beats": [
+        "The cat spots the bird",
+        "It lowers its body",
+        "It creeps quietly through the grass"
+      ],
+      "ending": "One crouching cat creeps toward one bird"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To creep is to move slowly and quietly, as a cat stalking a bird. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One cat with four legs and one bird with two legs only."
+  },
+  {
+    "word": "diabetes",
+    "anchor": "sugar",
+    "anchorMeaning": "糖",
+    "relation": "Diabetes affects how the body manages blood sugar, so people with diabetes may check it with a meter.",
+    "sentence": "Because she has diabetes, the woman checks her blood sugar with a plain meter before breakfast.",
+    "scene": {
+      "setting": "A calm kitchen table in morning light",
+      "actor": "One adult checks a tiny blood sample with an unmarked glucose meter",
+      "props": [
+        "plain glucose meter",
+        "single test strip",
+        "small bowl with a few sugar cubes"
+      ],
+      "beats": [
+        "The woman prepares one test strip",
+        "She checks her blood sugar with the meter",
+        "She sets the device beside the sugar cubes"
+      ],
+      "ending": "One woman checks a blood sugar reading at the kitchen table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Diabetes affects how the body manages blood sugar, so people with diabetes may check it with a meter. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly one person; no medical cross, labels, numbers, or text on the meter. Show the sugar cubes only as a visual cue for blood sugar, not as something she eats."
+  },
+  {
+    "word": "drunk",
+    "anchor": "wine",
+    "anchorMeaning": "葡萄酒",
+    "relation": "Wine can cause intoxication and a drunk person may stagger or lean unsteadily.",
+    "sentence": "The drunk sailor leaned unsteadily against the wine barrel.",
+    "scene": {
+      "setting": "A bare wooden doorway beside an empty harbor wall",
+      "actor": "One sailor shown full-body in a clear front three-quarter view; both arms and hands fully visible; one hand rests on a wine barrel and the other points down toward one empty cup plainly placed beside the barrel",
+      "props": [
+        "one plain wine barrel",
+        "one empty cup beside the barrel",
+        "one bare wooden doorway"
+      ],
+      "beats": [
+        "The sailor steps unevenly",
+        "He reaches for the barrel",
+        "He leans against it beside the clearly visible empty cup"
+      ],
+      "ending": "One sailor leans unsteadily against one barrel with one cup clearly visible beside it"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Wine can cause intoxication and a drunk person may stagger or lean unsteadily. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "The empty cup must be clearly visible in the foreground beside the barrel; show exactly one barrel, one cup, and one doorway only; no bottles, ships, flags, plants, stools, tools, furniture, or text."
+  },
+  {
+    "word": "dual",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "Dual means having two parts or uses and one key serving two locks makes the idea concrete.",
+    "sentence": "The dual-purpose key opened both the garden gate and the shed.",
+    "scene": {
+      "setting": "A garden path between a gate and a shed",
+      "actor": "No people; one plain key is shown between an open garden gate and shed door",
+      "props": [
+        "plain key",
+        "garden gate",
+        "shed door"
+      ],
+      "beats": [
+        "The key opens the gate",
+        "The same key opens the shed",
+        "Its two uses make it dual-purpose"
+      ],
+      "ending": "One key lies between the gate and shed doors"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Dual means having two parts or uses and one key serving two locks makes the idea concrete. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No extra keys, labels, or signs."
+  },
+  {
+    "word": "empathy",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "Empathy is understanding another person's feelings and responding with care.",
+    "sentence": "Her empathy helped her understand why her friend felt sad.",
+    "scene": {
+      "setting": "A quiet garden bench",
+      "actor": "Exactly two friends sit together as one comforts the sad friend",
+      "props": [
+        "wooden bench",
+        "plain handkerchief",
+        "small flower pot"
+      ],
+      "beats": [
+        "One friend looks sad",
+        "The other listens closely",
+        "Her empathy shows in a gentle comforting gesture"
+      ],
+      "ending": "One friend listens while the other rests a hand on her shoulder"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Empathy is understanding another person's feelings and responding with care. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no speech bubbles."
+  },
+  {
+    "word": "overtime",
+    "anchor": "clock",
+    "anchorMeaning": "时钟",
+    "relation": "Overtime is work done beyond regular working hours and a late clock helps show it.",
+    "sentence": "The mechanic worked overtime while the shop clock showed a late hour.",
+    "scene": {
+      "setting": "A bare quiet workroom at night with a blank cream wall",
+      "actor": "One mechanic shown from the front works with both hands on one small metal component using one wrench; one single plain clock sits on the table beside the component",
+      "props": [
+        "one plain clock with a blank face and two hands",
+        "one plain wrench",
+        "one small metal component"
+      ],
+      "beats": [
+        "The workroom is dark outside regular hours",
+        "The mechanic keeps working on the component",
+        "The single clock shows that it is late"
+      ],
+      "ending": "One mechanic works late beside one small plain clock"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Overtime is work done beyond regular working hours and a late clock helps show it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "The clock face is completely blank except for two simple hands: absolutely no numbers, Roman numerals, tick marks, letters, or writing; show exactly one clock, one wrench, and one component; empty blank background with no shelves or extra tools."
+  },
+  {
+    "word": "priest",
+    "anchor": "church",
+    "anchorMeaning": "教堂",
+    "relation": "A priest is a religious minister who serves in a church.",
+    "sentence": "The priest welcomed a visitor into the quiet church.",
+    "scene": {
+      "setting": "A quiet church interior with plain walls",
+      "actor": "One priest in a simple robe welcomes one visitor at the doorway",
+      "props": [
+        "plain church doorway",
+        "wooden pew",
+        "small unmarked bowl"
+      ],
+      "beats": [
+        "The visitor enters the church",
+        "The priest welcomes them",
+        "The priest's role is clear in the church setting"
+      ],
+      "ending": "One priest welcomes one visitor inside the church"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A priest is a religious minister who serves in a church. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no crosses, icons, signs, or text."
+  },
+  {
+    "word": "disastrous",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨",
+    "relation": "Disastrous describes something causing great harm and a storm that floods a village is a clear example.",
+    "sentence": "The disastrous storm flooded the village after the river overflowed.",
+    "scene": {
+      "setting": "A village street during a heavy storm",
+      "actor": "No people; floodwater covers the village street as storm clouds hang above",
+      "props": [
+        "flooded village street",
+        "overflowing river",
+        "dark stormclouds"
+      ],
+      "beats": [
+        "Rain fills the river",
+        "The river overflows into the village",
+        "The disastrous storm floods the homes"
+      ],
+      "ending": "Floodwater covers the village street beneath storm clouds"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Disastrous describes something causing great harm and a storm that floods a village is a clear example. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs, labels, or people."
+  },
+  {
+    "word": "multiply",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "To multiply is to increase by making equal groups, as apples can be divided among baskets.",
+    "sentence": "She learned to multiply by dividing a basket of apples into equal groups.",
+    "scene": {
+      "setting": "A bright kitchen table",
+      "actor": "One child arranges apples into equal groups in two baskets",
+      "props": [
+        "basket of apples",
+        "two plain small baskets",
+        "wooden table"
+      ],
+      "beats": [
+        "The child empties the large basket",
+        "She shares the apples evenly",
+        "The equal groups show how to multiply"
+      ],
+      "ending": "A child places apples into two equal groups"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To multiply is to increase by making equal groups, as apples can be divided among baskets. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show two baskets with equal apple groups and no numerals."
+  },
+  {
+    "word": "pigeon",
+    "anchor": "crumb",
+    "anchorMeaning": "面包屑",
+    "relation": "A pigeon pecking a bread crumb is a familiar city-park scene that makes this bird concrete.",
+    "sentence": "A pigeon pecked at one bread crumb beside the city bench.",
+    "scene": {
+      "setting": "A quiet city park path",
+      "actor": "One pigeon pecks at one bread crumb beside an empty bench",
+      "props": [
+        "single pigeon",
+        "wooden bench",
+        "single bread crumb"
+      ],
+      "beats": [
+        "The pigeon lands beside the bench",
+        "It notices one crumb",
+        "It pecks at the crumb on the path"
+      ],
+      "ending": "One pigeon pecks at a single crumb beside the bench"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A pigeon pecking a bread crumb is a familiar city-park scene that makes this bird concrete. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One pigeon only and no extra crumbs, animals, or text."
+  },
+  {
+    "word": "utter",
+    "anchor": "mouth",
+    "anchorMeaning": "嘴",
+    "relation": "To utter means to say or produce a sound and an open mouth is the visible source of speech.",
+    "sentence": "The child opened her mouth to utter one clear cry.",
+    "scene": {
+      "setting": "A simple playroom with a plain rug",
+      "actor": "One child opens her mouth to call out once",
+      "props": [
+        "plain rug",
+        "wooden toy block",
+        "small chair"
+      ],
+      "beats": [
+        "The child looks toward the doorway",
+        "She opens her mouth",
+        "She utters one clear cry"
+      ],
+      "ending": "One child calls out with her mouth open"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To utter means to say or produce a sound and an open mouth is the visible source of speech. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No speech bubbles, letters, or sound symbols."
+  },
+  {
+    "word": "worm",
+    "anchor": "soil",
+    "anchorMeaning": "土壤",
+    "relation": "A worm is commonly found wriggling through damp soil.",
+    "sentence": "A worm wriggled through damp soil beneath the leaf.",
+    "scene": {
+      "setting": "A garden patch after light rain",
+      "actor": "No people; one earthworm wriggles beneath a broad fallen leaf",
+      "props": [
+        "single worm",
+        "damp soil",
+        "broad leaf"
+      ],
+      "beats": [
+        "The rain softens the soil",
+        "The worm moves beneath the leaf",
+        "It wriggles through the damp soil"
+      ],
+      "ending": "One worm appears partly beneath the leaf"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A worm is commonly found wriggling through damp soil. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One worm only and no text."
+  },
+  {
+    "word": "rotate",
+    "anchor": "bucket",
+    "anchorMeaning": "水桶",
+    "relation": "To rotate a task is to take turns doing it and passing a shared bucket makes the turn-taking visible.",
+    "sentence": "The gardeners rotate duties, passing the bucket as they water the garden.",
+    "scene": {
+      "setting": "A small community garden",
+      "actor": "Exactly two gardeners pass one watering bucket between them",
+      "props": [
+        "plain watering bucket",
+        "garden bed",
+        "watering can"
+      ],
+      "beats": [
+        "One gardener carries the bucket",
+        "They pass it to the other",
+        "They rotate the carrying task while watering"
+      ],
+      "ending": "Two gardeners share one bucket in the garden"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To rotate a task is to take turns doing it and passing a shared bucket makes the turn-taking visible. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and one bucket only."
+  },
+  {
+    "word": "aggravate",
+    "anchor": "ankle",
+    "anchorMeaning": "脚踝",
+    "relation": "To aggravate is to make a problem or pain worse and a long walk can worsen ankle pain.",
+    "sentence": "A long walk can aggravate the pain in her ankle.",
+    "scene": {
+      "setting": "A quiet path beside a park bench",
+      "actor": "One walker sits and gently holds a sore ankle after a long walk",
+      "props": [
+        "plain walking shoes",
+        "park bench",
+        "small water bottle"
+      ],
+      "beats": [
+        "The walker finishes a long route",
+        "Her ankle begins to hurt",
+        "The long walk aggravates the pain"
+      ],
+      "ending": "One walker rests while holding her ankle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To aggravate is to make a problem or pain worse and a long walk can worsen ankle pain. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No injury marks, signs, or text."
+  }
+]

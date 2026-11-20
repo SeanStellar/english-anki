@@ -1,0 +1,642 @@
+[
+  {
+    "word": "sacrifice",
+    "anchor": "coat",
+    "anchorMeaning": "外套",
+    "relation": "Giving up something valuable to help another person can be a sacrifice.",
+    "sentence": "She made a sacrifice by giving her coat to a neighbor in need.（她把自己的外套送给有需要的邻居，作出了牺牲。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet park on a chilly day.",
+      "actor": "Exactly two adults; one woman kindly offers her warm coat to a neighbor who needs it.",
+      "props": [
+        "one plain warm coat being offered",
+        "one plain wool scarf",
+        "one wooden park bench"
+      ],
+      "beats": [
+        "The neighbor sits in the chilly park.",
+        "The woman gives up her warm coat to help.",
+        "The neighbor accepts the coat gratefully."
+      ],
+      "ending": "Giving away her own coat clearly shows the woman's sacrifice."
+    },
+    "artDirection": "Exactly two adults with natural limbs. Keep the scene caring and dignified, not distressing; plain clothing with no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：sacrifice 与 coat 均清楚出现，句子自然易读，赠衣帮助他人的行为表达牺牲。"
+    }
+  },
+  {
+    "word": "tuition",
+    "anchor": "envelope",
+    "anchorMeaning": "信封",
+    "relation": "Saving money in an envelope can help someone pay tuition.",
+    "sentence": "She saved money in an envelope to pay her tuition.（她把钱存进信封，准备支付学费。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy student desk at home in warm evening light.",
+      "actor": "One student places saved coins into a plain envelope while studying; only one person.",
+      "props": [
+        "one blank unmarked envelope",
+        "a few plain unmarked coins",
+        "one closed textbook with a blank cover"
+      ],
+      "beats": [
+        "The student counts a few saved coins.",
+        "She puts the money in the envelope.",
+        "She sets the envelope aside for tuition."
+      ],
+      "ending": "The student saves money in an envelope to pay her tuition."
+    },
+    "artDirection": "One student with natural hands. No banknotes, readable writing, numbers, logos, or labels; envelope and book are blank.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：tuition 和 envelope 锚点都出现，save money to pay tuition 的表达自然清楚。"
+    }
+  },
+  {
+    "word": "ingredient",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "Flour is a main ingredient in bread dough.",
+    "sentence": "She added flour to the bowl as the main ingredient in the bread dough.（她把面粉加入碗中，作为面团的主要原料。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright home kitchen with a clean counter.",
+      "actor": "One baker mixes flour into dough in a bowl; only one person.",
+      "props": [
+        "one large plain mixing bowl with dough",
+        "one small mound of flour",
+        "one plain wooden spoon"
+      ],
+      "beats": [
+        "The baker prepares the bread dough.",
+        "She adds flour to the bowl.",
+        "The flour becomes the main ingredient in the dough."
+      ],
+      "ending": "The flour in the bowl is clearly a main ingredient of the bread dough."
+    },
+    "artDirection": "One adult with natural hands. No recipe cards, writing, labels, or logos; simple clean kitchen scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然，ingredient 与 bowl 均原词出现，面粉作为原料的关系清楚。"
+    }
+  },
+  {
+    "word": "laboratory",
+    "anchor": "microscope",
+    "anchorMeaning": "显微镜",
+    "relation": "Students use a microscope to examine samples in a laboratory.",
+    "sentence": "The students examined a leaf under a microscope in the laboratory.（学生们在实验室里用显微镜观察一片叶子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean, bright school laboratory with a plain worktable.",
+      "actor": "Exactly two students carefully examine one leaf under a microscope.",
+      "props": [
+        "one plain microscope with no labels",
+        "one fresh green leaf",
+        "one simple laboratory worktable"
+      ],
+      "beats": [
+        "The students place the leaf on the table.",
+        "They look at it through the microscope.",
+        "They conduct their study in the laboratory."
+      ],
+      "ending": "Two students use a microscope to study a leaf in the laboratory."
+    },
+    "artDirection": "Exactly two students with natural hands. No charts, writing, numbers, labels, or logos on any equipment.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子流畅易懂，laboratory 与 microscope 清楚出现，场景语义对应。"
+    }
+  },
+  {
+    "word": "tendency",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "A tendency is a repeated habit, such as checking the clock before meetings.",
+    "sentence": "He has a tendency to check the clock before every meeting.（他有一种习惯，总是在每次开会前看钟。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office meeting room just before a meeting.",
+      "actor": "One adult glances at the wall clock while preparing the meeting table; only one person.",
+      "props": [
+        "one plain wall clock with simple hands and no numbers",
+        "one blank folder",
+        "one simple meeting table"
+      ],
+      "beats": [
+        "The man prepares the room before a meeting.",
+        "He checks the unmarked clock again out of habit.",
+        "His repeated checking suggests a tendency."
+      ],
+      "ending": "The man checks the clock before a meeting as part of his tendency."
+    },
+    "artDirection": "One adult only. Clock face has simple hands but no numerals or markings; folder is blank; no signs, writing, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：tendency 表示习惯倾向，句子自然，clock 锚点明确。"
+    }
+  },
+  {
+    "word": "entertain",
+    "anchor": "puppet",
+    "anchorMeaning": "木偶",
+    "relation": "A clown can use a puppet to entertain a child.",
+    "sentence": "The clown used a puppet to entertain a child at the fair.（小丑在集市上用木偶逗一个孩子开心。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small cheerful fair stage with a plain curtain.",
+      "actor": "One friendly clown uses a puppet to entertain one child; exactly two people.",
+      "props": [
+        "one colorful plain hand puppet",
+        "one small stage stool",
+        "one simple closed curtain"
+      ],
+      "beats": [
+        "The clown raises the puppet.",
+        "The puppet performs a playful bow.",
+        "The child smiles as the clown entertains them."
+      ],
+      "ending": "The puppet show entertains the child."
+    },
+    "artDirection": "Exactly two people with normal limbs. No crowd, speech bubbles, writing, signs, or logos; warm, friendly scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：entertain 与 puppet 锚点均出现，句子自然易懂，木偶逗孩子开心的关系清楚。"
+    }
+  },
+  {
+    "word": "obstacle",
+    "anchor": "log",
+    "anchorMeaning": "原木",
+    "relation": "A fallen log can be an obstacle on a forest trail.",
+    "sentence": "A fallen log was an obstacle on the forest trail.（一根倒下的原木挡在森林小路上，成了障碍。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet woodland trail after a small tree branch has fallen.",
+      "actor": "One hiker stops before a fallen log blocking the trail; only one person.",
+      "props": [
+        "one large fallen log across the path",
+        "one narrow forest trail",
+        "one small hiking backpack"
+      ],
+      "beats": [
+        "The hiker walks along the trail.",
+        "A fallen log blocks the way.",
+        "The hiker pauses before the obstacle."
+      ],
+      "ending": "The fallen log is a clear obstacle on the trail."
+    },
+    "artDirection": "One hiker with natural limbs. No danger, signs, arrows, writing, or logos; show a safe pause.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：obstacle 与 log 均明确出现，句子通顺，倒木阻路的含义直观。"
+    }
+  },
+  {
+    "word": "interval",
+    "anchor": "timer",
+    "anchorMeaning": "计时器",
+    "relation": "An interval is a period of time between events.",
+    "sentence": "A short interval passed as the timer ran down.（计时器走完时，一小段时间过去了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet tabletop in a softly lit room.",
+      "actor": "No people; a plain sand timer runs down beside a small bell.",
+      "props": [
+        "one plain sand timer with no markings",
+        "one small brass bell",
+        "one simple tabletop"
+      ],
+      "beats": [
+        "The sand begins falling through the timer.",
+        "A short period passes in silence.",
+        "The sand timer finishes its interval beside the bell."
+      ],
+      "ending": "The sand timer makes the short interval visible."
+    },
+    "artDirection": "No people. Timer and bell have no numbers, letters, marks, or logos; no sound symbols or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：interval 用法自然，句意清楚表达一段时间，timer 锚点明确。"
+    }
+  },
+  {
+    "word": "constitute",
+    "anchor": "beams",
+    "anchorMeaning": "梁木",
+    "relation": "Wooden beams can constitute the frame of a shed.",
+    "sentence": "Wooden beams constitute the frame of the new shed.（木梁构成了这座新棚屋的框架。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet rural worksite with a small shed under construction.",
+      "actor": "No people; sturdy wooden beams form the visible frame of a simple shed.",
+      "props": [
+        "several plain wooden beams",
+        "one simple shed frame",
+        "one clear patch of ground"
+      ],
+      "beats": [
+        "The beams are arranged upright and across the top.",
+        "They connect to form a sturdy frame.",
+        "The wooden beams constitute the shed's structure."
+      ],
+      "ending": "The beams clearly constitute the frame of the shed."
+    },
+    "artDirection": "No people, labels, text, or logos. Use a single continuous construction scene, no split panels.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：constitute 与 beams 均原词出现，句子自然，梁木构成框架的关系明确。"
+    }
+  },
+  {
+    "word": "northern",
+    "anchor": "snow",
+    "anchorMeaning": "雪",
+    "relation": "Northern hills can remain snowy into early spring.",
+    "sentence": "The snow kept the northern hills white through early spring.（积雪让北方山丘直到早春仍是一片白色。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm northern hillside in early spring.",
+      "actor": "No people; snow still covers the upper northern hills while spring greenery begins below.",
+      "props": [
+        "one snow-covered northern hillside",
+        "one evergreen tree",
+        "one clear pale sky"
+      ],
+      "beats": [
+        "The hills remain cold as early spring arrives.",
+        "Snow covers the northern slopes.",
+        "The lower grass begins to turn green beneath the snowy hills."
+      ],
+      "ending": "Snow on the hills suggests a northern place in early spring."
+    },
+    "artDirection": "No people, maps, labels, writing, or logos; full-frame natural landscape.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：northern 和 snow 均出现，句子自然易读，北方早春景象对应清楚。"
+    }
+  },
+  {
+    "word": "aggressive",
+    "anchor": "fence",
+    "anchorMeaning": "围栏",
+    "relation": "A dog barking behind a secure fence can appear aggressive without harming anyone.",
+    "sentence": "The aggressive dog barked from behind the secure fence.（那只好斗的狗隔着牢固的围栏吠叫。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home yard with a strong wooden fence.",
+      "actor": "One dog barks firmly from behind the secure fence; no people or other animals.",
+      "props": [
+        "one secure wooden fence",
+        "one plain doghouse",
+        "one grassy yard"
+      ],
+      "beats": [
+        "The dog stands safely behind the fence.",
+        "It barks with an alert, forceful expression.",
+        "The fence keeps everyone at a safe distance."
+      ],
+      "ending": "The dog's forceful barking behind the fence suggests aggressive behavior without an attack."
+    },
+    "artDirection": "One dog with natural anatomy. No attack, injury, fear, text, signs, or logos; show a safe fence barrier.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子结构自然，aggressive 与 fence 清楚出现；场景表现吠叫而不描绘攻击。"
+    }
+  },
+  {
+    "word": "influential",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "An influential book can inspire a young reader to take up a new activity.",
+    "sentence": "The influential book inspired the child to plant a flower.（这本有影响力的书启发孩子种下一朵花。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny reading corner beside a small garden window.",
+      "actor": "One child reads an illustrated book and looks inspired to plant a flower; only one person.",
+      "props": [
+        "one open illustrated book with no words",
+        "one small flower pot with soil",
+        "one tiny flower seedling"
+      ],
+      "beats": [
+        "The child studies the open picture book.",
+        "The book gives the child an idea to grow a flower.",
+        "The child plants a seedling beside the book."
+      ],
+      "ending": "The book has an influential effect on the child's choice to plant a flower."
+    },
+    "artDirection": "One child with natural hands. Book pages contain only simple illustrations, no letters or words; no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：influential 与 book 清楚出现，句子语法自然，书影响读者行动的意思明确。"
+    }
+  },
+  {
+    "word": "radical",
+    "anchor": "desks",
+    "anchorMeaning": "课桌",
+    "relation": "A radical redesign can replace rows of desks with a new art space.",
+    "sentence": "The classroom's radical redesign replaced old desks with a shared art table.（教室的彻底改造用一张共享美术桌替换了旧课桌。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "One bright classroom during a major redesign, with completely plain blank cream walls and no wall decorations.",
+      "actor": "One teacher moves old desks aside as a spacious shared art area is set up; only one person.",
+      "props": [
+        "one row of plain old classroom desks",
+        "one large shared art table",
+        "one set of plain art supplies"
+      ],
+      "beats": [
+        "The old desks are moved aside.",
+        "A shared art table fills the newly opened space.",
+        "The room's radical redesign becomes clear."
+      ],
+      "ending": "The classroom has changed radically from rows of desks to a shared art area."
+    },
+    "artDirection": "One teacher only. One continuous classroom view, not a before-and-after split. Show only desks, one shared art table, and plain art supplies against completely blank walls. No framed pictures, posters, bulletin boards, bookshelves, writing, letters, labels, or logos anywhere.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：The classroom's radical redesign replaced old desks with a shared art table. 语法自然易读，radical 与 desks 清楚出现，彻底改造的含义明确。"
+    }
+  },
+  {
+    "word": "southern",
+    "anchor": "beach",
+    "anchorMeaning": "海滩",
+    "relation": "A southern beach may stay warm even during winter.",
+    "sentence": "The southern beach stayed warm even in winter.（南方海滩在冬天依然温暖。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny southern beach during a mild winter day.",
+      "actor": "No people; a warm shoreline with gentle waves and a few palm trees.",
+      "props": [
+        "one broad sandy beach",
+        "one calm blue shoreline",
+        "several plain palm trees"
+      ],
+      "beats": [
+        "Soft winter sunshine warms the coast.",
+        "The beach remains pleasantly warm.",
+        "The southern shoreline looks mild and welcoming."
+      ],
+      "ending": "The warm beach scene suggests a southern coast in winter."
+    },
+    "artDirection": "No people, signs, lettering, or logos; full-frame coastal scene.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：southern 与 beach 均清楚出现，句子自然简短，南方冬日气候含义直观。"
+    }
+  },
+  {
+    "word": "elementary",
+    "anchor": "blocks",
+    "anchorMeaning": "积木",
+    "relation": "Young children may use blocks in an elementary math lesson.",
+    "sentence": "The elementary class learned sums with wooden blocks.（小学班级用木积木学习加法。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright elementary classroom with a small learning table.",
+      "actor": "One teacher guides one young student using wooden blocks; exactly two people.",
+      "props": [
+        "several plain wooden blocks",
+        "one small classroom table",
+        "one simple chalkboard with no writing"
+      ],
+      "beats": [
+        "The teacher sets blocks on the table.",
+        "The student groups them while learning simple sums.",
+        "The hands-on lesson fits an elementary class."
+      ],
+      "ending": "A young student learns basic math with blocks in an elementary classroom."
+    },
+    "artDirection": "Exactly two people with natural hands. Chalkboard remains completely blank; no writing, numbers, labels, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：elementary 与 blocks 清楚出现，句子自然易读，基础课堂场景明确。"
+    }
+  },
+  {
+    "word": "reporter",
+    "anchor": "microphone",
+    "anchorMeaning": "麦克风",
+    "relation": "A reporter speaks into a microphone during a broadcast.",
+    "sentence": "The reporter spoke into a microphone during the broadcast.（记者在广播中对着麦克风讲话。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet broadcast studio with a plain background.",
+      "actor": "One reporter speaks clearly into a microphone; only one person.",
+      "props": [
+        "one plain unmarked microphone",
+        "one simple studio table",
+        "one blank sound panel with no controls or numbers"
+      ],
+      "beats": [
+        "The reporter prepares for the broadcast.",
+        "The reporter speaks into the microphone.",
+        "The broadcast continues from the studio."
+      ],
+      "ending": "The reporter holds the microphone while delivering the broadcast."
+    },
+    "artDirection": "One reporter only. No guests, logos, writing, station names, numbers, or labels; studio background is plain.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：reporter 与 microphone 均原词出现，句子简洁自然，工作场景明确。"
+    }
+  },
+  {
+    "word": "strain",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "A heavy load can put a strain on a rope as a pulley lifts it.",
+    "sentence": "A heavy box put a strain on the rope as a pulley lifted it.（滑轮吊起沉重箱子时，绳子承受了很大压力。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple indoor workshop with a sturdy overhead beam.",
+      "actor": "No people; a pulley lifts one heavy wooden box while a taut rope bears its weight.",
+      "props": [
+        "one plain taut rope",
+        "one heavy wooden box",
+        "one simple pulley attached securely to a beam"
+      ],
+      "beats": [
+        "The rope is threaded through the secure pulley.",
+        "The heavy box rises slowly.",
+        "The taut rope visibly bears the strain of the load."
+      ],
+      "ending": "The heavy box puts a strain on the rope as it is lifted safely."
+    },
+    "artDirection": "No people, fraying, snapping, danger, text, or logos. Secure pulley and intact rope; no falling objects.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：strain 作名词搭配自然，rope 锚点清楚，承重产生压力的场景易懂。"
+    }
+  },
+  {
+    "word": "thrive",
+    "anchor": "meadow",
+    "anchorMeaning": "草地",
+    "relation": "Wildflowers thrive when they have sunlight and open space.",
+    "sentence": "Wildflowers thrive in the sunny meadow.（野花在阳光充足的草地上茁壮生长。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright open meadow on a warm morning.",
+      "actor": "No people; healthy wildflowers grow vigorously across the sunny meadow.",
+      "props": [
+        "one open green meadow",
+        "a patch of colorful wildflowers",
+        "one warm sunlit sky"
+      ],
+      "beats": [
+        "Sunlight reaches the open meadow.",
+        "Wildflowers grow tall and healthy.",
+        "The thriving flowers spread through the grass."
+      ],
+      "ending": "Healthy wildflowers thrive in the sunny meadow."
+    },
+    "artDirection": "No people, text, signs, or logos; natural plant anatomy and gentle daylight.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：thrive 与 meadow 锚点清楚出现，句子自然，茁壮生长的含义直观。"
+    }
+  },
+  {
+    "word": "profound",
+    "anchor": "story",
+    "anchorMeaning": "故事",
+    "relation": "A story can have a profound effect on a reader.",
+    "sentence": "The story had a profound effect on the reader.（这个故事给读者留下了深刻影响。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet reading nook in soft evening light.",
+      "actor": "One adult reader sits thoughtfully after finishing a book; only one person.",
+      "props": [
+        "one open book with blank pages",
+        "one comfortable reading chair",
+        "one soft table lamp"
+      ],
+      "beats": [
+        "The reader finishes the story.",
+        "The reader pauses thoughtfully with the book open.",
+        "The story's profound effect shows in the reader's moved expression."
+      ],
+      "ending": "The reader is deeply moved by the story."
+    },
+    "artDirection": "One adult with natural hands. Book pages are blank with no letters or writing; no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：profound effect 是自然搭配，story 锚点在句中，深刻影响的意思清楚。"
+    }
+  },
+  {
+    "word": "valid",
+    "anchor": "ticket",
+    "anchorMeaning": "车票",
+    "relation": "A valid ticket allows a traveler to take a train ride.",
+    "sentence": "Her ticket remained valid for the train ride today.（她的车票今天仍可用于乘坐火车。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm train platform with one stationary passenger train.",
+      "actor": "One traveler checks a plain ticket before boarding; only one person.",
+      "props": [
+        "one plain blank train ticket",
+        "one open train doorway",
+        "one quiet station platform"
+      ],
+      "beats": [
+        "The traveler holds the blank ticket.",
+        "The traveler checks it before boarding.",
+        "The ticket is still valid for today's train ride."
+      ],
+      "ending": "The traveler uses a valid ticket to board the train."
+    },
+    "artDirection": "One traveler only. Ticket, train, and platform have no numbers, writing, schedules, signs, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：valid 与 ticket 清楚出现，句子语法自然，车票有效的场景明确。"
+    }
+  }
+]

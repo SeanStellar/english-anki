@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1721",
+    "serial": 4251,
+    "frequency": 8,
+    "word": "detector",
+    "targetSense": "探测器",
+    "alt": "",
+    "anchor": "smoke",
+    "anchorMeaning": "烟",
+    "relation": "烟雾探测器侦测到烟雾，表现 detector。",
+    "sentence": "The smoke detector sounded when smoke filled the kitchen.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen with a small smoke detector on the ceiling",
+      "actor": "One ceiling detector senses a faint wisp of smoke near the stove",
+      "props": [
+        "one smoke detector",
+        "one wisp of smoke",
+        "one kitchen"
+      ],
+      "beats": [
+        "The detector rests quietly on the ceiling",
+        "A faint wisp of smoke rises",
+        "The detector senses the smoke and sounds an alarm"
+      ],
+      "ending": "One detector senses smoke in the kitchen."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one small smoke detector mounted on a kitchen ceiling and one faint wisp of smoke. No flames, danger, extra detectors, logos, labels, numbers, or text.",
+    "imageFile": "kyc-1721.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1722",
+    "serial": 4252,
+    "frequency": 8,
+    "word": "earnest",
+    "targetSense": "认真",
+    "alt": "",
+    "anchor": "heart",
+    "anchorMeaning": "心；内心",
+    "relation": "她手按胸口真诚地许下承诺，表现 earnest。",
+    "sentence": "She made an earnest promise with her hand over her heart.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room with a plain pale background",
+      "actor": "One woman makes a sincere promise with one hand over her heart",
+      "props": [
+        "one woman",
+        "one hand over her heart",
+        "one quiet room"
+      ],
+      "beats": [
+        "She faces someone just outside the frame",
+        "She places one hand over her heart",
+        "She makes the promise with a serious sincere expression"
+      ],
+      "ending": "One woman makes an earnest promise with her hand over her heart."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman with one hand over her heart and a sincere serious expression. No other people, speech bubbles, symbols, writing, or text.",
+    "imageFile": "kyc-1722.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1723",
+    "serial": 4253,
+    "frequency": 8,
+    "word": "feeble",
+    "targetSense": "虚弱的",
+    "alt": "",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "年老虚弱的狗短途散步后需要休息，表现 feeble。",
+    "sentence": "The feeble old dog rested after a short walk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden path beside a patch of shade",
+      "actor": "One thin elderly dog with a gray muzzle and drooping posture rests while one owner gently kneels nearby; the dog is tired but unharmed",
+      "props": [
+        "one elderly dog",
+        "one caring owner",
+        "one shaded garden path"
+      ],
+      "beats": [
+        "The dog finishes a short walk",
+        "Its weak legs begin to rest",
+        "The owner kneels beside the feeble dog"
+      ],
+      "ending": "One feeble old dog rests while its owner stays nearby."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one visibly elderly, thin dog with a gray muzzle and weak drooping posture after a short walk, with one caring owner kneeling beside it. The dog is safe and unharmed. No injuries, blood, other animals, or text.",
+    "imageFile": "kyc-1723.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1724",
+    "serial": 4254,
+    "frequency": 8,
+    "word": "galaxy",
+    "targetSense": "星系",
+    "alt": "",
+    "anchor": "star",
+    "anchorMeaning": "恒星",
+    "relation": "无数恒星组成广阔的星系，表现 galaxy。",
+    "sentence": "A galaxy holds billions of stars in one vast system.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A deep night sky with a single spiral galaxy",
+      "actor": "One luminous spiral galaxy fills the sky with many small stars",
+      "props": [
+        "one galaxy",
+        "many stars",
+        "one night sky"
+      ],
+      "beats": [
+        "A few stars appear in darkness",
+        "A wide spiral galaxy becomes visible",
+        "The stars fill the galaxy’s arms"
+      ],
+      "ending": "One galaxy contains countless stars across the night sky."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one spiral galaxy filled with many stars in deep space. No constellation lines, planets, spacecraft, labels, numbers, or text.",
+    "imageFile": "kyc-1724.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1725",
+    "serial": 4256,
+    "frequency": 8,
+    "word": "irony",
+    "targetSense": "反讽",
+    "alt": "",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "卖伞的店却在大雨中被淹，形成反讽，表现 irony。",
+    "sentence": "The irony was that the umbrella shop flooded during heavy rain.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small umbrella shop interior flooded by a rainstorm",
+      "actor": "Several umbrellas stand dry on a high shelf while shallow floodwater covers the shop floor",
+      "props": [
+        "one umbrella shop",
+        "several umbrellas",
+        "shallow floodwater"
+      ],
+      "beats": [
+        "Rain falls outside the shop",
+        "Water unexpectedly enters the umbrella shop",
+        "Umbrellas remain above the rising water"
+      ],
+      "ending": "An umbrella shop floods during heavy rain, an ironic outcome."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show a small shop stocked with umbrellas while shallow floodwater covers the floor. No storefront signs, shop names, labels, logos, letters, or text.",
+    "imageFile": "kyc-1725.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1726",
+    "serial": 4257,
+    "frequency": 8,
+    "word": "mold",
+    "targetSense": "模子、模型",
+    "alt": "mould",
+    "anchor": "clay",
+    "anchorMeaning": "黏土",
+    "relation": "她把黏土压进模子塑成小碗，表现 mold。",
+    "sentence": "She pressed soft clay into a mold to shape a small bowl.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple pottery workspace with one plain table",
+      "actor": "One potter presses soft clay into the deep round cavity of one rigid wooden bowl mold with thick visible walls",
+      "props": [
+        "one potter",
+        "soft clay",
+        "one wooden bowl mold"
+      ],
+      "beats": [
+        "The potter softens the clay",
+        "She presses the clay into the mold cavity",
+        "The mold gives the clay a bowl shape"
+      ],
+      "ending": "One wooden mold shapes soft clay into a bowl."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one person pressing soft clay into the visible hollow cavity of one rigid wooden bowl mold. The mold must be a distinct tool with thick walls framing the clay, not a finished bowl. No extra bowls, containers, molds, tools, labels, or text.",
+    "imageFile": "kyc-1726.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1727",
+    "serial": 4258,
+    "frequency": 8,
+    "word": "prosecute",
+    "targetSense": "起诉",
+    "alt": "",
+    "anchor": "court",
+    "anchorMeaning": "法庭",
+    "relation": "律师在法庭上对案件提起公诉，表现 prosecute。",
+    "sentence": "The lawyer will prosecute the case in court.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet courtroom with a plain bench",
+      "actor": "One lawyer presents a case file to one judge in court",
+      "props": [
+        "one lawyer",
+        "one judge",
+        "one blank case file"
+      ],
+      "beats": [
+        "The lawyer approaches the court bench",
+        "The lawyer presents the case",
+        "The judge listens as the case is prosecuted"
+      ],
+      "ending": "One lawyer prosecutes a case before one judge."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one lawyer presenting one blank case file to one judge in a simple courtroom. No defendant, extra people, writing, letters, numbers, signs, or text.",
+    "imageFile": "kyc-1727.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1728",
+    "serial": 4259,
+    "frequency": 8,
+    "word": "savage",
+    "targetSense": "野蛮人；凶猛的",
+    "alt": "",
+    "anchor": "wolf",
+    "anchorMeaning": "狼",
+    "relation": "凶猛的狼守在森林边，表现 savage。",
+    "sentence": "A savage wolf guarded the quiet forest.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet forest edge beneath a cloudy sky",
+      "actor": "One fierce wolf stands alert at the forest edge, baring its teeth but not attacking",
+      "props": [
+        "one wolf",
+        "one forest edge",
+        "one cloudy sky"
+      ],
+      "beats": [
+        "The wolf steps from the trees",
+        "It bares its teeth fiercely",
+        "It guards the forest without attacking"
+      ],
+      "ending": "One savage wolf stands guard at the forest edge."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one fierce but uninjured wolf at the edge of a quiet forest. No attack, blood, other animals, people, weapons, or text.",
+    "imageFile": "kyc-1728.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1729",
+    "serial": 4260,
+    "frequency": 8,
+    "word": "surveillance",
+    "targetSense": "监视",
+    "alt": "",
+    "anchor": "camera",
+    "anchorMeaning": "摄像机",
+    "relation": "摄像头持续观察安静走廊，表现 surveillance。",
+    "sentence": "A surveillance camera watched the quiet hallway.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet empty hallway with one security camera mounted high",
+      "actor": "One security camera silently monitors the empty corridor",
+      "props": [
+        "one security camera",
+        "one empty hallway",
+        "one ceiling"
+      ],
+      "beats": [
+        "The hallway stays empty",
+        "The camera points down the corridor",
+        "The camera continuously monitors the space"
+      ],
+      "ending": "One surveillance camera watches an empty hallway."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one small security camera mounted high in one empty hallway. No monitors, screens, people, signs, logos, writing, numbers, or text.",
+    "imageFile": "kyc-1729.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1730",
+    "serial": 4261,
+    "frequency": 8,
+    "word": "transient",
+    "targetSense": "短暂的",
+    "alt": "",
+    "anchor": "bubble",
+    "anchorMeaning": "气泡",
+    "relation": "短暂的肥皂泡转眼消失，表现 transient。",
+    "sentence": "The transient soap bubble vanished after a moment.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple sunny garden with a plain pale sky",
+      "actor": "One delicate soap bubble is just bursting above one child’s open hand, leaving only a broken iridescent arc",
+      "props": [
+        "one bursting soap bubble",
+        "one child",
+        "one garden"
+      ],
+      "beats": [
+        "One bubble floats above the child’s hand",
+        "Its thin surface begins to break",
+        "The transient bubble pops and disappears"
+      ],
+      "ending": "One transient soap bubble pops above a child’s hand."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one soap bubble just bursting, partly dissolved into a small broken arc above one child’s hand. No other bubbles, sparkles, motion lines, speech bubbles, symbols, or text.",
+    "imageFile": "kyc-1730.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1731",
+    "serial": 4262,
+    "frequency": 8,
+    "word": "abrupt",
+    "targetSense": "突然的；陡峭的",
+    "alt": "",
+    "anchor": "brake",
+    "anchorMeaning": "刹车",
+    "relation": "司机猛踩刹车使车突然停下，表现 abrupt。",
+    "sentence": "The driver made an abrupt stop and pressed the brake.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet empty road with no traffic or signs",
+      "actor": "One driver has just pressed the brake and brought one small car to a sudden safe stop; the driver leans forward from the abrupt halt",
+      "props": [
+        "one driver",
+        "one small car",
+        "one empty road"
+      ],
+      "beats": [
+        "The car moves along the quiet road",
+        "The driver presses the brake suddenly",
+        "The car stops at once with the driver leaning forward"
+      ],
+      "ending": "One car makes an abrupt stop on an empty road."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one car already stopped suddenly but safely on an empty road, with the driver leaning forward from the sudden halt and one foot pressed on the brake pedal. No collision, other people, traffic, speed lines, signs, logos, or text.",
+    "imageFile": "kyc-1731.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1732",
+    "serial": 4263,
+    "frequency": 8,
+    "word": "affiliate",
+    "targetSense": "使附属；附属机构",
+    "alt": "",
+    "anchor": "library",
+    "anchorMeaning": "图书馆",
+    "relation": "小型图书馆成为大型图书馆的附属分馆，表现 affiliate。",
+    "sentence": "The small library became an affiliate of the larger library.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet town with one small unmarked library building beside one larger unmarked library",
+      "actor": "One small local library is formally connected to one larger library by a simple path",
+      "props": [
+        "one small library",
+        "one larger library",
+        "one connecting path"
+      ],
+      "beats": [
+        "The small library stands nearby",
+        "A path visibly links it to the larger library",
+        "The small branch becomes an affiliate of the larger library"
+      ],
+      "ending": "One small library becomes an affiliate of a larger library."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；图书馆分馆与大型馆的关系表达 affiliate。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one small local library connected to one larger library by a simple walkway. Keep both buildings plain and completely unmarked. No crosses, medical symbols, crests, flags, signs, logos, letters, names, or text.",
+    "imageFile": "kyc-1732.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1733",
+    "serial": 4264,
+    "frequency": 8,
+    "word": "align",
+    "targetSense": "调整、排列",
+    "alt": "",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "她把书排成一条直线，表现 align。",
+    "sentence": "She will align the books in one straight row.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study table against a plain wall",
+      "actor": "One woman carefully lines several books up edge to edge in one straight row",
+      "props": [
+        "one woman",
+        "several books",
+        "one study table"
+      ],
+      "beats": [
+        "The books lie unevenly",
+        "She moves each book into line",
+        "The book edges become perfectly aligned"
+      ],
+      "ending": "One woman aligns the books in a straight row."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；align 与书本排成直线的画面对应清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman aligning several blank-cover books in one straight row on a table. No titles, letters, numbers, symbols, labels, or text.",
+    "imageFile": "kyc-1733.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1734",
+    "serial": 4265,
+    "frequency": 8,
+    "word": "assault",
+    "targetSense": "攻击",
+    "alt": "",
+    "anchor": "fist",
+    "anchorMeaning": "拳头",
+    "relation": "男子挥起拳头把争吵升级为攻击，表现 assault。",
+    "sentence": "His raised fist turned the angry argument into an assault.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple park path with a plain background",
+      "actor": "One angry man raises one fist toward one neighbor, who steps back before any contact",
+      "props": [
+        "one angry man",
+        "one neighbor",
+        "one raised fist"
+      ],
+      "beats": [
+        "The two neighbors argue",
+        "One man raises a fist threateningly",
+        "The other steps away before anyone is hurt"
+      ],
+      "ending": "One raised fist turns an argument into an assault."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two adults in a non-graphic threatening moment, with one raised fist and the other person stepping back. No contact, injuries, blood, weapons, extra people, or text.",
+    "imageFile": "kyc-1734.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1735",
+    "serial": 4266,
+    "frequency": 8,
+    "word": "beginning",
+    "targetSense": "开始",
+    "alt": "",
+    "anchor": "seed",
+    "anchorMeaning": "种子",
+    "relation": "种子萌发标志着新植物的开始，表现 beginning。",
+    "sentence": "The seed marked the beginning of a new plant.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A close view of one small patch of dark soil",
+      "actor": "One tiny seed begins to sprout with a small green shoot emerging",
+      "props": [
+        "one seed",
+        "one small shoot",
+        "one patch of soil"
+      ],
+      "beats": [
+        "The seed rests in the soil",
+        "A green shoot emerges",
+        "The new plant begins to grow"
+      ],
+      "ending": "One seed marks the beginning of a new plant."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one seed beginning to sprout from one small patch of soil. No other seeds, plants, pots, labels, or text.",
+    "imageFile": "kyc-1735.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1736",
+    "serial": 4267,
+    "frequency": 8,
+    "word": "conjunction",
+    "targetSense": "结合",
+    "alt": "",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "河流与海水交汇融合，表现 conjunction。",
+    "sentence": "The conjunction of river and sea created one broad estuary.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet coastline where one river meets the sea",
+      "actor": "One river flows directly into the open sea at a broad estuary",
+      "props": [
+        "one river",
+        "one sea",
+        "one estuary"
+      ],
+      "beats": [
+        "The river approaches the coast",
+        "Fresh water meets the sea",
+        "The two waters flow together into one estuary"
+      ],
+      "ending": "A river and the sea join at one broad estuary."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one river visibly meeting one sea at a natural estuary. No maps, arrows, labels, boats, people, or text.",
+    "imageFile": "kyc-1736.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1737",
+    "serial": 4268,
+    "frequency": 8,
+    "word": "consolidate",
+    "targetSense": "巩固、统一",
+    "alt": "",
+    "anchor": "stack",
+    "anchorMeaning": "一叠；堆",
+    "relation": "她把散落的文件整理成一叠，表现 consolidate。",
+    "sentence": "She will consolidate the loose papers into one neat stack.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy desk against a plain pale background",
+      "actor": "One woman places the last loose blank sheet onto exactly one neat stack of papers",
+      "props": [
+        "one woman",
+        "several blank sheets",
+        "one single paper stack"
+      ],
+      "beats": [
+        "The blank sheets are gathered together",
+        "She places one final sheet on top",
+        "All papers form one compact stack"
+      ],
+      "ending": "One woman consolidates loose papers into one neat stack."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；consolidate 与纸张归为一叠的场景对应清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman finishing exactly one compact stack of blank papers, holding one loose sheet over it. There must be only one stack, no scattered sheets on the desk, no second piles, and no writing, letters, numbers, logos, or text.",
+    "imageFile": "kyc-1737.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1738",
+    "serial": 4269,
+    "frequency": 8,
+    "word": "counsel",
+    "targetSense": "建议",
+    "alt": "",
+    "anchor": "student",
+    "anchorMeaning": "学生",
+    "relation": "顾问向担忧的学生提供建议，表现 counsel。",
+    "sentence": "The counselor offered quiet counsel to a worried student.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet counseling room with a plain wall",
+      "actor": "One counselor offers calm advice to one worried student",
+      "props": [
+        "one counselor",
+        "one student",
+        "one quiet room"
+      ],
+      "beats": [
+        "The student explains a concern",
+        "The counselor listens carefully",
+        "The counselor offers thoughtful counsel"
+      ],
+      "ending": "One counselor advises one worried student."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two people in a calm supportive conversation, with the counselor offering advice to a worried student. No speech bubbles, signs, writing, or text.",
+    "imageFile": "kyc-1738.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1739",
+    "serial": 4271,
+    "frequency": 8,
+    "word": "genre",
+    "targetSense": "类型",
+    "alt": "",
+    "anchor": "shelf",
+    "anchorMeaning": "架子；书架",
+    "relation": "她按不同类型把书整理到书架上，表现 genre。",
+    "sentence": "She sorted the books by genre on one shelf.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet library aisle with one long bookshelf",
+      "actor": "One woman sorts blank books into three distinct groups on one shelf, with each group marked only by different simple cover illustrations",
+      "props": [
+        "one woman",
+        "several blank books",
+        "one shelf with grouped books"
+      ],
+      "beats": [
+        "The books begin mixed together",
+        "She sorts books with similar cover themes into groups",
+        "Three distinct genres appear on the shelf"
+      ],
+      "ending": "One woman sorts books into clear genre groups on one shelf."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman sorting several books into three distinct groups on one shelf. Distinguish the groups only by simple nonverbal cover illustrations such as landscapes, animals, and space scenes. No words, labels, letters, numbers, logos, or signs.",
+    "imageFile": "kyc-1739.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1740",
+    "serial": 4273,
+    "frequency": 8,
+    "word": "overhead",
+    "targetSense": "在头顶上；在空中",
+    "alt": "",
+    "anchor": "bird",
+    "anchorMeaning": "鸟",
+    "relation": "鸟在头顶上方的空中盘旋，表现 overhead。",
+    "sentence": "A bird circled overhead above the quiet field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet open field under a pale sky",
+      "actor": "One small bird circles high overhead above the empty field",
+      "props": [
+        "one bird",
+        "one open field",
+        "one pale sky"
+      ],
+      "beats": [
+        "The field remains quiet",
+        "One bird rises high above it",
+        "The bird circles overhead"
+      ],
+      "ending": "One bird circles overhead above the field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one bird flying high over one open field. No other birds, airplanes, people, signs, or text.",
+    "imageFile": "kyc-1740.webp",
+    "imageError": null
+  }
+]

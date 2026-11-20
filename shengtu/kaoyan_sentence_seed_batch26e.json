@@ -1,0 +1,762 @@
+[
+  {
+    "word": "detach",
+    "anchor": "leaf",
+    "anchorMeaning": "叶子",
+    "relation": "To detach means to separate something from what it is joined to and a leaf can be detached from a stem.",
+    "sentence": "She can detach one leaf from the stem to inspect it.",
+    "scene": {
+      "setting": "A small potted plant on a table",
+      "actor": "One woman shown in a clear front three-quarter view with both arms and hands fully visible; one hand holds up a single detached leaf beside the stem while the other hand steadies the plant stem",
+      "props": [
+        "potted plant",
+        "single detached leaf",
+        "wooden table"
+      ],
+      "beats": [
+        "She steadies the stem",
+        "She detaches one leaf",
+        "She holds up that single separated leaf for inspection"
+      ],
+      "ending": "One detached leaf is held beside the plant while the other hand steadies its stem"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To detach means to separate something from what it is joined to and a leaf can be detached from a stem. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show exactly one detached leaf and no other loose leaves; both arms and hands are fully visible and connected; no extra leaf on the table and no text."
+  },
+  {
+    "word": "durable",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "Durable means able to last a long time and a stone bridge can endure harsh weather.",
+    "sentence": "The durable stone bridge survived the winter flood.",
+    "scene": {
+      "setting": "A river valley after a flood",
+      "actor": "No people; one stone bridge remains standing above receding floodwater",
+      "props": [
+        "stone bridge",
+        "river water",
+        "plain fallen branch"
+      ],
+      "beats": [
+        "Floodwater passes beneath the bridge",
+        "The structure remains intact",
+        "The durable stone bridge survives"
+      ],
+      "ending": "An intact stone bridge stands over the receding river"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Durable means able to last a long time and a stone bridge can endure harsh weather. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs, numbers, or extra bridges."
+  },
+  {
+    "word": "partial",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "Partial means incomplete or affecting only part of something and a repair to one section of a fence shows this clearly.",
+    "sentence": "The carpenter made a partial repair to the fence, fixing one broken section.",
+    "scene": {
+      "setting": "A backyard beside a wooden fence",
+      "actor": "One carpenter fixes only one broken section while other sections remain damaged",
+      "props": [
+        "wooden fence",
+        "single repair board",
+        "plain hammer"
+      ],
+      "beats": [
+        "The carpenter finds one broken section",
+        "She fixes that part only",
+        "The partial repair leaves other sections unfinished"
+      ],
+      "ending": "One section of the fence is repaired while the rest remains broken"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Partial means incomplete or affecting only part of something and a repair to one section of a fence shows this clearly. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One carpenter only and no labels or writing."
+  },
+  {
+    "word": "predator",
+    "anchor": "rabbit",
+    "anchorMeaning": "兔子",
+    "relation": "A predator hunts other animals for food and a fox watching a rabbit shows that relationship.",
+    "sentence": "The fox, a predator, watched a rabbit from the grass.",
+    "scene": {
+      "setting": "A grassy woodland edge",
+      "actor": "One fox quietly watches one rabbit from behind the grass",
+      "props": [
+        "single fox",
+        "single rabbit",
+        "tall grass"
+      ],
+      "beats": [
+        "The rabbit pauses in the clearing",
+        "The fox watches quietly",
+        "The predator stalks its prey"
+      ],
+      "ending": "One fox watches one rabbit from the grass"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A predator hunts other animals for food and a fox watching a rabbit shows that relationship. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One fox with four legs and one rabbit with four legs; no extra animals."
+  },
+  {
+    "word": "mend",
+    "anchor": "needle",
+    "anchorMeaning": "针",
+    "relation": "To mend means to repair torn cloth and a needle is a familiar tool for sewing it.",
+    "sentence": "She used a needle to mend the tear in her coat.",
+    "scene": {
+      "setting": "A simple sewing corner",
+      "actor": "One woman stitches a tear in her coat with a needle and thread",
+      "props": [
+        "plain coat with one tear",
+        "sewing needle",
+        "thread spool"
+      ],
+      "beats": [
+        "She notices the tear",
+        "She sews the fabric with the needle",
+        "She mends the coat"
+      ],
+      "ending": "One woman repairs the torn coat by hand"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To mend means to repair torn cloth and a needle is a familiar tool for sewing it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No writing or extra hands; show clear arm-to-hand connections."
+  },
+  {
+    "word": "progressive",
+    "anchor": "step",
+    "anchorMeaning": "台阶",
+    "relation": "Progressive describes gradual development and adding one small step at a time shows steady progress.",
+    "sentence": "The progressive training plan added one small step at a time.",
+    "scene": {
+      "setting": "A low outdoor training course",
+      "actor": "One athlete climbs a short series of low steps during gradual training",
+      "props": [
+        "low training steps",
+        "plain water bottle",
+        "running shoe"
+      ],
+      "beats": [
+        "The athlete begins at the lowest step",
+        "She moves up one step at a time",
+        "The progressive training builds gradually"
+      ],
+      "ending": "One athlete climbs the low steps one at a time"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Progressive describes gradual development and adding one small step at a time shows steady progress. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No numbers, signs, or extra people."
+  },
+  {
+    "word": "ratio",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "relation": "A ratio compares the amounts of two things and a bowl with two red beads for each blue bead makes that comparison visible.",
+    "sentence": "The ratio of red to blue beads in the bowl was two to one.",
+    "scene": {
+      "setting": "A plain counting table",
+      "actor": "No people; one bowl holds exactly two red beads and one blue bead",
+      "props": [
+        "single plain bowl",
+        "exactly two red beads",
+        "exactly one blue bead"
+      ],
+      "beats": [
+        "The red and blue beads sit together",
+        "The red beads are counted against the blue bead",
+        "Their ratio is two to one"
+      ],
+      "ending": "One bowl contains two red beads and one blue bead"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A ratio compares the amounts of two things and a bowl with two red beads for each blue bead makes that comparison visible. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two red beads and one blue bead only; no numerals or extra beads."
+  },
+  {
+    "word": "tactic",
+    "anchor": "bait",
+    "anchorMeaning": "鱼饵",
+    "relation": "A tactic is a planned method and placing bait in the right spot is a simple fishing tactic.",
+    "sentence": "Her tactic for catching fish was to place bait beside the reeds.",
+    "scene": {
+      "setting": "A quiet pond edge",
+      "actor": "One fisher places bait near reeds before casting a fishing line",
+      "props": [
+        "plain bait",
+        "fishing rod",
+        "pond reeds"
+      ],
+      "beats": [
+        "The fisher studies the pond edge",
+        "She places bait beside the reeds",
+        "Her tactic is ready for catching fish"
+      ],
+      "ending": "One fisher sets bait beside the reeds"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A tactic is a planned method and placing bait in the right spot is a simple fishing tactic. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One person only and no fish labels or text."
+  },
+  {
+    "word": "constrain",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "To constrain means to limit movement and a fence keeps a sheep within one field.",
+    "sentence": "A fence can constrain a sheep to one green field.",
+    "scene": {
+      "setting": "A grassy field enclosed by a simple fence",
+      "actor": "One sheep stays inside a fenced field",
+      "props": [
+        "plain wooden fence",
+        "single sheep",
+        "green field"
+      ],
+      "beats": [
+        "The sheep approaches the fence",
+        "It turns back within the boundary",
+        "The fence constrains where it can go"
+      ],
+      "ending": "One sheep stands inside the fenced field"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To constrain means to limit movement and a fence keeps a sheep within one field. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One sheep only with four legs and no extra animals."
+  },
+  {
+    "word": "prone",
+    "anchor": "grass",
+    "anchorMeaning": "草地",
+    "relation": "Prone can mean lying flat on the stomach and grass is a familiar place to lie down.",
+    "sentence": "The scout lay prone on the grass to watch a butterfly nearby.",
+    "scene": {
+      "setting": "A quiet meadow",
+      "actor": "One scout lies flat on their stomach in the grass watching one butterfly",
+      "props": [
+        "soft grass",
+        "single butterfly",
+        "plain backpack"
+      ],
+      "beats": [
+        "The scout lowers to the ground",
+        "They lie prone on the grass",
+        "They watch the butterfly without moving"
+      ],
+      "ending": "One scout lies prone while one butterfly hovers nearby"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Prone can mean lying flat on the stomach and grass is a familiar place to lie down. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One person with two arms and two legs; no extra people."
+  },
+  {
+    "word": "cooperative",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "Cooperative means willing to work together and carrying one table together shows cooperation.",
+    "sentence": "The cooperative neighbors carried a table together.",
+    "scene": {
+      "setting": "A garden path beside a small house",
+      "actor": "Exactly two neighbors carry one table together",
+      "props": [
+        "wooden table",
+        "garden path",
+        "small potted plant"
+      ],
+      "beats": [
+        "The neighbors take opposite ends",
+        "They lift together",
+        "Their cooperative effort moves the table"
+      ],
+      "ending": "Two neighbors carry one table together"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Cooperative means willing to work together and carrying one table together shows cooperation. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and one table only."
+  },
+  {
+    "word": "depart",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "To depart means to leave a place and a train pulling away from a station makes the action clear.",
+    "sentence": "The train began to depart from the station at dawn.",
+    "scene": {
+      "setting": "A quiet station platform at dawn",
+      "actor": "No people; one train begins moving away from a plain platform",
+      "props": [
+        "single train",
+        "empty platform",
+        "soft dawn sky"
+      ],
+      "beats": [
+        "The train waits at the platform",
+        "It begins to move",
+        "It departs into the dawn"
+      ],
+      "ending": "One train leaves the station platform"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To depart means to leave a place and a train pulling away from a station makes the action clear. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No signs, route numbers, or text."
+  },
+  {
+    "word": "endurance",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "Endurance is the ability to keep going through difficulty and a long race tests it.",
+    "sentence": "Her endurance carried her through the race even as another runner stopped to rest.",
+    "scene": {
+      "setting": "A quiet running track near the finish",
+      "actor": "Exactly two runners remain on the track as one continues and the other rests",
+      "props": [
+        "running track",
+        "plain water bottle",
+        "two pairs of running shoes"
+      ],
+      "beats": [
+        "Both runners approach the finish",
+        "One stops to rest",
+        "The other keeps going with endurance"
+      ],
+      "ending": "One runner continues while the other rests beside the track"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Endurance is the ability to keep going through difficulty and a long race tests it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two runners and no lane numbers or signs."
+  },
+  {
+    "word": "glimpse",
+    "anchor": "deer",
+    "anchorMeaning": "鹿",
+    "relation": "A glimpse is a brief look and seeing a deer only partly through a window illustrates it.",
+    "sentence": "She caught a glimpse of the deer through the window.",
+    "scene": {
+      "setting": "A cottage room overlooking a forest",
+      "actor": "One girl looks through a window at one deer partly hidden by bushes",
+      "props": [
+        "plain window",
+        "single deer",
+        "forest bushes"
+      ],
+      "beats": [
+        "The girl glances outside",
+        "The deer appears briefly between bushes",
+        "She catches a glimpse before it moves away"
+      ],
+      "ending": "One girl sees a partly hidden deer through the window"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A glimpse is a brief look and seeing a deer only partly through a window illustrates it. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One girl and one deer only with no text."
+  },
+  {
+    "word": "grandmother",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "A grandmother is an older family member who cares for or spends time with a child.",
+    "sentence": "The grandmother read a story to the child beside the fireplace.",
+    "scene": {
+      "setting": "A cozy family room",
+      "actor": "One silver-haired elderly grandmother reads a story to one child beside the fireplace",
+      "props": [
+        "plain open book with blank pages",
+        "wooden chair",
+        "small fireplace"
+      ],
+      "beats": [
+        "The child sits beside the elderly woman",
+        "She shares a story",
+        "Their family bond identifies her as the grandmother"
+      ],
+      "ending": "An elderly grandmother reads beside the child by the fire"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A grandmother is an older family member who cares for or spends time with a child. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and blank book pages with no text."
+  },
+  {
+    "word": "probe",
+    "anchor": "hole",
+    "anchorMeaning": "洞",
+    "relation": "A probe is a tool used to explore or measure something and can test the depth of a hole.",
+    "sentence": "The geologist used a long probe to test the depth of the narrow hole.",
+    "scene": {
+      "setting": "A rocky field with one narrow test hole",
+      "actor": "One geologist lowers a long plain probe into a narrow hole",
+      "props": [
+        "long plain probe",
+        "narrow ground hole",
+        "small rock sample"
+      ],
+      "beats": [
+        "The geologist finds the hole",
+        "She lowers the probe",
+        "She tests its depth"
+      ],
+      "ending": "One geologist probes the narrow hole"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A probe is a tool used to explore or measure something and can test the depth of a hole. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No measuring marks, numbers, signs, or text."
+  },
+  {
+    "word": "scrutiny",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "Scrutiny is very close examination and inspecting a cup for a crack is a clear example.",
+    "sentence": "Under close scrutiny, the inspector found a crack in the cup.",
+    "scene": {
+      "setting": "A quiet inspection table",
+      "actor": "One inspector examines one cup closely with a magnifying glass",
+      "props": [
+        "plain cup",
+        "small magnifying glass",
+        "wooden table"
+      ],
+      "beats": [
+        "The inspector turns the cup",
+        "She looks closely through the glass",
+        "Her scrutiny reveals a small crack"
+      ],
+      "ending": "One inspector studies a cracked cup through a magnifier"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Scrutiny is very close examination and inspecting a cup for a crack is a clear example. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No writing or logos on the cup."
+  },
+  {
+    "word": "shortcoming",
+    "anchor": "shoe",
+    "anchorMeaning": "鞋",
+    "relation": "A shortcoming is a weakness or defect and a thin shoe sole is an easy example to see.",
+    "sentence": "The shoe's main shortcoming was its thin sole.",
+    "scene": {
+      "setting": "A simple shoe repair bench",
+      "actor": "One cobbler examines one shoe with a visibly thin sole",
+      "props": [
+        "single plain shoe",
+        "wooden bench",
+        "small repair tool"
+      ],
+      "beats": [
+        "The cobbler turns the shoe over",
+        "She notices the thin sole",
+        "The shortcoming is clear"
+      ],
+      "ending": "One shoe rests sole-up beside the repair tool"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A shortcoming is a weakness or defect and a thin shoe sole is an easy example to see. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No brand marks, labels, or text."
+  },
+  {
+    "word": "subordinate",
+    "anchor": "boss",
+    "anchorMeaning": "老板",
+    "relation": "A subordinate is a worker with a lower rank who reports to a boss.",
+    "sentence": "The subordinate reported to the boss before starting the work.",
+    "scene": {
+      "setting": "A plain office doorway",
+      "actor": "One subordinate stands respectfully before one boss holding a blank folder",
+      "props": [
+        "blank folder",
+        "plain desk",
+        "two simple chairs"
+      ],
+      "beats": [
+        "The subordinate approaches the boss",
+        "They report before work begins",
+        "Their positions show the subordinate relationship"
+      ],
+      "ending": "One worker reports to the boss in a plain office"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A subordinate is a worker with a lower rank who reports to a boss. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no labels, signs, or writing."
+  },
+  {
+    "word": "expenditure",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "Expenditure is money spent and counting coins at a market makes the spending concrete.",
+    "sentence": "The shopper tracked her food expenditure by counting coins at the market.",
+    "scene": {
+      "setting": "A small outdoor market stall",
+      "actor": "One shopper counts several coins beside a basket of vegetables",
+      "props": [
+        "plain coins",
+        "vegetable basket",
+        "market table"
+      ],
+      "beats": [
+        "The shopper chooses food",
+        "She counts the coins spent",
+        "The total represents the food expenditure"
+      ],
+      "ending": "One shopper counts coins beside the groceries"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Expenditure is money spent and counting coins at a market makes the spending concrete. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No price tags, signs, numbers, or text."
+  }
+]

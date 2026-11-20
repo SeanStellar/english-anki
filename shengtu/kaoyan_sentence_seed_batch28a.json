@@ -1,0 +1,762 @@
+[
+  {
+    "word": "conviction",
+    "anchor": "gavel",
+    "anchorMeaning": "木槌",
+    "relation": "A court conviction follows evidence and a judge's decision.",
+    "sentence": "The judge announced the man's conviction as the gavel fell.",
+    "scene": {
+      "setting": "A small quiet courtroom",
+      "actor": "One judge faces one defendant at the plain bench",
+      "props": [
+        "single plain gavel",
+        "wooden bench",
+        "blank paper"
+      ],
+      "beats": [
+        "The judge reviews the evidence",
+        "She raises the gavel",
+        "She announces the conviction"
+      ],
+      "ending": "A judge pronounces a conviction from the bench"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A court conviction follows evidence and a judge's decision. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text, scales, badges, signs, or labels."
+  },
+  {
+    "word": "eyesight",
+    "anchor": "glasses",
+    "anchorMeaning": "眼镜",
+    "relation": "Glasses can help someone see clearly when their eyesight is weak.",
+    "sentence": "Her eyesight improved when she put on her glasses.",
+    "scene": {
+      "setting": "A bright reading corner",
+      "actor": "One woman puts on simple glasses and looks at a flower through the window",
+      "props": [
+        "plain glasses",
+        "small flower",
+        "clear window"
+      ],
+      "beats": [
+        "She notices the flower",
+        "She puts on her glasses",
+        "The flower comes into clear view"
+      ],
+      "ending": "A woman sees a flower clearly through her glasses"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Glasses can help someone see clearly when their eyesight is weak. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letters or writing on any surface."
+  },
+  {
+    "word": "fragment",
+    "anchor": "vase",
+    "anchorMeaning": "花瓶碎片",
+    "relation": "A single piece that breaks away from an object is a fragment.",
+    "sentence": "One fragment broke away from the blue vase and rests beside it.",
+    "scene": {
+      "setting": "A simple table by a window",
+      "actor": "One blue ceramic vase has exactly one large curved fragment broken away; that single fragment rests beside the vase on the table.",
+      "props": [
+        "single blue vase",
+        "one large fragment",
+        "wooden table"
+      ],
+      "beats": [
+        "The blue vase breaks at one large section",
+        "One curved fragment separates from it",
+        "The single fragment lies beside the remaining vase"
+      ],
+      "ending": "A blue vase and exactly one detached large fragment sit on the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “One fragment broke away from the blue vase and rests beside it.” The picture shows exactly one detached fragment."
+    },
+    "artDirection": "Show only two ceramic pieces: one remaining blue vase and one large curved fragment beside it. The vase has one clean broken edge that matches the single fragment. Use a bare wooden tabletop. No tiny chips, extra shards, crumbs, labels, or text."
+  },
+  {
+    "word": "operational",
+    "anchor": "pump",
+    "anchorMeaning": "水泵",
+    "relation": "A machine is operational when it is ready and able to work.",
+    "sentence": "The pump became operational after the mechanic turned the crank.",
+    "scene": {
+      "setting": "A plain garden shed",
+      "actor": "One mechanic turns a crank on one working water pump",
+      "props": [
+        "single water pump",
+        "plain crank",
+        "empty bucket"
+      ],
+      "beats": [
+        "The mechanic checks the pump",
+        "She turns the crank",
+        "Water flows into the bucket"
+      ],
+      "ending": "A working pump fills a bucket"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A machine is operational when it is ready and able to work. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, gauges, text, or logos."
+  },
+  {
+    "word": "telegraph",
+    "anchor": "wire",
+    "anchorMeaning": "电线",
+    "relation": "A telegraph sends coded messages over a wire.",
+    "sentence": "The telegraph sent a message along a wire to the station.",
+    "scene": {
+      "setting": "A quiet old station room",
+      "actor": "One telegraph key connects by a single wire to a plain receiver",
+      "props": [
+        "telegraph key",
+        "single wire",
+        "plain receiver"
+      ],
+      "beats": [
+        "The sender taps the key",
+        "The signal travels along the wire",
+        "The receiver responds"
+      ],
+      "ending": "A telegraph key connects to a receiver by wire"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A telegraph sends coded messages over a wire. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letters, dots, symbols, numbers, or text."
+  },
+  {
+    "word": "absurd",
+    "anchor": "flowerpot",
+    "anchorMeaning": "花盆",
+    "relation": "Something absurd is so unreasonable or ridiculous that it seems silly.",
+    "sentence": "It looked absurd when he wore a flowerpot as a hat in the rain.",
+    "scene": {
+      "setting": "A quiet garden path in light rain",
+      "actor": "One person wears a small flowerpot upside down as a hat and looks surprised",
+      "props": [
+        "plain flowerpot",
+        "simple raincoat",
+        "wet garden path"
+      ],
+      "beats": [
+        "Rain begins",
+        "He puts the flowerpot on his head",
+        "He notices how absurd it looks"
+      ],
+      "ending": "A person wears a flowerpot as a silly hat"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Something absurd is so unreasonable or ridiculous that it seems silly. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, text, or extra people."
+  },
+  {
+    "word": "anonymous",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "An anonymous gift has no known giver.",
+    "sentence": "An anonymous neighbor left a basket of pears at the door.",
+    "scene": {
+      "setting": "A quiet cottage doorway",
+      "actor": "No people; one fruit basket sits at the doorstep with no giver in view",
+      "props": [
+        "basket of pears",
+        "plain doorstep",
+        "closed wooden door"
+      ],
+      "beats": [
+        "The empty doorstep is seen",
+        "A basket appears there",
+        "No giver is visible"
+      ],
+      "ending": "An unclaimed basket of pears by a door"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An anonymous gift has no known giver. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No note, writing, labels, or people."
+  },
+  {
+    "word": "descendant",
+    "anchor": "portrait",
+    "anchorMeaning": "肖像",
+    "relation": "A descendant is someone born into a later generation of a family.",
+    "sentence": "The young descendant carried her grandmother's portrait into the garden.",
+    "scene": {
+      "setting": "A quiet family garden",
+      "actor": "One young woman holds an old portrait of her grandmother beside a family tree",
+      "props": [
+        "plain framed portrait",
+        "small tree",
+        "garden bench"
+      ],
+      "beats": [
+        "She takes the portrait outside",
+        "She stands beside the tree",
+        "The descendant looks at her grandmother's image"
+      ],
+      "ending": "A young descendant holds her grandmother's portrait"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A descendant is someone born into a later generation of a family. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No written names or dates."
+  },
+  {
+    "word": "downward",
+    "anchor": "leaf",
+    "anchorMeaning": "树叶",
+    "relation": "A leaf moving from a high branch toward the ground travels downward.",
+    "sentence": "The leaf drifted downward from the branch through the air.",
+    "scene": {
+      "setting": "A calm garden path",
+      "actor": "Exactly one large detached leaf is suspended in midair below the branch and above the path, visibly moving toward the ground; no other detached or fallen leaf appears.",
+      "props": [
+        "single leaf",
+        "tree branch",
+        "garden path"
+      ],
+      "beats": [
+        "One leaf separates from the high branch",
+        "The same single leaf drifts through the air",
+        "It moves downward toward the path"
+      ],
+      "ending": "One leaf in midair travels downward toward the path"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The leaf drifted downward from the branch through the air.” The picture shows one leaf in midair."
+    },
+    "artDirection": "Show exactly one detached foreground leaf suspended between the branch and the path. Keep it clearly above the ground. Do not show any second detached leaf, fallen leaf on the path, arrows, motion symbols, or text. Background tree foliage may remain attached to branches."
+  },
+  {
+    "word": "embarrass",
+    "anchor": "juice",
+    "anchorMeaning": "果汁",
+    "relation": "To embarrass someone is to make them feel awkward or self-conscious.",
+    "sentence": "The spilled juice began to embarrass him in front of his friends.",
+    "scene": {
+      "setting": "A picnic table in a park",
+      "actor": "One child looks embarrassed beside a spilled cup of juice while one friend notices",
+      "props": [
+        "plain juice cup",
+        "small spill",
+        "wooden table"
+      ],
+      "beats": [
+        "The cup tips",
+        "Juice spills",
+        "The child blushes as a friend looks over"
+      ],
+      "ending": "A child blushes beside spilled juice"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To embarrass someone is to make them feel awkward or self-conscious. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or speech bubbles."
+  },
+  {
+    "word": "probability",
+    "anchor": "marble",
+    "anchorMeaning": "弹珠",
+    "relation": "Probability describes how likely an event is to happen.",
+    "sentence": "The probability of drawing a blue marble was high because most marbles in the jar were blue.",
+    "scene": {
+      "setting": "A plain tabletop",
+      "actor": "One hand draws a blue marble from a clear jar mostly filled with blue marbles",
+      "props": [
+        "clear marble jar",
+        "blue marbles",
+        "single red marble"
+      ],
+      "beats": [
+        "The jar is shown",
+        "A hand reaches in",
+        "A blue marble is drawn"
+      ],
+      "ending": "A blue marble is drawn from a mostly blue jar"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Probability describes how likely an event is to happen. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show a small visible mix with many blue marbles and only a few red ones; no labels or numbers."
+  },
+  {
+    "word": "scenery",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "Scenery is the natural view seen from a place.",
+    "sentence": "The scenery beyond the train window filled the whole valley.",
+    "scene": {
+      "setting": "A train seat beside a broad window",
+      "actor": "One traveler looks through the window at a mountain valley",
+      "props": [
+        "plain train window",
+        "mountain valley",
+        "empty seat"
+      ],
+      "beats": [
+        "The train passes the valley",
+        "The traveler looks out",
+        "The scenery fills the view"
+      ],
+      "ending": "A valley seen through a train window"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Scenery is the natural view seen from a place. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, labels, or text."
+  },
+  {
+    "word": "utmost",
+    "anchor": "sled",
+    "anchorMeaning": "雪橇",
+    "relation": "Utmost means the greatest possible amount or degree.",
+    "sentence": "She made her utmost effort to pull the heavy sled uphill.",
+    "scene": {
+      "setting": "A snowy slope",
+      "actor": "One person leans forward and pulls a heavy sled up a hill",
+      "props": [
+        "plain sled",
+        "thick rope",
+        "snowy slope"
+      ],
+      "beats": [
+        "She grips the rope",
+        "She pulls with utmost effort",
+        "The sled moves a little uphill"
+      ],
+      "ending": "A person strains to pull a sled uphill"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Utmost means the greatest possible amount or degree. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra people, text, or symbols."
+  },
+  {
+    "word": "whichever",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "relation": "Whichever means any one of a group of choices.",
+    "sentence": "Whichever path she chose led to the same garden gate.",
+    "scene": {
+      "setting": "A forked garden path that joins again",
+      "actor": "One child stands where two paths lead toward the same gate",
+      "props": [
+        "two plain paths",
+        "garden gate",
+        "small tree"
+      ],
+      "beats": [
+        "She studies both paths",
+        "She chooses whichever seems best",
+        "Both paths meet at the gate"
+      ],
+      "ending": "Two paths lead to one garden gate"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Whichever means any one of a group of choices. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, signs, or text."
+  },
+  {
+    "word": "bare",
+    "anchor": "snow",
+    "anchorMeaning": "雪",
+    "relation": "Bare describes something uncovered, empty, or without its usual covering.",
+    "sentence": "The bare branch stood over the snowy path.",
+    "scene": {
+      "setting": "A quiet winter garden",
+      "actor": "One leafless branch reaches over a snow-covered path",
+      "props": [
+        "bare branch",
+        "snowy path",
+        "small fence"
+      ],
+      "beats": [
+        "Leaves fall away",
+        "The branch is left bare",
+        "Snow covers the path below"
+      ],
+      "ending": "A bare branch over fresh snow"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Bare describes something uncovered, empty, or without its usual covering. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No people, writing, or labels."
+  },
+  {
+    "word": "confess",
+    "anchor": "pot",
+    "anchorMeaning": "陶罐",
+    "relation": "To confess is to admit that one has done something wrong or hidden.",
+    "sentence": "He chose to confess that he had broken the clay pot.",
+    "scene": {
+      "setting": "A quiet room with a plain blank cream wall",
+      "actor": "One child holds one cracked clay pot beside the table and honestly tells one adult what happened; the child looks remorseful and points to the crack while the adult listens calmly.",
+      "props": [
+        "single cracked clay pot",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The child notices the cracked pot",
+        "The child tells the adult honestly that he broke it",
+        "The adult listens as the child confesses"
+      ],
+      "ending": "The child presents one cracked pot to the listening adult"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To confess is to admit that one has done something wrong or hidden. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show exactly two people, one cracked clay pot, one wooden table, and two plain chairs. Keep the room bare with a blank wall. The child clearly confesses by pointing to the pot and speaking honestly to the listening adult. No shards scattered on the table, kitchen shelves, kettle, cookware, plants, pictures, labels, or text."
+  },
+  {
+    "word": "discharge",
+    "anchor": "cage",
+    "anchorMeaning": "笼子",
+    "relation": "To discharge can mean to release someone or something from confinement.",
+    "sentence": "The keeper opened the cage to discharge the rescued dove.",
+    "scene": {
+      "setting": "A quiet garden sanctuary",
+      "actor": "One keeper opens a small cage as one dove flies out",
+      "props": [
+        "plain birdcage",
+        "single dove",
+        "garden branch"
+      ],
+      "beats": [
+        "The keeper opens the door",
+        "The dove moves toward the opening",
+        "It is discharged into the garden"
+      ],
+      "ending": "A dove leaves an open cage"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To discharge can mean to release someone or something from confinement. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show one bird only; no text, tags, or labels."
+  },
+  {
+    "word": "drain",
+    "anchor": "plug",
+    "anchorMeaning": "塞子",
+    "relation": "To drain is to let liquid flow out of a container or place.",
+    "sentence": "She pulled the plug to drain the bath.",
+    "scene": {
+      "setting": "A simple tiled bathroom",
+      "actor": "One woman lifts the single plug from the bathtub drain. Bathwater forms a clear whirlpool and visibly flows down the open drain hole; the water level is lower around the drain. A separate floor drain is visible beside the tub.",
+      "props": [
+        "plain bathtub",
+        "single plug",
+        "floor drain"
+      ],
+      "beats": [
+        "The woman pulls the plug from the tub drain",
+        "Water spirals down through the open drain hole",
+        "The bath visibly drains while the floor drain remains beside the tub"
+      ],
+      "ending": "Water is visibly spiraling down the open bathtub drain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To drain is to let liquid flow out of a container or place. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show the single bathtub plug lifted in the woman’s hand and the open drain hole clearly visible in the tub. Water visibly spirals down into that hole and the bath level is lower around it. Show one separate floor drain on the bathroom floor. No bottles, labels, or text."
+  },
+  {
+    "word": "handicap",
+    "anchor": "backpack",
+    "anchorMeaning": "背包",
+    "relation": "A handicap is a difficulty that puts someone at a disadvantage.",
+    "sentence": "The heavy backpack became a handicap on the steep trail.",
+    "scene": {
+      "setting": "A steep mountain trail",
+      "actor": "One hiker struggles to climb while carrying an overfilled backpack",
+      "props": [
+        "single heavy backpack",
+        "steep trail",
+        "walking stick"
+      ],
+      "beats": [
+        "The hiker starts uphill",
+        "The heavy pack slows him",
+        "The handicap makes the climb harder"
+      ],
+      "ending": "A hiker struggles uphill under a heavy backpack"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A handicap is a difficulty that puts someone at a disadvantage. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No injury detail, signs, or text."
+  },
+  {
+    "word": "optional",
+    "anchor": "lemon",
+    "anchorMeaning": "柠檬",
+    "relation": "Something optional may be chosen but is not required.",
+    "sentence": "The lemon slice was optional, so he left it beside the tea.",
+    "scene": {
+      "setting": "A simple breakfast table",
+      "actor": "One person drinks plain tea from one cup while one whole lemon slice stays untouched on one small plate; both of the person’s hands remain away from the lemon slice.",
+      "props": [
+        "plain cup of tea",
+        "single lemon slice",
+        "small plate"
+      ],
+      "beats": [
+        "The person drinks tea without adding lemon",
+        "One whole lemon slice remains on the plate",
+        "The slice is available but not required"
+      ],
+      "ending": "The untouched lemon slice stays beside the plain tea"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Something optional may be chosen but is not required. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show exactly one cup of plain tea and one whole lemon slice resting untouched on one small plate. The person drinks the tea and keeps both hands away from the lemon. Do not show squeezing, cutting, or adding lemon; no second lemon piece, labels, or writing."
+  }
+]

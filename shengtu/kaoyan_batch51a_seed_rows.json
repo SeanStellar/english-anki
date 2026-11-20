@@ -1,0 +1,503 @@
+[
+  {
+    "id": "kyc-2361",
+    "anchor": "water",
+    "sentence": "The sun made the water sparkle.",
+    "relation": "To sparkle is to shine with many small flashes of light.",
+    "setting": "A clear pond in sunlight",
+    "actor": "No people: sunlight glitters in small flashes across one pond.",
+    "props": [
+      "one pond",
+      "one patch of sunlight",
+      "one calm water surface"
+    ],
+    "beats": [
+      "The sun reaches the pond",
+      "Light flashes across the water",
+      "The surface sparkles"
+    ],
+    "ending": "Sunlight makes the water sparkle.",
+    "artDirection": "No star icons, glitter symbols, text, or motion marks."
+  },
+  {
+    "id": "kyc-2362",
+    "anchor": "water",
+    "sentence": "The water began to stagnate in the pond.",
+    "relation": "To stagnate is to stop moving or developing, often becoming stale.",
+    "setting": "A still pond in a garden",
+    "actor": "No people: water sits unmoving in a pond with a few fallen leaves.",
+    "props": [
+      "one pond",
+      "still water",
+      "two fallen leaves"
+    ],
+    "beats": [
+      "Fresh water stops flowing",
+      "The pond remains unmoving",
+      "The water begins to stagnate"
+    ],
+    "ending": "Water stagnates in a still pond.",
+    "artDirection": "No ripples, arrows, text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2363",
+    "anchor": "cup",
+    "sentence": "The sudden news seemed to stun him, and his cup slipped from his hand.",
+    "relation": "To stun is to shock someone so much that they cannot react normally for a moment.",
+    "setting": "A quiet kitchen table",
+    "actor": "One adult reacts with shock as a plain cup slips from his hand toward the table.",
+    "props": [
+      "one adult",
+      "one plain cup",
+      "one kitchen table"
+    ],
+    "beats": [
+      "The adult hears sudden news",
+      "He is stunned",
+      "The cup slips toward the table"
+    ],
+    "ending": "Sudden news stuns a man and makes his cup slip.",
+    "artDirection": "One adult with normal anatomy and connected hands; no speech bubbles, text, or symbols."
+  },
+  {
+    "id": "kyc-2364",
+    "anchor": "tea",
+    "sentence": "The tariff raised the price of imported tea.",
+    "relation": "A tariff is a tax placed on goods brought into a country.",
+    "setting": "A small tea shop",
+    "actor": "One shopkeeper looks at a plain tea tin beside a small stack of coins after an import tax raises its price.",
+    "props": [
+      "one plain tea tin",
+      "one small stack of unmarked coins",
+      "one shop counter"
+    ],
+    "beats": [
+      "Imported tea arrives",
+      "A tariff is added",
+      "The tea costs more at the shop"
+    ],
+    "ending": "A tariff makes imported tea more expensive.",
+    "artDirection": "No currency marks, price tags, labels, writing, or symbols."
+  },
+  {
+    "id": "kyc-2365",
+    "anchor": "blanket",
+    "sentence": "A thermal blanket trapped heat on the cold night.",
+    "relation": "Thermal means related to heat or temperature.",
+    "setting": "A simple campsite at night",
+    "actor": "One camper wraps in a plain thermal blanket to stay warm.",
+    "props": [
+      "one camper",
+      "one plain blanket",
+      "one camp bed"
+    ],
+    "beats": [
+      "The night grows cold",
+      "The camper wraps in the blanket",
+      "The thermal blanket keeps warmth in"
+    ],
+    "ending": "A camper stays warm under a thermal blanket.",
+    "artDirection": "No labels, logos, letters, or symbols on the blanket or camping gear."
+  },
+  {
+    "id": "kyc-2366",
+    "anchor": "hill",
+    "sentence": "A star began to twinkle above the hill.",
+    "relation": "To twinkle is to shine with a quick, unsteady light.",
+    "setting": "A quiet hillside at night",
+    "actor": "No people: one bright star twinkles above a dark hill.",
+    "props": [
+      "one bright star",
+      "one dark hill",
+      "one night sky"
+    ],
+    "beats": [
+      "The sky darkens",
+      "A star appears above the hill",
+      "Its light twinkles gently"
+    ],
+    "ending": "A star twinkles above a hill at night.",
+    "artDirection": "One star only; no star icons, constellations, text, or symbols."
+  },
+  {
+    "id": "kyc-2367",
+    "anchor": "truck",
+    "sentence": "They had to unload the truck before dinner.",
+    "relation": "To unload is to remove goods or cargo from a vehicle or container.",
+    "setting": "A home driveway",
+    "actor": "Exactly two adults remove plain boxes from the back of one parked truck.",
+    "props": [
+      "one parked truck",
+      "two plain boxes",
+      "one driveway"
+    ],
+    "beats": [
+      "The truck arrives with cargo",
+      "The adults take out the boxes",
+      "The truck is unloaded before dinner"
+    ],
+    "ending": "Two people unload boxes from a truck.",
+    "artDirection": "Exactly two adults; boxes have no labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2368",
+    "anchor": "face",
+    "sentence": "The bride wore a veil over her face.",
+    "relation": "A veil is a thin piece of cloth worn over or around the face or head.",
+    "setting": "A quiet wedding room",
+    "actor": "One bride wears a simple sheer veil draped over her face.",
+    "props": [
+      "one bride",
+      "one sheer veil",
+      "one plain chair"
+    ],
+    "beats": [
+      "The bride prepares for the ceremony",
+      "She lowers the veil",
+      "The sheer cloth covers her face"
+    ],
+    "ending": "A bride wears a veil over her face.",
+    "artDirection": "One person only; no wedding signs, logos, text, or symbols."
+  },
+  {
+    "id": "kyc-2369",
+    "anchor": "shop",
+    "sentence": "The machine came with a warranty from the shop.",
+    "relation": "A warranty is a promise to repair or replace a product if it fails within a set period.",
+    "setting": "A small appliance shop",
+    "actor": "One shopkeeper hands a blank warranty card to one customer beside a new machine.",
+    "props": [
+      "one shopkeeper",
+      "one plain machine",
+      "one blank warranty card"
+    ],
+    "beats": [
+      "The customer buys the machine",
+      "The shopkeeper gives a warranty card",
+      "The warranty promises future repair"
+    ],
+    "ending": "A customer receives a warranty with a new machine.",
+    "artDirection": "Card must be blank with no writing, numbers, logos, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2370",
+    "anchor": "glass",
+    "sentence": "He poured whisky into a glass.",
+    "relation": "Whisky is a strong alcoholic drink commonly poured into a glass.",
+    "setting": "A quiet home table",
+    "actor": "One adult pours a small amount of whisky from a plain bottle into a clear glass.",
+    "props": [
+      "one plain bottle",
+      "one clear glass",
+      "one adult"
+    ],
+    "beats": [
+      "The glass is set down",
+      "The adult pours the whisky",
+      "The drink rests in the glass"
+    ],
+    "ending": "An adult pours whisky into a glass.",
+    "artDirection": "No bottle labels, brands, text, or logos; no extra people."
+  },
+  {
+    "id": "kyc-2371",
+    "anchor": "bread",
+    "sentence": "The wholesome meal included fresh bread and vegetables.",
+    "relation": "Wholesome describes food or activity that is good for health or well-being.",
+    "setting": "A warm kitchen table",
+    "actor": "One family member serves a balanced meal with bread and vegetables.",
+    "props": [
+      "one loaf of bread",
+      "one plate of vegetables",
+      "one dining table"
+    ],
+    "beats": [
+      "The meal is prepared",
+      "Fresh bread and vegetables are served",
+      "The wholesome meal is ready"
+    ],
+    "ending": "A wholesome meal includes bread and vegetables.",
+    "artDirection": "No food labels, writing, or symbols."
+  },
+  {
+    "id": "kyc-2372",
+    "anchor": "child",
+    "sentence": "The magician's trick will amaze the child.",
+    "relation": "To amaze is to fill someone with great surprise or wonder.",
+    "setting": "A small living room",
+    "actor": "One magician shows one child a simple surprising trick with a plain handkerchief.",
+    "props": [
+      "one magician",
+      "one child",
+      "one plain handkerchief"
+    ],
+    "beats": [
+      "The child watches closely",
+      "The magician performs the trick",
+      "The child is amazed"
+    ],
+    "ending": "A magician amazes a child with a simple trick.",
+    "artDirection": "Exactly two people; no sparkles, magic symbols, text, or extra props."
+  },
+  {
+    "id": "kyc-2373",
+    "anchor": "fish",
+    "sentence": "The fisherman put bait on the hook to catch a fish.",
+    "relation": "Bait is food or another lure placed on a hook or trap to attract an animal.",
+    "setting": "A quiet lakeside",
+    "actor": "One fisherman places a small worm bait on a plain fishing hook near the water.",
+    "props": [
+      "one fisherman",
+      "one plain fishing hook with bait",
+      "one lake"
+    ],
+    "beats": [
+      "The fisherman prepares the hook",
+      "Bait is placed on it",
+      "The hook is lowered to catch a fish"
+    ],
+    "ending": "A fisherman puts bait on a hook to catch a fish.",
+    "artDirection": "No extra fish, sharp injury, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2374",
+    "anchor": "wire",
+    "sentence": "She wound a coil of wire around the magnet.",
+    "relation": "A coil is a length of material wound into repeated circular loops.",
+    "setting": "A simple science workbench",
+    "actor": "One person winds a length of wire into a neat coil around a plain magnet.",
+    "props": [
+      "one length of wire",
+      "one plain magnet",
+      "one workbench"
+    ],
+    "beats": [
+      "The wire lies straight",
+      "It is wound into loops",
+      "The coil wraps around the magnet"
+    ],
+    "ending": "A wire coil wraps around a magnet.",
+    "artDirection": "No electrical symbols, labels, writing, or diagrams."
+  },
+  {
+    "id": "kyc-2375",
+    "anchor": "desk",
+    "sentence": "The visitor made an enquiry at the front desk.",
+    "relation": "An enquiry is a request for information or an official question.",
+    "setting": "A quiet reception area",
+    "actor": "One visitor asks one receptionist a question at a plain desk.",
+    "props": [
+      "one visitor",
+      "one receptionist",
+      "one front desk"
+    ],
+    "beats": [
+      "The visitor approaches",
+      "The visitor asks for information",
+      "The receptionist responds to the enquiry"
+    ],
+    "ending": "A visitor makes an enquiry at a front desk.",
+    "artDirection": "Exactly two people; no signs, speech bubbles, text, or labels."
+  },
+  {
+    "id": "kyc-2376",
+    "anchor": "face",
+    "sentence": "His hypocrisy hid behind a kind face.",
+    "relation": "Hypocrisy is pretending to be virtuous while acting otherwise.",
+    "setting": "A quiet room with a plain mirror",
+    "actor": "One adult gives a kind smile while the mirror shows a contrasting unkind expression.",
+    "props": [
+      "one adult",
+      "one plain mirror",
+      "one simple chair"
+    ],
+    "beats": [
+      "The adult offers a kind expression",
+      "The reflection shows the hidden contrast",
+      "The hypocrisy is revealed"
+    ],
+    "ending": "A kind-looking face hides the adult’s hypocrisy.",
+    "artDirection": "One person and one reflection only; show no mask or duplicate figure; no text, symbols, or logos."
+  },
+  {
+    "id": "kyc-2377",
+    "anchor": "wire",
+    "sentence": "The wire served as an interface between the computer and printer.",
+    "relation": "An interface is a point or means of connection between two systems or devices.",
+    "setting": "A tidy computer desk",
+    "actor": "No people: one plain wire connects a computer directly to a printer.",
+    "props": [
+      "one wire",
+      "one computer",
+      "one printer"
+    ],
+    "beats": [
+      "The computer and printer sit apart",
+      "The wire connects them",
+      "The interface lets them communicate"
+    ],
+    "ending": "A wire forms an interface between a computer and printer.",
+    "artDirection": "No screens, UI, icons, labels, text, logos, or numbers on either device."
+  },
+  {
+    "id": "kyc-2378",
+    "anchor": "cup",
+    "sentence": "She had to invert the cup to empty the water.",
+    "relation": "To invert is to turn something upside down or reverse its position.",
+    "setting": "A kitchen sink",
+    "actor": "One person turns a plain cup upside down over the sink to pour out water.",
+    "props": [
+      "one plain cup",
+      "one small amount of water",
+      "one sink"
+    ],
+    "beats": [
+      "The cup holds water",
+      "The person turns it upside down",
+      "The water empties into the sink"
+    ],
+    "ending": "A cup is inverted to empty its water.",
+    "artDirection": "No labels, text, or symbols; show one cup only."
+  },
+  {
+    "id": "kyc-2379",
+    "anchor": "tree",
+    "sentence": "The lumber from the tree became boards for a cabin.",
+    "relation": "Lumber is wood prepared as boards or beams for building.",
+    "setting": "A forest-edge worksite",
+    "actor": "One carpenter stacks cut lumber from a felled tree beside a simple cabin frame.",
+    "props": [
+      "one felled tree",
+      "a stack of plain lumber boards",
+      "one cabin frame"
+    ],
+    "beats": [
+      "The tree is cut into timber",
+      "Lumber is stacked into boards",
+      "The boards are used for the cabin"
+    ],
+    "ending": "Lumber from a tree is stacked beside a cabin frame.",
+    "artDirection": "No saw blades near people, labels, text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2380",
+    "anchor": "pillow",
+    "sentence": "The adjective described the pillow as soft.",
+    "relation": "An adjective is a word that describes a person, place, thing, or quality.",
+    "setting": "A simple classroom",
+    "actor": "One teacher points to a soft pillow while one student listens to a lesson about describing words.",
+    "props": [
+      "one teacher",
+      "one plain pillow",
+      "one student"
+    ],
+    "beats": [
+      "The pillow is placed on a desk",
+      "The teacher describes its softness",
+      "The adjective explains its quality"
+    ],
+    "ending": "A teacher explains an adjective by describing a pillow as soft.",
+    "artDirection": "No writing, letters, labels, or speech bubbles; exactly two people."
+  },
+  {
+    "id": "kyc-2381",
+    "anchor": "metal",
+    "sentence": "The metal formed part of a stronger alloy.",
+    "relation": "An alloy is a metal made by combining two or more elements, at least one of them a metal.",
+    "setting": "A simple metalworking shop",
+    "actor": "One craftsperson combines copper with another plain metal in a small furnace to form an alloy tool blank.",
+    "props": [
+      "one piece of copper",
+      "one second metal piece",
+      "one small furnace"
+    ],
+    "beats": [
+      "The metals are separate",
+      "They are heated and combined",
+      "A new alloy forms"
+    ],
+    "ending": "Copper and another metal combine to form an alloy.",
+    "artDirection": "Show two distinct plain metals combined into one alloy; no chemical symbols, labels, text, or diagrams."
+  },
+  {
+    "id": "kyc-2382",
+    "anchor": "wheel",
+    "sentence": "The bearing allowed the wheel to spin smoothly.",
+    "relation": "A bearing supports a moving part and reduces friction so it can rotate smoothly.",
+    "setting": "A simple repair bench",
+    "actor": "No people: one metal bearing sits in the center of a wheel axle, allowing the wheel to turn.",
+    "props": [
+      "one wheel",
+      "one visible bearing",
+      "one axle"
+    ],
+    "beats": [
+      "The wheel turns stiffly",
+      "The bearing supports the axle",
+      "The wheel spins smoothly"
+    ],
+    "ending": "A bearing lets a wheel spin smoothly on its axle.",
+    "artDirection": "Show the bearing clearly between wheel and axle; no labels, diagrams, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2383",
+    "anchor": "path",
+    "sentence": "The winding path can bewilder a traveler at every turn.",
+    "relation": "To bewilder is to confuse someone completely.",
+    "setting": "A simple garden maze",
+    "actor": "One traveler looks completely confused at a confusing path through a hedge maze.",
+    "props": [
+      "one traveler",
+      "one hedge maze",
+      "one plain path junction"
+    ],
+    "beats": [
+      "The traveler enters the maze",
+      "Several paths seem alike",
+      "The traveler is bewildered"
+    ],
+    "ending": "A traveler is bewildered by a confusing path in a maze.",
+    "artDirection": "No signs, arrows, letters, numbers, or symbols in the maze."
+  },
+  {
+    "id": "kyc-2384",
+    "anchor": "skin",
+    "sentence": "A bloody mark stained the skin of his knee after the fall.",
+    "relation": "Bloody means stained or covered with blood.",
+    "setting": "A calm home room after a minor fall",
+    "actor": "One child sits safely while a small red-stained bandage covers a scraped knee.",
+    "props": [
+      "one child",
+      "one small bandage",
+      "one plain chair"
+    ],
+    "beats": [
+      "The child scrapes a knee in a fall",
+      "A bandage is placed over it",
+      "A small blood stain shows on the bandage"
+    ],
+    "ending": "A bloody bandage covers a minor scrape on a knee.",
+    "artDirection": "Keep the injury mild and non-graphic; show a small red stain on a bandage over the skin; no open wound, text, or labels."
+  },
+  {
+    "id": "kyc-2385",
+    "anchor": "water",
+    "sentence": "The centigrade thermometer measured the warm water.",
+    "relation": "Centigrade is a temperature scale now generally called Celsius.",
+    "setting": "A simple kitchen worktop",
+    "actor": "No people: one plain thermometer rests in a clear cup of warm water.",
+    "props": [
+      "one plain thermometer",
+      "one cup of warm water",
+      "one worktop"
+    ],
+    "beats": [
+      "Warm water fills the cup",
+      "The thermometer is placed in it",
+      "The temperature is measured on the centigrade scale"
+    ],
+    "ending": "A thermometer measures warm water on the centigrade scale.",
+    "artDirection": "No numbers, degree marks, letters, labels, or symbols on the thermometer or cup.",
+    "targetSense": "摄氏的"
+  }
+]

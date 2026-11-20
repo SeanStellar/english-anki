@@ -1,0 +1,762 @@
+[
+  {
+    "word": "funeral",
+    "anchor": "wreath",
+    "anchorMeaning": "花圈",
+    "relation": "花圈是葬礼上常见的悼念用品",
+    "sentence": "At the funeral, she placed a flower wreath beside the grave.",
+    "scene": {
+      "setting": "A peaceful cemetery garden",
+      "actor": "One woman lays a wreath beside a simple grave mound",
+      "props": [
+        "flower wreath",
+        "small shovel",
+        "plain stone"
+      ],
+      "beats": [
+        "The family arrives quietly",
+        "The woman places the wreath",
+        "She pauses in remembrance"
+      ],
+      "ending": "A flower wreath rests beside the grave"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 花圈是葬礼上常见的悼念用品 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No people beyond the one woman; no inscriptions or text."
+  },
+  {
+    "word": "mammal",
+    "anchor": "whale",
+    "anchorMeaning": "鲸",
+    "relation": "鲸生活在海中却用肺呼吸，是大型哺乳动物",
+    "sentence": "The whale surfaced to breathe, showing that it is a mammal.",
+    "scene": {
+      "setting": "Open ocean in soft morning light",
+      "actor": "One whale rises above the calm sea",
+      "props": [
+        "whale",
+        "small wave",
+        "distant cloud"
+      ],
+      "beats": [
+        "The whale swims upward",
+        "It breaks the surface",
+        "It breathes before diving again"
+      ],
+      "ending": "The whale surfaces for a breath"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 鲸生活在海中却用肺呼吸，是大型哺乳动物 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One whale with natural anatomy; no text or symbols."
+  },
+  {
+    "word": "midst",
+    "anchor": "flowers",
+    "anchorMeaning": "花",
+    "relation": "midst 表示在一群事物的中间，花丛呈现这一位置关系",
+    "sentence": "A bee hovered in the midst of the flowers.",
+    "scene": {
+      "setting": "A colorful meadow",
+      "actor": "One bee hovers among a dense patch of flowers",
+      "props": [
+        "bee",
+        "flower patch",
+        "smooth stone"
+      ],
+      "beats": [
+        "The bee approaches the patch",
+        "It settles among the flowers",
+        "It hovers at their center"
+      ],
+      "ending": "A bee hangs in the middle of the flower patch"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. midst 表示在一群事物的中间，花丛呈现这一位置关系 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No extra insects or lettering."
+  },
+  {
+    "word": "offset",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "树荫可以抵消一部分阳光带来的热度",
+    "sentence": "The tree's shade helped offset the afternoon sun's heat.",
+    "scene": {
+      "setting": "A warm park clearing",
+      "actor": "One child rests beneath a tree on a hot afternoon",
+      "props": [
+        "sun",
+        "tree",
+        "wooden bench"
+      ],
+      "beats": [
+        "The sun beats down",
+        "The tree casts a cool shadow",
+        "The child rests in the shade"
+      ],
+      "ending": "The child sits cool beneath the sunlit tree"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 树荫可以抵消一部分阳光带来的热度 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No sun-face features, text, or signs."
+  },
+  {
+    "word": "peasant",
+    "anchor": "hoe",
+    "anchorMeaning": "锄头",
+    "relation": "peasant 指以耕作为生的农民，锄头是熟悉农具",
+    "sentence": "The peasant worked the field with a wooden hoe.",
+    "scene": {
+      "setting": "A small rural field",
+      "actor": "One farmer hoes a row of crops",
+      "props": [
+        "wooden hoe",
+        "crop row",
+        "woven basket"
+      ],
+      "beats": [
+        "The farmer breaks the soil",
+        "She tends the young crops",
+        "She gathers vegetables in the basket"
+      ],
+      "ending": "A farmer works a field with a hoe"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. peasant 指以耕作为生的农民，锄头是熟悉农具 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One person only; no text, fences with writing, or signs."
+  },
+  {
+    "word": "scold",
+    "anchor": "milk",
+    "anchorMeaning": "牛奶",
+    "relation": "孩子打翻牛奶后，家长斥责孩子，体现 scold",
+    "sentence": "The mother had to scold her child after milk spilled across the table.",
+    "scene": {
+      "setting": "A family kitchen",
+      "actor": "One mother speaks firmly to one child beside spilled milk",
+      "props": [
+        "milk puddle",
+        "plain cup",
+        "wooden table"
+      ],
+      "beats": [
+        "The cup tips",
+        "Milk spills",
+        "The mother scolds the child gently"
+      ],
+      "ending": "The mother speaks to the child beside the tipped cup"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 孩子打翻牛奶后，家长斥责孩子，体现 scold The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; keep expressions mild; no text or signs."
+  },
+  {
+    "word": "slump",
+    "anchor": "market",
+    "anchorMeaning": "市场",
+    "relation": "市场销售下滑时可说 sales slump，空摊呈现低迷",
+    "sentence": "Sales may slump at the market after a poor harvest.",
+    "scene": {
+      "setting": "A quiet farmers market",
+      "actor": "One vendor sits beside unsold produce",
+      "props": [
+        "vegetable crates",
+        "empty basket",
+        "canvas awning"
+      ],
+      "beats": [
+        "The harvest arrives small",
+        "Fewer customers come",
+        "Unsold produce remains at the stall"
+      ],
+      "ending": "A vendor waits beside mostly full crates and an empty basket"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 市场销售下滑时可说 sales slump，空摊呈现低迷 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No price tags, lettering, or numerical displays."
+  },
+  {
+    "word": "typewriter",
+    "anchor": "paper",
+    "anchorMeaning": "纸",
+    "relation": "打字机将文字打在纸上，纸是其直接使用的材料",
+    "sentence": "She rolled a blank sheet of paper into the typewriter.",
+    "scene": {
+      "setting": "A tidy writing desk",
+      "actor": "One writer feeds a blank sheet into a typewriter",
+      "props": [
+        "typewriter",
+        "blank paper",
+        "desk lamp"
+      ],
+      "beats": [
+        "She lifts the platen",
+        "She inserts the paper",
+        "She turns the roller to secure it"
+      ],
+      "ending": "Blank paper sits in the typewriter"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 打字机将文字打在纸上，纸是其直接使用的材料 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Paper must remain completely blank; no visible letters or marks."
+  },
+  {
+    "word": "accordance",
+    "anchor": "helmet",
+    "anchorMeaning": "头盔",
+    "relation": "in accordance with 表示遵照，安全规定要求工人戴头盔",
+    "sentence": "In accordance with the safety rule, the worker wore a helmet.",
+    "scene": {
+      "setting": "A quiet building site",
+      "actor": "One worker checks a helmet before entering the work area",
+      "props": [
+        "plain helmet",
+        "work gloves",
+        "wooden barrier"
+      ],
+      "beats": [
+        "The worker sees the safety gear",
+        "She puts on the helmet",
+        "She enters the site safely"
+      ],
+      "ending": "The worker wears a helmet beside the barrier"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. in accordance with 表示遵照，安全规定要求工人戴头盔 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No writing, signs, logos, or text on safety gear."
+  },
+  {
+    "word": "anniversary",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "周年纪念常用蛋糕庆祝，但不必写出年份",
+    "sentence": "They marked their anniversary with a cake.",
+    "scene": {
+      "setting": "A simple garden table after a shared meal",
+      "actor": "Two neighbors sit together beside a plain cake",
+      "props": [
+        "plain cake",
+        "two cups",
+        "flower vase"
+      ],
+      "beats": [
+        "They bring out the cake",
+        "They share a slice",
+        "They smile together"
+      ],
+      "ending": "Two neighbors share a small cake at the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 周年纪念常用蛋糕庆祝，但不必写出年份 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "A warm, simple celebration with two adult neighbors and an unmarked cake; no wedding imagery, writing, numbers, logos, or signs."
+  },
+  {
+    "word": "bloom",
+    "anchor": "bud",
+    "anchorMeaning": "花蕾",
+    "relation": "花蕾开放成为花朵，bloom 描述开花",
+    "sentence": "A rose began to bloom from the tight bud.",
+    "scene": {
+      "setting": "A small garden after rain",
+      "actor": "One gardener watches a rose open",
+      "props": [
+        "rosebud",
+        "watering can",
+        "garden bed"
+      ],
+      "beats": [
+        "The closed bud swells",
+        "Its petals begin to open",
+        "A rose blooms"
+      ],
+      "ending": "A newly opened rose rises above the watering can"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 花蕾开放成为花朵，bloom 描述开花 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show a single clear flower opening; no text or signs."
+  },
+  {
+    "word": "catastrophe",
+    "anchor": "flood",
+    "anchorMeaning": "洪水",
+    "relation": "毁灭性洪水可以造成 catastrophe",
+    "sentence": "The flood became a catastrophe when the river swept through the village.",
+    "scene": {
+      "setting": "A village street during a severe flood",
+      "actor": "One resident stands safely on a raised porch",
+      "props": [
+        "floodwater",
+        "wooden porch",
+        "floating basket"
+      ],
+      "beats": [
+        "The river rises",
+        "Water enters the street",
+        "The resident watches from safety"
+      ],
+      "ending": "Floodwater covers the village street below the porch"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 毁灭性洪水可以造成 catastrophe The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No injured people, text, or signs."
+  },
+  {
+    "word": "certify",
+    "anchor": "seal",
+    "anchorMeaning": "印章",
+    "relation": "正式印章可证明文件已认证",
+    "sentence": "The official used a seal to certify the document.",
+    "scene": {
+      "setting": "A quiet office desk",
+      "actor": "One clerk presses a plain seal onto a blank document",
+      "props": [
+        "plain seal",
+        "blank document",
+        "ink pad"
+      ],
+      "beats": [
+        "The clerk aligns the seal",
+        "She presses it down",
+        "The document receives official approval"
+      ],
+      "ending": "A seal rests beside the freshly stamped blank page"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 正式印章可证明文件已认证 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Document must contain no writing, letters, numbers, or logos."
+  },
+  {
+    "word": "collide",
+    "anchor": "track",
+    "anchorMeaning": "跑道",
+    "relation": "两辆玩具车在跑道上相撞，清楚表现 collide",
+    "sentence": "Two toy cars collide head-on on the track.",
+    "scene": {
+      "setting": "A child's playroom floor",
+      "actor": "Two toy cars meet on a short play track",
+      "props": [
+        "two toy cars",
+        "curved track",
+        "wooden block"
+      ],
+      "beats": [
+        "The cars roll toward each other",
+        "They meet on the track",
+        "They stop after colliding"
+      ],
+      "ending": "Two toy cars touch at the center of the track"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 两辆玩具车在跑道上相撞，清楚表现 collide The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two toy cars; no extra vehicles, text, or logos."
+  },
+  {
+    "word": "cord",
+    "anchor": "parcel",
+    "anchorMeaning": "包裹",
+    "relation": "绳索常用来捆扎包裹，cord 是细绳",
+    "sentence": "She tied a cord around the parcel before carrying it.",
+    "scene": {
+      "setting": "A packing table",
+      "actor": "One person ties a parcel with cord",
+      "props": [
+        "parcel",
+        "cord",
+        "small scissors"
+      ],
+      "beats": [
+        "She wraps the parcel",
+        "She loops the cord around it",
+        "She ties a firm bow"
+      ],
+      "ending": "A cord secures the parcel on the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 绳索常用来捆扎包裹，cord 是细绳 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No labels, writing, numbers, or logos on parcel."
+  },
+  {
+    "word": "denial",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "拒绝入内可以表现 denial 的否认或拒绝义",
+    "sentence": "The guard's denial kept the visitor outside the gate.",
+    "scene": {
+      "setting": "A quiet garden entrance",
+      "actor": "One guard holds the gate closed as one visitor waits outside",
+      "props": [
+        "closed gate",
+        "plain key",
+        "garden path"
+      ],
+      "beats": [
+        "The visitor approaches",
+        "The guard refuses entry",
+        "The visitor remains outside the gate"
+      ],
+      "ending": "A closed gate separates the guard and visitor"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 拒绝入内可以表现 denial 的否认或拒绝义 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; no signs or writing."
+  },
+  {
+    "word": "dormitory",
+    "anchor": "bed",
+    "anchorMeaning": "床",
+    "relation": "dormitory 是学生集体住宿的建筑，内部常有多张床",
+    "sentence": "She carried her blanket into the dormitory and chose an empty bed.",
+    "scene": {
+      "setting": "A shared student dormitory room with a row of simple beds",
+      "actor": "One student enters the communal room carrying a folded blanket",
+      "props": [
+        "several simple single beds",
+        "folded blanket",
+        "open doorway"
+      ],
+      "beats": [
+        "The student enters the room",
+        "She sets down the blanket",
+        "She chooses an empty bed among the row"
+      ],
+      "ending": "One student stands beside an empty bed in a shared room with several beds"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. dormitory 是学生集体住宿的建筑，内部常有多张床 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Clearly show a communal dormitory room with at least four separate beds, not a private bedroom; one student only; no writing, labels, or signs."
+  },
+  {
+    "word": "ounce",
+    "anchor": "butter",
+    "anchorMeaning": "黄油",
+    "relation": "ounce 是重量单位，厨房常按盎司称量黄油",
+    "sentence": "The cook measured an ounce of butter on the kitchen scale.",
+    "scene": {
+      "setting": "A home kitchen counter",
+      "actor": "One cook weighs a small piece of butter",
+      "props": [
+        "butter",
+        "plain kitchen scale",
+        "mixing bowl"
+      ],
+      "beats": [
+        "The cook places butter on the scale",
+        "She checks the weight",
+        "She tips it into the bowl"
+      ],
+      "ending": "Butter rests on a scale beside the bowl"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. ounce 是重量单位，厨房常按盎司称量黄油 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Scale has no numerals, tick labels, or text."
+  },
+  {
+    "word": "pedestrian",
+    "anchor": "crosswalk",
+    "anchorMeaning": "人行横道",
+    "relation": "pedestrian 指步行的人，人行横道是其通行处",
+    "sentence": "A pedestrian waited at the crosswalk before crossing the street.",
+    "scene": {
+      "setting": "A calm city intersection with a clear pedestrian crosswalk",
+      "actor": "One person on foot waits at the curb before crossing",
+      "props": [
+        "crosswalk",
+        "shopping bag",
+        "street curb"
+      ],
+      "beats": [
+        "The pedestrian reaches the curb",
+        "She waits",
+        "She steps onto the crosswalk"
+      ],
+      "ending": "One pedestrian stands at the crosswalk ready to cross"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. pedestrian 指步行的人，人行横道是其通行处 The anchor and target sense appear together in one drawable scene."
+    },
+    "artDirection": "Show one person on foot at a crosswalk; omit traffic lights and signs; no lettering, labels, or numbers."
+  },
+  {
+    "word": "scenario",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "救援 scenario 是一种可能发生的情境，窗户构成可画的现场",
+    "sentence": "In the rescue scenario, the firefighter reached a child beside the window.",
+    "scene": {
+      "setting": "A training room set up like a house",
+      "actor": "One firefighter helps one child beside a low window",
+      "props": [
+        "window",
+        "rescue ladder",
+        "soft training mat"
+      ],
+      "beats": [
+        "The child waits by the window",
+        "The firefighter reaches the room",
+        "They move toward the ladder"
+      ],
+      "ending": "The firefighter helps the child beside the window"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 救援 scenario 是一种可能发生的情境，窗户构成可画的现场 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; safe training scene; no signs or text."
+  }
+]

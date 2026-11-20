@@ -1,0 +1,762 @@
+[
+  {
+    "word": "hybrid",
+    "anchor": "tomato",
+    "anchorMeaning": "番茄",
+    "relation": "A hybrid is a plant or animal produced from two different varieties.",
+    "sentence": "The gardener crossed two tomato varieties to grow a hybrid tomato.",
+    "scene": {
+      "setting": "A sunny vegetable garden",
+      "actor": "One gardener uses a small soft brush to transfer pollen between two clearly different tomato varieties growing side by side; one plant bears red tomatoes and the other yellow tomatoes",
+      "props": [
+        "one red-fruited tomato plant",
+        "one yellow-fruited tomato plant",
+        "small pollinating brush"
+      ],
+      "beats": [
+        "The gardener compares the two tomato varieties",
+        "The gardener transfers pollen from one variety to the other with the brush",
+        "The cross-pollinated flower begins to form a hybrid tomato"
+      ],
+      "ending": "Two visibly different tomato varieties and the gardener cross-pollinating one flower"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The gardener crossed two tomato varieties to grow a hybrid tomato.” The sentence and image scene align with the target sense."
+    },
+    "artDirection": "Clearly show two tomato varieties with different fruit colors and the gardener transferring pollen between them, so crossbreeding is visible. No labels, writing, extra plants, or extra people."
+  },
+  {
+    "word": "infinite",
+    "anchor": "stars",
+    "anchorMeaning": "星星",
+    "relation": "Infinite means having no end or limit.",
+    "sentence": "The stars seemed infinite across the clear night sky.",
+    "scene": {
+      "setting": "A quiet hilltop at night",
+      "actor": "One child looks up at a vast star-filled sky",
+      "props": [
+        "many stars",
+        "dark sky",
+        "small hill"
+      ],
+      "beats": [
+        "Night falls",
+        "Stars appear across the sky",
+        "Their number seems infinite"
+      ],
+      "ending": "A child watches an endless-looking starry sky"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Infinite means having no end or limit. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No constellations, labels, or text."
+  },
+  {
+    "word": "intrinsic",
+    "anchor": "blanket",
+    "anchorMeaning": "毯子",
+    "relation": "Intrinsic describes a quality that belongs naturally to something.",
+    "sentence": "Warmth is intrinsic to a thick wool blanket.",
+    "scene": {
+      "setting": "A cozy room on a cold day",
+      "actor": "One person wraps a thick wool blanket around her shoulders",
+      "props": [
+        "wool blanket",
+        "plain chair",
+        "closed window"
+      ],
+      "beats": [
+        "Cold air gathers outside",
+        "She wraps the blanket around herself",
+        "Its warmth feels intrinsic"
+      ],
+      "ending": "A person feels the natural warmth of wool"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Intrinsic describes a quality that belongs naturally to something. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, labels, or text."
+  },
+  {
+    "word": "masterpiece",
+    "anchor": "paintbrush",
+    "anchorMeaning": "画笔",
+    "relation": "A masterpiece is an exceptionally skillful or beautiful work of art.",
+    "sentence": "The artist set down her paintbrush to admire her masterpiece.",
+    "scene": {
+      "setting": "A quiet artist's studio",
+      "actor": "One artist admires a finished landscape painting beside her brushes",
+      "props": [
+        "finished landscape painting",
+        "paintbrush",
+        "wooden workbench"
+      ],
+      "beats": [
+        "The artist steps back",
+        "She studies the painting",
+        "She recognizes her masterpiece"
+      ],
+      "ending": "An artist admires a masterpiece in the studio"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A masterpiece is an exceptionally skillful or beautiful work of art. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signature, writing, or labels on the painting."
+  },
+  {
+    "word": "vulgar",
+    "anchor": "storyteller",
+    "anchorMeaning": "讲故事的人",
+    "relation": "Vulgar behavior is crude and offensive, such as speaking with food in one’s mouth.",
+    "sentence": "The vulgar storyteller spoke with food in his mouth, and one guest turned away.",
+    "scene": {
+      "setting": "A simple garden supper table",
+      "actor": "One storyteller speaks with food in his mouth as one guest turns away in disapproval",
+      "props": [
+        "plain bowl of food",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The storyteller begins talking while chewing",
+        "The guest notices his vulgar manners",
+        "The guest turns away"
+      ],
+      "ending": "One guest turns away from a vulgar storyteller"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Vulgar behavior is crude and offensive, such as speaking with food in one’s mouth. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show an impolite storyteller speaking with food in his mouth and one guest reacting; no obscene gestures, speech bubbles, or text."
+  },
+  {
+    "word": "aviation",
+    "anchor": "airplane",
+    "anchorMeaning": "飞机",
+    "relation": "Aviation is the operation and development of aircraft.",
+    "sentence": "The airplane changed aviation by carrying people across the mountains.",
+    "scene": {
+      "setting": "A clear sky above mountains",
+      "actor": "One passenger airplane flies over a snowy mountain range",
+      "props": [
+        "single airplane",
+        "mountain range",
+        "open sky"
+      ],
+      "beats": [
+        "The airplane takes off",
+        "It crosses the mountains",
+        "Aviation carries travelers through the air"
+      ],
+      "ending": "An airplane flies above snowy mountains"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Aviation is the operation and development of aircraft. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, lettering, or numbers."
+  },
+  {
+    "word": "navigation",
+    "anchor": "compass",
+    "anchorMeaning": "指南针",
+    "relation": "Navigation is the process of finding and following a route.",
+    "sentence": "The sailor used a compass for navigation across the bay.",
+    "scene": {
+      "setting": "A small sailboat on a bay",
+      "actor": "One sailor checks a plain compass while steering a sailboat",
+      "props": [
+        "plain compass",
+        "sailboat",
+        "calm bay"
+      ],
+      "beats": [
+        "The sailor studies the compass",
+        "She chooses a direction",
+        "She navigates across the bay"
+      ],
+      "ending": "A sailor navigates with a compass"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Navigation is the process of finding and following a route. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No markings, numbers, or labels on the compass."
+  },
+  {
+    "word": "ribbon",
+    "anchor": "gift",
+    "anchorMeaning": "礼物",
+    "relation": "A ribbon is a narrow strip of fabric used for tying or decoration.",
+    "sentence": "She tied a blue ribbon around the birthday gift.",
+    "scene": {
+      "setting": "A simple gift table",
+      "actor": "One person ties a blue ribbon around a small wrapped gift",
+      "props": [
+        "blue ribbon",
+        "plain gift box",
+        "wooden table"
+      ],
+      "beats": [
+        "She lays the ribbon across the box",
+        "She ties a bow",
+        "The gift is ready"
+      ],
+      "ending": "A blue ribbon tied around a gift"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A ribbon is a narrow strip of fabric used for tying or decoration. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing, patterns, or labels."
+  },
+  {
+    "word": "scandal",
+    "anchor": "envelope",
+    "anchorMeaning": "信封",
+    "relation": "A scandal is an event that causes public outrage or embarrassment.",
+    "sentence": "A scandal spread through town after the mayor accepted a secret envelope.",
+    "scene": {
+      "setting": "A quiet town hall doorway",
+      "actor": "One mayor secretly accepts a plain envelope as one town resident looks on",
+      "props": [
+        "plain envelope",
+        "wooden doorway",
+        "single chair"
+      ],
+      "beats": [
+        "The mayor receives the envelope",
+        "One witness notices",
+        "A scandal spreads through town"
+      ],
+      "ending": "A secret envelope causes a town scandal"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A scandal is an event that causes public outrage or embarrassment. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No money visible, writing, badges, or logos."
+  },
+  {
+    "word": "circulate",
+    "anchor": "pipe",
+    "anchorMeaning": "管道",
+    "relation": "To circulate is to move continuously around a system or through a place.",
+    "sentence": "Warm water can circulate through the garden pipes.",
+    "scene": {
+      "setting": "A simple garden fountain",
+      "actor": "Water flows from a basin through a loop of plain pipes and back again",
+      "props": [
+        "plain water pipes",
+        "small fountain basin",
+        "garden path"
+      ],
+      "beats": [
+        "Water leaves the basin",
+        "It flows through the pipes",
+        "It circulates back again"
+      ],
+      "ending": "Water circulates through a simple fountain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To circulate is to move continuously around a system or through a place. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, labels, or text."
+  },
+  {
+    "word": "deck",
+    "anchor": "ship",
+    "anchorMeaning": "船",
+    "relation": "A deck is the flat outdoor surface on a ship where people can stand.",
+    "sentence": "The sailors scrubbed the deck as waves splashed over the ship.",
+    "scene": {
+      "setting": "A small ship at sea",
+      "actor": "Two sailors scrub the wooden deck while waves splash beside the ship",
+      "props": [
+        "wooden deck",
+        "plain scrub brush",
+        "ship rail"
+      ],
+      "beats": [
+        "The sailors wet the boards",
+        "They scrub the deck",
+        "Waves splash over the rail"
+      ],
+      "ending": "Sailors scrub a ship's deck"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A deck is the flat outdoor surface on a ship where people can stand. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, numbers, or writing."
+  },
+  {
+    "word": "feminine",
+    "anchor": "ribbon",
+    "anchorMeaning": "缎带",
+    "relation": "Feminine describes a style or quality traditionally associated with women.",
+    "sentence": "Her feminine hat had a soft pink ribbon.",
+    "scene": {
+      "setting": "A quiet dressing table",
+      "actor": "One woman tries a simple hat with a soft pink ribbon",
+      "props": [
+        "plain hat",
+        "pink ribbon",
+        "wooden mirror"
+      ],
+      "beats": [
+        "She picks up the hat",
+        "She ties on the ribbon",
+        "The feminine style is clear"
+      ],
+      "ending": "A hat with a soft feminine ribbon"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Feminine describes a style or quality traditionally associated with women. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No makeup labels, logos, or text."
+  },
+  {
+    "word": "hut",
+    "anchor": "meadow",
+    "anchorMeaning": "草地",
+    "relation": "A hut is a small, simple shelter or house.",
+    "sentence": "The shepherd slept in a small hut beside the meadow.",
+    "scene": {
+      "setting": "A quiet meadow at dusk",
+      "actor": "One small wooden hut stands beside a sheep meadow",
+      "props": [
+        "small wooden hut",
+        "grassy meadow",
+        "single sheep"
+      ],
+      "beats": [
+        "Evening falls",
+        "The shepherd enters the hut",
+        "The meadow grows quiet"
+      ],
+      "ending": "A hut beside a meadow"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A hut is a small, simple shelter or house. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No smoke symbols, signs, or text."
+  },
+  {
+    "word": "imperial",
+    "anchor": "crown",
+    "anchorMeaning": "皇冠",
+    "relation": "Imperial describes something belonging to an emperor or empire.",
+    "sentence": "An imperial crown rested beside the emperor's throne.",
+    "scene": {
+      "setting": "A grand but simple palace room",
+      "actor": "One plain crown rests on a cushion beside an empty throne",
+      "props": [
+        "plain crown",
+        "empty throne",
+        "small cushion"
+      ],
+      "beats": [
+        "The crown is placed down",
+        "The throne stands nearby",
+        "The imperial setting is clear"
+      ],
+      "ending": "A crown beside an emperor's throne"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Imperial describes something belonging to an emperor or empire. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No emblems, flags, text, or jewels shaped as letters."
+  },
+  {
+    "word": "ministry",
+    "anchor": "hall",
+    "anchorMeaning": "大厅",
+    "relation": "A ministry is a government department or its group of senior officials.",
+    "sentence": "The ministry met in a government hall to plan road repairs.",
+    "scene": {
+      "setting": "A plain government hall",
+      "actor": "Two senior officials discuss a road plan at a simple table",
+      "props": [
+        "blank road plan",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The officials gather",
+        "They discuss the repairs",
+        "The ministry makes a plan"
+      ],
+      "ending": "Officials meet in a government hall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A ministry is a government department or its group of senior officials. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No government seals, flags, signs, or text."
+  },
+  {
+    "word": "pant",
+    "anchor": "puddle",
+    "anchorMeaning": "水坑",
+    "relation": "A pant is one leg or part of a pair of trousers in some varieties of English.",
+    "sentence": "One pant leg was soaked after the child jumped in a puddle.",
+    "scene": {
+      "setting": "A quiet garden path after rain",
+      "actor": "One child looks at a wet pant leg beside a shallow puddle",
+      "props": [
+        "single pant leg",
+        "shallow puddle",
+        "garden path"
+      ],
+      "beats": [
+        "The child jumps across the puddle",
+        "Water splashes",
+        "One pant leg gets wet"
+      ],
+      "ending": "A wet pant leg beside a puddle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A pant is one leg or part of a pair of trousers in some varieties of English. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No logos, writing, or labels."
+  },
+  {
+    "word": "pest",
+    "anchor": "cabbage",
+    "anchorMeaning": "卷心菜",
+    "relation": "A pest is an animal or insect that damages plants or causes trouble.",
+    "sentence": "A tiny pest chewed holes in the cabbage leaves.",
+    "scene": {
+      "setting": "A vegetable garden",
+      "actor": "One small caterpillar eats a hole in a cabbage leaf",
+      "props": [
+        "single caterpillar",
+        "cabbage plant",
+        "garden soil"
+      ],
+      "beats": [
+        "The pest lands on the leaf",
+        "It chews a hole",
+        "The damage is visible"
+      ],
+      "ending": "A pest eats a cabbage leaf"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A pest is an animal or insect that damages plants or causes trouble. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep the insect natural; no text."
+  },
+  {
+    "word": "pronoun",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "A pronoun is a word that can replace a noun or name in a sentence.",
+    "sentence": "A pronoun can replace a child's name when he points to himself.",
+    "scene": {
+      "setting": "A simple classroom corner",
+      "actor": "One boy, a child, points to himself beside a teacher holding a blank name card",
+      "props": [
+        "blank name card",
+        "small chair",
+        "plain desk"
+      ],
+      "beats": [
+        "The teacher shows the blank name card",
+        "The boy points to himself",
+        "The gesture stands in for saying his own name"
+      ],
+      "ending": "A boy points to himself as a pronoun example"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A pronoun can replace a child's name when he points to himself.” It matches the boy shown in the image and retains the anchor word child."
+    },
+    "artDirection": "No letters, words, marks, or text on the card."
+  },
+  {
+    "word": "reconcile",
+    "anchor": "handshake",
+    "anchorMeaning": "握手",
+    "relation": "To reconcile is to restore friendly relations after disagreement.",
+    "sentence": "After a quarrel, the two friends reconcile with a handshake.",
+    "scene": {
+      "setting": "A garden bench",
+      "actor": "Two friends shake hands after making peace",
+      "props": [
+        "plain bench",
+        "single toy ball",
+        "garden path"
+      ],
+      "beats": [
+        "The friends argue",
+        "They return the shared toy",
+        "They reconcile with a handshake"
+      ],
+      "ending": "Two friends make peace with a handshake"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To reconcile is to restore friendly relations after disagreement. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No speech bubbles or text."
+  },
+  {
+    "word": "nasty",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "Nasty describes something very unpleasant or offensive.",
+    "sentence": "A nasty smell rose from the spoiled fish in the bucket.",
+    "scene": {
+      "setting": "A small outdoor market stall",
+      "actor": "One person recoils from a spoiled fish resting in a bucket",
+      "props": [
+        "single spoiled fish",
+        "plain bucket",
+        "wooden stall"
+      ],
+      "beats": [
+        "The fish is left in the sun",
+        "A bad smell rises",
+        "The person recoils from the nasty odor"
+      ],
+      "ending": "A spoiled fish gives off a nasty smell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Nasty describes something very unpleasant or offensive. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep it non-graphic; no signs, labels, or text."
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "foreigner",
+    "anchor": "baker",
+    "anchorMeaning": "面包师",
+    "relation": "The scene links foreigner with baker: A foreigner politely asked the baker for directions to the station.",
+    "sentence": "A foreigner politely asked the baker for directions to the station.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small neighborhood bakery with no signs.",
+      "actor": "Exactly two adults: a visitor politely asks one local baker for directions.",
+      "props": [
+        "one plain bread loaf",
+        "one empty counter",
+        "one simple bakery doorway"
+      ],
+      "beats": [
+        "The visitor pauses at the counter.",
+        "The baker listens and gestures toward the street.",
+        "The foreigner receives directions politely."
+      ],
+      "ending": "The visitor and baker speak beside the counter."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links foreigner with baker: A foreigner politely asked the baker for directions to the station.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "conform",
+    "anchor": "jar",
+    "anchorMeaning": "罐子",
+    "relation": "The scene links conform with jar: The round lid must conform to the jar's rim to fit tightly.",
+    "sentence": "The round lid must conform to the jar's rim to fit tightly.",
+    "artDirection": "The lid must be fully seated flush and evenly on the jar, never hovering above it.",
+    "scene": {
+      "setting": "A clean kitchen table against a plain background.",
+      "actor": "One adult presses a round lid gently onto a glass jar; only one person.",
+      "props": [
+        "one glass jar with a clearly visible circular rim",
+        "one round lid seated exactly flush on the rim",
+        "one plain kitchen cloth"
+      ],
+      "beats": [
+        "The jar’s rim and lid are shown side by side.",
+        "The lid matches the rim all the way around.",
+        "The lid sits snugly and conforms to the jar’s rim."
+      ],
+      "ending": "A round lid fits tightly and evenly on the matching jar rim."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links conform with jar: The round lid must conform to the jar's rim to fit tightly.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "exploit",
+    "anchor": "greenhouse",
+    "anchorMeaning": "温室",
+    "relation": "The scene links exploit with greenhouse: Farmers exploit the sunlight in a greenhouse to grow tomatoes.",
+    "sentence": "Farmers exploit the sunlight in a greenhouse to grow tomatoes.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright greenhouse with a few tomato plants.",
+      "actor": "One gardener makes use of natural sunlight to grow tomatoes; only one person.",
+      "props": [
+        "one simple greenhouse",
+        "one tomato plant with ripe fruit",
+        "one sunlit glass roof"
+      ],
+      "beats": [
+        "Sunlight enters through the glass roof.",
+        "The gardener tends the tomato plant.",
+        "The greenhouse exploits the sunlight for growing food."
+      ],
+      "ending": "The gardener works among sunlit tomato plants."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links exploit with greenhouse: Farmers exploit the sunlight in a greenhouse to grow tomatoes.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "obligation",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "The scene links obligation with book: He felt an obligation to return the borrowed book to his neighbor.",
+    "sentence": "He felt an obligation to return the borrowed book to his neighbor.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden path between two homes.",
+      "actor": "Exactly two adults: one neighbor returns one borrowed book to the other.",
+      "props": [
+        "one plain closed book",
+        "one simple garden gate",
+        "one short path"
+      ],
+      "beats": [
+        "The borrower carries the book to the gate.",
+        "He gives it back to his neighbor.",
+        "Returning the book fulfills his obligation."
+      ],
+      "ending": "The neighbor receives the returned book at the gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links obligation with book: He felt an obligation to return the borrowed book to his neighbor.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "crude",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "The scene links crude with rain: He built a crude shelter from branches before the rain.",
+    "sentence": "He built a crude shelter from branches before the rain.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A forest clearing under a gray sky.",
+      "actor": "One camper makes a rough temporary shelter from branches; only one person.",
+      "props": [
+        "one crude branch shelter",
+        "one small bundle of branches",
+        "one patch of forest floor"
+      ],
+      "beats": [
+        "The camper gathers branches.",
+        "He leans them into a rough shelter.",
+        "The simple structure is crude but useful before rain."
+      ],
+      "ending": "A rough shelter stands ready before the rain."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links crude with rain: He built a crude shelter from branches before the rain.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "mechanical",
+    "anchor": "gear",
+    "anchorMeaning": "齿轮",
+    "relation": "The scene links mechanical with gear: A mechanical clock uses gears to move its hands.",
+    "sentence": "A mechanical clock uses gears to move its hands.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet workshop table with a blank wall.",
+      "actor": "No people; an open plain clock reveals its moving gears without markings.",
+      "props": [
+        "one simple clock mechanism",
+        "three plain interlocking gears",
+        "one pair of clock hands without numbers"
+      ],
+      "beats": [
+        "The gears turn inside the clock.",
+        "Their motion drives the hands.",
+        "The clock works through mechanical parts."
+      ],
+      "ending": "The gears move the clock hands."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links mechanical with gear: A mechanical clock uses gears to move its hands.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "govern",
+    "anchor": "greenhouse",
+    "anchorMeaning": "温室",
+    "relation": "The scene links govern with greenhouse: A thermostat can govern the heat in the greenhouse.",
+    "sentence": "A thermostat can govern the heat in the greenhouse.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small greenhouse with a plain wall thermostat.",
+      "actor": "No people; one simple thermostat controls the warm greenhouse interior.",
+      "props": [
+        "one plain thermostat with no numbers or markings",
+        "one greenhouse wall",
+        "one healthy potted plant"
+      ],
+      "beats": [
+        "The greenhouse warms in sunlight.",
+        "The thermostat regulates the heat.",
+        "It can govern the indoor temperature."
+      ],
+      "ending": "The thermostat controls the greenhouse heat."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links govern with greenhouse: A thermostat can govern the heat in the greenhouse.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "evident",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "The scene links evident with dog: The muddy footprints made it evident that a dog had crossed the garden.",
+    "sentence": "The muddy footprints made it evident that a dog had crossed the garden.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A garden path after rain.",
+      "actor": "No people; one friendly dog stands beside a clear trail of muddy pawprints.",
+      "props": [
+        "one dog",
+        "one trail of muddy pawprints",
+        "one garden path"
+      ],
+      "beats": [
+        "The dog crosses the wet path.",
+        "Muddy pawprints remain behind.",
+        "The tracks make its passage evident."
+      ],
+      "ending": "The dog stands beside the pawprints it left."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links evident with dog: The muddy footprints made it evident that a dog had crossed the garden.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "explosion",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "relation": "The scene links explosion with lake: A small firework explosion lit the sky above the lake.",
+    "sentence": "A small firework explosion lit the sky above the lake.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful lakeside at night during a distant supervised display.",
+      "actor": "No people; one small distant firework bursts safely high above the lake.",
+      "props": [
+        "one small firework burst",
+        "one calm lake",
+        "one dark evening sky"
+      ],
+      "beats": [
+        "A tiny firework rises far above the shoreline.",
+        "It opens into a brief bright burst.",
+        "The explosion lights the sky over the lake."
+      ],
+      "ending": "A small distant firework glows above the lake."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links explosion with lake: A small firework explosion lit the sky above the lake.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "render",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "relation": "The scene links render with fire: A warm fire can render a cold room cozy.",
+    "sentence": "A warm fire can render a cold room cozy.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple cabin living room in winter.",
+      "actor": "No people; one safe contained fire warms the plain room.",
+      "props": [
+        "one small contained fireplace",
+        "one simple armchair",
+        "one plain rug"
+      ],
+      "beats": [
+        "The room feels cold and quiet.",
+        "A gentle fire warms the space.",
+        "Its warmth renders the room cozy."
+      ],
+      "ending": "The small fire gives the room a cozy glow."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links render with fire: A warm fire can render a cold room cozy.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "transmit",
+    "anchor": "tower",
+    "anchorMeaning": "塔",
+    "relation": "The scene links transmit with tower: A radio tower can transmit a signal across the valley.",
+    "sentence": "A radio tower can transmit a signal across the valley.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A broad quiet valley in daylight.",
+      "actor": "No people; one radio tower sends a signal across the open valley without text or symbols.",
+      "props": [
+        "one plain radio tower",
+        "one open valley",
+        "one distant hill"
+      ],
+      "beats": [
+        "The tower stands on a hill.",
+        "A simple antenna sends a signal outward.",
+        "The signal is transmitted across the valley."
+      ],
+      "ending": "The tower rises above the valley."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links transmit with tower: A radio tower can transmit a signal across the valley.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "division",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "The scene links division with fence: A low fence marked the division between the two gardens.",
+    "sentence": "A low fence marked the division between the two gardens.",
+    "artDirection": "Place the low fence directly between the two garden plots as their shared dividing line, not around the outside.",
+    "scene": {
+      "setting": "Two neat garden plots viewed straight on.",
+      "actor": "No people; the clear boundary between the two gardens is the focus.",
+      "props": [
+        "one garden plot with leafy plants",
+        "one separate garden plot with flowers",
+        "one continuous low fence centered between the two plots"
+      ],
+      "beats": [
+        "The two plots sit side by side.",
+        "A low fence runs clearly between them.",
+        "The fence marks the division between the gardens."
+      ],
+      "ending": "One continuous low fence visibly separates the two gardens."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links division with fence: A low fence marked the division between the two gardens.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "compel",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "The scene links compel with rain: Heavy rain can compel the hikers to shelter under a rocky overhang below the summit.",
+    "sentence": "Heavy rain can compel the hikers to shelter under a rocky overhang below the summit.",
+    "artDirection": "The hikers are already sheltered under the overhang, clearly forced to stop by the rain. Do not show them walking or climbing toward the summit.",
+    "scene": {
+      "setting": "A rainy mountain trail below a distant summit, beside one large safe rocky overhang.",
+      "actor": "Exactly two adult hikers shelter close together under the overhang from the heavy rain before reaching the summit.",
+      "props": [
+        "one heavy rainstorm visible beyond the overhang",
+        "one large dry rocky overhang",
+        "one distant mountain summit"
+      ],
+      "beats": [
+        "Heavy rain pours down the exposed trail.",
+        "The hikers stop and move under the rocky cover.",
+        "The rain compels them to shelter before the summit."
+      ],
+      "ending": "Both hikers take shelter under the overhang while heavy rain falls and the summit remains distant."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links compel with rain: Heavy rain can compel the hikers to shelter under a rocky overhang below the summit.",
+      "reviewNote": "Rechecked after revising the sentence for natural, readable English and a clearer visual scene before image generation."
+    }
+  },
+  {
+    "word": "lower",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "The scene links lower with cup: The lower shelf held the blue cup beneath the window.",
+    "sentence": "The lower shelf held the blue cup beneath the window.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy kitchen wall with two plain shelves.",
+      "actor": "No people; one blue cup rests on the lower shelf below a simple window.",
+      "props": [
+        "one blue cup",
+        "one lower wooden shelf",
+        "one plain window"
+      ],
+      "beats": [
+        "The shelves sit one above the other.",
+        "The cup rests on the lower shelf.",
+        "Its position is lower than the window."
+      ],
+      "ending": "The blue cup sits on the lower shelf."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links lower with cup: The lower shelf held the blue cup beneath the window.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "maintenance",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "The scene links maintenance with bicycle: Regular maintenance kept the old bicycle in good working order.",
+    "sentence": "Regular maintenance kept the old bicycle in good working order.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small bicycle repair corner with a bare wall.",
+      "actor": "One mechanic checks one bicycle carefully; only one person.",
+      "props": [
+        "one plain old bicycle",
+        "one simple hand pump",
+        "one small repair mat"
+      ],
+      "beats": [
+        "The mechanic checks the bicycle.",
+        "They tighten and care for its parts.",
+        "Regular maintenance keeps it working well."
+      ],
+      "ending": "The mechanic finishes maintaining the bicycle."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links maintenance with bicycle: Regular maintenance kept the old bicycle in good working order.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "pop",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "The scene links pop with fence: A red balloon seemed to pop into view above the fence.",
+    "sentence": "A red balloon seemed to pop into view above the fence.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny garden beside a low fence.",
+      "actor": "No people; one bright red balloon appears just above one fence.",
+      "props": [
+        "one red balloon",
+        "one low garden fence",
+        "one plain blue sky"
+      ],
+      "beats": [
+        "The garden is still.",
+        "A red balloon rises into view.",
+        "It seems to pop into sight above the fence."
+      ],
+      "ending": "One red balloon floats above the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links pop with fence: A red balloon seemed to pop into view above the fence.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "neutral",
+    "anchor": "bench",
+    "anchorMeaning": "长椅",
+    "relation": "The scene links neutral with bench: The neutral referee stood midway between two empty team benches.",
+    "sentence": "The neutral referee stood midway between two empty team benches.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An empty sports field with two simple benches.",
+      "actor": "One referee stands equally between two unoccupied benches; only one person.",
+      "props": [
+        "one plain referee whistle",
+        "one left team bench",
+        "one right team bench"
+      ],
+      "beats": [
+        "The two empty benches face the field.",
+        "The referee stands at equal distance from both.",
+        "The referee remains neutral between the sides."
+      ],
+      "ending": "The referee stands centered between the benches."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links neutral with bench: The neutral referee stood midway between two empty team benches.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "renew",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "The scene links renew with rain: Spring rain helped renew the dry garden.",
+    "sentence": "Spring rain helped renew the dry garden.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A garden in early spring after a light shower.",
+      "actor": "No people; fresh green shoots emerge from dry soil after rain.",
+      "props": [
+        "one patch of soil becoming moist",
+        "one small green seedling",
+        "one gentle rain cloud"
+      ],
+      "beats": [
+        "Light rain falls on the soil.",
+        "A seedling lifts fresh leaves.",
+        "The garden begins to renew itself."
+      ],
+      "ending": "A new green shoot grows in the refreshed garden."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links renew with rain: Spring rain helped renew the dry garden.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  },
+  {
+    "word": "fifteen",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "The scene links fifteen with apple: She arranged fifteen apples in three shallow trays, with five in each.",
+    "sentence": "She arranged fifteen apples in three shallow trays, with five in each.",
+    "artDirection": "Exactly 15 apples total. Use three long narrow trays side by side, with a single straight row of exactly five fully visible apples in each tray; no second row, no overlap, no stacks. Overhead view so every apple is easy to count. No person, basket, other fruit, produce, plants, pictures, frames, charts, posters, shelves, or wall decorations.",
+    "scene": {
+      "setting": "A bright, plain kitchen viewed from directly above, with a completely bare cream wall.",
+      "actor": "No person; the completed apple arrangement alone is the subject.",
+      "props": [
+        "exactly fifteen separate apples, arranged five in one straight row inside each of three long narrow trays",
+        "three long narrow shallow trays placed side by side",
+        "one plain rectangular table"
+      ],
+      "beats": [
+        "The first long tray holds one straight row of exactly five apples.",
+        "The second tray holds one straight row of exactly five more apples.",
+        "The third tray holds the last five, making fifteen total."
+      ],
+      "ending": "Three narrow trays each hold one unbroken row of exactly five separated apples: fifteen apples total."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links fifteen with apple: She arranged fifteen apples in three shallow trays, with five in each.",
+      "reviewNote": "Rechecked after revising the sentence for natural, readable English and a clearer visual scene before image generation."
+    }
+  },
+  {
+    "word": "triumph",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "The scene links triumph with mountain: Their triumph came when they reached the mountain summit together.",
+    "sentence": "Their triumph came when they reached the mountain summit together.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clear mountain summit at sunrise.",
+      "actor": "Exactly two adult hikers celebrate quietly at the summit; no other people.",
+      "props": [
+        "one mountain summit",
+        "two plain hiking backpacks",
+        "one clear sunrise sky"
+      ],
+      "beats": [
+        "The hikers climb the final slope.",
+        "They reach the summit together.",
+        "Their shared triumph shows in their joyful faces."
+      ],
+      "ending": "Two hikers celebrate their triumph on the summit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links triumph with mountain: Their triumph came when they reached the mountain summit together.",
+      "reviewNote": "Manually reviewed before image generation for fluent, natural, readable English and a clear link between the target word and familiar anchor."
+    }
+  }
+]

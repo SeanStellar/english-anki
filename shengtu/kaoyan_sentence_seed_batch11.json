@@ -1,0 +1,642 @@
+[
+  {
+    "word": "stem",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "relation": "A flower is held upright by its stem, so the flower makes the plant part easy to picture.",
+    "sentence": "The gardener cut the thick stem just below the red flower.（园丁在红花下方剪断了粗茎。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden beside a low stone path.",
+      "actor": "One gardener carefully cuts a flower stem; only one person.",
+      "props": [
+        "one red flower with a clearly visible green stem",
+        "one small pair of garden shears",
+        "one low stone path"
+      ],
+      "beats": [
+        "The gardener notices a tall red flower.",
+        "The gardener holds the green stem below the bloom.",
+        "The shears cut through the thick stem just below the flower."
+      ],
+      "ending": "The cut stem and red flower remain clearly visible together."
+    },
+    "artDirection": "Keep the green stem prominent and unbroken-looking above the cut. One person with normal hands. No writing, labels, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "suitable",
+    "anchor": "boots",
+    "anchorMeaning": "靴子",
+    "relation": "Sturdy boots made for cold weather are suitable for a snowy walk.",
+    "sentence": "These sturdy boots are suitable for a snowy walk.（这双结实的靴子适合在雪地里行走。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet snowy trail through evergreen trees.",
+      "actor": "One hiker wears sturdy winter boots and walks comfortably through the snow.",
+      "props": [
+        "one pair of sturdy winter boots",
+        "a snow-covered trail",
+        "evergreen trees"
+      ],
+      "beats": [
+        "The hiker steps onto the snowy trail.",
+        "The sturdy boots grip the snow securely.",
+        "The hiker continues the walk comfortably."
+      ],
+      "ending": "The boots are visibly well suited to the snowy path."
+    },
+    "artDirection": "Show the boots clearly in contact with snow. One hiker only, natural legs and feet. No writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "presence",
+    "anchor": "bed",
+    "anchorMeaning": "床",
+    "relation": "A caring nurse's presence beside the bed comforts the child, making the idea of being there concrete.",
+    "sentence": "The nurse's presence beside the bed calmed the child.（护士在床边陪伴，让孩子平静了下来。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm, softly lit bedroom.",
+      "actor": "One nurse sits beside a child's bed while one child relaxes under a blanket; exactly two people.",
+      "props": [
+        "one simple bed",
+        "one soft blanket",
+        "one small bedside lamp"
+      ],
+      "beats": [
+        "The child looks uneasy in bed.",
+        "The nurse stays quietly beside the bed.",
+        "The child relaxes because the nurse is there."
+      ],
+      "ending": "The nurse remains present at the bedside as the child looks calm."
+    },
+    "artDirection": "Gentle everyday care, no medical equipment or text. Exactly two people with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "collection",
+    "anchor": "seashells",
+    "anchorMeaning": "贝壳",
+    "relation": "A collection is a group of similar things gathered and kept together; seashells make it visible.",
+    "sentence": "His collection of seashells filled a small display case.（他收藏的贝壳装满了一个小展示柜。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright room with a small wooden display case on a table.",
+      "actor": "One child admires a neat collection of seashells arranged inside the case.",
+      "props": [
+        "one small wooden display case",
+        "several varied seashells arranged in rows",
+        "one simple tabletop"
+      ],
+      "beats": [
+        "The child opens the display case.",
+        "Many seashells are arranged together inside.",
+        "The child looks over the complete shell collection."
+      ],
+      "ending": "The display case is visibly filled with carefully gathered seashells."
+    },
+    "artDirection": "Show a varied but tidy group of shells. No labels, writing, or extra objects.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "careful",
+    "anchor": "rose",
+    "anchorMeaning": "玫瑰",
+    "relation": "A careful gardener trims each rose gently and precisely.",
+    "sentence": "The careful gardener trimmed each rose with small shears.（细心的园丁用小剪刀修剪每一朵玫瑰。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A neat rose garden in soft morning light.",
+      "actor": "One gardener carefully trims a rose bush with small shears.",
+      "props": [
+        "one rose bush with several red roses",
+        "one small pair of garden shears",
+        "one pair of gardening gloves"
+      ],
+      "beats": [
+        "The gardener studies the rose bush closely.",
+        "The gardener makes a precise cut beside one rose.",
+        "The gardener checks the trimmed flower carefully."
+      ],
+      "ending": "The gardener tends the roses with a focused, gentle expression."
+    },
+    "artDirection": "Careful, precise action; keep all fingers natural. No writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "friendship",
+    "anchor": "kite",
+    "anchorMeaning": "风筝",
+    "relation": "Sharing a kite and playing together shows a warm friendship.",
+    "sentence": "Their friendship grew as they flew a kite together.（他们一起放风筝，友谊也渐渐加深。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breezy grassy hill with leafy trees along the horizon and a softly clouded sky, filling the whole scene.",
+      "actor": "Two close friends smile and fly one kite together; exactly two people.",
+      "props": [
+        "one colorful diamond-shaped kite",
+        "one kite string held by both friends",
+        "one open grassy hill"
+      ],
+      "beats": [
+        "The two friends stand together on the hill.",
+        "They hold the same kite string and watch the kite rise.",
+        "They laugh and continue flying the kite side by side."
+      ],
+      "ending": "The two friends share a happy moment beneath their flying kite."
+    },
+    "artDirection": "Exactly two people, each with normal arms and hands. Fill the full frame edge to edge with a warm textured sky, soft clouds, leafy trees, and meadow grass; no blank white background or empty margins. No writing or logos on the kite.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然、友谊和风筝锚点关系明确；已加强满幅背景要求以维持整套绘本画风。"
+    }
+  },
+  {
+    "word": "leadership",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "A leader who guides a team working together in a garden shows leadership.",
+    "sentence": "Her leadership guided the team as they planted a community garden.（她带领团队种植社区花园。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny community garden with raised planting beds.",
+      "actor": "One woman leads one neighbor as they plant seedlings together; exactly two people.",
+      "props": [
+        "one raised garden bed",
+        "small green seedlings",
+        "one plain watering can"
+      ],
+      "beats": [
+        "The two neighbors meet beside the empty garden bed.",
+        "The woman leader points to a place for the seedlings.",
+        "Her neighbor follows the guidance and they plant side by side."
+      ],
+      "ending": "The woman guides one teammate through the planting task."
+    },
+    "artDirection": "Exactly two people total, both with normal limbs. Make the leader’s guiding gesture clear and show their teamwork. No extra people, signs, writing, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然、两人共同种植能表现 leadership；画面人数明确限制为两人。"
+    }
+  },
+  {
+    "word": "actor",
+    "anchor": "curtain",
+    "anchorMeaning": "幕布",
+    "relation": "An actor performs on stage and bows when the performance ends.",
+    "sentence": "The actor bowed after the final curtain call.（最后一次谢幕后，那名演员鞠躬致谢。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small theater stage just after a performance.",
+      "actor": "One male actor bows toward the empty audience seats; only one person.",
+      "props": [
+        "one deep red stage curtain",
+        "one wooden stage floor",
+        "rows of empty theater seats"
+      ],
+      "beats": [
+        "The curtain opens after the performance.",
+        "The actor steps forward into the stage light.",
+        "The actor bows to the audience."
+      ],
+      "ending": "The male actor stands on stage in a clear final bow."
+    },
+    "artDirection": "Show one adult male performer with normal limbs. Empty seats only, no audience silhouettes, no writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "proportion",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "Comparing the red apples with the smaller number of green apples shows their proportion in the group.",
+    "sentence": "A large proportion of the apples in the basket are red.（篮子里大部分苹果是红色的。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean kitchen table with a fruit basket.",
+      "actor": "No people; the color balance among the apples is the focus.",
+      "props": [
+        "one basket containing many red apples",
+        "a few green apples mixed among them",
+        "one plain kitchen table"
+      ],
+      "beats": [
+        "A basket holds a group of apples.",
+        "Most apples in the basket are red, with only a few green ones.",
+        "The larger red share is easy to compare with the smaller green share."
+      ],
+      "ending": "The basket clearly shows a large proportion of red apples."
+    },
+    "artDirection": "Make the red apples clearly more numerous than the green apples. No labels or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "bracket",
+    "anchor": "blank boxes",
+    "anchorMeaning": "空白方框",
+    "relation": "A bracket placed beside blank boxes groups them together, giving the punctuation mark a clear visual role.",
+    "sentence": "The editor drew a bracket beside two blank boxes to group them.（编辑在两个空白方框旁画了一个括号，把它们归在一起。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple desk viewed from above.",
+      "actor": "One editor draws a grouping bracket beside two empty boxes on a blank sheet.",
+      "props": [
+        "one blank sheet with two empty outlined boxes",
+        "one dark pencil",
+        "one clear curly bracket drawn beside the boxes"
+      ],
+      "beats": [
+        "The editor places two empty boxes on the page.",
+        "The editor draws one curly bracket beside both boxes.",
+        "The bracket visibly groups the two boxes together."
+      ],
+      "ending": "The two blank boxes sit together inside the grouping indicated by the bracket."
+    },
+    "artDirection": "Only the two empty boxes and one simple punctuation bracket; no letters, numbers, words, or extra marks.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "excessive",
+    "anchor": "pancakes",
+    "anchorMeaning": "煎饼",
+    "relation": "An excessive amount is more than needed; syrup overflowing over pancakes makes the excess obvious.",
+    "sentence": "He poured an excessive amount of syrup over the pancakes.（他在煎饼上倒了过量的糖浆。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breakfast table in a cozy kitchen.",
+      "actor": "One person pours far too much syrup onto a short stack of pancakes.",
+      "props": [
+        "one short stack of pancakes",
+        "one small syrup jug tilted over the stack",
+        "a broad pool of syrup spreading across the plate"
+      ],
+      "beats": [
+        "The person begins pouring syrup over the pancakes.",
+        "Too much syrup quickly covers the stack.",
+        "Syrup runs over the pancakes and spreads across the plate."
+      ],
+      "ending": "The amount of syrup is visibly excessive for the small stack."
+    },
+    "artDirection": "Show an obvious but appetizing overabundance of syrup. No writing or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "productive",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "A productive orchard produces many apples, so abundant fruit makes productivity visible.",
+    "sentence": "The productive orchard yielded baskets of ripe apples.（这座高产果园收获了好几篮成熟的苹果。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A thriving apple orchard in late summer.",
+      "actor": "One farmer gathers abundant ripe apples beneath fruit-heavy trees.",
+      "props": [
+        "apple trees full of ripe fruit",
+        "two baskets filled with apples",
+        "one grassy orchard row"
+      ],
+      "beats": [
+        "The farmer walks among heavily laden apple trees.",
+        "The farmer picks ripe apples from a low branch.",
+        "The baskets fill with the orchard's plentiful harvest."
+      ],
+      "ending": "Abundant apples and full baskets show a productive orchard."
+    },
+    "artDirection": "Make the trees visibly fruitful and the baskets full. No writing, labels, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "impression",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "The first feeling a visitor gets from meeting a friendly puppy is a first impression.",
+    "sentence": "The puppy made a warm first impression on the new visitor.（小狗给新来的访客留下了温暖的第一印象。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A welcoming home doorway on a bright afternoon.",
+      "actor": "One friendly puppy greets one new adult visitor; exactly two living subjects.",
+      "props": [
+        "one small friendly puppy",
+        "one open front doorway",
+        "one simple doormat"
+      ],
+      "beats": [
+        "The visitor arrives at the open doorway.",
+        "The puppy approaches with a wagging tail.",
+        "The visitor smiles at the puppy's friendly greeting."
+      ],
+      "ending": "The visitor looks warmly pleased after meeting the puppy."
+    },
+    "artDirection": "One puppy with natural canine anatomy and one adult visitor with normal limbs. No text or signs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "worldwide",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "relation": "A song enjoyed by dancers in far-apart places is popular worldwide; the globe makes the reach concrete.",
+    "sentence": "Two dancers on opposite sides of the globe moved to a song that became popular worldwide.（地球两端的两位舞者伴着一首风靡全球的歌曲起舞。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A full-frame, softly painted blue sky and warm land surrounds one large globe, with two distant dance spots.",
+      "actor": "Exactly two small dancers in far-apart regions move to the same song; no other people anywhere.",
+      "props": [
+        "one large blue-green globe with no labels",
+        "two small distant patches of green land on opposite sides of the globe",
+        "one plain hand drum with no markings"
+      ],
+      "beats": [
+        "One dancer begins to move to the song on one side of the globe.",
+        "A second dancer moves to the same song on a far side of the globe.",
+        "The globe connects the two distant dancers and shows the song has worldwide reach."
+      ],
+      "ending": "Exactly two dancers in distant regions surround the globe, showing the song is popular worldwide."
+    },
+    "artDirection": "Exactly two people total; no groups, crowds, portraits, or extra figures anywhere. No flags, map labels, text, logos, or musical-note glyphs. Fill the image edge to edge with textured blue sky, warm land, and the large globe; no white blank background or margins.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：句子更具体自然，globe 和 worldwide 均明确出现；画面人数明确限制为两人。"
+    }
+  },
+  {
+    "word": "immediate",
+    "anchor": "lifeguard",
+    "anchorMeaning": "救生员",
+    "relation": "An immediate response happens at once; the lifeguard moving quickly when called shows no delay.",
+    "sentence": "The lifeguard gave immediate help when a swimmer waved from the shallow pool.（游泳者在浅水池里挥手求助时，救生员立刻伸手帮忙。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm public swimming pool in daylight.",
+      "actor": "One lifeguard quickly reaches toward one swimmer who waves from the shallow end; exactly two people.",
+      "props": [
+        "one shallow swimming pool",
+        "one plain lifeguard chair",
+        "one simple rescue ring resting nearby"
+      ],
+      "beats": [
+        "The swimmer raises a hand in the shallow water.",
+        "The lifeguard notices at once and moves quickly closer.",
+        "The lifeguard offers a hand to help the swimmer."
+      ],
+      "ending": "The lifeguard responds promptly and the swimmer is safe in shallow water."
+    },
+    "artDirection": "Keep the scene calm and safe in shallow water. Exactly two people with normal limbs. No signs, writing, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "scholar",
+    "anchor": "maps",
+    "anchorMeaning": "地图",
+    "relation": "A scholar studies a subject deeply; old maps are a clear object of careful research.",
+    "sentence": "The scholar compared old maps at a desk in the university library.（这位学者在大学图书馆的书桌旁比对旧地图。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet university library with tall shelves.",
+      "actor": "One scholar carefully studies and compares two old maps at a desk.",
+      "props": [
+        "two unlabeled old maps",
+        "one wooden reading desk",
+        "one stack of reference books"
+      ],
+      "beats": [
+        "The scholar spreads two old maps on the desk.",
+        "The scholar studies their shapes and routes closely.",
+        "The scholar compares the maps as part of careful research."
+      ],
+      "ending": "The scholar remains focused on the old maps in the library."
+    },
+    "artDirection": "Maps must contain no readable labels, letters, or words. One person with normal hands.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "nine",
+    "anchor": "pears",
+    "anchorMeaning": "梨",
+    "relation": "A carefully arranged set of exactly nine pears makes the number nine concrete.",
+    "sentence": "Nine yellow pears filled the wooden bowl.（木碗里装着九个黄色的梨。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table in soft daylight.",
+      "actor": "No people; exactly nine separate yellow pears are arranged visibly in one wooden bowl.",
+      "props": [
+        "one shallow wooden bowl",
+        "exactly nine clearly separated yellow pears",
+        "one plain tabletop"
+      ],
+      "beats": [
+        "An empty wooden bowl rests on the table.",
+        "Nine yellow pears are placed in the bowl in a neat arrangement.",
+        "All nine pears remain visible and easy to count."
+      ],
+      "ending": "The bowl contains exactly nine distinct yellow pears, all unobstructed."
+    },
+    "artDirection": "Exactly nine pears, arranged in a clear three-by-three pattern with none hidden or overlapping. No numerals, writing, or extra fruit.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "saving",
+    "anchor": "lamp",
+    "anchorMeaning": "灯",
+    "relation": "Turning off an unused lamp saves electricity, making saving energy visible through a small action.",
+    "sentence": "Saving electricity, Maya switches off the lamp before leaving the room.（玛雅离开房间前关掉灯，以节省电力。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy bedroom at dusk, visible through warm window light and the open doorway.",
+      "actor": "One woman turns off the bedside lamp at its own switch and walks toward the open doorway.",
+      "props": [
+        "one simple bedside lamp with a visible small switch",
+        "one bedside table",
+        "one open bedroom doorway"
+      ],
+      "beats": [
+        "The bedside lamp is glowing in an empty room.",
+        "Maya clicks the lamp’s own switch before leaving.",
+        "The lamp is visibly dark as Maya steps toward the doorway."
+      ],
+      "ending": "The switched-off lamp is clear, showing electricity is being saved as Maya leaves."
+    },
+    "artDirection": "Show the lamp visibly off with no yellow glow or rays; keep the room softly visible from ambient dusk light. One woman with natural limbs. No symbols, words, or labels.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然易读，saving electricity 的动作明确；已强调台灯实际熄灭。"
+    }
+  },
+  {
+    "word": "cognitive",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "relation": "A puzzle challenges thinking and attention, showing a cognitive task.",
+    "sentence": "The puzzle is a cognitive challenge that makes the child think carefully.（这个拼图是一项认知挑战，让孩子认真思考。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet playroom with a low table.",
+      "actor": "One child studies a simple shape puzzle with a thoughtful expression.",
+      "props": [
+        "one plain wooden shape puzzle with blank pieces",
+        "one low table",
+        "one empty puzzle space"
+      ],
+      "beats": [
+        "The child looks closely at the puzzle pieces.",
+        "The child considers which shape fits the empty space.",
+        "The child places one piece into the puzzle after thinking."
+      ],
+      "ending": "The child is visibly concentrating on the thinking challenge."
+    },
+    "artDirection": "Puzzle has only plain geometric shapes, no letters, numbers, symbols, or printed picture. One child with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  },
+  {
+    "word": "additional",
+    "anchor": "stack",
+    "anchorMeaning": "一摞书",
+    "relation": "An additional book is one more book added to the stack that is already there.",
+    "sentence": "She placed an additional book on top of the stack.（她又在那摞书上放了一本书。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright study desk beside a window.",
+      "actor": "One person places one extra book on an existing stack of books.",
+      "props": [
+        "one neat stack of three plain books",
+        "one additional plain book in the person's hands",
+        "one simple study desk"
+      ],
+      "beats": [
+        "A stack of books rests on the desk.",
+        "The person brings one more book over the stack.",
+        "The additional book is placed on top, making the stack taller."
+      ],
+      "ending": "The original stack now has one clearly additional book on top."
+    },
+    "artDirection": "Books have blank covers with no titles or writing. One person with natural hands and arms.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均出现在英文句中，语义与图像场景一致。"
+    }
+  }
+]

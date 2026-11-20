@@ -1,0 +1,622 @@
+[
+  {
+    "word": "be",
+    "anchor": "bee",
+    "anchorMeaning": "蜜蜂",
+    "relation": "bee 与 be 同音；用蜜蜂真实停留在花上的画面记住 be 的存在/处于义，不称作词源关系。",
+    "sentence": "A bee can be on that flower all morning（蜜蜂可以在那朵花上待一早上）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光充足的花园",
+      "actor": "一只正在采蜜的蜜蜂",
+      "props": [
+        "盛开的花",
+        "宽阔的绿叶",
+        "沾在花粉篮上的花粉"
+      ],
+      "beats": [
+        "蜜蜂飞近花朵",
+        "蜜蜂落在花瓣上",
+        "蜜蜂停留并采集花粉"
+      ],
+      "ending": "蜜蜂稳稳停在花瓣上，清楚表现它在花朵上待着"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "bee/be 为同音关系；英文句子语法自然，存在义可由停留画面表达。"
+    }
+  },
+  {
+    "word": "have",
+    "anchor": "half",
+    "anchorMeaning": "一半",
+    "relation": "have 与 half 都以 ha- 开头，发音相近，末尾 /v/ 与 /f/ 对照；这是拼写和近音联想，不是词源关系。",
+    "sentence": "I have half a sandwich in my hand while the other half rests on the plate（我手里拿着半个三明治，另一半放在盘子上）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖的家庭餐桌旁",
+      "actor": "拿着一半三明治的孩子",
+      "props": [
+        "恰好切成两半的三明治",
+        "圆餐盘",
+        "小叉子"
+      ],
+      "beats": [
+        "孩子看见一份三明治正好分成两半",
+        "孩子拿起其中一半",
+        "另一半留在盘子里"
+      ],
+      "ending": "孩子拿着两半中的一半，另一半单独放在盘子里；全图只有这两半"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "have/half 的句子自然，准确对应图中孩子手里一半、盘里另一半的构图。"
+    }
+  },
+  {
+    "word": "do",
+    "anchor": "dew",
+    "anchorMeaning": "露水",
+    "relation": "dew 与 do 同音；把 do（做）的动作放在有露水的草地上作声音联想，不称作词源关系。",
+    "sentence": "The puppy can do a trick by jumping over a dew-covered ball（小狗可以跃过沾露水的球表演把戏）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨有露水的草地",
+      "actor": "正在跳跃的小狗",
+      "props": [
+        "沾有露珠的彩球",
+        "柔软训练垫",
+        "狗饼干"
+      ],
+      "beats": [
+        "小狗盯住草地上的彩球",
+        "小狗跃过沾露水的球",
+        "小狗落到训练垫上完成把戏"
+      ],
+      "ending": "小狗跃过带露珠的球，稳稳落在训练垫上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "dew/do 同音；英文句子自然，do 表示执行把戏动作，画面包含露水锚点。"
+    }
+  },
+  {
+    "word": "I",
+    "anchor": "eye",
+    "anchorMeaning": "眼睛",
+    "relation": "I 与 eye 同音；以闭上一只眼睛的动作绑定第一人称 I。",
+    "sentence": "I close one eye to wink（我闭上一只眼睛眨眼）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "明亮简洁的室内",
+      "actor": "正面朝向观者、闭上一只眼睛的孩子",
+      "props": [
+        "一枝鲜花",
+        "木椅",
+        "小布球"
+      ],
+      "beats": [
+        "孩子看向观者",
+        "孩子闭上一只眼睛",
+        "孩子自然地眨眼微笑"
+      ],
+      "ending": "孩子正面看向观者，清楚闭上一只眼睛眨眼"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "移除镜子和倒影，避免重复人物；句子自然，正面闭眼动作直接呈现 eye/I 联想。"
+    }
+  },
+  {
+    "word": "two",
+    "anchor": "tooth",
+    "anchorMeaning": "牙齿",
+    "relation": "two 与 tooth 开头的 /tuː/ 音相同；牙齿锚点帮助记住数量词 two，不是词源关系。",
+    "sentence": "The tooth fairy leaves two coins beside one baby tooth（牙仙在一颗乳牙旁留下两枚硬币）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "夜晚的儿童卧室",
+      "actor": "蹲在枕头旁的牙仙",
+      "props": [
+        "恰好一颗乳牙",
+        "恰好两枚无刻字硬币",
+        "柔软枕头"
+      ],
+      "beats": [
+        "牙仙发现枕头旁的一颗乳牙",
+        "牙仙数出两枚硬币",
+        "牙仙把两枚硬币放在乳牙旁"
+      ],
+      "ending": "一颗乳牙旁清楚放着两枚没有数字或图案的硬币"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "原图多画了乳牙且硬币似有数字，已改句和场景为一颗牙、两枚无刻字硬币。"
+    }
+  },
+  {
+    "word": "direction",
+    "anchor": "direct",
+    "anchorMeaning": "引导；指引",
+    "relation": "direct 加名词后缀 -ion 构成 direction，词干拼写由 direct- 变为 directi-。",
+    "sentence": "The guide directs a hiker toward the river, showing the direction to follow（向导把一名徒步者引向河边，告诉他该走的方向）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "河边的分岔山路",
+      "actor": "一名举手指路的向导和一名徒步者",
+      "props": [
+        "分岔小路",
+        "木手杖",
+        "远处的河流"
+      ],
+      "beats": [
+        "向导和一名徒步者走到岔路口",
+        "向导把徒步者引向河边一侧",
+        "徒步者沿着指出的方向出发"
+      ],
+      "ending": "向导只为一名徒步者指明通往河边的方向"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "原图多出一名徒步者；句子改为单数并将画面人数限制为向导和一名徒步者。"
+    }
+  },
+  {
+    "word": "four",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "four 与 door 在常见英语口音中押韵；门是可见的熟词锚点，不代表词源关系。",
+    "sentence": "Four red apples roll past an open door（四个红苹果滚过一扇敞开的门）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖农舍敞开的门口",
+      "actor": "无人物，只突出滚动的苹果",
+      "props": [
+        "敞开的木门",
+        "全图恰好四个红苹果",
+        "光秃的木地板"
+      ],
+      "beats": [
+        "四个苹果出现在门内的木地板上",
+        "苹果沿着木地板向门口滚动",
+        "四个苹果滚过敞开的门槛"
+      ],
+      "ending": "木地板上只有四个红苹果正滚过门槛；没有篮子、容器或其他水果"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "重做时仅保留四个苹果、敞开的门和木地板，不放篮子或任何可藏苹果的容器。"
+    }
+  },
+  {
+    "word": "three",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "three 与 tree 近音，仅首辅音不同；用树作为可视化的近音锚点，不称作同音。",
+    "sentence": "Three apples hang from a tree above an empty basket（三个苹果挂在一棵树上方的空篮子旁）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "只有一棵树的开阔草地",
+      "actor": "无人物，只突出树和落果",
+      "props": [
+        "一棵苹果树",
+        "全图恰好三个红苹果",
+        "空藤篮"
+      ],
+      "beats": [
+        "三个苹果挂在树枝上",
+        "三个苹果在树枝间清楚可数",
+        "空篮子放在树下"
+      ],
+      "ending": "一棵树上清楚挂着三个苹果，树下的篮子是空的"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "three/tree 锚点真实对应；图中恰好三个苹果挂在树上，句子已按实际画面修订。"
+    }
+  },
+  {
+    "word": "accord",
+    "anchor": "cord",
+    "anchorMeaning": "绳子",
+    "relation": "accord 的拼写中完整包含 cord；用一根绳子把两方连在一起作拼写提示，不声称二者同源。",
+    "sentence": "The two neighbors tie a cord between their garden fences and reach an accord about sharing the garden（两位邻居把绳子系在花园篱笆间，达成共享花园的协议）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "两户相邻的花园之间",
+      "actor": "正在合作的两位邻居",
+      "props": [
+        "一根粗绳",
+        "两段相邻的篱笆",
+        "一株共同照料的幼苗"
+      ],
+      "beats": [
+        "两位邻居各拿住绳子一端",
+        "他们把绳子系在两段篱笆之间",
+        "他们共同照料篱笆旁的幼苗"
+      ],
+      "ending": "两位邻居系好连接两座花园的绳子，友好地握手"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "cord→accord 是明确的拼写包含提示；句子自然，协议含义由共同协商场景表达。"
+    }
+  },
+  {
+    "word": "social",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "朋友之间的交往是 social（社交的）活动的具体例子；语义联想，不作拼写或词源关系。",
+    "sentence": "A friend greets a neighbor at a small social gathering in the park（一位朋友在公园的小型社交聚会上问候邻居）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "公园草地上的小型聚会",
+      "actor": "正在交谈的两位朋友",
+      "props": [
+        "野餐毯",
+        "水果篮",
+        "两只茶杯"
+      ],
+      "beats": [
+        "一位朋友走近邻居",
+        "两人微笑问候",
+        "两人坐在野餐毯旁交谈"
+      ],
+      "ending": "两位朋友在公园聚会上面对面交谈"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "social gathering 是自然搭配；friend 是语义场景锚点，采用 concept 模式，不声称可由拼写推出。"
+    }
+  },
+  {
+    "word": "different",
+    "anchor": "differ",
+    "anchorMeaning": "不同；有差异",
+    "relation": "differ 加 -ent 形成 different，表示有差异的；真实同词族关系。",
+    "sentence": "The two cups differ in shape, so they look different（这两只杯子的形状有差异，所以看起来不同）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "整洁的餐桌",
+      "actor": "无人物，突出两只杯子",
+      "props": [
+        "圆形杯子",
+        "方形杯子",
+        "木托盘"
+      ],
+      "beats": [
+        "两只杯子并排放在托盘上",
+        "观察者对比它们的轮廓",
+        "两种形状清楚显出差别"
+      ],
+      "ending": "两只外形不同的杯子并排放在托盘上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "differ/different 是真实同词族关系；句子语法正确，比较结果明确。"
+    }
+  },
+  {
+    "word": "education",
+    "anchor": "educate",
+    "anchorMeaning": "教育",
+    "relation": "educate 去掉词尾 e 并加 -ion/-ation 形成 education；真实名词化关系。",
+    "sentence": "Teachers educate children at school, and good education helps them grow（老师在学校教育孩子，良好的教育帮助他们成长）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "采光柔和的教室",
+      "actor": "耐心讲解的老师和一名学生",
+      "props": [
+        "空白课本",
+        "粉笔",
+        "木课桌"
+      ],
+      "beats": [
+        "老师打开课本讲解",
+        "学生认真听并练习",
+        "学生理解内容后开心点头"
+      ],
+      "ending": "老师在课桌旁讲解，学生专注学习"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "educate/education 为真实词族；句子自然，教育过程可画。"
+    }
+  },
+  {
+    "word": "statement",
+    "anchor": "state",
+    "anchorMeaning": "陈述；说明",
+    "relation": "state 加 -ment 形成 statement，表示陈述出来的话或声明；真实构词关系。",
+    "sentence": "The witness states what happened in a short statement（证人用简短陈述说明发生了什么）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静简洁的听证室",
+      "actor": "一名证人在麦克风前，面对一名听众",
+      "props": [
+        "立式麦克风",
+        "简洁讲台",
+        "空白纸张"
+      ],
+      "beats": [
+        "证人走到麦克风前",
+        "证人平静陈述经过",
+        "唯一听众认真聆听"
+      ],
+      "ending": "证人在麦克风前向一名听众作出简短声明"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "原图有三个人；重做场景只保留证人和一名听众，声明与 state 的陈述动作同时可见。"
+    }
+  },
+  {
+    "word": "economic",
+    "anchor": "economy",
+    "anchorMeaning": "经济",
+    "relation": "economy 变为 economic 时词尾 y 改为 ic；真实形态变化，名词变形容词。",
+    "sentence": "Two merchants trade a crate of goods for coins, keeping the local economy moving and creating economic activity（两位商人用硬币交换一箱货物，带动当地经济运转并创造经济活动）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "空白奶油墙前的木桌边，呈现简洁的小镇商店氛围",
+      "actor": "店主和供货人两位商人正在交换货物和硬币",
+      "props": [
+        "几枚无刻字硬币",
+        "一只装着新货的木箱",
+        "店主肩上的皮挎包"
+      ],
+      "beats": [
+        "供货人把木箱放到木桌上",
+        "店主拿出硬币递给供货人",
+        "两位商人完成货物和钱币交换"
+      ],
+      "ending": "两位商人交换硬币和一箱新货；店主肩背皮包，背景简洁且没有文字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "economy/economic 为真实词族；交易句自然易读，画面确切呈现硬币交换货箱并带动当地经济。"
+    }
+  },
+  {
+    "word": "likely",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "雨伞是看见降雨可能性时会准备的具体物件；语义场景锚点，不作词源或拼写关系。",
+    "sentence": "Dark clouds make rain likely, so the child opens an umbrella（乌云预示着可能下雨，孩子因此撑开雨伞）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "乌云刚聚起、还没有下雨的田野边",
+      "actor": "准备撑伞的孩子",
+      "props": [
+        "聚拢的深灰云层",
+        "打开的蓝色雨伞",
+        "被风吹起的几片叶子"
+      ],
+      "beats": [
+        "孩子看见乌云聚拢",
+        "孩子判断可能马上下雨",
+        "孩子撑开雨伞等待"
+      ],
+      "ending": "孩子在尚未落雨时撑开伞，深云和风叶显示降雨可能性"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "原图已在下雨，表达的是事实而非可能性；改为尚未落雨，并以雨伞作语义锚点。"
+    }
+  },
+  {
+    "word": "service",
+    "anchor": "waiter",
+    "anchorMeaning": "服务员",
+    "relation": "服务员提供 service（服务），是职业与其服务行为的具体语义关系；采用 concept 模式，不拆分 -ice。",
+    "sentence": "The waiter brings the meal with friendly service（服务员把饭菜送上桌，服务热情周到）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "温暖的小餐馆",
+      "actor": "端着热菜的服务员",
+      "props": [
+        "圆形托盘",
+        "一盘热菜",
+        "木餐桌"
+      ],
+      "beats": [
+        "服务员端着托盘走到餐桌旁",
+        "服务员把热菜放到客人面前",
+        "服务员微笑着确认客人收到餐点"
+      ],
+      "ending": "服务员把热菜端上桌，客人微笑致谢"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "friendly service 为自然搭配；waiter 与 service 是职业—行为语义关系，不声称词源或拼写关系。"
+    }
+  },
+  {
+    "word": "scientist",
+    "anchor": "lab",
+    "anchorMeaning": "实验室",
+    "relation": "实验室是科学家进行实验与研究的典型场所；采用 concept 模式，避开不成立的 science + ist 拼写拆分。",
+    "sentence": "A scientist carefully studies a sample in the lab（科学家在实验室里仔细研究样本）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "背景简洁的实验室工作台",
+      "actor": "一名专注研究样本的科学家",
+      "props": [
+        "一台显微镜",
+        "一个透明样本瓶",
+        "一个烧杯"
+      ],
+      "beats": [
+        "科学家把样本瓶放到显微镜旁",
+        "科学家观察样本",
+        "科学家把样本放入烧杯完成测试"
+      ],
+      "ending": "科学家在只有显微镜、样本瓶和烧杯的工作台前研究样本"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "原图背景实验器具太多；重做时只保留三件关键实验器材和一名科学家。"
+    }
+  },
+  {
+    "word": "teacher",
+    "anchor": "teach",
+    "anchorMeaning": "教；讲授",
+    "relation": "teach 加 -er 构成 teacher，-er 表示实施动作的人。",
+    "sentence": "The teacher teaches a lesson with chalk（老师用粉笔讲课）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁安静的教室",
+      "actor": "一名老师和一名学生",
+      "props": [
+        "一截粉笔",
+        "空白黑板",
+        "一张木课桌"
+      ],
+      "beats": [
+        "老师拿起粉笔",
+        "老师在黑板上画简单图形并讲解",
+        "唯一学生认真听懂后点头"
+      ],
+      "ending": "老师手持粉笔给一名学生讲课，教室里没有其他人"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "原图多出三名学生；重做时明确画面只有一名老师和一名学生。"
+    }
+  },
+  {
+    "word": "worker",
+    "anchor": "work",
+    "anchorMeaning": "工作",
+    "relation": "work 加 -er 构成 worker，-er 表示做这类工作的人。",
+    "sentence": "The worker finishes a day's work repairing a garden fence（工人完成一天的工作，把花园篱笆修好）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光下的花园边",
+      "actor": "正在修篱笆的工人",
+      "props": [
+        "铁锤",
+        "木篱笆",
+        "几枚木钉"
+      ],
+      "beats": [
+        "工人检查松动的篱笆",
+        "工人用铁锤固定木钉",
+        "工人完成修理并放下铁锤"
+      ],
+      "ending": "工人修好篱笆，手握铁锤站在一旁"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "work/worker 是真实构词关系；句子自然，职业和工作动作清楚。"
+    }
+  },
+  {
+    "word": "themselves",
+    "anchor": "mirror",
+    "anchorMeaning": "镜子",
+    "relation": "镜子把人的形象映回本人，用自我映照的语义场景帮助理解反身代词 themselves；concept 模式。",
+    "sentence": "The players see themselves in a mirror after the match（比赛后，球员们在镜子里看见自己）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "没有标牌的比赛后更衣室",
+      "actor": "两名球员站在镜前；镜中只显示他们各自正常的倒影",
+      "props": [
+        "高身镜",
+        "足球",
+        "搭在长凳上的球衣"
+      ],
+      "beats": [
+        "两名球员走到镜前",
+        "他们在镜中看见自己的倒影",
+        "他们相视一笑并整理球衣"
+      ],
+      "ending": "两名球员在镜中看着自己的倒影，画面没有其他人物或标牌"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "原图多出运动员标识牌且镜前人物关系混乱；重做时保留两名球员及正常镜像，不加标牌。"
+    }
+  }
+]

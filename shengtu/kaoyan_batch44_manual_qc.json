@@ -1,0 +1,112 @@
+{
+  "batch": 44,
+  "part": 1,
+  "reviews": [
+    {
+      "id": "kyc-1741",
+      "status": "pass",
+      "review": "两条不同颜色的毯子在同一张床上部分交叠，overlap 关系直观。"
+    },
+    {
+      "id": "kyc-1742",
+      "status": "pass",
+      "review": "重绘后为无冠饰的统治者坐在宫殿中央座位；无徽章或文字，政权场景清楚。"
+    },
+    {
+      "id": "kyc-1743",
+      "status": "pass",
+      "review": "重绘后仅一位小提琴演奏者和一位鼓掌听众；画面无音符或文字。"
+    },
+    {
+      "id": "kyc-1744",
+      "status": "pass",
+      "review": "恰好两位邻居合力搬同一张桌子，动作明确。"
+    },
+    {
+      "id": "kyc-1745",
+      "status": "pass",
+      "review": "演员在台上接受一位观众鼓掌，acclaim 的称赞意味清楚。"
+    },
+    {
+      "id": "kyc-1746",
+      "status": "pass",
+      "review": "一名辅助工人把补给箱交给另一名工人，辅助支援场景明确。"
+    },
+    {
+      "id": "kyc-1747",
+      "status": "pass",
+      "review": "女子正把一张空白选票投入无标记投票箱，没有勾选或文字。"
+    },
+    {
+      "id": "kyc-1748",
+      "status": "pass",
+      "review": "重绘后运动者穿跑鞋在跑道上边跑边吃一片面包；跑步者与碳水食物线索都清楚。"
+    },
+    {
+      "id": "kyc-1749",
+      "status": "pass",
+      "review": "一串浆果聚成单个簇挂在枝条上，cluster 可辨。"
+    },
+    {
+      "id": "kyc-1750",
+      "status": "pass",
+      "review": "两位社区成员共同搬一块木板搭桥，合作联盟的关系明确。"
+    },
+    {
+      "id": "kyc-1751",
+      "status": "pass",
+      "review": "重绘后警察穿无标记制服帮助迷路的孩子；徽章、标识和文字均已去除。"
+    },
+    {
+      "id": "kyc-1752",
+      "status": "pass",
+      "review": "炉火上的红铜锅质感和颜色明显，无标签文字。"
+    },
+    {
+      "id": "kyc-1753",
+      "status": "pass",
+      "review": "人物躺靠在沙发上并枕着靠垫，couch 场景清楚。"
+    },
+    {
+      "id": "kyc-1754",
+      "status": "pass",
+      "review": "村庄街巷中两位邻居交谈，未出现对话框或文字。"
+    },
+    {
+      "id": "kyc-1755",
+      "status": "pass",
+      "review": "图书馆里狗吠使读者受惊；声响线条无文字，干扰动作明确。"
+    },
+    {
+      "id": "kyc-1756",
+      "status": "pass",
+      "review": "人物用无数字刻度尺测量盆栽幼苗，实测证据的含义清楚。"
+    },
+    {
+      "id": "kyc-1757",
+      "status": "pass",
+      "review": "女子正在扣紧行李箱束带，fasten 动作可见。"
+    },
+    {
+      "id": "kyc-1758",
+      "status": "pass",
+      "review": "人物费力举起大箱子并呈现吃力表情，groan 的情绪线索清晰。"
+    },
+    {
+      "id": "kyc-1759",
+      "status": "pass",
+      "review": "女孩第一次乘火车时兴奋地望向窗外，novelty 的新奇感明确。"
+    },
+    {
+      "id": "kyc-1760",
+      "status": "pass",
+      "review": "针尖穿过布料，pierce 的穿透动作清楚且无伤害场面。"
+    }
+  ],
+  "rerendered": [
+    "kyc-1742",
+    "kyc-1743",
+    "kyc-1748",
+    "kyc-1751"
+  ]
+}

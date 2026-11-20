@@ -1,0 +1,762 @@
+[
+  {
+    "word": "dense",
+    "anchor": "fog",
+    "anchorMeaning": "雾",
+    "relation": "Dense describes something packed closely or hard to see through.",
+    "sentence": "Dense fog covered the bridge before sunrise.",
+    "scene": {
+      "setting": "A stone bridge at dawn",
+      "actor": "Thick fog hides much of a bridge over a river",
+      "props": [
+        "stone bridge",
+        "river",
+        "dense fog"
+      ],
+      "beats": [
+        "The bridge is clear",
+        "Fog gathers",
+        "The dense fog covers the view"
+      ],
+      "ending": "A bridge disappears into dense fog"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Dense describes something packed closely or hard to see through. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text or weather symbols."
+  },
+  {
+    "word": "finite",
+    "anchor": "stones",
+    "anchorMeaning": "石头",
+    "relation": "Finite means having a clear end or limit.",
+    "sentence": "The finite row of stones ended at the garden gate.",
+    "scene": {
+      "setting": "A garden path",
+      "actor": "A short, countable row of stones ends at a plain gate",
+      "props": [
+        "row of stepping stones",
+        "garden gate",
+        "grass"
+      ],
+      "beats": [
+        "The stones begin near the path",
+        "The row continues",
+        "It ends at the gate"
+      ],
+      "ending": "A finite row of stones with a clear end"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Finite means having a clear end or limit. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows or numbers."
+  },
+  {
+    "word": "impatient",
+    "anchor": "bus",
+    "anchorMeaning": "公交车",
+    "relation": "Impatient describes someone who becomes annoyed while waiting.",
+    "sentence": "The impatient child tapped his shoe while the bus was late.",
+    "scene": {
+      "setting": "A quiet bus stop",
+      "actor": "One child taps a shoe beside a bench while watching for a bus",
+      "props": [
+        "plain bench",
+        "single shoe",
+        "distant bus"
+      ],
+      "beats": [
+        "The child waits",
+        "The bus is late",
+        "He taps his shoe impatiently"
+      ],
+      "ending": "An impatient child waits for a bus"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Impatient describes someone who becomes annoyed while waiting. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No route numbers, signs, or text."
+  },
+  {
+    "word": "intuition",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "relation": "Intuition is a feeling that helps someone decide without conscious reasoning.",
+    "sentence": "Her intuition led her to choose the quiet path.",
+    "scene": {
+      "setting": "A fork in a wooded trail",
+      "actor": "One hiker pauses and chooses the quiet path through the trees",
+      "props": [
+        "two forest paths",
+        "walking stick",
+        "small tree"
+      ],
+      "beats": [
+        "She studies the fork",
+        "She follows her intuition",
+        "She takes the quieter path"
+      ],
+      "ending": "A hiker chooses a path by intuition"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Intuition is a feeling that helps someone decide without conscious reasoning. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, arrows, or text."
+  },
+  {
+    "word": "bureaucracy",
+    "anchor": "papers",
+    "anchorMeaning": "文件",
+    "relation": "Bureaucracy is a system of government offices and procedures that can involve many forms.",
+    "sentence": "The town's bureaucracy required stacks of papers before an applicant received a building permit.",
+    "scene": {
+      "setting": "A plain government service desk",
+      "actor": "One applicant waits at a government desk beside a tall stack of blank forms",
+      "props": [
+        "stack of blank forms",
+        "plain desk",
+        "wooden chair"
+      ],
+      "beats": [
+        "The family arrives",
+        "The clerk brings more forms",
+        "The bureaucracy slows the request"
+      ],
+      "ending": "A family faces paperwork at a government office"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Bureaucracy is a system of government offices and procedures that can involve many forms. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "All pages blank; no stamps, seals, writing, signs, or logos."
+  },
+  {
+    "word": "comprehend",
+    "anchor": "gears",
+    "anchorMeaning": "齿轮",
+    "relation": "To comprehend is to understand something clearly.",
+    "sentence": "The child paused to comprehend how the gears worked.",
+    "scene": {
+      "setting": "A quiet workshop table",
+      "actor": "One child studies two turning gears inside a simple open machine",
+      "props": [
+        "two gears",
+        "plain machine case",
+        "wooden table"
+      ],
+      "beats": [
+        "The gears begin to turn",
+        "The child watches them",
+        "She comprehends how they work"
+      ],
+      "ending": "A child understands a pair of gears"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To comprehend is to understand something clearly. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or text."
+  },
+  {
+    "word": "framework",
+    "anchor": "wood",
+    "anchorMeaning": "木头",
+    "relation": "A framework is the basic structure that supports a larger object or building.",
+    "sentence": "The builders raised a wooden framework before adding the walls.",
+    "scene": {
+      "setting": "A small building site",
+      "actor": "Two builders stand beside the exposed wooden frame of a house",
+      "props": [
+        "wooden framework",
+        "plain ladder",
+        "empty foundation"
+      ],
+      "beats": [
+        "They set the upright beams",
+        "They connect the crossbars",
+        "The framework is ready for walls"
+      ],
+      "ending": "Builders raise a wooden framework"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A framework is the basic structure that supports a larger object or building. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No signs, tools with labels, or text."
+  },
+  {
+    "word": "hamper",
+    "anchor": "mud",
+    "anchorMeaning": "泥",
+    "relation": "To hamper is to make movement or progress difficult.",
+    "sentence": "Deep mud can hamper a cart on a country road.",
+    "scene": {
+      "setting": "A muddy country lane",
+      "actor": "One cart wheel sinks into thick mud as a person tries to pull it forward",
+      "props": [
+        "wooden cart",
+        "deep mud",
+        "country lane"
+      ],
+      "beats": [
+        "The cart rolls forward",
+        "A wheel sinks",
+        "The mud hampers its progress"
+      ],
+      "ending": "A cart struggles through deep mud"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To hamper is to make movement or progress difficult. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra people, signs, or text."
+  },
+  {
+    "word": "logic",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "Logic is careful reasoning that connects facts to a conclusion.",
+    "sentence": "She used simple logic to sort the apples by size.",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One child sorts apples into small and large groups by comparing their size",
+      "props": [
+        "red apples",
+        "two plain bowls",
+        "wooden table"
+      ],
+      "beats": [
+        "She looks at the apples",
+        "She compares their sizes",
+        "She sorts them using logic"
+      ],
+      "ending": "Apples sorted into two size groups"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Logic is careful reasoning that connects facts to a conclusion. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, words, or numbers."
+  },
+  {
+    "word": "sanction",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Sanction can mean official approval for an action or plan.",
+    "sentence": "The council gave its sanction to the new bridge plan.",
+    "scene": {
+      "setting": "A plain council meeting room",
+      "actor": "Two council members approve a blank bridge drawing together",
+      "props": [
+        "blank bridge plan",
+        "wooden table",
+        "two plain chairs"
+      ],
+      "beats": [
+        "They examine the plan",
+        "They agree to approve it",
+        "The sanction is granted"
+      ],
+      "ending": "Council members approve a bridge plan"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Sanction can mean official approval for an action or plan. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No seals, signatures, text, or logos."
+  },
+  {
+    "word": "fiscal",
+    "anchor": "coins",
+    "anchorMeaning": "硬币",
+    "relation": "Fiscal describes matters involving public money or budgets.",
+    "sentence": "The council's fiscal plan set aside coins to repair the town bridge.",
+    "scene": {
+      "setting": "A town planning table",
+      "actor": "One official places a small stack of coins beside a plain bridge model",
+      "props": [
+        "small pile of coins",
+        "plain bridge model",
+        "wooden table"
+      ],
+      "beats": [
+        "The official reviews the budget",
+        "She sets aside coins",
+        "The fiscal plan funds repairs"
+      ],
+      "ending": "Coins are set aside for bridge repairs"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Fiscal describes matters involving public money or budgets. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No money amounts, flags, or text."
+  },
+  {
+    "word": "realm",
+    "anchor": "violin",
+    "anchorMeaning": "小提琴",
+    "relation": "A realm is a field of activity; the violin marks the painter’s new field.",
+    "sentence": "The young painter entered the realm of music when she picked up a violin.",
+    "scene": {
+      "setting": "A quiet art studio",
+      "actor": "One young painter explores a plain violin beside a paintbrush",
+      "props": [
+        "plain paintbrush",
+        "small violin",
+        "wooden stool"
+      ],
+      "beats": [
+        "The painter sets down her brush",
+        "She picks up the violin",
+        "Music becomes a new realm"
+      ],
+      "ending": "A painter discovers the realm of music"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A realm is a field of activity; the violin marks the painter’s new field. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No musical notes, labels, or text."
+  },
+  {
+    "word": "scarcely",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "Scarcely means almost not or only just when something happens.",
+    "sentence": "She had scarcely opened the door when the puppy ran outside.",
+    "scene": {
+      "setting": "A simple home entryway",
+      "actor": "One puppy slips through a door just as a woman opens it",
+      "props": [
+        "plain wooden door",
+        "single puppy",
+        "doormat"
+      ],
+      "beats": [
+        "She opens the door",
+        "The puppy runs through",
+        "She has scarcely time to react"
+      ],
+      "ending": "A puppy darts through a newly opened door"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Scarcely means almost not or only just when something happens. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text or extra animals."
+  },
+  {
+    "word": "tragic",
+    "anchor": "ship",
+    "anchorMeaning": "船",
+    "relation": "Tragic describes an event that causes great sadness.",
+    "sentence": "The tragic shipwreck left the harbor quiet at dawn.",
+    "scene": {
+      "setting": "A quiet harbor after a storm",
+      "actor": "One damaged empty boat drifts near shore while a rescue boat waits safely nearby",
+      "props": [
+        "damaged boat",
+        "calm harbor",
+        "small rescue boat"
+      ],
+      "beats": [
+        "A storm passes",
+        "The ship is found damaged",
+        "The tragic wreck leaves the harbor silent"
+      ],
+      "ending": "A damaged boat after a tragic shipwreck"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Tragic describes an event that causes great sadness. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No bodies, injury detail, text, or symbols."
+  },
+  {
+    "word": "transplant",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "To transplant is to move a living plant from one place to another.",
+    "sentence": "They transplant the young tree to a sunnier garden bed.",
+    "scene": {
+      "setting": "A sunny garden",
+      "actor": "Two gardeners move a young tree from a pot into a new garden bed",
+      "props": [
+        "young tree",
+        "plain spade",
+        "garden bed"
+      ],
+      "beats": [
+        "They loosen the roots",
+        "They lift the tree",
+        "They transplant it into the sunny soil"
+      ],
+      "ending": "A young tree is transplanted into a garden"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To transplant is to move a living plant from one place to another. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or writing."
+  },
+  {
+    "word": "archive",
+    "anchor": "photograph",
+    "anchorMeaning": "照片",
+    "relation": "An archive is a place where old records and documents are kept.",
+    "sentence": "She stored the old photographs in the town archive.",
+    "scene": {
+      "setting": "A quiet records room",
+      "actor": "One archivist places a bundle of old blank-backed photographs into a storage box",
+      "props": [
+        "old photographs",
+        "plain archive box",
+        "wooden shelf"
+      ],
+      "beats": [
+        "She gathers the photographs",
+        "She stores them safely",
+        "The archive keeps them for later"
+      ],
+      "ending": "Photographs stored in an archive box"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An archive is a place where old records and documents are kept. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No readable writing, labels, or dates."
+  },
+  {
+    "word": "corridor",
+    "anchor": "classroom",
+    "anchorMeaning": "教室",
+    "relation": "A corridor is a long passage inside a building.",
+    "sentence": "A student hurried down the long corridor toward the classroom.",
+    "scene": {
+      "setting": "A quiet school hallway",
+      "actor": "One student walks along a long empty corridor toward an open classroom door",
+      "props": [
+        "long corridor",
+        "open classroom door",
+        "plain school bench"
+      ],
+      "beats": [
+        "The student enters the hallway",
+        "She follows it",
+        "She reaches the classroom"
+      ],
+      "ending": "A student walks through a corridor"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A corridor is a long passage inside a building. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No room numbers, signs, or writing."
+  },
+  {
+    "word": "dispose",
+    "anchor": "bin",
+    "anchorMeaning": "垃圾箱",
+    "relation": "To dispose of something is to get rid of it.",
+    "sentence": "They used the bin to dispose of empty bottles.",
+    "scene": {
+      "setting": "A clean park path",
+      "actor": "One person places empty bottles into a recycling bin",
+      "props": [
+        "empty bottles",
+        "plain bin",
+        "park path"
+      ],
+      "beats": [
+        "The bottles are gathered",
+        "They are carried to the bin",
+        "The person disposes of them"
+      ],
+      "ending": "Bottles are disposed of in a bin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To dispose of something is to get rid of it. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No recycling symbols, labels, or text."
+  },
+  {
+    "word": "extravagant",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "Extravagant describes something much more elaborate or expensive than necessary.",
+    "sentence": "The extravagant cake covered the table with layers of cream and fruit.",
+    "scene": {
+      "setting": "A cheerful party table",
+      "actor": "One tall cake has many decorative layers and fruit toppings",
+      "props": [
+        "large layered cake",
+        "wooden table",
+        "plain cake stand"
+      ],
+      "beats": [
+        "The baker adds layers",
+        "She decorates the top",
+        "The extravagant cake fills the table"
+      ],
+      "ending": "A richly decorated extravagant cake"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Extravagant describes something much more elaborate or expensive than necessary. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No candles with numbers, writing, or logos."
+  },
+  {
+    "word": "flock",
+    "anchor": "sheep",
+    "anchorMeaning": "绵羊",
+    "relation": "A flock is a group of birds or sheep gathered together.",
+    "sentence": "A flock of sheep crossed the hill behind the shepherd.",
+    "scene": {
+      "setting": "A green hillside",
+      "actor": "One shepherd watches a small flock of sheep crossing the hill",
+      "props": [
+        "several sheep",
+        "grassy hill",
+        "walking stick"
+      ],
+      "beats": [
+        "The sheep gather",
+        "They cross the hill",
+        "The flock moves together"
+      ],
+      "ending": "A flock of sheep crosses a hillside"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A flock is a group of birds or sheep gathered together. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep the sheep natural; no text."
+  }
+]

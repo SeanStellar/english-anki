@@ -1,0 +1,503 @@
+[
+  {
+    "id": "kyc-2311",
+    "anchor": "family",
+    "sentence": "The family gathered for a feast after the harvest.",
+    "relation": "A feast is a large celebratory meal shared by a group.",
+    "setting": "A farmhouse dining room",
+    "actor": "Exactly two family members sit together at a table covered with a generous meal.",
+    "props": [
+      "two family members",
+      "one full dining table",
+      "one harvest basket"
+    ],
+    "beats": [
+      "The harvest is gathered",
+      "The relatives prepare a large meal",
+      "The family shares a feast"
+    ],
+    "ending": "A family shares a feast after the harvest.",
+    "artDirection": "Exactly two people; no labels, writing, or symbols on food or dishes."
+  },
+  {
+    "id": "kyc-2312",
+    "anchor": "week",
+    "sentence": "A fortnight lasts two full weeks, twice as long as one week.",
+    "relation": "A fortnight is a period of fourteen days, or two weeks.",
+    "setting": "A quiet workshop with a blank calendar",
+    "actor": "No people: two blank weekly calendar sheets, each with seven empty day spaces, show a fortnight passing during a repair.",
+    "props": [
+      "two blank weekly calendar sheets",
+      "one repaired machine",
+      "one workbench"
+    ],
+    "beats": [
+      "The repair begins",
+      "Two full weeks pass",
+      "The machine is repaired at the end of the fortnight"
+    ],
+    "ending": "A repair takes a fortnight, shown by two blank weeks on a calendar.",
+    "artDirection": "Show exactly two calendar pages with seven blank spaces each, no dates or numbers; no text, letters, or symbols."
+  },
+  {
+    "id": "kyc-2313",
+    "anchor": "door",
+    "sentence": "He was furious when the door slammed during the storm.",
+    "relation": "Furious means extremely angry.",
+    "setting": "A home entryway during a storm",
+    "actor": "One adult looks furious beside a closed door after a gust slams it shut.",
+    "props": [
+      "one adult",
+      "one plain door",
+      "one storm-dark window"
+    ],
+    "beats": [
+      "The storm gusts outside",
+      "The door slams shut",
+      "The adult becomes furious"
+    ],
+    "ending": "A furious person stands beside a slammed door.",
+    "artDirection": "No motion lines, storm symbols, text, or extra people."
+  },
+  {
+    "id": "kyc-2314",
+    "anchor": "water",
+    "sentence": "The gauge measured the water level in the tank.",
+    "relation": "A gauge is an instrument used to measure a quantity or level.",
+    "setting": "A simple water tank room",
+    "actor": "No people: one plain analog gauge is attached to a clear water tank and shows the water level with a single pointer.",
+    "props": [
+      "one plain analog gauge",
+      "one clear water tank",
+      "one visible water level"
+    ],
+    "beats": [
+      "Water fills the tank",
+      "The gauge measures its level",
+      "The pointer settles at the water level"
+    ],
+    "ending": "A gauge measures the water level in a tank.",
+    "artDirection": "Gauge has no numbers, letters, labels, or symbols; keep the water level and pointer clear."
+  },
+  {
+    "id": "kyc-2315",
+    "anchor": "garden",
+    "sentence": "The gorgeous garden glowed in the evening sun.",
+    "relation": "Gorgeous means very beautiful or impressive in appearance.",
+    "setting": "A flower garden at sunset",
+    "actor": "No people: a lush garden glows in warm evening light.",
+    "props": [
+      "one flower garden",
+      "one evening sun",
+      "one flowering arch"
+    ],
+    "beats": [
+      "The garden rests in soft light",
+      "The sun lowers toward the horizon",
+      "The gorgeous flowers glow warmly"
+    ],
+    "ending": "A gorgeous garden glows in the evening sun.",
+    "artDirection": "Rich beauty without oversaturated colors; no text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2316",
+    "anchor": "hand",
+    "sentence": "She offered a warm greeting with a wave of her hand.",
+    "relation": "A greeting is a friendly expression or gesture used when meeting someone.",
+    "setting": "A home doorway",
+    "actor": "Exactly two friends: one waves a hand warmly as the other arrives.",
+    "props": [
+      "two friends",
+      "one welcoming doorway",
+      "one small plant"
+    ],
+    "beats": [
+      "One friend arrives",
+      "The other raises a hand",
+      "A warm greeting is shared"
+    ],
+    "ending": "One friend gives a warm greeting with a wave of the hand.",
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  },
+  {
+    "id": "kyc-2317",
+    "anchor": "coffee",
+    "sentence": "She used a stone mill to grind coffee beans.",
+    "relation": "To grind is to crush something into smaller pieces or powder.",
+    "setting": "A simple kitchen",
+    "actor": "One person turns a small stone mill to grind coffee beans.",
+    "props": [
+      "one stone mill",
+      "one handful of coffee beans",
+      "one plain bowl"
+    ],
+    "beats": [
+      "The beans are placed in the mill",
+      "The mill turns",
+      "The beans are ground into smaller pieces"
+    ],
+    "ending": "A stone mill grinds coffee beans into powder.",
+    "artDirection": "No labels or writing on the mill, bowl, or containers."
+  },
+  {
+    "id": "kyc-2318",
+    "anchor": "camera",
+    "sentence": "The handbook showed how to clean the camera.",
+    "relation": "A handbook is a concise book of instructions or information about a subject.",
+    "setting": "A tidy desk",
+    "actor": "One person studies a small blank handbook beside a camera before cleaning it.",
+    "props": [
+      "one blank handbook",
+      "one plain camera",
+      "one soft cleaning cloth"
+    ],
+    "beats": [
+      "The camera is set on the desk",
+      "The handbook is opened",
+      "The person prepares to clean the camera"
+    ],
+    "ending": "A handbook helps someone care for a camera.",
+    "artDirection": "All pages completely blank; no writing, letters, numbers, labels, or logos."
+  },
+  {
+    "id": "kyc-2319",
+    "anchor": "flower",
+    "sentence": "The first spring flower will herald the arrival of warm weather.",
+    "relation": "To herald is to announce or signal that something is about to happen.",
+    "setting": "A garden at the start of spring",
+    "actor": "No people: one early flower blooms as the first warm sunlight reaches the garden.",
+    "props": [
+      "one early flower",
+      "one garden bed",
+      "one warm sunbeam"
+    ],
+    "beats": [
+      "Winter leaves the garden quiet",
+      "The first flower opens",
+      "Its bloom heralds spring warmth"
+    ],
+    "ending": "The first flower heralds the arrival of spring.",
+    "artDirection": "No banners, announcement signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2320",
+    "anchor": "rope",
+    "sentence": "The sailors used a rope to hoist the sail.",
+    "relation": "To hoist is to raise or lift something, often with a rope or machine.",
+    "setting": "A calm harbor",
+    "actor": "Exactly two sailors pull one plain rope to raise a large sail on a small boat.",
+    "props": [
+      "two sailors",
+      "one rope",
+      "one large sail"
+    ],
+    "beats": [
+      "The sail hangs low",
+      "The sailors pull the rope",
+      "The sail is hoisted upward"
+    ],
+    "ending": "Two sailors hoist a sail with a rope.",
+    "artDirection": "Exactly two people; no flags, boat names, text, or symbols."
+  },
+  {
+    "id": "kyc-2321",
+    "anchor": "water",
+    "sentence": "He used a garden hose to spray water on the plants.",
+    "relation": "A hose is a flexible tube that carries water or other liquids.",
+    "setting": "A sunny garden",
+    "actor": "One gardener holds a plain garden hose and waters a row of plants.",
+    "props": [
+      "one gardener",
+      "one garden hose",
+      "one row of plants"
+    ],
+    "beats": [
+      "The hose is turned on",
+      "Water flows through it",
+      "The gardener waters the plants"
+    ],
+    "ending": "A garden hose sprays water onto plants.",
+    "artDirection": "No water arrows, labels, text, or logos."
+  },
+  {
+    "id": "kyc-2322",
+    "anchor": "rain",
+    "sentence": "The humidity rose after the rain.",
+    "relation": "Humidity is the amount of moisture in the air.",
+    "setting": "A garden greenhouse after rain",
+    "actor": "One gardener feels the damp air inside a greenhouse with fogged glass.",
+    "props": [
+      "one gardener",
+      "one fogged greenhouse window",
+      "one leafy plant"
+    ],
+    "beats": [
+      "Rain falls outside",
+      "Moisture gathers in the air",
+      "Humidity rises inside the greenhouse"
+    ],
+    "ending": "Humidity rises in a greenhouse after rain.",
+    "artDirection": "No humidity numbers, symbols, text, or rain icons."
+  },
+  {
+    "id": "kyc-2323",
+    "anchor": "ball",
+    "sentence": "The pitcher used his strength to hurl the ball over the fence.",
+    "relation": "To hurl is to throw something with great force.",
+    "setting": "A grassy field beside a fence",
+    "actor": "One pitcher throws one plain ball forcefully over a low fence.",
+    "props": [
+      "one pitcher",
+      "one plain ball",
+      "one low fence"
+    ],
+    "beats": [
+      "The pitcher grips the ball",
+      "He swings his arm",
+      "He hurls the ball over the fence"
+    ],
+    "ending": "A pitcher hurls a ball over a fence.",
+    "artDirection": "One ball only; no motion lines, arrows, text, or extra players."
+  },
+  {
+    "id": "kyc-2324",
+    "anchor": "music",
+    "sentence": "Her music made her an icon to young fans.",
+    "relation": "An icon can be a famous person admired as an ideal or model.",
+    "setting": "A small rehearsal room",
+    "actor": "One admired singer shares a simple song with one young musician who looks inspired.",
+    "props": [
+      "one singer",
+      "one young musician",
+      "one plain guitar"
+    ],
+    "beats": [
+      "The singer performs",
+      "The young musician listens closely",
+      "The singer becomes an icon to the admirer"
+    ],
+    "ending": "A young musician admires a singer as an icon.",
+    "artDirection": "Exactly two people; no logos, posters, text, or symbolic icons.",
+    "targetSense": "偶像；受崇拜的人"
+  },
+  {
+    "id": "kyc-2325",
+    "anchor": "child",
+    "sentence": "The teacher made the story intelligible to the child.",
+    "relation": "Intelligible means clear enough to be understood.",
+    "setting": "A quiet classroom",
+    "actor": "One teacher explains a simple picture story to one child, who now understands it.",
+    "props": [
+      "one teacher",
+      "one child",
+      "one blank picture book"
+    ],
+    "beats": [
+      "The child looks puzzled",
+      "The teacher explains the story",
+      "The child understands it"
+    ],
+    "ending": "A teacher makes a story intelligible to a child.",
+    "artDirection": "Book has no writing or labels; exactly two people; no text or symbols."
+  },
+  {
+    "id": "kyc-2326",
+    "anchor": "field",
+    "sentence": "The lad carried a pail across the field beside the farm.",
+    "relation": "Lad is an informal word for a boy or young man.",
+    "setting": "A quiet farmyard",
+    "actor": "One young boy carries a plain pail across the farmyard.",
+    "props": [
+      "one young boy",
+      "one plain pail",
+      "one farmyard path"
+    ],
+    "beats": [
+      "The boy picks up the pail",
+      "He walks across the farmyard",
+      "The lad carries it to the barn"
+    ],
+    "ending": "A lad carries a pail across a farmyard.",
+    "artDirection": "No writing, labels, signs, or extra people."
+  },
+  {
+    "id": "kyc-2327",
+    "anchor": "sea",
+    "sentence": "The ocean liner crossed the sea with passengers aboard.",
+    "relation": "A liner is a large ship that travels a regular route across oceans.",
+    "setting": "A broad open sea",
+    "actor": "No people visible: one large passenger liner travels across the ocean.",
+    "props": [
+      "one ocean liner",
+      "one open sea",
+      "one distant horizon"
+    ],
+    "beats": [
+      "The liner leaves the harbor",
+      "It crosses open water",
+      "It travels toward the horizon"
+    ],
+    "ending": "A passenger liner crosses the sea.",
+    "artDirection": "No ship names, flags, logos, letters, or numbers."
+  },
+  {
+    "id": "kyc-2328",
+    "anchor": "school",
+    "sentence": "She put her bag inside the locker at school.",
+    "relation": "A locker is a small lockable compartment for storing personal belongings.",
+    "setting": "A quiet school hallway",
+    "actor": "One student places a plain bag inside an open metal locker.",
+    "props": [
+      "one student",
+      "one open locker",
+      "one plain bag"
+    ],
+    "beats": [
+      "The student opens the locker",
+      "The bag is placed inside",
+      "The locker is ready to close"
+    ],
+    "ending": "A student stores a bag in a school locker.",
+    "artDirection": "Locker has no numbers or labels; no school signs, text, or logos."
+  },
+  {
+    "id": "kyc-2329",
+    "anchor": "wheel",
+    "sentence": "Oil helped lubricate the wheel.",
+    "relation": "To lubricate is to apply oil or grease so parts move smoothly.",
+    "setting": "A simple workshop",
+    "actor": "One mechanic applies a drop of oil to the axle of a squeaky wheel.",
+    "props": [
+      "one wheel",
+      "one small oil can",
+      "one mechanic"
+    ],
+    "beats": [
+      "The wheel turns stiffly",
+      "The mechanic applies oil",
+      "The wheel moves smoothly"
+    ],
+    "ending": "Oil lubricates a wheel axle so it can turn smoothly.",
+    "artDirection": "No tool labels, text, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2330",
+    "anchor": "stone",
+    "sentence": "The sculptor carved the marble statue from a block of stone.",
+    "relation": "Marble is a hard, polished stone used for sculpture and buildings.",
+    "setting": "A quiet sculptor's studio",
+    "actor": "One sculptor shapes a pale marble statue from a rough stone block.",
+    "props": [
+      "one sculptor",
+      "one marble block",
+      "one partly carved statue"
+    ],
+    "beats": [
+      "The stone block is set down",
+      "The sculptor carves it",
+      "A marble statue emerges"
+    ],
+    "ending": "A sculptor carves a marble statue from stone.",
+    "artDirection": "No carved writing, logos, symbols, or extra sculptors."
+  },
+  {
+    "id": "kyc-2331",
+    "anchor": "floor",
+    "sentence": "She placed a mat on the floor by the door.",
+    "relation": "A mat is a piece of material placed on the floor for covering or protection.",
+    "setting": "A home entryway",
+    "actor": "One person sets a plain woven mat on the floor beside a doorway.",
+    "props": [
+      "one plain mat",
+      "one floor",
+      "one doorway"
+    ],
+    "beats": [
+      "The bare floor is visible",
+      "The mat is placed beside the door",
+      "The entrance is protected"
+    ],
+    "ending": "A mat rests on the floor by a door.",
+    "artDirection": "No patterns with symbols, text, or lettering on the mat."
+  },
+  {
+    "id": "kyc-2332",
+    "anchor": "song",
+    "sentence": "A melody rose from the song playing on the radio.",
+    "relation": "A melody is a sequence of musical notes forming a tune.",
+    "setting": "A calm living room",
+    "actor": "One person listens to a plain radio playing a gentle song.",
+    "props": [
+      "one person",
+      "one plain radio",
+      "one simple music speaker"
+    ],
+    "beats": [
+      "The radio begins playing",
+      "A clear melody comes through",
+      "The listener recognizes the tune"
+    ],
+    "ending": "A gentle melody plays from a radio song.",
+    "artDirection": "No sound waves, musical notes, text, numbers, or radio labels."
+  },
+  {
+    "id": "kyc-2333",
+    "anchor": "cake",
+    "sentence": "Nineteen candles stood on the birthday cake as the young man smiled.",
+    "relation": "Nineteen is the number between eighteen and twenty.",
+    "setting": "A simple birthday table",
+    "actor": "One young man smiles beside a cake holding exactly nineteen separate plain candles.",
+    "props": [
+      "one young man",
+      "one birthday cake",
+      "exactly nineteen plain candles"
+    ],
+    "beats": [
+      "The cake is set on the table",
+      "Nineteen candles stand upright",
+      "The young man smiles at the cake"
+    ],
+    "ending": "A young man celebrates a cake with exactly nineteen candles.",
+    "artDirection": "Show exactly nineteen separate candles, clearly countable and not grouped or doubled. No numerals, text, letters, symbols, or extra candles."
+  },
+  {
+    "id": "kyc-2334",
+    "anchor": "rain",
+    "sentence": "Notwithstanding the rain, the hikers continued along the path.",
+    "relation": "Notwithstanding means despite or in spite of something.",
+    "setting": "A forest trail during light rain",
+    "actor": "Exactly two hikers continue walking along the trail despite the rain.",
+    "props": [
+      "two hikers",
+      "one forest path",
+      "one rain-darkened coat"
+    ],
+    "beats": [
+      "The rain begins",
+      "The hikers hesitate",
+      "They continue notwithstanding the rain"
+    ],
+    "ending": "Two hikers continue along the path notwithstanding the rain.",
+    "artDirection": "Exactly two people; no umbrellas with text, signs, rain icons, or symbols."
+  },
+  {
+    "id": "kyc-2335",
+    "anchor": "tree",
+    "sentence": "Each tree in the orchard grew apples behind the farmhouse.",
+    "relation": "An orchard is a piece of land planted with fruit trees.",
+    "setting": "A fruit farm behind a farmhouse",
+    "actor": "One farmer walks through rows of apple trees in a well-kept orchard.",
+    "props": [
+      "one farmer",
+      "rows of apple trees",
+      "one farmhouse"
+    ],
+    "beats": [
+      "Trees fill the field",
+      "Apples grow on the branches",
+      "The farmer walks through the orchard"
+    ],
+    "ending": "Apple trees fill an orchard behind a farmhouse.",
+    "artDirection": "No signs, labels, text, or extra people."
+  }
+]

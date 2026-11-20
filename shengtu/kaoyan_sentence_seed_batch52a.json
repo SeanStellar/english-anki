@@ -1,0 +1,977 @@
+[
+  {
+    "id": "kyc-2461",
+    "word": "royalty",
+    "anchor": "book",
+    "anchorMeaning": "书，书籍",
+    "relation": "A royalty is a payment to an author or creator for each copy sold or used.",
+    "sentence": "The writer received a royalty from each book sale.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bookshop counter",
+      "actor": "One writer receives a plain unmarked payment beside one of her books.",
+      "props": [
+        "one writer",
+        "one plain book",
+        "one small stack of unmarked coins"
+      ],
+      "beats": [
+        "The book is sold",
+        "The writer receives a share",
+        "The payment is a royalty"
+      ],
+      "ending": "A writer receives a royalty from a book sale."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No money symbols, book titles, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2462",
+    "word": "saw",
+    "anchor": "wood",
+    "anchorMeaning": "木材，木料，木头",
+    "relation": "A saw is a toothed tool used to cut wood or other hard materials.",
+    "sentence": "The saw cut through the wood.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple carpentry bench",
+      "actor": "One carpenter uses a plain hand saw to cut one wooden board.",
+      "props": [
+        "one hand saw",
+        "one wooden board",
+        "one workbench"
+      ],
+      "beats": [
+        "The board is placed on the bench",
+        "The saw moves through the wood",
+        "The board is cut"
+      ],
+      "ending": "A saw cuts through a wooden board."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "One carpenter only; no extra hands, labels, text, or symbols."
+  },
+  {
+    "id": "kyc-2463",
+    "word": "scout",
+    "anchor": "forest",
+    "anchorMeaning": "森林，林区",
+    "relation": "A scout is someone sent ahead to gather information or find a route.",
+    "sentence": "The scout searched the forest for a trail.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A wooded hillside",
+      "actor": "One scout looks carefully through the forest for a safe trail.",
+      "props": [
+        "one scout",
+        "one forest",
+        "one winding trail"
+      ],
+      "beats": [
+        "The scout enters the trees",
+        "The scout searches the area",
+        "A trail is found"
+      ],
+      "ending": "A scout searches a forest for a trail."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No uniforms with badges, trail signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2464",
+    "word": "shepherd",
+    "anchor": "sheep",
+    "anchorMeaning": "羊，绵羊",
+    "relation": "A shepherd is a person whose job is to care for sheep.",
+    "sentence": "The shepherd led the sheep across the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy hillside",
+      "actor": "One shepherd guides two sheep across a green hill.",
+      "props": [
+        "one shepherd",
+        "two sheep",
+        "one grassy hill"
+      ],
+      "beats": [
+        "The sheep graze",
+        "The shepherd guides them",
+        "The flock crosses the hill"
+      ],
+      "ending": "A shepherd leads sheep over a hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two sheep with four legs each; no extra animals, text, or signs."
+  },
+  {
+    "id": "kyc-2465",
+    "word": "siren",
+    "anchor": "car",
+    "anchorMeaning": "汽车，轿车",
+    "relation": "A siren is a loud warning device that produces a rising or wailing sound.",
+    "sentence": "The driver heard a siren and pulled the car aside.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet city street",
+      "actor": "One driver pulls a plain car aside as an unmarked emergency vehicle approaches with a siren.",
+      "props": [
+        "one driver",
+        "one plain car",
+        "one unmarked emergency vehicle"
+      ],
+      "beats": [
+        "The driver moves along the street",
+        "The siren sounds",
+        "The driver pulls aside"
+      ],
+      "ending": "A siren warns a driver to move a car aside."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No emergency badges, logos, text, license numbers, or sound-wave marks."
+  },
+  {
+    "id": "kyc-2466",
+    "word": "skull",
+    "anchor": "head",
+    "anchorMeaning": "头",
+    "relation": "The skull is the hard bony structure that protects the brain and forms the head.",
+    "sentence": "The skull protected the brain inside his head.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm science classroom",
+      "actor": "One teacher shows a plain skull model beside a simple head model.",
+      "props": [
+        "one skull model",
+        "one head model",
+        "one teacher"
+      ],
+      "beats": [
+        "The head model is shown",
+        "The skull surrounds the brain",
+        "The teacher explains its protective role"
+      ],
+      "ending": "A skull protects the brain inside the head."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Use a clean educational model, not a frightening or graphic skull; no labels or text."
+  },
+  {
+    "id": "kyc-2467",
+    "word": "slaughter",
+    "anchor": "sheep",
+    "anchorMeaning": "羊，绵羊",
+    "relation": "Slaughter means killing animals for food or killing people in large numbers.",
+    "sentence": "The farmer stopped the slaughter of the sheep.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean farmyard",
+      "actor": "One farmer stands between one sheep and a closed butcher's gate, stopping any harm before it happens.",
+      "props": [
+        "one farmer",
+        "one unharmed sheep",
+        "one closed gate"
+      ],
+      "beats": [
+        "The sheep approaches the gate",
+        "The farmer intervenes",
+        "The slaughter is stopped before harm"
+      ],
+      "ending": "A farmer prevents the slaughter of a sheep."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No weapons, blood, injuries, butchering, or graphic details; one sheep only."
+  },
+  {
+    "id": "kyc-2468",
+    "word": "sophomore",
+    "anchor": "college",
+    "anchorMeaning": "大学，专科学校",
+    "relation": "A sophomore is a student in the second year of a high school or college program.",
+    "sentence": "The sophomore returned to college for a second year.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A college walkway",
+      "actor": "One student returns to a campus building carrying books for a second year of study.",
+      "props": [
+        "one student",
+        "one plain stack of books",
+        "one college building"
+      ],
+      "beats": [
+        "The student returns to campus",
+        "Books are carried inside",
+        "The sophomore begins a second year"
+      ],
+      "ending": "A sophomore returns to college for a second year."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No building signs, book titles, letters, or logos."
+  },
+  {
+    "id": "kyc-2469",
+    "word": "spicy",
+    "anchor": "pepper",
+    "anchorMeaning": "胡椒粉",
+    "relation": "Spicy describes food with a strong hot flavor, often from pepper or chili.",
+    "sentence": "The spicy soup burned with pepper.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home kitchen table",
+      "actor": "One person tastes a bowl of soup seasoned with plain red pepper.",
+      "props": [
+        "one bowl of soup",
+        "one small pepper",
+        "one person"
+      ],
+      "beats": [
+        "The pepper is added",
+        "The soup becomes hot and spicy",
+        "The person tastes it carefully"
+      ],
+      "ending": "Pepper makes the soup spicy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No spice labels, text, or symbols; keep the reaction mild."
+  },
+  {
+    "id": "kyc-2470",
+    "word": "stab",
+    "anchor": "fork",
+    "anchorMeaning": "餐叉，叉子",
+    "relation": "To stab is to push a pointed object sharply into something.",
+    "sentence": "The chef used a fork to stab the pumpkin and test whether it was cooked.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen",
+      "actor": "One chef gently tests a cooked pumpkin with a plain fork on a cutting board.",
+      "props": [
+        "one chef",
+        "one plain fork",
+        "one cooked pumpkin"
+      ],
+      "beats": [
+        "The pumpkin is cooked",
+        "The chef pushes in the fork",
+        "The pointed fork pierces the skin"
+      ],
+      "ending": "A fork stabs the pumpkin to test whether it is cooked."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Safe cooking context; no injury, blood, or extra people."
+  },
+  {
+    "id": "kyc-2471",
+    "word": "stipulate",
+    "anchor": "contract",
+    "anchorMeaning": "合同，契约",
+    "relation": "To stipulate is to state a condition or requirement clearly in an agreement.",
+    "sentence": "The contract can stipulate a monthly rent.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain office desk",
+      "actor": "Two adults review a blank rental contract and agree on a monthly payment condition.",
+      "props": [
+        "two adults",
+        "one blank contract",
+        "one plain desk"
+      ],
+      "beats": [
+        "The agreement is reviewed",
+        "A rent condition is stated",
+        "The contract stipulates the requirement"
+      ],
+      "ending": "A contract stipulates a monthly rent condition."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Paper must be blank with no writing, numbers, logos, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2472",
+    "word": "sunset",
+    "anchor": "sun",
+    "anchorMeaning": "太阳（the sun）",
+    "relation": "Sunset is the time when the sun disappears below the horizon in the evening.",
+    "sentence": "The sun dipped below the hills at sunset.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet hillside at evening",
+      "actor": "No people: the sun slips below distant hills as evening begins.",
+      "props": [
+        "one setting sun",
+        "one line of hills",
+        "one darkening sky"
+      ],
+      "beats": [
+        "The sun lowers",
+        "It touches the hills",
+        "The sun disappears at sunset"
+      ],
+      "ending": "The sun dips below the hills at sunset."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No clocks, text, or symbols."
+  },
+  {
+    "id": "kyc-2473",
+    "word": "thereafter",
+    "anchor": "street",
+    "anchorMeaning": "街道",
+    "relation": "Thereafter means after that time or event.",
+    "sentence": "The parade ended, and thereafter the street grew quiet.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A town street after a parade",
+      "actor": "No people: the street is empty after a parade has passed.",
+      "props": [
+        "one quiet street",
+        "one few fallen streamers",
+        "one empty square"
+      ],
+      "beats": [
+        "A parade passes through",
+        "It ends and moves away",
+        "Thereafter the street becomes quiet"
+      ],
+      "ending": "Thereafter the street is quiet after the parade."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No readable signs, banners, or text; no people remain."
+  },
+  {
+    "id": "kyc-2474",
+    "word": "trench",
+    "anchor": "ground",
+    "anchorMeaning": "地，地面",
+    "relation": "A trench is a long narrow ditch dug in the ground.",
+    "sentence": "The workers dug a trench in the ground.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A safe construction site",
+      "actor": "Exactly two workers dig one long narrow trench in soft ground.",
+      "props": [
+        "two workers",
+        "one long narrow trench",
+        "one patch of ground"
+      ],
+      "beats": [
+        "The ground is marked out without writing",
+        "The workers dig a narrow ditch",
+        "The trench extends across the site"
+      ],
+      "ending": "Workers dig a trench in the ground."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no signs, writing, or machinery labels."
+  },
+  {
+    "id": "kyc-2475",
+    "word": "ultraviolet",
+    "anchor": "sun",
+    "anchorMeaning": "太阳（the sun）",
+    "relation": "Ultraviolet is a type of invisible radiation from the sun, beyond violet light in the spectrum.",
+    "sentence": "Ultraviolet rays from the sun can damage skin.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden with a shaded spot",
+      "actor": "One person moves from direct sunlight into shade to protect the skin.",
+      "props": [
+        "one person",
+        "one bright sun",
+        "one shady tree"
+      ],
+      "beats": [
+        "Sunlight falls on the garden",
+        "The person seeks shade",
+        "The skin is protected from ultraviolet rays"
+      ],
+      "ending": "A person leaves direct sunlight to protect their skin."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No UV letters, radiation symbols, diagrams, or text."
+  },
+  {
+    "id": "kyc-2476",
+    "word": "unanimous",
+    "anchor": "vote",
+    "anchorMeaning": "投票选举，投票表决",
+    "relation": "Unanimous means everyone involved agrees or shares the same opinion.",
+    "sentence": "The committee reached a unanimous decision after a vote.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small meeting room",
+      "actor": "Exactly two committee members both raise a hand in agreement after a vote.",
+      "props": [
+        "two committee members",
+        "one plain table",
+        "one blank ballot box"
+      ],
+      "beats": [
+        "A vote is taken",
+        "Both members agree",
+        "The decision is unanimous"
+      ],
+      "ending": "Two members reach a unanimous decision."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no writing, numbers, speech bubbles, or symbols."
+  },
+  {
+    "id": "kyc-2477",
+    "word": "voltage",
+    "anchor": "wire",
+    "anchorMeaning": "金属丝，金属线",
+    "relation": "Voltage is the electrical force or potential difference that pushes current through a circuit.",
+    "sentence": "The voltage in the wire powered the lamp.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workbench",
+      "actor": "No people: one plain wire carries power from a small battery to a glowing lamp.",
+      "props": [
+        "one wire",
+        "one plain battery",
+        "one glowing lamp"
+      ],
+      "beats": [
+        "The wire connects the battery",
+        "Voltage pushes current through it",
+        "The lamp lights"
+      ],
+      "ending": "Voltage in a wire powers a lamp."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No circuit symbols, labels, letters, numbers, or logos."
+  },
+  {
+    "id": "kyc-2478",
+    "word": "width",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "Width is the distance from one side of something to the other.",
+    "sentence": "The width of the door was measured with a plain rod.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workshop doorway",
+      "actor": "One person measures from one side of a doorframe to the other with an unmarked rod.",
+      "props": [
+        "one door",
+        "one unmarked measuring rod",
+        "one person"
+      ],
+      "beats": [
+        "The door is opened",
+        "The rod spans its width",
+        "The distance from side to side is clear"
+      ],
+      "ending": "A rod measures the width of a door."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Rod has no graduations or numbers; no signs, text, or labels."
+  },
+  {
+    "id": "kyc-2479",
+    "word": "zip",
+    "anchor": "jacket",
+    "anchorMeaning": "夹克衫，短上衣",
+    "relation": "A zip is a fastener with interlocking teeth that opens and closes clothing or bags.",
+    "sentence": "The jacket's zip closed the pocket.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple bedroom",
+      "actor": "One person pulls a plain zipper on a jacket pocket closed.",
+      "props": [
+        "one plain jacket",
+        "one visible zip fastener",
+        "one person"
+      ],
+      "beats": [
+        "The pocket is open",
+        "The person pulls the zip",
+        "The pocket closes"
+      ],
+      "ending": "A jacket's zip closes its pocket."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No clothing logos, labels, or text."
+  },
+  {
+    "id": "kyc-2480",
+    "word": "abdomen",
+    "anchor": "chest",
+    "anchorMeaning": "胸部，胸膛",
+    "relation": "The abdomen is the part of the body between the chest and the pelvis.",
+    "sentence": "The abdomen lies below the chest.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm anatomy classroom",
+      "actor": "One teacher points to the abdomen on a plain torso model below the chest.",
+      "props": [
+        "one teacher",
+        "one plain torso model",
+        "one classroom table"
+      ],
+      "beats": [
+        "The chest is identified",
+        "The area below it is shown",
+        "The abdomen is located"
+      ],
+      "ending": "The abdomen lies below the chest."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational model only; no medical symbols, labels, or text."
+  },
+  {
+    "id": "kyc-2481",
+    "word": "agitate",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "To agitate is to stir or disturb a liquid, or to make someone anxious or angry.",
+    "sentence": "She used a spoon to agitate the water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A kitchen counter",
+      "actor": "One person stirs water briskly in a clear glass with a plain spoon.",
+      "props": [
+        "one glass of water",
+        "one plain spoon",
+        "one person"
+      ],
+      "beats": [
+        "The water is still",
+        "The spoon stirs it",
+        "The water is agitated"
+      ],
+      "ending": "A spoon agitates water in a glass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No motion lines, labels, or text."
+  },
+  {
+    "id": "kyc-2482",
+    "word": "amiable",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "Amiable means friendly, pleasant, and easy to like.",
+    "sentence": "An amiable smile welcomed the guest.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home doorway",
+      "actor": "One amiable host greets one guest with a warm smile.",
+      "props": [
+        "one host",
+        "one guest",
+        "one doorway"
+      ],
+      "beats": [
+        "The guest arrives",
+        "The host smiles warmly",
+        "The amiable greeting welcomes the guest"
+      ],
+      "ending": "An amiable host welcomes a guest with a smile."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  },
+  {
+    "id": "kyc-2483",
+    "word": "bribe",
+    "anchor": "money",
+    "anchorMeaning": "钱，钞票，货币",
+    "relation": "A bribe is money or another reward offered to persuade someone to act dishonestly.",
+    "sentence": "The official refused money offered as a bribe.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain office",
+      "actor": "Exactly two adults: one official pushes away an unmarked envelope offered by another person.",
+      "props": [
+        "one official",
+        "one plain envelope",
+        "one desk"
+      ],
+      "beats": [
+        "The envelope is offered",
+        "The official recognizes the bribe",
+        "The official refuses it"
+      ],
+      "ending": "An official refuses money offered as a bribe."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No currency symbols, written labels, logos, or extra people."
+  },
+  {
+    "id": "kyc-2484",
+    "word": "composite",
+    "anchor": "wood",
+    "anchorMeaning": "木材，木料，木头",
+    "relation": "A composite material is made by combining two or more different materials.",
+    "sentence": "The composite table surface combined wood and resin.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workshop",
+      "actor": "No people: one composite tabletop shows layers of wood and smooth clear resin.",
+      "props": [
+        "one wood layer",
+        "one clear resin layer",
+        "one composite tabletop"
+      ],
+      "beats": [
+        "The materials are separate",
+        "Wood and resin are combined",
+        "A composite surface is formed"
+      ],
+      "ending": "Wood and resin form a composite tabletop."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No labels, writing, or symbols."
+  },
+  {
+    "id": "kyc-2485",
+    "word": "comrade",
+    "anchor": "team",
+    "anchorMeaning": "（游戏或体育运动的）队，小组",
+    "relation": "A comrade is a companion or fellow member of a group, especially in difficult work or service.",
+    "sentence": "His comrade from the team stood beside him in training.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain training field",
+      "actor": "Exactly two teammates stand side by side after a practice exercise.",
+      "props": [
+        "two teammates",
+        "one training field",
+        "one plain ball"
+      ],
+      "beats": [
+        "The team practices together",
+        "One teammate supports the other",
+        "They stand together as comrades"
+      ],
+      "ending": "Two teammates stand together as comrades after training."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no uniforms with badges, flags, text, or logos."
+  }
+]

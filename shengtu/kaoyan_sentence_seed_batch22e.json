@@ -1,0 +1,662 @@
+[
+  {
+    "word": "heel",
+    "anchor": "boot",
+    "anchorMeaning": "靴子",
+    "sentence": "The heel of his boot sank into the soft sand.",
+    "relation": "The scene links heel with boot: The heel of his boot sank into the soft sand.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet sandy beach.",
+      "actor": "One adult’s boot heel presses clearly into soft sand.",
+      "props": [
+        "one plain boot",
+        "soft beach sand",
+        "one small shell"
+      ],
+      "beats": [
+        "The boot steps onto the beach.",
+        "Its heel sinks into the sand.",
+        "A clear heel mark remains."
+      ],
+      "ending": "The boot heel leaves a deep mark in the sand."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links heel with boot: The heel of his boot sank into the soft sand.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "twelve",
+    "anchor": "egg",
+    "anchorMeaning": "鸡蛋",
+    "sentence": "Twelve eggs rested in two cartons, with six in each.",
+    "relation": "The scene links twelve with egg: Twelve eggs rested in two cartons, with six in each.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean kitchen counter viewed from above.",
+      "actor": "No people; exactly twelve eggs sit in two open cartons with six eggs in each carton.",
+      "props": [
+        "exactly twelve eggs",
+        "exactly two open egg cartons",
+        "one clean counter"
+      ],
+      "beats": [
+        "The first carton holds six eggs.",
+        "The second carton holds six eggs.",
+        "Together they make twelve."
+      ],
+      "ending": "Two cartons each hold six eggs, twelve in total."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links twelve with egg: Twelve eggs rested in two cartons, with six in each.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "index",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "sentence": "She found the topic in the book’s index at the back.",
+    "relation": "The scene links index with book: She found the topic in the book’s index at the back.",
+    "artDirection": "No text, letters, numbers, writing, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet library desk with a large open book.",
+      "actor": "One adult woman checks the very last pages of a thick book, pointing to a small organized section of blank pages.",
+      "props": [
+        "one thick book opened at its final pages with several plain colored tabs and no writing",
+        "one plain reading desk",
+        "one simple bookmark tucked at the back of the book"
+      ],
+      "beats": [
+        "She opens the book near its final pages.",
+        "She scans the organized blank pages at the back.",
+        "She finds the needed topic in the index."
+      ],
+      "ending": "The woman checks the tabbed index section at the back of the book."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links index with book: She found the topic in the book’s index at the back.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  },
+  {
+    "word": "appoint",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "sentence": "The principal will appoint a new coach before the season begins.",
+    "relation": "The scene links appoint with coach: The principal will appoint a new coach before the season begins.",
+    "artDirection": "No text, letters, numbers, badges, emblems, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet school field before practice.",
+      "actor": "Exactly two adults: one principal formally welcomes one new coach with a handshake; the coach wears plain solid-color clothes.",
+      "props": [
+        "one plain soccer ball",
+        "one blank folder exchanged during the appointment",
+        "one open field"
+      ],
+      "beats": [
+        "The principal meets the new coach.",
+        "They exchange a respectful handshake and a blank folder.",
+        "The principal formally appoints the coach."
+      ],
+      "ending": "The principal appoints the new coach on the field, with no logos or badges."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links appoint with coach: The principal will appoint a new coach before the season begins.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  },
+  {
+    "word": "satisfactory",
+    "anchor": "teacher",
+    "anchorMeaning": "老师",
+    "sentence": "The student gave a satisfactory answer, and the teacher smiled.",
+    "relation": "The scene links satisfactory with teacher: The student gave a satisfactory answer, and the teacher smiled.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple classroom with a blank board.",
+      "actor": "Exactly two people: one student answers while one teacher smiles approvingly.",
+      "props": [
+        "one blank board",
+        "one plain notebook",
+        "one classroom chair"
+      ],
+      "beats": [
+        "The teacher asks a question.",
+        "The student answers aloud.",
+        "The teacher’s smile shows the answer is satisfactory."
+      ],
+      "ending": "The teacher smiles at the student’s satisfactory answer."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links satisfactory with teacher: The student gave a satisfactory answer, and the teacher smiled.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "thesis",
+    "anchor": "professor",
+    "anchorMeaning": "教授",
+    "sentence": "She presented her thesis to a professor in a quiet university office.",
+    "relation": "The scene links thesis with professor: She presented her thesis to a professor in a quiet university office.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet university office with a bare wall.",
+      "actor": "Exactly two adults: one student presents her research thesis to one professor.",
+      "props": [
+        "one closed thesis folder with no writing",
+        "one plain desk",
+        "one simple chair"
+      ],
+      "beats": [
+        "The student arrives with her research.",
+        "She shares the thesis with the professor.",
+        "The professor listens carefully."
+      ],
+      "ending": "The student presents her thesis to the professor."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links thesis with professor: She presented her thesis to a professor in a quiet university office.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "exclusive",
+    "anchor": "club",
+    "anchorMeaning": "俱乐部",
+    "sentence": "Only members could enter the exclusive garden club’s greenhouse.",
+    "relation": "The scene links exclusive with club: Only members could enter the exclusive garden club’s greenhouse.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A private greenhouse behind a garden gate.",
+      "actor": "One adult club member unlocks the greenhouse gate; no crowd appears.",
+      "props": [
+        "one locked garden gate",
+        "one key with no markings",
+        "one glass greenhouse"
+      ],
+      "beats": [
+        "The person arrives at the gate.",
+        "They unlock it with a key.",
+        "The exclusive greenhouse is reserved for members."
+      ],
+      "ending": "A member enters the private greenhouse."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links exclusive with club: Only members could enter the exclusive garden club’s greenhouse.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "membership",
+    "anchor": "card",
+    "anchorMeaning": "卡片",
+    "sentence": "She showed her membership card at the gate of the garden club.",
+    "relation": "The scene links membership with card: She showed her membership card at the gate of the garden club.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A garden club entrance beside a plain wooden gate.",
+      "actor": "One adult presents a blank membership card to one gate attendant.",
+      "props": [
+        "one blank membership card",
+        "one plain garden gate",
+        "one small flowerpot"
+      ],
+      "beats": [
+        "She approaches the club entrance.",
+        "She shows the card.",
+        "The card confirms her membership."
+      ],
+      "ending": "The woman shows her membership card at the gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links membership with card: She showed her membership card at the gate of the garden club.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "upward",
+    "anchor": "balloon",
+    "anchorMeaning": "气球",
+    "sentence": "The balloon drifted upward toward the ceiling.",
+    "relation": "The scene links upward with balloon: The balloon drifted upward toward the ceiling.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet room with a high ceiling.",
+      "actor": "No people; one red balloon floats upward toward the ceiling.",
+      "props": [
+        "one red balloon",
+        "one high ceiling",
+        "one plain window"
+      ],
+      "beats": [
+        "The balloon rises from the floor.",
+        "It moves higher.",
+        "It drifts upward toward the ceiling."
+      ],
+      "ending": "The balloon floats upward."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links upward with balloon: The balloon drifted upward toward the ceiling.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "consultant",
+    "anchor": "baker",
+    "anchorMeaning": "面包师",
+    "sentence": "The consultant advised the baker on redesigning the kitchen.",
+    "relation": "The scene links consultant with baker: The consultant advised the baker on redesigning the kitchen.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small bakery kitchen with a clean worktable.",
+      "actor": "Exactly two adults: one consultant discusses a plain plan with one baker.",
+      "props": [
+        "one blank kitchen plan",
+        "one bread loaf",
+        "one clean worktable"
+      ],
+      "beats": [
+        "The baker describes the kitchen.",
+        "The consultant points to the plan.",
+        "The consultant gives useful advice."
+      ],
+      "ending": "The consultant advises the baker in the kitchen."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links consultant with baker: The consultant advised the baker on redesigning the kitchen.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "elevate",
+    "anchor": "lift",
+    "anchorMeaning": "升降机",
+    "sentence": "A small lift helped the worker elevate a heavy crate.",
+    "relation": "The scene links elevate with lift: A small lift helped the worker elevate a heavy crate.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy warehouse with a plain floor.",
+      "actor": "One adult worker operates a simple lift to raise one crate.",
+      "props": [
+        "one small platform lift",
+        "one heavy wooden crate",
+        "one warehouse floor"
+      ],
+      "beats": [
+        "The crate rests on the lift.",
+        "The worker raises the platform.",
+        "The lift elevates the crate."
+      ],
+      "ending": "The worker elevates the crate with a lift."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links elevate with lift: A small lift helped the worker elevate a heavy crate.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "plunge",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "sentence": "The diver prepared to plunge into the calm lake from the low dock.",
+    "relation": "The scene links plunge with lake: The diver prepared to plunge into the calm lake from the low dock.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; show a clear, safe, headfirst dive into water.",
+    "scene": {
+      "setting": "A calm lakeside dock in clear weather.",
+      "actor": "One adult diver is airborne just above the lake in a clear headfirst diving pose, arms extended forward and feet lifted from the low dock.",
+      "props": [
+        "one low wooden dock",
+        "one calm lake",
+        "one plain diving mask"
+      ],
+      "beats": [
+        "The diver stands at the end of the low dock.",
+        "The diver pushes off and becomes airborne above the water.",
+        "The diver plunges headfirst into the lake."
+      ],
+      "ending": "The diver is clearly seen plunging from the dock into the lake."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links plunge with lake: The diver prepared to plunge into the calm lake from the low dock.",
+      "reviewNote": "Manually checked for natural, readable English and a clear target-to-anchor link before image generation; visual prompt revised after inspecting the prior image."
+    }
+  },
+  {
+    "word": "boast",
+    "anchor": "trophy",
+    "anchorMeaning": "奖杯",
+    "sentence": "He began to boast about the trophy he won at the fair.",
+    "relation": "The scene links boast with trophy: He began to boast about the trophy he won at the fair.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny fairground after a small contest.",
+      "actor": "One adult proudly shows a trophy while talking about it.",
+      "props": [
+        "one plain trophy",
+        "one simple fair booth",
+        "one prize ribbon with no writing"
+      ],
+      "beats": [
+        "He lifts the trophy.",
+        "He speaks proudly about his win.",
+        "He begins to boast."
+      ],
+      "ending": "The man proudly boasts about the trophy."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links boast with trophy: He began to boast about the trophy he won at the fair.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "sue",
+    "anchor": "lawyer",
+    "anchorMeaning": "律师",
+    "sentence": "She asked a lawyer whether she should sue the builder over the damaged roof.",
+    "relation": "The scene links sue with lawyer: She asked a lawyer whether she should sue the builder over the damaged roof.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet lawyer’s office with a small house visible outside.",
+      "actor": "Exactly two adults: one woman consults one lawyer about a roof repair dispute.",
+      "props": [
+        "one simple house model",
+        "one blank folder",
+        "one plain desk"
+      ],
+      "beats": [
+        "The woman describes the damaged roof.",
+        "The lawyer listens carefully.",
+        "They discuss whether she should sue."
+      ],
+      "ending": "The woman talks with her lawyer about suing the builder."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links sue with lawyer: She asked a lawyer whether she should sue the builder over the damaged roof.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "cathedral",
+    "anchor": "bell",
+    "anchorMeaning": "钟",
+    "sentence": "The cathedral bell rang above the quiet town square.",
+    "relation": "The scene links cathedral with bell: The cathedral bell rang above the quiet town square.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A peaceful old town square beside a large cathedral.",
+      "actor": "No people; one cathedral tower rises over the square with a bell visible in its opening.",
+      "props": [
+        "one tall cathedral",
+        "one large bell",
+        "one quiet square"
+      ],
+      "beats": [
+        "The bell hangs in the tower.",
+        "It rings over the square.",
+        "The sound marks the cathedral."
+      ],
+      "ending": "The cathedral bell rings over the town square."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links cathedral with bell: The cathedral bell rang above the quiet town square.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "mortgage",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "sentence": "A first-time buyer met a banker to arrange a mortgage for a house.",
+    "relation": "The scene links mortgage with house: A first-time buyer met a banker to arrange a mortgage for a house.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet bank office with a small house model.",
+      "actor": "Exactly two adults: one first-time homebuyer meets one banker to discuss a mortgage.",
+      "props": [
+        "one small house model",
+        "one house key",
+        "one blank document folder"
+      ],
+      "beats": [
+        "The homeowner shows interest in the house.",
+        "The banker explains the loan.",
+        "They arrange a mortgage for the first home."
+      ],
+      "ending": "The buyer discusses a mortgage for a first house with the banker."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links mortgage with house: A first-time buyer met a banker to arrange a mortgage for a house.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "stereotype",
+    "anchor": "nurse",
+    "anchorMeaning": "护士",
+    "sentence": "A male nurse challenged a stereotype as he gently cared for a baby.",
+    "relation": "The scene links stereotype with nurse: A male nurse challenged a stereotype as he gently cared for a baby.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm clinic nursery with a plain wall.",
+      "actor": "One male nurse gently cares for one baby in a safe cot.",
+      "props": [
+        "one caring male nurse",
+        "one baby in a simple cot",
+        "one folded blanket"
+      ],
+      "beats": [
+        "The nurse checks the baby gently.",
+        "He tucks in the blanket.",
+        "His caring role challenges a stereotype."
+      ],
+      "ending": "The male nurse calmly cares for the baby."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links stereotype with nurse: A male nurse challenged a stereotype as he gently cared for a baby.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "seminar",
+    "anchor": "teacher",
+    "anchorMeaning": "老师",
+    "sentence": "At the seminar, a teacher invited one guest to discuss a model of the solar system.",
+    "relation": "The scene links seminar with teacher: At the seminar, a teacher invited one guest to discuss a model of the solar system.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small seminar room with a bare wall.",
+      "actor": "Exactly two adults: one teacher speaks with one guest beside a simple solar system model.",
+      "props": [
+        "one plain model of planets",
+        "one small seminar table",
+        "two simple chairs"
+      ],
+      "beats": [
+        "The teacher welcomes the guest.",
+        "They discuss the model together.",
+        "Their conversation forms a seminar."
+      ],
+      "ending": "The teacher and guest discuss the model at the seminar."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links seminar with teacher: At the seminar, a teacher invited one guest to discuss a model of the solar system.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "affection",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "sentence": "Her affection for the old dog showed as she gently brushed his coat.",
+    "relation": "The scene links affection with dog: Her affection for the old dog showed as she gently brushed his coat.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny cottage porch.",
+      "actor": "One adult woman gently brushes one old friendly dog.",
+      "props": [
+        "one old dog",
+        "one soft brush",
+        "one porch step"
+      ],
+      "beats": [
+        "The dog rests calmly.",
+        "The woman brushes its coat.",
+        "Her gentle care shows affection."
+      ],
+      "ending": "The woman brushes the dog with affection."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links affection with dog: Her affection for the old dog showed as she gently brushed his coat.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "drift",
+    "anchor": "current",
+    "anchorMeaning": "水流",
+    "sentence": "The small boat began to drift from the dock as the current carried it downstream.",
+    "relation": "The scene links drift with current: The small boat began to drift from the dock as the current carried it downstream.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm river beside a wooden dock.",
+      "actor": "No people; one small boat slowly drifts away from the dock with the current.",
+      "props": [
+        "one small wooden boat",
+        "one simple dock",
+        "one visible river current"
+      ],
+      "beats": [
+        "The boat rests beside the dock.",
+        "The current begins to move it.",
+        "It drifts downstream."
+      ],
+      "ending": "The boat drifts away with the current."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links drift with current: The small boat began to drift from the dock as the current carried it downstream.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

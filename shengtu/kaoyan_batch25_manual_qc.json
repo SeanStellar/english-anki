@@ -1,0 +1,505 @@
+{
+  "batch": "0881-0980",
+  "reviews": [
+    {
+      "id": "kyc-0881",
+      "status": "pass",
+      "review": "Shows one chair, table, and lamp in a furnished room; no text, no people or anatomy to flag, and all props/target context are clear."
+    },
+    {
+      "id": "kyc-0882",
+      "status": "pass",
+      "review": "Child gently pokes the dog and the dog reacts with an open barking mouth; one child and one dog, no visible text or extra limbs, anchor and target action are clear."
+    },
+    {
+      "id": "kyc-0883",
+      "status": "pass",
+      "review": "One passenger is stepping into an otherwise empty lifeboat, making anybody/one more body concrete; visible limbs are connected and correctly counted, with no text."
+    },
+    {
+      "id": "kyc-0884",
+      "status": "pass",
+      "review": "One parent gestures to the child, who waits behind a plain floor line at the classroom door; clearly follows the request and no text appears."
+    },
+    {
+      "id": "kyc-0885",
+      "status": "pass",
+      "review": "One young adult and one elderly villager stand together at the well, clearly showing an age mix; no text or extra people."
+    },
+    {
+      "id": "kyc-0886",
+      "status": "pass",
+      "review": "The duck and child walk side by side in matching poses with opposite feet lifted, clearly showing imitation; one child, one duck, no text."
+    },
+    {
+      "id": "kyc-0887",
+      "status": "pass",
+      "review": "The nurse wears plain clothes and studies four case dots on a blank card in an unmarked room; no cross, badge, or text."
+    },
+    {
+      "id": "kyc-0888",
+      "status": "pass",
+      "review": "A blank invitation is offered beside party cake and decorations; two people, no text, and the invitation-to-party meaning is clear."
+    },
+    {
+      "id": "kyc-0889",
+      "status": "pass",
+      "review": "The farmer grinds wheat at the mill and flour is visible; no text, one farmer, and the anchor-to-target scene is clear."
+    },
+    {
+      "id": "kyc-0890",
+      "status": "pass",
+      "review": "The brain anchor and a visibly uneven facial expression communicate the medical stroke sense; one patient, no text, and no extra or disconnected limbs observed."
+    },
+    {
+      "id": "kyc-0891",
+      "status": "pass",
+      "review": "A large wave surges over the sea wall; the anchor and sudden force are unambiguous, no text or anatomy issues."
+    },
+    {
+      "id": "kyc-0892",
+      "status": "pass",
+      "review": "One witness speaks at a courtroom table while one judge listens from the bench; testimony is clear and no text appears."
+    },
+    {
+      "id": "kyc-0893",
+      "status": "pass",
+      "review": "A thin trail of candle smoke visibly remains in the kitchen after the flame is out; no text or other QC issue."
+    },
+    {
+      "id": "kyc-0894",
+      "status": "pass",
+      "review": "The child presses a cool damp cloth onto a small red burn, clearly showing relief; anatomy and props are clear with no text."
+    },
+    {
+      "id": "kyc-0895",
+      "status": "pass",
+      "review": "A blue patch is sewn over a clear hole; anchor and target action are visible, no text, and no limb issue noted."
+    },
+    {
+      "id": "kyc-0896",
+      "status": "pass",
+      "review": "The child’s tears and lost kite with empty spool clearly show misery; no text or anatomy concern."
+    },
+    {
+      "id": "kyc-0897",
+      "status": "pass",
+      "review": "A noble host welcomes one villager at a castle gate; anchor and role are clear, with exactly two people and no text."
+    },
+    {
+      "id": "kyc-0898",
+      "status": "pass",
+      "review": "The man’s angry face and flaring fire metaphor clearly communicate rage; one person with connected limbs, no text."
+    },
+    {
+      "id": "kyc-0899",
+      "status": "pass",
+      "review": "A clear crack in the bowl’s glaze makes the flaw visible; no text or anatomy issues."
+    },
+    {
+      "id": "kyc-0900",
+      "status": "pass",
+      "review": "The traveler studies an unmarked map while considering the river crossing; no letters, numbers, arrows, or symbols appear."
+    },
+    {
+      "id": "kyc-0901",
+      "status": "pass",
+      "review": "A small measured spoonful clearly conveys a moderate amount; no text or anatomy issue."
+    },
+    {
+      "id": "kyc-0902",
+      "status": "pass",
+      "review": "The climber is visibly clipped into a taut rope that bears her weight, clearly showing reliance; one person, no text."
+    },
+    {
+      "id": "kyc-0903",
+      "status": "pass",
+      "review": "The borrower hands a plain ring to the lender across the counter as security; the pledge transaction is clear and no text appears."
+    },
+    {
+      "id": "kyc-0904",
+      "status": "pass",
+      "review": "A boot sharply breaks a dry twig, making snap and the twig anchor explicit; no text or body-count issue."
+    },
+    {
+      "id": "kyc-0905",
+      "status": "pass",
+      "review": "Muddy pawprints and the entry door provide clear evidence for the dog inference, expressing undoubtedly without any text; no anatomy issue."
+    },
+    {
+      "id": "kyc-0906",
+      "status": "pass",
+      "review": "One commuter boards a completely empty bus for work; no passengers, driver, text, or route signs are visible."
+    },
+    {
+      "id": "kyc-0907",
+      "status": "pass",
+      "review": "The child is visibly jumping with lively energy beside a plain blank battery; no lightning icon or text."
+    },
+    {
+      "id": "kyc-0908",
+      "status": "pass",
+      "review": "The empty hallway and its reflection appear to continue endlessly in the mirror, clearly showing illusion; no people or text."
+    },
+    {
+      "id": "kyc-0909",
+      "status": "pass",
+      "review": "A speaker calls through a megaphone beside a completely blank rally banner; no letters or words, one person, and the slogan context is legible."
+    },
+    {
+      "id": "kyc-0910",
+      "status": "pass",
+      "review": "A single sailboat clearly represents the vessel and its sail anchor; no text, people, or anatomy issues."
+    },
+    {
+      "id": "kyc-0911",
+      "status": "pass",
+      "review": "The child counts blank coins to compute a total; no digits or text, and limbs appear correctly connected."
+    },
+    {
+      "id": "kyc-0912",
+      "status": "pass",
+      "review": "Dark clouds clearly serve as an indication of imminent rain; umbrella anchor visible, no text or anatomy problems."
+    },
+    {
+      "id": "kyc-0913",
+      "status": "pass",
+      "review": "The sailor turns the wheel to steer the boat around rocks; target action is clear and no text or body-count issue."
+    },
+    {
+      "id": "kyc-0914",
+      "status": "pass",
+      "review": "The winning player lifts a plain trophy beside the ball, making superiority in the contest clear; no writing or anatomy issue observed."
+    },
+    {
+      "id": "kyc-0915",
+      "status": "pass",
+      "review": "The child reaches for cookies in the jar, clearly showing temptation and cookie anchor; no text or extra-limb issue."
+    },
+    {
+      "id": "kyc-0916",
+      "status": "pass",
+      "review": "The child pulls a decisive lever linked to the cart; clear one-action outcome, no text or anatomy issue."
+    },
+    {
+      "id": "kyc-0917",
+      "status": "pass",
+      "review": "Exactly two children admire one rainbow after the rain; occurrence is clear and no text or extra people appear."
+    },
+    {
+      "id": "kyc-0918",
+      "status": "pass",
+      "review": "A child places a plain milk bottle in the refrigerator; target and anchor are explicit, no text or extra-limb issue."
+    },
+    {
+      "id": "kyc-0919",
+      "status": "pass",
+      "review": "A seemingly solid boulder has cracked after a tap; the child, stick, and rock make the apparent-then-real contrast clear, with no text."
+    },
+    {
+      "id": "kyc-0920",
+      "status": "pass",
+      "review": "One spectator watches a ball game from the front row; no extra people, text, or anatomy issue."
+    },
+    {
+      "id": "kyc-0921",
+      "status": "pass",
+      "review": "The mechanic notices a small scratch on the cart as a trivial detail; no text or limb issue."
+    },
+    {
+      "id": "kyc-0922",
+      "status": "pass",
+      "review": "A loose, broken wheel visibly stops the cart, clearly illustrating faulty; no text or anatomy issues."
+    },
+    {
+      "id": "kyc-0923",
+      "status": "pass",
+      "review": "One teacher steps between the child and the ball, clearly intervening; exactly two people, no text or extra limbs."
+    },
+    {
+      "id": "kyc-0924",
+      "status": "pass",
+      "review": "The elderly couple lives in a riverside house, making dwell and house concrete; exactly two people, no text."
+    },
+    {
+      "id": "kyc-0925",
+      "status": "pass",
+      "review": "The painter listens thoughtfully to the singing bird while facing a blank canvas; no music notes, icons, or text."
+    },
+    {
+      "id": "kyc-0926",
+      "status": "pass",
+      "review": "Two streams visibly flow together into one river; no people, text, or other QC issue."
+    },
+    {
+      "id": "kyc-0927",
+      "status": "pass",
+      "review": "The boy is visibly yelling as the ball crosses into the goal; target action and ball anchor are clear, with no text or extra limbs."
+    },
+    {
+      "id": "kyc-0928",
+      "status": "pass",
+      "review": "The customer and shopkeeper compare a visibly irregular coin with a plain coin on a balance scale, making the counterfeit fraud clear; no text."
+    },
+    {
+      "id": "kyc-0929",
+      "status": "pass",
+      "review": "The child repeatedly sorts many small beans among several bowls, clearly showing a tedious task; no clock numerals or text."
+    },
+    {
+      "id": "kyc-0930",
+      "status": "pass",
+      "review": "Two soldiers cross the boundary toward the town, clearly depicting an invasion; no words, emblems, or extra people."
+    },
+    {
+      "id": "kyc-0931",
+      "status": "pass",
+      "review": "The child sings with blank blocks and a toy drum in a bare room; no posters, letters, sound marks, or other symbols."
+    },
+    {
+      "id": "kyc-0932",
+      "status": "pass",
+      "review": "The child gazes toward the bright sky and clouds at sunset, fitting the heaven association; no text or anatomy problem."
+    },
+    {
+      "id": "kyc-0933",
+      "status": "pass",
+      "review": "The innkeeper warmly offers tea and bread to a guest, clearly showing hospitality; two people, no symbols or text."
+    },
+    {
+      "id": "kyc-0934",
+      "status": "pass",
+      "review": "The child faces the kite and reaches backward to touch the wall behind her. The final sentence accurately describes this clear backward reach; no text or numbers."
+    },
+    {
+      "id": "kyc-0935",
+      "status": "pass",
+      "review": "A judge and balance scale validate a blank contract folder, clearly illustrating legitimate; no writing or anatomy issue."
+    },
+    {
+      "id": "kyc-0936",
+      "status": "pass",
+      "review": "The farmer uses a red apple to draw the pony into its stall; lure meaning is clear and the pony’s four legs appear correct."
+    },
+    {
+      "id": "kyc-0937",
+      "status": "pass",
+      "review": "The hen guards three chicks in a nest, clearly showing offspring; the bird’s legs and no-text requirement pass."
+    },
+    {
+      "id": "kyc-0938",
+      "status": "pass",
+      "review": "The cyclist rides through a visibly closed gate, making violation of the safety rule clear without a sign; one rider and no text."
+    },
+    {
+      "id": "kyc-0939",
+      "status": "pass",
+      "review": "A rabbit looks ill beside a bitten spotted mushroom, clearly signaling poisonous; no text and the animal’s four legs appear plausible."
+    },
+    {
+      "id": "kyc-0940",
+      "status": "pass",
+      "review": "Collected rainwater is poured onto drooping plants, making the action and resulting benefit readable as thereby; no text or obvious anatomy issue."
+    },
+    {
+      "id": "kyc-0941",
+      "status": "pass",
+      "review": "The koala clings tightly to a branch during rain; the branch anchor and target action are clear, with plausible four-limb anatomy and no text."
+    },
+    {
+      "id": "kyc-0942",
+      "status": "pass",
+      "review": "One road worker directs one car off the bridge onto a side road; diversion is visible, no text or extra people."
+    },
+    {
+      "id": "kyc-0943",
+      "status": "pass",
+      "review": "A single small slice is removed from the whole pie, clearly showing a fraction; no text or anatomy issue."
+    },
+    {
+      "id": "kyc-0944",
+      "status": "pass",
+      "review": "One cyclist wears a helmet before riding; the requirement is clear and there are no signs or text."
+    },
+    {
+      "id": "kyc-0945",
+      "status": "pass",
+      "review": "The graduate holds a blank diploma in front of a university, clearly showing the bachelor’s degree sense; no text or extra limbs."
+    },
+    {
+      "id": "kyc-0946",
+      "status": "pass",
+      "review": "A boat carries boxes of apples across the lake, clearly illustrating a carrier and the fruit anchor; no text or people."
+    },
+    {
+      "id": "kyc-0947",
+      "status": "pass",
+      "review": "A bell rings as two children start the race, showing that it initiates the event; no text, letters, or extra limbs."
+    },
+    {
+      "id": "kyc-0948",
+      "status": "pass",
+      "review": "The child holds a shell keepsake beside an open memory box, clearly showing personal meaning; no text or symbols."
+    },
+    {
+      "id": "kyc-0949",
+      "status": "pass",
+      "review": "Muddy pawprints leading from the open door support the likely dog inference for presumably; no text or anatomy issue."
+    },
+    {
+      "id": "kyc-0950",
+      "status": "pass",
+      "review": "The farmer cuts and gathers ripe wheat into a basket, clearly showing reap; no text and hands/arms appear connected."
+    },
+    {
+      "id": "kyc-0951",
+      "status": "pass",
+      "review": "An apple with a visible brown patch shows decay; the pantry shelf anchor is clear and no text appears."
+    },
+    {
+      "id": "kyc-0952",
+      "status": "pass",
+      "review": "A drenched, downcast puppy sits in cold rain beside its doghouse, clearly illustrating miserable; no text and no obvious limb duplication."
+    },
+    {
+      "id": "kyc-0953",
+      "status": "pass",
+      "review": "One practitioner examines one patient with a stethoscope and plain unmarked bag; no logos, crosses, or text."
+    },
+    {
+      "id": "kyc-0954",
+      "status": "pass",
+      "review": "The scientist compares two seedlings in contrasting light, illustrating the proposition that sunlight helps growth; no text."
+    },
+    {
+      "id": "kyc-0955",
+      "status": "pass",
+      "review": "The removed shoe sole is shown beside the shoe, clearly illustrating sole as the shoe bottom; no text or people."
+    },
+    {
+      "id": "kyc-0956",
+      "status": "pass",
+      "review": "A spark from a plain match catches the kindling inside a stone fire pit; no words or numbers, no anatomy issue."
+    },
+    {
+      "id": "kyc-0957",
+      "status": "pass",
+      "review": "One sportsman kicks a ball across the field after practice; target, ball anchor, and limbs are clear, no text."
+    },
+    {
+      "id": "kyc-0958",
+      "status": "pass",
+      "review": "A plain coin is handed at a toll booth before the bridge crossing; the fee and coin anchor are visible, no numerals or text."
+    },
+    {
+      "id": "kyc-0959",
+      "status": "pass",
+      "review": "The clerk inspects an already attached wax seal with a magnifying glass on a plain parcel; no words, signs, logos, or stamps being applied."
+    },
+    {
+      "id": "kyc-0960",
+      "status": "pass",
+      "review": "Two cyclists wear helmets before riding, conveying the compulsory requirement; no signs or text, and no extra limbs observed."
+    },
+    {
+      "id": "kyc-0961",
+      "status": "pass",
+      "review": "A child explores a glowing connected network on a computer; keyboard and screen contain no readable text, labels, or logos."
+    },
+    {
+      "id": "kyc-0962",
+      "status": "pass",
+      "review": "The sun rises at the horizon over quiet hills, directly depicting dawn; no people, text, or symbols."
+    },
+    {
+      "id": "kyc-0963",
+      "status": "pass",
+      "review": "The traveler arrives and boards the train just in time; train anchor and timely action are clear, no signs or readable text."
+    },
+    {
+      "id": "kyc-0964",
+      "status": "pass",
+      "review": "One climber stands high on a ridge above clouds beside a plain stone cairn, clearly showing altitude; no flags or signs."
+    },
+    {
+      "id": "kyc-0965",
+      "status": "pass",
+      "review": "A lifeguard pulls a swimmer from deep water with a rescue ring, clearly showing drown and rescue; two people, no text."
+    },
+    {
+      "id": "kyc-0966",
+      "status": "pass",
+      "review": "A plain crown atop a pedestal before a wide land scene symbolizes the empire’s reach and power; no text or people."
+    },
+    {
+      "id": "kyc-0967",
+      "status": "pass",
+      "review": "The lost traveler cannot interpret the map at a forest fork, clearly showing ignorance of the route; map contains no readable text or arrows."
+    },
+    {
+      "id": "kyc-0968",
+      "status": "pass",
+      "review": "The owner hands a key to one tenant in front of the cottage, clearly showing the landlord relationship; no text."
+    },
+    {
+      "id": "kyc-0969",
+      "status": "pass",
+      "review": "A large harvest of apples and wheat beside a healthy farm shows prosperity; no text or anatomy issue."
+    },
+    {
+      "id": "kyc-0970",
+      "status": "pass",
+      "review": "Two opposing soccer players face each other around one ball, clearly showing versus in a match; no text or extra people."
+    },
+    {
+      "id": "kyc-0971",
+      "status": "pass",
+      "review": "The teacher assigns a desk to one student, clearly showing allocate; two people, no text or extra limbs."
+    },
+    {
+      "id": "kyc-0972",
+      "status": "pass",
+      "review": "The hungry child holds out an empty bowl as the baker gives bread, clearly depicting begging for food; no text."
+    },
+    {
+      "id": "kyc-0973",
+      "status": "pass",
+      "review": "The cart’s wheel is visibly jammed in a rut while the child struggles to move it, clearly showing a troublesome wheel; no text."
+    },
+    {
+      "id": "kyc-0974",
+      "status": "pass",
+      "review": "The manager assigns a parcel delivery by handing it to her assistant beside the handcart; exactly two people, no text."
+    },
+    {
+      "id": "kyc-0975",
+      "status": "pass",
+      "review": "A rabbit clearly hops over a low log; one rabbit, no text, and the motion is clear."
+    },
+    {
+      "id": "kyc-0976",
+      "status": "pass",
+      "review": "One child gently pats one dog on the head; the action is clear, with no text or extra people."
+    },
+    {
+      "id": "kyc-0977",
+      "status": "pass",
+      "review": "One student tours a university campus with a blank folder, suggesting a prospective applicant; no flags, clocks, signs, or text."
+    },
+    {
+      "id": "kyc-0978",
+      "status": "pass",
+      "review": "The builder studies a clear floor plan beside the unfinished house, strongly showing blueprint; no readable text or numbers."
+    },
+    {
+      "id": "kyc-0979",
+      "status": "pass",
+      "review": "Two club representatives join around a shared pool key, with one plain bag for each side, clearly suggesting a federation; no emblems or text."
+    },
+    {
+      "id": "kyc-0980",
+      "status": "pass",
+      "review": "Two voters cast blank ballots while an unused crown sits beside the empty leader chair, distinguishing republican election from inherited rule; no text."
+    }
+  ]
+}

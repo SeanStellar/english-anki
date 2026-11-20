@@ -1,0 +1,622 @@
+[
+  {
+    "word": "ability",
+    "anchor": "able",
+    "anchorMeaning": "能够的；有能力的",
+    "relation": "able 加 -ity 构成 ability，形容词变名词；真实构词关系。",
+    "sentence": "The swimmer is able to reach the pool's edge ahead of her friend, showing her swimming ability（游泳者比同伴先游到池边，展现出她的游泳能力）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "室内游泳池边",
+      "actor": "两名在泳池游泳的年轻人，前方泳者已经抵达池边",
+      "props": [
+        "蓝色泳池",
+        "泳镜",
+        "池边长椅"
+      ],
+      "beats": [
+        "两名游泳者同时游向对岸",
+        "一名泳者逐渐游到同伴前面",
+        "她先扶住池边，朋友仍在后方游动"
+      ],
+      "ending": "前方泳者扶住池边，另一名游泳者在后方跟上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "able/ability 是真实词族；英文句子自然，画面由两名游泳者和领先者抵达池边呈现能力。"
+    }
+  },
+  {
+    "word": "self",
+    "anchor": "mirror",
+    "anchorMeaning": "镜子",
+    "relation": "镜子映出人的外表，帮助人思考外在形象背后的 self（自我）；concept 模式。",
+    "sentence": "In the mirror, she looks beyond appearances and thinks about her true self（她望着镜子，不只看外表，也思考真正的自我）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "安静的卧室",
+      "actor": "站在镜前沉思的年轻人",
+      "props": [
+        "落地镜",
+        "梳子",
+        "椅子"
+      ],
+      "beats": [
+        "她站到镜前",
+        "她放下梳子认真看着倒影",
+        "她平静地微笑并接纳自己"
+      ],
+      "ending": "她站在镜前望着自己的倒影，神情平和"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "句子自然，self 作名词表示自我；镜子只提供语义场景锚点。"
+    }
+  },
+  {
+    "word": "decision",
+    "anchor": "decide",
+    "anchorMeaning": "决定",
+    "relation": "decide 加 -sion 构成 decision，动词转为表示决定的名词；真实词族关系。",
+    "sentence": "She decides to take the bridge, and that decision leads her home（她决定走过桥，这个决定带她平安回家）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "黄昏时的河边岔路",
+      "actor": "正在选择路线的旅人",
+      "props": [
+        "两条岔路",
+        "石拱桥",
+        "旅行包"
+      ],
+      "beats": [
+        "旅人停在两条路之间",
+        "她选择通往石桥的路线",
+        "她走过桥找到回家的路"
+      ],
+      "ending": "旅人踏上石桥，身后岔路清晰可见"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "decide/decision 是真实词族；句子顺畅，决定与选择结果具体。"
+    }
+  },
+  {
+    "word": "activity",
+    "anchor": "active",
+    "anchorMeaning": "活跃的；积极的",
+    "relation": "active 去掉词尾 e 并加 -ity 构成 activity，形容词变名词；真实构词关系。",
+    "sentence": "The active child waters the garden as her first activity each morning（活泼的孩子每天早晨把给花园浇水作为第一项活动）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨的小花园",
+      "actor": "正在浇花的孩子",
+      "props": [
+        "小水壶",
+        "一排花苗",
+        "园艺手套"
+      ],
+      "beats": [
+        "孩子提起水壶",
+        "孩子给花苗逐一浇水",
+        "孩子放下水壶欣赏花苗"
+      ],
+      "ending": "孩子完成浇水活动，花苗沾着水珠"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "active/activity 为真实词族；句子自然，早晨浇花作为第一项活动容易理解。"
+    }
+  },
+  {
+    "word": "national",
+    "anchor": "nation",
+    "anchorMeaning": "国家；民族",
+    "relation": "nation 加 -al 构成 national，名词变形容词；真实构词关系。",
+    "sentence": "The nation protects wildlife by creating national parks（国家通过建立国家公园来保护野生动物）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "受保护的国家公园森林步道",
+      "actor": "沿步道巡查并远远观察野鹿的公园巡护员",
+      "props": [
+        "林间步道",
+        "一只野鹿",
+        "一株幼树"
+      ],
+      "beats": [
+        "巡护员沿步道安静巡查",
+        "他看见野鹿在幼树旁觅食",
+        "他保持距离，不惊扰野鹿"
+      ],
+      "ending": "巡护员在国家公园里远远观察野鹿，周围没有标牌、旗帜或文字"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "nation/national 为真实词族；以 national park 表达国家公园，避开旗帜场景，句子自然易读。"
+    }
+  },
+  {
+    "word": "five",
+    "anchor": "hive",
+    "anchorMeaning": "蜂巢",
+    "relation": "five 与 hive 押韵，拼写仅首辅音不同；声音联想，不是词源关系。",
+    "sentence": "Five bees fly in a line toward a wooden hive at sunset（五只蜜蜂在日落时排成一列飞向木蜂箱）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "日落时分的安静花园",
+      "actor": "全图恰好五只蜜蜂，整齐分开飞行",
+      "props": [
+        "正面封闭的木制蜂箱",
+        "全图恰好五只蜜蜂",
+        "一枝开花植物"
+      ],
+      "beats": [
+        "五只蜜蜂停在花枝附近",
+        "五只蜜蜂排成一列飞向木蜂箱",
+        "五只蜜蜂在封闭蜂箱外整齐盘旋"
+      ],
+      "ending": "全图只有五只彼此分开的蜜蜂，沿一列飞向正面封闭的木蜂箱；不画蜂巢内部、入口、其他昆虫或蜂巢图案"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "five/hive 押韵联想准确；句子自然且数量明确，重做时采用封闭蜂箱和单列五只蜜蜂，避免隐藏或重复计数。"
+    }
+  },
+  {
+    "word": "natural",
+    "anchor": "nature",
+    "anchorMeaning": "自然；大自然",
+    "relation": "nature 加 -al 并将词尾 e 去掉构成 natural；真实词族关系。",
+    "sentence": "A natural spring flows through the nature reserve（一股天然泉水流过自然保护区）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "林间自然保护区",
+      "actor": "无人物，突出流动的泉水",
+      "props": [
+        "涌出的泉眼",
+        "弯曲溪流",
+        "蕨类植物"
+      ],
+      "beats": [
+        "泉水从石缝涌出",
+        "泉水沿着林间地势流动",
+        "溪水穿过蕨类植物汇入小潭"
+      ],
+      "ending": "清澈泉水在蕨类植物间形成一条小溪"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "nature/natural 是真实词族；句子自然，natural 的天然义明确。"
+    }
+  },
+  {
+    "word": "really",
+    "anchor": "real",
+    "anchorMeaning": "真实的",
+    "relation": "real 加 -ly 构成 really，形容词转副词；真实构词关系。",
+    "sentence": "That is a real puppy; it really can jump over the log（那是一只真正的小狗，它真的能跳过木头）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "林间草地",
+      "actor": "跃过木头的小狗",
+      "props": [
+        "一截倒下的木头",
+        "草地",
+        "红色项圈"
+      ],
+      "beats": [
+        "小狗靠近木头",
+        "小狗奋力跃过木头",
+        "小狗落地后开心摇尾巴"
+      ],
+      "ending": "小狗刚刚跃过木头，四肢自然着地"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "real/really 为真实词族；英文语法自然，really 表示确实、真的。"
+    }
+  },
+  {
+    "word": "knowledge",
+    "anchor": "know",
+    "anchorMeaning": "知道；了解",
+    "relation": "know 加 -ledge 构成 knowledge，表示所知道的内容；真实词族关系。",
+    "sentence": "She knows the map well and shares her knowledge with a friend（她熟悉这张地图，并把自己的知识分享给朋友）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "山间小屋的木桌旁",
+      "actor": "正在给朋友讲解路线的女孩",
+      "props": [
+        "无文字地图",
+        "两只指南针",
+        "两个旅行背包"
+      ],
+      "beats": [
+        "女孩摊开地图",
+        "她指向熟悉的山路",
+        "朋友听懂路线并收好指南针"
+      ],
+      "ending": "女孩与朋友一起查看地图，准备按她的知识启程"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "know/knowledge 为真实词族；女孩用地图给朋友讲解路线，图中两只指南针和背包对应同行者。"
+    }
+  },
+  {
+    "word": "until",
+    "anchor": "sunset",
+    "anchorMeaning": "日落",
+    "relation": "日落是一个清楚的时间终点，用等待到日落理解 until（直到）；concept 模式。",
+    "sentence": "The traveler waits by the gate until sunset（旅人在门边一直等到日落）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "乡间小屋外的门边",
+      "actor": "倚着篱笆等待的旅人",
+      "props": [
+        "木门",
+        "落日余晖",
+        "旅行包"
+      ],
+      "beats": [
+        "旅人来到门边等待",
+        "天色逐渐变成傍晚",
+        "夕阳落下时旅人终于进门"
+      ],
+      "ending": "旅人站在门边，夕阳刚落到地平线下"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "until 的时间边界用自然句表达；sunset 作为可见时间终点锚点。"
+    }
+  },
+  {
+    "word": "employee",
+    "anchor": "serve",
+    "anchorMeaning": "服务；招待",
+    "relation": "员工通过服务顾客体现工作职责；serve 是具体语义锚点，不表示词源关系。",
+    "sentence": "As a new café employee, Maya serves tea to a guest（作为新入职的咖啡店员工，玛雅给一位客人端茶）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "空白浅色墙前的简洁咖啡柜台，没有招牌、货架或陈列品",
+      "actor": "端茶给一位客人的新员工玛雅和一位客人",
+      "props": [
+        "一只纯色茶杯",
+        "空木柜台",
+        "玛雅身上的纯色围裙"
+      ],
+      "beats": [
+        "玛雅拿起柜台上的茶杯",
+        "她把茶杯递给客人",
+        "客人接过茶杯并向她致谢"
+      ],
+      "ending": "玛雅作为新员工把一杯茶递给一位客人；背景是空白墙面，没有文字或其他商品"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "serve 是 employee 的语义动作锚点；句子自然易读，极简咖啡柜台用于避免招牌和多余商品。"
+    }
+  },
+  {
+    "word": "personal",
+    "anchor": "person",
+    "anchorMeaning": "人；个人",
+    "relation": "person 加 -al 构成 personal，名词变形容词；真实构词关系。",
+    "sentence": "A person packs her personal belongings into a small suitcase before a trip（一位女士旅行前把个人物品装进小行李箱）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "出发旅行前的卧室",
+      "actor": "正在整理行李的女士",
+      "props": [
+        "小行李箱",
+        "围巾",
+        "旅行鞋"
+      ],
+      "beats": [
+        "女士挑出要带的物品",
+        "她把个人物品放进行李箱",
+        "她合上箱子准备出门"
+      ],
+      "ending": "女士把个人物品收进小箱子并准备旅行"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "person/personal 是真实词族；句子自然，personal belongings 搭配准确。"
+    }
+  },
+  {
+    "word": "relationship",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "朋友之间通过相处形成 relationship（关系）；语义场景联想，concept 模式。",
+    "sentence": "The two friends build a close relationship by helping each other（两位朋友通过互相帮助建立起亲密关系）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "雨后的社区花园",
+      "actor": "互相帮助的两位朋友",
+      "props": [
+        "倒下的花架",
+        "园艺绳",
+        "一盆幼苗"
+      ],
+      "beats": [
+        "一位朋友扶住倒下的花架",
+        "另一位朋友用绳子固定花架",
+        "两人一起把幼苗放回架上"
+      ],
+      "ending": "两位朋友并肩扶稳花架，相视而笑"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "句子自然，helping each other 能表现 relationship；friend 是语义锚点。"
+    }
+  },
+  {
+    "word": "usually",
+    "anchor": "usual",
+    "anchorMeaning": "通常的；惯常的",
+    "relation": "usual 加 -ly 构成 usually，形容词转副词；真实构词关系。",
+    "sentence": "She usually waves to the baker during her morning walk along the usual route（她晨间散步经过惯常路线时，通常会向面包师挥手）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨安静的街角",
+      "actor": "散步时向面包师挥手的女士",
+      "props": [
+        "面包店门口",
+        "藤编面包篮",
+        "围巾"
+      ],
+      "beats": [
+        "女士沿着熟悉街道散步",
+        "她走到面包店门口",
+        "她像往常一样向面包师挥手"
+      ],
+      "ending": "女士在面包店前向熟悉的面包师挥手致意"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "usual/usually 为真实词族；句子清楚表达惯常路线上的重复习惯。"
+    }
+  },
+  {
+    "word": "global",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪；地球",
+    "relation": "globe 加 -al 并去掉词尾 e 构成 global，名词变形容词；真实词族关系。",
+    "sentence": "A globe helps her picture global trade, with ships crossing oceans between continents（地球仪帮助她想象全球贸易：船只往来于各大洲之间的海洋）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖的航海学校教室",
+      "actor": "正在转动地球仪的学生",
+      "props": [
+        "地球仪",
+        "几艘小船模型",
+        "蓝色海洋图案地毯"
+      ],
+      "beats": [
+        "学生转动地球仪",
+        "学生观察不同大陆之间的海洋",
+        "几艘船模型分布在不同方向的海面上"
+      ],
+      "ending": "学生转动地球仪，船只模型环绕多个大陆"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "globe/global 为真实词族；句子自然，地球仪和船模共同呈现全球贸易。"
+    }
+  },
+  {
+    "word": "difference",
+    "anchor": "differ",
+    "anchorMeaning": "不同；有差异",
+    "relation": "differ 加 -ence 构成 difference，动词转为表示差异的名词；真实词族关系。",
+    "sentence": "The difference is clear: the two cups differ in color（差别很明显：两只杯子的颜色不同）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "简洁的餐桌",
+      "actor": "无人物，突出并排的杯子",
+      "props": [
+        "蓝色圆杯",
+        "黄色圆杯",
+        "木托盘"
+      ],
+      "beats": [
+        "两只同形杯子并排放好",
+        "两只杯子的颜色明显不同",
+        "蓝色和黄色清楚呈现出差别"
+      ],
+      "ending": "颜色明显不同的两只杯子并排放在托盘上"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "differ/difference 为真实词族；冒号后解释清晰，画面不用额外人物即可呈现差异。"
+    }
+  },
+  {
+    "word": "growth",
+    "anchor": "grow",
+    "anchorMeaning": "生长；成长",
+    "relation": "grow 加 -th 构成 growth，动词转为表示生长过程或结果的名词；真实构词关系。",
+    "sentence": "The seed begins to grow, and new growth appears as a green shoot above the soil（种子开始生长，绿色的新芽从土里冒出）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "春日花园的一块湿润泥土",
+      "actor": "正在破土而出的幼苗",
+      "props": [
+        "种子幼芽",
+        "湿润泥土",
+        "温暖阳光"
+      ],
+      "beats": [
+        "种子在泥土中萌芽",
+        "嫩芽向阳光伸展",
+        "幼芽顶开土块露出地面"
+      ],
+      "ending": "幼苗刚刚冲破泥土，朝着阳光伸展"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "grow/growth 为真实词族；句子简洁，嫩芽破土直观呈现生长过程。"
+    }
+  },
+  {
+    "word": "scientific",
+    "anchor": "lab",
+    "anchorMeaning": "实验室",
+    "relation": "实验室里按步骤测试样本的工作体现 scientific（科学的、严谨的）方法；concept 模式，避开不确定的 science 构词拆分。",
+    "sentence": "The scientist tests one sample in the lab using the scientific method（科学家在实验室里用科学方法测试一个样本）。",
+    "mode": "concept",
+    "scene": {
+      "setting": "只有一张实验台的极简实验室，后方为空白墙面",
+      "actor": "独自测试一个样本的科学家",
+      "props": [
+        "恰好一个样本瓶",
+        "显微镜",
+        "一只透明烧杯"
+      ],
+      "beats": [
+        "科学家把唯一的样本瓶放到显微镜旁",
+        "她用显微镜观察这个样本",
+        "她把样本转入透明烧杯完成测试"
+      ],
+      "ending": "一名科学家独自在实验台前测试一个样本，画面没有其他人物或器材"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "scientific method 为常见搭配；句子自然易懂，重做画面限定一名科学家和一个样本。"
+    }
+  },
+  {
+    "word": "translation",
+    "anchor": "translate",
+    "anchorMeaning": "翻译",
+    "relation": "translate 去掉词尾 e 并加 -ion 构成 translation；词干拼写有变化的真实构词关系。",
+    "sentence": "She translates the recipe aloud and gives her friend a clear translation（她把食谱口头翻译出来，并给朋友做了清楚的翻译）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "两位朋友一起准备晚餐的厨房",
+      "actor": "正在解释食谱的女士",
+      "props": [
+        "空白食谱纸",
+        "木勺",
+        "一篮蔬菜"
+      ],
+      "beats": [
+        "女士看着食谱回忆步骤",
+        "她把步骤口头翻译给朋友",
+        "朋友听懂后开始准备蔬菜"
+      ],
+      "ending": "女士边解释食谱边用手势示意烹饪步骤"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "translate/translation 为真实词族；句子自然，翻译帮助朋友理解内容。"
+    }
+  },
+  {
+    "word": "training",
+    "anchor": "train",
+    "anchorMeaning": "训练；培养",
+    "relation": "train 加 -ing 构成 training，动词转为表示训练过程的名词；真实构词关系。",
+    "sentence": "Two athletes train every morning, and their daily training prepares them for the race（两名运动员每天早晨训练，日常训练让她们为比赛做好准备）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨的公园跑道",
+      "actor": "在清晨跑道上训练的两名女运动员",
+      "props": [
+        "跑道",
+        "运动鞋",
+        "水壶"
+      ],
+      "beats": [
+        "两名运动员在跑道边系紧鞋带",
+        "她们沿着跑道持续训练",
+        "一人停下喝水，另一人完成热身跑"
+      ],
+      "ending": "两名运动员在晨光中的跑道边训练，准备参加比赛"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "train/training 为真实词族；句子自然，已改为与画面一致的两名运动员。"
+    }
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "tongue",
+    "anchor": "bowl",
+    "anchorMeaning": "碗",
+    "sentence": "The puppy's tongue reached for the bowl of water.",
+    "relation": "The scene links tongue with bowl: The puppy's tongue reached for the bowl of water.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny kitchen floor beside a water dish.",
+      "actor": "One puppy stretches its tongue toward a bowl of fresh water.",
+      "props": [
+        "one friendly puppy",
+        "one water bowl",
+        "one plain kitchen mat"
+      ],
+      "beats": [
+        "The puppy notices the water.",
+        "It lowers its head.",
+        "Its tongue reaches toward the bowl."
+      ],
+      "ending": "The puppy's tongue reaches for water in the bowl."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links tongue with bowl: The puppy's tongue reached for the bowl of water.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "dine",
+    "anchor": "fireplace",
+    "anchorMeaning": "壁炉",
+    "sentence": "The family came together to dine beside the fireplace.",
+    "relation": "The scene links dine with fireplace: The family came together to dine beside the fireplace.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A warm cottage dining room in the evening.",
+      "actor": "A family sits together at a table beside a glowing fireplace.",
+      "props": [
+        "one dining table",
+        "one fireplace",
+        "one serving dish"
+      ],
+      "beats": [
+        "The family gathers at the table.",
+        "They share a meal.",
+        "They dine beside the warm fire."
+      ],
+      "ending": "The family dines together by the fireplace."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dine with fireplace: The family came together to dine beside the fireplace.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "pronunciation",
+    "anchor": "teacher",
+    "anchorMeaning": "老师",
+    "sentence": "The teacher helped him improve the pronunciation of a new word.",
+    "relation": "The scene links pronunciation with teacher: The teacher helped him improve the pronunciation of a new word.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet classroom with a plain desk.",
+      "actor": "Exactly two people: one teacher models a spoken sound while one student carefully listens and repeats it.",
+      "props": [
+        "one plain desk",
+        "one blank notebook",
+        "one simple chair"
+      ],
+      "beats": [
+        "The student listens.",
+        "The teacher slowly shapes the sound.",
+        "The student practices the pronunciation."
+      ],
+      "ending": "The teacher helps the student practice pronunciation."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links pronunciation with teacher: The teacher helped him improve the pronunciation of a new word.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "dissolve",
+    "anchor": "tea",
+    "anchorMeaning": "茶",
+    "sentence": "The sugar began to dissolve in warm tea.",
+    "relation": "The scene links dissolve with tea: The sugar began to dissolve in warm tea.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet kitchen table with a cup of tea.",
+      "actor": "No people; a sugar cube melts into a warm cup of tea beside a spoon.",
+      "props": [
+        "one warm cup of tea",
+        "one sugar cube",
+        "one plain spoon"
+      ],
+      "beats": [
+        "The cube rests in the tea.",
+        "It begins to melt.",
+        "The sugar dissolves into the warm drink."
+      ],
+      "ending": "Sugar dissolves in a warm cup of tea."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dissolve with tea: The sugar began to dissolve in warm tea.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "speculate",
+    "anchor": "footprints",
+    "anchorMeaning": "足迹",
+    "sentence": "They began to speculate about strange footprints in the snow.",
+    "relation": "The scene links speculate with footprints: They began to speculate about strange footprints in the snow.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A snowy woodland path in the morning.",
+      "actor": "Exactly two adults examine unusual tracks in the snow and wonder where they lead.",
+      "props": [
+        "one trail of strange footprints",
+        "one snowy path",
+        "two plain winter coats"
+      ],
+      "beats": [
+        "They notice the tracks.",
+        "They study their shape.",
+        "They speculate about who made them."
+      ],
+      "ending": "Two hikers speculate about strange footprints."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links speculate with footprints: They began to speculate about strange footprints in the snow.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "underlie",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "sentence": "Rock layers underlie the garden path.",
+    "relation": "The scene links underlie with path: Rock layers underlie the garden path.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet garden path shown with a simple cutaway through the soil.",
+      "actor": "No people; a clear cross-section shows solid rock directly beneath the garden path.",
+      "props": [
+        "one garden path",
+        "one soil layer",
+        "one solid rock layer beneath it"
+      ],
+      "beats": [
+        "The path lies on the ground.",
+        "The earth below is shown in cross-section.",
+        "A rock layer underlies the path."
+      ],
+      "ending": "A rock layer lies beneath the garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links underlie with path: Rock layers underlie the garden path.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "precede",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "sentence": "A red flag will precede the boat parade.",
+    "relation": "The scene links precede with boat: A red flag will precede the boat parade.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm harbor on a clear festival day.",
+      "actor": "One person carries a plain red flag at the front of a small boat parade.",
+      "props": [
+        "one solid red flag with no emblem",
+        "several small boats",
+        "one harbor shoreline"
+      ],
+      "beats": [
+        "The boats gather near shore.",
+        "The flag bearer steps ahead.",
+        "The red flag precedes the boat parade."
+      ],
+      "ending": "A red flag leads the boat parade."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links precede with boat: A red flag will precede the boat parade.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "quota",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "sentence": "The fishing crew reached its daily quota after catching many fish.",
+    "relation": "The scene links quota with fish: The fishing crew reached its daily quota after catching many fish.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small fishing boat returning to shore at sunset.",
+      "actor": "Two fishermen stop working beside a full basket of their day's catch.",
+      "props": [
+        "one fishing boat",
+        "one full fish basket",
+        "one simple fishing net"
+      ],
+      "beats": [
+        "The crew gathers the catch.",
+        "The basket fills with fish.",
+        "The fishermen stop after reaching their quota."
+      ],
+      "ending": "The fishing crew reaches its quota with a full catch."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links quota with fish: The fishing crew reached its daily quota after catching many fish.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "surplus",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "sentence": "The farmer sold the surplus apples after filling the market baskets.",
+    "relation": "The scene links surplus with apples: The farmer sold the surplus apples after filling the market baskets.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small farmers' market under a plain awning.",
+      "actor": "One farmer sells extra apples after the market baskets are full.",
+      "props": [
+        "many red apples",
+        "two market baskets",
+        "one plain wooden stall"
+      ],
+      "beats": [
+        "The farmer fills both baskets.",
+        "Extra apples remain.",
+        "The farmer sells the surplus to a customer."
+      ],
+      "ending": "The farmer sells surplus apples at the market."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links surplus with apples: The farmer sold the surplus apples after filling the market baskets.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "drastic",
+    "anchor": "river",
+    "anchorMeaning": "河",
+    "sentence": "The storm caused a drastic change in the river's path.",
+    "relation": "The scene links drastic with river: The storm caused a drastic change in the river's path.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A river bend after a powerful storm.",
+      "actor": "No people; floodwater has cut a sharply changed channel through the bank.",
+      "props": [
+        "one winding river",
+        "one newly cut channel",
+        "one washed-out riverbank"
+      ],
+      "beats": [
+        "The storm swells the water.",
+        "The bank gives way.",
+        "The river makes a drastic change in its path."
+      ],
+      "ending": "The storm sharply changes the river's course."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links drastic with river: The storm caused a drastic change in the river's path.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "lest",
+    "anchor": "railing",
+    "anchorMeaning": "扶手",
+    "sentence": "She held the railing lest she slip on the icy steps.",
+    "relation": "The scene links lest with railing: She held the railing lest she slip on the icy steps.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A stone stairway in winter.",
+      "actor": "One adult woman grips a sturdy railing as she carefully crosses icy steps.",
+      "props": [
+        "one metal railing",
+        "one icy stairway",
+        "one pair of winter boots"
+      ],
+      "beats": [
+        "The woman approaches the steps.",
+        "She notices the ice.",
+        "She holds the railing lest she slip."
+      ],
+      "ending": "The woman grips the railing on the icy steps."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links lest with railing: She held the railing lest she slip on the icy steps.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "supervise",
+    "anchor": "pool",
+    "anchorMeaning": "游泳池",
+    "sentence": "A lifeguard stayed nearby to supervise the swimmers in the pool.",
+    "relation": "The scene links supervise with pool: A lifeguard stayed nearby to supervise the swimmers in the pool.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, badges, crosses, or watermarks. The lifeguard’s cap and vest must be plain and unmarked. Keep the swimmers clearly inside the pool and the lifeguard watching from the side.",
+    "scene": {
+      "setting": "An outdoor swimming pool on a sunny day.",
+      "actor": "One lifeguard in a completely plain, unmarked uniform and blank cap watches a few swimmers from beside the pool; no badges, crosses, letters, or logos.",
+      "props": [
+        "one swimming pool",
+        "one tall lifeguard chair",
+        "one plain rescue ring"
+      ],
+      "beats": [
+        "The swimmers enter the water.",
+        "The lifeguard watches carefully.",
+        "The lifeguard stays nearby to supervise them."
+      ],
+      "ending": "A lifeguard supervises swimmers at the pool."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links supervise with pool: A lifeguard stayed nearby to supervise the swimmers in the pool.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "liable",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "sentence": "The builder was liable for the damaged roof.",
+    "relation": "The scene links liable with roof: The builder was liable for the damaged roof.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small house with a damaged roof under repair.",
+      "actor": "Exactly two adults: one builder acknowledges responsibility while one homeowner points to the damaged roof.",
+      "props": [
+        "one damaged roof",
+        "one plain repair ladder",
+        "one closed toolbox"
+      ],
+      "beats": [
+        "The homeowner shows the damage.",
+        "The builder inspects the roof.",
+        "The builder accepts responsibility for the repair."
+      ],
+      "ending": "The builder takes responsibility for the roof damage."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links liable with roof: The builder was liable for the damaged roof.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "senator",
+    "anchor": "town hall",
+    "anchorMeaning": "市政厅",
+    "sentence": "The senator spoke with residents outside the town hall.",
+    "relation": "The scene links senator with town hall: The senator spoke with residents outside the town hall.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "The steps of a plain town hall with no signs.",
+      "actor": "One senator speaks with two residents outside the public building.",
+      "props": [
+        "one plain town hall facade",
+        "one stone step",
+        "one simple briefcase"
+      ],
+      "beats": [
+        "Residents gather outside.",
+        "The senator listens to their concerns.",
+        "They talk together by the town hall."
+      ],
+      "ending": "The senator talks with residents outside the town hall."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links senator with town hall: The senator spoke with residents outside the town hall.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "abolish",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "sentence": "The council voted to abolish the toll at the bridge.",
+    "relation": "The scene links abolish with bridge: The council voted to abolish the toll at the bridge.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small bridge entrance after a town meeting.",
+      "actor": "Two town officials remove an unused toll box from the bridge entrance.",
+      "props": [
+        "one small bridge",
+        "one empty toll box",
+        "one plain wooden barrier"
+      ],
+      "beats": [
+        "The officials approach the old toll point.",
+        "They lift away the toll box.",
+        "The toll is abolished at the bridge."
+      ],
+      "ending": "The council abolishes the bridge toll."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links abolish with bridge: The council voted to abolish the toll at the bridge.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "foresee",
+    "anchor": "clouds",
+    "anchorMeaning": "云",
+    "sentence": "The farmer could foresee rain by watching the dark clouds.",
+    "relation": "The scene links foresee with clouds: The farmer could foresee rain by watching the dark clouds.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A farm field beneath a stormy sky.",
+      "actor": "One farmer watches dark clouds and prepares to cover the crop before rain.",
+      "props": [
+        "dark rain clouds",
+        "one farm field",
+        "one plain protective cover"
+      ],
+      "beats": [
+        "The farmer looks up.",
+        "Dark clouds gather.",
+        "The farmer foresees rain and prepares the field."
+      ],
+      "ending": "The farmer foresees rain from the dark clouds."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links foresee with clouds: The farmer could foresee rain by watching the dark clouds.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "hardship",
+    "anchor": "crops",
+    "anchorMeaning": "庄稼",
+    "sentence": "The family faced hardship when the winter crops failed.",
+    "relation": "The scene links hardship with crops: The family faced hardship when the winter crops failed.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A farm field after a harsh winter.",
+      "actor": "A farmer and a family member stand beside a bare field where crops have failed.",
+      "props": [
+        "one bare crop field",
+        "one empty harvest basket",
+        "one small farm cottage"
+      ],
+      "beats": [
+        "Winter damages the plants.",
+        "The field remains bare.",
+        "The family faces hardship after the failed harvest."
+      ],
+      "ending": "The failed winter crops bring hardship to the family."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hardship with crops: The family faced hardship when the winter crops failed.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "hormone",
+    "anchor": "body",
+    "anchorMeaning": "身体",
+    "sentence": "A model showed how a hormone travels through the body.",
+    "relation": "The scene links hormone with body: A model showed how a hormone travels through the body.",
+    "artDirection": "No text, letters, numbers, charts, diagrams with labels, posters, logos, or watermarks. Use only simple colored body organs and vessels; no words or written marks anywhere. Show one purple droplet traveling inside a blood vessel, no arrows.",
+    "scene": {
+      "setting": "A quiet anatomy classroom with a plain blank wall and no posters, charts, writing, or labels.",
+      "actor": "One teacher points to a plain unmarked transparent body model. Inside the model, simple blood vessels connect a small gland to another organ, and one tiny purple hormone droplet is visible traveling within a vessel.",
+      "props": [
+        "one unmarked transparent torso model with simple visible blood vessels",
+        "one plain wooden pointer",
+        "one small purple hormone droplet inside the vessel path"
+      ],
+      "beats": [
+        "The teacher points to a small gland in the body model.",
+        "One purple hormone droplet enters a visible blood vessel.",
+        "The droplet reaches another organ through the body’s vessel path."
+      ],
+      "ending": "The teacher points at a completely unmarked transparent torso, where one purple droplet is visible inside a vessel leading from a gland to another organ."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links hormone with body: A model showed how a hormone travels through the body.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "recipient",
+    "anchor": "parcel",
+    "anchorMeaning": "包裹",
+    "sentence": "The recipient smiled as she accepted the parcel.",
+    "relation": "The scene links recipient with parcel: The recipient smiled as she accepted the parcel.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet front porch in daylight.",
+      "actor": "Exactly two adults: one smiling recipient accepts a wrapped parcel from a delivery worker.",
+      "props": [
+        "one wrapped parcel with no writing",
+        "one plain doorway",
+        "one small porch step"
+      ],
+      "beats": [
+        "The delivery worker offers the parcel.",
+        "The woman accepts it.",
+        "The recipient smiles warmly."
+      ],
+      "ending": "The recipient accepts the parcel with a smile."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links recipient with parcel: The recipient smiled as she accepted the parcel.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "suspicion",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "sentence": "The guard's suspicion grew when he saw fresh tracks beside the door.",
+    "relation": "The scene links suspicion with door: The guard's suspicion grew when he saw fresh tracks beside the door.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet entryway with a plain wooden door.",
+      "actor": "One guard examines fresh muddy footprints beside the door with a wary expression.",
+      "props": [
+        "one plain wooden door",
+        "one trail of muddy footprints",
+        "one small lantern"
+      ],
+      "beats": [
+        "The guard sees tracks.",
+        "They lead toward the door.",
+        "Suspicion grows as the guard studies them."
+      ],
+      "ending": "The guard studies fresh tracks with suspicion."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links suspicion with door: The guard's suspicion grew when he saw fresh tracks beside the door.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

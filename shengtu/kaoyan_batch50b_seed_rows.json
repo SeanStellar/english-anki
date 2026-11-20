@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2286",
+    "anchor": "chest",
+    "sentence": "One rib in the chest protected her lungs.",
+    "relation": "A rib is one of the curved bones forming the chest cage.",
+    "setting": "A calm science classroom",
+    "actor": "One teacher shows a simple rib-cage model to one student.",
+    "props": [
+      "one teacher",
+      "one rib-cage model",
+      "one student"
+    ],
+    "beats": [
+      "The model is shown",
+      "The teacher points to one rib",
+      "The chest cage protects the lungs"
+    ],
+    "ending": "A student learns how one rib fits inside the chest cage.",
+    "artDirection": "Use a simple non-graphic anatomy model; no medical symbols, labels, writing, or numbers."
+  },
+  {
+    "id": "kyc-2287",
+    "anchor": "sun",
+    "sentence": "The summer sun gave his skin a light tan.",
+    "relation": "A tan is a darker skin color caused by exposure to sunlight.",
+    "setting": "A sunny beach",
+    "actor": "One adult relaxes safely under the summer sun with lightly tanned skin.",
+    "props": [
+      "one adult",
+      "one bright sun",
+      "one beach towel"
+    ],
+    "beats": [
+      "The adult spends time outdoors",
+      "Sunlight warms the skin",
+      "The skin gains a light tan"
+    ],
+    "ending": "The summer sun leaves a light tan on the person's skin.",
+    "artDirection": "No sun icons, tanning products, text, labels, or symbols; avoid excessive sun exposure."
+  },
+  {
+    "id": "kyc-2288",
+    "anchor": "concrete",
+    "sentence": "The workers mixed aggregate into concrete for the road.",
+    "relation": "Aggregate is sand, gravel, or crushed stone mixed into concrete or road material.",
+    "setting": "A small road construction site",
+    "actor": "Exactly two workers mix clean gravel aggregate into wet concrete beside a road.",
+    "props": [
+      "two workers",
+      "one pile of gravel aggregate",
+      "one concrete mixing tray"
+    ],
+    "beats": [
+      "The gravel is poured into the tray",
+      "The workers mix it with concrete",
+      "The road material becomes coarse and strong"
+    ],
+    "ending": "Workers mix gravel aggregate into concrete for a road.",
+    "artDirection": "Exactly two people; no machinery labels, signs, text, or numbers."
+  },
+  {
+    "id": "kyc-2289",
+    "anchor": "bridge",
+    "sentence": "Villagers can avail themselves of the bridge to reach the market.",
+    "relation": "To avail oneself of something is to make use of it for one's benefit.",
+    "setting": "A village bridge over a small river",
+    "actor": "Exactly two villagers walk across a sturdy bridge toward a distant market.",
+    "props": [
+      "two villagers",
+      "one bridge",
+      "one small river"
+    ],
+    "beats": [
+      "The villagers approach the river",
+      "They use the bridge to cross",
+      "They continue toward the market"
+    ],
+    "ending": "Villagers avail themselves of the bridge to reach the market.",
+    "artDirection": "No market signs, letters, numbers, flags, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2290",
+    "anchor": "window",
+    "sentence": "She stood on the balcony outside the bedroom window.",
+    "relation": "A balcony is a platform that projects from an upper floor outside a building.",
+    "setting": "A simple apartment facade",
+    "actor": "One woman stands safely on a small balcony beside an open window.",
+    "props": [
+      "one woman",
+      "one balcony",
+      "one open window"
+    ],
+    "beats": [
+      "The window opens",
+      "The woman steps onto the balcony",
+      "She looks out from the raised platform"
+    ],
+    "ending": "A woman stands on a balcony outside a window.",
+    "artDirection": "Show a safe railing; no signs, house numbers, text, or logos."
+  },
+  {
+    "id": "kyc-2291",
+    "anchor": "blanket",
+    "sentence": "The baby rolled onto its belly on the soft blanket.",
+    "relation": "The belly is the front part of the body below the chest.",
+    "setting": "A warm nursery",
+    "actor": "One baby rolls gently onto its belly on a plain soft blanket.",
+    "props": [
+      "one baby",
+      "one soft blanket",
+      "one nursery floor"
+    ],
+    "beats": [
+      "The baby lies on its back",
+      "The baby rolls over",
+      "The belly rests on the blanket"
+    ],
+    "ending": "A baby lies on its belly on a blanket.",
+    "artDirection": "One baby with natural anatomy and safe supervised placement; no text or symbols."
+  },
+  {
+    "id": "kyc-2292",
+    "anchor": "bread",
+    "sentence": "The benevolent neighbor shared bread with a hungry child.",
+    "relation": "Benevolent means kind and willing to help others.",
+    "setting": "A quiet village courtyard",
+    "actor": "Exactly two people: one kind neighbor gives a loaf of bread to one hungry child.",
+    "props": [
+      "one neighbor",
+      "one loaf of bread",
+      "one child"
+    ],
+    "beats": [
+      "The child waits hungrily",
+      "The neighbor offers bread",
+      "The neighbor's kindness is clear"
+    ],
+    "ending": "A benevolent neighbor shares bread with a child.",
+    "artDirection": "Exactly two people; warm, gentle expressions; no text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2293",
+    "anchor": "dog",
+    "sentence": "They had to beware of the dog behind the gate.",
+    "relation": "To beware is to be cautious and alert to possible danger.",
+    "setting": "A home garden entrance",
+    "actor": "One adult pauses cautiously outside a gate while one dog stands safely inside the yard.",
+    "props": [
+      "one adult",
+      "one dog",
+      "one closed gate"
+    ],
+    "beats": [
+      "The adult approaches the gate",
+      "The dog appears in the yard",
+      "The adult becomes cautious and keeps distance"
+    ],
+    "ending": "A person is wary of a dog behind a gate.",
+    "artDirection": "No warning signs, text, symbols, aggressive attack, or extra people; dog anatomy natural."
+  },
+  {
+    "id": "kyc-2294",
+    "anchor": "face",
+    "sentence": "A blush spread across her face after the compliment.",
+    "relation": "To blush is for the face to become red from embarrassment or emotion.",
+    "setting": "A quiet home room",
+    "actor": "One woman turns rosy in the face after receiving a kind compliment from one friend.",
+    "props": [
+      "one woman",
+      "one friend",
+      "one plain chair"
+    ],
+    "beats": [
+      "The friend offers a compliment",
+      "The woman feels shy",
+      "A blush spreads across her face"
+    ],
+    "ending": "A woman blushes after a friend's compliment.",
+    "artDirection": "Exactly two people; no speech bubbles, text, symbols, or exaggerated red marks."
+  },
+  {
+    "id": "kyc-2295",
+    "anchor": "paper",
+    "sentence": "The paper bulletin announced the school concert.",
+    "relation": "A bulletin is a short official notice or report shared with a group.",
+    "setting": "A quiet school hallway",
+    "actor": "No people: one plain paper bulletin is pinned to a blank notice board.",
+    "props": [
+      "one plain paper bulletin",
+      "one blank notice board",
+      "one bare hallway wall"
+    ],
+    "beats": [
+      "The blank board waits",
+      "A paper bulletin is posted",
+      "The notice shares concert news"
+    ],
+    "ending": "A paper bulletin hangs on a notice board.",
+    "artDirection": "All paper is completely blank, with no writing, letters, numbers, pictures, or symbols."
+  },
+  {
+    "id": "kyc-2296",
+    "anchor": "bag",
+    "sentence": "The clasp on her bag snapped shut.",
+    "relation": "A clasp is a small fastener that closes two parts together.",
+    "setting": "A simple bedroom",
+    "actor": "One person closes a plain clasp on a small bag.",
+    "props": [
+      "one plain bag",
+      "one visible metal clasp",
+      "one person"
+    ],
+    "beats": [
+      "The bag is left open",
+      "The clasp is pressed together",
+      "The bag snaps shut"
+    ],
+    "ending": "A metal clasp fastens a bag closed.",
+    "artDirection": "Show one clear fastening clasp; no logos, writing, labels, or symbols."
+  },
+  {
+    "id": "kyc-2297",
+    "anchor": "story",
+    "sentence": "At the story's climax, the hero opened the hidden door.",
+    "relation": "A climax is the most intense or exciting point in a story.",
+    "setting": "A child's reading corner",
+    "actor": "One child reads a blank open book whose small imagined scene shows one hero opening a hidden door.",
+    "props": [
+      "one child",
+      "one blank open book",
+      "one small imagined door scene"
+    ],
+    "beats": [
+      "The child begins reading",
+      "The story builds suspense",
+      "The hero opens the door at the climax"
+    ],
+    "ending": "A child reaches the exciting climax of a story as its hero opens a hidden door.",
+    "artDirection": "No writing or pictures with lettering in the book; keep the imagined scene simple and legible."
+  },
+  {
+    "id": "kyc-2298",
+    "anchor": "bell",
+    "sentence": "The class will commence when the bell rings.",
+    "relation": "To commence is to begin; a bell can signal the start of an event.",
+    "setting": "A small classroom",
+    "actor": "Exactly two people: one teacher and one student wait as a plain bell signals class to begin.",
+    "props": [
+      "one plain bell",
+      "one teacher",
+      "one student"
+    ],
+    "beats": [
+      "The teacher and student wait",
+      "The bell rings",
+      "The class commences"
+    ],
+    "ending": "A bell signals the commencement of class.",
+    "artDirection": "Exactly two people; bell has no writing, marks, or symbols; no sound waves or text."
+  },
+  {
+    "id": "kyc-2299",
+    "anchor": "king",
+    "sentence": "The king issued a decree to protect the forest.",
+    "relation": "A decree is an official order made by a ruler or authority.",
+    "setting": "A plain royal chamber with a view of a forest",
+    "actor": "One king presents a blank scroll while looking toward a green forest beyond the window.",
+    "props": [
+      "one king",
+      "one blank scroll",
+      "one forest view"
+    ],
+    "beats": [
+      "The king considers the forest",
+      "He issues an official order",
+      "The decree protects the trees"
+    ],
+    "ending": "A king issues a decree to protect a forest.",
+    "artDirection": "Scroll must be blank; no crowns with emblems, flags, text, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2300",
+    "anchor": "water",
+    "sentence": "She used water to dilute the juice.",
+    "relation": "To dilute a liquid is to make it weaker by adding water or another liquid.",
+    "setting": "A simple kitchen table",
+    "actor": "One person pours water into a glass of concentrated juice and stirs it.",
+    "props": [
+      "one glass of juice",
+      "one clear water jug",
+      "one spoon"
+    ],
+    "beats": [
+      "The juice is concentrated",
+      "Water is added",
+      "The drink becomes lighter and less strong"
+    ],
+    "ending": "A person dilutes juice with water.",
+    "artDirection": "No labels, logos, text, or symbols on containers."
+  },
+  {
+    "id": "kyc-2301",
+    "anchor": "gift",
+    "sentence": "The broken gift would disappoint the child on her birthday.",
+    "relation": "To disappoint is to cause someone to feel let down or unhappy.",
+    "setting": "A simple birthday room",
+    "actor": "One child looks disappointed at a broken plain toy received as a gift.",
+    "props": [
+      "one child",
+      "one broken toy gift",
+      "one birthday table"
+    ],
+    "beats": [
+      "The child opens the gift",
+      "The toy is broken",
+      "The child's face falls in disappointment"
+    ],
+    "ending": "A broken gift disappoints a child on her birthday.",
+    "artDirection": "No wrapping with text, numbers, logos, or symbols; keep emotion gentle."
+  },
+  {
+    "id": "kyc-2302",
+    "anchor": "friend",
+    "sentence": "The discreet friend kept the surprise hidden from the family.",
+    "relation": "Discreet describes someone careful not to reveal private or sensitive information.",
+    "setting": "A quiet home room",
+    "actor": "One discreet friend hides a plain wrapped gift behind the back while one family member enters.",
+    "props": [
+      "one friend",
+      "one plain wrapped gift",
+      "one doorway"
+    ],
+    "beats": [
+      "The friend prepares a surprise",
+      "A family member approaches",
+      "The friend discreetly hides the gift"
+    ],
+    "ending": "A discreet friend keeps a surprise hidden.",
+    "artDirection": "Exactly two people; gift wrapping has no text, patterns, labels, or symbols."
+  },
+  {
+    "id": "kyc-2303",
+    "anchor": "fog",
+    "sentence": "The morning sun made the fog dissipate.",
+    "relation": "To dissipate is to gradually spread out or disappear.",
+    "setting": "A meadow at sunrise",
+    "actor": "No people: thin fog clears from a meadow as the sun rises.",
+    "props": [
+      "one thin fog bank",
+      "one rising sun",
+      "one meadow"
+    ],
+    "beats": [
+      "Fog covers the meadow",
+      "The sun warms the air",
+      "The fog dissipates"
+    ],
+    "ending": "Morning sun makes the fog dissipate over a meadow.",
+    "artDirection": "No arrows, motion lines, text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2304",
+    "anchor": "apple",
+    "sentence": "She chose only edible berries and packed an apple for the walk.",
+    "relation": "Edible means safe and suitable to be eaten.",
+    "setting": "A garden path before a walk",
+    "actor": "One woman places a ripe apple and a few safe berries into a plain basket.",
+    "props": [
+      "one apple",
+      "a few berries",
+      "one plain basket"
+    ],
+    "beats": [
+      "The fruit is checked",
+      "Only edible berries are chosen",
+      "The apple and berries go into the basket"
+    ],
+    "ending": "A woman packs edible berries and an apple for a walk.",
+    "artDirection": "Show familiar safe fruit only; no labels, text, symbols, or extra fruit types."
+  },
+  {
+    "id": "kyc-2305",
+    "anchor": "rubber",
+    "sentence": "The elastic rubber band stretched around the jar.",
+    "relation": "Elastic means able to stretch and return toward an original shape.",
+    "setting": "A plain kitchen table",
+    "actor": "No people: one rubber band stretches around a glass jar and remains taut.",
+    "props": [
+      "one rubber band",
+      "one glass jar",
+      "one tabletop"
+    ],
+    "beats": [
+      "The band rests loose",
+      "It stretches around the jar",
+      "It stays taut and resilient"
+    ],
+    "ending": "An elastic rubber band stretches around a jar.",
+    "artDirection": "No printed marks, labels, text, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2306",
+    "anchor": "voice",
+    "sentence": "One voice rose as the disagreement began to escalate.",
+    "relation": "To escalate is to become more serious, intense, or severe.",
+    "setting": "A plain living room",
+    "actor": "Exactly two adults in a disagreement, moving from calm discussion to visibly tense expressions.",
+    "props": [
+      "two adults",
+      "one plain table",
+      "one empty room"
+    ],
+    "beats": [
+      "The discussion begins calmly",
+      "The disagreement grows sharper",
+      "The argument escalates"
+    ],
+    "ending": "Two adults show an argument escalating from calm to tense.",
+    "artDirection": "Exactly two people; no violence, speech bubbles, text, or motion marks."
+  },
+  {
+    "id": "kyc-2307",
+    "anchor": "guard",
+    "sentence": "The guard will escort the child through the station.",
+    "relation": "To escort someone is to accompany and guide them to a place.",
+    "setting": "A quiet station concourse",
+    "actor": "Exactly two people: one unmarked guard walks beside one child and guides the child through the concourse.",
+    "props": [
+      "one plain-clothed guard",
+      "one child",
+      "one station doorway"
+    ],
+    "beats": [
+      "The child arrives at the station",
+      "The guard walks beside the child",
+      "They pass through the concourse together"
+    ],
+    "ending": "A guard escorts a child through the station.",
+    "artDirection": "Exactly two people; no badges, weapons, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2308",
+    "anchor": "sun",
+    "sentence": "The desert became exceedingly hot under the sun.",
+    "relation": "Exceedingly means to an unusually great or extreme degree.",
+    "setting": "A bright desert landscape",
+    "actor": "One traveler shields their face from intense heat beneath a high sun.",
+    "props": [
+      "one traveler",
+      "one high sun",
+      "one desert dune"
+    ],
+    "beats": [
+      "The traveler crosses the desert",
+      "The sun beats down",
+      "The heat becomes exceedingly intense"
+    ],
+    "ending": "A traveler feels exceedingly hot under the desert sun.",
+    "artDirection": "No heat-wave lines, sun icons, text, or signs; one traveler only."
+  },
+  {
+    "id": "kyc-2309",
+    "anchor": "flower",
+    "sentence": "An exquisite flower rested in a glass vase.",
+    "relation": "Exquisite describes something exceptionally beautiful and finely made.",
+    "setting": "A simple dining table",
+    "actor": "No people: one exquisitely detailed flower rests in a plain glass vase.",
+    "props": [
+      "one flower",
+      "one clear glass vase",
+      "one table"
+    ],
+    "beats": [
+      "The flower is chosen",
+      "It is placed in the vase",
+      "Its delicate beauty stands out"
+    ],
+    "ending": "An exquisite flower rests in a clear vase.",
+    "artDirection": "Make the petals finely detailed and beautiful; no patterns, text, or symbols."
+  },
+  {
+    "id": "kyc-2310",
+    "anchor": "garden",
+    "sentence": "A fairy flew above the garden at dusk.",
+    "relation": "A fairy is a small imaginary magical being often shown with wings.",
+    "setting": "A gentle garden at dusk",
+    "actor": "One small fairy with delicate wings floats above a flower bed.",
+    "props": [
+      "one fairy",
+      "one flower bed",
+      "one dusk sky"
+    ],
+    "beats": [
+      "The garden grows quiet",
+      "The fairy appears above the flowers",
+      "It flies across the garden"
+    ],
+    "ending": "A small fairy flies above a garden at dusk.",
+    "artDirection": "One fairy only; no extra wings or limbs, no glitter symbols, text, or watermarks."
+  }
+]

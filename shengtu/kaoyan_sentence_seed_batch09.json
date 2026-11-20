@@ -1,0 +1,642 @@
+[
+  {
+    "word": "illness",
+    "anchor": "fever",
+    "anchorMeaning": "发烧",
+    "relation": "A fever can be a visible symptom of an illness.",
+    "sentence": "A high fever keeps the child home while the doctor checks for an illness.（孩子发着高烧留在家里，医生正在检查孩子是不是生病了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm, bright bedroom.",
+      "actor": "One doctor checks one resting child with a thermometer; exactly two people.",
+      "props": [
+        "one plain thermometer with no numbers",
+        "one warm bed",
+        "one clear glass of water"
+      ],
+      "beats": [
+        "The child rests in bed with a fever.",
+        "The doctor checks the child gently.",
+        "The child stays home while the doctor looks for the illness."
+      ],
+      "ending": "A doctor calmly checks a child resting in bed beside a glass of water."
+    },
+    "artDirection": "No writing on charts, thermometer, clothing, or objects. Show a caring, non-alarming medical visit; exactly two people with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，发烧是疾病的常见症状，词义关系真实。"
+    }
+  },
+  {
+    "word": "criticism",
+    "anchor": "painting",
+    "anchorMeaning": "画作",
+    "relation": "A critic may give criticism of a painting by pointing out a specific feature.",
+    "sentence": "The teacher offers criticism of the painting by pointing to one crooked line.（老师指着画上一条歪斜的线提出批评意见。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet art classroom.",
+      "actor": "One teacher gives feedback to one student beside a painting; exactly two people.",
+      "props": [
+        "one simple landscape painting",
+        "one plain easel",
+        "one paintbrush"
+      ],
+      "beats": [
+        "The student shows the painting.",
+        "The teacher points to one crooked line.",
+        "The teacher offers criticism that could help improve it."
+      ],
+      "ending": "The teacher gently points to a line in the student’s painting while giving feedback."
+    },
+    "artDirection": "The painting must contain only a simple landscape and one visibly crooked line, no writing or symbols. Keep the feedback gentle, not angry. Exactly two people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，painting 是批评意见指向的具体作品，criticism 用作意见准确。"
+    }
+  },
+  {
+    "word": "contribution",
+    "anchor": "seed",
+    "anchorMeaning": "种子",
+    "relation": "Donating seeds is a concrete contribution that helps a shared garden grow.",
+    "sentence": "By donating seeds, she makes a valuable contribution to the community garden.（她捐赠种子，为社区花园作出了宝贵贡献。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A shared neighborhood garden.",
+      "actor": "One woman gives a small packet of seeds to one gardener; exactly two people.",
+      "props": [
+        "one plain packet of seeds with no label",
+        "one garden bed",
+        "one small watering can"
+      ],
+      "beats": [
+        "The woman brings seeds to the shared garden.",
+        "She gives them to the gardener.",
+        "The seeds become her contribution to the garden."
+      ],
+      "ending": "One gardener receives seeds beside a freshly prepared garden bed."
+    },
+    "artDirection": "The seed packet must be blank with no label or writing. Show exactly two people, with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，种子捐赠是对共同花园的具体贡献。"
+    }
+  },
+  {
+    "word": "yield",
+    "anchor": "flag",
+    "anchorMeaning": "旗帜",
+    "relation": "Lowering a white flag is a familiar sign that someone yields or gives up.",
+    "sentence": "After a long standoff, the leader decides to yield and lowers the white flag.（长时间僵持后，领队决定屈服，放下了白旗。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet open field after a peaceful standoff.",
+      "actor": "One leader lowers a plain white flag beside a closed gate; only one person.",
+      "props": [
+        "one plain white flag",
+        "one simple flagpole",
+        "one open gate"
+      ],
+      "beats": [
+        "The leader holds the flag upright.",
+        "The leader decides to yield.",
+        "The white flag is lowered and the gate opens."
+      ],
+      "ending": "The leader lowers the plain white flag beside the now-open gate."
+    },
+    "artDirection": "No battle, weapons, text, emblem, or markings on the flag; keep the scene peaceful and symbolic.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，放下白旗是真实且易懂的屈服锚点。"
+    }
+  },
+  {
+    "word": "alter",
+    "anchor": "button",
+    "anchorMeaning": "纽扣",
+    "relation": "Changing a dress by adding a button is a small concrete alteration.",
+    "sentence": "She plans to alter her old dress by adding a bright button.（她打算给旧连衣裙添上一颗亮眼的纽扣，改变它的样子。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A neat sewing corner by a window.",
+      "actor": "One woman sews a new button onto an old dress; only one person.",
+      "props": [
+        "one plain old dress",
+        "one bright button",
+        "one sewing needle with thread"
+      ],
+      "beats": [
+        "She examines the old dress.",
+        "She sews on the bright button.",
+        "The small change alters the dress’s appearance."
+      ],
+      "ending": "The woman finishes sewing one bright button onto the dress."
+    },
+    "artDirection": "Show only one added button and one needle; no printed patterns, labels, or text on the dress. Person has exactly two hands and arms.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，添加纽扣会改变旧衣服的外观，alter 用法准确。"
+    }
+  },
+  {
+    "word": "requirement",
+    "anchor": "helmet",
+    "anchorMeaning": "安全帽",
+    "relation": "A helmet can be a required safety condition before entering a construction site.",
+    "sentence": "A helmet is a safety requirement before anyone enters the construction site.（进入施工现场前必须戴安全帽，这是安全要求。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "The entrance to a quiet construction site.",
+      "actor": "One worker puts on a helmet before walking through the gate; only one person.",
+      "props": [
+        "one plain safety helmet",
+        "one simple site gate",
+        "one unmarked tool case"
+      ],
+      "beats": [
+        "The worker arrives at the site entrance.",
+        "The worker puts on the helmet.",
+        "The worker enters only after meeting the safety requirement."
+      ],
+      "ending": "The worker wears the helmet and steps through the open site gate."
+    },
+    "artDirection": "No warning signs, labels, text, numbers, or logos. Keep the helmet unmarked.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，安全帽是进入施工现场的具体要求。"
+    }
+  },
+  {
+    "word": "critic",
+    "anchor": "painting",
+    "anchorMeaning": "画作",
+    "relation": "A critic examines a work of art and gives an opinion about it.",
+    "sentence": "The critic studies the painting before giving her opinion.（这位评论家先仔细看画，再发表自己的意见。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple art gallery.",
+      "actor": "One art critic studies one painting in a display area; only one person.",
+      "props": [
+        "one framed landscape painting",
+        "one plain gallery wall",
+        "one small viewing stool"
+      ],
+      "beats": [
+        "The critic approaches the painting.",
+        "She studies its colors and shapes.",
+        "She pauses to form an opinion as a critic."
+      ],
+      "ending": "The critic stands thoughtfully in front of the landscape painting."
+    },
+    "artDirection": "No gallery labels, plaques, writing, or extra visitors. The painting contains only a landscape, no signatures.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，画作是评论者评价的对象，critic 人义准确。"
+    }
+  },
+  {
+    "word": "appearance",
+    "anchor": "curtain",
+    "anchorMeaning": "幕布",
+    "relation": "A performer’s first appearance can happen when the stage curtain rises.",
+    "sentence": "The magician makes his first appearance as the curtain rises.（幕布升起时，魔术师首次登台亮相。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small theater stage at the start of a show.",
+      "actor": "One magician appears as one curtain opens; only one person.",
+      "props": [
+        "one red stage curtain",
+        "one plain top hat",
+        "one warm spotlight"
+      ],
+      "beats": [
+        "The curtain is closed.",
+        "The curtain rises and the magician steps into view.",
+        "The magician makes his first appearance on stage."
+      ],
+      "ending": "A magician stands in the spotlight as the curtain opens."
+    },
+    "artDirection": "No audience, signs, letters, or text. Show one magician only, with normal arms and hands.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，幕布升起带来首次登场，appearance 用作“出现”准确。"
+    }
+  },
+  {
+    "word": "engineering",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Engineering applies practical science and design to build structures such as bridges.",
+    "sentence": "Her engineering skills help her design a sturdy bridge over the river.（她运用工程学知识设计出一座横跨河流的坚固桥梁。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A riverside design workshop.",
+      "actor": "One engineer examines a small bridge model on a table; only one person.",
+      "props": [
+        "one small bridge model",
+        "one plain ruler with no markings",
+        "one unmarked hard hat"
+      ],
+      "beats": [
+        "The engineer studies the river crossing.",
+        "She adjusts the bridge model.",
+        "She completes a sturdy design through engineering."
+      ],
+      "ending": "The engineer stands beside a finished bridge model and a plain hard hat."
+    },
+    "artDirection": "No blueprints with writing, no numbers on the ruler, and no labels or logos on the hard hat.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，桥梁设计是工程学的具体应用。"
+    }
+  },
+  {
+    "word": "priority",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "A leaking roof can be made the first priority because it needs urgent repair before less urgent work.",
+    "sentence": "She makes roof repair her first priority and postpones painting the walls.（她把修屋顶列为首要任务，暂缓粉刷墙壁。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small house during a light rain.",
+      "actor": "One homeowner looks up at a leaking roof while holding an unopened paint can; only one person.",
+      "props": [
+        "one leaking roof",
+        "one unopened plain paint can",
+        "one simple ladder"
+      ],
+      "beats": [
+        "Rain drips through the roof.",
+        "The homeowner notices the leak before starting the painting.",
+        "She chooses roof repair as her first priority."
+      ],
+      "ending": "The homeowner sets aside the unopened paint can and turns toward the leaking roof."
+    },
+    "artDirection": "No labels on the paint can, no signs or text. Make the leaking roof the clear urgent focus.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，先处理漏水屋顶而推迟粉刷，priority 的先后重要性明确。"
+    }
+  },
+  {
+    "word": "cope",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "An umbrella is a practical tool that helps someone cope with heavy rain.",
+    "sentence": "She uses an umbrella to cope with the heavy rain on her way to work.（她上班路上用雨伞应对大雨。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "An empty park footpath in heavy morning rain, with no buildings or street fixtures.",
+      "actor": "One woman walks steadily under an umbrella; only one person.",
+      "props": [
+        "one plain umbrella",
+        "one work bag",
+        "several natural rain puddles"
+      ],
+      "beats": [
+        "Heavy rain falls on the empty path.",
+        "The woman opens her umbrella.",
+        "She continues walking despite the rain."
+      ],
+      "ending": "The woman walks steadily along the empty park path beneath her umbrella."
+    },
+    "artDirection": "Keep the pavement and every puddle completely free of markings. Puddles may show only natural rain ripples and soft reflections; no letters, numbers, chalk, stencils, signs, symbols, or text anywhere. No buildings or street fixtures.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，雨伞是应对大雨的具体工具。"
+    }
+  },
+  {
+    "word": "propose",
+    "anchor": "drawing",
+    "anchorMeaning": "图画；草图",
+    "relation": "Showing a drawing is a familiar way to propose or suggest a plan.",
+    "sentence": "She uses a simple drawing to propose a plan for a community garden to her neighbors.（她用一张简单的草图向邻居提议社区花园计划。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A shared garden beside a neighborhood house.",
+      "actor": "One woman presents a simple garden drawing to one neighbor; exactly two people.",
+      "props": [
+        "one blank drawing showing only garden shapes",
+        "one small seedling",
+        "one plain garden table"
+      ],
+      "beats": [
+        "The woman sketches a garden idea.",
+        "She shows the drawing to her neighbor.",
+        "She proposes the plan for the shared garden."
+      ],
+      "ending": "The neighbor looks at the simple garden drawing as the woman explains her proposal."
+    },
+    "artDirection": "The drawing contains only simple plant and path shapes, no words, labels, arrows, or numbers. Exactly two people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，展示草图是向邻居提出社区花园计划的方式，propose 用法准确。"
+    }
+  },
+  {
+    "word": "payment",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "A coin can be used to make a payment for goods.",
+    "sentence": "He makes a payment for the bread by handing over a coin.（他递出一枚硬币，付钱买下这条面包。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple bakery counter with a blank wall.",
+      "actor": "One customer gives one plain coin to one baker for a loaf; exactly two people.",
+      "props": [
+        "one fresh loaf of bread",
+        "one smooth unmarked coin",
+        "one plain wooden counter"
+      ],
+      "beats": [
+        "The customer chooses the bread.",
+        "He hands the coin to the baker.",
+        "The baker accepts the payment and passes over the loaf."
+      ],
+      "ending": "The baker and customer exchange one loaf and one blank coin across the counter."
+    },
+    "artDirection": "The coin must be completely smooth with no symbols, numbers, currency marks, or lettering. No signs, labels, or packaging text. Exactly two people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然准确，硬币是支付的具体工具。"
+    }
+  },
+  {
+    "word": "anxiety",
+    "anchor": "exam",
+    "anchorMeaning": "考试",
+    "relation": "An upcoming exam can cause anxiety, which appears in worried behavior.",
+    "sentence": "Her anxiety grows before the exam, and she grips her pencil tightly.（考试前她越来越焦虑，紧紧握着铅笔。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study desk before an exam.",
+      "actor": "One student sits tensely beside a blank exam sheet; only one person.",
+      "props": [
+        "one blank exam paper",
+        "one plain pencil",
+        "one simple desk clock with no numerals"
+      ],
+      "beats": [
+        "The student sees the blank exam paper.",
+        "She grips her pencil as she worries.",
+        "Her tense posture shows anxiety before the exam."
+      ],
+      "ending": "The student looks anxiously at the blank paper while holding the pencil."
+    },
+    "artDirection": "Paper must be completely blank, clock has no numerals, and there are no signs or text. Show worry gently, not panic.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，考试是焦虑的常见诱因，动作表现焦虑状态。"
+    }
+  },
+  {
+    "word": "plane",
+    "anchor": "wing",
+    "anchorMeaning": "机翼",
+    "relation": "A wing is a distinctive part of a plane that helps it fly.",
+    "sentence": "The plane’s wide wings carry it high into the blue sky.（飞机宽大的机翼托着它飞向蓝天。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clear blue sky above a distant airport.",
+      "actor": "No person; one passenger plane flies overhead.",
+      "props": [
+        "one passenger plane with two wings",
+        "one broad blue sky",
+        "one small distant runway"
+      ],
+      "beats": [
+        "The plane rolls along the runway.",
+        "Its wings lift it into the air.",
+        "The plane climbs into the sky."
+      ],
+      "ending": "One plane flies clearly above a distant runway, both wings visible."
+    },
+    "artDirection": "One plane only, with exactly two wings and no visible airline name, letters, numbers, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，机翼是飞机的明显组成部分，目标词义明确。"
+    }
+  },
+  {
+    "word": "humanity",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "relation": "Offering a helping hand to a stranger is a concrete act that shows humanity and compassion.",
+    "sentence": "His humanity shows when he offers a helping hand to a tired stranger.（他向疲惫的陌生人伸出援手，体现了人性中的善意。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet park path.",
+      "actor": "One passerby helps one tired traveler lift a heavy bag; exactly two people.",
+      "props": [
+        "one heavy travel bag",
+        "one park bench",
+        "one walking cane"
+      ],
+      "beats": [
+        "The traveler struggles with the bag.",
+        "The passerby offers a helping hand.",
+        "They lift the bag together, showing compassion."
+      ],
+      "ending": "One person helps a tired stranger lift a heavy bag beside the bench."
+    },
+    "artDirection": "Show a kind, respectful interaction; exactly two people with normal arms and hands. No text or logos on the bag.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，援手行为表现 humanity 的人性与善意，hand 是具体锚点。"
+    }
+  },
+  {
+    "word": "explanation",
+    "anchor": "gear",
+    "anchorMeaning": "齿轮",
+    "relation": "Pointing to how gears turn is a concrete way to give an explanation of a machine.",
+    "sentence": "He gives a clear explanation of the gears by showing how they turn.（他演示齿轮如何转动，清楚地作出了解释。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small mechanics classroom.",
+      "actor": "One instructor demonstrates a simple gear model to one student; exactly two people.",
+      "props": [
+        "one plain wooden gear model",
+        "one small table",
+        "one unmarked tool case"
+      ],
+      "beats": [
+        "The instructor turns one gear.",
+        "The connected gear moves in the opposite direction.",
+        "The instructor gives an explanation by showing the motion."
+      ],
+      "ending": "The instructor points to the turning gears while the student watches."
+    },
+    "artDirection": "No writing, labels, arrows, numbers, or text on the model or in the room. Exactly two people with normal limbs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，齿轮的实际运转可作为解释机器原理的具体内容。"
+    }
+  },
+  {
+    "word": "mostly",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "Mostly means for the greatest part; a bowl with many red apples and only a few green ones makes this quantity clear.",
+    "sentence": "The bowl is mostly filled with red apples, with only a few green ones on top.（碗里大部分装着红苹果，最上面只有少数几个青苹果。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean kitchen table.",
+      "actor": "No person; one fruit bowl is shown clearly.",
+      "props": [
+        "one plain bowl",
+        "a large group of red apples",
+        "a small group of green apples"
+      ],
+      "beats": [
+        "The bowl is filled with apples.",
+        "Most of the apples are red.",
+        "A few green apples remain on top."
+      ],
+      "ending": "A bowl contains mostly red apples with only a few green ones visible."
+    },
+    "artDirection": "Make the red apples clearly more than half of all apples; only a few green apples. No labels, text, or symbols on the fruit or bowl.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，苹果数量比例表现 mostly 的“大部分”义。"
+    }
+  },
+  {
+    "word": "wealthy",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "A large collection of valuable coins can be evidence of someone’s wealth.",
+    "sentence": "The wealthy merchant keeps a chest of gold coins in his large home.（富有的商人在宽敞的家中存放着一箱金币。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A spacious but warmly furnished home.",
+      "actor": "One merchant stands beside a small open chest of gold coins; only one person.",
+      "props": [
+        "one plain wooden chest",
+        "a modest pile of smooth gold coins",
+        "one large comfortable home interior"
+      ],
+      "beats": [
+        "The merchant opens the chest.",
+        "The gold coins catch the light.",
+        "The spacious home and coins suggest that he is wealthy."
+      ],
+      "ending": "The merchant stands beside an open chest with a few gleaming gold coins."
+    },
+    "artDirection": "Coins must be smooth and unmarked, with no currency signs, numbers, or letters. Avoid excessive luxury; no text or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，金币是财富的具体线索，wealthy 用法准确。"
+    }
+  },
+  {
+    "word": "exhibit",
+    "anchor": "museum",
+    "anchorMeaning": "博物馆",
+    "relation": "A museum is a familiar place where objects are exhibited for people to see.",
+    "sentence": "The museum will exhibit a collection of shells in a glass case.（博物馆将在玻璃展柜中展出一组贝壳。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet museum gallery.",
+      "actor": "One curator arranges several shells in a display case; only one person.",
+      "props": [
+        "one plain glass display case",
+        "a small collection of seashells",
+        "one simple museum pedestal"
+      ],
+      "beats": [
+        "The curator brings the shells to the gallery.",
+        "She places them inside the case.",
+        "The museum exhibits the shells for visitors to see."
+      ],
+      "ending": "A curator stands beside a case displaying a small collection of shells."
+    },
+    "artDirection": "No labels, captions, signs, text, numbers, or logos. Keep the shells clearly visible in the case.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，博物馆展出贝壳准确表现 exhibit 的动词义。"
+    }
+  }
+]

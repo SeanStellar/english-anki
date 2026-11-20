@@ -1,0 +1,762 @@
+[
+  {
+    "word": "detective",
+    "anchor": "footprint",
+    "anchorMeaning": "脚印",
+    "relation": "A detective investigates clues to discover what happened.",
+    "sentence": "The detective followed a muddy footprint through the garden.",
+    "scene": {
+      "setting": "A garden path after rain",
+      "actor": "One detective studies a trail of muddy footprints with a magnifying glass",
+      "props": [
+        "magnifying glass",
+        "muddy footprints",
+        "garden path"
+      ],
+      "beats": [
+        "The detective finds one print",
+        "She follows the trail",
+        "She investigates where it leads"
+      ],
+      "ending": "A detective follows muddy footprints"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A detective investigates clues to discover what happened. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No badges, writing, or text."
+  },
+  {
+    "word": "disrupt",
+    "anchor": "drum",
+    "anchorMeaning": "鼓",
+    "relation": "To disrupt is to interrupt the normal activity of something.",
+    "sentence": "A loud drumbeat can disrupt the quiet reading hour.",
+    "scene": {
+      "setting": "A quiet reading room",
+      "actor": "One child strikes a drum while another reader looks up from a blank book",
+      "props": [
+        "single drum",
+        "blank book",
+        "wooden chair"
+      ],
+      "beats": [
+        "The room is quiet",
+        "The drum sounds",
+        "The reading is disrupted"
+      ],
+      "ending": "A drum interrupts quiet reading"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To disrupt is to interrupt the normal activity of something. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No music notes, speech bubbles, or text."
+  },
+  {
+    "word": "identification",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "Identification is proof of who someone is.",
+    "sentence": "The guard asked for identification before opening the gate.",
+    "scene": {
+      "setting": "A plain garden entrance",
+      "actor": "One visitor shows a blank identity card to one gate guard",
+      "props": [
+        "plain blank identity card",
+        "closed gate",
+        "small guard desk"
+      ],
+      "beats": [
+        "The visitor arrives",
+        "The guard asks for identification",
+        "The gate is opened"
+      ],
+      "ending": "A visitor presents identification at a gate"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Identification is proof of who someone is. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letters, photos, numbers, badges, or labels on the card."
+  },
+  {
+    "word": "poultry",
+    "anchor": "barn",
+    "anchorMeaning": "谷仓",
+    "relation": "Poultry are domestic birds raised for eggs or meat.",
+    "sentence": "The farmer fed the poultry beside the red barn.",
+    "scene": {
+      "setting": "A sunny farmyard",
+      "actor": "One farmer scatters grain for several chickens and ducks near the barn",
+      "props": [
+        "red barn",
+        "small grain bowl",
+        "farmyard"
+      ],
+      "beats": [
+        "The farmer brings grain",
+        "The poultry gather",
+        "They peck beside the barn"
+      ],
+      "ending": "Farm poultry gather near a barn"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Poultry are domestic birds raised for eggs or meat. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep the birds anatomically natural; no text."
+  },
+  {
+    "word": "ridiculous",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "Ridiculous describes something so silly that it deserves laughter.",
+    "sentence": "The ridiculous hat made one guest laugh at the picnic.",
+    "scene": {
+      "setting": "A garden picnic",
+      "actor": "One person wears an oversized floppy hat as one guest laughs kindly",
+      "props": [
+        "oversized plain hat",
+        "picnic blanket",
+        "small basket"
+      ],
+      "beats": [
+        "The guest arrives",
+        "The funny hat catches attention",
+        "Everyone laughs at its ridiculous shape"
+      ],
+      "ending": "An oversized hat makes a picnic guest laugh"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Ridiculous describes something so silly that it deserves laughter. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No speech bubbles, text, or logos."
+  },
+  {
+    "word": "texture",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "relation": "Texture is the way a surface feels or appears to feel.",
+    "sentence": "The rough texture of the shell felt uneven in her hand.",
+    "scene": {
+      "setting": "A sunny beach table",
+      "actor": "One child touches the ridged surface of a shell",
+      "props": [
+        "single ridged shell",
+        "wooden table",
+        "plain towel"
+      ],
+      "beats": [
+        "She picks up the shell",
+        "She feels its rough texture",
+        "She studies the ridges"
+      ],
+      "ending": "A hand feels the rough texture of a shell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Texture is the way a surface feels or appears to feel. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or text."
+  },
+  {
+    "word": "embryo",
+    "anchor": "egg",
+    "anchorMeaning": "鸡蛋",
+    "relation": "An embryo is an early stage of an animal before it is fully developed.",
+    "sentence": "The embryo developed safely inside the warm egg.",
+    "scene": {
+      "setting": "A quiet nest in a warm, simple background",
+      "actor": "No people; one intact egg is shown in a gentle cutaway, with a small curled developing embryo clearly contained inside the shell",
+      "props": [
+        "single egg",
+        "small developing chick",
+        "soft nest"
+      ],
+      "beats": [
+        "The intact egg rests in the nest",
+        "A small curled embryo is visible within the egg",
+        "The embryo remains safely enclosed as it develops"
+      ],
+      "ending": "One unhatched egg with a small developing embryo visible inside"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An embryo is an early stage of an animal before it is fully developed. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Gentle storybook watercolor, non-graphic. Show one intact unhatched egg with a small curled embryo visible inside through a clean cutaway. No cracked open shell, no beak or chick outside, no second egg, no text or labels."
+  },
+  {
+    "word": "vapor",
+    "anchor": "kettle",
+    "anchorMeaning": "水壶",
+    "relation": "Vapor is the visible gas that rises from hot liquid.",
+    "sentence": "A cloud of vapor rose from the hot kettle.",
+    "scene": {
+      "setting": "A simple kitchen counter",
+      "actor": "No people; one kettle sends a soft plume of vapor upward",
+      "props": [
+        "plain kettle",
+        "small stove",
+        "wooden counter"
+      ],
+      "beats": [
+        "The water heats",
+        "Vapor rises from the kettle",
+        "The cloud drifts upward"
+      ],
+      "ending": "A kettle releases vapor"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Vapor is the visible gas that rises from hot liquid. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels, symbols, or text."
+  },
+  {
+    "word": "chancellor",
+    "anchor": "podium",
+    "anchorMeaning": "讲台",
+    "relation": "A chancellor is a high-ranking government leader, often the head of a government.",
+    "sentence": "The chancellor spoke to one official from a plain podium.",
+    "scene": {
+      "setting": "A government hall with a blank wall",
+      "actor": "One chancellor addresses one official from a plain podium",
+      "props": [
+        "plain podium",
+        "single chair",
+        "government hall"
+      ],
+      "beats": [
+        "The chancellor steps forward",
+        "She speaks from the podium",
+        "The official listens"
+      ],
+      "ending": "A chancellor addresses one official from a podium"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A chancellor is a high-ranking government leader, often the head of a government. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No flags, seals, badges, signs, or text."
+  },
+  {
+    "word": "deduce",
+    "anchor": "footprints",
+    "anchorMeaning": "脚印",
+    "relation": "To deduce is to reach a conclusion from clues or evidence.",
+    "sentence": "From the muddy footprints, the detective could deduce who had entered the house.",
+    "scene": {
+      "setting": "A muddy house entryway",
+      "actor": "One detective studies wet footprints leading toward an open door",
+      "props": [
+        "muddy footprints",
+        "plain door",
+        "magnifying glass"
+      ],
+      "beats": [
+        "The detective sees the prints",
+        "She follows them to the door",
+        "She deduces someone came inside"
+      ],
+      "ending": "A detective deduces where the footprints lead"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To deduce is to reach a conclusion from clues or evidence. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing, numbers, or signs."
+  },
+  {
+    "word": "gum",
+    "anchor": "tooth",
+    "anchorMeaning": "牙齿",
+    "relation": "Gum is the soft tissue around the teeth inside the mouth.",
+    "sentence": "Her gum felt sore beside one loose tooth.",
+    "scene": {
+      "setting": "A calm bathroom mirror",
+      "actor": "One child points to a sore gum beside a loose tooth in the mirror",
+      "props": [
+        "plain mirror",
+        "single toothbrush",
+        "small cup"
+      ],
+      "beats": [
+        "The child looks in the mirror",
+        "She points beside the tooth",
+        "The gum feels sore"
+      ],
+      "ending": "A child checks a sore gum beside one tooth"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Gum is the soft tissue around the teeth inside the mouth. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No medical icons, text, or labels."
+  },
+  {
+    "word": "hijack",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "To hijack is to seize control of a vehicle by force.",
+    "sentence": "One pirate tried to hijack the small cargo boat near shore.",
+    "scene": {
+      "setting": "A quiet harbor",
+      "actor": "One pirate climbs aboard one small cargo boat as one sailor steps away",
+      "props": [
+        "single cargo boat",
+        "plain rope",
+        "harbor water"
+      ],
+      "beats": [
+        "The boat moves near shore",
+        "The pirates board",
+        "They try to hijack it"
+      ],
+      "ending": "Pirates try to take over a small boat"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To hijack is to seize control of a vehicle by force. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No weapons, flags, text, or logos."
+  },
+  {
+    "word": "implicit",
+    "anchor": "nod",
+    "anchorMeaning": "点头",
+    "relation": "Implicit describes something understood without being said directly.",
+    "sentence": "His implicit agreement showed when he nodded without speaking.",
+    "scene": {
+      "setting": "A quiet meeting table",
+      "actor": "One person nods silently while another waits for an answer",
+      "props": [
+        "wooden table",
+        "two plain chairs",
+        "blank paper"
+      ],
+      "beats": [
+        "One friend asks silently with a gesture",
+        "The other nods",
+        "Their implicit agreement is understood"
+      ],
+      "ending": "A silent nod shows agreement"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Implicit describes something understood without being said directly. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No speech bubbles or writing."
+  },
+  {
+    "word": "renaissance",
+    "anchor": "paintbrush",
+    "anchorMeaning": "画笔",
+    "relation": "The Renaissance renewed European art, and a painter with a brush recalls that era.",
+    "sentence": "During the Renaissance, one painter used a paintbrush to study a marble statue.",
+    "scene": {
+      "setting": "A quiet historical art workshop",
+      "actor": "One painter studies a plain marble statue with a paintbrush",
+      "props": [
+        "paintbrush",
+        "marble statue",
+        "wooden easel"
+      ],
+      "beats": [
+        "The painter prepares her brush",
+        "She studies the statue",
+        "Her work reflects Renaissance art"
+      ],
+      "ending": "A Renaissance artist works beside a marble statue"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. The Renaissance renewed European art, and a painter with a brush recalls that era. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No historical labels, text, or symbols."
+  },
+  {
+    "word": "wholly",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "Wholly means completely or entirely.",
+    "sentence": "The small room was wholly empty except for one chair.",
+    "scene": {
+      "setting": "A simple empty room",
+      "actor": "No people; one chair stands alone in an otherwise bare room",
+      "props": [
+        "single wooden chair",
+        "bare floor",
+        "blank wall"
+      ],
+      "beats": [
+        "The empty room is shown",
+        "The chair stands alone",
+        "The room is wholly empty otherwise"
+      ],
+      "ending": "One chair in a wholly empty room"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Wholly means completely or entirely. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra furniture, signs, or text."
+  },
+  {
+    "word": "default",
+    "anchor": "loan",
+    "anchorMeaning": "贷款",
+    "relation": "Default can mean failing to meet a payment obligation.",
+    "sentence": "The borrower went into default after missing several loan payments.",
+    "scene": {
+      "setting": "A plain bank office",
+      "actor": "One borrower shows an empty purse to one calm clerk across a desk",
+      "props": [
+        "empty purse",
+        "plain desk",
+        "blank papers"
+      ],
+      "beats": [
+        "The borrower checks the purse",
+        "She cannot make the payment",
+        "She goes into default"
+      ],
+      "ending": "A borrower faces missed payments with an empty purse"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Default can mean failing to meet a payment obligation. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No money amounts, labels, forms with writing, or logos."
+  },
+  {
+    "word": "resent",
+    "anchor": "bedroom",
+    "anchorMeaning": "卧室",
+    "relation": "To resent someone is to feel lasting anger about something unfair.",
+    "sentence": "She began to resent her brother for taking the larger bedroom.",
+    "scene": {
+      "setting": "A simple shared home doorway",
+      "actor": "One child looks upset as her brother carries his blanket into the larger bedroom",
+      "props": [
+        "two plain blankets",
+        "open bedroom door",
+        "wooden bed"
+      ],
+      "beats": [
+        "The brother enters the larger room",
+        "She notices the unfair choice",
+        "She begins to resent him"
+      ],
+      "ending": "One sibling feels resentment over the larger room"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To resent someone is to feel lasting anger about something unfair. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text or extra people."
+  },
+  {
+    "word": "slack",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "Slack describes something loose and not pulled tight.",
+    "sentence": "The slack rope sagged between two posts.",
+    "scene": {
+      "setting": "A quiet field",
+      "actor": "One loose rope hangs in a deep curve between two posts",
+      "props": [
+        "single loose rope",
+        "two wooden posts",
+        "grass field"
+      ],
+      "beats": [
+        "The rope is tied",
+        "It hangs slack",
+        "The deep curve is clear"
+      ],
+      "ending": "A slack rope sags between two posts"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Slack describes something loose and not pulled tight. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text, symbols, or extra objects."
+  },
+  {
+    "word": "unify",
+    "anchor": "stream",
+    "anchorMeaning": "溪流",
+    "relation": "To unify is to join separate things into one.",
+    "sentence": "The two streams unify into one river below the bridge.",
+    "scene": {
+      "setting": "A green valley below a bridge",
+      "actor": "Two small streams join together and flow as one river",
+      "props": [
+        "two streams",
+        "stone bridge",
+        "riverbank"
+      ],
+      "beats": [
+        "The streams flow separately",
+        "They meet below the bridge",
+        "They unify into one river"
+      ],
+      "ending": "Two streams merge into one river"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To unify is to join separate things into one. The anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, labels, or text."
+  },
+  {
+    "word": "upright",
+    "anchor": "lamp",
+    "anchorMeaning": "台灯",
+    "relation": "Upright means standing straight up or vertical.",
+    "sentence": "He placed the lamp upright on the table.",
+    "scene": {
+      "setting": "A simple living room with a wooden table",
+      "actor": "One person stands beside the table after placing the single table lamp upright on it",
+      "props": [
+        "single table lamp",
+        "wooden table",
+        "plain chair"
+      ],
+      "beats": [
+        "The person lifts the single lamp",
+        "The person places that lamp on the table",
+        "The lamp stands straight upright on the table"
+      ],
+      "ending": "One lamp stands upright on the table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “He placed the lamp upright on the table.” It presents one lamp standing straight up on the table."
+    },
+    "artDirection": "Show exactly one lamp in the entire image, already standing upright on the table. Do not show the lamp fallen, held, duplicated, or in any other position. No additional lights, labels, or logos."
+  }
+]

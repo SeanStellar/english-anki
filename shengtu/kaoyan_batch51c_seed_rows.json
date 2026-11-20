@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2411",
+    "anchor": "spring",
+    "sentence": "A blossom opened in spring.",
+    "relation": "A blossom is a flower, especially one growing on a tree or bush.",
+    "setting": "A garden at the start of spring",
+    "actor": "No people: one pale blossom opens on a branch in spring sunlight.",
+    "props": [
+      "one blossom",
+      "one bare branch",
+      "one patch of spring light"
+    ],
+    "beats": [
+      "The branch is bare",
+      "The blossom opens",
+      "Spring color appears"
+    ],
+    "ending": "A blossom opens on a branch in spring.",
+    "artDirection": "No floral symbols, labels, text, or signs."
+  },
+  {
+    "id": "kyc-2412",
+    "anchor": "war",
+    "sentence": "The cannon stood beside the fort after the war.",
+    "relation": "A cannon is a large mounted gun used to fire heavy projectiles.",
+    "setting": "An old stone fort after a conflict",
+    "actor": "No people: one old cannon rests beside a plain stone fort after the war has ended.",
+    "props": [
+      "one old cannon",
+      "one stone fort",
+      "one empty field"
+    ],
+    "beats": [
+      "The war ends",
+      "The cannon stands silent",
+      "The fort remains beside the field"
+    ],
+    "ending": "An old cannon stands beside a fort after the war.",
+    "artDirection": "No firing, explosions, bodies, flags, text, or military symbols."
+  },
+  {
+    "id": "kyc-2413",
+    "anchor": "rule",
+    "sentence": "Trust is a cardinal rule of friendship.",
+    "relation": "Cardinal means most important or fundamental.",
+    "setting": "A quiet classroom",
+    "actor": "Exactly two people: one teacher explains an important rule of trust to one student.",
+    "props": [
+      "one teacher",
+      "one blank rule card",
+      "one student"
+    ],
+    "beats": [
+      "The teacher presents a key rule",
+      "The student listens carefully",
+      "Trust is shown as cardinal"
+    ],
+    "ending": "A teacher explains a cardinal rule of trust to one student.",
+    "artDirection": "Exactly two people; rule card is blank, with no writing, letters, or symbols."
+  },
+  {
+    "id": "kyc-2414",
+    "anchor": "church",
+    "sentence": "The clergy gathered inside the church.",
+    "relation": "Clergy are the people authorized to lead religious services in a church or faith community.",
+    "setting": "A simple church room without decorations",
+    "actor": "Exactly two clergy members stand together inside a plain church room.",
+    "props": [
+      "two clergy members",
+      "one plain church room",
+      "one simple bench"
+    ],
+    "beats": [
+      "The clergy arrive",
+      "They gather in the church",
+      "They prepare to lead a service"
+    ],
+    "ending": "Two clergy members gather inside a church.",
+    "artDirection": "Exactly two people; no crosses, icons, religious symbols, writing, or signs."
+  },
+  {
+    "id": "kyc-2415",
+    "anchor": "handle",
+    "sentence": "She had to clutch the handle when the bus stopped.",
+    "relation": "To clutch is to hold something tightly with the hand.",
+    "setting": "Inside a plain bus",
+    "actor": "One passenger grips a plain overhead handle as the bus stops.",
+    "props": [
+      "one passenger",
+      "one plain handle",
+      "one bus seat"
+    ],
+    "beats": [
+      "The bus moves",
+      "It stops suddenly",
+      "The passenger clutches the handle"
+    ],
+    "ending": "A passenger clutches a handle when the bus stops.",
+    "artDirection": "No bus logos, route signs, text, or numbers; one connected hand and arm."
+  },
+  {
+    "id": "kyc-2416",
+    "anchor": "glue",
+    "sentence": "Glue kept the paper pieces cohesive as she assembled the collage.",
+    "relation": "Cohesive means sticking or holding together as a unified whole.",
+    "setting": "A plain craft table",
+    "actor": "One person presses paper pieces together with glue to make one unified collage.",
+    "props": [
+      "one glue pot",
+      "several plain paper pieces",
+      "one craft table"
+    ],
+    "beats": [
+      "The paper pieces are separate",
+      "Glue joins them",
+      "They hold together as one cohesive collage"
+    ],
+    "ending": "Glue makes paper pieces cohesive in a collage.",
+    "artDirection": "Paper must be blank without writing, letters, or symbols."
+  },
+  {
+    "id": "kyc-2417",
+    "anchor": "room",
+    "sentence": "The room's configuration changed when chairs were rearranged.",
+    "relation": "Configuration is the arrangement or shape of parts in a whole.",
+    "setting": "A plain meeting room",
+    "actor": "No people: several chairs are rearranged from a row into a circle in the room.",
+    "props": [
+      "one row of chairs",
+      "one circular chair arrangement",
+      "one empty room"
+    ],
+    "beats": [
+      "Chairs start in a row",
+      "They are moved",
+      "The new configuration forms a circle"
+    ],
+    "ending": "A new configuration of chairs changes the room.",
+    "artDirection": "No extra furniture, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2418",
+    "anchor": "cold",
+    "sentence": "The contagious cold spread through the family.",
+    "relation": "Contagious means able to spread from one person to another through contact or air.",
+    "setting": "A quiet home living room",
+    "actor": "Exactly two family members: one has a mild cold while the other keeps a little distance and wears a plain scarf.",
+    "props": [
+      "two family members",
+      "one plain scarf",
+      "one tissue"
+    ],
+    "beats": [
+      "One person catches a cold",
+      "They stay near one another",
+      "The cold is contagious and spreads"
+    ],
+    "ending": "A contagious cold passes from one family member to another.",
+    "artDirection": "Exactly two people; no medical crosses, signs, text, or exaggerated illness."
+  },
+  {
+    "id": "kyc-2419",
+    "anchor": "corn",
+    "sentence": "The crow landed beside the corn in the field.",
+    "relation": "A crow is a large black bird often seen searching for food in fields.",
+    "setting": "A farm field",
+    "actor": "One crow stands beside a few ears of corn on the ground.",
+    "props": [
+      "one crow",
+      "several ears of corn",
+      "one field"
+    ],
+    "beats": [
+      "Corn lies in the field",
+      "The crow approaches",
+      "It lands beside the corn"
+    ],
+    "ending": "A crow lands beside corn in a field.",
+    "artDirection": "One crow only with natural bird anatomy; no text, scarecrow symbols, or extra animals."
+  },
+  {
+    "id": "kyc-2420",
+    "anchor": "law",
+    "sentence": "The mayor chose to denounce the unfair law.",
+    "relation": "To denounce is to publicly condemn or criticize something strongly.",
+    "setting": "A plain town meeting room",
+    "actor": "One mayor speaks firmly while holding a blank sheet representing an unfair law.",
+    "props": [
+      "one mayor",
+      "one blank sheet",
+      "one plain table"
+    ],
+    "beats": [
+      "The mayor reviews the law",
+      "The mayor rejects it",
+      "The mayor denounces the unfair law"
+    ],
+    "ending": "A mayor denounces an unfair law.",
+    "artDirection": "Paper must be blank; no signs, text, flags, seals, or symbols."
+  },
+  {
+    "id": "kyc-2421",
+    "anchor": "bridge",
+    "sentence": "They deplore the loss of the old bridge.",
+    "relation": "To deplore is to feel or express strong disapproval or sorrow about something.",
+    "setting": "A riverside where an old bridge has collapsed",
+    "actor": "Exactly two residents look sadly at the remains of a plain bridge.",
+    "props": [
+      "two residents",
+      "one damaged bridge",
+      "one river"
+    ],
+    "beats": [
+      "The bridge is lost",
+      "The residents see the damage",
+      "They deplore what happened"
+    ],
+    "ending": "Two residents deplore the loss of an old bridge.",
+    "artDirection": "No injuries, bodies, signs, text, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2422",
+    "anchor": "music",
+    "sentence": "The music player spun a disc.",
+    "relation": "A disc is a flat, round object or recording medium that spins in a player.",
+    "setting": "A quiet living room",
+    "actor": "No people: one plain music player spins one unmarked round disc.",
+    "props": [
+      "one plain music player",
+      "one unmarked disc",
+      "one low table"
+    ],
+    "beats": [
+      "The disc is placed in the player",
+      "The player starts",
+      "The disc spins as music plays"
+    ],
+    "ending": "A music player spins a disc.",
+    "artDirection": "No titles, logos, numbers, writing, or musical symbols on the disc or player."
+  },
+  {
+    "id": "kyc-2423",
+    "anchor": "water",
+    "sentence": "They used heat to distil water in a glass apparatus.",
+    "relation": "To distil is to purify or separate a liquid by heating it and condensing its vapor.",
+    "setting": "A simple science workbench",
+    "actor": "One scientist distils water in a plain glass apparatus with vapor condensing into a clean vessel.",
+    "props": [
+      "one glass distillation apparatus",
+      "one water vessel",
+      "one small heat source"
+    ],
+    "beats": [
+      "Water is heated",
+      "Vapor rises and condenses",
+      "Cleaner water collects in the vessel"
+    ],
+    "ending": "A scientist distils water with a glass apparatus.",
+    "artDirection": "No labels, text, chemical symbols, or diagrams; safe small heat source."
+  },
+  {
+    "id": "kyc-2424",
+    "anchor": "sun",
+    "sentence": "The sun sank below the hills at dusk.",
+    "relation": "Dusk is the time of day just after sunset, when it becomes dark.",
+    "setting": "Rolling hills at sunset",
+    "actor": "No people: the sun sets behind distant hills as the sky dims into dusk.",
+    "props": [
+      "one setting sun",
+      "one line of hills",
+      "one darkening sky"
+    ],
+    "beats": [
+      "The sun lowers",
+      "It slips behind the hills",
+      "Dusk settles over the landscape"
+    ],
+    "ending": "The sun sets behind hills at dusk.",
+    "artDirection": "No clock faces, text, or symbols."
+  },
+  {
+    "id": "kyc-2425",
+    "anchor": "voice",
+    "sentence": "The teacher used her voice to emphasise the key point.",
+    "relation": "To emphasise is to give special importance or attention to something.",
+    "setting": "A quiet classroom",
+    "actor": "One teacher speaks with clear emphasis while one student listens.",
+    "props": [
+      "one teacher",
+      "one student",
+      "one plain desk"
+    ],
+    "beats": [
+      "The teacher begins explaining",
+      "Her voice grows especially clear",
+      "The key point is emphasised"
+    ],
+    "ending": "A teacher uses her voice to emphasise one point.",
+    "artDirection": "Exactly two people; no speech bubbles, writing, text, or symbols."
+  },
+  {
+    "id": "kyc-2426",
+    "anchor": "house",
+    "sentence": "The exterior of the house needed fresh paint.",
+    "relation": "Exterior means the outside surface or part of something.",
+    "setting": "Outside a small house",
+    "actor": "One painter prepares the outside wall of a house for fresh paint.",
+    "props": [
+      "one house exterior",
+      "one paintbrush",
+      "one plain paint pot"
+    ],
+    "beats": [
+      "The outside wall looks worn",
+      "The painter prepares the surface",
+      "The exterior is ready for fresh paint"
+    ],
+    "ending": "A house's exterior is prepared for repainting.",
+    "artDirection": "No house numbers, paint labels, signs, or logos."
+  },
+  {
+    "id": "kyc-2427",
+    "anchor": "wood",
+    "sentence": "The carpenter used wood to fabricate a chair.",
+    "relation": "To fabricate is to make or construct something, especially by assembling materials.",
+    "setting": "A carpentry workshop",
+    "actor": "One carpenter assembles plain wooden boards into a simple chair.",
+    "props": [
+      "one carpenter",
+      "plain wooden boards",
+      "one partly made chair"
+    ],
+    "beats": [
+      "The wood is prepared",
+      "The carpenter shapes and joins it",
+      "A chair is fabricated"
+    ],
+    "ending": "A carpenter fabricates a chair from wood.",
+    "artDirection": "No tool labels, writing, logos, or symbols."
+  },
+  {
+    "id": "kyc-2428",
+    "anchor": "friend",
+    "sentence": "One friend found fellowship with the others on the hike.",
+    "relation": "Fellowship is a friendly association or sense of companionship among people.",
+    "setting": "A mountain trail rest stop",
+    "actor": "Exactly two hikers share food and conversation during a rest on the trail.",
+    "props": [
+      "two friends",
+      "one trail rest spot",
+      "one plain lunch basket"
+    ],
+    "beats": [
+      "The hikers meet on the trail",
+      "They share a quiet rest",
+      "A sense of fellowship grows"
+    ],
+    "ending": "Friends share fellowship during a hike.",
+    "artDirection": "Exactly two people; no text, logos, or symbols on clothing or food containers."
+  },
+  {
+    "id": "kyc-2429",
+    "anchor": "soap",
+    "sentence": "Soap formed foam in the water.",
+    "relation": "Foam is a mass of small bubbles formed in liquid or on its surface.",
+    "setting": "A simple wash basin",
+    "actor": "No people: soap creates a layer of white foam on water in a basin.",
+    "props": [
+      "one bar of soap",
+      "one basin of water",
+      "one layer of foam"
+    ],
+    "beats": [
+      "Water fills the basin",
+      "Soap is added",
+      "Foam forms on the surface"
+    ],
+    "ending": "Soap makes foam on the water.",
+    "artDirection": "No labels, text, or symbols; show foam as many small bubbles."
+  },
+  {
+    "id": "kyc-2430",
+    "anchor": "floor",
+    "sentence": "A footstep echoed across the floor.",
+    "relation": "A footstep is the sound or action of a foot touching the ground while walking.",
+    "setting": "A long empty hallway",
+    "actor": "One person takes a single step across a bare floor.",
+    "props": [
+      "one person",
+      "one bare floor",
+      "one hallway wall"
+    ],
+    "beats": [
+      "The hallway is quiet",
+      "One foot lands on the floor",
+      "A footstep echoes through the hall"
+    ],
+    "ending": "One footstep echoes across an empty floor.",
+    "artDirection": "One person with normal anatomy; no sound-wave marks, text, or symbols."
+  },
+  {
+    "id": "kyc-2431",
+    "anchor": "work",
+    "sentence": "She chose freelance work as a designer.",
+    "relation": "Freelance work is done independently for different clients rather than as a permanent employee.",
+    "setting": "A home workroom",
+    "actor": "One independent designer works alone at a plain desk with a laptop and sketchpad.",
+    "props": [
+      "one designer",
+      "one plain laptop",
+      "one blank sketchpad"
+    ],
+    "beats": [
+      "The designer sets up her work",
+      "She chooses projects independently",
+      "She works freelance"
+    ],
+    "ending": "A designer does freelance work from home.",
+    "artDirection": "Laptop screen and sketchpad must be blank, with no UI, text, letters, or logos."
+  },
+  {
+    "id": "kyc-2432",
+    "anchor": "pond",
+    "sentence": "The goose waddled beside the pond.",
+    "relation": "A goose is a large water bird with a long neck and webbed feet.",
+    "setting": "A quiet pond edge",
+    "actor": "One goose waddles beside the pond.",
+    "props": [
+      "one goose",
+      "one pond",
+      "one grassy bank"
+    ],
+    "beats": [
+      "The goose approaches the water",
+      "It waddles along the bank",
+      "It stops beside the pond"
+    ],
+    "ending": "A goose waddles beside a pond.",
+    "artDirection": "One goose only with natural anatomy; no extra birds, text, or symbols."
+  },
+  {
+    "id": "kyc-2433",
+    "anchor": "wedding",
+    "sentence": "The gown was plain for the wedding.",
+    "relation": "A gown is a long dress, often worn on a formal or special occasion.",
+    "setting": "A quiet wedding room",
+    "actor": "One bride wears a simple long gown beside a plain chair.",
+    "props": [
+      "one bride",
+      "one plain gown",
+      "one chair"
+    ],
+    "beats": [
+      "The bride prepares for the ceremony",
+      "She puts on the gown",
+      "The long dress is ready for the wedding"
+    ],
+    "ending": "A bride wears a gown at a wedding.",
+    "artDirection": "No patterns, logos, text, or symbols on the gown."
+  },
+  {
+    "id": "kyc-2434",
+    "anchor": "ball",
+    "sentence": "The ball bounced across the gymnasium.",
+    "relation": "A gymnasium is a large indoor room used for sports and exercise.",
+    "setting": "An empty school gymnasium",
+    "actor": "No people: one plain ball bounces across a polished indoor sports floor.",
+    "props": [
+      "one plain ball",
+      "one gymnasium floor",
+      "one basketball hoop"
+    ],
+    "beats": [
+      "The ball is dropped",
+      "It bounces across the floor",
+      "It rolls toward the hoop"
+    ],
+    "ending": "A ball bounces across a gymnasium.",
+    "artDirection": "No scoreboard numbers, signs, logos, or extra balls."
+  },
+  {
+    "id": "kyc-2435",
+    "anchor": "horse",
+    "sentence": "The farmer stacked hay for the horse.",
+    "relation": "Hay is dried grass used as feed for farm animals.",
+    "setting": "A farm barn",
+    "actor": "One farmer stacks dry hay beside one horse in a clean barn.",
+    "props": [
+      "one farmer",
+      "one stack of hay",
+      "one horse"
+    ],
+    "beats": [
+      "The hay is gathered",
+      "The farmer stacks it",
+      "The horse has feed for later"
+    ],
+    "ending": "A farmer stacks hay for a horse.",
+    "artDirection": "One horse with natural anatomy; no extra animals, signs, or writing."
+  }
+]

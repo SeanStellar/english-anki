@@ -1,0 +1,628 @@
+[
+  {
+    "word": "refrain",
+    "anchor": "cookie",
+    "anchorMeaning": "饼干",
+    "sentence": "She chose to refrain from eating the last cookie.",
+    "relation": "Refrain from means deliberately avoid doing something; she resists the cookie.",
+    "scene": {
+      "setting": "A simple kitchen with a plain counter.",
+      "actor": "One woman pulls her hand back from the last cookie.",
+      "props": [
+        "one cookie on a plate",
+        "one empty glass",
+        "one plain kitchen counter"
+      ],
+      "beats": [
+        "She notices the last cookie.",
+        "She reaches toward it.",
+        "She chooses to refrain and pulls her hand back."
+      ],
+      "ending": "She refrains from eating the cookie."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "cherish",
+    "anchor": "teddy bear",
+    "anchorMeaning": "泰迪熊",
+    "sentence": "He learned to cherish the teddy bear his sister gave him.",
+    "relation": "Cherish means hold dear; he values the teddy bear as a treasured gift.",
+    "scene": {
+      "setting": "A calm child’s bedroom.",
+      "actor": "One child hugs a well-loved teddy bear given by his sister.",
+      "props": [
+        "one soft teddy bear",
+        "one small bed",
+        "one plain bedside table"
+      ],
+      "beats": [
+        "The sister gives him the bear.",
+        "He holds it close.",
+        "He cherishes the gift."
+      ],
+      "ending": "He cherishes the teddy bear."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "descend",
+    "anchor": "path",
+    "anchorMeaning": "小路",
+    "sentence": "The hikers began to descend the rocky path before sunset.",
+    "relation": "Descend means go down; the hikers walk downward along the path.",
+    "scene": {
+      "setting": "A rocky hillside trail at sunset.",
+      "actor": "Two hikers carefully walk down a steep path.",
+      "props": [
+        "one rocky path",
+        "two hiking backpacks",
+        "one low valley below"
+      ],
+      "beats": [
+        "The hikers reach the hilltop.",
+        "They turn onto the downward path.",
+        "They descend toward the valley."
+      ],
+      "ending": "The hikers descend the rocky path."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "entity",
+    "anchor": "office",
+    "anchorMeaning": "办公室",
+    "sentence": "The new company became a separate entity with its own office.",
+    "relation": "An entity is a distinct unit; the company has its own separate office.",
+    "scene": {
+      "setting": "A small business park with two separate buildings.",
+      "actor": "One owner stands beside the new company’s separate office building.",
+      "props": [
+        "one small office building",
+        "one separate neighboring office building",
+        "one plain key"
+      ],
+      "beats": [
+        "The owner opens the new office.",
+        "The separate building stands apart from its neighbor.",
+        "The company operates as its own unit."
+      ],
+      "ending": "The company is a separate entity with its own office."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "occasional",
+    "anchor": "raindrop",
+    "anchorMeaning": "雨滴",
+    "sentence": "An occasional raindrop fell as the sun shone through the clouds.",
+    "relation": "Occasional means happening now and then; only a few raindrops fall.",
+    "scene": {
+      "setting": "A sunny garden beneath scattered clouds.",
+      "actor": "No people; a few widely spaced raindrops fall while sunlight reaches the garden.",
+      "props": [
+        "one bright sunbreak",
+        "a few spaced raindrops",
+        "one small garden path"
+      ],
+      "beats": [
+        "Clouds pass over the sun.",
+        "A few drops fall.",
+        "Sunlight returns between the drops."
+      ],
+      "ending": "An occasional raindrop falls through the sunshine."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "fourteen",
+    "anchor": "calendar",
+    "anchorMeaning": "日历",
+    "sentence": "A blank calendar shows fourteen days as two rows of seven squares.",
+    "relation": "Fourteen days make two weeks, shown as two rows of seven calendar squares.",
+    "scene": {
+      "setting": "A clean desk with a blank, unnumbered calendar page.",
+      "actor": "No people; the page shows exactly two rows of seven empty day squares.",
+      "props": [
+        "one blank calendar page with exactly fourteen squares",
+        "one plain pencil",
+        "one simple wooden desk"
+      ],
+      "beats": [
+        "The empty calendar page is placed flat.",
+        "Two rows of seven squares are visible.",
+        "All fourteen days are shown without numbers."
+      ],
+      "ending": "The calendar shows fourteen blank days."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "Plain empty cream wall and a clean wooden desk only. Show one wide horizontal calendar page with exactly seven narrow empty squares across the top row and exactly seven across the bottom row. Count both rows carefully. No plants, cups, shelves, books, decorations, or other background objects. No marks, letters, numerals, labels, logos, symbols, or writing anywhere. One plain pencil only."
+  },
+  {
+    "word": "syndrome",
+    "anchor": "symptom",
+    "anchorMeaning": "症状",
+    "sentence": "The doctor noticed a fever, cough, and rash—a cluster of symptoms that suggested a syndrome.",
+    "relation": "A syndrome is a recognizable cluster of symptoms occurring together.",
+    "scene": {
+      "setting": "A quiet clinic examination room with a blank wall.",
+      "actor": "One doctor examines one patient with a mild rash while the patient holds a tissue and a blank thermometer.",
+      "props": [
+        "one unmarked thermometer",
+        "one plain tissue",
+        "one small patch of mild red spots on the patient’s arm"
+      ],
+      "beats": [
+        "The doctor checks the patient’s temperature.",
+        "The patient coughs into the tissue.",
+        "The doctor notices the rash and the cluster of symptoms."
+      ],
+      "ending": "The doctor recognizes a syndrome from several symptoms."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "No charts, labels, writing, symbols, or medical posters."
+  },
+  {
+    "word": "beam",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "sentence": "A beam of sunlight crossed the quiet room.",
+    "relation": "A beam is a narrow stream of light; sunlight enters through the window.",
+    "scene": {
+      "setting": "A quiet room in the early morning.",
+      "actor": "No people; a narrow beam of sunlight crosses the floor from a window.",
+      "props": [
+        "one bright window",
+        "one narrow beam of sunlight",
+        "one plain wooden floor"
+      ],
+      "beats": [
+        "The sun rises outside.",
+        "Light enters the window.",
+        "A bright beam stretches across the room."
+      ],
+      "ending": "A beam of sunlight crosses the quiet room."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "charter",
+    "anchor": "seal",
+    "anchorMeaning": "印章",
+    "sentence": "The mayor presented the town charter sealed with red wax.",
+    "relation": "A charter is an official document; the wax seal marks it as an official town charter.",
+    "scene": {
+      "setting": "A simple town hall with a blank wall.",
+      "actor": "One mayor presents an unmarked rolled parchment with a red wax seal.",
+      "props": [
+        "one blank rolled parchment",
+        "one red wax seal",
+        "one small wooden table"
+      ],
+      "beats": [
+        "The mayor unrolls the parchment.",
+        "The red seal catches the light.",
+        "The mayor presents the official charter."
+      ],
+      "ending": "The town charter is presented with its seal."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    },
+    "artDirection": "The parchment must be completely blank with no writing, letters, or numbers."
+  },
+  {
+    "word": "correlate",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "sentence": "The scientist noticed that warmer days can correlate with taller plants.",
+    "relation": "Correlate means vary together; warmer conditions are associated with taller plants.",
+    "scene": {
+      "setting": "A small greenhouse with a blank whiteboard and no labels.",
+      "actor": "One scientist points to two unlabeled rising curves beside a thermometer and tall plants.",
+      "props": [
+        "one blank board with two rising curves only",
+        "one unmarked thermometer",
+        "two potted plants of different heights"
+      ],
+      "beats": [
+        "The scientist observes a warm day.",
+        "The thermometer rises as the plants grow taller.",
+        "The two upward trends are compared."
+      ],
+      "ending": "The scientist sees warmer days correlate with taller plants."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    },
+    "artDirection": "No text, axes, numerals, letters, labels, or written chart marks."
+  },
+  {
+    "word": "float",
+    "anchor": "cork",
+    "anchorMeaning": "软木塞",
+    "sentence": "A cork can float across the pond beside a leaf.",
+    "relation": "Cork is light enough to float on water.",
+    "scene": {
+      "setting": "A still garden pond.",
+      "actor": "No people; one cork drifts on the water beside a floating leaf.",
+      "props": [
+        "one cork",
+        "one green leaf",
+        "one quiet pond"
+      ],
+      "beats": [
+        "The cork drops onto the water.",
+        "It stays on the surface.",
+        "It floats beside the leaf."
+      ],
+      "ending": "The cork floats across the pond."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "array",
+    "anchor": "seashell",
+    "anchorMeaning": "贝壳",
+    "sentence": "An array of seashells lined the beach.",
+    "relation": "An array is an orderly group or series; the shells are lined up together.",
+    "scene": {
+      "setting": "A sandy beach at low tide.",
+      "actor": "No people; an orderly row of varied seashells lines the shore.",
+      "props": [
+        "one neat row of seashells",
+        "one sandy beach",
+        "one small wave"
+      ],
+      "beats": [
+        "The shells wash onto the beach.",
+        "They settle in a row.",
+        "An array of shells lines the shore."
+      ],
+      "ending": "An array of seashells lines the beach."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "engagement",
+    "anchor": "ring",
+    "anchorMeaning": "戒指",
+    "sentence": "He gave her an engagement ring beside the garden gate.",
+    "relation": "An engagement ring marks a promise to marry.",
+    "scene": {
+      "setting": "A garden path beside a plain wooden gate.",
+      "actor": "One person offers a small ring to their smiling partner.",
+      "props": [
+        "one simple ring",
+        "one wooden garden gate",
+        "one patch of flowers"
+      ],
+      "beats": [
+        "The couple meets by the gate.",
+        "He offers the ring.",
+        "She accepts it with a smile."
+      ],
+      "ending": "He gives her an engagement ring."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "fertile",
+    "anchor": "soil",
+    "anchorMeaning": "土壤",
+    "sentence": "The farmer planted seeds in fertile soil beside the river.",
+    "relation": "Fertile soil is rich enough to help seeds grow.",
+    "scene": {
+      "setting": "A green field beside a river.",
+      "actor": "One farmer plants seeds in dark, rich soil.",
+      "props": [
+        "one patch of rich dark soil",
+        "one handful of seeds",
+        "one small water jug"
+      ],
+      "beats": [
+        "The farmer loosens the soil.",
+        "She plants the seeds.",
+        "Small green shoots begin to rise."
+      ],
+      "ending": "The seeds grow in fertile soil."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "alien",
+    "anchor": "spaceship",
+    "anchorMeaning": "宇宙飞船",
+    "sentence": "A friendly alien stepped out of a small spaceship and waved.",
+    "relation": "An alien is a being from another world; it arrives in a spaceship.",
+    "scene": {
+      "setting": "A quiet grassy clearing at dusk.",
+      "actor": "One friendly alien stands beside a small landed spaceship and waves.",
+      "props": [
+        "one small spaceship",
+        "one friendly alien",
+        "one grassy clearing"
+      ],
+      "beats": [
+        "The spaceship lands softly.",
+        "The door opens.",
+        "The alien steps out and waves."
+      ],
+      "ending": "A friendly alien waves beside its spaceship."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "devise",
+    "anchor": "box",
+    "anchorMeaning": "箱子",
+    "sentence": "The carpenter hopes to devise a simple ramp to move the heavy box.",
+    "relation": "To devise a ramp is to invent a practical solution for moving the box.",
+    "scene": {
+      "setting": "A clean workshop with a short step.",
+      "actor": "One carpenter tests a handmade wooden ramp for a heavy box.",
+      "props": [
+        "one heavy wooden box",
+        "one simple wooden ramp",
+        "one workbench"
+      ],
+      "beats": [
+        "The carpenter sees the box is hard to lift.",
+        "She builds a short ramp.",
+        "The box rolls up the ramp."
+      ],
+      "ending": "The carpenter devises a ramp to move the box."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  },
+  {
+    "word": "exaggerate",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "sentence": "The fisherman tends to exaggerate the size of his catch with wide hand gestures.",
+    "relation": "Exaggerate means make something seem larger than it is; his gestures overstate the catch.",
+    "scene": {
+      "setting": "A small fishing dock beside a lake.",
+      "actor": "One fisherman holds a small fish while spreading his hands far apart to show an exaggerated size.",
+      "props": [
+        "one small fish",
+        "one empty bucket",
+        "one wooden dock"
+      ],
+      "beats": [
+        "The fisherman shows his small catch.",
+        "He spreads his hands widely.",
+        "His gesture exaggerates the fish’s size."
+      ],
+      "ending": "The fisherman exaggerates the size of the fish."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    },
+    "artDirection": "Show only one small fish; no giant fish or written marks."
+  },
+  {
+    "word": "inherit",
+    "anchor": "sewing box",
+    "anchorMeaning": "针线盒",
+    "sentence": "She will inherit her grandmother’s old sewing box after the estate is settled.",
+    "relation": "To inherit is to receive property from a relative’s estate; the sewing box is passed down.",
+    "scene": {
+      "setting": "A quiet family room with a blank wall.",
+      "actor": "One granddaughter receives a closed old sewing box from an aunt beside a plain sealed envelope.",
+      "props": [
+        "one old sewing box",
+        "one blank sealed envelope",
+        "one simple chair"
+      ],
+      "beats": [
+        "The family opens the estate envelope.",
+        "The aunt passes the sewing box to her niece.",
+        "The niece receives the family keepsake."
+      ],
+      "ending": "She inherits her grandmother’s sewing box."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    },
+    "artDirection": "No writing, letters, numbers, or labels on the envelope or box."
+  },
+  {
+    "word": "intimate",
+    "anchor": "hug",
+    "anchorMeaning": "拥抱",
+    "sentence": "The intimate friends shared a quiet hug beneath the tree.",
+    "relation": "Intimate friends are very close; the gentle hug shows their closeness.",
+    "scene": {
+      "setting": "A peaceful park beneath a broad tree.",
+      "actor": "Two close friends share a warm, quiet hug.",
+      "props": [
+        "one broad tree",
+        "one plain park bench",
+        "one small flower patch"
+      ],
+      "beats": [
+        "The friends meet beneath the tree.",
+        "They step close together.",
+        "They share an intimate hug."
+      ],
+      "ending": "The intimate friends hug beneath the tree."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence manually checked for naturalness and readability; anchor relation is direct and visualizable."
+    }
+  },
+  {
+    "word": "opt",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "sentence": "He can opt for the red apple instead of the pear.",
+    "relation": "Opt for means choose; he selects the red apple over the pear.",
+    "scene": {
+      "setting": "A simple kitchen table with a blank wall.",
+      "actor": "One man chooses a red apple while leaving a pear on the table.",
+      "props": [
+        "one red apple",
+        "one pear",
+        "one plain fruit bowl"
+      ],
+      "beats": [
+        "He looks at both fruits.",
+        "He reaches for the red apple.",
+        "He opts for the apple instead of the pear."
+      ],
+      "ending": "He opts for the red apple."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Revised and manually checked for naturalness, readability, and exact target form before generation."
+    }
+  }
+]

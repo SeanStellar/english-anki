@@ -1,0 +1,642 @@
+[
+  {
+    "word": "majority",
+    "anchor": "half",
+    "anchorMeaning": "一半",
+    "relation": "A majority is more than half of a group; a half-empty fruit basket with red apples outnumbering green ones makes both ideas visible.",
+    "sentence": "After half the apples are sold, red apples still make up the majority in the basket.（一半苹果卖掉后，篮子里的红苹果仍占多数。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small fruit stall with a plain background.",
+      "actor": "One vendor checks a basket of remaining fruit; only one person.",
+      "props": [
+        "one visibly half-empty wicker basket",
+        "a group of red apples",
+        "a smaller group of green apples"
+      ],
+      "beats": [
+        "The vendor removes some apples from the basket.",
+        "The basket is left half empty.",
+        "The remaining red apples visibly outnumber the green apples."
+      ],
+      "ending": "A half-empty basket contains more red apples than green apples, making the red majority easy to see."
+    },
+    "artDirection": "Show a clearly half-empty basket and a visible majority of red apples among the remaining fruit. Keep the red group larger than the green group. No extra apples elsewhere, no labels, no text or numbers.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，half 与 majority 的数量关系真实；画面能用半空篮子和红苹果占多数共同表达。"
+    }
+  },
+  {
+    "word": "finding",
+    "anchor": "clue",
+    "anchorMeaning": "线索",
+    "relation": "A finding is a result discovered from evidence; a clue in a sample can lead to a finding.",
+    "sentence": "A clear clue in the sample leads the scientist to an important finding.（样本中的明显线索让科学家得出一项重要发现。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple, quiet science lab.",
+      "actor": "One scientist examines a sample and notices a tiny unusual crystal; only one person.",
+      "props": [
+        "one clear sample dish with a tiny unusual crystal",
+        "one magnifying glass",
+        "one completely blank notebook"
+      ],
+      "beats": [
+        "The scientist places the sample dish on the table.",
+        "She spots the unusual crystal as a clue.",
+        "She records the important finding in the blank notebook."
+      ],
+      "ending": "The scientist studies the unusual crystal in the sample beside a blank notebook."
+    },
+    "artDirection": "Keep the sample clue visibly distinct and the notebook completely blank, without writing, symbols, labels, or numbers.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，样本线索引出发现，词义和场景相符。"
+    }
+  },
+  {
+    "word": "conclusion",
+    "anchor": "talk",
+    "anchorMeaning": "演讲；谈话",
+    "relation": "A conclusion is the final summary that gathers the main points of a talk.",
+    "sentence": "Before ending her talk, she gathers the main points into a brief conclusion.（结束演讲前，她把主要观点归纳成简短的总结。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple, quiet speaking room with a plain wall.",
+      "actor": "One speaker stands at a small podium and presents three main ideas; only one person.",
+      "props": [
+        "one plain microphone",
+        "three simple picture cards with no writing",
+        "one small wooden podium"
+      ],
+      "beats": [
+        "The speaker presents the main ideas one by one.",
+        "She brings the three ideas together in a final summary.",
+        "She gives a brief conclusion before ending the talk."
+      ],
+      "ending": "The speaker stands at the podium, bringing three picture cards together as a visual summary."
+    },
+    "artDirection": "The three cards may show only simple pictures, no letters, words, numbers, charts, or symbols. No visible audience, signs, or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "按词表释义“总结”使用 conclusion；演讲是熟悉场景，结尾归纳主要观点表达总结义。"
+    }
+  },
+  {
+    "word": "expression",
+    "anchor": "smile",
+    "anchorMeaning": "微笑",
+    "relation": "A smile can be a familiar way to give an expression of thanks without words.",
+    "sentence": "She offers a smile as an expression of thanks after receiving a flower.（收到花后，她微笑以表达谢意。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm garden in soft afternoon light.",
+      "actor": "One woman receives a flower from one friend and smiles in thanks; exactly two people.",
+      "props": [
+        "one fresh flower",
+        "one small plain gift box",
+        "one loose ribbon"
+      ],
+      "beats": [
+        "The friend offers the flower.",
+        "The woman receives it and looks pleased.",
+        "She offers a smile as an expression of thanks."
+      ],
+      "ending": "The woman smiles warmly while holding the flower she has just received."
+    },
+    "artDirection": "Show the smile as a nonverbal expression of thanks; no greeting cards, written messages, labels, or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，expression 用作“表达”，微笑是表达谢意的具体方式，避免误用为未列出的“表情”义。"
+    }
+  },
+  {
+    "word": "owner",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "A dog can have an owner who cares for it and takes it for walks.",
+    "sentence": "The owner clips the dog’s leash before taking it for a walk.（主人先给狗系好牵引绳，再带它出门散步。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny front yard beside a garden gate.",
+      "actor": "One owner gently clips a leash onto one dog’s collar; only one person and one dog.",
+      "props": [
+        "one dog",
+        "one plain leash",
+        "one garden gate"
+      ],
+      "beats": [
+        "The owner stands beside the dog.",
+        "She clips the leash to its collar.",
+        "They get ready to walk through the gate."
+      ],
+      "ending": "The owner holds the leash attached to her dog beside the open garden gate."
+    },
+    "artDirection": "Show exactly one dog with four legs and one person with two arms and two hands. No tags or writing on the collar.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，狗与照料它的主人关系明确，动作可直接画出。"
+    }
+  },
+  {
+    "word": "interesting",
+    "anchor": "eye",
+    "anchorMeaning": "眼睛",
+    "relation": "Something interesting catches a person’s eye and draws attention.",
+    "sentence": "An interesting shell catches her eye as she searches the beach for smooth stones.（她在海滩寻找光滑石头时，一枚有趣的贝壳吸引了她的目光。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet sandy beach.",
+      "actor": "One girl notices an unusual spiral shell while walking; only one person.",
+      "props": [
+        "one unusually patterned shell",
+        "one small beach pail",
+        "one smooth pebble"
+      ],
+      "beats": [
+        "The girl searches the sand for smooth stones.",
+        "She notices the unusual shell.",
+        "Her eyes focus on it as she reaches toward it."
+      ],
+      "ending": "The girl bends toward a distinctive shell that has caught her eye."
+    },
+    "artDirection": "Make the shell visually distinctive without writing or symbols; show the girl’s gaze clearly directed toward it.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，catch her eye 是“吸引注意”的真实表达，贝壳引人注目。"
+    }
+  },
+  {
+    "word": "shortage",
+    "anchor": "empty",
+    "anchorMeaning": "空的",
+    "relation": "An empty container makes a shortage visible by showing that too little of something remains.",
+    "sentence": "An empty flour jar reveals a shortage of flour at the bakery.（空面粉罐显示这家面包店面粉不足。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small bakery worktable.",
+      "actor": "One baker checks the nearly empty flour jar beside a mixing bowl; only one person.",
+      "props": [
+        "one empty flour jar",
+        "one mixing bowl with only a little dough",
+        "one plain rolling pin"
+      ],
+      "beats": [
+        "The baker reaches for the flour jar.",
+        "She finds it empty while preparing dough.",
+        "She pauses because the bakery has a shortage of flour."
+      ],
+      "ending": "The baker looks into an empty flour jar beside the small amount of dough."
+    },
+    "artDirection": "The jar must clearly be empty, with no flour spilled nearby; avoid labels or writing on any object.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简短自然，空罐直观表现所需原料不足。"
+    }
+  },
+  {
+    "word": "corporate",
+    "anchor": "suit",
+    "anchorMeaning": "西装",
+    "relation": "A suit is familiar business clothing often worn in a corporate setting.",
+    "sentence": "Wearing a gray suit, the manager joins a meeting in the corporate boardroom.（经理穿着灰色西装，加入公司会议室里的会议。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple corporate boardroom with a long table.",
+      "actor": "One manager in a gray business suit joins one colleague at the table; exactly two people.",
+      "props": [
+        "one gray business suit",
+        "one long boardroom table",
+        "one closed plain briefcase"
+      ],
+      "beats": [
+        "The manager enters the boardroom wearing the suit.",
+        "He places the briefcase beside the table.",
+        "He joins the colleague for the meeting."
+      ],
+      "ending": "The suited manager sits at the boardroom table with one colleague."
+    },
+    "artDirection": "Keep the room simple and businesslike, with no signs, screens, documents, logos, writing, or extra people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，西装是企业会议的具体熟悉锚点，corporate 的商务语境清楚。"
+    }
+  },
+  {
+    "word": "powerful",
+    "anchor": "lion",
+    "anchorMeaning": "狮子",
+    "relation": "A lion’s visible strength makes it a familiar example of a powerful animal.",
+    "sentence": "The powerful lion pushes a fallen tree away from the narrow path.（强壮的狮子把倒下的树干推离狭窄的小路。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet grassy path at the edge of a forest.",
+      "actor": "One lion braces itself and pushes one fallen tree trunk aside; only one animal.",
+      "props": [
+        "one lion",
+        "one fallen tree trunk",
+        "one narrow path"
+      ],
+      "beats": [
+        "The lion approaches the fallen trunk.",
+        "It braces its front paws and pushes.",
+        "The trunk rolls aside and clears the path."
+      ],
+      "ending": "The lion stands beside the moved trunk, showing its great strength."
+    },
+    "artDirection": "The lion must have exactly four natural legs and one tail; no extra animals or people. Make the trunk visibly heavy and the pushing action clear.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，狮子推动树干直接表现强有力，锚点具体。"
+    }
+  },
+  {
+    "word": "efficiency",
+    "anchor": "clock",
+    "anchorMeaning": "时钟",
+    "relation": "Efficiency means completing work with little wasted time; a clock makes the saved time visible.",
+    "sentence": "The worker’s efficiency saves time as she sorts all the parcels before the clock strikes noon.（这位工人高效地分拣完所有包裹，赶在时钟敲响正午前节省了时间。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy parcel-sorting room.",
+      "actor": "One worker quickly sorts parcels beside a wall clock; only one person.",
+      "props": [
+        "one plain wall clock with no numerals",
+        "a small group of parcels",
+        "one empty delivery cart"
+      ],
+      "beats": [
+        "The worker places parcels on the table.",
+        "She sorts them quickly into the cart.",
+        "The sorted parcels are ready before the clock reaches noon."
+      ],
+      "ending": "The worker stands beside an orderly cart of sorted parcels and a simple clock."
+    },
+    "artDirection": "Use a clock face without numerals or letters. Show an orderly, completed task and only a modest number of parcels; no labels on parcels.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，时钟可视化节省时间，分拣完成表现效率。"
+    }
+  },
+  {
+    "word": "dangerous",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "relation": "Fire can cause harm when it spreads, making it a clear example of something dangerous.",
+    "sentence": "The fire becomes dangerous when sparks reach the dry wooden shed.（火星落到干燥的木棚上时，火就变得危险了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A dry yard beside a small wooden shed.",
+      "actor": "No person; a small fire sends sparks toward the shed.",
+      "props": [
+        "one small fire with a few sparks",
+        "one dry wooden shed",
+        "one plain water bucket"
+      ],
+      "beats": [
+        "The small fire flickers nearby.",
+        "A few sparks drift toward the shed.",
+        "The shed is at risk, making the fire dangerous."
+      ],
+      "ending": "Sparks from the fire approach the dry shed while a water bucket stands nearby."
+    },
+    "artDirection": "Show a small controlled fire and a few sparks near the shed, not an inferno. No people, text, labels, or signs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，火星逼近木棚带来伤害风险，危险义明确。"
+    }
+  },
+  {
+    "word": "connection",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "A bridge is a physical connection joining two separate sides.",
+    "sentence": "A sturdy bridge provides a connection between the two sides of the river.（一座结实的桥把河的两岸连接起来。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm river with two green banks.",
+      "actor": "No person; the bridge spans the water.",
+      "props": [
+        "one simple wooden bridge",
+        "one river",
+        "two clearly separated riverbanks"
+      ],
+      "beats": [
+        "The river separates the two banks.",
+        "The bridge stretches across the water.",
+        "The bridge joins the banks into one connected route."
+      ],
+      "ending": "A single bridge visibly links both sides of the river."
+    },
+    "artDirection": "Show one continuous bridge touching both banks; no extra bridges, signs, lettering, or people.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，桥作为连接两岸的实体，直接表现 connection。"
+    }
+  },
+  {
+    "word": "personality",
+    "anchor": "ball",
+    "anchorMeaning": "球",
+    "relation": "A dog’s playful personality is revealed by how it behaves while playing with a ball.",
+    "sentence": "The dog’s playful personality shows when it brings a ball back to its owner.（狗把球叼给主人时，活泼的性格就显露出来了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden path.",
+      "actor": "One playful dog returns one ball to its owner; exactly one dog and one person.",
+      "props": [
+        "one plain ball",
+        "one short leash",
+        "one small doghouse"
+      ],
+      "beats": [
+        "The owner tosses the ball a short distance.",
+        "The dog fetches it and runs back.",
+        "The dog proudly returns the ball, showing its playful personality."
+      ],
+      "ending": "The dog brings the ball back to its smiling owner beside the doghouse."
+    },
+    "artDirection": "Show exactly one dog with four legs and one tail, and one person with two arms and two hands. No text on the ball or collar.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，狗取回球的行为体现活泼性格，ball 是可见熟词锚点。"
+    }
+  },
+  {
+    "word": "chemical",
+    "anchor": "vinegar",
+    "anchorMeaning": "醋",
+    "relation": "Vinegar is a familiar substance that can take part in a chemical reaction.",
+    "sentence": "A chemical reaction starts when baking soda fizzes with vinegar in a clear cup.（小苏打与醋在透明杯中起反应并冒泡时，化学反应就开始了。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain kitchen table.",
+      "actor": "No person; a small mixture bubbles in a clear cup.",
+      "props": [
+        "one small pile of baking soda",
+        "one plain unlabeled vinegar bottle",
+        "one clear cup with visible fizz"
+      ],
+      "beats": [
+        "The baking soda is placed in the cup.",
+        "A little vinegar is poured in.",
+        "The mixture fizzes in a chemical reaction."
+      ],
+      "ending": "Bubbles rise in the clear cup beside the plain vinegar bottle and baking soda."
+    },
+    "artDirection": "Bottle and cup must have no labels, symbols, letters, or measurements. Keep the fizz gentle and visible.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，醋作为熟悉物质参与化学反应，关系真实可画。"
+    }
+  },
+  {
+    "word": "employment",
+    "anchor": "paycheck",
+    "anchorMeaning": "工资支票",
+    "relation": "Employment is paid work; a paycheck is a familiar result of being employed.",
+    "sentence": "She earns a steady paycheck through her employment at the bakery.（她在面包店受雇工作，每周领到稳定的工资。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small bakery work counter.",
+      "actor": "One baker finishes a shift and receives a plain pay envelope; only one person.",
+      "props": [
+        "one blank sealed pay envelope",
+        "one fresh loaf of bread",
+        "one wooden bakery counter"
+      ],
+      "beats": [
+        "The baker works at the counter.",
+        "She finishes preparing the bread.",
+        "She receives her pay envelope for her employment."
+      ],
+      "ending": "The baker stands at the counter with fresh bread and a blank pay envelope."
+    },
+    "artDirection": "The envelope must be plain and unmarked, with no check text, numbers, currency symbols, or logo. No storefront signs.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，employment 指受雇工作，paycheck 是其常见结果。"
+    }
+  },
+  {
+    "word": "seven",
+    "anchor": "week",
+    "anchorMeaning": "一周",
+    "relation": "A week contains exactly seven days; a blank weekly calendar row makes the number visible without numerals.",
+    "sentence": "A week has seven days, with one blank square for each day on the calendar.（一周有七天，日历上每天对应一个空白方格。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean desk viewed from above.",
+      "actor": "No person; a blank weekly calendar strip lies open.",
+      "props": [
+        "one calendar row with exactly seven blank equal squares",
+        "one plain pencil",
+        "one empty wooden desk"
+      ],
+      "beats": [
+        "The blank calendar is opened to one week.",
+        "Seven equal day squares are visible in one row.",
+        "The pencil rests beside the seven-square week."
+      ],
+      "ending": "One blank weekly calendar row shows exactly seven equal squares, with no numbers."
+    },
+    "artDirection": "Count exactly seven blank squares in one row, fully visible, with no other calendar squares visible. No letters, digits, marks, weekday names, or symbols.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然且准确；week 与 seven 的固定数量关系明确。"
+    }
+  },
+  {
+    "word": "artist",
+    "anchor": "paint",
+    "anchorMeaning": "颜料",
+    "relation": "An artist uses paint to create a picture or other artwork.",
+    "sentence": "The artist uses bright paint to finish a landscape on canvas.（这位艺术家用鲜艳的颜料完成一幅风景画。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet art studio with warm light.",
+      "actor": "One artist paints a landscape on a canvas; only one person.",
+      "props": [
+        "one palette with several paint colors",
+        "one plain paintbrush",
+        "one canvas showing a simple landscape"
+      ],
+      "beats": [
+        "The artist dips the brush into paint.",
+        "She adds color to the canvas.",
+        "She steps back from the finished landscape."
+      ],
+      "ending": "The artist stands beside the completed landscape canvas with the paint palette and brush."
+    },
+    "artDirection": "No writing, signatures, words, or symbols on the canvas; show only a simple landscape painting.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简洁自然，颜料是艺术家创作时熟悉且具体的锚点。"
+    }
+  },
+  {
+    "word": "largely",
+    "anchor": "wood",
+    "anchorMeaning": "木头",
+    "relation": "Largely means mostly or for the greatest part; a structure made mostly of wood visualizes the degree.",
+    "sentence": "The footbridge is largely made of wood, with only a few metal supports.（这座小桥主要由木头制成，只有少数金属支架。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A narrow footbridge over a quiet stream.",
+      "actor": "No person; the bridge is seen clearly from the side.",
+      "props": [
+        "one footbridge made mostly of wooden planks",
+        "a few simple metal supports",
+        "one stream below the bridge"
+      ],
+      "beats": [
+        "Wooden planks form most of the bridge.",
+        "A few metal supports hold it in place.",
+        "The completed bridge is largely wooden."
+      ],
+      "ending": "A wooden footbridge spans the stream, with only a few visible metal supports."
+    },
+    "artDirection": "Make the bridge visibly mostly wood, with a small minority of metal supports; no labels, text, or extra structures.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，“largely made of wood”准确表达主要由木头构成。"
+    }
+  },
+  {
+    "word": "analysis",
+    "anchor": "magnifying glass",
+    "anchorMeaning": "放大镜",
+    "relation": "A magnifying glass helps someone inspect small details closely, a concrete action used in analysis.",
+    "sentence": "She studies the shell through a magnifying glass, making a careful analysis of its cracks.（她透过放大镜仔细观察贝壳，对上面的裂纹进行分析。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study desk.",
+      "actor": "One woman examines a cracked shell through a magnifying glass; only one person.",
+      "props": [
+        "one magnifying glass",
+        "one cracked seashell",
+        "one completely blank sheet of paper"
+      ],
+      "beats": [
+        "She places the shell on the desk.",
+        "She inspects its cracks through the magnifying glass.",
+        "She records a careful analysis on the blank sheet."
+      ],
+      "ending": "The woman studies the shell’s visible cracks through the magnifying glass beside blank paper."
+    },
+    "artDirection": "Keep the paper entirely blank with no writing, lines, labels, or symbols. Make the shell cracks and magnifying glass clear.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子通顺，放大镜帮助观察细节，能自然联系到分析过程。"
+    }
+  },
+  {
+    "word": "strength",
+    "anchor": "weight",
+    "anchorMeaning": "重量；重物",
+    "relation": "Lifting a heavy weight tests and demonstrates physical strength.",
+    "sentence": "Her strength is tested as she lifts a heavy weight onto the rack.（她把沉重的杠铃举上支架时，力量经受了考验。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple indoor training room.",
+      "actor": "One woman carefully lifts one heavy barbell onto a low rack; only one person.",
+      "props": [
+        "one plain heavy barbell with unmarked plates",
+        "one low weight rack",
+        "one clear exercise mat"
+      ],
+      "beats": [
+        "The woman grips the heavy barbell.",
+        "She lifts it with visible effort.",
+        "She sets it safely onto the rack, showing her strength."
+      ],
+      "ending": "The woman completes the lift and rests the unmarked barbell on the rack."
+    },
+    "artDirection": "Show only one woman with exactly two arms and two hands; keep the barbell plates plain with no numbers, letters, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然，重物是力量的测试对象，语义关系真实。"
+    }
+  }
+]

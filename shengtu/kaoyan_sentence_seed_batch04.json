@@ -1,0 +1,628 @@
+[
+  {
+    "word": "speaker",
+    "anchor": "microphone",
+    "anchorMeaning": "麦克风",
+    "relation": "麦克风把说话者的声音送进扬声器；具体设备 microphone 帮助记住 speaker（扬声器）。",
+    "sentence": "She speaks into a microphone, and the speaker carries her voice across the hall（她对着麦克风讲话，扬声器把她的声音传遍大厅）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "完全空旷的小礼堂舞台，背景只有空座位和素色幕布，没有观众",
+      "actor": "画面中恰好一名女演讲者，独自站在小舞台上对着麦克风讲话；绝不出现其他人",
+      "props": [
+        "一支麦克风",
+        "一台独立扬声器",
+        "空旷的小舞台"
+      ],
+      "beats": [
+        "女演讲者独自走到麦克风前",
+        "她对着麦克风讲话",
+        "扬声器把她的声音传向空礼堂"
+      ],
+      "ending": "空礼堂的小舞台上只有一名女演讲者、一支麦克风和一台扬声器；没有观众或其他人物"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子简短自然；microphone 是熟悉的具体设备，和扬声器构成真实音响链路。 生图场景已按目检问题收紧。"
+    },
+    "artDirection": "只画一名人物；礼堂座位全部空着，不画观众、后台人员或镜中人物。"
+  },
+  {
+    "word": "intelligence",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图；谜题",
+    "relation": "解开拼图需要运用智力；puzzle 是展示 intelligence（智力）的具体任务，不是其词根或同义词。",
+    "sentence": "The child uses her intelligence to solve a puzzle（孩子运用自己的智力解开一道拼图）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的儿童活动室",
+      "actor": "正在思考谜题的孩子",
+      "props": [
+        "几何拼图板",
+        "木桌",
+        "小台灯"
+      ],
+      "beats": [
+        "孩子仔细观察拼图形状",
+        "她尝试旋转几块拼图",
+        "她把最后一块放到正确位置"
+      ],
+      "ending": "孩子专注思考后完成几何拼图，显出聪慧"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；拼图是展示智力的具体任务，目标词和锚点都对应场景。"
+    }
+  },
+  {
+    "word": "everyone",
+    "anchor": "one",
+    "anchorMeaning": "一个",
+    "relation": "everyone 由 every 与 one 构成，表示每一个人；one 是复合词中真实的组成部分。",
+    "sentence": "Everyone smiles when one puppy trots into the room（当一只小狗跑进房间时，大家都笑了）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖的家庭客厅",
+      "actor": "一起微笑的两位家人和一只小狗",
+      "props": [
+        "一只小狗",
+        "客厅门口",
+        "一个布球"
+      ],
+      "beats": [
+        "两位家人在客厅里交谈",
+        "一只小狗从门口跑进来",
+        "两位家人一起露出笑容"
+      ],
+      "ending": "两位家人都对跑进房间的一只小狗微笑"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；one 是 everyone 的真实构词组成部分，场景中一只小狗对应 one。"
+    }
+  },
+  {
+    "word": "responsibility",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "照料流浪猫体现承担责任；cat 是具体熟词，借照料行为连接抽象词 responsibility。",
+    "sentence": "The neighbor accepts responsibility for feeding the stray cat（邻居主动承担起喂养流浪猫的责任）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的住宅门廊",
+      "actor": "给流浪猫添食的邻居和一只猫",
+      "props": [
+        "猫食碗",
+        "门廊台阶",
+        "一袋猫粮"
+      ],
+      "beats": [
+        "邻居发现猫食碗空了",
+        "她从猫粮袋里添入食物",
+        "流浪猫开始进食，邻居守在一旁"
+      ],
+      "ending": "邻居按时给流浪猫添食，表现出责任心"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；猫是具体锚点，喂养行为清楚表现承担责任。"
+    }
+  },
+  {
+    "word": "driver",
+    "anchor": "bus",
+    "anchorMeaning": "公共汽车",
+    "relation": "驾驶员操控公共汽车；bus 是 driver 工作对象的具体锚点，不是同义词或词根。",
+    "sentence": "The driver guides the bus carefully through the rain（司机小心地驾驶公交车穿过雨幕）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "雨天的公交车驾驶室",
+      "actor": "专注驾驶的公交车司机",
+      "props": [
+        "方向盘",
+        "挡风玻璃",
+        "湿漉漉的道路"
+      ],
+      "beats": [
+        "司机握住方向盘启动公交车",
+        "雨水落在挡风玻璃上",
+        "公交车沿湿路平稳前行"
+      ],
+      "ending": "司机握着方向盘，小心驾驶公交车驶过雨路"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；bus 与 driver 的角色关系明确，均能在画面中呈现。"
+    }
+  },
+  {
+    "word": "manager",
+    "anchor": "counter",
+    "anchorMeaning": "柜台",
+    "relation": "经理在柜台后经营店铺并接待顾客；counter 是管理工作的具体场景锚点。",
+    "sentence": "The manager stands behind the counter and welcomes each customer（经理站在柜台后迎接每位顾客）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "墙面空白、没有标签的小商店柜台",
+      "actor": "招呼一位顾客的店铺经理",
+      "props": [
+        "木柜台",
+        "一只货箱",
+        "空白货架"
+      ],
+      "beats": [
+        "经理整理柜台旁的货箱",
+        "一位顾客走近柜台",
+        "经理微笑着迎接顾客"
+      ],
+      "ending": "经理在简洁的小商店里接待顾客并管理货品"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；柜台是具体熟物，能把经理的工作场景表现出来。"
+    }
+  },
+  {
+    "word": "management",
+    "anchor": "team",
+    "anchorMeaning": "团队",
+    "relation": "团队通过管理分工完成工作；team 是 management（管理过程）作用对象的具体锚点。",
+    "sentence": "The team finishes its work on time thanks to careful management（在细致管理下，团队按时完成了工作）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "墙面完全空白的简洁打包间，不出现图表、箭头、白板、海报或标识",
+      "actor": "恰好一位经理和一位工人；经理安排工作，工人按安排装箱，不能出现其他人",
+      "props": [
+        "木制打包桌",
+        "几个无字纸箱",
+        "一堆无标签待装物品"
+      ],
+      "beats": [
+        "经理把待装物品分到桌面",
+        "经理指示工人将物品放入纸箱",
+        "工人完成装箱，纸箱整齐摆放"
+      ],
+      "ending": "经理在空白墙前安排装箱，工人依照分工把物品整齐装好；画面只出现这两人"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；团队作为具体锚点，按时完成工作表现管理效果。 生图场景已按目检问题收紧。"
+    },
+    "artDirection": "背景墙必须素净空白；不得出现图表、箭头、流程图、文字或额外人物。"
+  },
+  {
+    "word": "argument",
+    "anchor": "fence",
+    "anchorMeaning": "篱笆；围栏",
+    "relation": "邻居因篱笆问题发生争论；fence 是争论对象的具体锚点，不是 argument 的词根。",
+    "sentence": "The neighbors have an argument about how to repair the fence（邻居们就如何修理篱笆发生了争论）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "两户人家之间的前院，木篱笆有一根倾斜松动的立柱",
+      "actor": "恰好两位邻居站在篱笆两侧，表情明显不赞同，正在讨论如何维修；没有其他人",
+      "props": [
+        "一根倾斜松动的木篱笆立柱",
+        "两块备用木板",
+        "一把园艺铲"
+      ],
+      "beats": [
+        "邻居发现篱笆立柱松动",
+        "两人各自指向不同的维修办法并发生争论",
+        "他们停下来面对面讨论篱笆问题"
+      ],
+      "ending": "两位邻居在松动篱笆旁有明显分歧：一人指着倾斜立柱，另一人摊手反对；还没有开始修理"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；篱笆是争论对象，两位邻居分歧明确，目标词和锚点都能在场景中体现。"
+    },
+    "artDirection": "用两人的表情和手势清楚表现争论；不画友好握手、共同修理或额外人物。"
+  },
+  {
+    "word": "effective",
+    "anchor": "cough",
+    "anchorMeaning": "咳嗽",
+    "relation": "咳嗽减轻说明药物产生了预期效果；cough 是检验 remedy 是否 effective 的具体症状。",
+    "sentence": "Her cough eases after the remedy, showing that it is effective（服用药物后，她的咳嗽减轻了，说明药物有效）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温暖安静的家庭客厅",
+      "actor": "一位母亲和一个刚服过药、咳嗽减轻的孩子；只有这两人",
+      "props": [
+        "无标签药瓶",
+        "一杯清水",
+        "用过的纸巾"
+      ],
+      "beats": [
+        "孩子先前咳嗽并使用纸巾",
+        "母亲递给孩子药和清水",
+        "孩子咳嗽减轻后放下纸巾，神情轻松地微笑"
+      ],
+      "ending": "孩子服药后神情轻松，桌上有清水和用过的纸巾，母亲手持无标签药瓶；表现咳嗽已缓解"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；症状缓解直接显示有效这一结果，词义和场景一致。 生图场景已按目检问题收紧。"
+    },
+    "artDirection": "清楚显示用过的纸巾作为咳嗽线索；孩子此刻平静微笑，不要同时画咳嗽和喝水的多重动作。"
+  },
+  {
+    "word": "response",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "狗叫后女子作出回应；dog 是引出 response（回应）的具体对象。",
+    "sentence": "When the dog barks, her gentle response calms it（狗叫时，她温和地回应，狗也平静下来）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "阳光明媚的后院",
+      "actor": "微笑回应小狗的女孩和一只小狗",
+      "props": [
+        "木围栏",
+        "一个布球",
+        "草地"
+      ],
+      "beats": [
+        "小狗朝女孩轻轻叫了一声",
+        "女孩微笑着向小狗挥手",
+        "小狗摇着尾巴安静下来"
+      ],
+      "ending": "女孩用微笑回应小狗的叫声，小狗高兴地摇尾巴"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；狗叫引出回应，回应使狗平静，因果明确。"
+    }
+  },
+  {
+    "word": "reader",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "读者阅读书籍；book 是 reader（读者）最直接、熟悉的具体场景锚点。",
+    "sentence": "A reader sits by the window with a book until sunset（一位读者坐在窗边看书，直到日落）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "夕阳映照的窗边阅读角",
+      "actor": "坐在椅上读书的年轻人",
+      "props": [
+        "无字书本",
+        "木椅",
+        "窗户"
+      ],
+      "beats": [
+        "读者在窗边打开书本",
+        "他安静地持续阅读",
+        "夕阳落下时他合上书本"
+      ],
+      "ending": "读者坐在窗边专心阅读无字书本，窗外夕阳渐落"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；书与读者的关系直接，画面清楚。"
+    }
+  },
+  {
+    "word": "increasingly",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "河水上涨时水流变得越来越急；river 是呈现程度不断增加的具体场景锚点。",
+    "sentence": "As the river rises, the current grows increasingly strong（河水上涨时，水流也变得越来越急）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "雨后水位上涨的河谷",
+      "actor": "无人物，突出河水流速变化",
+      "props": [
+        "上涨的河水",
+        "河中岩石",
+        "岸边树枝"
+      ],
+      "beats": [
+        "河水缓慢流过岩石",
+        "水位上升，水流开始加快",
+        "更急的水流冲过河道弯处"
+      ],
+      "ending": "河水水位升高，水流明显变急，呈现逐渐增强的程度"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；水流强度逐渐增加，准确表达 increasingly。"
+    }
+  },
+  {
+    "word": "nearly",
+    "anchor": "line",
+    "anchorMeaning": "线；终点线",
+    "relation": "跑者快要越过终点线，表示事情几乎完成；line 是可见的临界点锚点。",
+    "sentence": "The runner is nearly across the finish line（跑者几乎就要冲过终点线）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的公园跑道终点",
+      "actor": "即将冲过终点的跑者",
+      "props": [
+        "白色终点线",
+        "运动鞋",
+        "跑道"
+      ],
+      "beats": [
+        "跑者沿跑道接近终点",
+        "她加快脚步继续前进",
+        "她只差几步就能冲线"
+      ],
+      "ending": "跑者就在终点线前几步，几乎完成整场比赛"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；跑者接近终点线直接表现 nearly（几乎）。"
+    }
+  },
+  {
+    "word": "failure",
+    "anchor": "basket",
+    "anchorMeaning": "篮筐",
+    "relation": "投篮未进篮筐就是一次未成功的结果；basket 是 failure（失败）的具体情境锚点。",
+    "sentence": "He misses the basket, and the failure makes him practice harder（他投篮没进，这次失败促使他更加努力地练习）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的户外篮球场",
+      "actor": "恰好一名男孩刚投篮未中，站在篮筐旁露出失望神情；没有其他球员",
+      "props": [
+        "唯一一个篮球",
+        "一个篮筐",
+        "空旷的篮球场地面"
+      ],
+      "beats": [
+        "男孩瞄准篮筐投出篮球",
+        "篮球擦过篮筐没有进入",
+        "篮球落向篮筐外侧，男孩准备捡回继续练习"
+      ],
+      "ending": "唯一的篮球正从篮筐外侧弹落，男孩站在旁边略显失望；明确表现投篮失败"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；投篮未中具体表现失败，后续练习形成清楚因果。 生图场景已按目检问题收紧。"
+    },
+    "artDirection": "画面里只出现一个篮球；篮球必须明显在篮筐外，没有人手持篮球，也没有重复人物或连续动作分身。"
+  },
+  {
+    "word": "composition",
+    "anchor": "vase",
+    "anchorMeaning": "花瓶",
+    "relation": "艺术家把花瓶和水果摆放成平衡构图；vase 是 composition（构图）的具体物件锚点。",
+    "sentence": "The artist arranges a vase and a pear into a balanced composition（艺术家把花瓶和梨摆成平衡的构图）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "柔和日光下的画室",
+      "actor": "正在布置静物的画家",
+      "props": [
+        "空白画布",
+        "花瓶",
+        "一碗水果"
+      ],
+      "beats": [
+        "画家把花瓶和水果摆在桌上",
+        "她调整它们之间的距离和位置",
+        "她满意地查看画面的整体构图"
+      ],
+      "ending": "画家在空白画布前检查花瓶与水果组成的平衡构图"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；花瓶是构图中的可见主体，呈现 composition 的艺术义项。"
+    }
+  },
+  {
+    "word": "successful",
+    "anchor": "summit",
+    "anchorMeaning": "山顶",
+    "relation": "登上山顶是攀登取得成功的可见结果；summit 是 successful（成功的）的具体场景锚点。",
+    "sentence": "Reaching the summit makes her climb successful（登上山顶让她的攀登圆满成功）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "晴朗的高山山顶",
+      "actor": "恰好一名女性登山者已经独自站在山顶；她是画面唯一人物，不出现其他登山者",
+      "props": [
+        "岩石山顶",
+        "一个登山背包",
+        "一条收好的攀登绳"
+      ],
+      "beats": [
+        "女子握住最后一块岩石登上山顶",
+        "她独自站稳在顶峰",
+        "她举起双臂庆祝成功登顶"
+      ],
+      "ending": "一名女子独自站在岩石山顶举臂庆祝，背包在身旁；全图只有这一位登山者"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；登顶直接呈现攀登成功的结果。 生图场景已按目检问题收紧。"
+    },
+    "artDirection": "只出现一个登山者、一个时刻；不得重复同一人物、增加攀登者或分裂成爬山与庆祝两个人。"
+  },
+  {
+    "word": "healthy",
+    "anchor": "fruit",
+    "anchorMeaning": "水果",
+    "relation": "水果是健康早餐中的具体食物；fruit 帮助呈现 healthy（有益健康的）。",
+    "sentence": "A healthy breakfast of fruit and whole-grain toast helps her feel energized（包含水果和全麦吐司的健康早餐让她精神饱满）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "清晨明亮的家庭餐桌",
+      "actor": "正在吃早餐的年轻女子",
+      "props": [
+        "水果碗",
+        "全麦吐司",
+        "木餐桌"
+      ],
+      "beats": [
+        "女子把水果和吐司摆上桌",
+        "她坐下享用早餐",
+        "她吃完后精神饱满地准备出门"
+      ],
+      "ending": "女子吃完健康早餐，神情清爽有活力"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；水果和全麦早餐对应有益健康这一含义。"
+    }
+  },
+  {
+    "word": "difficulty",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图；谜题",
+    "relation": "拼图难以拼合时会遇到困难；puzzle 是 difficulty（困难）的具体任务锚点。",
+    "sentence": "She has difficulty fitting the puzzle pieces together, but keeps trying（她拼拼图时遇到困难，但仍继续尝试）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静的儿童活动室",
+      "actor": "努力拼图的女孩",
+      "props": [
+        "复杂拼图板",
+        "散落的拼图块",
+        "矮桌"
+      ],
+      "beats": [
+        "女孩尝试把拼图块拼在一起",
+        "几块形状相近的拼图无法吻合",
+        "她继续寻找合适的位置"
+      ],
+      "ending": "女孩面对难拼的拼图仍认真尝试，困难显而易见"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；拼图任务具体表现 difficulty，转折也清楚。"
+    }
+  },
+  {
+    "word": "toward",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "toward 表示朝某处移动；door 是动作所朝向的具体目的地。",
+    "sentence": "She walks toward the door to greet her friend（她朝门口走去，准备迎接朋友）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "温馨的家门入口",
+      "actor": "走向门口的女子和门外的朋友",
+      "props": [
+        "敞开的木门",
+        "门垫",
+        "一只手提包"
+      ],
+      "beats": [
+        "朋友站在门外等待",
+        "女子从屋内朝门口走去",
+        "她来到门边迎接朋友"
+      ],
+      "ending": "女子正朝着敞开的门走去，门外朋友微笑等候"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；朝门移动清楚表现 toward 的方向义。"
+    }
+  },
+  {
+    "word": "solution",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图；谜题",
+    "relation": "拼图需要找到办法才能完成；puzzle 是 solution（解决方案）所对应的具体问题。",
+    "sentence": "After trying several pieces, she finds a solution to the puzzle（试过几块拼图后，她找到了解题办法）。",
+    "mode": "scene",
+    "scene": {
+      "setting": "安静整洁的拼图桌旁",
+      "actor": "刚刚完成拼图的女孩",
+      "props": [
+        "拼图底板",
+        "最后一块拼图",
+        "木桌"
+      ],
+      "beats": [
+        "女孩尝试几块拼图的位置",
+        "她找到最后一块的正确方向",
+        "她把拼图块放好完成整幅图"
+      ],
+      "ending": "女孩找到最后一块的正确位置，拼图完整呈现"
+    },
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "句子自然易读；拼图是需要解决的问题，和 solution 的关系明确。"
+    }
+  }
+]

@@ -12,3 +12,13 @@ test-data/
 .final-*.png
 .launch-*.log
 ea-dist/
+.requirements/
+outputs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+shengtu/.xlsx_deps/
+shengtu/.qa_*/
+shengtu/_ocr.txt
+shengtu/_ocr.txt.uri
+shengtu/_preview_page.png

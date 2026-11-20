@@ -1,0 +1,1882 @@
+[
+  {
+    "id": "kyc-1821",
+    "serial": 4370,
+    "frequency": 8,
+    "word": "repay",
+    "targetSense": "偿还",
+    "alt": "",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "她按约把借来的钱还给朋友，表现 repay。",
+    "sentence": "She promised to repay her friend next week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One woman returns a small loan to one friend.",
+      "props": [
+        "one borrower",
+        "one friend",
+        "one coin purse"
+      ],
+      "beats": [
+        "The friend lends a little money",
+        "The borrower remembers the promise",
+        "She prepares to repay the loan"
+      ],
+      "ending": "She promises to repay her friend."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Two friends calmly exchanging a small coin purse. No labels, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1822",
+    "serial": 4371,
+    "frequency": 8,
+    "word": "sack",
+    "targetSense": "解雇",
+    "alt": "",
+    "anchor": "worker",
+    "anchorMeaning": "工人",
+    "relation": "经理因员工反复迟到而解雇他，表现 sack。",
+    "sentence": "The manager had to sack the worker after repeated lateness.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workplace office",
+      "actor": "One manager gently hands one worker a plain personal box.",
+      "props": [
+        "one manager",
+        "one worker",
+        "one blank box"
+      ],
+      "beats": [
+        "The manager talks with the worker",
+        "The worker gathers personal items",
+        "The manager sacks the worker"
+      ],
+      "ending": "One manager sacks one worker."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two people in a simple office, manager hands worker a plain blank box. No papers with writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1823",
+    "serial": 4372,
+    "frequency": 8,
+    "word": "skeleton",
+    "targetSense": "骨架",
+    "alt": "",
+    "anchor": "classroom",
+    "anchorMeaning": "教室",
+    "relation": "科学教室里的骨架模型立在讲台旁，表现 skeleton。",
+    "sentence": "A skeleton stood in the science classroom.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet science classroom",
+      "actor": "One human skeleton model stands beside a classroom desk.",
+      "props": [
+        "one skeleton model",
+        "one classroom desk",
+        "one classroom"
+      ],
+      "beats": [
+        "The skeleton model stands near the desk",
+        "The classroom stays quiet",
+        "The skeleton remains upright"
+      ],
+      "ending": "One skeleton stands in the classroom."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A harmless classroom skeleton model beside a desk. No extra people, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1824",
+    "serial": 4373,
+    "frequency": 8,
+    "word": "spectacular",
+    "targetSense": "壮观",
+    "alt": "",
+    "anchor": "waterfall",
+    "anchorMeaning": "瀑布",
+    "relation": "壮观的瀑布让徒步者惊叹不已，表现 spectacular。",
+    "sentence": "The spectacular waterfall amazed the hikers.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A mountain lookout above a river",
+      "actor": "Two hikers admire one spectacular waterfall from a safe viewpoint.",
+      "props": [
+        "two hikers",
+        "one waterfall",
+        "one mountain lookout"
+      ],
+      "beats": [
+        "The hikers reach the viewpoint",
+        "They see the tall waterfall",
+        "They react with amazement"
+      ],
+      "ending": "Two hikers admire a spectacular waterfall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two hikers viewing one dramatic waterfall from a safe distance. No signs or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1825",
+    "serial": 4375,
+    "frequency": 8,
+    "word": "stereo",
+    "targetSense": "立体声",
+    "alt": "",
+    "anchor": "living room",
+    "anchorMeaning": "客厅",
+    "relation": "立体声音响播放音乐，两位朋友在客厅跳舞。",
+    "sentence": "The stereo played music as two friends danced in the living room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy living room with one stereo and completely blank walls",
+      "actor": "A plain stereo plays while exactly two friends dance happily nearby; music is shown only through their movement.",
+      "props": [
+        "one stereo",
+        "two friends",
+        "one living room"
+      ],
+      "beats": [
+        "The stereo starts playing",
+        "The two friends hear the music",
+        "They dance together in the living room"
+      ],
+      "ending": "Two friends dance as the stereo plays."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One simple stereo and exactly two friends dancing in a cozy living room with blank walls. Do not draw music or sound as any visible mark. Absolutely no notes, notation, floating shapes, signs, pictures, logos, or text. Show music only through the friends’ movement.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1826",
+    "serial": 4376,
+    "frequency": 8,
+    "word": "strand",
+    "targetSense": "缕",
+    "alt": "",
+    "anchor": "hair",
+    "anchorMeaning": "头发",
+    "relation": "一缕头发落在她脸颊旁，表现 strand。",
+    "sentence": "A strand of hair fell across her cheek.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room with a mirror",
+      "actor": "One woman notices a loose strand of hair across her cheek.",
+      "props": [
+        "one woman",
+        "one loose hair strand",
+        "one mirror"
+      ],
+      "beats": [
+        "She looks in the mirror",
+        "A strand falls across her cheek",
+        "She brushes it aside"
+      ],
+      "ending": "One strand of hair falls across her cheek."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One woman with a single loose strand across her cheek, seen near a plain mirror. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1827",
+    "serial": 4377,
+    "frequency": 8,
+    "word": "tangle",
+    "targetSense": "纠纷、纠缠",
+    "alt": "",
+    "anchor": "hook",
+    "anchorMeaning": "鱼钩",
+    "relation": "钓鱼线缠在鱼钩周围，形成 tangle。",
+    "sentence": "The fishing line became a tangle around the hook.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm lakeside",
+      "actor": "A fishing line is tangled tightly around one plain hook.",
+      "props": [
+        "one fishing line",
+        "one hook",
+        "one fishing rod"
+      ],
+      "beats": [
+        "The line loosens from the rod",
+        "It twists around the hook",
+        "A tangle forms"
+      ],
+      "ending": "Fishing line tangles around one hook."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Close view of a single fishing line tangled around a plain hook. No fish, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1828",
+    "serial": 4379,
+    "frequency": 8,
+    "word": "transcend",
+    "targetSense": "超越",
+    "alt": "",
+    "anchor": "music",
+    "anchorMeaning": "音乐",
+    "relation": "音乐能超越语言，让陌生人彼此产生共鸣。",
+    "sentence": "Music can transcend language and connect strangers.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small music room with blank walls and no wall decorations",
+      "actor": "One guitar player performs while one listener responds warmly; music brings the two strangers together.",
+      "props": [
+        "one guitar player",
+        "one guitar",
+        "one listener"
+      ],
+      "beats": [
+        "The player begins a gentle tune",
+        "The listener stops to hear it",
+        "Music connects the two strangers"
+      ],
+      "ending": "Music transcends language and connects strangers."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly one guitarist and one listener sharing a warm musical moment in a plain room with blank walls. No music notes, notation, picture frames, symbols, speech bubbles, writing, or text. Show connection through expression and posture.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1829",
+    "serial": 4380,
+    "frequency": 8,
+    "word": "utilise",
+    "targetSense": "利用",
+    "alt": "utilize",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "relation": "温室利用阳光给植物保暖，表现 utilise。",
+    "sentence": "The greenhouse can utilise sunlight to warm its plants.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small greenhouse in daylight",
+      "actor": "Sunlight warms plants inside one clear greenhouse.",
+      "props": [
+        "one greenhouse",
+        "sunlight",
+        "green plants"
+      ],
+      "beats": [
+        "Sunlight enters the greenhouse",
+        "The plants receive its warmth",
+        "The greenhouse utilises the sunlight"
+      ],
+      "ending": "A greenhouse utilises sunlight to warm plants."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One simple greenhouse filled with plants in warm sunlight. No labels, symbols, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1830",
+    "serial": 4381,
+    "frequency": 8,
+    "word": "vegetarian",
+    "targetSense": "素食者",
+    "alt": "",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "素食者午餐时选择蔬菜汤，表现 vegetarian。",
+    "sentence": "The vegetarian chose a vegetable soup for lunch.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy café table",
+      "actor": "One vegetarian chooses a bowl of vegetable soup.",
+      "props": [
+        "one diner",
+        "one bowl of vegetable soup",
+        "one café table"
+      ],
+      "beats": [
+        "The diner looks at lunch",
+        "She chooses vegetable soup",
+        "She enjoys the meat-free meal"
+      ],
+      "ending": "One vegetarian chooses vegetable soup."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One diner choosing a colorful vegetable soup for lunch. No meat, menu writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1831",
+    "serial": 4383,
+    "frequency": 7,
+    "word": "furnace",
+    "targetSense": "炉子",
+    "alt": "",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "寒冷夜晚，炉子把温暖送进屋里，表现 furnace。",
+    "sentence": "The furnace warmed the house on a cold night.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy home interior on a winter night",
+      "actor": "One household furnace warms the home while snow falls outside.",
+      "props": [
+        "one furnace",
+        "one home interior",
+        "snowy night outside"
+      ],
+      "beats": [
+        "Cold settles outside",
+        "The furnace turns on",
+        "Warmth spreads through the house"
+      ],
+      "ending": "The furnace warms the house on a cold night."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A simple indoor furnace warming a cozy home while snow falls outside. No flames, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1832",
+    "serial": 4384,
+    "frequency": 7,
+    "word": "textile",
+    "targetSense": "纺织品",
+    "alt": "",
+    "anchor": "loom",
+    "anchorMeaning": "织布机",
+    "relation": "博物馆展示一件由旧织布机织成的彩色纺织品。",
+    "sentence": "The museum displayed a colorful textile woven on an old loom.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small textile museum",
+      "actor": "One colorful woven textile is displayed beside an old loom.",
+      "props": [
+        "one textile",
+        "one old loom",
+        "one museum display stand"
+      ],
+      "beats": [
+        "The loom rests nearby",
+        "The woven textile is placed on display",
+        "Its colorful weave is easy to see"
+      ],
+      "ending": "A colorful textile is displayed beside an old loom."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One patterned woven textile displayed near an old loom. No labels, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1833",
+    "serial": 4386,
+    "frequency": 7,
+    "word": "condense",
+    "targetSense": "凝结、浓缩",
+    "alt": "",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "冷玻璃从空气中凝结出细小水珠。",
+    "sentence": "Cold glass can condense water from the air.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cool kitchen counter",
+      "actor": "Tiny water droplets condense on the outside of one cold glass.",
+      "props": [
+        "one cold glass",
+        "water droplets",
+        "one counter"
+      ],
+      "beats": [
+        "The glass cools",
+        "Moisture gathers from the air",
+        "Droplets form on the glass"
+      ],
+      "ending": "Water condenses on one cold glass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Close view of droplets forming on the outside of one chilled glass. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1834",
+    "serial": 4387,
+    "frequency": 7,
+    "word": "denote",
+    "targetSense": "表示",
+    "alt": "",
+    "anchor": "clouds",
+    "anchorMeaning": "云",
+    "relation": "乌云预示着雨水将至，表现 denote。",
+    "sentence": "Dark clouds denote that rain is near.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A hillside beneath a cloudy sky",
+      "actor": "Dark clouds gather above a quiet hillside as rain approaches.",
+      "props": [
+        "dark clouds",
+        "one hillside",
+        "nearby rain"
+      ],
+      "beats": [
+        "The sky begins to darken",
+        "Clouds gather overhead",
+        "Rain approaches the hillside"
+      ],
+      "ending": "Dark clouds denote that rain is near."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Dark rain clouds gathering above a quiet hillside. No symbols, lightning bolts, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1835",
+    "serial": 4388,
+    "frequency": 7,
+    "word": "differentiate",
+    "targetSense": "区分",
+    "alt": "",
+    "anchor": "twins",
+    "anchorMeaning": "双胞胎",
+    "relation": "双胞胎穿不同颜色衣服，方便人们区分他们。",
+    "sentence": "The twins wore different colors to help people differentiate them.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple home doorway",
+      "actor": "Exactly two twins stand together wearing clearly different colors.",
+      "props": [
+        "two twins",
+        "different colored outfits",
+        "one doorway"
+      ],
+      "beats": [
+        "The twins stand side by side",
+        "Their outfits differ in color",
+        "The difference helps people identify each twin"
+      ],
+      "ending": "Different colors help differentiate the twins."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two look-alike twins in distinct solid-color outfits. No extra people, patterns with letters, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1836",
+    "serial": 4389,
+    "frequency": 7,
+    "word": "grin",
+    "targetSense": "咧嘴笑",
+    "alt": "",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "他赢得比赛后，脸上露出藏不住的咧嘴笑。",
+    "sentence": "He could not hide his grin after winning the race.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy finish line",
+      "actor": "One boy grins broadly after winning a race.",
+      "props": [
+        "one boy",
+        "one finish line",
+        "one plain medal"
+      ],
+      "beats": [
+        "The boy reaches the finish",
+        "He realizes he has won",
+        "His grin spreads"
+      ],
+      "ending": "One boy grins after winning the race."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One happy boy with a broad grin at a simple race finish. No numbers, banners, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1837",
+    "serial": 4390,
+    "frequency": 7,
+    "word": "harbor",
+    "targetSense": "港口",
+    "alt": "harbour",
+    "anchor": "boats",
+    "anchorMeaning": "船只",
+    "relation": "清晨时，渔船停泊在港口里。",
+    "sentence": "Fishing boats rested in the harbor at dawn.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet harbor at sunrise",
+      "actor": "Several fishing boats rest safely inside one harbor.",
+      "props": [
+        "fishing boats",
+        "one harbor",
+        "dawn light"
+      ],
+      "beats": [
+        "The sky brightens at dawn",
+        "Boats rest on calm water",
+        "The harbor remains peaceful"
+      ],
+      "ending": "Fishing boats rest in the harbor at dawn."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A few small fishing boats resting in a calm harbor at sunrise. No signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1838",
+    "serial": 4391,
+    "frequency": 7,
+    "word": "haste",
+    "targetSense": "匆忙",
+    "alt": "",
+    "anchor": "keys",
+    "anchorMeaning": "钥匙",
+    "relation": "她匆忙出门，却把钥匙忘在桌上。",
+    "sentence": "In her haste, she left the keys on the table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home doorway in daylight",
+      "actor": "One woman rushes out while keys remain on the table.",
+      "props": [
+        "one woman",
+        "keys",
+        "one table"
+      ],
+      "beats": [
+        "She hurries toward the door",
+        "She forgets the keys",
+        "The keys remain on the table"
+      ],
+      "ending": "In her haste, she leaves the keys behind."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One woman hurrying through a doorway while plain keys sit on a table. No signs or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1839",
+    "serial": 4392,
+    "frequency": 7,
+    "word": "posture",
+    "targetSense": "姿势",
+    "alt": "",
+    "anchor": "yoga",
+    "anchorMeaning": "瑜伽",
+    "relation": "瑜伽老师帮助学生调整姿势，表现 posture。",
+    "sentence": "The yoga teacher corrected his posture.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet yoga studio",
+      "actor": "One yoga teacher helps one student sit with a straight posture.",
+      "props": [
+        "one teacher",
+        "one student",
+        "one yoga mat"
+      ],
+      "beats": [
+        "The student sits awkwardly",
+        "The teacher gently guides him",
+        "The student straightens his posture"
+      ],
+      "ending": "A yoga teacher corrects one student’s posture."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two people in a calm yoga studio, teacher gently guiding a student’s upright posture. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1840",
+    "serial": 4393,
+    "frequency": 7,
+    "word": "radar",
+    "targetSense": "雷达",
+    "alt": "",
+    "anchor": "sea",
+    "anchorMeaning": "海",
+    "relation": "雷达天线扫描雾中的海面寻找船只。",
+    "sentence": "The radar dish scanned the foggy sea for boats.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small research vessel in fog",
+      "actor": "One radar dish rotates above a boat on the foggy sea.",
+      "props": [
+        "one radar dish",
+        "one research boat",
+        "foggy sea"
+      ],
+      "beats": [
+        "Fog covers the water",
+        "The radar dish turns",
+        "It scans the sea for boats"
+      ],
+      "ending": "A radar dish scans the foggy sea."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One plain radar dish mounted on a small vessel scanning a foggy sea. No screens, numbers, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1841",
+    "serial": 4394,
+    "frequency": 7,
+    "word": "nickname",
+    "targetSense": "昵称",
+    "alt": "",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "女孩给小狗取了一个昵称，表现 nickname。",
+    "sentence": "The girl chose a nickname for her puppy.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny home porch",
+      "actor": "One girl lovingly names her puppy while holding its blank collar tag.",
+      "props": [
+        "one girl",
+        "one puppy",
+        "one blank collar tag"
+      ],
+      "beats": [
+        "The girl looks at the puppy",
+        "She chooses a special nickname",
+        "She clips on the blank tag"
+      ],
+      "ending": "One girl chooses a nickname for her puppy."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One girl smiling at a puppy while holding a completely blank collar tag. No letters, speech bubbles, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1842",
+    "serial": 4395,
+    "frequency": 7,
+    "word": "preside",
+    "targetSense": "主持",
+    "alt": "",
+    "anchor": "meeting",
+    "anchorMeaning": "会议",
+    "relation": "她将主持学校会议，表现 preside。",
+    "sentence": "She will preside over the school meeting.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small school meeting room",
+      "actor": "One woman chairs a meeting with one participant at a plain table.",
+      "props": [
+        "one chairperson",
+        "one participant",
+        "one meeting table"
+      ],
+      "beats": [
+        "The two take their seats",
+        "She opens the meeting",
+        "She presides over the discussion"
+      ],
+      "ending": "One woman presides over a small meeting."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two people at a plain meeting table, one clearly leading the discussion. No papers with writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1843",
+    "serial": 4396,
+    "frequency": 7,
+    "word": "rip",
+    "targetSense": "撕裂、裂缝",
+    "alt": "",
+    "anchor": "paper",
+    "anchorMeaning": "纸",
+    "relation": "他开始把旧纸从中间撕成两半，表现 rip。",
+    "sentence": "He began to rip the old paper in half.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple work table",
+      "actor": "One person tears one blank sheet of old paper in half.",
+      "props": [
+        "one person",
+        "one blank paper sheet",
+        "one table"
+      ],
+      "beats": [
+        "The person holds the sheet",
+        "The paper begins to tear",
+        "The sheet rips into two pieces"
+      ],
+      "ending": "One person rips a blank sheet of paper."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One blank sheet being torn in half by one person. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1844",
+    "serial": 4398,
+    "frequency": 7,
+    "word": "vacuum",
+    "targetSense": "真空",
+    "alt": "",
+    "anchor": "dust",
+    "anchorMeaning": "灰尘",
+    "relation": "吸尘器把地毯上的灰尘吸走，表现 vacuum。",
+    "sentence": "The vacuum removed dust from the rug.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy living room",
+      "actor": "One vacuum cleaner removes dust from one rug.",
+      "props": [
+        "one vacuum cleaner",
+        "dust",
+        "one rug"
+      ],
+      "beats": [
+        "Dust rests on the rug",
+        "The vacuum passes over it",
+        "The rug becomes clean"
+      ],
+      "ending": "A vacuum removes dust from one rug."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One simple vacuum cleaner moving across a rug with a little dust. No labels, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1845",
+    "serial": 4403,
+    "frequency": 7,
+    "word": "doze",
+    "targetSense": "瞌睡",
+    "alt": "",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "猫在阳光下渐渐打起瞌睡。",
+    "sentence": "The tired cat began to doze in the sunlight.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet sunny windowsill",
+      "actor": "One tired cat dozes in a warm patch of sunlight.",
+      "props": [
+        "one cat",
+        "one windowsill",
+        "sunlight"
+      ],
+      "beats": [
+        "The cat settles on the sill",
+        "Warm sunlight reaches it",
+        "The cat begins to doze"
+      ],
+      "ending": "One cat dozes in the sunlight."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One relaxed cat dozing in a warm patch of sunlight. No other animals, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1846",
+    "serial": 4404,
+    "frequency": 7,
+    "word": "flap",
+    "targetSense": "拍打",
+    "alt": "",
+    "anchor": "breeze",
+    "anchorMeaning": "微风",
+    "relation": "鸟儿迎着微风拍打翅膀。",
+    "sentence": "The bird began to flap its wings in the breeze.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A leafy garden",
+      "actor": "One bird flaps its wings while perched in a gentle breeze.",
+      "props": [
+        "one bird",
+        "one branch",
+        "gentle breeze"
+      ],
+      "beats": [
+        "The bird settles on a branch",
+        "The breeze passes through the leaves",
+        "The bird flaps its wings"
+      ],
+      "ending": "One bird flaps its wings in the breeze."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One bird clearly flapping both wings on a branch in a gentle breeze. No symbols or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1847",
+    "serial": 4405,
+    "frequency": 7,
+    "word": "flesh",
+    "targetSense": "肉",
+    "alt": "",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "鱼肉烹熟时逐渐变成粉色。",
+    "sentence": "The fish’s flesh turned pink as it cooked.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean kitchen stove",
+      "actor": "One piece of fish cooks gently in a plain pan.",
+      "props": [
+        "one piece of fish",
+        "one pan",
+        "one stove"
+      ],
+      "beats": [
+        "The fish is placed in the pan",
+        "It cooks over gentle heat",
+        "The flesh turns pink"
+      ],
+      "ending": "The fish’s flesh turns pink as it cooks."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One piece of fish cooking gently in a plain pan, with no person or gore. No labels or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1848",
+    "serial": 4407,
+    "frequency": 7,
+    "word": "glare",
+    "targetSense": "瞪着、怒视",
+    "alt": "",
+    "anchor": "footprints",
+    "anchorMeaning": "脚印",
+    "relation": "他怒视地板上的泥脚印，表现 glare。",
+    "sentence": "He began to glare at the muddy footprints on the floor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean home entryway",
+      "actor": "One man glares down at muddy footprints on the floor.",
+      "props": [
+        "one man",
+        "muddy footprints",
+        "one entryway floor"
+      ],
+      "beats": [
+        "He notices the muddy marks",
+        "He frowns and glares",
+        "He looks at the footprints"
+      ],
+      "ending": "One man glares at muddy footprints."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One person glaring at muddy footprints on a clean entryway floor. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1849",
+    "serial": 4408,
+    "frequency": 7,
+    "word": "hasty",
+    "targetSense": "匆忙的；轻率的",
+    "alt": "",
+    "anchor": "bus",
+    "anchorMeaning": "公交车",
+    "relation": "仓促的选择让旅客上错了公交车。",
+    "sentence": "A hasty choice made the traveler board the wrong bus.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bus stop",
+      "actor": "One traveler hurries onto a bus, then realizes the mistake.",
+      "props": [
+        "one traveler",
+        "one bus",
+        "one travel bag"
+      ],
+      "beats": [
+        "The traveler rushes toward the bus",
+        "The traveler boards too quickly",
+        "A confused look shows the hasty choice"
+      ],
+      "ending": "A hasty choice puts one traveler on the wrong bus."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One traveler hurriedly boarding a plain bus and looking confused. No route numbers, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1850",
+    "serial": 4409,
+    "frequency": 7,
+    "word": "impetus",
+    "targetSense": "推动力",
+    "alt": "",
+    "anchor": "medal",
+    "anchorMeaning": "奖牌",
+    "relation": "她的第一枚奖牌给了她继续努力训练的动力。",
+    "sentence": "Her first medal gave her the impetus to train harder.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny running track",
+      "actor": "One young runner holds a first medal and prepares to train again.",
+      "props": [
+        "one runner",
+        "one plain medal",
+        "one running track"
+      ],
+      "beats": [
+        "The runner receives the medal",
+        "She looks inspired",
+        "She starts another training lap"
+      ],
+      "ending": "A first medal gives one runner impetus to train."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One determined runner holding a plain medal beside a track. No writing, numbers, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1851",
+    "serial": 4410,
+    "frequency": 7,
+    "word": "lucrative",
+    "targetSense": "获利的",
+    "alt": "",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "面包师发现卖新鲜面包是项获利的生意。",
+    "sentence": "The baker found selling fresh bread a lucrative business.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm neighborhood bakery",
+      "actor": "One baker sells a loaf and receives a few coins.",
+      "props": [
+        "one baker",
+        "fresh bread",
+        "plain coins"
+      ],
+      "beats": [
+        "The baker arranges fresh bread",
+        "A customer buys a loaf",
+        "The baker earns money from sales"
+      ],
+      "ending": "Selling bread is a lucrative business."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One baker selling fresh bread and receiving plain coins in a cozy bakery. No price tags, logos, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1852",
+    "serial": 4411,
+    "frequency": 7,
+    "word": "obedient",
+    "targetSense": "顺从的",
+    "alt": "",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "顺从的狗听到主人的指令后坐下来。",
+    "sentence": "The obedient dog sat when its owner gave a signal.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home garden",
+      "actor": "One obedient dog sits calmly when its owner gives a hand signal.",
+      "props": [
+        "one dog",
+        "one owner",
+        "one garden"
+      ],
+      "beats": [
+        "The owner raises a hand",
+        "The dog watches closely",
+        "The obedient dog sits"
+      ],
+      "ending": "One obedient dog sits for its owner."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One dog sitting attentively before one owner’s simple hand signal. No extra people, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1853",
+    "serial": 4412,
+    "frequency": 7,
+    "word": "ozone",
+    "targetSense": "臭氧",
+    "alt": "",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "高空臭氧层帮助保护地球免受太阳紫外线伤害。",
+    "sentence": "Ozone high in the atmosphere shields Earth from much of the sun’s ultraviolet light.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful view of Earth from space",
+      "actor": "A thin softly glowing blue ozone layer forms a smooth halo around Earth, with a bright sun nearby and no drawn rays or arrows.",
+      "props": [
+        "Earth",
+        "one thin ozone layer",
+        "one sun"
+      ],
+      "beats": [
+        "Earth rests beneath a thin atmospheric halo",
+        "The blue ozone layer encircles the planet",
+        "The sun shines nearby while Earth remains protected"
+      ],
+      "ending": "Ozone high above Earth forms a protective layer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A gentle picture-book space view of Earth with a thin softly glowing blue atmospheric ring and a bright sun nearby. No beams, light rays, arrowheads, arrows, lines, diagram marks, annotations, labels, numbers, UI, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1854",
+    "serial": 4413,
+    "frequency": 7,
+    "word": "poke",
+    "targetSense": "戳、刺",
+    "alt": "",
+    "anchor": "stick",
+    "anchorMeaning": "木棍",
+    "relation": "她用木棍轻轻戳松软的泥土。",
+    "sentence": "She used a stick to poke the soft soil.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden bed",
+      "actor": "One woman uses one stick to poke the soft soil.",
+      "props": [
+        "one woman",
+        "one stick",
+        "soft soil"
+      ],
+      "beats": [
+        "She kneels by the soil",
+        "She lifts the stick",
+        "She pokes the soft earth"
+      ],
+      "ending": "One woman pokes soft soil with a stick."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One woman gently poking soft garden soil with a plain stick. No labels or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1855",
+    "serial": 4414,
+    "frequency": 7,
+    "word": "radiate",
+    "targetSense": "辐射、放射",
+    "alt": "",
+    "anchor": "heater",
+    "anchorMeaning": "加热器",
+    "relation": "加热器把温暖散发到整个房间，表现 radiate。",
+    "sentence": "The heater will radiate warmth across the room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy living room in winter",
+      "actor": "One small heater radiates warmth through the room.",
+      "props": [
+        "one heater",
+        "one cozy room",
+        "warm light"
+      ],
+      "beats": [
+        "The heater turns on",
+        "Warmth spreads through the room",
+        "The room feels comfortable"
+      ],
+      "ending": "One heater radiates warmth across a room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One small heater warming a cozy room with soft warm lighting. No heat arrows, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1856",
+    "serial": 4415,
+    "frequency": 7,
+    "word": "rein",
+    "targetSense": "控制",
+    "alt": "",
+    "anchor": "horse",
+    "anchorMeaning": "马",
+    "relation": "她拉紧一根缰绳来控制马匹转向。",
+    "sentence": "She tightened one rein to steer the horse.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet riding path",
+      "actor": "One rider gently tightens one rein to steer one horse.",
+      "props": [
+        "one rider",
+        "one horse",
+        "one rein"
+      ],
+      "beats": [
+        "The horse begins to turn",
+        "The rider adjusts one rein",
+        "The horse follows the direction"
+      ],
+      "ending": "One rider uses a rein to steer a horse."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One rider guiding one horse with a clearly visible rein. No extra people, logos, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1857",
+    "serial": 4416,
+    "frequency": 7,
+    "word": "rot",
+    "targetSense": "腐烂",
+    "alt": "",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "掉落的苹果在潮湿草地上开始腐烂。",
+    "sentence": "The fallen apples began to rot in the damp grass.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet orchard floor",
+      "actor": "Several fallen apples begin to rot on damp grass.",
+      "props": [
+        "fallen apples",
+        "damp grass",
+        "one orchard tree"
+      ],
+      "beats": [
+        "The apples fall beneath the tree",
+        "They rest in damp grass",
+        "Some apples begin to rot"
+      ],
+      "ending": "Fallen apples rot in the damp grass."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A few fallen apples with mild natural spots beginning to rot in damp grass. No insects close-up, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1858",
+    "serial": 4417,
+    "frequency": 7,
+    "word": "sigh",
+    "targetSense": "叹息",
+    "alt": "",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "雨停后，他松了口气，发出一声叹息。",
+    "sentence": "He let out a sigh of relief when the rain stopped.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright sunny garden just after the rain has completely stopped",
+      "actor": "One man smiles and exhales with relaxed shoulders as the last small cloud clears far away.",
+      "props": [
+        "one man",
+        "rain clouds",
+        "one garden"
+      ],
+      "beats": [
+        "The rain has stopped",
+        "Warm sun returns to the garden",
+        "The relaxed man smiles and sighs with relief"
+      ],
+      "ending": "One man sighs with relief as the rain stops."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One relaxed man smiling with eyes gently closed and shoulders lowered in a bright sunny garden after rain. The sky is clear except one small distant cloud. No falling raindrops, worried frown, sound marks, motion lines, speech bubbles, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1859",
+    "serial": 4420,
+    "frequency": 7,
+    "word": "snatch",
+    "targetSense": "抢夺、抓住",
+    "alt": "",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "她在风把帽子吹走前一把抓住它。",
+    "sentence": "She moved fast to snatch the hat before the wind carried it away.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breezy park path",
+      "actor": "One woman catches one hat just before the wind blows it away.",
+      "props": [
+        "one woman",
+        "one hat",
+        "windblown leaves"
+      ],
+      "beats": [
+        "The hat lifts in the wind",
+        "The woman reaches quickly",
+        "She snatches the hat safely"
+      ],
+      "ending": "One woman snatches a hat from the wind."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One woman quickly catching one plain hat as leaves blow in the breeze. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1860",
+    "serial": 4421,
+    "frequency": 7,
+    "word": "startle",
+    "targetSense": "吃惊",
+    "alt": "",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "突然的声响会把睡着的猫吓一跳。",
+    "sentence": "A sudden noise can startle a sleeping cat.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen with one empty pot falling from a shelf",
+      "actor": "Exactly one sleeping cat jumps as one empty pot falls onto the floor.",
+      "props": [
+        "one cat",
+        "one empty pot",
+        "one kitchen floor"
+      ],
+      "beats": [
+        "The single cat sleeps quietly",
+        "The pot tips and falls",
+        "The sudden noise startles the cat"
+      ],
+      "ending": "A falling pot startles one sleeping cat."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly one cat in the whole image: one sleeping cat jumps at one falling empty pot. No second cat, reflection, animal picture, or other animal anywhere. No written sound effect or text.",
+    "imageError": null
+  }
+]

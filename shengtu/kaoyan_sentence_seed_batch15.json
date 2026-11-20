@@ -1,0 +1,642 @@
+[
+  {
+    "word": "confront",
+    "anchor": "wall",
+    "anchorMeaning": "岩壁",
+    "relation": "A climber who faces the steep wall directly is willing to confront a challenge.",
+    "sentence": "The climber chose to confront the steep wall ahead.（攀登者决定勇敢面对前方陡峭的岩壁。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A rocky climbing area beneath a clear sky.",
+      "actor": "One climber pauses and faces a steep rock wall; only one person.",
+      "props": [
+        "one tall steep rock wall",
+        "one safety rope attached securely",
+        "one climbing helmet"
+      ],
+      "beats": [
+        "The climber reaches the base of the wall.",
+        "The climber looks up at the difficult route.",
+        "The climber takes a steady first step to confront the challenge."
+      ],
+      "ending": "The climber faces the steep wall with focused courage."
+    },
+    "artDirection": "One climber with normal limbs and safe equipment. No danger, text, or logos; full-frame rocky landscape.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "equality",
+    "anchor": "paint",
+    "anchorMeaning": "颜料",
+    "relation": "Giving two children the same amount of paint shows equality.",
+    "sentence": "The teacher gave both children equal amounts of paint, showing equality.（老师给两个孩子同样多的颜料，体现了平等。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright art classroom with a shared table.",
+      "actor": "Two children receive identical portions of paint and paint together; exactly two people.",
+      "props": [
+        "two matching small paint jars filled to the same level",
+        "two plain paintbrushes",
+        "one shared sheet with a simple blank canvas area"
+      ],
+      "beats": [
+        "The teacher sets matching paint jars before the two children.",
+        "Each child uses an equal amount of paint.",
+        "Both children work side by side with equal materials."
+      ],
+      "ending": "The equal paint portions visibly show equality."
+    },
+    "artDirection": "Exactly two children with normal hands. No writing, labels, numbers, or logos; full-frame warm classroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然易读，equality 与 paint 锚点明确出现，等量颜料直观表达平等。"
+    }
+  },
+  {
+    "word": "prompt",
+    "anchor": "picture",
+    "anchorMeaning": "图画",
+    "relation": "A picture prompt gives someone a cue to begin a story.",
+    "sentence": "A picture prompt helped the child invent a story.（一幅提示图帮助孩子构思了一个故事。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy reading corner beside a window.",
+      "actor": "One child looks at a simple picture card and imagines a story; only one person.",
+      "props": [
+        "one picture card showing a tree and a small bird, no words",
+        "one blank notebook",
+        "one colored pencil"
+      ],
+      "beats": [
+        "The child studies the picture card.",
+        "The scene gives the child an idea.",
+        "The child begins imagining a story in the blank notebook."
+      ],
+      "ending": "The picture serves as a clear prompt for the child's imagination."
+    },
+    "artDirection": "Card and notebook contain no letters, numbers, or writing. One child with natural hands; full-frame warm reading corner.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "shrink",
+    "anchor": "sweater",
+    "anchorMeaning": "毛衣",
+    "relation": "Hot water can make a wool sweater shrink and become too small.",
+    "sentence": "Hot water can shrink a wool sweater.（热水会使羊毛毛衣缩水。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm laundry room with a wash basin.",
+      "actor": "One person holds up a small wool sweater after washing it in hot water.",
+      "props": [
+        "one visibly shrunken wool sweater",
+        "one steaming wash basin",
+        "one wooden drying rack"
+      ],
+      "beats": [
+        "The wool sweater is washed in hot water.",
+        "The sweater becomes smaller and tighter.",
+        "The person lifts the shrunken sweater from the basin."
+      ],
+      "ending": "The sweater is clearly too small after it shrinks."
+    },
+    "artDirection": "One person with normal hands. No writing or logos on clothing or appliances; full-frame warm laundry room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "racial",
+    "anchor": "project",
+    "anchorMeaning": "共同项目",
+    "relation": "Working together on a shared project can show racial equality between classmates of different backgrounds.",
+    "sentence": "The two classmates learned about racial equality while working on a shared project.（两位同学在合作完成共同项目时学习了种族平等。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright classroom with a shared art table.",
+      "actor": "Two classmates of different backgrounds work equally on one project; exactly two people.",
+      "props": [
+        "one shared blank art project",
+        "two matching sets of crayons",
+        "one shared classroom table"
+      ],
+      "beats": [
+        "The classmates sit together at the same table.",
+        "Both contribute ideas and materials equally.",
+        "They finish the shared project as equal partners."
+      ],
+      "ending": "The two classmates cooperate as equals, illustrating racial equality respectfully."
+    },
+    "artDirection": "Exactly two classmates with natural, varied appearances; avoid stereotypes or flags. No text, slogans, or logos; full-frame classroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "reference",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "A map can serve as a reference while someone paints a landscape.",
+    "sentence": "She used the map as a reference while painting the landscape.（她画风景时把地图当作参考。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "An artist's studio with a wide worktable and a window overlooking hills.",
+      "actor": "One woman pauses her painting to study a large open map placed prominently beside the canvas.",
+      "props": [
+        "one large fully open map with clear unlabeled roads and land shapes, prominently visible beside the canvas",
+        "one landscape canvas with no writing",
+        "one paintbrush"
+      ],
+      "beats": [
+        "The artist points to the large open map beside the canvas.",
+        "She compares the map's unlabeled land shapes with the landscape.",
+        "The clearly visible map guides her painting."
+      ],
+      "ending": "The large open map is unmistakably visible next to the landscape painting as a reference."
+    },
+    "artDirection": "The large open map must be clearly visible in the foreground beside the canvas, with simple unlabeled roads and shapes only. No lettering, labels, numbers, or writing anywhere. One adult with natural hands; full-frame softly painted studio.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "adolescent",
+    "anchor": "guitar",
+    "anchorMeaning": "吉他",
+    "relation": "A teenager practicing guitar after school is an adolescent developing a hobby.",
+    "sentence": "The adolescent practiced guitar in her room after school.（这名青少年放学后在房间里练习吉他。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A teenager's bedroom with warm afternoon light.",
+      "actor": "One adolescent practices an acoustic guitar after school; only one person.",
+      "props": [
+        "one plain acoustic guitar",
+        "one simple music stand with a blank sheet",
+        "one school backpack on the floor"
+      ],
+      "beats": [
+        "The adolescent returns home from school.",
+        "She picks up the guitar and practices a melody.",
+        "She continues playing in her room."
+      ],
+      "ending": "A young teenager practices guitar in a relaxed bedroom."
+    },
+    "artDirection": "One adolescent with normal limbs. Music sheet must be blank with no notes or words; no logos or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "congress",
+    "anchor": "hall",
+    "anchorMeaning": "会堂",
+    "relation": "A congress is a formal meeting of representatives held in a large hall.",
+    "sentence": "The congress session began as two delegates took their seats in the hall.（两位代表在会堂就座，代表大会的会议随即开始。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A formal assembly hall with rows of empty seats.",
+      "actor": "Two delegates take their seats at the front of the hall; exactly two people.",
+      "props": [
+        "one large assembly hall",
+        "two plain delegate seats",
+        "one unmarked lectern"
+      ],
+      "beats": [
+        "The delegates enter the assembly hall.",
+        "They take their seats at the front.",
+        "The congress session begins."
+      ],
+      "ending": "The two delegates sit ready in the formal congress hall."
+    },
+    "artDirection": "Exactly two people. Empty seats only, no flags, signs, text, or logos; full-frame assembly hall.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "fifty",
+    "anchor": "tray",
+    "anchorMeaning": "托盘",
+    "relation": "Fifty separate marbles arranged in five groups of ten make the number fifty concrete.",
+    "sentence": "The tray held fifty marbles in five groups of ten.（托盘里有五十颗弹珠，分成五组，每组十颗。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A straight-down view of one shallow counting tray divided into exactly five equal rectangular compartments on a quiet playroom table.",
+      "actor": "No people; exactly fifty tiny marbles, with exactly ten marbles in each of five separate compartments, arranged as two rows of five in every compartment.",
+      "props": [
+        "one shallow plain counting tray divided into exactly five equal compartments",
+        "exactly fifty tiny distinct marbles, ten in each compartment arranged in two rows of five",
+        "one plain tabletop"
+      ],
+      "beats": [
+        "The full tray is visible from directly above, clearly divided into five separate compartments.",
+        "Exactly ten marbles fill each compartment, arranged as two rows of five.",
+        "All five groups of ten are fully visible and easy to count compartment by compartment."
+      ],
+      "ending": "The complete tray shows exactly five compartments, each containing ten marbles in two rows of five."
+    },
+    "artDirection": "Direct overhead composition, entire tray visible. Exactly five equally sized separate compartments arranged in one clear line. Each compartment contains exactly ten tiny marbles: two neat rows of five. Count by compartment: 10 + 10 + 10 + 10 + 10 = 50 marbles total. Every compartment and every marble must be fully visible; no compartment may be missing, empty, or contain a different number. No numerals, writing, or extra objects.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：The tray held fifty marbles in five groups of ten. 句子语法自然、简短易读，fifty 与 tray 均清楚出现，分组计数关系明确。"
+    }
+  },
+  {
+    "word": "infant",
+    "anchor": "crib",
+    "anchorMeaning": "婴儿床",
+    "relation": "A peacefully sleeping baby in a crib is an infant.",
+    "sentence": "The infant slept peacefully in the wooden crib.（婴儿在木制婴儿床里安静地睡着。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm nursery with soft morning light.",
+      "actor": "One infant sleeps safely on its back in a simple crib; only one person.",
+      "props": [
+        "one wooden crib with safe spacing",
+        "one soft plain blanket below the infant",
+        "one small bedside lamp"
+      ],
+      "beats": [
+        "The baby rests safely in the crib.",
+        "The infant sleeps peacefully in the soft light.",
+        "The quiet nursery remains calm around the baby."
+      ],
+      "ending": "The infant sleeps safely and peacefully in the crib."
+    },
+    "artDirection": "One infant only, sleeping safely on its back with face visible. No extra people, text, or logos; full-frame gentle nursery.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "vulnerable",
+    "anchor": "nest",
+    "anchorMeaning": "鸟巢",
+    "relation": "A small bird in an exposed nest can be vulnerable because it has little protection.",
+    "sentence": "The small bird was vulnerable in its exposed nest.（小鸟待在暴露的鸟巢里，显得很脆弱。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A high tree branch at the edge of a quiet garden.",
+      "actor": "One small bird sits in an exposed nest without any nearby shelter; only one animal.",
+      "props": [
+        "one small bird",
+        "one open nest on a thin branch",
+        "a wide open patch of sky behind it"
+      ],
+      "beats": [
+        "The bird rests in the open nest.",
+        "The thin branch offers little cover from the open sky.",
+        "The bird appears vulnerable because it is exposed."
+      ],
+      "ending": "The small bird and exposed nest clearly show vulnerability without harm."
+    },
+    "artDirection": "One bird with natural anatomy; show no predator or injury. No text or logos; full-frame tree and open sky.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "reasonable",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "Taking an umbrella when dark clouds gather is a reasonable precaution.",
+    "sentence": "It was reasonable to carry an umbrella when dark clouds gathered.（乌云聚集时带上雨伞是合理的。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A neighborhood path beneath gathering dark clouds.",
+      "actor": "One person carries a closed umbrella while looking at the cloudy sky.",
+      "props": [
+        "one plain closed umbrella",
+        "dark clouds gathering overhead",
+        "one neighborhood path"
+      ],
+      "beats": [
+        "The sky grows dark with clouds.",
+        "The person notices the weather and picks up an umbrella.",
+        "Carrying the umbrella looks like a sensible choice."
+      ],
+      "ending": "The umbrella is ready before rain begins, showing a reasonable decision."
+    },
+    "artDirection": "One person with normal limbs. No rain yet, no text or logos; full-frame neighborhood setting.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "significance",
+    "anchor": "medal",
+    "anchorMeaning": "奖章",
+    "relation": "An old medal can hold deep significance because it carries family memories.",
+    "sentence": "The old medal held great significance for her family.（这枚旧奖章对她的家庭意义重大。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet family living room in warm evening light.",
+      "actor": "One woman holds an old medal carefully and remembers its family story.",
+      "props": [
+        "one plain old medal without engraving",
+        "one small keepsake box",
+        "one simple family photograph with indistinct faces and no writing"
+      ],
+      "beats": [
+        "The woman opens the keepsake box.",
+        "She lifts the old medal with care.",
+        "The medal's family importance is clear from her tender expression."
+      ],
+      "ending": "The medal is treasured as an object of great family significance."
+    },
+    "artDirection": "No readable text, dates, or logos on the medal, box, or photograph. One adult with natural hands; full-frame warm room.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "examination",
+    "anchor": "pencil",
+    "anchorMeaning": "铅笔",
+    "relation": "A student may prepare for an examination by sharpening a pencil before the test.",
+    "sentence": "She prepared for the examination by sharpening her pencil.（她削好铅笔，为考试做准备。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom before a written test.",
+      "actor": "One student sharpens a pencil beside a blank exam sheet; only one person.",
+      "props": [
+        "one plain sharpened pencil",
+        "one blank exam sheet",
+        "one simple classroom desk"
+      ],
+      "beats": [
+        "The student sits down before the examination.",
+        "She sharpens her pencil carefully.",
+        "She places it beside the blank exam sheet, ready to begin."
+      ],
+      "ending": "The student is prepared to take the examination."
+    },
+    "artDirection": "Paper must be blank with no words or numbers. One student only; no signs or logos, full-frame classroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "host",
+    "anchor": "guest",
+    "anchorMeaning": "嘉宾",
+    "relation": "A host welcomes a guest and guides an interview with a microphone.",
+    "sentence": "The host welcomed one guest before the interview began.（采访开始前，主持人欢迎了一位嘉宾。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small interview studio with warm lights.",
+      "actor": "One host greets one guest beside a microphone; exactly two people.",
+      "props": [
+        "one plain microphone",
+        "two simple chairs",
+        "one small studio table"
+      ],
+      "beats": [
+        "The guest arrives in the studio.",
+        "The host welcomes the guest warmly.",
+        "The host prepares to begin the interview."
+      ],
+      "ending": "The host and guest sit ready beside the microphone."
+    },
+    "artDirection": "Exactly two people with normal limbs. No cameras with labels, text, or logos; full-frame studio.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子自然，host 与 guest 锚点均在英文句中，主持人欢迎嘉宾的场景清楚。"
+    }
+  },
+  {
+    "word": "divorce",
+    "anchor": "boxes",
+    "anchorMeaning": "箱子",
+    "relation": "A couple packing separate belongings after deciding to divorce shows a marriage ending calmly.",
+    "sentence": "The couple announced their divorce and began packing separate boxes.（这对夫妻宣布离婚后，开始分别收拾物品。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet shared living room with two plain open cardboard moving boxes; the walls and all box surfaces are blank.",
+      "actor": "Two adults calmly pack only plain folded clothes into separate boxes; exactly two people.",
+      "props": [
+        "two plain open moving boxes",
+        "a few plain folded clothes",
+        "one plain unmarked pillow"
+      ],
+      "beats": [
+        "The couple stands beside two separate boxes.",
+        "Each person places plain folded clothes into a different box.",
+        "They continue packing calmly after their divorce."
+      ],
+      "ending": "The two separate boxes of folded clothes show the couple preparing to live apart."
+    },
+    "artDirection": "Exactly two adults with natural limbs; portray the moment calmly and respectfully. Only folded clothes and one plain pillow may appear in the boxes. No paper, books, documents, labels, writing, lettering, or logos anywhere; plain unmarked walls and box surfaces.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "dispute",
+    "anchor": "fence",
+    "anchorMeaning": "栅栏",
+    "relation": "Neighbors can have a dispute about where a shared garden fence should stand.",
+    "sentence": "The neighbors had a dispute about the fence between their gardens.（邻居们因两家花园之间的栅栏起了争论。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "Two adjoining backyard gardens divided by a low fence.",
+      "actor": "Two neighbors discuss the fence with concerned but calm expressions; exactly two people.",
+      "props": [
+        "one low wooden fence between gardens",
+        "one shared garden path",
+        "one small potted plant near the fence"
+      ],
+      "beats": [
+        "The neighbors meet beside the shared fence.",
+        "They point to different parts of the fence while disagreeing.",
+        "They discuss the dispute without becoming aggressive."
+      ],
+      "ending": "The disagreement about the garden fence is clear but calm."
+    },
+    "artDirection": "Exactly two neighbors with normal limbs. No arguing gestures that suggest violence, no signs, text, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "elite",
+    "anchor": "coach",
+    "anchorMeaning": "教练",
+    "relation": "An elite runner is among the very best athletes and trains with a coach.",
+    "sentence": "The elite runner trained with a coach before the championship.（这名顶尖跑者在锦标赛前跟教练训练。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A professional running track before a championship.",
+      "actor": "One elite runner trains with one coach; exactly two people.",
+      "props": [
+        "one running track",
+        "one plain stopwatch with no numbers",
+        "one pair of running shoes"
+      ],
+      "beats": [
+        "The coach watches the runner's form.",
+        "The elite runner practices a fast lap.",
+        "The coach gives a small approving nod."
+      ],
+      "ending": "The runner's focused training suggests an elite athlete preparing to compete."
+    },
+    "artDirection": "Exactly two people with natural limbs. Stopwatch face has no numbers or writing; no logos, signs, or text.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  },
+  {
+    "word": "trial",
+    "anchor": "courtroom",
+    "anchorMeaning": "法庭",
+    "relation": "A trial is a formal court proceeding held in a courtroom.",
+    "sentence": "The judge began the trial in the courtroom.（法官在法庭里开始了审判。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A minimal quiet courtroom with a judge's bench, a lawyer's table, and completely bare blank walls.",
+      "actor": "Exactly two adults total: one judge seated behind the raised bench and one lawyer standing alone beside the empty table. No other people anywhere.",
+      "props": [
+        "one raised judge's bench",
+        "one plain wooden gavel",
+        "one completely empty lawyer's table"
+      ],
+      "beats": [
+        "The judge sits behind the raised bench.",
+        "The single lawyer stands beside the empty table.",
+        "The judge begins the trial with a calm gesture."
+      ],
+      "ending": "Only the judge and one lawyer are visible as the trial begins in the courtroom."
+    },
+    "artDirection": "Exactly two adults total in the whole image: one judge behind the bench and one lawyer at the empty table. No third person, spectators, clerks, or figures in the background. Bare blank walls only: no framed items, plaques, charts, signs, flags, papers, legal text, writing, or logos. Keep the table empty; full-frame courtroom.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工复核通过：The judge began the trial in the courtroom. 语法自然、表达简洁，trial 和 courtroom 均清楚出现，适合表现法官与律师开始庭审的静态场景。"
+    }
+  },
+  {
+    "word": "evolve",
+    "anchor": "homes",
+    "anchorMeaning": "房屋",
+    "relation": "A village can evolve gradually as new homes appear along an old road.",
+    "sentence": "The village continued to evolve as new homes appeared along the old road.（新房沿着旧路不断出现，村庄也在逐渐发展。）",
+    "mode": "scene",
+    "scene": {
+      "setting": "A growing village along a winding country road.",
+      "actor": "One builder works on a new home among several established village houses; only one person.",
+      "props": [
+        "one house under construction",
+        "several finished homes along the old road",
+        "one winding village road"
+      ],
+      "beats": [
+        "A small village sits along the old road.",
+        "A builder adds a new home nearby.",
+        "The village gradually grows and evolves."
+      ],
+      "ending": "New homes appear beside older ones as the village evolves over time."
+    },
+    "artDirection": "Show one continuous village scene, not before-and-after panels. One worker only; no text, signs, or logos.",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "人工预审通过：句子语法自然、长度适中，目标词和记忆锚点均在英文句中，场景语义对应。"
+    }
+  }
+]

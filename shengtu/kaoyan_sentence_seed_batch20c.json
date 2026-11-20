@@ -1,0 +1,662 @@
+[
+  {
+    "word": "substantial",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "A substantial object is large or important; a large stone makes the size visible.",
+    "sentence": "The builder lifted a substantial stone onto the low wall.（建筑工人把一块大石头搬到了矮墙上。）",
+    "artDirection": "One person only; no extra stones that compete with the main stone, no text or logos.",
+    "scene": {
+      "setting": "A quiet garden beside a low stone wall.",
+      "actor": "One builder carefully lifts one large stone; only one person.",
+      "props": [
+        "one large heavy stone",
+        "one low stone wall",
+        "one plain work glove"
+      ],
+      "beats": [
+        "The builder grips the large stone.",
+        "They lift it with effort.",
+        "The substantial stone rests on the low wall."
+      ],
+      "ending": "One large stone sits on the low wall after being lifted."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A substantial object is large or important; a large stone makes the size visible.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "qualification",
+    "anchor": "plane",
+    "anchorMeaning": "飞机",
+    "relation": "A pilot qualification allows someone to fly a plane.",
+    "sentence": "Her pilot qualification allowed her to fly the plane.（她的飞行员资格让她能够驾驶飞机。）",
+    "artDirection": "No hat or headwear. The pilot wears plain blue flight clothes with no patches, badges, insignia, symbols, or decoration. The aircraft has no markings; the certificate is fully blank. No letters, numbers, or logos.",
+    "scene": {
+      "setting": "A small quiet airfield beside one parked aircraft.",
+      "actor": "One woman pilot with bare head and plain unmarked flight clothes stands beside the plane holding a blank certificate; only one person.",
+      "props": [
+        "one small plain unmarked aircraft",
+        "one completely blank certificate paper",
+        "one plain blue flight jacket with no patches or emblems"
+      ],
+      "beats": [
+        "The pilot holds her certificate beside the plane.",
+        "She prepares to enter the cockpit.",
+        "Her qualification allows her to fly."
+      ],
+      "ending": "The qualified pilot stands ready beside the aircraft."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A pilot qualification allows someone to fly a plane.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "retain",
+    "anchor": "jar",
+    "anchorMeaning": "罐子",
+    "relation": "A sealed jar can retain the warmth of soup.",
+    "sentence": "The sealed jar can retain the warmth of the soup.",
+    "artDirection": "No labels, text, logos, or extra jars; use only a subtle hint of warmth.",
+    "scene": {
+      "setting": "A warm kitchen counter.",
+      "actor": "No people; a sealed jar holds warm soup with a little steam inside.",
+      "props": [
+        "one plain sealed glass jar of soup",
+        "one simple wooden counter",
+        "one folded kitchen towel"
+      ],
+      "beats": [
+        "Warm soup is placed in the jar.",
+        "The lid is sealed tightly.",
+        "The jar retains the warmth inside."
+      ],
+      "ending": "The sealed jar keeps the soup warm on the counter."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A sealed jar can retain the warmth of soup.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "myth",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "A myth can tell a story about a magical creature beneath a mountain.",
+    "sentence": "An old myth tells of a dragon sleeping beneath the mountain.（古老的神话讲述了一条龙沉睡在山下。）",
+    "artDirection": "Make the dragon gentle and clearly imaginary, not frightening; no text, symbols, or extra creatures.",
+    "scene": {
+      "setting": "A quiet mountain landscape with a gentle storybook atmosphere.",
+      "actor": "No people; one friendly mythical dragon sleeps in a cave beneath the mountain.",
+      "props": [
+        "one broad mountain",
+        "one friendly dragon resting in a cave opening",
+        "one small patch of forest"
+      ],
+      "beats": [
+        "The mountain rises above the forest.",
+        "A cave lies beneath the slope.",
+        "The imagined dragon sleeps inside the cave as in an old myth."
+      ],
+      "ending": "A friendly dragon sleeps beneath the mountain in a calm mythical scene."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A myth can tell a story about a magical creature beneath a mountain.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "fossil",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "A fossil can preserve the shape of an ancient fish in stone.",
+    "sentence": "The fossil preserved the shape of an ancient fish in stone.（这块化石在石头中保留了古代鱼类的形状。）",
+    "artDirection": "Plain blank workshop walls with no framed pictures, posters, diagrams, labels, other fossils, or animal pictures. Show exactly one fossil imprint: one fish shape naturally embedded in one stone, not a living fish.",
+    "scene": {
+      "setting": "A paleontology worktable against a plain, undecorated wall.",
+      "actor": "One paleontologist brushes dust from one fish fossil embedded in one stone; only one person.",
+      "props": [
+        "one flat stone with a clear fish fossil impression",
+        "one soft cleaning brush",
+        "one simple worktable"
+      ],
+      "beats": [
+        "The paleontologist notices one fish shape in the stone.",
+        "They gently brush dust from that single fossil.",
+        "The ancient fossil impression becomes clearly visible."
+      ],
+      "ending": "One fish-shaped fossil is revealed in one plain stone."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A fossil can preserve the shape of an ancient fish in stone.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "preparation",
+    "anchor": "lunchbox",
+    "anchorMeaning": "饭盒",
+    "relation": "Packing a lunchbox is part of preparation for a hike.",
+    "sentence": "Her preparation for the hike began as she packed her lunchbox.（她为徒步做准备时，先把午餐装进饭盒。）",
+    "artDirection": "No brand marks, labels, text, or extra people.",
+    "scene": {
+      "setting": "A tidy entryway before a morning hike.",
+      "actor": "One woman packs a lunchbox beside her hiking gear; only one person.",
+      "props": [
+        "one plain lunchbox",
+        "one small hiking backpack",
+        "one pair of walking boots"
+      ],
+      "beats": [
+        "She lays out her hiking gear.",
+        "She packs food into the lunchbox.",
+        "Her preparation for the hike is underway."
+      ],
+      "ending": "The packed lunchbox sits beside the ready backpack and boots."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Packing a lunchbox is part of preparation for a hike.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "rail",
+    "anchor": "stairs",
+    "anchorMeaning": "楼梯",
+    "relation": "A rail runs beside stairs and gives a climber something to hold.",
+    "sentence": "He gripped the rail as he climbed the stairs.（他爬楼梯时紧紧握住扶手。）",
+    "artDirection": "One person with natural arms and hands; no signs, text, or logos.",
+    "scene": {
+      "setting": "A simple indoor staircase.",
+      "actor": "One adult climbs the stairs while holding the rail; only one person.",
+      "props": [
+        "one sturdy handrail",
+        "one short flight of stairs",
+        "one pair of plain shoes"
+      ],
+      "beats": [
+        "He approaches the staircase.",
+        "He grips the rail with one hand.",
+        "He climbs the stairs safely."
+      ],
+      "ending": "The person holds the rail while stepping up the stairs."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A rail runs beside stairs and gives a climber something to hold.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "dean",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "A dean may welcome students at the entrance gate of a college.",
+    "sentence": "The dean welcomed a student at the college gate.（院长在学院门口欢迎一名学生。）",
+    "artDirection": "No signs, emblems, badges, text, or logos; exactly two people.",
+    "scene": {
+      "setting": "A quiet college entrance gate in the morning.",
+      "actor": "Exactly two adults: a dean welcomes one arriving student.",
+      "props": [
+        "one plain college gate",
+        "one blank folder held by the dean",
+        "one simple path into the campus"
+      ],
+      "beats": [
+        "The student arrives at the gate.",
+        "The dean greets the student warmly.",
+        "They enter the college together."
+      ],
+      "ending": "The dean welcomes the student at the open gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A dean may welcome students at the entrance gate of a college.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "overlook",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "Someone can overlook a small crack while cleaning a cup.",
+    "sentence": "She tends to overlook small cracks when washing the cup.",
+    "artDirection": "No written labels or extra cups; make the crack subtle but visible to the viewer.",
+    "scene": {
+      "setting": "A simple kitchen sink area.",
+      "actor": "One woman washes one cup without noticing its tiny crack; only one person.",
+      "props": [
+        "one plain cup with one small visible crack",
+        "one simple sink",
+        "one soft sponge"
+      ],
+      "beats": [
+        "She picks up the cup to wash it.",
+        "She cleans the surface but misses the crack.",
+        "She overlooks the tiny damage."
+      ],
+      "ending": "The clean cup still has a small crack she failed to notice."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Someone can overlook a small crack while cleaning a cup.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "reinforce",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Steel beams can reinforce an old bridge and make it stronger.",
+    "sentence": "The workers reinforce the old bridge with steel beams.（工人们用钢梁加固这座老桥。）",
+    "artDirection": "Exactly two people and two support beams; no hazard signs, logos, numbers, or text.",
+    "scene": {
+      "setting": "A safe bridge repair site in daylight.",
+      "actor": "Exactly two construction workers fit support beams beneath the bridge; exactly two people.",
+      "props": [
+        "one old bridge",
+        "two steel support beams",
+        "one plain hand tool"
+      ],
+      "beats": [
+        "The workers inspect the bridge support.",
+        "They fit the steel beams beneath it.",
+        "The beams reinforce the bridge."
+      ],
+      "ending": "Two workers secure steel beams under the old bridge."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Steel beams can reinforce an old bridge and make it stronger.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "academy",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "An academy is a school or institution that opens its doors to students.",
+    "sentence": "The academy opened its doors to new students.（这所学院向新生敞开了大门。）",
+    "artDirection": "No school signs, text, logos, emblems, or extra people.",
+    "scene": {
+      "setting": "A welcoming school entrance in soft morning light.",
+      "actor": "One teacher welcomes one new student at the open entrance; exactly two people.",
+      "props": [
+        "one plain academy entrance",
+        "one open wooden door",
+        "one simple schoolbag"
+      ],
+      "beats": [
+        "The door opens at the academy entrance.",
+        "The teacher welcomes the new student.",
+        "The student steps into the academy."
+      ],
+      "ending": "A new student enters through the academy's open door."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An academy is a school or institution that opens its doors to students.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "ambitious",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "An ambitious climber sets a challenging goal such as a mountain peak.",
+    "sentence": "The ambitious climber set her sights on the mountain peak.（这位有雄心的登山者把目标定在山顶。）",
+    "artDirection": "Show a safe, achievable pose; no extra climbers, signs, letters, or logos.",
+    "scene": {
+      "setting": "A clear mountain trail in early morning.",
+      "actor": "One climber looks up toward a distant summit; only one person.",
+      "props": [
+        "one tall mountain peak",
+        "one sturdy climbing rope",
+        "one small hiking backpack"
+      ],
+      "beats": [
+        "The climber pauses on the trail.",
+        "She looks toward the high peak.",
+        "Her ambitious goal is clear."
+      ],
+      "ending": "The climber stands ready to aim for the summit."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An ambitious climber sets a challenging goal such as a mountain peak.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "accumulate",
+    "anchor": "leaves",
+    "anchorMeaning": "树叶",
+    "relation": "Leaves accumulate when they gather into a growing pile.",
+    "sentence": "Dry leaves accumulate in a pile beside the garden fence.（干树叶在花园围栏旁堆成了一堆。）",
+    "artDirection": "No text or signs; use one clear pile, not a cluttered carpet of leaves.",
+    "scene": {
+      "setting": "An autumn garden beside a simple fence.",
+      "actor": "No people; dry leaves gather into one small pile.",
+      "props": [
+        "one neat pile of dry leaves",
+        "one garden fence",
+        "one plain rake"
+      ],
+      "beats": [
+        "A few leaves blow across the garden.",
+        "More leaves gather by the fence.",
+        "They accumulate into a pile."
+      ],
+      "ending": "A small pile of leaves rests beside the fence."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Leaves accumulate when they gather into a growing pile.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "exclude",
+    "anchor": "goats",
+    "anchorMeaning": "山羊",
+    "relation": "A fence can exclude goats from a vegetable garden.",
+    "sentence": "The fence will exclude the goats from the vegetable garden.",
+    "artDirection": "Exactly two goats, each with natural anatomy; no extra animals, text, or signs.",
+    "scene": {
+      "setting": "A sunny vegetable garden behind a low fence.",
+      "actor": "Exactly two goats stand outside the garden fence; no people.",
+      "props": [
+        "one low closed garden fence",
+        "two small goats outside the fence",
+        "one vegetable garden inside"
+      ],
+      "beats": [
+        "The goats approach the garden.",
+        "The fence blocks their way in.",
+        "The goats remain excluded from the vegetables."
+      ],
+      "ending": "Two goats stay outside the fenced vegetable garden."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A fence can exclude goats from a vegetable garden.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "casual",
+    "anchor": "jeans",
+    "anchorMeaning": "牛仔裤",
+    "relation": "Jeans are common casual clothing for a relaxed picnic.",
+    "sentence": "He wore casual jeans to the family picnic.（他穿着休闲牛仔裤参加家庭野餐。）",
+    "artDirection": "No logos, labels, lettering, or extra people; clothing remains plain.",
+    "scene": {
+      "setting": "A relaxed picnic in a sunny park.",
+      "actor": "One man sits comfortably at a picnic; only one person.",
+      "props": [
+        "one pair of plain blue jeans worn by the man",
+        "one simple picnic blanket",
+        "one woven food basket"
+      ],
+      "beats": [
+        "He chooses comfortable jeans.",
+        "He settles onto the picnic blanket.",
+        "His relaxed outfit suits the casual picnic."
+      ],
+      "ending": "The man relaxes at the picnic in casual jeans."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Jeans are common casual clothing for a relaxed picnic.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "orient",
+    "anchor": "compass",
+    "anchorMeaning": "指南针",
+    "relation": "A compass helps a traveler orient herself on a trail.",
+    "sentence": "She used a compass to orient herself on the mountain trail.（她用指南针确定自己在山路上的方向。）",
+    "artDirection": "Compass has no letters, numbers, degree marks, text, or logo; one person only.",
+    "scene": {
+      "setting": "A quiet mountain trail at a fork.",
+      "actor": "One hiker checks a plain compass to choose the correct direction; only one person.",
+      "props": [
+        "one unmarked compass with a simple needle",
+        "one forked mountain trail",
+        "one small backpack"
+      ],
+      "beats": [
+        "The hiker pauses at the trail fork.",
+        "She checks the compass needle.",
+        "She orients herself and chooses the path."
+      ],
+      "ending": "The hiker faces the trail in the direction shown by the compass."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A compass helps a traveler orient herself on a trail.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "prosperity",
+    "anchor": "harvest",
+    "anchorMeaning": "收成",
+    "relation": "A rich harvest can bring prosperity to a village.",
+    "sentence": "A rich harvest brought prosperity to the small village.（丰收给小村庄带来了繁荣。）",
+    "artDirection": "Exactly two people; no price tags, signs, money, text, or logos.",
+    "scene": {
+      "setting": "A peaceful village at harvest time.",
+      "actor": "Exactly two farmers carry produce from the field; exactly two people.",
+      "props": [
+        "one basket overflowing with fresh produce",
+        "one small field with ripe crops",
+        "one simple village cottage"
+      ],
+      "beats": [
+        "The farmers gather a rich harvest.",
+        "They bring the full basket toward the village.",
+        "The abundance brings prosperity to the community."
+      ],
+      "ending": "Two farmers return with a plentiful harvest to their village."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A rich harvest can bring prosperity to a village.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "diminish",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "A candle flame can diminish as the candle burns down.",
+    "sentence": "The candle flame began to diminish as the wax melted.（蜡烛燃烧、蜡油融化时，火焰开始变小。）",
+    "artDirection": "No writing, decorative letters, labels, or extra candles; gentle safe scene.",
+    "scene": {
+      "setting": "A quiet room at twilight.",
+      "actor": "No people; one candle burns with a small diminishing flame.",
+      "props": [
+        "one plain candle with a short wick",
+        "one simple candle holder",
+        "one small pool of melted wax"
+      ],
+      "beats": [
+        "The candle burns steadily.",
+        "Its wax melts and the flame becomes smaller.",
+        "The light begins to diminish."
+      ],
+      "ending": "A tiny flame remains above the melted candle."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A candle flame can diminish as the candle burns down.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "imitate",
+    "anchor": "flute",
+    "anchorMeaning": "长笛",
+    "relation": "A parrot can imitate a tune it hears played on a flute.",
+    "sentence": "The parrot tried to imitate the tune played on a flute.（鹦鹉试着模仿长笛演奏的曲调。）",
+    "artDirection": "One parrot with natural anatomy; no music notation, text, logos, or extra animals.",
+    "scene": {
+      "setting": "A bright music room with a simple perch.",
+      "actor": "One musician plays one flute while one parrot listens and copies the tune; exactly two living subjects.",
+      "props": [
+        "one plain silver flute",
+        "one small green parrot",
+        "one simple wooden perch"
+      ],
+      "beats": [
+        "The musician plays a short flute melody.",
+        "The parrot listens closely.",
+        "The parrot tries to imitate the tune."
+      ],
+      "ending": "The parrot turns toward the flute as it imitates the melody."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A parrot can imitate a tune it hears played on a flute.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "distribute",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "Seeds can be distributed from one basket into several pots.",
+    "sentence": "She will distribute seeds from one basket into three flowerpots.",
+    "artDirection": "Exactly one basket and three pots; no extra pots, labels, writing, or logos.",
+    "scene": {
+      "setting": "A sunny gardening table outdoors.",
+      "actor": "One gardener divides seeds among exactly three flowerpots; only one person.",
+      "props": [
+        "one small basket of plain seeds",
+        "exactly three empty flowerpots",
+        "one simple garden table"
+      ],
+      "beats": [
+        "She takes seeds from the basket.",
+        "She places them into the three pots.",
+        "The seeds are distributed among the pots."
+      ],
+      "ending": "One basket and exactly three flowerpots show the seeds divided evenly."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Seeds can be distributed from one basket into several pots.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  }
+]

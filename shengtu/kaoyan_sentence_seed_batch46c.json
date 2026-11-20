@@ -1,0 +1,942 @@
+[
+  {
+    "id": "kyc-1941",
+    "serial": 4533,
+    "frequency": 6,
+    "word": "commonwealth",
+    "targetSense": "联邦",
+    "alt": "",
+    "anchor": "states",
+    "anchorMeaning": "州",
+    "relation": "联邦把几个相邻州团结在共同治理之下。",
+    "sentence": "The commonwealth brought several neighboring states together.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain civic hall",
+      "actor": "Two delegates stand together before one simple government hall.",
+      "props": [
+        "two delegates",
+        "one civic hall",
+        "one globe"
+      ],
+      "beats": [
+        "The delegates meet",
+        "They agree to cooperate",
+        "The commonwealth unites their states"
+      ],
+      "ending": "A commonwealth brings neighboring states together."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two delegates meeting before a simple civic hall and globe. No flags, emblems, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1942",
+    "serial": 4534,
+    "frequency": 6,
+    "word": "congratulate",
+    "targetSense": "庆祝、祝贺",
+    "alt": "",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "比赛后，我们会向获胜者表示祝贺。",
+    "sentence": "We will congratulate the winner after the race.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy race finish",
+      "actor": "Two friends celebrate one winner at a grassy race finish; the winner wears a plain blank jersey with no marks or numbers.",
+      "props": [
+        "two friends",
+        "one winner",
+        "one grassy race finish"
+      ],
+      "beats": [
+        "The race ends",
+        "The winner crosses the finish",
+        "The friends congratulate the winner"
+      ],
+      "ending": "Friends congratulate a winner in a completely unmarked jersey after a race."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two friends congratulate one winner just past a grassy race finish. The winner wears a completely blank plain jersey with no numbers, letters, logos, badges, or flags; no signs or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1943",
+    "serial": 4535,
+    "frequency": 6,
+    "word": "cricket",
+    "targetSense": "板球、蟋蟀",
+    "alt": "",
+    "anchor": "field",
+    "anchorMeaning": "田野",
+    "relation": "孩子们在绿地上打板球。",
+    "sentence": "The children played cricket on the green field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny green field",
+      "actor": "Two children play cricket with one bat and simple wickets.",
+      "props": [
+        "two children",
+        "one cricket bat",
+        "wickets"
+      ],
+      "beats": [
+        "One child bowls the ball",
+        "The other swings the bat",
+        "They play cricket together"
+      ],
+      "ending": "Two children play cricket on a green field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two children playing cricket with one plain bat and wickets. No numbers, logos, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1944",
+    "serial": 4536,
+    "frequency": 6,
+    "word": "diversion",
+    "targetSense": "转移",
+    "alt": "",
+    "anchor": "trail",
+    "anchorMeaning": "小径",
+    "relation": "洪水挡住原路，徒步者只得绕道穿过树林。",
+    "sentence": "The flooded trail forced a diversion through the woods.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A wooded hiking trail after rain",
+      "actor": "One hiker takes a natural side path around a flooded trail.",
+      "props": [
+        "one hiker",
+        "flooded trail",
+        "wooded side path"
+      ],
+      "beats": [
+        "The hiker reaches floodwater",
+        "The main trail is blocked",
+        "A side path provides a diversion"
+      ],
+      "ending": "A flooded trail leads to a diversion through the woods."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One hiker following a natural side path around a flooded trail. No arrows, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1945",
+    "serial": 4538,
+    "frequency": 6,
+    "word": "elbow",
+    "targetSense": "手肘",
+    "alt": "",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "她的手肘碰到了桌沿。",
+    "sentence": "She bumped her elbow against the table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple kitchen table",
+      "actor": "One woman lightly bumps her elbow against the table edge.",
+      "props": [
+        "one woman",
+        "one elbow",
+        "one table"
+      ],
+      "beats": [
+        "She reaches across the table",
+        "Her elbow bumps the edge",
+        "She rubs it briefly"
+      ],
+      "ending": "One woman bumps her elbow on a table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One woman rubbing her elbow beside a plain table. No injury detail or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1946",
+    "serial": 4539,
+    "frequency": 6,
+    "word": "equity",
+    "targetSense": "公平、权益",
+    "alt": "",
+    "anchor": "partners",
+    "anchorMeaning": "伙伴",
+    "relation": "公平原则让两位伙伴得到相等的一份。",
+    "sentence": "Equity ensured the partners received equal shares.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden bench",
+      "actor": "Two partners divide a small pile of fruit equally between them.",
+      "props": [
+        "two partners",
+        "fruit",
+        "one plain bench"
+      ],
+      "beats": [
+        "The partners gather the fruit",
+        "They split it evenly",
+        "Equity gives them equal shares"
+      ],
+      "ending": "Equity ensures equal shares for two partners."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two people dividing fruit into equal portions. No scales, symbols, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1947",
+    "serial": 4540,
+    "frequency": 6,
+    "word": "guild",
+    "targetSense": "协会",
+    "alt": "",
+    "anchor": "blacksmith",
+    "anchorMeaning": "铁匠",
+    "relation": "铁匠加入了当地工匠协会 guild。",
+    "sentence": "The blacksmith joined a guild of local craftspeople.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small workshop",
+      "actor": "Two blacksmiths greet each other beside their workbench as guild members.",
+      "props": [
+        "two blacksmiths",
+        "one workbench",
+        "plain tools"
+      ],
+      "beats": [
+        "The blacksmith finishes a tool",
+        "A fellow craftsperson arrives",
+        "They welcome one another into the guild"
+      ],
+      "ending": "Two blacksmiths meet as members of a guild."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two craftspeople in a simple workshop welcoming one another. No badges, emblems, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1948",
+    "serial": 4541,
+    "frequency": 6,
+    "word": "instrumental",
+    "targetSense": "仪器的；有帮助的",
+    "alt": "",
+    "anchor": "puzzle",
+    "anchorMeaning": "谜题",
+    "relation": "她的建议对解决谜题起到了关键帮助。",
+    "sentence": "Her advice was instrumental in solving the puzzle.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study table",
+      "actor": "One woman offers helpful advice as one friend solves a plain jigsaw puzzle.",
+      "props": [
+        "one woman",
+        "one friend",
+        "one blank jigsaw puzzle"
+      ],
+      "beats": [
+        "The friend studies the puzzle",
+        "The woman points to a useful piece",
+        "Her advice helps solve it"
+      ],
+      "ending": "Her advice is instrumental in solving the puzzle."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two friends working together on a plain picture puzzle, no writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1949",
+    "serial": 4543,
+    "frequency": 6,
+    "word": "latitude",
+    "targetSense": "纬度",
+    "alt": "",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "relation": "地球仪用没有标注的平行线显示纬度。",
+    "sentence": "The globe showed latitude with unmarked parallel lines.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom desk",
+      "actor": "One unmarked globe displays several plain parallel latitude lines.",
+      "props": [
+        "one unmarked globe",
+        "parallel lines",
+        "one desk"
+      ],
+      "beats": [
+        "The globe is turned",
+        "Parallel lines circle it",
+        "Latitude is shown without labels"
+      ],
+      "ending": "An unmarked globe shows latitude with parallel lines."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One simple globe with faint unmarked parallel latitude lines. No letters, numbers, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1950",
+    "serial": 4544,
+    "frequency": 6,
+    "word": "liquor",
+    "targetSense": "酒",
+    "alt": "",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃杯",
+    "relation": "酒保把烈酒倒进一个空白玻璃杯里。",
+    "sentence": "The bartender poured liquor into a plain glass.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bar counter",
+      "actor": "One clearly adult bartender with a mature face pours liquor from one unlabeled bottle into one plain glass; no children are present.",
+      "props": [
+        "one adult bartender",
+        "one unlabeled bottle",
+        "one plain glass"
+      ],
+      "beats": [
+        "The adult bartender lifts the bottle",
+        "Liquor pours into the plain glass",
+        "The glass rests on the counter"
+      ],
+      "ending": "One adult bartender pours liquor into a plain glass at the counter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "A clearly adult bartender, mature man in his thirties, pours liquor from a plain unlabeled bottle into one plain glass at a quiet bar counter. Adult-only scene; no children or minors. No labels, logos, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1951",
+    "serial": 4545,
+    "frequency": 6,
+    "word": "manuscript",
+    "targetSense": "手稿",
+    "alt": "",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "作者在印书前仔细检查手稿。",
+    "sentence": "The author reviewed a manuscript before printing the book.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm writing desk",
+      "actor": "One author reviews blank manuscript pages beside a closed book.",
+      "props": [
+        "one author",
+        "blank manuscript pages",
+        "one book"
+      ],
+      "beats": [
+        "The author opens the pages",
+        "The manuscript is reviewed",
+        "The book is prepared for printing"
+      ],
+      "ending": "An author reviews a manuscript before printing a book."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One author checking completely blank manuscript pages beside a plain book. No handwriting or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1952",
+    "serial": 4546,
+    "frequency": 6,
+    "word": "plough",
+    "targetSense": "犁",
+    "alt": "plow",
+    "anchor": "field",
+    "anchorMeaning": "田地",
+    "relation": "农夫牵引犁具在田里翻土。",
+    "sentence": "The farmer guided a plough through the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad farm field",
+      "actor": "One farmer guides a simple plough through soil.",
+      "props": [
+        "one farmer",
+        "one plough",
+        "one field"
+      ],
+      "beats": [
+        "The farmer sets the plough in the soil",
+        "He guides it forward",
+        "The field is turned"
+      ],
+      "ending": "One farmer guides a plough through a field."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One farmer using a simple plough to turn a field. No labels or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1953",
+    "serial": 4549,
+    "frequency": 6,
+    "word": "torture",
+    "targetSense": "拷问",
+    "alt": "",
+    "anchor": "wait",
+    "anchorMeaning": "等待",
+    "relation": "焦躁的孩子觉得漫长等待简直像折磨。",
+    "sentence": "The long wait felt like torture to the restless child.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet station waiting area",
+      "actor": "One restless child sits waiting beside an unnumbered wall clock.",
+      "props": [
+        "one child",
+        "one waiting bench",
+        "one unnumbered clock"
+      ],
+      "beats": [
+        "The child waits quietly",
+        "Time passes slowly",
+        "The long wait feels like torture"
+      ],
+      "ending": "A long wait feels like torture to one restless child."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One restless child waiting on a bench beneath a plain unnumbered clock. No distress, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1954",
+    "serial": 4550,
+    "frequency": 6,
+    "word": "workout",
+    "targetSense": "锻炼",
+    "alt": "",
+    "anchor": "gym",
+    "anchorMeaning": "健身房",
+    "relation": "她在健身房完成一场轻快的锻炼。",
+    "sentence": "She completed a brisk workout at the gym.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright simple gym",
+      "actor": "One woman completes a brisk workout with a pair of plain weights.",
+      "props": [
+        "one woman",
+        "plain weights",
+        "one gym mat"
+      ],
+      "beats": [
+        "She warms up",
+        "She exercises with the weights",
+        "She completes the workout"
+      ],
+      "ending": "One woman completes a brisk workout at the gym."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One woman exercising with plain unmarked weights in a clean gym. No logos, numbers, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1955",
+    "serial": 4551,
+    "frequency": 6,
+    "word": "advent",
+    "targetSense": "出现",
+    "alt": "",
+    "anchor": "spring",
+    "anchorMeaning": "春天",
+    "relation": "春天到来，花园里的花朵开始绽放。",
+    "sentence": "The advent of spring brought blossoms to the garden.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden in early spring",
+      "actor": "New blossoms appear across one small garden as spring arrives.",
+      "props": [
+        "spring blossoms",
+        "one garden",
+        "fresh green leaves"
+      ],
+      "beats": [
+        "The garden rests after winter",
+        "Spring arrives",
+        "Blossoms open"
+      ],
+      "ending": "The advent of spring brings blossoms to the garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "A small garden beginning to bloom in spring. No signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1956",
+    "serial": 4552,
+    "frequency": 6,
+    "word": "audit",
+    "targetSense": "审计",
+    "alt": "",
+    "anchor": "shop",
+    "anchorMeaning": "商店",
+    "relation": "会计师本周将审计商店账目。",
+    "sentence": "The accountant will audit the shop’s books this week.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small shop counter",
+      "actor": "One adult accountant reviews completely blank ledger pages at a plain counter with no signs or labels.",
+      "props": [
+        "one adult accountant",
+        "blank ledger books",
+        "one plain shop counter"
+      ],
+      "beats": [
+        "The accountant opens a blank ledger",
+        "The accountant reviews the blank pages",
+        "The accountant audits the shop books"
+      ],
+      "ending": "An adult accountant audits blank shop ledgers at an unmarked counter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "A clearly adult accountant reviews blank ledger pages at a simple shop counter. The pages and shelves are blank and unmarked. No signboards, writing, numbers, letters, labels, logos, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1957",
+    "serial": 4553,
+    "frequency": 6,
+    "word": "blaze",
+    "targetSense": "火焰、燃烧",
+    "alt": "",
+    "anchor": "campers",
+    "anchorMeaning": "露营者",
+    "relation": "日落后，营地里受控制的火焰为露营者取暖。",
+    "sentence": "A contained blaze warmed the campers after sunset.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A safe campsite at dusk",
+      "actor": "Two campers sit at a safe stone fire ring warmed by a contained blaze.",
+      "props": [
+        "two campers",
+        "one contained campfire",
+        "one campsite"
+      ],
+      "beats": [
+        "The sun sets",
+        "The fire glows within its stone ring",
+        "The campers warm themselves"
+      ],
+      "ending": "A contained blaze warms two campers after sunset."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Exactly two campers near one small contained fire ring. No danger, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1958",
+    "serial": 4554,
+    "frequency": 6,
+    "word": "brutal",
+    "targetSense": "野蛮的",
+    "alt": "",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "猛烈暴风雨把老树的树枝刮断。",
+    "sentence": "A brutal storm tore branches from the old tree.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A windy field beneath a dark sky",
+      "actor": "A brutal storm bends one old tree and tears away loose branches.",
+      "props": [
+        "one old tree",
+        "broken branches",
+        "storm clouds"
+      ],
+      "beats": [
+        "The wind grows stronger",
+        "Branches break from the tree",
+        "The storm rages across the field"
+      ],
+      "ending": "A brutal storm tears branches from an old tree."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One old tree in a strong storm with loose branches falling. No people, injuries, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1959",
+    "serial": 4555,
+    "frequency": 6,
+    "word": "bug",
+    "targetSense": "臭虫、窃听器",
+    "alt": "",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "一只小虫爬过窗台，表现 bug。",
+    "sentence": "A bug crawled across the windowsill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunlit room window",
+      "actor": "One small bug crawls along one windowsill.",
+      "props": [
+        "one small bug",
+        "one windowsill",
+        "sunlit window"
+      ],
+      "beats": [
+        "The bug appears on the sill",
+        "It crawls across the surface",
+        "It reaches the window frame"
+      ],
+      "ending": "One bug crawls across a windowsill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One small insect crawling along a plain windowsill. No writing or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1960",
+    "serial": 4556,
+    "frequency": 6,
+    "word": "bull",
+    "targetSense": "公牛",
+    "alt": "",
+    "anchor": "meadow",
+    "anchorMeaning": "草地",
+    "relation": "公牛平静地站在草地上。",
+    "sentence": "The bull stood calmly in the meadow.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet green meadow",
+      "actor": "One sturdy bull stands calmly in the middle of one meadow.",
+      "props": [
+        "one bull",
+        "green grass",
+        "open meadow"
+      ],
+      "beats": [
+        "The bull enters the grass",
+        "It stops to graze",
+        "It stands calmly"
+      ],
+      "ending": "One bull stands calmly in a meadow."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "pending",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "One calm bull standing in an open green meadow. No extra cattle, symbols, or text.",
+    "imageError": null
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word": "historian",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "A historian studies maps to understand how places changed in the past.",
+    "sentence": "The historian studied an old map to trace how the town had changed.（历史学家研究一张旧地图，追寻小镇的变迁。）",
+    "artDirection": "Keep map completely free of letters, labels, numbers, or readable writing; one person only.",
+    "scene": {
+      "setting": "A quiet study with a small wooden desk.",
+      "actor": "One adult historian leans over and studies an old map; only one person.",
+      "props": [
+        "one large old map with simple unlabeled river and hill shapes",
+        "one small wooden desk",
+        "one plain magnifying glass"
+      ],
+      "beats": [
+        "The historian unfolds the old map on the desk.",
+        "They trace the town's former river route with a finger.",
+        "The map helps the historian study the town's past."
+      ],
+      "ending": "The historian carefully examines the old map to learn how the town changed."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A historian studies maps to understand how places changed in the past.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "supreme",
+    "anchor": "throne",
+    "anchorMeaning": "王座",
+    "relation": "A supreme ruler holds the highest authority and sits on a throne.",
+    "sentence": "The supreme ruler sat on a tall throne at the front of the hall.",
+    "artDirection": "No crowns with writing, emblems, flags, signs, or other people; keep the throne and dais unmarked.",
+    "scene": {
+      "setting": "A simple grand hall with a raised platform.",
+      "actor": "One adult ruler sits calmly on the tallest throne; only one person.",
+      "props": [
+        "one tall plain throne",
+        "one low raised dais",
+        "one simple open hall"
+      ],
+      "beats": [
+        "The ruler approaches the raised platform.",
+        "The ruler sits on the tall throne.",
+        "The throne's high position shows the ruler's supreme rank."
+      ],
+      "ending": "One ruler sits alone on the highest throne in the hall."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A supreme ruler holds the highest authority and sits on a throne.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "compensate",
+    "anchor": "cup",
+    "anchorMeaning": "杯子",
+    "relation": "Giving a replacement cup can compensate someone for a broken cup.",
+    "sentence": "The shop gave her a new cup to compensate for the broken one.（商店用一个新杯子补偿了她打碎的那个。）",
+    "artDirection": "Exactly two cups and two adults; no extra cups, price tags, labels, writing, or logos.",
+    "scene": {
+      "setting": "A small pottery shop counter.",
+      "actor": "Exactly two adults: one shopkeeper offers a replacement cup to one customer.",
+      "props": [
+        "one broken plain cup",
+        "one intact plain replacement cup",
+        "one simple shop counter"
+      ],
+      "beats": [
+        "The customer shows the broken cup on the counter.",
+        "The shopkeeper offers one intact replacement cup.",
+        "The new cup compensates the customer for the broken one."
+      ],
+      "ending": "The shopkeeper hands the customer a new cup beside the single broken cup."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Giving a replacement cup can compensate someone for a broken cup.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "intention",
+    "anchor": "gift",
+    "anchorMeaning": "礼物",
+    "relation": "Carrying a gift with a plan to place it somewhere reveals an intention.",
+    "sentence": "She carried a wrapped gift with the intention of leaving it on the table.（她拿着一份礼物，打算把它留在桌上。）",
+    "artDirection": "No note or gift tag with writing; keep one person and one gift.",
+    "scene": {
+      "setting": "A warm, simple room beside a plain table.",
+      "actor": "One woman approaches a table while holding one wrapped gift; only one person.",
+      "props": [
+        "one small wrapped gift with a plain ribbon",
+        "one simple wooden table",
+        "one plain chair"
+      ],
+      "beats": [
+        "She picks up the wrapped gift.",
+        "She walks toward the empty table with a clear purpose.",
+        "She prepares to leave the gift on the table."
+      ],
+      "ending": "She stands beside the table, ready to place the gift there."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Carrying a gift with a plan to place it somewhere reveals an intention.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "resist",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "Holding an umbrella firmly can help someone resist the force of the wind.",
+    "sentence": "He held his umbrella firmly to resist the wind.（他紧握雨伞，抵挡迎面吹来的风。）",
+    "artDirection": "No text or logos on umbrella; show a safe, gentle gust and natural hands.",
+    "scene": {
+      "setting": "A windy path under a cloudy sky.",
+      "actor": "One adult braces against a gust while gripping one umbrella; only one person.",
+      "props": [
+        "one open plain umbrella bending slightly in the wind",
+        "one clear footpath",
+        "a few windblown leaves"
+      ],
+      "beats": [
+        "A gust pushes against the open umbrella.",
+        "He grips the handle and leans into the wind.",
+        "The umbrella helps him resist the gust."
+      ],
+      "ending": "He holds the umbrella firmly as the gust passes."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Holding an umbrella firmly can help someone resist the force of the wind.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "artistic",
+    "anchor": "brush",
+    "anchorMeaning": "画笔",
+    "relation": "An artistic person uses a brush to create a picture.",
+    "sentence": "The artistic child painted a bird with her favorite brush.（这个有艺术天赋的孩子用她最喜欢的画笔画了一只鸟。）",
+    "artDirection": "Bare blank studio walls with no framed art, murals, posters, or bird imagery except the single canvas. The canvas shows exactly one simple bird; no words, letters, numbers, signatures, or logos.",
+    "scene": {
+      "setting": "A bright art corner with plain empty walls and a clear tabletop.",
+      "actor": "One child paints one bird on one canvas; only one person and one bird image in the entire scene.",
+      "props": [
+        "one plain paintbrush",
+        "one blank canvas with a simple bird painting",
+        "one small unmarked paint palette"
+      ],
+      "beats": [
+        "The child dips the brush into paint.",
+        "She paints one bird on the canvas.",
+        "The finished single-bird picture shows her artistic skill."
+      ],
+      "ending": "The child smiles beside the one bird she painted on the only canvas."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An artistic person uses a brush to create a picture.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "marine",
+    "anchor": "sea",
+    "anchorMeaning": "海",
+    "relation": "Marine life and marine scientists are connected with the sea.",
+    "sentence": "The marine biologist studied a crab beside the sea.（这位海洋生物学家在海边研究一只螃蟹。）",
+    "artDirection": "One crab with natural anatomy; no specimen labels, signs, text, or extra people.",
+    "scene": {
+      "setting": "A calm rocky seashore in daylight.",
+      "actor": "One marine biologist crouches beside one crab at the water's edge; only one person.",
+      "props": [
+        "one small crab",
+        "one stretch of blue sea",
+        "one smooth shoreline rock"
+      ],
+      "beats": [
+        "The biologist kneels beside the shore.",
+        "They observe the crab near the sea.",
+        "The sea setting makes the marine subject clear."
+      ],
+      "ending": "The biologist studies the single crab beside the open sea."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Marine life and marine scientists are connected with the sea.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "sensible",
+    "anchor": "boots",
+    "anchorMeaning": "靴子",
+    "relation": "Sensible boots are a practical choice for a muddy trail.",
+    "sentence": "She wore sensible boots for the muddy trail.（她穿上实用的靴子，走上泥泞的小路。）",
+    "artDirection": "Show one pair of boots clearly and naturally; no labels or logos.",
+    "scene": {
+      "setting": "A muddy woodland trail after rain.",
+      "actor": "One hiker walks carefully along the trail in sturdy boots; only one person.",
+      "props": [
+        "one pair of plain sturdy boots",
+        "one muddy trail",
+        "one simple walking stick"
+      ],
+      "beats": [
+        "She reaches the muddy path.",
+        "She steps carefully in her sturdy boots.",
+        "The practical footwear keeps the walk sensible and safe."
+      ],
+      "ending": "The hiker crosses the muddy trail in sensible boots."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Sensible boots are a practical choice for a muddy trail.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "legislation",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Legislation is passed to set rules, such as protecting an old bridge.",
+    "sentence": "The council passed legislation to protect the old bridge.（市议会通过立法，保护那座古老的桥。）",
+    "artDirection": "Exactly two adults; all paper remains completely blank with no writing, seals, signs, or logos.",
+    "scene": {
+      "setting": "A small council room with a view of an old stone bridge.",
+      "actor": "Exactly two council members agree to protect the bridge; exactly two people.",
+      "props": [
+        "one old stone bridge visible outside",
+        "one blank sheet of paper",
+        "one simple meeting table"
+      ],
+      "beats": [
+        "The council members review a blank proposal sheet.",
+        "They agree to protect the old bridge.",
+        "Their decision becomes legislation for the town."
+      ],
+      "ending": "Two council members approve a blank proposal while the bridge stands beyond the window."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Legislation is passed to set rules, such as protecting an old bridge.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "controversy",
+    "anchor": "statue",
+    "anchorMeaning": "雕像",
+    "relation": "A new statue can spark controversy when neighbors disagree about it.",
+    "sentence": "The new statue sparked controversy among the neighbors.（那座新雕像在邻里之间引发了争议。）",
+    "artDirection": "No speech bubbles, signs, plaques, writing, or aggressive gestures; two people only.",
+    "scene": {
+      "setting": "A small town square with a newly installed statue.",
+      "actor": "Exactly two neighbors express different opinions beside the statue; exactly two people.",
+      "props": [
+        "one plain stone statue",
+        "one square stone pedestal",
+        "one small patch of paving"
+      ],
+      "beats": [
+        "The neighbors notice the new statue.",
+        "They gesture as they disagree about it.",
+        "Their disagreement becomes a controversy."
+      ],
+      "ending": "Two neighbors debate beside the single statue."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A new statue can spark controversy when neighbors disagree about it.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "venture",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "relation": "Carrying a lantern helps an explorer venture into a dark cave.",
+    "sentence": "The explorer will venture into the cave with a lantern.",
+    "artDirection": "Keep the cave calm and safe; no danger, text, labels, or extra people.",
+    "scene": {
+      "setting": "The safe entrance of a quiet cave at dusk.",
+      "actor": "One explorer steps carefully into the cave with one lantern; only one person.",
+      "props": [
+        "one glowing plain lantern",
+        "one wide cave entrance",
+        "one simple backpack"
+      ],
+      "beats": [
+        "The explorer pauses at the cave entrance.",
+        "They lift the lantern and step inside.",
+        "They venture forward into the cave."
+      ],
+      "ending": "The explorer ventures into the cave with the lantern held high."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Carrying a lantern helps an explorer venture into a dark cave.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "modest",
+    "anchor": "trophy",
+    "anchorMeaning": "奖杯",
+    "relation": "A modest champion gives credit to others instead of boasting about a trophy.",
+    "sentence": "The modest champion thanked her coach while holding the trophy.（谦逊的冠军一边感谢教练，一边举起奖杯。）",
+    "artDirection": "Exactly two adult women, both around age 30 and of similar height with adult body proportions. No child, teenager, spectators, or extra people. Both wear plain full-length trousers and simple adult sports jackets, no shorts or school-style clothes. The champion holds one trophy and gives a clear grateful hand-over-heart gesture to her adult coach. No text or logos.",
+    "scene": {
+      "setting": "An empty sports field after a small match, with a plain quiet background.",
+      "actor": "Exactly two adult women in their thirties, standing shoulder-to-shoulder at similar adult height: the champion holds one trophy and modestly thanks her adult female coach with one hand over her heart. Both wear full-length trousers; neither is a child or teenager.",
+      "props": [
+        "one plain unmarked trophy",
+        "one simple sports bench",
+        "one plain ball"
+      ],
+      "beats": [
+        "The adult champion stands holding the trophy after the match.",
+        "She turns to her adult coach and places a hand over her heart in thanks.",
+        "Her quiet gratitude rather than boasting shows modesty."
+      ],
+      "ending": "Two similarly tall adult women stand together as the champion modestly thanks her coach while holding the trophy."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A modest champion gives credit to others instead of boasting about a trophy.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "extensive",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "An extensive map covers a wide area.",
+    "sentence": "The surveyor unfolded an extensive map across the table.（测绘员把一幅范围很广的地图铺在桌上。）",
+    "artDirection": "No place names, labels, letters, numbers, or markings on map or compass.",
+    "scene": {
+      "setting": "A simple survey tent with a large table.",
+      "actor": "One surveyor spreads out a very large map; only one person.",
+      "props": [
+        "one large map showing broad unlabeled land shapes",
+        "one wide plain table",
+        "one unmarked compass"
+      ],
+      "beats": [
+        "The surveyor places the folded map on the table.",
+        "They unfold it until it covers most of the surface.",
+        "The map's wide reach makes its extensive area clear."
+      ],
+      "ending": "One broad map lies fully open across the survey table."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An extensive map covers a wide area.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "assistance",
+    "anchor": "hand",
+    "anchorMeaning": "手；援手",
+    "relation": "Offering a helping hand is a clear form of assistance.",
+    "sentence": "A neighbor offered assistance by giving the hiker a helping hand.（一位邻居伸出援手，帮助那名徒步者。）",
+    "artDirection": "Exactly two people with natural hands and limbs; no danger or text.",
+    "scene": {
+      "setting": "A gentle hillside trail.",
+      "actor": "Exactly two adults: one neighbor helps one hiker step over a small rise.",
+      "props": [
+        "one simple walking stick",
+        "one small hiking backpack",
+        "one low rocky trail step"
+      ],
+      "beats": [
+        "The hiker pauses at the rocky step.",
+        "The neighbor offers a steady hand.",
+        "The hiker accepts assistance and steps up."
+      ],
+      "ending": "The neighbor's helping hand assists the hiker over the trail step."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "Offering a helping hand is a clear form of assistance.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "exciting",
+    "anchor": "ride",
+    "anchorMeaning": "乘坐；游乐设施",
+    "relation": "An exciting ride makes a child feel eager and happy.",
+    "sentence": "The exciting roller-coaster ride made the child laugh.（刺激的过山车之旅让孩子笑了起来。）",
+    "artDirection": "One child only; no other riders, text, signs, logos, or exaggerated danger.",
+    "scene": {
+      "setting": "A cheerful amusement park with one small roller coaster.",
+      "actor": "One child rides alone in the front car and laughs; only one person.",
+      "props": [
+        "one roller-coaster car carrying one child",
+        "one curved roller-coaster track",
+        "one simple safety bar"
+      ],
+      "beats": [
+        "The car begins moving along the track.",
+        "It rounds a gentle curve.",
+        "The child laughs at the exciting ride."
+      ],
+      "ending": "One child smiles in the car as it rounds the roller-coaster curve."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "An exciting ride makes a child feel eager and happy.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "delight",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "A playful puppy can fill a child with delight.",
+    "sentence": "The puppy's playful jump filled the child with delight.（小狗欢快地一跳，让孩子高兴极了。）",
+    "artDirection": "One puppy with natural anatomy; exactly one child; no text or logos.",
+    "scene": {
+      "setting": "A sunny backyard lawn.",
+      "actor": "One child smiles as one puppy jumps playfully nearby; exactly one child and one puppy.",
+      "props": [
+        "one small playful puppy",
+        "one plain ball",
+        "one patch of green lawn"
+      ],
+      "beats": [
+        "The puppy spots the child on the lawn.",
+        "It makes one happy playful jump.",
+        "The child laughs with delight."
+      ],
+      "ending": "The child beams as the puppy jumps beside the ball."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A playful puppy can fill a child with delight.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "distant",
+    "anchor": "bay",
+    "anchorMeaning": "海湾",
+    "relation": "A lighthouse across a bay appears distant from the shore.",
+    "sentence": "The distant lighthouse shone across the bay at dusk.（黄昏时，远处的灯塔在海湾对岸发出光亮。）",
+    "artDirection": "No labels, buildings with signage, boats, letters, or text.",
+    "scene": {
+      "setting": "A quiet shore looking across a wide bay at dusk.",
+      "actor": "No people; a lighthouse glows far across the water.",
+      "props": [
+        "one small lighthouse on the far shore",
+        "one wide calm bay",
+        "one near rocky shoreline"
+      ],
+      "beats": [
+        "The viewer looks across the near shore.",
+        "The bay stretches toward the far coast.",
+        "The lighthouse shines from a distant point."
+      ],
+      "ending": "A small lighthouse glows across the broad bay, far from the foreground."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A lighthouse across a bay appears distant from the shore.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "feedback",
+    "anchor": "drawing",
+    "anchorMeaning": "画作",
+    "relation": "A teacher gives feedback by responding to a student's drawing.",
+    "sentence": "The teacher gave feedback on the child's drawing.（老师针对孩子的画作给出了反馈。）",
+    "artDirection": "Exactly two people; paper has only a simple picture with no letters, grades, marks, or writing.",
+    "scene": {
+      "setting": "A bright classroom art table.",
+      "actor": "Exactly two people: a teacher gives gentle feedback to one child about a drawing.",
+      "props": [
+        "one simple drawing of a tree on blank paper",
+        "one plain pencil",
+        "one small table"
+      ],
+      "beats": [
+        "The child places the drawing on the table.",
+        "The teacher points to one part and offers a suggestion.",
+        "The child listens to the feedback."
+      ],
+      "ending": "Teacher and child review the simple drawing together."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A teacher gives feedback by responding to a student's drawing.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "arouse",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "A strange key can arouse someone's curiosity.",
+    "sentence": "A strange key can arouse her curiosity.",
+    "artDirection": "No labels, letters, symbols, writing, or extra keys.",
+    "scene": {
+      "setting": "A quiet attic beside a small wooden chest.",
+      "actor": "One child discovers one unusual key and studies it curiously; only one person.",
+      "props": [
+        "one old plain key",
+        "one small wooden chest",
+        "one simple magnifying glass"
+      ],
+      "beats": [
+        "The child finds the key beside the chest.",
+        "She picks it up and examines its unusual shape.",
+        "The discovery arouses her curiosity."
+      ],
+      "ending": "The child looks closely at the strange key beside the chest."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A strange key can arouse someone's curiosity.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  },
+  {
+    "word": "defense",
+    "anchor": "shield",
+    "anchorMeaning": "盾牌",
+    "relation": "A shield provides defense for a person guarding a gate.",
+    "sentence": "The knight raised his shield in defense of the castle gate.（骑士举起盾牌，防守城堡大门。）",
+    "artDirection": "No battle, weapons, emblems, lettering, flags, or extra people.",
+    "scene": {
+      "setting": "A peaceful castle entrance with a closed wooden gate.",
+      "actor": "One knight stands guard and raises one shield; only one person.",
+      "props": [
+        "one plain round shield",
+        "one closed castle gate",
+        "one simple helmet"
+      ],
+      "beats": [
+        "The knight stands before the gate.",
+        "He raises the shield in front of himself.",
+        "The shield forms a defense for the entrance."
+      ],
+      "ending": "The knight holds the shield protectively before the closed gate."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "A shield provides defense for a person guarding a gate.",
+      "reviewNote": "Manually reviewed for fluent, readable English; the target and familiar anchor appear together in one concrete sentence."
+    }
+  }
+]

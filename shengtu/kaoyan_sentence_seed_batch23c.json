@@ -1,0 +1,662 @@
+[
+  {
+    "word": "dose",
+    "anchor": "spoon",
+    "anchorMeaning": "勺子",
+    "sentence": "She measured one dose of medicine with a small spoon.",
+    "relation": "The scene links dose with spoon: She measured one dose of medicine with a small spoon.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A bright kitchen table.",
+      "actor": "One adult measures a small amount of medicine into a spoon.",
+      "props": [
+        "one medicine bottle with no label",
+        "one plain spoon",
+        "one small glass of water"
+      ],
+      "beats": [
+        "She opens the plain bottle.",
+        "She carefully fills the spoon.",
+        "One measured dose rests in the spoon."
+      ],
+      "ending": "The woman measures one dose with a spoon."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links dose with spoon: She measured one dose of medicine with a small spoon.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "gross",
+    "anchor": "box",
+    "anchorMeaning": "箱子",
+    "sentence": "The gross weight included both the box and its contents.",
+    "relation": "The scene links gross with box: The gross weight included both the box and its contents.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple packing table in a storeroom.",
+      "actor": "One worker weighs a closed box together with everything inside it.",
+      "props": [
+        "one closed cardboard box",
+        "one simple balance scale",
+        "several packed objects"
+      ],
+      "beats": [
+        "The objects are placed inside the box.",
+        "The worker sets the whole box on the scale.",
+        "The gross weight includes box and contents."
+      ],
+      "ending": "The worker weighs the complete box and its contents."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links gross with box: The gross weight included both the box and its contents.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "laughter",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "sentence": "Laughter filled the room when the puppy chased its tail.",
+    "relation": "The scene links laughter with puppy: Laughter filled the room when the puppy chased its tail.",
+    "artDirection": "No text, letters, numbers, arrows, motion lines, pictograms, labels, signs, logos, or watermarks; show joy only through faces and posture.",
+    "scene": {
+      "setting": "A simple living room with a plain rug and blank walls.",
+      "actor": "Two adults laugh as one playful puppy spins in a circle after its own tail.",
+      "props": [
+        "one playful puppy",
+        "one plain rug",
+        "one simple armchair"
+      ],
+      "beats": [
+        "The puppy notices its tail.",
+        "It turns in a playful circle.",
+        "The adults laugh together at the puppy."
+      ],
+      "ending": "The puppy chases its tail while the adults laugh, with no drawn motion marks."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links laughter with puppy: Laughter filled the room when the puppy chased its tail.",
+      "reviewNote": "The sentence was manually checked for naturalness and readability before generation; the art direction was revised after visual review of the previous image."
+    }
+  },
+  {
+    "word": "discard",
+    "anchor": "bin",
+    "anchorMeaning": "垃圾箱",
+    "sentence": "He chose to discard the cracked cup in the bin.",
+    "relation": "The scene links discard with bin: He chose to discard the cracked cup in the bin.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A tidy kitchen beside a waste bin.",
+      "actor": "One adult drops one cracked cup into a plain discard bin.",
+      "props": [
+        "one cracked ceramic cup",
+        "one plain waste bin",
+        "one clean counter"
+      ],
+      "beats": [
+        "He notices the cup is cracked.",
+        "He carries it to the bin.",
+        "He chooses to discard the cup."
+      ],
+      "ending": "The cracked cup is discarded in the bin."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links discard with bin: He chose to discard the cracked cup in the bin.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "absolute",
+    "anchor": "bell",
+    "anchorMeaning": "钟",
+    "sentence": "Absolute silence followed the final bell.",
+    "relation": "The scene links absolute with bell: Absolute silence followed the final bell.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "An empty classroom just after lessons end.",
+      "actor": "No people; one school bell rests in a completely quiet classroom.",
+      "props": [
+        "one brass bell",
+        "one empty desk",
+        "one quiet classroom window"
+      ],
+      "beats": [
+        "The final bell has just stopped.",
+        "The classroom settles.",
+        "Absolute silence fills the room."
+      ],
+      "ending": "The bell stands in a silent empty classroom."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links absolute with bell: Absolute silence followed the final bell.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "classify",
+    "anchor": "books",
+    "anchorMeaning": "书",
+    "sentence": "The librarian used colored boxes to classify the books.",
+    "relation": "The scene links classify with books: The librarian used colored boxes to classify the books.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A calm library sorting table.",
+      "actor": "One librarian places plain books into separate colored boxes by subject.",
+      "props": [
+        "several unmarked books",
+        "three plain colored boxes",
+        "one wooden table"
+      ],
+      "beats": [
+        "The books are mixed together.",
+        "The librarian sorts them by kind.",
+        "Each group goes into a different box."
+      ],
+      "ending": "The librarian classifies books into colored boxes."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links classify with books: The librarian used colored boxes to classify the books.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "quest",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "sentence": "The child began a quest to find a hidden shell on the beach.",
+    "relation": "The scene links quest with shell: The child began a quest to find a hidden shell on the beach.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sunny beach at low tide.",
+      "actor": "One child searches the sand for one hidden shell.",
+      "props": [
+        "one small shell",
+        "one sand pail",
+        "one wide beach"
+      ],
+      "beats": [
+        "The child scans the shore.",
+        "A shell lies partly buried.",
+        "The child continues the quest to find it."
+      ],
+      "ending": "The child searches the beach for a hidden shell."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links quest with shell: The child began a quest to find a hidden shell on the beach.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "conceive",
+    "anchor": "river",
+    "anchorMeaning": "河",
+    "sentence": "The architect can conceive a bridge design by studying the river.",
+    "relation": "The scene links conceive with river: The architect can conceive a bridge design by studying the river.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet riverbank beside a wide stream.",
+      "actor": "One adult architect studies the river while holding a simple unmarked bridge model.",
+      "props": [
+        "one plain bridge model",
+        "one flowing river",
+        "one sketch pad with only a few blank lines"
+      ],
+      "beats": [
+        "The architect observes the river.",
+        "A new bridge idea takes shape.",
+        "The architect considers a design for the crossing."
+      ],
+      "ending": "The architect imagines a new bridge over the river."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links conceive with river: The architect can conceive a bridge design by studying the river.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "underestimate",
+    "anchor": "suitcase",
+    "anchorMeaning": "行李箱",
+    "sentence": "Never underestimate how heavy a wet suitcase can be.",
+    "relation": "The scene links underestimate with suitcase: Never underestimate how heavy a wet suitcase can be.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A rainy train platform with no signs.",
+      "actor": "One traveler struggles to lift a heavy wet suitcase, surprised by its weight.",
+      "props": [
+        "one wet suitcase",
+        "one train platform",
+        "one plain travel coat"
+      ],
+      "beats": [
+        "The traveler grips the handle.",
+        "He expects the suitcase to be light.",
+        "He strains as he lifts its unexpected weight."
+      ],
+      "ending": "The traveler underestimates the suitcase's weight."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links underestimate with suitcase: Never underestimate how heavy a wet suitcase can be.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "density",
+    "anchor": "crowd",
+    "anchorMeaning": "人群",
+    "sentence": "The density of the crowd made the narrow street hard to cross.",
+    "relation": "The scene links density with crowd: The density of the crowd made the narrow street hard to cross.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A narrow city street during a busy afternoon.",
+      "actor": "Many pedestrians stand closely packed together along the narrow street.",
+      "props": [
+        "a dense crowd",
+        "one narrow street",
+        "one row of simple shopfronts with no signs"
+      ],
+      "beats": [
+        "People fill the street.",
+        "They stand close together.",
+        "The crowd's density blocks easy passage."
+      ],
+      "ending": "A dense crowd fills the narrow street."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links density with crowd: The density of the crowd made the narrow street hard to cross.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "prescription",
+    "anchor": "doctor",
+    "anchorMeaning": "医生",
+    "sentence": "The doctor handed her a prescription after the checkup.",
+    "relation": "The scene links prescription with doctor: The doctor handed her a prescription after the checkup.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A simple clinic room with a desk.",
+      "actor": "Exactly two adults: one doctor gives one patient a completely blank prescription sheet.",
+      "props": [
+        "one blank sheet of paper",
+        "one plain desk",
+        "one simple chair"
+      ],
+      "beats": [
+        "The doctor finishes the checkup.",
+        "The doctor hands over the blank prescription.",
+        "The patient accepts it."
+      ],
+      "ending": "The doctor gives the patient a prescription."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links prescription with doctor: The doctor handed her a prescription after the checkup.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "leap",
+    "anchor": "log",
+    "anchorMeaning": "原木",
+    "sentence": "The deer made a leap over a fallen log.",
+    "relation": "The scene links leap with log: The deer made a leap over a fallen log.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A green forest clearing.",
+      "actor": "One deer leaps cleanly over one fallen log.",
+      "props": [
+        "one deer",
+        "one fallen log",
+        "one forest clearing"
+      ],
+      "beats": [
+        "The deer approaches the log.",
+        "It springs into the air.",
+        "It leaps over the log."
+      ],
+      "ending": "The deer leaps over the fallen log."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links leap with log: The deer made a leap over a fallen log.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "reproduce",
+    "anchor": "copier",
+    "anchorMeaning": "复印机",
+    "sentence": "The old copier can reproduce the flower drawing on plain paper.",
+    "relation": "The scene links reproduce with copier: The old copier can reproduce the flower drawing on plain paper.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A quiet office with a plain desk.",
+      "actor": "One old copier produces a second copy of a simple flower drawing with no words.",
+      "props": [
+        "one old copier",
+        "one simple flower drawing",
+        "one blank copy sheet"
+      ],
+      "beats": [
+        "The original flower picture is placed in the copier.",
+        "The machine makes a copy.",
+        "The same flower drawing appears on plain paper."
+      ],
+      "ending": "The copier reproduces the flower drawing."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links reproduce with copier: The old copier can reproduce the flower drawing on plain paper.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "revolutionary",
+    "anchor": "engine",
+    "anchorMeaning": "发动机",
+    "sentence": "The revolutionary engine changed how boats crossed the river.",
+    "relation": "The scene links revolutionary with engine: The revolutionary engine changed how boats crossed the river.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A river landing with a small motorboat and an older sailboat.",
+      "actor": "One adult boat builder presents a new compact engine beside a small motorboat.",
+      "props": [
+        "one compact boat engine",
+        "one small motorboat",
+        "one calm river"
+      ],
+      "beats": [
+        "The builder fits a new engine.",
+        "The motorboat moves across the water.",
+        "The new engine transforms river travel."
+      ],
+      "ending": "A new engine powers a boat across the river."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links revolutionary with engine: The revolutionary engine changed how boats crossed the river.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "essence",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "sentence": "A drop of vanilla essence gave the cake a sweet flavor.",
+    "relation": "The scene links essence with cake: A drop of vanilla essence gave the cake a sweet flavor.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A warm kitchen counter prepared for baking.",
+      "actor": "One baker adds a drop from an unmarked amber bottle to cake batter.",
+      "props": [
+        "one unmarked amber bottle of vanilla essence",
+        "one bowl of cake batter",
+        "one plain cake pan"
+      ],
+      "beats": [
+        "The baker prepares the batter.",
+        "A small drop of essence is added.",
+        "The cake gains a sweet vanilla flavor."
+      ],
+      "ending": "A drop of vanilla essence flavors the cake."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links essence with cake: A drop of vanilla essence gave the cake a sweet flavor.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "inhabitant",
+    "anchor": "island",
+    "anchorMeaning": "岛",
+    "sentence": "One inhabitant waved from a small island village.",
+    "relation": "The scene links inhabitant with island: One inhabitant waved from a small island village.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small green island with a few cottages by the shore.",
+      "actor": "One island resident waves from beside a cottage toward a boat offshore.",
+      "props": [
+        "one small island",
+        "one plain cottage",
+        "one distant boat"
+      ],
+      "beats": [
+        "The boat passes the shore.",
+        "A resident steps outside.",
+        "The island inhabitant waves hello."
+      ],
+      "ending": "An island inhabitant waves from the shore."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links inhabitant with island: One inhabitant waved from a small island village.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "momentum",
+    "anchor": "cart",
+    "anchorMeaning": "手推车",
+    "sentence": "The rolling cart gained momentum as it sped downhill.",
+    "relation": "The scene links momentum with cart: The rolling cart gained momentum as it sped downhill.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A sloping path on a farm.",
+      "actor": "One empty handcart rolls faster down the hill as one worker runs after it.",
+      "props": [
+        "one wheeled cart",
+        "one sloping path",
+        "one small farm gate"
+      ],
+      "beats": [
+        "The cart starts at the top.",
+        "It rolls down the slope.",
+        "It gains momentum as it speeds downhill."
+      ],
+      "ending": "The cart gathers momentum on the hill."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links momentum with cart: The rolling cart gained momentum as it sped downhill.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "misfortune",
+    "anchor": "plow",
+    "anchorMeaning": "犁",
+    "sentence": "The broken plow was a misfortune for the farmer just before planting.",
+    "relation": "The scene links misfortune with plow: The broken plow was a misfortune for the farmer just before planting.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A farm field at the start of planting season.",
+      "actor": "One farmer looks sadly at a plow with a snapped blade.",
+      "props": [
+        "one broken plow",
+        "one empty field",
+        "one small seed sack"
+      ],
+      "beats": [
+        "The farmer prepares the field.",
+        "The plow blade breaks.",
+        "The farmer faces misfortune before planting."
+      ],
+      "ending": "The broken plow brings misfortune before planting."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links misfortune with plow: The broken plow was a misfortune for the farmer just before planting.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "rob",
+    "anchor": "shop",
+    "anchorMeaning": "商店",
+    "sentence": "The thief tried to rob the shop after closing time.",
+    "relation": "The scene links rob with shop: The thief tried to rob the shop after closing time.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A small shop interior after closing, with a plain door and no sign.",
+      "actor": "One unarmed thief sneaks away with a small pouch from the empty shop counter.",
+      "props": [
+        "one plain shop counter",
+        "one small coin pouch",
+        "one closed shop door"
+      ],
+      "beats": [
+        "The shop is empty after closing.",
+        "The thief reaches for the pouch.",
+        "The thief tries to rob the shop and escape."
+      ],
+      "ending": "The thief attempts to rob the closed shop."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links rob with shop: The thief tried to rob the shop after closing time.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  },
+  {
+    "word": "surgeon",
+    "anchor": "heart",
+    "anchorMeaning": "心脏",
+    "sentence": "The surgeon studied a model heart before the operation.",
+    "relation": "The scene links surgeon with heart: The surgeon studied a model heart before the operation.",
+    "artDirection": "No text, letters, numbers, labels, signs, logos, or watermarks; keep the scene simple and clear.",
+    "scene": {
+      "setting": "A clean hospital preparation room.",
+      "actor": "One surgeon in simple scrubs examines a plain model of a human heart.",
+      "props": [
+        "one anatomical heart model",
+        "one clean instrument tray",
+        "one surgical gown"
+      ],
+      "beats": [
+        "The surgeon prepares for the operation.",
+        "They study the model.",
+        "The surgeon focuses on the heart."
+      ],
+      "ending": "The surgeon studies a model heart before operating."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reason": "The scene links surgeon with heart: The surgeon studied a model heart before the operation.",
+      "reviewNote": "Manually reviewed before image generation for natural, readable English and a clear target-to-anchor link."
+    }
+  }
+]

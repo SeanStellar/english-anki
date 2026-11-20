@@ -1,0 +1,762 @@
+[
+  {
+    "word": "sentiment",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "Sentiment is a feeling or attitude and a gentle response to a puppy can show a warm sentiment.",
+    "sentence": "Her warm sentiment toward the puppy showed in her gentle smile.",
+    "scene": {
+      "setting": "A sunny garden path",
+      "actor": "One woman smiles warmly while gently petting one puppy",
+      "props": [
+        "single puppy",
+        "plain garden fence",
+        "small flower pot"
+      ],
+      "beats": [
+        "The puppy approaches",
+        "The woman gently pets it",
+        "Her warm sentiment is clear in her smile"
+      ],
+      "ending": "One woman smiles as she pets the puppy"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Sentiment is a feeling or attitude and a gentle response to a puppy can show a warm sentiment. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One woman and one puppy with natural anatomy and no text."
+  },
+  {
+    "word": "loyal",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "A loyal dog stays devoted to its owner even during difficult weather.",
+    "sentence": "The loyal dog stayed beside its owner through the storm.",
+    "scene": {
+      "setting": "A rainy country path",
+      "actor": "One dog remains beside one owner as rain falls around them",
+      "props": [
+        "single dog",
+        "plain raincoat",
+        "small puddle"
+      ],
+      "beats": [
+        "The owner pauses in the storm",
+        "The dog stays close",
+        "Its loyal presence comforts the owner"
+      ],
+      "ending": "One dog stands close beside its owner in the rain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A loyal dog stays devoted to its owner even during difficult weather. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly one dog and one person with correct anatomy."
+  },
+  {
+    "word": "vaccine",
+    "anchor": "needle",
+    "anchorMeaning": "针",
+    "relation": "A vaccine is commonly given with a needle to help protect a person's health.",
+    "sentence": "The nurse gave the child a vaccine with a clean needle.",
+    "scene": {
+      "setting": "A calm clinic room with blank walls",
+      "actor": "One nurse gives one child a vaccine using a small clean syringe",
+      "props": [
+        "plain syringe",
+        "small unlabelled vial",
+        "plain chair"
+      ],
+      "beats": [
+        "The nurse prepares the vial",
+        "She gives the vaccine with the needle",
+        "The child sits calmly"
+      ],
+      "ending": "One nurse gives one child a vaccine injection"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A vaccine is commonly given with a needle to help protect a person's health. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people; no crosses, badges, labels, numbers, or text."
+  },
+  {
+    "word": "conception",
+    "anchor": "globe",
+    "anchorMeaning": "地球仪",
+    "relation": "A globe can help a learner form a conception or mental understanding of Earth.",
+    "sentence": "The globe gave the child a clearer conception of Earth.",
+    "scene": {
+      "setting": "A quiet study corner",
+      "actor": "One child studies a plain globe with a thoughtful expression",
+      "props": [
+        "plain globe",
+        "wooden desk",
+        "blank notebook"
+      ],
+      "beats": [
+        "The child turns the globe",
+        "She studies the continents",
+        "The globe gives her a clearer conception of Earth"
+      ],
+      "ending": "One child looks thoughtfully at the globe"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A globe can help a learner form a conception or mental understanding of Earth. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No writing or labels on the globe or notebook."
+  },
+  {
+    "word": "distort",
+    "anchor": "mirror",
+    "anchorMeaning": "镜子",
+    "relation": "A curved mirror can distort an object's reflection by changing its shape.",
+    "sentence": "A curved mirror can distort the spoon's reflection.",
+    "scene": {
+      "setting": "A simple dressing table",
+      "actor": "No people; one curved mirror makes one plain spoon reflection look stretched",
+      "props": [
+        "curved mirror",
+        "plain metal spoon",
+        "wooden table"
+      ],
+      "beats": [
+        "The spoon rests before the mirror",
+        "Its reflection bends",
+        "The curved mirror distorts the spoon's shape"
+      ],
+      "ending": "A spoon and its visibly warped reflection"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A curved mirror can distort an object's reflection by changing its shape. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No letters, writing, or extra reflections."
+  },
+  {
+    "word": "imaginative",
+    "anchor": "cloud",
+    "anchorMeaning": "云",
+    "relation": "An imaginative person can see familiar shapes in ordinary clouds.",
+    "sentence": "The imaginative child saw a sailing ship in the cloud.",
+    "scene": {
+      "setting": "A grassy hill beneath a calm sky",
+      "actor": "One child looks up at one cloud shaped like a sailing ship",
+      "props": [
+        "single broad cloud",
+        "grassy hill",
+        "plain picnic blanket"
+      ],
+      "beats": [
+        "The child notices the cloud",
+        "She imagines a ship in its shape",
+        "Her imaginative mind turns it into a scene"
+      ],
+      "ending": "One child points toward a ship-shaped cloud"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An imaginative person can see familiar shapes in ordinary clouds. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No symbols, drawn outlines, or text in the sky."
+  },
+  {
+    "word": "municipal",
+    "anchor": "city",
+    "anchorMeaning": "城市",
+    "relation": "Municipal means relating to a city or its local government.",
+    "sentence": "Municipal workers planted a tree along the city street.",
+    "scene": {
+      "setting": "A quiet city sidewalk",
+      "actor": "Exactly two municipal workers plant one young tree beside the street",
+      "props": [
+        "young street tree",
+        "plain shovel",
+        "small soil pile"
+      ],
+      "beats": [
+        "The workers open a small patch of soil",
+        "They place the tree",
+        "Their city work is municipal"
+      ],
+      "ending": "Two workers plant one tree on a city sidewalk"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Municipal means relating to a city or its local government. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two workers and no signs, logos, or text."
+  },
+  {
+    "word": "plausible",
+    "anchor": "shoe",
+    "anchorMeaning": "鞋",
+    "relation": "A plausible explanation seems believable when it fits visible evidence such as muddy shoes.",
+    "sentence": "Her plausible explanation matched the muddy shoes by the door.",
+    "scene": {
+      "setting": "A simple home entryway",
+      "actor": "One woman points to muddy shoes while one listener considers her explanation",
+      "props": [
+        "pair of muddy shoes",
+        "plain doormat",
+        "wooden door"
+      ],
+      "beats": [
+        "The woman notices mud by the door",
+        "She gives an explanation",
+        "The muddy shoes make it plausible"
+      ],
+      "ending": "One woman gestures toward muddy shoes as another listens"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A plausible explanation seems believable when it fits visible evidence such as muddy shoes. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no text or speech bubbles."
+  },
+  {
+    "word": "sociology",
+    "anchor": "neighbor",
+    "anchorMeaning": "邻居",
+    "relation": "Sociology is the study of how people and neighbors form groups and communities.",
+    "sentence": "She studied sociology to understand how neighbors form a community.",
+    "scene": {
+      "setting": "A shared neighborhood garden",
+      "actor": "One student observes one neighbor tending a shared garden beside nearby homes",
+      "props": [
+        "small garden bed",
+        "plain notebook",
+        "watering can"
+      ],
+      "beats": [
+        "The student watches the neighbor work",
+        "She notices how neighbors share the space",
+        "Her sociology study focuses on community life"
+      ],
+      "ending": "One student observes a neighbor in a shared garden"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Sociology is the study of how people and neighbors form groups and communities. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people and no writing on the notebook."
+  },
+  {
+    "word": "crawl",
+    "anchor": "baby",
+    "anchorMeaning": "婴儿",
+    "relation": "A baby commonly moves along the floor by crawling on hands and knees.",
+    "sentence": "The baby can crawl across the rug toward a ball.",
+    "scene": {
+      "setting": "A warm nursery floor",
+      "actor": "One baby crawls across the rug toward one soft ball",
+      "props": [
+        "soft rug",
+        "single ball",
+        "plain wooden block"
+      ],
+      "beats": [
+        "The baby sees the ball",
+        "The baby moves on hands and knees",
+        "The baby crawls across the rug"
+      ],
+      "ending": "One baby crawls toward the ball"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A baby commonly moves along the floor by crawling on hands and knees. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One baby only with two arms and two legs clearly visible."
+  },
+  {
+    "word": "masculine",
+    "anchor": "mane",
+    "anchorMeaning": "鬃毛",
+    "relation": "A lion's mane is a familiar male trait and can illustrate a masculine feature.",
+    "sentence": "A lion's mane is a masculine feature that distinguishes him from a lioness.",
+    "scene": {
+      "setting": "A grassy savanna under warm light",
+      "actor": "One male lion with a full mane stands beside one lioness",
+      "props": [
+        "male lion with full mane",
+        "one lioness",
+        "patch of grass"
+      ],
+      "beats": [
+        "The lion stands in the grass",
+        "His mane is clearly visible",
+        "The masculine feature distinguishes him from the lioness"
+      ],
+      "ending": "One maned lion stands beside one lioness"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A lion's mane is a familiar male trait and can illustrate a masculine feature. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two lions with four legs each and no cubs."
+  },
+  {
+    "word": "restrain",
+    "anchor": "leash",
+    "anchorMeaning": "牵引绳",
+    "relation": "A leash can restrain an animal by limiting how far it can move.",
+    "sentence": "A short leash can restrain the dog beside the gate.",
+    "scene": {
+      "setting": "A quiet park gate",
+      "actor": "One dog is held close to a post by a short leash",
+      "props": [
+        "single dog",
+        "short plain leash",
+        "wooden gate post"
+      ],
+      "beats": [
+        "The dog pulls toward the path",
+        "The short leash holds it back",
+        "The leash restrains the dog beside the gate"
+      ],
+      "ending": "One dog stands at the end of a taut leash"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A leash can restrain an animal by limiting how far it can move. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One dog only with correct anatomy and no writing."
+  },
+  {
+    "word": "advisable",
+    "anchor": "helmet",
+    "anchorMeaning": "头盔",
+    "relation": "It is advisable to wear a helmet because it is a sensible safety choice before cycling.",
+    "sentence": "It is advisable to wear a helmet before cycling.",
+    "scene": {
+      "setting": "A quiet bicycle path",
+      "actor": "One cyclist puts on a plain helmet beside a parked bicycle",
+      "props": [
+        "plain bicycle helmet",
+        "unmarked bicycle",
+        "clear path"
+      ],
+      "beats": [
+        "The cyclist checks the helmet",
+        "She puts it on",
+        "Wearing it is advisable before cycling"
+      ],
+      "ending": "One cyclist wears a helmet beside the bicycle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. It is advisable to wear a helmet because it is a sensible safety choice before cycling. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No logos, signs, labels, or numbers."
+  },
+  {
+    "word": "barrel",
+    "anchor": "apple",
+    "anchorMeaning": "苹果",
+    "relation": "A barrel is a sturdy container that can hold apples and other goods.",
+    "sentence": "The farmer placed one apple into a wooden barrel.",
+    "scene": {
+      "setting": "A simple barn floor",
+      "actor": "One farmer places a single apple into an open wooden barrel",
+      "props": [
+        "single apple",
+        "wooden barrel",
+        "plain barn door"
+      ],
+      "beats": [
+        "The farmer picks up one apple",
+        "He places it inside",
+        "The barrel holds the apple"
+      ],
+      "ending": "One farmer drops one apple into the barrel"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A barrel is a sturdy container that can hold apples and other goods. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly one apple and one barrel with no labels."
+  },
+  {
+    "word": "conceal",
+    "anchor": "curtain",
+    "anchorMeaning": "窗帘",
+    "relation": "A curtain can conceal an object by hiding it from view.",
+    "sentence": "She used a curtain to conceal the small gift before her friend arrived.",
+    "scene": {
+      "setting": "A plain living room with a tall curtain",
+      "actor": "One child hides a small wrapped gift behind a curtain",
+      "props": [
+        "plain curtain",
+        "small blank-wrapped gift",
+        "wooden stool"
+      ],
+      "beats": [
+        "The child holds the gift",
+        "She slips it behind the curtain",
+        "The curtain conceals it from view"
+      ],
+      "ending": "One child peeks beside the curtain hiding the gift"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A curtain can conceal an object by hiding it from view. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Gift wrapping has no patterns, labels, or text."
+  },
+  {
+    "word": "formula",
+    "anchor": "square",
+    "anchorMeaning": "正方形",
+    "relation": "A formula for area can be understood by counting the equal squares that fill a rectangle.",
+    "sentence": "The formula for a rectangle's area came from counting each square inside it.",
+    "scene": {
+      "setting": "A simple classroom table",
+      "actor": "One child counts a neat grid of small squares inside a large rectangle",
+      "props": [
+        "large rectangle grid",
+        "plain wooden ruler",
+        "blank slate"
+      ],
+      "beats": [
+        "The child looks at the rectangle",
+        "She counts each square inside it",
+        "The repeated squares reveal the area formula"
+      ],
+      "ending": "A rectangle filled with equal squares beside the ruler"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A formula for area can be understood by counting the equal squares that fill a rectangle. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "No numbers, letters, equations, or writing anywhere."
+  },
+  {
+    "word": "eligible",
+    "anchor": "invitation",
+    "anchorMeaning": "邀请函",
+    "relation": "An invitation can make someone eligible to enter an event by showing they have been invited.",
+    "sentence": "The invitation made her eligible to enter the contest.",
+    "scene": {
+      "setting": "A plain contest doorway",
+      "actor": "One entrant presents a completely blank invitation to one host who lets her enter",
+      "props": [
+        "blank invitation card",
+        "plain doorway",
+        "small table"
+      ],
+      "beats": [
+        "The entrant arrives at the doorway",
+        "She shows the invitation",
+        "The host admits her as eligible"
+      ],
+      "ending": "One host welcomes one entrant holding a blank invitation"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An invitation can make someone eligible to enter an event by showing they have been invited. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people; invitation has no writing, marks, or logo."
+  },
+  {
+    "word": "immense",
+    "anchor": "elephant",
+    "anchorMeaning": "大象",
+    "relation": "Immense means extremely large and an elephant beside a tiny cart makes the size contrast clear.",
+    "sentence": "An immense elephant stood beside a tiny wooden cart.",
+    "scene": {
+      "setting": "A broad grassy field",
+      "actor": "No people; one enormous elephant stands beside one tiny cart",
+      "props": [
+        "single elephant",
+        "tiny wooden cart",
+        "patch of grass"
+      ],
+      "beats": [
+        "The elephant steps into the field",
+        "The tiny cart stands beside it",
+        "The size contrast makes the elephant immense"
+      ],
+      "ending": "One large elephant towers over a tiny cart"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Immense means extremely large and an elephant beside a tiny cart makes the size contrast clear. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "One elephant only with four legs and natural anatomy."
+  },
+  {
+    "word": "indulge",
+    "anchor": "cookie",
+    "anchorMeaning": "饼干",
+    "relation": "To indulge someone is to give them a pleasure or treat they want.",
+    "sentence": "The grandmother chose to indulge her grandson with an extra cookie.",
+    "scene": {
+      "setting": "A warm kitchen table",
+      "actor": "One grandmother offers one extra cookie to one child",
+      "props": [
+        "two plain cookies",
+        "small plate",
+        "wooden table"
+      ],
+      "beats": [
+        "The child looks at the cookies",
+        "The grandmother offers an extra one",
+        "She indulges him with a treat"
+      ],
+      "ending": "One grandmother hands one cookie to the child"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To indulge someone is to give them a pleasure or treat they want. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Exactly two people; cookies have no decorations shaped like letters."
+  },
+  {
+    "word": "magnetic",
+    "anchor": "magnet",
+    "anchorMeaning": "磁铁",
+    "relation": "Magnet + -ic forms magnetic, an adjective describing magnetism or a strong attractive force.",
+    "sentence": "The magnetic force pulled the iron clip toward the magnet.",
+    "scene": {
+      "setting": "A simple worktable",
+      "actor": "No people; one magnet attracts one plain iron clip across the table",
+      "props": [
+        "plain bar magnet",
+        "single iron clip",
+        "wooden table"
+      ],
+      "beats": [
+        "The iron clip rests near the magnet",
+        "Magnetic attraction draws it across the table",
+        "The clip is now visibly attached to one end of the magnet"
+      ],
+      "ending": "One iron clip is clearly attached to the end of the magnet by attraction"
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Magnet + -ic forms magnetic, an adjective describing magnetism or a strong attractive force. The familiar anchor and the target meaning are joined by one concrete, drawable action."
+    },
+    "artDirection": "Show exactly one clip touching and attached to one end of the magnet; do not leave a gap; no motion lines, letters, polarity marks, or numbers."
+  }
+]

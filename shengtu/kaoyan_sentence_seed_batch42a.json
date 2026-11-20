@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1701",
+    "serial": 4228,
+    "frequency": 9,
+    "word": "liver",
+    "targetSense": "肝脏",
+    "alt": "",
+    "anchor": "body",
+    "anchorMeaning": "身体",
+    "relation": "医生指出人体模型中的肝脏，表现 liver。",
+    "sentence": "The doctor pointed to the liver in a model of the human body.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple medical teaching room with a plain pale wall",
+      "actor": "One doctor points to the liver inside one transparent human torso model",
+      "props": [
+        "one doctor",
+        "one torso model",
+        "one liver"
+      ],
+      "beats": [
+        "The doctor turns the torso model toward the viewer",
+        "The liver is visible inside the model",
+        "The doctor points directly to the liver"
+      ],
+      "ending": "The liver is visible inside a model of the human body."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one doctor pointing to one clearly visible reddish liver inside one simple transparent torso model. Keep the anatomy clean and educational, not graphic. No blood, labels, letters, numbers, signs, or text.",
+    "imageFile": "kyc-1701.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1702",
+    "serial": 4229,
+    "frequency": 9,
+    "word": "marvelous",
+    "targetSense": "非凡的",
+    "alt": "marvellous",
+    "anchor": "wonder",
+    "anchorMeaning": "惊叹；奇观",
+    "relation": "令人惊叹的瀑布使她心生 wonder，表现 marvelous。",
+    "sentence": "The marvelous waterfall filled her with wonder.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet mountain overlook beside one tall waterfall",
+      "actor": "One woman gazes in awe at a beautiful powerful waterfall",
+      "props": [
+        "one woman",
+        "one waterfall",
+        "one mountain overlook"
+      ],
+      "beats": [
+        "She reaches the overlook",
+        "The waterfall fills the view",
+        "She stands amazed by its beauty"
+      ],
+      "ending": "One woman is filled with wonder by a marvelous waterfall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman admiring one beautiful waterfall from a quiet overlook. No other people, signs, writing, or text.",
+    "imageFile": "kyc-1702.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1703",
+    "serial": 4230,
+    "frequency": 9,
+    "word": "mentor",
+    "targetSense": "指导",
+    "alt": "",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "导师指导学生修理自行车，表现 mentor。",
+    "sentence": "Her mentor taught her how to repair a bicycle.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy bicycle workshop with a plain background",
+      "actor": "One experienced mentor shows one young student how to repair one bicycle",
+      "props": [
+        "one mentor",
+        "one student",
+        "one bicycle"
+      ],
+      "beats": [
+        "The student studies the bicycle",
+        "The mentor demonstrates a repair",
+        "The student learns beside the mentor"
+      ],
+      "ending": "One mentor guides one student in repairing a bicycle."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two people: one mentor teaching one student beside one bicycle. No extra people, extra bicycles, labels, writing, or text.",
+    "imageFile": "kyc-1703.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1704",
+    "serial": 4232,
+    "frequency": 9,
+    "word": "nominate",
+    "targetSense": "提名",
+    "alt": "",
+    "anchor": "candidate",
+    "anchorMeaning": "候选人",
+    "relation": "会议主席提出一位候选人参加评选，表现 nominate。",
+    "sentence": "The club chair will nominate one candidate for the award.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small club meeting in a plain room",
+      "actor": "One club chairperson gestures toward one candidate during a nomination",
+      "props": [
+        "one chairperson",
+        "one candidate",
+        "one blank award medal"
+      ],
+      "beats": [
+        "The chairperson addresses the candidate",
+        "The chairperson names the candidate for the award",
+        "The candidate is formally nominated"
+      ],
+      "ending": "One chairperson nominates one candidate for an award."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two adults in a simple club meeting: one chairperson clearly proposing one candidate beside one plain blank award medal. No audience, extra people, letters, numbers, symbols, or text.",
+    "imageFile": "kyc-1704.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1705",
+    "serial": 4233,
+    "frequency": 9,
+    "word": "notable",
+    "targetSense": "显赫的",
+    "alt": "",
+    "anchor": "medal",
+    "anchorMeaning": "奖章",
+    "relation": "杰出的科学家因工作获得奖章，表现 notable。",
+    "sentence": "The notable scientist received a medal for her work.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet award ceremony on a simple stage",
+      "actor": "One distinguished scientist receives one plain medal from one presenter",
+      "props": [
+        "one scientist",
+        "one presenter",
+        "one blank medal"
+      ],
+      "beats": [
+        "The presenter holds out the medal",
+        "The notable scientist receives it",
+        "The medal rests against her coat"
+      ],
+      "ending": "One notable scientist receives a medal for her work."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two people at a simple award presentation with one blank medal. No logos, symbols, writing, numbers, extra people, signs, or text.",
+    "imageFile": "kyc-1705.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1706",
+    "serial": 4234,
+    "frequency": 9,
+    "word": "obedience",
+    "targetSense": "服从",
+    "alt": "",
+    "anchor": "command",
+    "anchorMeaning": "命令；指令",
+    "relation": "狗听从主人的指令坐下，表现 obedience。",
+    "sentence": "The dog showed obedience by sitting at its owner's command.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet backyard with a plain fence in the distance",
+      "actor": "One dog sits promptly beside its owner after a clear hand command",
+      "props": [
+        "one dog",
+        "one owner",
+        "one raised hand"
+      ],
+      "beats": [
+        "The owner raises one hand",
+        "The dog responds by sitting",
+        "The dog remains obedient beside the owner"
+      ],
+      "ending": "One dog sits obediently at its owner’s command."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one owner giving a simple hand command and one dog sitting calmly in response. No other animals, people, written commands, speech bubbles, or text.",
+    "imageFile": "kyc-1706.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1707",
+    "serial": 4235,
+    "frequency": 9,
+    "word": "ruler",
+    "targetSense": "统治者",
+    "alt": "",
+    "anchor": "throne",
+    "anchorMeaning": "王座",
+    "relation": "统治者坐在王座上治理王国，表现 ruler。",
+    "sentence": "The ruler sat on a plain throne in the great hall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet stone great hall with one simple throne",
+      "actor": "One ruler wearing a plain unmarked crown sits upright on one throne",
+      "props": [
+        "one ruler",
+        "one plain throne",
+        "one unmarked crown"
+      ],
+      "beats": [
+        "The ruler enters the great hall",
+        "The ruler sits on the throne",
+        "The ruler looks across the quiet hall"
+      ],
+      "ending": "One ruler sits on a plain throne in the great hall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；画面动作与目标义对应清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one ruler seated on one plain throne in a simple stone hall, wearing one plain unmarked crown. No flags, banners, crests, emblems, symbols, extra people, writing, or text.",
+    "imageFile": "kyc-1707.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1708",
+    "serial": 4236,
+    "frequency": 9,
+    "word": "spear",
+    "targetSense": "矛",
+    "alt": "",
+    "anchor": "point",
+    "anchorMeaning": "尖端；尖头",
+    "relation": "矛的一端有锋利尖头，表现 spear。",
+    "sentence": "The spear ended in a sharp point.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple neutral ground against a plain pale background",
+      "actor": "One long spear stands upright with its sharp pointed tip clearly visible",
+      "props": [
+        "one spear",
+        "one sharp point",
+        "plain background"
+      ],
+      "beats": [
+        "The long shaft stands upright",
+        "The metal tip catches the light",
+        "The sharp point is clearly visible"
+      ],
+      "ending": "One spear ends in a sharp point."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one stationary spear planted upright with one clearly visible pointed tip. No person, fighting, blood, extra weapons, symbols, writing, or text.",
+    "imageFile": "kyc-1708.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1709",
+    "serial": 4238,
+    "frequency": 9,
+    "word": "surrender",
+    "targetSense": "投降",
+    "alt": "",
+    "anchor": "shield",
+    "anchorMeaning": "盾牌",
+    "relation": "士兵放下盾牌表示投降，表现 surrender。",
+    "sentence": "The soldier chose to surrender by setting down his shield.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet empty field after a conflict, with no combat",
+      "actor": "One unarmed soldier kneels and places one shield on the ground to surrender",
+      "props": [
+        "one soldier",
+        "one shield",
+        "one empty field"
+      ],
+      "beats": [
+        "The soldier kneels calmly",
+        "He lowers the shield to the ground",
+        "He opens his empty hands in surrender"
+      ],
+      "ending": "One soldier surrenders by laying down his shield."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one unarmed soldier peacefully surrendering by placing one shield on the ground. No weapons, fighting, blood, other people, flags, writing, or text.",
+    "imageFile": "kyc-1709.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1710",
+    "serial": 4239,
+    "frequency": 9,
+    "word": "taboo",
+    "targetSense": "禁忌",
+    "alt": "",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "古老禁忌使她不敢打开那扇门，表现 taboo。",
+    "sentence": "An old taboo kept her from opening the door.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet old house with one closed wooden door",
+      "actor": "One woman hesitates with her hand near the closed door but does not open it",
+      "props": [
+        "one woman",
+        "one closed door",
+        "one quiet threshold"
+      ],
+      "beats": [
+        "She approaches the old door",
+        "She pauses before touching it",
+        "She steps back and leaves it closed"
+      ],
+      "ending": "One woman stops before a door because of an old taboo."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one person hesitating before one closed old door, with a respectful uneasy expression. No warning signs, symbols, writing, extra people, or text.",
+    "imageFile": "kyc-1710.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1711",
+    "serial": 4240,
+    "frequency": 9,
+    "word": "thirst",
+    "targetSense": "口渴、渴望",
+    "alt": "",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "长途行走后，她因口渴伸手去拿水，表现 thirst。",
+    "sentence": "After the long walk, her thirst made her reach for water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple shaded rest stop with a plain background",
+      "actor": "One tired woman reaches eagerly for one clear glass of water after walking",
+      "props": [
+        "one woman",
+        "one glass of water",
+        "one resting place"
+      ],
+      "beats": [
+        "She finishes a long walk",
+        "She notices the glass of water",
+        "Her thirst makes her reach for it"
+      ],
+      "ending": "One thirsty woman reaches for a glass of water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one tired but unharmed woman reaching eagerly for one glass of clear water. No other people, drinks, bottles, labels, writing, or text.",
+    "imageFile": "kyc-1711.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1712",
+    "serial": 4241,
+    "frequency": 9,
+    "word": "vegetation",
+    "targetSense": "植物",
+    "alt": "",
+    "anchor": "hillside",
+    "anchorMeaning": "山坡",
+    "relation": "茂密植物覆盖整片山坡，表现 vegetation。",
+    "sentence": "Dense vegetation covered the hillside.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A green hillside beneath a simple pale sky",
+      "actor": "Thick varied vegetation covers the hillside from bottom to top",
+      "props": [
+        "dense vegetation",
+        "one hillside",
+        "one pale sky"
+      ],
+      "beats": [
+        "The bare slope is shown",
+        "Plants and shrubs spread across it",
+        "The hillside becomes densely covered in vegetation"
+      ],
+      "ending": "Dense vegetation covers one hillside."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one hillside densely covered with varied green plants and shrubs. No buildings, people, labels, signs, or text.",
+    "imageFile": "kyc-1712.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1713",
+    "serial": 4242,
+    "frequency": 8,
+    "word": "astronomy",
+    "targetSense": "天文学",
+    "alt": "",
+    "anchor": "telescope",
+    "anchorMeaning": "望远镜",
+    "relation": "她用望远镜观测星空学习 astronomy，表现天文学。",
+    "sentence": "She studied astronomy through a telescope beneath the stars.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet hilltop observatory at night",
+      "actor": "One astronomer looks through one telescope at the starry sky",
+      "props": [
+        "one astronomer",
+        "one telescope",
+        "one starry sky"
+      ],
+      "beats": [
+        "The astronomer sets the telescope toward the sky",
+        "She looks through its eyepiece",
+        "The stars fill her view"
+      ],
+      "ending": "One astronomer studies the stars through a telescope."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one astronomer using one telescope beneath a starry sky. Do not draw constellation lines, charts, labels, letters, numbers, signs, or text.",
+    "imageFile": "kyc-1713.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1714",
+    "serial": 4244,
+    "frequency": 8,
+    "word": "doctrine",
+    "targetSense": "学说、教义",
+    "alt": "",
+    "anchor": "belief",
+    "anchorMeaning": "信念；看法",
+    "relation": "老师向学生解释一套共同信念，表现 doctrine。",
+    "sentence": "The teacher explained a doctrine of shared beliefs to one student.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom with a plain wall",
+      "actor": "One teacher explains a shared doctrine to one attentive student beside a blank open book",
+      "props": [
+        "one teacher",
+        "one student",
+        "one blank open book"
+      ],
+      "beats": [
+        "The teacher opens the blank book",
+        "The teacher explains the shared belief",
+        "The student listens and considers the doctrine"
+      ],
+      "ending": "One teacher explains a doctrine to one student."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly one teacher and one student discussing ideas beside one open book with completely blank pages. No religious symbols, diagrams, writing, letters, numbers, or text.",
+    "imageFile": "kyc-1714.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1715",
+    "serial": 4245,
+    "frequency": 8,
+    "word": "indignation",
+    "targetSense": "愤怒",
+    "alt": "",
+    "anchor": "anger",
+    "anchorMeaning": "愤怒",
+    "relation": "她对不公平的决定感到愤怒和义愤，表现 indignation。",
+    "sentence": "She showed indignation and anger at the unfair decision.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain room with one simple balance scale",
+      "actor": "One woman shows righteous anger while pointing at a visibly unfair tilted balance scale",
+      "props": [
+        "one woman",
+        "one tilted balance scale",
+        "one plain room"
+      ],
+      "beats": [
+        "She notices the unfairly tilted scale",
+        "Her face tightens with anger",
+        "She points at the unjust result in indignation"
+      ],
+      "ending": "One woman shows indignation at an unfair balance."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one woman with a clear indignant expression pointing at one unfairly tilted balance scale. No other people, numbers, labels, signs, writing, or text.",
+    "imageFile": "kyc-1715.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1716",
+    "serial": 4246,
+    "frequency": 8,
+    "word": "prudent",
+    "targetSense": "谨慎的",
+    "alt": "",
+    "anchor": "road",
+    "anchorMeaning": "道路",
+    "relation": "谨慎的司机过马路前仔细观察两边，表现 prudent。",
+    "sentence": "The prudent pedestrian checked both ways before crossing the road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet curb beside one empty road and a simple painted crosswalk",
+      "actor": "One cautious pedestrian pauses with both feet at the curb and turns to check left and right before crossing",
+      "props": [
+        "one pedestrian",
+        "one empty road",
+        "one crosswalk"
+      ],
+      "beats": [
+        "The pedestrian approaches the curb",
+        "The pedestrian looks both ways while still on the sidewalk",
+        "The pedestrian prepares to cross only when the road is clear"
+      ],
+      "ending": "One prudent pedestrian checks both ways before crossing the road."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已重新检查：语法自然、读起来通顺；画面动作与目标义对应清楚。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one cautious pedestrian stopped at the curb, with both feet still on the sidewalk, looking left and right before crossing. Arms stay relaxed at the sides. No cars, traffic signs, signals, other people, letters, or text.",
+    "imageFile": "kyc-1716.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1717",
+    "serial": 4247,
+    "frequency": 8,
+    "word": "disposition",
+    "targetSense": "倾向、安排；性情",
+    "alt": "",
+    "anchor": "mood",
+    "anchorMeaning": "心情；情绪",
+    "relation": "她开朗的性情让房间里的气氛变得愉快，表现 disposition。",
+    "sentence": "Her cheerful disposition lifted the mood in the room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm quiet room with a plain background",
+      "actor": "One cheerful woman greets one neighbor warmly, lifting the neighbor’s mood",
+      "props": [
+        "one cheerful woman",
+        "one neighbor",
+        "one warm room"
+      ],
+      "beats": [
+        "The neighbor sits quietly",
+        "The woman greets the neighbor with a bright smile",
+        "The neighbor smiles back and feels happier"
+      ],
+      "ending": "One woman’s cheerful disposition brightens the room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show exactly two neighbors sharing a warm friendly greeting, with one cheerful person lifting the other’s mood. No speech bubbles, extra people, writing, or text.",
+    "imageFile": "kyc-1717.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1718",
+    "serial": 4248,
+    "frequency": 8,
+    "word": "perplex",
+    "targetSense": "使困惑；使复杂化",
+    "alt": "",
+    "anchor": "puzzle",
+    "anchorMeaning": "谜题；拼图",
+    "relation": "难题让孩子感到困惑，表现 perplex。",
+    "sentence": "The difficult puzzle will perplex the child.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple quiet room with one small table",
+      "actor": "One child studies a difficult jigsaw puzzle with a puzzled expression",
+      "props": [
+        "one child",
+        "one jigsaw puzzle",
+        "one small table"
+      ],
+      "beats": [
+        "The child examines the puzzle pieces",
+        "The pieces seem difficult to fit",
+        "The child looks perplexed by the puzzle"
+      ],
+      "ending": "One difficult puzzle perplexes one child."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one child puzzled by one jigsaw puzzle on one table. Puzzle pieces must have no letters, numbers, symbols, or text. No extra people.",
+    "imageFile": "kyc-1718.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1719",
+    "serial": 4249,
+    "frequency": 8,
+    "word": "anchor",
+    "targetSense": "锚",
+    "alt": "",
+    "anchor": "boat",
+    "anchorMeaning": "小船",
+    "relation": "水手把锚从小船放入水中，表现 anchor。",
+    "sentence": "The sailor lowered the anchor from the small boat.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm harbor with one small boat",
+      "actor": "One sailor lowers one heavy anchor from the side of the boat into the water",
+      "props": [
+        "one sailor",
+        "one anchor",
+        "one small boat"
+      ],
+      "beats": [
+        "The sailor lifts the anchor over the side",
+        "The anchor drops toward the water",
+        "The anchor settles below the boat"
+      ],
+      "ending": "One sailor lowers an anchor from one small boat."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one small boat and one sailor lowering exactly one anchor into calm water. No other boats, people, text, letters, or numbers.",
+    "imageFile": "kyc-1719.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1720",
+    "serial": 4250,
+    "frequency": 8,
+    "word": "damn",
+    "targetSense": "谴责、该死的",
+    "alt": "",
+    "anchor": "pot",
+    "anchorMeaning": "锅；罐",
+    "relation": "陶罐裂开时，他低声说 damn 表达恼火，表现该词的感叹用法。",
+    "sentence": "He muttered, “Damn,” when the pot cracked.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple pottery room with a plain worktable",
+      "actor": "One man reacts with frustration beside one newly cracked clay pot",
+      "props": [
+        "one man",
+        "one cracked clay pot",
+        "one worktable"
+      ],
+      "beats": [
+        "The pot develops one clear crack",
+        "The man notices the damage",
+        "He mutters a curse in frustration"
+      ],
+      "ending": "One man reacts angrily when his clay pot cracks."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已逐句检查：语法自然、读起来通顺；锚点和目标义能在一个具体场景中表达。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Show one frustrated man beside one cracked clay pot on one worktable. Do not include any written expletive, speech bubble, letters, symbols, or text. No extra pottery or people.",
+    "imageFile": "kyc-1720.webp",
+    "imageError": null
+  }
+]

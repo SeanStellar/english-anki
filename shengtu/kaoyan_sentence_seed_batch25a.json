@@ -1,0 +1,642 @@
+[
+  {
+    "word": "furnish",
+    "anchor": "room",
+    "anchorMeaning": "房间",
+    "relation": "To furnish a room is to provide it with useful furniture and objects.",
+    "sentence": "They plan to furnish the bare room with a chair and a table.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: They plan to furnish the bare room with a chair and a table.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "bare wooden chair",
+        "small table",
+        "plain floor lamp"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: room (房间).",
+        "Show the sentence's main action linking the anchor to furnish.",
+        "Make the target meaning clear: 提供."
+      ],
+      "ending": "They plan to furnish the bare room with a chair and a table."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "provoke",
+    "anchor": "poke",
+    "anchorMeaning": "戳",
+    "relation": "A poke can trigger a reaction; here it provokes the dog's response.",
+    "sentence": "A playful poke can provoke the sleepy dog to bark.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A playful poke can provoke the sleepy dog to bark.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "sleepy dog",
+        "soft cushion",
+        "small wooden fence"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: poke (戳).",
+        "Show the sentence's main action linking the anchor to provoke.",
+        "Make the target meaning clear: 激怒."
+      ],
+      "ending": "A playful poke can provoke the sleepy dog to bark."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "anybody",
+    "anchor": "body",
+    "anchorMeaning": "身体；人",
+    "relation": "Anybody is the compound any + body, with body meaning a person.",
+    "sentence": "Anybody can board the lifeboat if there is room for one more body.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: Anybody can board the lifeboat if there is room for one more body.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "small lifeboat",
+        "wooden dock",
+        "plain life jacket"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: body (身体；人).",
+        "Show the sentence's main action linking the anchor to anybody.",
+        "Make the target meaning clear: 任何人."
+      ],
+      "ending": "Anybody can board the lifeboat if there is room for one more body."
+    },
+    "mode": "scene",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the simple compound or suffix gives a valid spelling cue."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "comply",
+    "anchor": "parent",
+    "anchorMeaning": "家长",
+    "relation": "To comply is to follow a request; the child obeys one parent's instruction.",
+    "sentence": "The child chose to comply with one parent's request and wait quietly in line.",
+    "scene": {
+      "setting": "A quiet school hallway with one parent and one child beside a classroom door.",
+      "actor": "One parent gives a simple request while one child waits in line and follows it.",
+      "props": [
+        "plain floor line",
+        "small school bag",
+        "closed classroom door"
+      ],
+      "beats": [
+        "The parent asks the child to wait in line.",
+        "The child stands quietly behind the floor line.",
+        "The child complies with the parent's request."
+      ],
+      "ending": "The child waits quietly in line beside the parent and blank classroom door."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Show one parent and one child, with no sign, notice, poster, label, or writing anywhere; keep the wall and door blank."
+  },
+  {
+    "word": "demographic",
+    "anchor": "age",
+    "anchorMeaning": "年龄",
+    "relation": "Demographic makeup often groups a population by age; age is the simple feature shown here.",
+    "sentence": "The village's demographic profile changed as its average age rose.",
+    "scene": {
+      "setting": "The village well in a quiet square, with two residents of noticeably different ages.",
+      "actor": "Exactly two villagers: one young adult and one elderly resident, standing together to show the village's age mix.",
+      "props": [
+        "stone village well",
+        "plain walking cane",
+        "small fruit basket"
+      ],
+      "beats": [
+        "The young adult arrives at the village well.",
+        "The elderly resident joins them beside the well.",
+        "Their different ages make the village's demographic makeup visible."
+      ],
+      "ending": "Two villagers, one young adult and one elder, stand beside the well."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "imitation",
+    "anchor": "duck",
+    "anchorMeaning": "鸭子",
+    "relation": "An imitation copies the appearance or action of something; the child copies a duck's waddle.",
+    "sentence": "The child made an imitation of the duck by copying its waddling walk.",
+    "scene": {
+      "setting": "A grassy pond edge in a clear side view, with one child and one duck walking in the same direction.",
+      "actor": "One duck waddles rightward with one webbed foot lifted; immediately beside it, one child copies the same waddling pose with the opposite foot lifted and arms out for balance; exactly one child and one duck.",
+      "props": [
+        "single duck",
+        "reed-lined pond",
+        "small yellow rain boots"
+      ],
+      "beats": [
+        "The child watches the duck waddle along the pond.",
+        "The child copies the duck's side-to-side steps.",
+        "The child completes a clear imitation of the duck's walk."
+      ],
+      "ending": "The child and single duck move side by side in matching waddling poses, making the imitation clear."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Show one duck and one child walking in the same direction in matching side-by-side waddling poses, with opposite feet lifted; exactly two actors and no writing or symbols."
+  },
+  {
+    "word": "incidence",
+    "anchor": "case",
+    "anchorMeaning": "病例；事例",
+    "relation": "Incidence is the rate at which new cases occur; several cases over time make the rate visible.",
+    "sentence": "The nurse noted several new flu cases, showing that the incidence was rising.",
+    "scene": {
+      "setting": "A bare village health workroom with one simple wooden table and completely blank walls; no exterior, signs, badges, posters, or decorations.",
+      "actor": "One nurse in ordinary solid-colored clothes with no uniform, hat, badge, or emblem, looking at a plain blank card with exactly four colored dots; no writing, ruled lines, symbols, crosses, or other people anywhere.",
+      "props": [
+        "plain blank card with exactly four colored dots",
+        "unmarked thermometer",
+        "plain tissue box"
+      ],
+      "beats": [
+        "The nurse notices new cases of flu.",
+        "She adds several simple dots to the blank case chart.",
+        "The growing number of cases shows a rising incidence."
+      ],
+      "ending": "One plainly dressed nurse studies four colored case dots on a blank card in a bare unmarked room, with no visible writing or symbols."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Nurse wears ordinary solid clothes with no uniform, hat, badge, or emblem; plain card has exactly four colored dots only, no ruled lines or writing; no crosses, icons, signs, posters, numbers, logos, or marks."
+  },
+  {
+    "word": "invitation",
+    "anchor": "party",
+    "anchorMeaning": "聚会",
+    "relation": "An invitation is a request to attend an event such as a party.",
+    "sentence": "She sent an invitation to the party, which made her friend smile.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: She sent an invitation to the party, which made her friend smile.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "blank folded card",
+        "small cake",
+        "two plain cups"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: party (聚会).",
+        "Show the sentence's main action linking the anchor to invitation.",
+        "Make the target meaning clear: 邀请."
+      ],
+      "ending": "She sent an invitation to the party, which made her friend smile."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "mill",
+    "anchor": "wheat",
+    "anchorMeaning": "小麦",
+    "relation": "A mill grinds grain such as wheat into flour.",
+    "sentence": "The farmer will mill wheat into flour before winter.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The farmer will mill wheat into flour before winter.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "wheat grains",
+        "wooden hand mill",
+        "small flour sack"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: wheat (小麦).",
+        "Show the sentence's main action linking the anchor to mill.",
+        "Make the target meaning clear: 磨."
+      ],
+      "ending": "The farmer will mill wheat into flour before winter."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "stroke",
+    "anchor": "brain",
+    "anchorMeaning": "大脑",
+    "relation": "A medical stroke affects the brain and can suddenly weaken one side of the body.",
+    "sentence": "A stroke in the brain left one side of his face weak.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A stroke in the brain left one side of his face weak.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "plain clinic chair",
+        "small hand mirror",
+        "folded blanket"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: brain (大脑).",
+        "Show the sentence's main action linking the anchor to stroke.",
+        "Make the target meaning clear: 中风."
+      ],
+      "ending": "A stroke in the brain left one side of his face weak."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "surge",
+    "anchor": "wave",
+    "anchorMeaning": "波浪",
+    "relation": "A surge is a sudden powerful rise or forward movement, like a rushing wave of water.",
+    "sentence": "A wave can surge over the sea wall after a storm.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A wave can surge over the sea wall after a storm.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "single high wave",
+        "stone sea wall",
+        "small overturned bucket"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: wave (波浪).",
+        "Show the sentence's main action linking the anchor to surge.",
+        "Make the target meaning clear: 激增."
+      ],
+      "ending": "A wave can surge over the sea wall after a storm."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "testify",
+    "anchor": "witness",
+    "anchorMeaning": "目击者",
+    "relation": "A witness may testify by giving an account of what they saw.",
+    "sentence": "The witness will testify before a judge about what she saw.",
+    "scene": {
+      "setting": "A quiet courtroom with a witness stand facing the judge's bench.",
+      "actor": "Exactly one witness testifying at the stand before one seated judge.",
+      "props": [
+        "plain witness stand",
+        "small microphone",
+        "blank notepad"
+      ],
+      "beats": [
+        "The witness approaches the stand.",
+        "The witness describes what she saw before the judge.",
+        "The judge listens as the witness testifies."
+      ],
+      "ending": "One witness testifies at the stand while one judge listens."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "linger",
+    "anchor": "smoke",
+    "anchorMeaning": "烟",
+    "relation": "Smoke that remains after a flame is gone visually demonstrates lingering.",
+    "sentence": "Smoke can linger in the kitchen long after a candle goes out.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: Smoke can linger in the kitchen long after a candle goes out.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "extinguished candle",
+        "small saucer",
+        "open kitchen window"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: smoke (烟).",
+        "Show the sentence's main action linking the anchor to linger.",
+        "Make the target meaning clear: 徘徊、逗留."
+      ],
+      "ending": "Smoke can linger in the kitchen long after a candle goes out."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "alleviate",
+    "anchor": "cloth",
+    "anchorMeaning": "布",
+    "relation": "A cool cloth can lessen physical discomfort without being the discomfort itself.",
+    "sentence": "A cool cloth helped alleviate the pain from her small burn.",
+    "scene": {
+      "setting": "A bright kitchen table beside a sunny window.",
+      "actor": "One child pressing a cool damp cloth directly onto a small, mild red burn on her forearm.",
+      "props": [
+        "cool damp cloth",
+        "plain bowl of water",
+        "wooden chair"
+      ],
+      "beats": [
+        "The child notices a small sore red spot on her forearm.",
+        "She cools the cloth in the bowl of water.",
+        "She presses it on the spot to alleviate the pain."
+      ],
+      "ending": "The child rests with a cool cloth gently covering a small red spot on her forearm."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "patch",
+    "anchor": "hole",
+    "anchorMeaning": "洞；破洞",
+    "relation": "A patch covers or repairs a hole in fabric.",
+    "sentence": "She used a blue patch to cover the hole in her coat.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: She used a blue patch to cover the hole in her coat.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "blue fabric patch",
+        "coat with one clear hole",
+        "blunt needle"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: hole (洞；破洞).",
+        "Show the sentence's main action linking the anchor to patch.",
+        "Make the target meaning clear: 补丁、修补."
+      ],
+      "ending": "She used a blue patch to cover the hole in her coat."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "misery",
+    "anchor": "tears",
+    "anchorMeaning": "眼泪",
+    "relation": "Tears are a visible sign that someone is suffering emotionally.",
+    "sentence": "Tears showed her misery after the kite drifted away.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: Tears showed her misery after the kite drifted away.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "small kite far away",
+        "empty kite spool",
+        "soft scarf"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: tears (眼泪).",
+        "Show the sentence's main action linking the anchor to misery.",
+        "Make the target meaning clear: 痛苦."
+      ],
+      "ending": "Tears showed her misery after the kite drifted away."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "lord",
+    "anchor": "castle",
+    "anchorMeaning": "城堡",
+    "relation": "A lord is a noble ruler or landowner historically associated with a castle or estate.",
+    "sentence": "The lord welcomed one villager into his castle courtyard.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: The lord welcomed one villager into his castle courtyard.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "castle gate",
+        "wooden bench",
+        "small loaf of bread"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: castle (城堡).",
+        "Show the sentence's main action linking the anchor to lord.",
+        "Make the target meaning clear: 主."
+      ],
+      "ending": "The lord welcomed one villager into his castle courtyard."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "rage",
+    "anchor": "fire",
+    "anchorMeaning": "火",
+    "relation": "Rage is an intense emotion often described as flaring like fire.",
+    "sentence": "His rage flared like a fire when the cart broke.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: His rage flared like a fire when the cart broke.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "broken cart wheel",
+        "small lantern",
+        "fallen bundle of hay"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: fire (火).",
+        "Show the sentence's main action linking the anchor to rage.",
+        "Make the target meaning clear: 大怒、狂怒."
+      ],
+      "ending": "His rage flared like a fire when the cart broke."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "flaw",
+    "anchor": "crack",
+    "anchorMeaning": "裂缝",
+    "relation": "A crack is a visible flaw in a solid object.",
+    "sentence": "A crack in the bowl revealed a flaw in its glaze.",
+    "scene": {
+      "setting": "A simple warm scene directly matching this sentence: A crack in the bowl revealed a flaw in its glaze.",
+      "actor": "Show only the person or animal named in the sentence; if none is named, show only the stated natural objects.",
+      "props": [
+        "cracked bowl",
+        "soft brush",
+        "wooden workbench"
+      ],
+      "beats": [
+        "Make the familiar anchor visible: crack (裂缝).",
+        "Show the sentence's main action linking the anchor to flaw.",
+        "Make the target meaning clear: 缺陷."
+      ],
+      "ending": "A crack in the bowl revealed a flaw in its glaze."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": ""
+  },
+  {
+    "word": "formulate",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "To formulate a plan is to shape a clear plan from information such as a map.",
+    "sentence": "She studied the map to formulate a plan for crossing the river.",
+    "scene": {
+      "setting": "A riverside clearing where a traveler studies an unmarked map and considers a safe crossing.",
+      "actor": "One traveler holds an entirely blank map and looks thoughtfully from it to the shallow river; no other people.",
+      "props": [
+        "blank map with broad land and water colors only",
+        "shallow river",
+        "plain walking stick"
+      ],
+      "beats": [
+        "The traveler studies the blank map.",
+        "She compares the map with the river crossing.",
+        "She chooses a safe route and formulates a plan."
+      ],
+      "ending": "The traveler considers a river crossing while holding a map with no marks, letters, arrows, or symbols."
+    },
+    "mode": "concept",
+    "review": {
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "reviewNote": "Sentence individually checked for naturalness and readability; the semantic concept link is concrete, so spelling inference is not applicable."
+    },
+    "artDirection": "Map and all objects have no letters, numbers, arrows, symbols, or markings."
+  }
+]

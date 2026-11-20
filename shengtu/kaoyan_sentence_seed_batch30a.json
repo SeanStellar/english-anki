@@ -1,0 +1,762 @@
+[
+  {
+    "word": "plague",
+    "anchor": "rat",
+    "anchorMeaning": "老鼠",
+    "relation": "老鼠是历史上腺鼠疫传播链的常见联想；画面用疫医与空村补足瘟疫线索",
+    "sentence": "A rat scurried past the plague doctor in the deserted village.",
+    "scene": {
+      "setting": "A deserted village lane during a historical outbreak",
+      "actor": "One gentle plague physician in a beaked mask stands near one rat",
+      "props": [
+        "rat",
+        "beaked plague mask",
+        "empty handcart"
+      ],
+      "beats": [
+        "The physician pauses in the empty lane",
+        "A rat scurries past",
+        "The quiet cart remains beside the cottage"
+      ],
+      "ending": "A rat passes the masked physician in the deserted village"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 老鼠是历史上腺鼠疫传播链的常见联想；画面用疫医与空村补足瘟疫线索 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show one recognizable beaked plague physician and one rat, in a quiet historical village; gentle, non-scary, no illness close-up, no text, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "refute",
+    "anchor": "vase",
+    "anchorMeaning": "花瓶",
+    "relation": "拿出完好的花瓶可以驳斥“它已破碎”的说法",
+    "sentence": "The lawyer can refute the claim by showing that the vase is unbroken.",
+    "scene": {
+      "setting": "A calm courtroom table",
+      "actor": "One lawyer presents an intact vase to one seated judge",
+      "props": [
+        "intact vase",
+        "wooden table",
+        "small evidence tray"
+      ],
+      "beats": [
+        "The lawyer lifts the vase",
+        "The judge examines its smooth sides",
+        "The claim is rejected"
+      ],
+      "ending": "The intact vase rests before the judge"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 拿出完好的花瓶可以驳斥“它已破碎”的说法 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No readable text, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "spontaneous",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "spontaneous 描述未经安排、自然发生的反应",
+    "sentence": "A spontaneous laugh escaped when the puppy splashed into the tub.",
+    "scene": {
+      "setting": "A warm tiled washroom",
+      "actor": "One woman laughs as a puppy splashes in a shallow tub",
+      "props": [
+        "puppy",
+        "shallow tub",
+        "fallen towel"
+      ],
+      "beats": [
+        "The puppy splashes",
+        "The woman turns in surprise",
+        "A laugh bursts out"
+      ],
+      "ending": "The surprised woman laughs beside the splashing puppy"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. spontaneous 描述未经安排、自然发生的反应 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No readable text, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "adhere",
+    "anchor": "wall",
+    "anchorMeaning": "墙",
+    "relation": "adhere to 表示粘附、贴紧；海报贴在墙面体现这一含义",
+    "sentence": "The wet poster failed to adhere to the wall.",
+    "scene": {
+      "setting": "A damp garden shed wall",
+      "actor": "One person presses a blank poster against the damp wall",
+      "props": [
+        "blank poster",
+        "damp wall",
+        "paste pot"
+      ],
+      "beats": [
+        "The person spreads paste",
+        "She presses the poster flat",
+        "One corner peels away"
+      ],
+      "ending": "A blank poster partly peels from the wall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. adhere to 表示粘附、贴紧；海报贴在墙面体现这一含义 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Poster must be completely blank; no readable text, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "aluminum",
+    "anchor": "can",
+    "anchorMeaning": "易拉罐",
+    "relation": "易拉罐常由铝制成，can 是具体可见的熟悉物",
+    "sentence": "The aluminum can rolled across the kitchen floor.",
+    "scene": {
+      "setting": "A cozy kitchen floor",
+      "actor": "One child watches an empty can roll past a stool",
+      "props": [
+        "aluminum can",
+        "wooden stool",
+        "tile floor"
+      ],
+      "beats": [
+        "The can tips over",
+        "It rolls across the floor",
+        "It comes to rest beside the stool"
+      ],
+      "ending": "The can rests beside the stool"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 易拉罐常由铝制成，can 是具体可见的熟悉物 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "The can must be plain and unmarked; no text, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "catalog",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "目录会按条目列出商品，椅子是目录中的具体商品",
+    "sentence": "She opened the catalog to find a chair like the one by the window.",
+    "scene": {
+      "setting": "A bright reading nook",
+      "actor": "One woman compares an open picture catalog with a wooden chair",
+      "props": [
+        "picture catalog with clear chair pictures",
+        "wooden chair",
+        "window"
+      ],
+      "beats": [
+        "She opens the catalog",
+        "She sees several chair pictures",
+        "She compares one with the real chair"
+      ],
+      "ending": "The open catalog displays chair pictures beside the matching chair"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 目录会按条目列出商品，椅子是目录中的具体商品 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "The open catalog pages must show a clear grid of chair pictures only, no words or numbers; include the real chair beside it."
+  },
+  {
+    "word": "explosive",
+    "anchor": "firework",
+    "anchorMeaning": "烟花",
+    "relation": "烟花含有爆炸性火药，会突然爆开",
+    "sentence": "An explosive firework burst above the lake at dusk.",
+    "scene": {
+      "setting": "A lakeside clearing at dusk",
+      "actor": "One child watches a single aerial firework from the lakeshore with empty hands",
+      "props": [
+        "single aerial firework burst",
+        "lake",
+        "low hill"
+      ],
+      "beats": [
+        "The firework rises",
+        "It bursts once overhead",
+        "Colored sparks spread above the water"
+      ],
+      "ending": "One child watches the single firework burst over the lake"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 烟花含有爆炸性火药，会突然爆开 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly one aerial firework and one burst; the child holds nothing; no sparklers, handheld fireworks, extra bursts, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "fluctuate",
+    "anchor": "water",
+    "anchorMeaning": "水",
+    "relation": "fluctuate 表示上下变化，湖水水位会随天气波动",
+    "sentence": "The lake's water level can fluctuate near the dock.",
+    "scene": {
+      "setting": "A lakeshore dock with clear old watermarks above the current waterline",
+      "actor": "One fisher watches the water level change beside the dock",
+      "props": [
+        "lake water",
+        "dock posts with old watermarks",
+        "small moored boat"
+      ],
+      "beats": [
+        "The water sloshes against the posts",
+        "Old wet marks sit above the current level",
+        "The boat bobs as the level changes"
+      ],
+      "ending": "A boat bobs beside dock posts with visible high watermarks above the present waterline"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. fluctuate 表示上下变化，湖水水位会随天气波动 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Make the changing water level easy to read through sloshing water, a bobbing boat, and old wet lines visibly above the current water; one continuous moment, no labels or numbers."
+  },
+  {
+    "word": "fur",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "猫的柔软皮毛是 fur 的典型具体形象",
+    "sentence": "The cat shook its fur dry after stepping out of the rain.",
+    "scene": {
+      "setting": "A sheltered garden porch",
+      "actor": "One cat shakes rain from its coat",
+      "props": [
+        "cat",
+        "rain puddle",
+        "porch mat"
+      ],
+      "beats": [
+        "The cat steps from the puddle",
+        "It shakes its coat",
+        "Loose droplets fall onto the mat"
+      ],
+      "ending": "The cat shakes water from its fur beside the puddle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 猫的柔软皮毛是 fur 的典型具体形象 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show one natural cat with correct anatomy; no text or signs."
+  },
+  {
+    "word": "gut",
+    "anchor": "food",
+    "anchorMeaning": "食物",
+    "relation": "食物经过肠道消化，gut 指消化道或肠胃",
+    "sentence": "Food moves through the gut as the body digests a meal.",
+    "scene": {
+      "setting": "A friendly science classroom",
+      "actor": "One teacher points to a simple non-graphic torso model",
+      "props": [
+        "food bowl",
+        "anatomy model",
+        "wooden pointer"
+      ],
+      "beats": [
+        "The teacher sets down the food bowl",
+        "She points to the digestive tract model",
+        "The class sees the food's path through the gut"
+      ],
+      "ending": "A simple torso model beside a bowl of food"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 食物经过肠道消化，gut 指消化道或肠胃 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Keep anatomy educational and non-graphic; no labels or text."
+  },
+  {
+    "word": "heal",
+    "anchor": "bandage",
+    "anchorMeaning": "绷带",
+    "relation": "绷带保护伤口，让伤口逐渐愈合",
+    "sentence": "A clean bandage helped the small cut heal.",
+    "scene": {
+      "setting": "A sunny home kitchen",
+      "actor": "One child looks at a small bandage on a finger",
+      "props": [
+        "bandage",
+        "clean cloth",
+        "wooden table"
+      ],
+      "beats": [
+        "The child rinses a small cut",
+        "An adult wraps it with a bandage",
+        "The child smiles as it begins to heal"
+      ],
+      "ending": "A small clean bandage covers the child's finger"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 绷带保护伤口，让伤口逐渐愈合 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No blood or graphic injury; no text or signs."
+  },
+  {
+    "word": "irritate",
+    "anchor": "mosquito",
+    "anchorMeaning": "蚊子",
+    "relation": "蚊虫叮咬会刺激皮肤并使人烦躁",
+    "sentence": "The mosquito bite began to irritate her ankle.",
+    "scene": {
+      "setting": "A summer garden at dusk",
+      "actor": "One woman rubs her ankle after a mosquito bite",
+      "props": [
+        "mosquito",
+        "ankle",
+        "garden bench"
+      ],
+      "beats": [
+        "The mosquito lands",
+        "It bites the ankle",
+        "The woman notices the itch and rubs the spot"
+      ],
+      "ending": "The woman rubs an itchy ankle beside the mosquito"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 蚊虫叮咬会刺激皮肤并使人烦躁 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show one small mosquito; no text, labels, or signs."
+  },
+  {
+    "word": "summon",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "摇铃可以召来或召唤别人",
+    "sentence": "She rang a bell to summon her cat from the garden.",
+    "scene": {
+      "setting": "A cottage doorway beside a garden",
+      "actor": "One woman rings a small bell as her cat approaches",
+      "props": [
+        "small handbell",
+        "open doorway",
+        "cat"
+      ],
+      "beats": [
+        "She lifts the bell",
+        "She rings it once",
+        "The cat comes through the doorway"
+      ],
+      "ending": "The cat arrives as the woman rings the bell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 摇铃可以召来或召唤别人 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One woman and one cat only; no text or signs."
+  },
+  {
+    "word": "tremble",
+    "anchor": "leaf",
+    "anchorMeaning": "叶子",
+    "relation": "叶片会在冷风中轻微颤动",
+    "sentence": "The leaf began to tremble in the cold wind.",
+    "scene": {
+      "setting": "A bare branch in a winter garden",
+      "actor": "One gardener watches a leaf quiver in the breeze",
+      "props": [
+        "single leaf",
+        "branch",
+        "wool scarf"
+      ],
+      "beats": [
+        "The wind reaches the branch",
+        "The leaf quivers",
+        "The gardener wraps the scarf tighter"
+      ],
+      "ending": "A lone leaf trembles above the gardener"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 叶片会在冷风中轻微颤动 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One leaf is the focus; no letters, numbers, or signs."
+  },
+  {
+    "word": "tribute",
+    "anchor": "candle",
+    "anchorMeaning": "蜡烛",
+    "relation": "人们常点蜡烛表达悼念或敬意",
+    "sentence": "The family lit a candle as a tribute to their lost friend.",
+    "scene": {
+      "setting": "A quiet memorial garden",
+      "actor": "One woman lights a candle beside a simple stone",
+      "props": [
+        "candle",
+        "plain stone",
+        "small flower"
+      ],
+      "beats": [
+        "She places the candle",
+        "She lights its wick",
+        "She bows her head in tribute"
+      ],
+      "ending": "A small candle glows beside the flower and stone"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 人们常点蜡烛表达悼念或敬意 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No inscriptions, text, letters, numbers, or logos."
+  },
+  {
+    "word": "devil",
+    "anchor": "pitchfork",
+    "anchorMeaning": "干草叉",
+    "relation": "传统民间形象常用三齿干草叉表现 devil",
+    "sentence": "In the old tale, the devil carried a three-pronged pitchfork.",
+    "scene": {
+      "setting": "A misty storybook cavern",
+      "actor": "One small red-cloaked devil holds a pitchfork",
+      "props": [
+        "three-pronged pitchfork",
+        "rocky cavern",
+        "curl of smoke"
+      ],
+      "beats": [
+        "The devil steps from the cave",
+        "He raises the pitchfork",
+        "A curl of smoke surrounds him"
+      ],
+      "ending": "The devil stands holding the pitchfork in the cavern"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 传统民间形象常用三齿干草叉表现 devil The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One simple, non-scary storybook devil; no text, symbols, or signs."
+  },
+  {
+    "word": "diplomatic",
+    "anchor": "handshake",
+    "anchorMeaning": "握手",
+    "relation": "外交场合常用克制而友好的握手化解分歧",
+    "sentence": "The diplomatic envoy settled the dispute with a calm handshake.",
+    "scene": {
+      "setting": "A modest meeting room",
+      "actor": "One envoy shakes hands with one visiting leader",
+      "props": [
+        "two chairs",
+        "small table",
+        "plain flower vase"
+      ],
+      "beats": [
+        "The two leaders face each other",
+        "They exchange a calm handshake",
+        "Their tense posture relaxes"
+      ],
+      "ending": "Two leaders complete a peaceful handshake"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 外交场合常用克制而友好的握手化解分歧 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; no flags, writing, logos, or signs."
+  },
+  {
+    "word": "displace",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "新船取代旧船在同一航线上运行，体现 displace 的取代义",
+    "sentence": "The new ferry will displace the old boat on the river route.",
+    "scene": {
+      "setting": "A riverside ferry landing",
+      "actor": "One boat operator watches a new ferry take the old boat's place",
+      "props": [
+        "new ferry",
+        "old wooden boat",
+        "river dock"
+      ],
+      "beats": [
+        "The old boat waits at the dock",
+        "The new ferry arrives",
+        "It takes over the route"
+      ],
+      "ending": "The new ferry occupies the old boat's place at the landing"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 新船取代旧船在同一航线上运行，体现 displace 的取代义 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show two plain, completely unmarked boats: the larger ferry now takes the old boat’s berth; absolutely no writing on hulls, especially no words such as NEW FERRY, and no labels, letters, numbers, logos, or signs."
+  },
+  {
+    "word": "echo",
+    "anchor": "cave",
+    "anchorMeaning": "洞穴",
+    "relation": "洞穴壁会反射声音，形成 echo",
+    "sentence": "Her shout returned as an echo from the cave.",
+    "scene": {
+      "setting": "A broad mountain cave",
+      "actor": "One hiker calls toward the cave wall",
+      "props": [
+        "cave opening",
+        "stone wall",
+        "small lantern"
+      ],
+      "beats": [
+        "The hiker calls out",
+        "The sound bounces from the wall",
+        "She hears it return"
+      ],
+      "ending": "The hiker listens as the cave sends her call back"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 洞穴壁会反射声音，形成 echo The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No written sound effects, letters, or signs."
+  },
+  {
+    "word": "evoke",
+    "anchor": "photograph",
+    "anchorMeaning": "照片",
+    "relation": "照片能唤起对往事和地点的回忆",
+    "sentence": "The old photograph can evoke memories of their seaside holiday.",
+    "scene": {
+      "setting": "A sunlit living room",
+      "actor": "One woman holds an old seaside photograph",
+      "props": [
+        "old photograph",
+        "seashell",
+        "wooden chair"
+      ],
+      "beats": [
+        "She finds the photograph",
+        "She notices the shell beside it",
+        "Memories of the beach return"
+      ],
+      "ending": "The woman looks at the photograph beside a seashell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 照片能唤起对往事和地点的回忆 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Photo image only, no text, dates, labels, or logos."
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "id": "kyc-2186",
+    "anchor": "heart",
+    "sentence": "Her heart filled with compassion for the injured bird.",
+    "relation": "Compassion is sympathetic concern for someone who is suffering.",
+    "setting": "A garden path",
+    "actor": "One child gently shelters one small injured bird in both hands.",
+    "props": [
+      "one child",
+      "one small bird",
+      "one soft cloth"
+    ],
+    "beats": [
+      "The child notices the bird",
+      "The child carefully lifts it",
+      "The child protects it with compassion"
+    ],
+    "ending": "A child gently cares for an injured bird with compassion.",
+    "artDirection": "Show gentle concern without gore; one child and one bird with natural anatomy; no heart icons or text."
+  },
+  {
+    "id": "kyc-2187",
+    "anchor": "guard",
+    "sentence": "The guard had to detain the visitor in the station lobby until the manager arrived.",
+    "relation": "To detain someone is to make them stay in one place for a time.",
+    "setting": "A plain station waiting room",
+    "actor": "Exactly two adults: one unmarked guard calmly asks one visitor to wait beside a closed door.",
+    "props": [
+      "one plain chair",
+      "one closed door",
+      "one small table"
+    ],
+    "beats": [
+      "The visitor arrives",
+      "The guard asks the visitor to stay",
+      "The visitor waits in the room"
+    ],
+    "ending": "A guard detains a visitor in a quiet station room.",
+    "artDirection": "Exactly two adults; plain clothes with no badges, weapons, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2188",
+    "anchor": "path",
+    "sentence": "The cyclist had to deviate from the path to avoid the fallen branch.",
+    "relation": "To deviate is to move away from a usual route or course.",
+    "setting": "A forest trail with one fallen branch",
+    "actor": "One cyclist steers around a fallen branch and leaves the main path briefly.",
+    "props": [
+      "one bicycle",
+      "one forest path",
+      "one fallen branch"
+    ],
+    "beats": [
+      "The cyclist follows the path",
+      "A branch blocks the route",
+      "The cyclist deviates around it"
+    ],
+    "ending": "A cyclist deviates from the path to avoid a fallen branch.",
+    "artDirection": "One cyclist only; no arrows, route marks, signs, or text."
+  },
+  {
+    "id": "kyc-2189",
+    "anchor": "table",
+    "sentence": "The diameter of the round table crossed its center from edge to edge.",
+    "relation": "A diameter is a straight span through the center of a circle, from one edge to the other.",
+    "setting": "A plain workshop",
+    "actor": "One craftsperson measures across a round tabletop through its center with a straight wooden rod.",
+    "props": [
+      "one round table",
+      "one straight measuring rod",
+      "one craftsperson"
+    ],
+    "beats": [
+      "The round table is placed flat",
+      "The rod spans from edge to edge",
+      "It passes through the center"
+    ],
+    "ending": "A straight rod shows the diameter across a round table.",
+    "artDirection": "No written measurements, numbers, arrows, diagrams, or labels; make the rod cross the table center."
+  },
+  {
+    "id": "kyc-2190",
+    "anchor": "friend",
+    "sentence": "She used discretion and kept her friend's secret private.",
+    "relation": "Discretion is careful judgment about what to say or keep private.",
+    "setting": "A quiet room with a closed door",
+    "actor": "Exactly two friends speak privately; one listens carefully and does not reveal the secret.",
+    "props": [
+      "two friends",
+      "one closed door",
+      "one plain chair"
+    ],
+    "beats": [
+      "One friend shares a secret",
+      "The other listens carefully",
+      "The listener keeps it private with discretion"
+    ],
+    "ending": "One friend listens discreetly and keeps a secret private.",
+    "artDirection": "Exactly two people, no speech bubbles or text; discreet, calm expressions; no symbols."
+  },
+  {
+    "id": "kyc-2191",
+    "anchor": "mirror",
+    "sentence": "His ego grew as he admired himself in the mirror.",
+    "relation": "Ego is a person's sense of self, sometimes excessive self-importance.",
+    "setting": "A bedroom with one full-length mirror",
+    "actor": "One self-satisfied adult admires his reflection in a plain mirror.",
+    "props": [
+      "one adult",
+      "one full-length mirror",
+      "one plain jacket"
+    ],
+    "beats": [
+      "The adult approaches the mirror",
+      "He admires his reflection",
+      "His pride grows"
+    ],
+    "ending": "A proud man admires himself in the mirror.",
+    "artDirection": "One person and one reflection only; no logos, text, or duplicate people outside the reflection."
+  },
+  {
+    "id": "kyc-2192",
+    "anchor": "speech",
+    "sentence": "Her eloquent speech moved the listener in the front row.",
+    "relation": "Eloquent speech expresses ideas clearly and powerfully.",
+    "setting": "A small community hall",
+    "actor": "Exactly two people: one speaker addresses one listener, who is visibly moved by the speech.",
+    "props": [
+      "one speaker",
+      "one seated listener",
+      "one plain lectern"
+    ],
+    "beats": [
+      "The speaker begins",
+      "The ideas are expressed warmly",
+      "The listener is visibly moved"
+    ],
+    "ending": "An eloquent speaker moves one listener with a speech.",
+    "artDirection": "Exactly two people; no crowd, written notes, signs, sound marks, or symbols."
+  },
+  {
+    "id": "kyc-2193",
+    "anchor": "fence",
+    "sentence": "A fence made an enclosure where the sheep could graze.",
+    "relation": "An enclosure is a bounded area surrounded by a fence or wall.",
+    "setting": "A green pasture",
+    "actor": "No people: a simple fence surrounds one small area where two sheep graze.",
+    "props": [
+      "one fence",
+      "one grassy enclosed area",
+      "two sheep"
+    ],
+    "beats": [
+      "The fence marks a boundary",
+      "The sheep enter the bounded space",
+      "They graze inside the enclosure"
+    ],
+    "ending": "Two sheep graze inside a fenced enclosure.",
+    "artDirection": "Exactly two sheep with four legs each; no extra animals, signs, or text."
+  },
+  {
+    "id": "kyc-2194",
+    "anchor": "wave",
+    "sentence": "He gave his friend a wave as they said farewell at the station.",
+    "relation": "A wave of the hand is a familiar gesture when saying farewell.",
+    "setting": "A quiet station platform",
+    "actor": "Exactly two friends: one waves from the platform as the other boards a plain train.",
+    "props": [
+      "one waving friend",
+      "one departing friend",
+      "one train door"
+    ],
+    "beats": [
+      "The friends meet at the station",
+      "One boards the train",
+      "The other gives a final wave and farewell"
+    ],
+    "ending": "One friend waves farewell as the other boards a train.",
+    "artDirection": "Exactly two people; no station signage, letters, numbers, logos, or watermarks."
+  },
+  {
+    "id": "kyc-2195",
+    "anchor": "ball",
+    "sentence": "He had to fling the ball across the field.",
+    "relation": "To fling is to throw something with force.",
+    "setting": "An open grassy field",
+    "actor": "One player throws one plain ball across the field with a strong arm motion.",
+    "props": [
+      "one player",
+      "one plain ball",
+      "one grassy field"
+    ],
+    "beats": [
+      "The player grips the ball",
+      "The arm swings forward",
+      "The ball is flung across the field"
+    ],
+    "ending": "A player flings a ball across an open field.",
+    "artDirection": "One ball only; no arrows, motion lines, text, or extra players."
+  },
+  {
+    "id": "kyc-2196",
+    "anchor": "ice",
+    "sentence": "A glacier's ancient ice crept slowly down the valley.",
+    "relation": "A glacier is a huge body of ice that moves slowly over land.",
+    "setting": "A wide mountain valley",
+    "actor": "No people: one enormous glacier fills the valley with a visible front of blue-white ice.",
+    "props": [
+      "one glacier",
+      "one mountain valley",
+      "one ridge of ancient ice"
+    ],
+    "beats": [
+      "Snow gathers high in the mountains",
+      "Ice builds into a glacier",
+      "The glacier slowly enters the valley"
+    ],
+    "ending": "A glacier of ancient ice fills a mountain valley.",
+    "artDirection": "Show one continuous mass of ice; no labels, map marks, text, or symbols."
+  },
+  {
+    "id": "kyc-2197",
+    "anchor": "sun",
+    "sentence": "The sun rose over a glorious golden mountain valley.",
+    "relation": "Glorious describes something impressively beautiful or splendid.",
+    "setting": "A mountain valley at sunrise",
+    "actor": "No people: sunlight spreads over a grand mountain valley.",
+    "props": [
+      "one rising sun",
+      "one mountain ridge",
+      "one broad valley"
+    ],
+    "beats": [
+      "The valley is dim",
+      "The sun rises above the ridge",
+      "Golden light fills the scene"
+    ],
+    "ending": "The sun rises over a glorious mountain valley.",
+    "artDirection": "Make the view splendid but gentle; no text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2198",
+    "anchor": "storm",
+    "sentence": "The storm left a grim scene of broken homes.",
+    "relation": "Grim describes something harsh, bleak, or frightening.",
+    "setting": "A village after a severe storm",
+    "actor": "No people: damaged homes stand beneath a dark cloudy sky.",
+    "props": [
+      "one damaged house",
+      "one broken fence",
+      "one dark storm cloud"
+    ],
+    "beats": [
+      "The storm passes",
+      "The damaged home and fence are revealed",
+      "The bleak scene remains"
+    ],
+    "ending": "A grim scene of storm damage surrounds one broken home.",
+    "artDirection": "No bodies or injuries; use a serious muted mood; no signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2199",
+    "anchor": "shop",
+    "sentence": "The grocer filled the shop's shelves with fruit and bread.",
+    "relation": "A grocer is a person who sells food and household goods in a shop.",
+    "setting": "A small neighborhood grocery",
+    "actor": "One shopkeeper stocks plain shelves with fruit and bread.",
+    "props": [
+      "one shopkeeper",
+      "one small shop",
+      "one shelf of fruit and bread"
+    ],
+    "beats": [
+      "The grocer opens the shop",
+      "The grocer stocks the shelves",
+      "The food is ready for customers"
+    ],
+    "ending": "A grocer stocks fruit and bread in a small shop.",
+    "artDirection": "No price labels, signs, text, logos, or extra customers.",
+    "targetSense": "杂货商；食品杂货店老板"
+  },
+  {
+    "id": "kyc-2200",
+    "anchor": "wall",
+    "sentence": "He had to grope along the wall to find the door in the dark.",
+    "relation": "To grope is to search by touch when it is difficult to see.",
+    "setting": "A dark hallway at night",
+    "actor": "One adult feels carefully along a plain wall while searching for a doorway.",
+    "props": [
+      "one adult",
+      "one plain wall",
+      "one dark doorway"
+    ],
+    "beats": [
+      "The hallway is dark",
+      "The person reaches along the wall",
+      "A hand finds the doorway"
+    ],
+    "ending": "A person gropes along a wall in the dark.",
+    "artDirection": "Show one connected arm and hand; no extra limbs, light symbols, text, or signs."
+  },
+  {
+    "id": "kyc-2201",
+    "anchor": "door",
+    "sentence": "The door swung open on a squeaky hinge.",
+    "relation": "A hinge is the joint that lets a door swing open and shut.",
+    "setting": "A quiet home entryway",
+    "actor": "No people: one plain wooden door swings slightly on a clearly visible metal hinge.",
+    "props": [
+      "one wooden door",
+      "one visible metal hinge",
+      "one doorframe"
+    ],
+    "beats": [
+      "The closed door rests in the frame",
+      "The hinge pivots",
+      "The door swings open"
+    ],
+    "ending": "A door swings open on its hinge.",
+    "artDirection": "Show a real hinge attached to door and frame; no motion lines, signs, or text."
+  },
+  {
+    "id": "kyc-2202",
+    "anchor": "medal",
+    "sentence": "The honorable player returned the medal he found on the field.",
+    "relation": "Honorable describes someone who acts with honesty and integrity.",
+    "setting": "A grassy sports field",
+    "actor": "One player returns a plain medal to its owner.",
+    "props": [
+      "one player",
+      "one plain medal",
+      "one grassy field"
+    ],
+    "beats": [
+      "The player finds the medal",
+      "The owner looks for it",
+      "The honorable player returns it"
+    ],
+    "ending": "An honorable player gives a found medal back to its owner.",
+    "artDirection": "Exactly two people; medal has no lettering, emblems, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2203",
+    "anchor": "floor",
+    "sentence": "The carpenter held the board horizontal above the floor.",
+    "relation": "Horizontal means level from side to side, parallel to the ground.",
+    "setting": "A simple carpentry workshop",
+    "actor": "One carpenter holds a long plain board level above the floor.",
+    "props": [
+      "one carpenter",
+      "one straight wooden board",
+      "one workshop floor"
+    ],
+    "beats": [
+      "The board is lifted",
+      "The carpenter levels it from side to side",
+      "The board stays horizontal above the floor"
+    ],
+    "ending": "A carpenter holds a board horizontal above the floor.",
+    "artDirection": "Keep the board visibly level; no measurement marks, tools, text, or numbers."
+  },
+  {
+    "id": "kyc-2204",
+    "anchor": "car",
+    "sentence": "The car horn startled a dog beside the road.",
+    "relation": "A horn is a car device that makes a warning sound.",
+    "setting": "A quiet roadside",
+    "actor": "One driver presses the center of a plain steering wheel as one dog turns toward the parked car.",
+    "props": [
+      "one car",
+      "one visible steering wheel",
+      "one dog"
+    ],
+    "beats": [
+      "The car is parked by the road",
+      "The driver presses the horn",
+      "The dog turns toward the car"
+    ],
+    "ending": "A car horn startles one dog beside the road.",
+    "artDirection": "One dog with natural anatomy; no sound waves, logos, license numbers, or text."
+  },
+  {
+    "id": "kyc-2205",
+    "anchor": "rain",
+    "sentence": "Rain left the air humid inside the greenhouse.",
+    "relation": "Humid air contains a large amount of moisture.",
+    "setting": "A small greenhouse after rain",
+    "actor": "One gardener feels moist air beside a fogged greenhouse window and one leafy plant.",
+    "props": [
+      "one gardener",
+      "one fogged window",
+      "one leafy plant"
+    ],
+    "beats": [
+      "Rain wets the greenhouse",
+      "Moist air gathers inside",
+      "The gardener feels the humid air"
+    ],
+    "ending": "A gardener feels humid air inside a greenhouse after rain.",
+    "artDirection": "No rain streak icons, text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2206",
+    "anchor": "floor",
+    "sentence": "She had to kneel on the floor to tie her shoe.",
+    "relation": "To kneel is to rest one or both knees on a surface.",
+    "setting": "A simple entryway",
+    "actor": "One person kneels on the floor to tie one shoelace.",
+    "props": [
+      "one person",
+      "one shoe",
+      "one plain floor"
+    ],
+    "beats": [
+      "The person sits down",
+      "One knee touches the floor",
+      "The shoe is tied"
+    ],
+    "ending": "A person kneels to tie a shoe.",
+    "artDirection": "One person with two arms and two legs; no extra limbs, letters, or symbols."
+  },
+  {
+    "id": "kyc-2207",
+    "anchor": "seed",
+    "sentence": "The seed held latent life until spring warmth arrived.",
+    "relation": "Latent means present but hidden or not yet active.",
+    "setting": "A small patch of garden soil in winter",
+    "actor": "No people: one seed rests under the soil with a tiny dormant sprout inside.",
+    "props": [
+      "one seed",
+      "one layer of soil",
+      "one tiny dormant sprout"
+    ],
+    "beats": [
+      "The seed rests underground",
+      "Life remains latent through winter",
+      "Spring warmth is about to awaken the sprout"
+    ],
+    "ending": "A latent sprout waits inside a seed beneath the soil.",
+    "artDirection": "No labels, diagrams, cutaway text, or symbols; show the tiny hidden sprout through a simple natural soil cross-section."
+  },
+  {
+    "id": "kyc-2208",
+    "anchor": "paper",
+    "sentence": "She handed a paper leaflet to her neighbor at the door.",
+    "relation": "A leaflet is a small printed sheet handed out to people.",
+    "setting": "A simple home doorway",
+    "actor": "Exactly two neighbors: one hands over a small folded blank leaflet.",
+    "props": [
+      "one small folded leaflet",
+      "one neighbor giving it",
+      "one neighbor receiving it"
+    ],
+    "beats": [
+      "The neighbors meet at the door",
+      "One offers the leaflet",
+      "The other accepts it"
+    ],
+    "ending": "One neighbor gives a leaflet to another at the door.",
+    "artDirection": "Leaflet must be blank with no writing, letters, numbers, logos, or symbols; exactly two people."
+  },
+  {
+    "id": "kyc-2209",
+    "anchor": "road",
+    "sentence": "The road followed a linear route across the plain.",
+    "relation": "Linear means arranged along a straight line or single direction.",
+    "setting": "A broad open plain",
+    "actor": "No people: one straight road runs directly across the plain toward the horizon.",
+    "props": [
+      "one straight road",
+      "one open plain",
+      "one distant horizon"
+    ],
+    "beats": [
+      "The road begins in the foreground",
+      "It continues in a straight line",
+      "It reaches the horizon"
+    ],
+    "ending": "A linear road crosses an open plain.",
+    "artDirection": "Emphasize one straight route; no road markings, arrows, signs, or text."
+  },
+  {
+    "id": "kyc-2210",
+    "anchor": "money",
+    "sentence": "The millionaire donated money to build a village school.",
+    "relation": "A millionaire is someone whose wealth reaches at least one million units of currency.",
+    "setting": "A village school construction site",
+    "actor": "Exactly two adults: one wealthy donor gives a plain unmarked donation box to one builder.",
+    "props": [
+      "one wealthy donor",
+      "one plain donation box",
+      "one unfinished school wall"
+    ],
+    "beats": [
+      "The donor arrives at the site",
+      "The donor gives support",
+      "The school begins to rise"
+    ],
+    "ending": "A wealthy donor supports the building of a village school.",
+    "artDirection": "No currency symbols, banknotes with numbers, signs, logos, or extra people."
+  }
+]

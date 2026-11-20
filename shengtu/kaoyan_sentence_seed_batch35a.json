@@ -1,0 +1,802 @@
+[
+  {
+    "id": "kyc-1561",
+    "word": "invasion",
+    "targetSense": "侵略",
+    "anchor": "wall",
+    "anchorMeaning": "墙",
+    "relation": "士兵越过边境墙开始侵略，表现 invasion。",
+    "sentence": "The invasion began when soldiers crossed the border wall.",
+    "scene": {
+      "setting": "A quiet border village at dawn",
+      "actor": "Two soldiers step across one low stone border wall toward an empty village, with no fighting or civilians visible",
+      "props": [
+        "stone border wall",
+        "two soldiers",
+        "small village homes"
+      ],
+      "beats": [
+        "The soldiers approach the wall",
+        "They cross over the border",
+        "They enter the quiet village"
+      ],
+      "ending": "Two soldiers cross a border wall into a quiet village during an invasion."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“墙”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two soldiers and a clear stone boundary wall; keep the scene nonviolent, with no weapons in use, flags, signs, text, or insignia."
+  },
+  {
+    "id": "kyc-1562",
+    "word": "layoff",
+    "targetSense": "临时解雇；操作停止",
+    "anchor": "factory",
+    "anchorMeaning": "工厂",
+    "relation": "工厂裁员让一名工人提前回家，表现 layoff。",
+    "sentence": "The factory layoff sent a worker home early.",
+    "scene": {
+      "setting": "A quiet factory floor near closing time",
+      "actor": "One manager gives one worker a blank envelope as the worker packs a small box beside a stopped machine",
+      "props": [
+        "factory machine",
+        "blank envelope",
+        "small cardboard box"
+      ],
+      "beats": [
+        "The machine stops at the factory",
+        "The manager gives the worker a blank envelope",
+        "The worker packs her things and leaves early"
+      ],
+      "ending": "One worker leaves a quiet factory with a box after receiving a blank notice."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“工厂”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two adults; envelope and box must have no writing, labels, logos, or numbers; no signs or badges."
+  },
+  {
+    "id": "kyc-1563",
+    "word": "messenger",
+    "targetSense": "报信者",
+    "anchor": "letter",
+    "anchorMeaning": "信",
+    "relation": "报信者带着一封信赶到村口，表现 messenger。",
+    "sentence": "The messenger carried a letter to the village.",
+    "scene": {
+      "setting": "A country lane leading to one village home",
+      "actor": "One messenger arrives at a village home carrying one plain unmarked letter",
+      "props": [
+        "one blank letter",
+        "messenger satchel",
+        "village doorway"
+      ],
+      "beats": [
+        "The messenger walks along the lane",
+        "He reaches the village home",
+        "He presents the letter to the resident"
+      ],
+      "ending": "A messenger arrives with a letter at a village doorway."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“信”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one messenger and one resident at most; the letter and satchel must be blank, with no stamps, labels, or writing."
+  },
+  {
+    "id": "kyc-1564",
+    "word": "outbreak",
+    "targetSense": "爆发",
+    "anchor": "spark",
+    "anchorMeaning": "火花",
+    "relation": "炉边的火花引发厨房起火，表现 outbreak。",
+    "sentence": "A spark from the stove triggered an outbreak of fire in the kitchen.",
+    "scene": {
+      "setting": "A simple kitchen with a small stove",
+      "actor": "One bright spark catches a tiny dry cloth beside the stove and a small flame suddenly appears",
+      "props": [
+        "one spark",
+        "small stove",
+        "dry cloth"
+      ],
+      "beats": [
+        "The stove is quiet",
+        "A spark lands on the dry cloth",
+        "A small outbreak of flame begins beside the stove"
+      ],
+      "ending": "A spark starts a small kitchen fire beside the stove."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“火花”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Keep the fire small and just beginning, with no person injured and no smoke obscuring the scene; no text, labels, or symbols."
+  },
+  {
+    "id": "kyc-1565",
+    "word": "portrait",
+    "targetSense": "肖像",
+    "anchor": "face",
+    "anchorMeaning": "脸",
+    "relation": "画家为朋友的脸绘制肖像，表现 portrait。",
+    "sentence": "The artist painted a portrait of her friend’s face.",
+    "scene": {
+      "setting": "A minimal portrait studio with completely blank walls",
+      "actor": "One artist paints one clear portrait of one seated friend on one canvas",
+      "props": [
+        "one portrait canvas",
+        "one paintbrush",
+        "one seated friend"
+      ],
+      "beats": [
+        "The friend sits for the portrait",
+        "The artist studies the friend’s face",
+        "One portrait takes shape on the canvas"
+      ],
+      "ending": "One artist paints one friend’s face on one canvas in a plain studio."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“脸”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly one artist and one live sitter. The only other face is the portrait on the single main canvas. Keep every wall completely blank: no framed art, extra portraits, posters, signs, lettering, or text."
+  },
+  {
+    "id": "kyc-1566",
+    "word": "procession",
+    "targetSense": "队伍",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "relation": "灯笼车在广场上前后排成 procession，表现 procession。",
+    "sentence": "Lanterns covered the carts as they moved in a procession through the square.",
+    "scene": {
+      "setting": "A village square at dusk",
+      "actor": "Two small carts decorated with plain lanterns roll one behind the other through the square",
+      "props": [
+        "two lantern-covered carts",
+        "plain lanterns",
+        "village square"
+      ],
+      "beats": [
+        "The first cart enters the square",
+        "The second follows in an orderly line",
+        "The carts continue together in a procession"
+      ],
+      "ending": "Two lantern-covered carts roll through the square in a procession."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“灯笼”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly two carts in one orderly line and no people; lanterns have no lettering, symbols, or logos."
+  },
+  {
+    "id": "kyc-1567",
+    "word": "southeast",
+    "targetSense": "东南",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "太阳从东方升起，她沿着小路向东兼向南走向河流，呈现 southeast。",
+    "sentence": "The sun rose as she walked southeast toward the river.",
+    "scene": {
+      "setting": "An overhead view of a meadow at dawn, with the top of the image north and the right side east",
+      "actor": "One traveler walks naturally along an unmarked trail from the upper-left toward the lower-right river while the sun rises on the right",
+      "props": [
+        "rising sun",
+        "natural winding trail",
+        "one river"
+      ],
+      "beats": [
+        "The sun rises on the right side of the landscape",
+        "The traveler follows the natural path diagonally down-right",
+        "She reaches the river in the lower-right"
+      ],
+      "ending": "One traveler walks southeast along a natural trail toward the lower-right river as sunrise glows on the right."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；太阳标明东方，人物沿向右下的小路前往河流，方向关系可视化。"
+    },
+    "artDirection": "Show a natural landscape from a high overhead viewpoint, not a map. Place the rising sun on the right side to represent east; place the traveler in the upper-left, a plain natural trail diagonally down-right, and the river in the lower-right. No compass, no arrows, no dotted or dashed route, no trail markers, no signs, no letters, no numbers, no labels, no decorative symbols."
+  },
+  {
+    "id": "kyc-1568",
+    "word": "standpoint",
+    "targetSense": "立场",
+    "anchor": "river",
+    "anchorMeaning": "河流",
+    "relation": "她坚持保护河流的观点，表现 standpoint。",
+    "sentence": "From her standpoint, the river should stay clean.",
+    "scene": {
+      "setting": "A clean riverbank after a community cleanup",
+      "actor": "One woman stands firmly beside the river holding a small bag of collected litter, determined to protect the water",
+      "props": [
+        "one river",
+        "one small litter bag",
+        "one riverbank"
+      ],
+      "beats": [
+        "The woman notices litter by the water",
+        "She gathers it into the bag",
+        "She stands by the river, firm in her standpoint that it should stay clean"
+      ],
+      "ending": "A woman takes a firm standpoint in protecting the river."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“河流”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one woman with a calm but determined posture; no signs, slogans, banners, text, or extra people."
+  },
+  {
+    "id": "kyc-1569",
+    "word": "stroll",
+    "targetSense": "漫步",
+    "anchor": "park",
+    "anchorMeaning": "公园",
+    "relation": "她在公园里悠闲地漫步，表现 stroll。",
+    "sentence": "She enjoyed a slow stroll through the park at sunset.",
+    "scene": {
+      "setting": "A peaceful park path at sunset",
+      "actor": "One woman walks slowly along a tree-lined park path with relaxed shoulders",
+      "props": [
+        "park path",
+        "one woman",
+        "trees"
+      ],
+      "beats": [
+        "She enters the quiet park",
+        "She walks at an easy pace",
+        "She continues her relaxed stroll at sunset"
+      ],
+      "ending": "One woman enjoys a slow stroll through the park."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“公园”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show an unhurried walking pose and a peaceful park; no extra people, signs, text, or logos."
+  },
+  {
+    "id": "kyc-1570",
+    "word": "stumble",
+    "targetSense": "绊倒、蹒跚",
+    "anchor": "stone",
+    "anchorMeaning": "石头",
+    "relation": "他在小路上被石头绊了一下，表现 stumble。",
+    "sentence": "He may stumble over a stone on the garden path.",
+    "scene": {
+      "setting": "A garden path with one small stone",
+      "actor": "One man catches himself as his toe catches on one stone in the path",
+      "props": [
+        "one stone",
+        "garden path",
+        "one walking shoe"
+      ],
+      "beats": [
+        "The man walks along the path",
+        "His shoe catches on the stone",
+        "He stumbles forward but stays upright"
+      ],
+      "ending": "A man stumbles over a stone on a garden path."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“石头”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one man with exactly two arms and two legs in one balanced stumbling pose; no injury, extra limbs, text, or symbols."
+  },
+  {
+    "id": "kyc-1571",
+    "word": "temperament",
+    "targetSense": "气质",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "温顺的猫让紧张的孩子放松，表现 temperament。",
+    "sentence": "The cat’s gentle temperament calmed the nervous child.",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One calm cat sits beside one nervous child, gently accepting a careful stroke",
+      "props": [
+        "one calm cat",
+        "one child",
+        "one soft cushion"
+      ],
+      "beats": [
+        "The child approaches cautiously",
+        "The cat remains calm and relaxed",
+        "The child relaxes beside the gentle cat"
+      ],
+      "ending": "A calm cat’s gentle temperament comforts one child."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“猫”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one child and one cat; the cat has natural four-leg anatomy, with no extra animals or text."
+  },
+  {
+    "id": "kyc-1572",
+    "word": "transistor",
+    "targetSense": "晶体管",
+    "anchor": "radio",
+    "anchorMeaning": "收音机",
+    "relation": "收音机里的晶体管损坏后无法工作，表现 transistor。",
+    "sentence": "The radio stopped working when its transistor failed.",
+    "scene": {
+      "setting": "A small electronics repair bench",
+      "actor": "One repairer examines an opened radio with one small transistor visible on its circuit board",
+      "props": [
+        "one radio",
+        "one circuit board",
+        "one small transistor"
+      ],
+      "beats": [
+        "The radio stops playing",
+        "The repairer opens the back",
+        "One transistor on the circuit board is inspected"
+      ],
+      "ending": "A repairer finds a transistor inside a silent radio."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“收音机”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one recognizable small electronic transistor with three short metal leads on a simple board; no labels, text, or extra people."
+  },
+  {
+    "id": "kyc-1573",
+    "word": "verse",
+    "targetSense": "诗",
+    "anchor": "guitar",
+    "anchorMeaning": "吉他",
+    "relation": "她一边弹吉他一边唱一段诗句，表现 verse。",
+    "sentence": "She sang one verse while strumming her guitar.",
+    "scene": {
+      "setting": "A warm room with a single music stool",
+      "actor": "One woman sings while strumming an acoustic guitar, performing one verse of a song",
+      "props": [
+        "one acoustic guitar",
+        "one music stool",
+        "one singer"
+      ],
+      "beats": [
+        "She settles with the guitar",
+        "She begins to sing and strum",
+        "She completes one verse of the song"
+      ],
+      "ending": "One singer performs a verse while playing her guitar."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“吉他”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one singer with a guitar; no sheet music, written lyrics, speech bubbles, music symbols, or text."
+  },
+  {
+    "id": "kyc-1574",
+    "word": "void",
+    "targetSense": "空白、无效的；空虚",
+    "anchor": "box",
+    "anchorMeaning": "盒子",
+    "relation": "搬家后盒子里空无一物，表现 void。",
+    "sentence": "The box was void of toys after the move.",
+    "scene": {
+      "setting": "A nearly empty room after moving",
+      "actor": "One person peers into one open empty box in a bare room",
+      "props": [
+        "one open box",
+        "one empty room",
+        "one folded moving blanket"
+      ],
+      "beats": [
+        "The box is opened",
+        "The person looks inside",
+        "The box is revealed to be void of toys"
+      ],
+      "ending": "An open box is void of toys after the move."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“盒子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the inside of the box clearly empty; no toys, labels, writing, or signs anywhere."
+  },
+  {
+    "id": "kyc-1575",
+    "word": "adverse",
+    "targetSense": "不利的",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "船在逆风中艰难前行，表现 adverse。",
+    "sentence": "The boat struggled against adverse winds on the lake.",
+    "scene": {
+      "setting": "A breezy lake under darkening clouds",
+      "actor": "One small boat with one sailor leans against strong wind and choppy water",
+      "props": [
+        "one small boat",
+        "one sailor",
+        "wind-blown lake"
+      ],
+      "beats": [
+        "The boat moves across the lake",
+        "Strong adverse wind pushes against it",
+        "The sailor steadies the boat against the rough breeze"
+      ],
+      "ending": "A small boat struggles against adverse winds."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“船”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show exactly one sailor in one boat; no sinking, injury, lightning, text, or signs."
+  },
+  {
+    "id": "kyc-1576",
+    "word": "amplify",
+    "targetSense": "扩大",
+    "anchor": "speaker",
+    "anchorMeaning": "扬声器",
+    "relation": "麦克风把轻声放大，通过扬声器传开，表现 amplify。",
+    "sentence": "The microphone can amplify her quiet voice through the speaker.",
+    "scene": {
+      "setting": "A plain small community hall with a blank wall",
+      "actor": "One woman speaks into one microphone connected by a cable to one large speaker",
+      "props": [
+        "one microphone",
+        "one large speaker",
+        "one microphone cable"
+      ],
+      "beats": [
+        "The woman speaks softly into the microphone",
+        "The microphone sends her voice through the cable",
+        "The large speaker fills the hall with her amplified voice"
+      ],
+      "ending": "One woman uses a microphone connected to one large speaker."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“扬声器”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show only the woman, microphone, cable, and large speaker against a blank wall. Do not draw sound-wave arcs, motion marks, rings, symbols, signs, text, labels, or logos."
+  },
+  {
+    "id": "kyc-1577",
+    "word": "butterfly",
+    "targetSense": "蝴蝶",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "relation": "蝴蝶停在花上，蝴蝶与花都清楚可见。",
+    "sentence": "A butterfly rested on the flower.",
+    "scene": {
+      "setting": "A sunny garden patch",
+      "actor": "One butterfly rests on one open flower among green leaves",
+      "props": [
+        "one butterfly",
+        "one open flower",
+        "green leaves"
+      ],
+      "beats": [
+        "The butterfly approaches the flower",
+        "It lands gently on a petal",
+        "It rests with wings open above the flower"
+      ],
+      "ending": "One butterfly rests on a flower."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“花”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show one butterfly with natural insect anatomy and one clear flower; no extra butterflies, text, or markings."
+  },
+  {
+    "id": "kyc-1578",
+    "word": "chill",
+    "targetSense": "寒冷、寒冷的",
+    "anchor": "ice",
+    "anchorMeaning": "冰",
+    "relation": "寒风使池边结冰，表现 chill。",
+    "sentence": "A chill wind formed ice along the pond.",
+    "scene": {
+      "setting": "A cold pond edge in winter",
+      "actor": "One bundled walker shivers beside a pond where a thin edge of ice has formed",
+      "props": [
+        "one ice-edged pond",
+        "one bundled walker",
+        "one windswept tree"
+      ],
+      "beats": [
+        "A cold wind moves the tree branches",
+        "The walker shivers in the chill",
+        "A thin line of ice forms along the pond"
+      ],
+      "ending": "A chill wind forms ice along the pond."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“冰”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show cold weather through the walker’s bundled clothes, moving branches, and pond ice; no snow lettering, signs, or text."
+  },
+  {
+    "id": "kyc-1579",
+    "word": "commonplace",
+    "targetSense": "平凡的；老生常谈",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "这栋普通房子和街上其他房子相似，表现 commonplace。",
+    "sentence": "The commonplace house looked like all the others on the street.",
+    "scene": {
+      "setting": "A quiet residential street with similar homes",
+      "actor": "One plain modest house repeats the same simple shape as several neighboring homes",
+      "props": [
+        "one commonplace house",
+        "similar neighboring houses",
+        "quiet street"
+      ],
+      "beats": [
+        "The plain house stands on the street",
+        "Its ordinary shape matches the neighbors",
+        "The row looks familiar and commonplace"
+      ],
+      "ending": "A commonplace house looks like the others on the street."
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“房子”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Show a row of similar ordinary houses with no distinctive landmark, signs, numbers, or text."
+  },
+  {
+    "id": "kyc-1580",
+    "word": "compact",
+    "targetSense": "紧凑的",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "紧凑的小行李箱放进汽车后备箱，表现 compact。",
+    "sentence": "The compact suitcase fit neatly into the car trunk.",
+    "scene": {
+      "setting": "A quiet driveway with an open car trunk",
+      "actor": "One small suitcase fits neatly inside the open trunk of one car",
+      "props": [
+        "one compact suitcase",
+        "one open car trunk",
+        "one folded jacket"
+      ],
+      "beats": [
+        "The small suitcase is lifted to the trunk",
+        "It fits neatly inside with room to spare",
+        "The folded jacket sits beside it"
+      ],
+      "ending": "A compact suitcase fits neatly inside a car trunk."
+    },
+    "mode": "scene",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子自然、语法正确且易读；锚点“汽车”与目标义可在同一具体场景中辨认。"
+    },
+    "artDirection": "Make the suitcase visibly small and space-efficient; no license plate characters, logos, labels, or text."
+  }
+]

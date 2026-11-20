@@ -5,6 +5,7 @@ function scenario({ cards = {}, words = [], logs = [], settings = {} } = {}) {
   const state = { cards, settings: { dailyNew: 20, dailyReview: -1, workloadProtection: false, dailyStudyMinutes: 45, ...settings } };
   const api = loadFunctions(['dueReviewWords', 'newWords', 'planFor', 'describeEmptyStudy'], {
     state, defaultDeckId: () => 'main', wordsForDeck: deck => words.filter(w => w.deck === deck),
+    deckFor: deck => ({ id: deck, parentDeck: null }),
     wordIsAvailable: word => !word.suspended, todayLogs: () => logs,
     personalStudyPace: () => ({ newSeconds: 28, reviewSeconds: 10, againRate: 0, sampleSize: 0 })
   });

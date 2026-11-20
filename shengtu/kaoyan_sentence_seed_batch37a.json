@@ -1,0 +1,962 @@
+[
+  {
+    "id": "kyc-1601",
+    "serial": 4105,
+    "frequency": 10,
+    "word": "fax",
+    "targetSense": "传真",
+    "alt": "",
+    "anchor": "machine",
+    "anchorMeaning": "机器",
+    "relation": "她用办公传真机把一页文件传真出去，表现 fax。",
+    "sentence": "She sent the page by fax using the office machine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office desk with one plain fax machine",
+      "actor": "One woman sends one blank page by fax with the office machine",
+      "props": [
+        "one fax machine",
+        "one blank page",
+        "one plain desk"
+      ],
+      "beats": [
+        "She places the blank page in the fax machine",
+        "She presses its simple control",
+        "The page feeds through as she sends the fax"
+      ],
+      "ending": "One woman sends a page by fax using the office machine."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman only and one fax machine with a single blank page feeding through; no duplicate pages, screen text, buttons with labels, logos, or writing.",
+    "imageFile": "kyc-1601.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1602",
+    "serial": 4106,
+    "frequency": 10,
+    "word": "fisherman",
+    "targetSense": "渔夫",
+    "alt": "",
+    "anchor": "net",
+    "anchorMeaning": "渔网",
+    "relation": "渔夫在河边把渔网撒进水里，表现 fisherman。",
+    "sentence": "The fisherman cast his net into the river at dawn.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm riverbank at dawn",
+      "actor": "One fisherman casts one fishing net into the river",
+      "props": [
+        "one fisherman",
+        "one fishing net",
+        "one river"
+      ],
+      "beats": [
+        "The fisherman stands at the water’s edge",
+        "He swings the net outward",
+        "The net opens over the river"
+      ],
+      "ending": "One fisherman casts a net across a quiet river."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one fisherman, one net, and no other people, boats, fish, text, signs, or letters.",
+    "imageFile": "kyc-1602.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1603",
+    "serial": 4107,
+    "frequency": 10,
+    "word": "fleet",
+    "targetSense": "舰队",
+    "alt": "",
+    "anchor": "bay",
+    "anchorMeaning": "海湾",
+    "relation": "三艘船在海湾上并肩航行，组成一支舰队，表现 fleet。",
+    "sentence": "Three ships sailed together across the bay as a fleet.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad peaceful bay under clear skies",
+      "actor": "Exactly three small ships sail together in one compact fleet across the bay",
+      "props": [
+        "exactly three ships",
+        "one bay",
+        "one shared wake"
+      ],
+      "beats": [
+        "Three ships begin side by side",
+        "They sail forward together",
+        "The group crosses the open bay as a fleet"
+      ],
+      "ending": "Three ships sail together in formation across a bay."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly three ships total, all clearly visible in the foreground; no distant boats, extra vessels, people, flags, writing, or numbers.",
+    "imageFile": "kyc-1603.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1604",
+    "serial": 4108,
+    "frequency": 10,
+    "word": "graphic",
+    "targetSense": "图表",
+    "alt": "",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "一张无字图表比较三盆植物的高度，表现 graphic。",
+    "sentence": "A simple graphic compared the heights of three potted plants.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A classroom with one large plain chart board on a blank wall",
+      "actor": "One teacher points to a simple graphic on the board showing exactly three potted plant illustrations at clearly different heights; there are no real plants outside the graphic",
+      "props": [
+        "one plain chart board",
+        "exactly three potted plant illustrations",
+        "one blank wall"
+      ],
+      "beats": [
+        "The chart shows three potted plant drawings",
+        "Each drawing has a visibly different height",
+        "The graphic compares the three plant heights"
+      ],
+      "ending": "A simple graphic compares three potted plants at different heights."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "The chart board itself contains exactly three potted plant drawings, each clearly a different height. Show no real plants outside the chart, no bar graph, no extra plant, no labels, grid, numbers, letters, arrows, captions, or writing. Keep the classroom otherwise empty.",
+    "imageFile": "kyc-1604.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1605",
+    "serial": 4109,
+    "frequency": 10,
+    "word": "haul",
+    "targetSense": "拖、拉",
+    "alt": "",
+    "anchor": "rope",
+    "anchorMeaning": "绳子",
+    "relation": "他用粗绳把木箱拖过码头，表现 haul。",
+    "sentence": "He used a thick rope to haul the crate across the dock.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet wooden dock beside the water",
+      "actor": "One dockworker leans back and pulls one wooden crate with one thick rope",
+      "props": [
+        "one thick rope",
+        "one wooden crate",
+        "one dock"
+      ],
+      "beats": [
+        "The rope is tied around the crate",
+        "The worker grips the rope and leans back",
+        "The crate slides across the dock"
+      ],
+      "ending": "One worker hauls one crate across the dock with a rope."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one worker, one rope, and one crate only; no extra boxes, boats, text, labels, or signs.",
+    "imageFile": "kyc-1605.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1606",
+    "serial": 4111,
+    "frequency": 10,
+    "word": "ingenious",
+    "targetSense": "精巧的；有独创性的",
+    "alt": "",
+    "anchor": "pulley",
+    "anchorMeaning": "滑轮",
+    "relation": "她巧妙地用滑轮轻松吊起沉重木箱，表现 ingenious。",
+    "sentence": "Her ingenious pulley lifted the heavy crate with little effort.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bare workshop with one simple wooden support beam and a blank wall",
+      "actor": "One woman pulls one rope over one pulley wheel attached to the beam, lifting one heavy wooden crate",
+      "props": [
+        "one pulley wheel with its support beam",
+        "one rope",
+        "one wooden crate"
+      ],
+      "beats": [
+        "The woman threads the rope over the wheel",
+        "She pulls down on one end of the rope",
+        "The single wheel raises the crate with little effort"
+      ],
+      "ending": "One simple pulley lets a woman lift a heavy crate."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Keep the scene minimal: exactly one woman, one pulley wheel, one rope, and one wooden crate; the support beam is part of the pulley rig. The background is a plain blank wall. No shelves, cabinets, other tools, jars, plants, framed pictures, locks, extra wheels, extra boxes, signs, or text.",
+    "imageFile": "kyc-1606.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1607",
+    "serial": 4113,
+    "frequency": 10,
+    "word": "meditation",
+    "targetSense": "冥想",
+    "alt": "",
+    "anchor": "pond",
+    "anchorMeaning": "池塘",
+    "relation": "她在池塘边安静地冥想，表现 meditation。",
+    "sentence": "She practiced meditation beside the quiet pond.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful garden beside a small pond",
+      "actor": "One woman sits quietly on a flat stone with eyes closed, meditating beside the pond",
+      "props": [
+        "one pond",
+        "one flat stone",
+        "one tree"
+      ],
+      "beats": [
+        "She sits beside the water",
+        "She closes her eyes and breathes calmly",
+        "She remains still in meditation"
+      ],
+      "ending": "One woman meditates quietly beside a pond."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman only in a calm natural posture with normal anatomy; no symbols, text, signs, or extra people.",
+    "imageFile": "kyc-1607.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1608",
+    "serial": 4114,
+    "frequency": 10,
+    "word": "merchandise",
+    "targetSense": "商品",
+    "alt": "merchandize",
+    "anchor": "shelf",
+    "anchorMeaning": "货架",
+    "relation": "店主把待售商品整齐摆上货架，表现 merchandise。",
+    "sentence": "The shopkeeper arranged the merchandise on a wooden shelf.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small neighborhood shop with a plain counter",
+      "actor": "One shopkeeper neatly arranges a selection of goods for sale on a wooden shelf",
+      "props": [
+        "one wooden shelf",
+        "assorted merchandise",
+        "one plain counter"
+      ],
+      "beats": [
+        "The shopkeeper places the goods on the shelf",
+        "The merchandise is arranged neatly",
+        "The shop display is ready for customers"
+      ],
+      "ending": "A shopkeeper arranges merchandise on a shelf."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show ordinary unlabeled goods such as plain jars, folded cloth, and fruit; no packaging text, price tags, logos, signs, or extra people.",
+    "imageFile": "kyc-1608.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1609",
+    "serial": 4115,
+    "frequency": 10,
+    "word": "oppress",
+    "targetSense": "压迫",
+    "alt": "",
+    "anchor": "desk",
+    "anchorMeaning": "书桌",
+    "relation": "经理不断加派工作压迫员工，表现 oppress。",
+    "sentence": "Her manager's extra demands oppress the worker at her desk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain office with one desk",
+      "actor": "One manager towers over one tired worker while placing a large stack of blank papers on her desk",
+      "props": [
+        "one desk",
+        "one stack of blank papers",
+        "one office chair"
+      ],
+      "beats": [
+        "The worker sits at the desk looking tired",
+        "The manager adds more blank papers",
+        "The worker feels overwhelmed by the unfair pressure"
+      ],
+      "ending": "A manager oppresses a worker by piling work onto her desk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults and a nonviolent stressful workplace scene; papers must be blank, with no writing, logos, or extra people.",
+    "imageFile": "kyc-1609.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1610",
+    "serial": 4116,
+    "frequency": 10,
+    "word": "repetition",
+    "targetSense": "重复",
+    "alt": "",
+    "anchor": "quilt",
+    "anchorMeaning": "被子",
+    "relation": "蓝色方块在被子上不断重复，形成明显图案，表现 repetition。",
+    "sentence": "The repetition of blue squares gave the quilt a simple pattern.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A cozy bedroom with one bed",
+      "actor": "A patchwork quilt lies across the bed with the same blue square repeated evenly in its pattern",
+      "props": [
+        "one quilt",
+        "one bed",
+        "repeated blue squares"
+      ],
+      "beats": [
+        "The quilt shows one blue square motif",
+        "The same square appears again and again",
+        "The repetition forms a simple pattern"
+      ],
+      "ending": "Blue squares repeat across a quilt in a clear pattern."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show a repeating patchwork pattern on one quilt; keep all squares blank and geometric, with no symbols, letters, text, or people.",
+    "imageFile": "kyc-1610.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1611",
+    "serial": 4117,
+    "frequency": 10,
+    "word": "rod",
+    "targetSense": "杆",
+    "alt": "",
+    "anchor": "tent",
+    "anchorMeaning": "帐篷",
+    "relation": "一根金属杆撑起小帐篷，表现 rod。",
+    "sentence": "One metal rod held the small tent upright.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet grassy campsite with one small pyramid tent",
+      "actor": "One camper places one single metal rod vertically at the center of the pyramid tent to hold it upright",
+      "props": [
+        "one central metal rod",
+        "one small pyramid tent",
+        "one grassy clearing"
+      ],
+      "beats": [
+        "The camper raises the tent fabric",
+        "He places the single rod at its center",
+        "The rod holds the tent upright"
+      ],
+      "ending": "One central metal rod holds a small tent upright."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly one visible rigid metal rod, centered under the peak of a simple pyramid tent. Do not show any other tent poles, support struts, staffs, or rods; no side frames or additional gear. One camper only, with no text or logos.",
+    "imageFile": "kyc-1611.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1612",
+    "serial": 4119,
+    "frequency": 10,
+    "word": "script",
+    "targetSense": "脚本",
+    "alt": "",
+    "anchor": "stage",
+    "anchorMeaning": "舞台",
+    "relation": "演员拿着剧本在空舞台上排练，表现 script。",
+    "sentence": "The actor rehearsed from a script on the empty stage.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small empty theater stage",
+      "actor": "One actor rehearses alone while holding a few completely blank script pages",
+      "props": [
+        "one blank script",
+        "one stage",
+        "one theater curtain"
+      ],
+      "beats": [
+        "The actor steps onto the stage",
+        "She holds the script pages and rehearses",
+        "The empty stage remains quiet around her"
+      ],
+      "ending": "One actor rehearses from a script on an empty stage."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one actor holding blank paper pages; no writing, letters, numbers, audience, signs, or extra people.",
+    "imageFile": "kyc-1612.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1613",
+    "serial": 4120,
+    "frequency": 10,
+    "word": "smash",
+    "targetSense": "粉碎、打碎",
+    "alt": "",
+    "anchor": "hammer",
+    "anchorMeaning": "锤子",
+    "relation": "锤子可以把陶罐砸碎，表现 smash。",
+    "sentence": "A hammer can smash a clay pot.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bare workshop floor against a plain blank wall",
+      "actor": "One adult uses one hammer to smash one clay pot; the broken fragments all belong to that single pot",
+      "props": [
+        "one hammer",
+        "one clay pot",
+        "one plain floor"
+      ],
+      "beats": [
+        "One intact clay pot rests on the floor",
+        "The adult strikes it with the hammer",
+        "The pot breaks into pieces"
+      ],
+      "ending": "One clay pot is smashed by a hammer, leaving only its own fragments."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show one adult, one hammer, and one clay pot broken into its own fragments on an otherwise empty floor. No shelves, other pottery, jars, bowls, vases, tools, or decorations anywhere in the background. No injury, text, labels, or signs.",
+    "imageFile": "kyc-1613.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1614",
+    "serial": 4121,
+    "frequency": 10,
+    "word": "solemn",
+    "targetSense": "庄严的",
+    "alt": "",
+    "anchor": "flower",
+    "anchorMeaning": "花",
+    "relation": "她神情庄严地在纪念碑前献上一朵花，表现 solemn。",
+    "sentence": "She placed a flower at the quiet memorial with a solemn expression.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden memorial with a plain unmarked stone",
+      "actor": "One woman with a solemn expression places one simple flower beside the memorial stone",
+      "props": [
+        "one flower",
+        "one plain memorial stone",
+        "one garden path"
+      ],
+      "beats": [
+        "She approaches the quiet memorial",
+        "She gently places the flower by the stone",
+        "She pauses with a solemn expression"
+      ],
+      "ending": "One woman places a flower at a quiet memorial."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one woman and one flower beside a blank unmarked stone; no inscriptions, dates, text, flags, or other people.",
+    "imageFile": "kyc-1614.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1615",
+    "serial": 4122,
+    "frequency": 10,
+    "word": "solitary",
+    "targetSense": "孤独的",
+    "alt": "",
+    "anchor": "island",
+    "anchorMeaning": "岛",
+    "relation": "小岛上只有一间孤零零的小屋，表现 solitary。",
+    "sentence": "A solitary cabin stood alone on the small island.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small island surrounded by calm sea",
+      "actor": "One little cabin stands by itself on the island with no other buildings or people",
+      "props": [
+        "one cabin",
+        "one island",
+        "surrounding sea"
+      ],
+      "beats": [
+        "The island sits apart in the water",
+        "One cabin stands on the island",
+        "The cabin remains solitary and alone"
+      ],
+      "ending": "One solitary cabin stands alone on a small island."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly one cabin on one small island surrounded by sea; no other buildings, boats, people, signs, or text.",
+    "imageFile": "kyc-1615.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1616",
+    "serial": 4123,
+    "frequency": 10,
+    "word": "successor",
+    "targetSense": "接班人",
+    "alt": "",
+    "anchor": "crown",
+    "anchorMeaning": "王冠",
+    "relation": "国王把王冠交给女儿，选她做王位继承人，表现 successor。",
+    "sentence": "The king chose his daughter as his successor and handed her the crown.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet royal hall with one plain throne",
+      "actor": "One bareheaded king hands exactly one crown to his bareheaded adult daughter beside a simple undecorated throne",
+      "props": [
+        "exactly one crown",
+        "one plain throne",
+        "one plain cushion"
+      ],
+      "beats": [
+        "The king stands beside his daughter",
+        "He gives her the only crown",
+        "She receives it as the next ruler"
+      ],
+      "ending": "A king hands his daughter the only crown as his successor."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly two adults, both bareheaded. Show exactly one crown total, held between the king and daughter and not worn. The throne has a simple flat top, with no crown-shaped ornament. No crowns on clothes, banners, furniture, or heads; no duplicate crowns, extra royals, writing, or text.",
+    "imageFile": "kyc-1616.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1617",
+    "serial": 4124,
+    "frequency": 10,
+    "word": "sway",
+    "targetSense": "影响、摇摆",
+    "alt": "",
+    "anchor": "wind",
+    "anchorMeaning": "风",
+    "relation": "强风吹得树枝来回摇摆，表现 sway 的摇晃义。",
+    "sentence": "The strong wind made the tree sway from side to side.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open meadow during a breezy afternoon",
+      "actor": "One tall tree bends gently from side to side in a strong wind",
+      "props": [
+        "one tree",
+        "wind through its leaves",
+        "one grassy meadow"
+      ],
+      "beats": [
+        "A gust reaches the tree",
+        "Its branches bend to one side",
+        "The tree sways back the other way"
+      ],
+      "ending": "One tree sways in the strong wind."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show one tree leaning naturally in the breeze; suggest wind through leaves and grass only, with no arrows, motion lines, symbols, or text.",
+    "imageFile": "kyc-1617.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1618",
+    "serial": 4125,
+    "frequency": 10,
+    "word": "testimony",
+    "targetSense": "证明",
+    "alt": "",
+    "anchor": "microphone",
+    "anchorMeaning": "麦克风",
+    "relation": "证人在法庭麦克风前作证，表现 testimony。",
+    "sentence": "The witness gave testimony into the courtroom microphone.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small quiet courtroom",
+      "actor": "One witness speaks into one microphone from a witness stand while one judge listens",
+      "props": [
+        "one microphone",
+        "one witness stand",
+        "one judge bench"
+      ],
+      "beats": [
+        "The witness takes the stand",
+        "She gives her testimony into the microphone",
+        "The judge listens carefully"
+      ],
+      "ending": "One witness gives testimony in court into a microphone."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "generated",
+    "imageQCStatus": "pending_manual_review",
+    "artDirection": "Show exactly two adults, a witness and a judge; no jury, papers with writing, legal text, signs, or labels.",
+    "imageFile": "kyc-1618.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1619",
+    "serial": 4127,
+    "frequency": 9,
+    "word": "auction",
+    "targetSense": "拍卖",
+    "alt": "",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "竞拍者举手竞拍一把木椅，表现 auction。",
+    "sentence": "At the auction, the bidder won a carved wooden chair.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A modest auction room with a plain wall",
+      "actor": "Exactly two adults are clearly visible: an auctioneer behind a table holds one small wooden gavel, and a bidder in the foreground raises one hand to win one carved wooden chair",
+      "props": [
+        "one carved wooden chair",
+        "one small gavel",
+        "one plain auction table"
+      ],
+      "beats": [
+        "The chair is displayed for bidding",
+        "The bidder raises a hand while facing the auctioneer",
+        "The auctioneer signals the winning bid with the gavel"
+      ],
+      "ending": "A visible bidder wins one carved chair at an auction."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Use a wide composition with exactly two adults both fully visible: auctioneer behind the table with one gavel, and bidder beside the single chair with one hand clearly raised. No extra people, numbered paddles, price tags, signs, writing, or extra furniture.",
+    "imageFile": "kyc-1619.webp",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1620",
+    "serial": 4128,
+    "frequency": 9,
+    "word": "clip",
+    "targetSense": "修剪、夹子",
+    "alt": "",
+    "anchor": "rosebush",
+    "anchorMeaning": "玫瑰丛",
+    "relation": "园丁用剪刀修剪玫瑰丛上的枯枝，表现 clip。",
+    "sentence": "The gardener uses shears to clip dry stems from a rosebush.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garden corner with a blank pale background",
+      "actor": "One gardener uses one pair of pruning shears to clip one dry stem from one potted rosebush",
+      "props": [
+        "one pair of pruning shears",
+        "one potted rosebush",
+        "one dry stem"
+      ],
+      "beats": [
+        "The gardener inspects the single rosebush",
+        "She clips one dry stem with the shears",
+        "The same bush looks neatly trimmed"
+      ],
+      "ending": "One gardener clips a dry stem from a single rosebush."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句已检查，语法自然、读起来通顺；锚点和目标义能在一个具体场景中表现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail",
+    "artDirection": "Show exactly one gardener, one pair of shears, and one potted rosebush with one dry stem being clipped. Keep the rest of the garden empty with no other bushes, potted plants, trees, flowers, people, labels, or text.",
+    "imageFile": "kyc-1620.webp",
+    "imageError": null
+  }
+]

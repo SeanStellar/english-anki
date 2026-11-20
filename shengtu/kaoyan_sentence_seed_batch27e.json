@@ -1,0 +1,762 @@
+[
+  {
+    "word": "chamber",
+    "anchor": "door",
+    "anchorMeaning": "门",
+    "relation": "A chamber is a private room or enclosed space.",
+    "sentence": "The explorer entered a stone chamber after opening the wooden door.",
+    "scene": {
+      "setting": "A stone passage",
+      "actor": "One explorer steps through an open door into a plain stone chamber",
+      "props": [
+        "single wooden door",
+        "stone chamber",
+        "small lantern"
+      ],
+      "beats": [
+        "The explorer opens the door",
+        "She steps inside",
+        "The doorway frames the chamber"
+      ],
+      "ending": "An explorer enters a stone chamber through a door"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A chamber is a private room or enclosed space. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or signs."
+  },
+  {
+    "word": "enlighten",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "To enlighten someone is to help them understand something.",
+    "sentence": "The teacher used a book to enlighten the child about the moon.",
+    "scene": {
+      "setting": "A quiet classroom by a window",
+      "actor": "Two people; a teacher points from a blank book toward the moon as a child listens",
+      "props": [
+        "blank open book",
+        "single window",
+        "single moon"
+      ],
+      "beats": [
+        "The teacher opens the book",
+        "She points toward the moon",
+        "The child understands"
+      ],
+      "ending": "A teacher enlightens a child with a book and moon"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To enlighten someone is to help them understand something. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing on the pages."
+  },
+  {
+    "word": "mixture",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "A mixture contains different things combined together.",
+    "sentence": "The soup was a mixture of beans and carrots.",
+    "scene": {
+      "setting": "A simple kitchen counter",
+      "actor": "No people; one bowl of soup contains beans and carrot pieces",
+      "props": [
+        "single bowl of soup",
+        "beans",
+        "carrot pieces"
+      ],
+      "beats": [
+        "The ingredients are set out",
+        "They are stirred together",
+        "The mixture becomes soup"
+      ],
+      "ending": "A bowl of soup with beans and carrots"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A mixture contains different things combined together. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or text."
+  },
+  {
+    "word": "pearl",
+    "anchor": "shell",
+    "anchorMeaning": "贝壳",
+    "relation": "A pearl is a smooth round gem that forms inside some shells.",
+    "sentence": "A pearl gleamed inside the open shell.",
+    "scene": {
+      "setting": "A quiet beach",
+      "actor": "No people; one pearl rests inside one open shell",
+      "props": [
+        "single pearl",
+        "single open shell",
+        "wet sand"
+      ],
+      "beats": [
+        "The shell opens",
+        "The pearl catches the light",
+        "It rests within the shell"
+      ],
+      "ending": "A pearl shines inside an open shell"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A pearl is a smooth round gem that forms inside some shells. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "One pearl and one shell only."
+  },
+  {
+    "word": "acre",
+    "anchor": "field",
+    "anchorMeaning": "田地",
+    "relation": "An acre is a unit used to measure an area of land.",
+    "sentence": "The farmer planted an acre of wheat in the field.",
+    "scene": {
+      "setting": "A broad farm field",
+      "actor": "One farmer stands at the edge of a bounded wheat plot",
+      "props": [
+        "bounded wheat field",
+        "small plain shovel",
+        "wooden fence"
+      ],
+      "beats": [
+        "The plot is marked",
+        "The farmer plants wheat",
+        "The acre is filled"
+      ],
+      "ending": "A farmer works a measured field"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. An acre is a unit used to measure an area of land. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No measurements, signs, or numbers."
+  },
+  {
+    "word": "conspicuous",
+    "anchor": "snow",
+    "anchorMeaning": "雪",
+    "relation": "Conspicuous means easy to notice because it stands out.",
+    "sentence": "Her conspicuous red coat stood out against the fresh snow.",
+    "scene": {
+      "setting": "A snowy park path",
+      "actor": "One woman in a bright red coat stands against a wide clean snowfield",
+      "props": [
+        "plain red coat",
+        "fresh snow",
+        "single bare tree"
+      ],
+      "beats": [
+        "The woman enters the snowfield",
+        "Her coat stands out",
+        "It is conspicuous"
+      ],
+      "ending": "A red coat stands out against snow"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Conspicuous means easy to notice because it stands out. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing or patterns."
+  },
+  {
+    "word": "gigantic",
+    "anchor": "barn",
+    "anchorMeaning": "谷仓",
+    "relation": "Gigantic means extremely large.",
+    "sentence": "A gigantic pumpkin stood beside the old barn.",
+    "scene": {
+      "setting": "A quiet farmyard",
+      "actor": "No people; one enormous pumpkin sits beside a small barn",
+      "props": [
+        "single gigantic pumpkin",
+        "small wooden barn",
+        "grass"
+      ],
+      "beats": [
+        "The pumpkin fills the yard",
+        "The barn stands beside it",
+        "Their contrast shows gigantic"
+      ],
+      "ending": "A gigantic pumpkin beside a barn"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Gigantic means extremely large. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra pumpkins or text."
+  },
+  {
+    "word": "overturn",
+    "anchor": "boat",
+    "anchorMeaning": "船",
+    "relation": "To overturn is to turn something upside down.",
+    "sentence": "A large wave could overturn the empty boat near shore.",
+    "scene": {
+      "setting": "A shallow coast with no people",
+      "actor": "No people; one small empty boat tips upside down in a safe shallow wave",
+      "props": [
+        "single empty boat",
+        "single wave",
+        "shallow shore"
+      ],
+      "beats": [
+        "The boat floats near shore",
+        "A wave lifts one side",
+        "The boat overturns"
+      ],
+      "ending": "An empty boat overturns in a small wave"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To overturn is to turn something upside down. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No people in water or text."
+  },
+  {
+    "word": "propel",
+    "anchor": "wind",
+    "anchorMeaning": "风",
+    "relation": "To propel is to push something forward.",
+    "sentence": "The wind can propel a sailboat across the lake.",
+    "scene": {
+      "setting": "A breezy lake",
+      "actor": "No people; one small sailboat moves forward under a filled sail",
+      "props": [
+        "single sailboat",
+        "wind-filled sail",
+        "blue lake"
+      ],
+      "beats": [
+        "The wind rises",
+        "The sail catches it",
+        "The boat moves forward"
+      ],
+      "ending": "Wind propels a sailboat across water"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To propel is to push something forward. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No arrows, flags, or text."
+  },
+  {
+    "word": "stove",
+    "anchor": "pot",
+    "anchorMeaning": "锅",
+    "relation": "A stove is an appliance used for heating or cooking.",
+    "sentence": "A warm pot rested on the stove after supper.",
+    "scene": {
+      "setting": "A simple kitchen",
+      "actor": "No people; one covered pot rests on a plain stove",
+      "props": [
+        "single covered pot",
+        "plain stove",
+        "wooden counter"
+      ],
+      "beats": [
+        "The stove warms",
+        "The pot heats",
+        "It rests after supper"
+      ],
+      "ending": "A pot sits on a kitchen stove"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A stove is an appliance used for heating or cooking. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No numbered controls or text."
+  },
+  {
+    "word": "vain",
+    "anchor": "box",
+    "anchorMeaning": "箱子",
+    "relation": "In vain means without success.",
+    "sentence": "In vain, he tried to lift the heavy box from the floor.",
+    "scene": {
+      "setting": "A simple storeroom",
+      "actor": "One adult tries to lift one heavy box",
+      "props": [
+        "single heavy box",
+        "plain floor",
+        "wooden wall"
+      ],
+      "beats": [
+        "He bends to lift",
+        "The box barely moves",
+        "His effort is in vain"
+      ],
+      "ending": "A person cannot lift a heavy box"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. In vain means without success. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text."
+  },
+  {
+    "word": "bold",
+    "anchor": "horse",
+    "anchorMeaning": "马",
+    "relation": "Bold means brave and willing to take a risk.",
+    "sentence": "The bold girl stepped beside the shy horse.",
+    "scene": {
+      "setting": "A calm paddock",
+      "actor": "One girl calmly approaches one shy horse",
+      "props": [
+        "single calm horse",
+        "wooden fence",
+        "soft grass"
+      ],
+      "beats": [
+        "The horse steps back",
+        "The girl approaches steadily",
+        "Her boldness is clear"
+      ],
+      "ending": "A bold girl stands beside a horse"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Bold means brave and willing to take a risk. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Keep a safe distance; no text."
+  },
+  {
+    "word": "clarity",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃杯",
+    "relation": "Clarity is the quality of being clear and easy to see through.",
+    "sentence": "The clarity of the clean glass let her see every leaf.",
+    "scene": {
+      "setting": "A sunny garden table",
+      "actor": "One person looks through a clean glass toward a leaf",
+      "props": [
+        "single clear glass",
+        "single leaf",
+        "wooden table"
+      ],
+      "beats": [
+        "The glass is lifted",
+        "The leaf comes into focus",
+        "Its clarity is obvious"
+      ],
+      "ending": "A leaf is seen clearly through glass"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Clarity is the quality of being clear and easy to see through. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No text."
+  },
+  {
+    "word": "dirt",
+    "anchor": "shovel",
+    "anchorMeaning": "铲子",
+    "relation": "Dirt is loose soil or grime.",
+    "sentence": "Dirt clung to the shovel after gardening.",
+    "scene": {
+      "setting": "A small garden bed",
+      "actor": "No people; one shovel rests with dirt clinging to its blade",
+      "props": [
+        "single shovel",
+        "dark garden dirt",
+        "small garden bed"
+      ],
+      "beats": [
+        "The shovel digs",
+        "It is lifted",
+        "Dirt clings to its blade"
+      ],
+      "ending": "Dirt coats a garden shovel"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Dirt is loose soil or grime. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No labels or text."
+  },
+  {
+    "word": "disclose",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "To disclose is to reveal information that was hidden.",
+    "sentence": "He had to disclose the secret when he showed his friend the hidden key.",
+    "scene": {
+      "setting": "A quiet garden corner",
+      "actor": "Two friends; one reveals a hidden key to the other",
+      "props": [
+        "single hidden key",
+        "small wooden box",
+        "garden bench"
+      ],
+      "beats": [
+        "He opens the box",
+        "He shows the key",
+        "He discloses the secret"
+      ],
+      "ending": "One friend reveals a hidden key"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To disclose is to reveal information that was hidden. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No written notes or speech bubbles."
+  },
+  {
+    "word": "embody",
+    "anchor": "shield",
+    "anchorMeaning": "盾牌",
+    "relation": "To embody an idea is to represent it in a clear form.",
+    "sentence": "The shield can embody the knight's promise to protect the village.",
+    "scene": {
+      "setting": "A castle yard",
+      "actor": "One knight holds one plain shield beside a small village gate",
+      "props": [
+        "single plain shield",
+        "wooden gate",
+        "stone path"
+      ],
+      "beats": [
+        "The knight lifts the shield",
+        "He stands by the gate",
+        "The shield embodies his promise"
+      ],
+      "ending": "A knight stands guard with a shield"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To embody an idea is to represent it in a clear form. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No emblems, badges, letters, or text."
+  },
+  {
+    "word": "inject",
+    "anchor": "needle",
+    "anchorMeaning": "针",
+    "relation": "To inject medicine is to put it into the body with a syringe.",
+    "sentence": "The nurse used a needle to inject medicine into a patient's arm.",
+    "scene": {
+      "setting": "A plain medical room with a completely blank cream wall",
+      "actor": "A nurse in plain blue scrubs and a plain blue cap gently injects medicine into one seated patient’s upper arm; both people have natural connected arms and hands",
+      "props": [
+        "one plain unmarked syringe",
+        "one small unmarked medicine vial clearly visible on a plain side table",
+        "plain chair"
+      ],
+      "beats": [
+        "The nurse draws medicine from the vial",
+        "The nurse places the needle against the patient’s arm",
+        "The nurse gives one simple injection"
+      ],
+      "ending": "A nurse gives one simple injection with an unmarked syringe and vial"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To inject medicine is to put it into the body with a syringe. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "Show one nurse giving one injection to one seated patient. Use a plain blue cap with no emblem or cross, a syringe with no measurement marks or lettering, and one plain unmarked vial clearly visible on a small side table. No crosses, plus signs, medical icons, labels, text, or logos anywhere. Keep both people’s arms and hands natural and connected."
+  },
+  {
+    "word": "loom",
+    "anchor": "thread",
+    "anchorMeaning": "线",
+    "relation": "A loom is a frame or machine used to weave thread into cloth.",
+    "sentence": "The wooden loom wove a rug from bright thread.",
+    "scene": {
+      "setting": "A quiet weaving room",
+      "actor": "No people; one wooden loom holds colored threads and one woven rug",
+      "props": [
+        "single wooden loom",
+        "colored thread",
+        "small plain rug"
+      ],
+      "beats": [
+        "Threads are arranged",
+        "The loom weaves",
+        "The rug takes shape"
+      ],
+      "ending": "A loom weaves thread into a rug"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. A loom is a frame or machine used to weave thread into cloth. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No letter-like patterns or text."
+  },
+  {
+    "word": "spacious",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "Spacious means having plenty of room.",
+    "sentence": "The spacious hall held a small table with room to walk around it.",
+    "scene": {
+      "setting": "A bright empty hall",
+      "actor": "No people; one small table stands in the center of a wide open hall",
+      "props": [
+        "single small table",
+        "wide hall",
+        "plain window"
+      ],
+      "beats": [
+        "The hall is empty",
+        "The table stands alone",
+        "Wide space remains around it"
+      ],
+      "ending": "A small table sits in a spacious hall"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Spacious means having plenty of room. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No extra furniture or text."
+  },
+  {
+    "word": "confer",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "To confer is to discuss something with another person.",
+    "sentence": "The two neighbors confer at the table before choosing seeds.",
+    "scene": {
+      "setting": "A quiet garden porch",
+      "actor": "Two neighbors discuss a seed choice at a table",
+      "props": [
+        "wooden table",
+        "single blank seed packet",
+        "two plain chairs"
+      ],
+      "beats": [
+        "The neighbors sit down",
+        "They confer",
+        "They reach an agreement"
+      ],
+      "ending": "Two neighbors confer at a table"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. To confer is to discuss something with another person. The familiar anchor and target meaning appear together in one drawable scene."
+    },
+    "artDirection": "No writing on the packet or text."
+  }
+]

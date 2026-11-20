@@ -1,0 +1,110 @@
+{
+  "batch": 30,
+  "part": 5,
+  "reviews": [
+    {
+      "id": "kyc-1461",
+      "status": "pass",
+      "review": "Jester and king form one clear wit scene; anatomy and blank image are clean."
+    },
+    {
+      "id": "kyc-1462",
+      "status": "pass",
+      "review": "Exactly eight apples are visible, four in each basket, with no extra fruit; no writing.",
+      "initialIssue": "First image had excess loose apples and the first redraw added a background apple. The final redraw shows exactly eight apples, four per basket, and no other fruit."
+    },
+    {
+      "id": "kyc-1463",
+      "status": "pass",
+      "review": "One wheel is shown rotating around its central axle; no extra wheels or text."
+    },
+    {
+      "id": "kyc-1464",
+      "status": "pass",
+      "review": "Woman and dog move at a brisk pace; both figures have natural anatomy."
+    },
+    {
+      "id": "kyc-1465",
+      "status": "pass",
+      "review": "Plainclothes passerby helps one injured cyclist beside an ambulance; the vehicle has a plain blue band but no medical cross, emblem, lettering, logo, or sign.",
+      "initialIssue": "First image had medical cross emblems and the first redraw retained them. The final image uses an ordinary-clothed helper and has no cross, emblem, lettering, logo, or sign."
+    },
+    {
+      "id": "kyc-1466",
+      "status": "pass",
+      "review": "A lone sailor in a small boat faces the lighthouse beam through coastal haze; the certainty cue is clear."
+    },
+    {
+      "id": "kyc-1467",
+      "status": "pass",
+      "review": "The woman studies one separately outlined blank section on a blank contract page; no writing or signature.",
+      "initialIssue": "First image showed an entirely blank page with no clause cue. The redraw adds one empty outlined section, with no writing."
+    },
+    {
+      "id": "kyc-1468",
+      "status": "pass",
+      "review": "Witch, black cat, and harmless curling magical mist make the curse scene clear; no symbols or text."
+    },
+    {
+      "id": "kyc-1469",
+      "status": "pass",
+      "review": "The person wears a plain disguise mask and sees the masked reflection; no writing or logos."
+    },
+    {
+      "id": "kyc-1470",
+      "status": "pass",
+      "review": "A cat stands in the open doorway; no signs or text."
+    },
+    {
+      "id": "kyc-1471",
+      "status": "pass",
+      "review": "The owner waits beside a loyal dog at the garden gate; natural anatomy and no text."
+    },
+    {
+      "id": "kyc-1472",
+      "status": "pass",
+      "review": "A child sees a sheet draped over a chair as a gentle ghost shape; no text."
+    },
+    {
+      "id": "kyc-1473",
+      "status": "pass",
+      "review": "The open picture book shows a fox beside a tree; pages contain pictures only."
+    },
+    {
+      "id": "kyc-1474",
+      "status": "pass",
+      "review": "A child imagines a faint dreamlike dragon while seated with a teddy bear; no writing."
+    },
+    {
+      "id": "kyc-1475",
+      "status": "pass",
+      "review": "Exactly two runners cross the finish with only a slight lead; no lane numbers or signs."
+    },
+    {
+      "id": "kyc-1476",
+      "status": "pass",
+      "review": "Model trains and looping tracks fill the hobby room, clearly showing an obsession; no labels."
+    },
+    {
+      "id": "kyc-1477",
+      "status": "pass",
+      "review": "The woman recoils from the unpleasant smell at the bin; no labels or text."
+    },
+    {
+      "id": "kyc-1478",
+      "status": "pass",
+      "review": "A tanker stands between an oil well and refinery in an unmarked field; no directional arrow, text, or logo.",
+      "initialIssue": "First image had a directional arrow on the road. The redraw removes roads and arrows."
+    },
+    {
+      "id": "kyc-1479",
+      "status": "pass",
+      "review": "The woman pauses to consider the final puzzle piece; no text or logos."
+    },
+    {
+      "id": "kyc-1480",
+      "status": "pass",
+      "review": "A plain white flag is raised over a quiet field to signify peace; the flag has no symbols or text."
+    }
+  ]
+}

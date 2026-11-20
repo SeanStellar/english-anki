@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2161",
+    "anchor": "skin",
+    "sentence": "A bruise darkened her skin after she bumped her knee.",
+    "relation": "A bruise is a mark that appears on the skin after an impact.",
+    "setting": "A quiet home hallway",
+    "actor": "One child sits safely on the floor and looks at a small bruise on one knee.",
+    "props": [
+      "one child",
+      "one visible bruise on the knee",
+      "one plain floor mat"
+    ],
+    "beats": [
+      "The child bumps a knee gently against a cushion",
+      "A bruise appears on the skin",
+      "The child examines the mark"
+    ],
+    "ending": "A child examines a small bruise on her knee.",
+    "artDirection": "Keep the mark mild and non-graphic; show the skin and bruise clearly. One child only; no text, letters, numbers, symbols, signs, or watermarks."
+  },
+  {
+    "id": "kyc-2162",
+    "anchor": "flower",
+    "sentence": "The child heard the buzz of a bee beside a flower.",
+    "relation": "A bee produces a low continuous buzz with its wings.",
+    "setting": "A small flower garden",
+    "actor": "One child notices a bee hovering near a flower and listens.",
+    "props": [
+      "one child",
+      "one bee",
+      "one flower"
+    ],
+    "beats": [
+      "The bee approaches the flower",
+      "Its wings make a soft buzz",
+      "The child listens nearby"
+    ],
+    "ending": "A child listens to a bee buzzing beside a flower.",
+    "artDirection": "Show one bee near the flower and one listening child; no sound waves, motion lines, letters, numbers, symbols, signs, or watermarks."
+  },
+  {
+    "id": "kyc-2163",
+    "anchor": "truck",
+    "sentence": "The driver climbed into the cab of the truck before starting the engine.",
+    "relation": "A cab is the enclosed driver section at the front of a truck.",
+    "setting": "A quiet roadside parking area",
+    "actor": "One driver climbs into the front cab of one parked truck.",
+    "props": [
+      "one truck",
+      "one visible front cab",
+      "one driver"
+    ],
+    "beats": [
+      "The truck is parked",
+      "The driver opens the cab door",
+      "The driver climbs into the cab"
+    ],
+    "ending": "A driver enters the enclosed cab of a parked truck.",
+    "artDirection": "Make the truck cab visibly distinct from the cargo bed; no logos, plates, letters, numbers, symbols, signs, or watermarks."
+  },
+  {
+    "id": "kyc-2164",
+    "anchor": "milk",
+    "sentence": "Milk supplied calcium that strengthened the child's bones.",
+    "relation": "Milk contains calcium, a mineral that helps keep bones strong.",
+    "setting": "A bright home kitchen",
+    "actor": "One child drinks a glass of milk beside a simple bone model.",
+    "props": [
+      "one glass of milk",
+      "one plain bone model",
+      "one kitchen table"
+    ],
+    "beats": [
+      "The child pours milk",
+      "The child drinks it",
+      "The sturdy bone model stands beside the glass"
+    ],
+    "ending": "A glass of milk sits beside a sturdy bone model.",
+    "artDirection": "No labels on the milk container and no medical symbols; no text, letters, numbers, or signs."
+  },
+  {
+    "id": "kyc-2165",
+    "anchor": "map",
+    "sentence": "The compass guided the hiker as he unfolded a map.",
+    "relation": "A compass gives direction while a map shows the route.",
+    "setting": "A forest trail overlook",
+    "actor": "One hiker holds an unmarked compass above a blank folded map.",
+    "props": [
+      "one hiker",
+      "one plain compass",
+      "one blank folded map"
+    ],
+    "beats": [
+      "The hiker unfolds the map",
+      "The compass points the way",
+      "The hiker chooses the trail"
+    ],
+    "ending": "A hiker uses a compass while following a blank map.",
+    "artDirection": "Compass must be recognizable without letters or numbers; map has no labels, symbols, or route markings."
+  },
+  {
+    "id": "kyc-2166",
+    "anchor": "shirt",
+    "sentence": "She used dye to change the color of a shirt.",
+    "relation": "Dye is a substance used to change the color of cloth.",
+    "setting": "A simple laundry room",
+    "actor": "One person dips a plain white shirt into a bowl of colored dye.",
+    "props": [
+      "one plain shirt",
+      "one bowl of dye",
+      "one laundry tub"
+    ],
+    "beats": [
+      "The shirt is white",
+      "The person dips it into dye",
+      "The cloth takes on a new color"
+    ],
+    "ending": "A shirt changes color in a bowl of dye.",
+    "artDirection": "No printed patterns, labels, letters, numbers, symbols, or watermarks; exactly one shirt and one person."
+  },
+  {
+    "id": "kyc-2167",
+    "anchor": "wire",
+    "sentence": "The thin wire in the fuse melted when the lamp circuit overheated.",
+    "relation": "An electrical fuse contains a thin wire that melts to interrupt an overloaded circuit.",
+    "setting": "A safe workbench with an unplugged lamp",
+    "actor": "One electrician examines a clear glass fuse with its tiny wire visibly broken.",
+    "props": [
+      "one clear glass fuse",
+      "one short wire",
+      "one unplugged lamp"
+    ],
+    "beats": [
+      "The wire overheats",
+      "The fuse wire melts apart",
+      "The lamp circuit is safely interrupted"
+    ],
+    "ending": "A broken wire inside a fuse keeps an unplugged lamp from lighting.",
+    "artDirection": "Keep everything unplugged and safe; show the tiny fuse wire clearly; no diagrams, electrical symbols, text, numbers, or watermarks."
+  },
+  {
+    "id": "kyc-2168",
+    "anchor": "door",
+    "sentence": "The hostage waited in the locked room while a guard stood at the door.",
+    "relation": "A hostage is a person held captive behind a controlled door.",
+    "setting": "A plain room with a closed doorway",
+    "actor": "Exactly two adults: one calm hostage sits safely inside a bare room while one unarmed guard waits outside the doorway.",
+    "props": [
+      "one closed door",
+      "one plain chair",
+      "one empty room"
+    ],
+    "beats": [
+      "The guard closes the door",
+      "The hostage waits inside",
+      "The guard remains by the doorway"
+    ],
+    "ending": "A calm hostage waits in a bare room while a guard stands outside.",
+    "artDirection": "No weapons, injuries, restraints, threats, uniforms, badges, text, symbols, or extra people; keep the scene non-graphic."
+  },
+  {
+    "id": "kyc-2169",
+    "anchor": "grass",
+    "sentence": "A meadow of green grass stretched beyond the farmhouse.",
+    "relation": "A meadow is an open field covered with grass.",
+    "setting": "A countryside field",
+    "actor": "No people: a broad grassy meadow extends toward one distant farmhouse.",
+    "props": [
+      "one broad grass field",
+      "one farmhouse",
+      "one tree at the field edge"
+    ],
+    "beats": [
+      "The field opens beyond the farm",
+      "Grass covers the meadow",
+      "The view reaches the distant house"
+    ],
+    "ending": "A wide meadow of grass lies beyond a farmhouse.",
+    "artDirection": "No signs, lettering, numbers, or symbols; keep the landscape open and simple."
+  },
+  {
+    "id": "kyc-2170",
+    "anchor": "computer",
+    "sentence": "The computer sent a packet of data to the server.",
+    "relation": "A data packet is a small bundle of information sent between computers.",
+    "setting": "A simple quiet computer room",
+    "actor": "No people: one desktop computer sends a small plain sealed parcel toward one server cabinet as a visual metaphor for a data packet.",
+    "props": [
+      "one desktop computer",
+      "one small unmarked parcel",
+      "one server cabinet"
+    ],
+    "beats": [
+      "The computer prepares information",
+      "A small packet travels toward the server",
+      "The server receives the packet"
+    ],
+    "ending": "A small unmarked packet moves from a computer to a server.",
+    "artDirection": "Treat the parcel only as a simple visual metaphor; no network diagrams, glowing symbols, text, letters, numbers, logos, or watermarks."
+  },
+  {
+    "id": "kyc-2171",
+    "anchor": "patient",
+    "sentence": "The patient's doctor practiced psychiatry in a quiet clinic.",
+    "relation": "Psychiatry is the branch of medicine that treats mental health.",
+    "setting": "A quiet consultation room with blank walls",
+    "actor": "Exactly two adults: one doctor listens kindly to one patient in a calm private consultation.",
+    "props": [
+      "one doctor",
+      "one patient",
+      "one plain chair"
+    ],
+    "beats": [
+      "The patient sits down",
+      "The doctor listens carefully",
+      "They discuss mental health calmly"
+    ],
+    "ending": "A doctor listens to a patient in a quiet mental-health consultation.",
+    "artDirection": "No medical crosses, charts, labels, medicines, symbols, letters, or extra people; keep both people calm and respectful."
+  },
+  {
+    "id": "kyc-2172",
+    "anchor": "garden",
+    "sentence": "The soil's water retention kept the garden moist after rain.",
+    "relation": "Retention is the ability to keep or hold something; soil can retain water.",
+    "setting": "A small garden after light rain",
+    "actor": "No people: damp dark soil holds water around one healthy plant.",
+    "props": [
+      "one garden plant",
+      "one patch of dark soil",
+      "one small puddle"
+    ],
+    "beats": [
+      "Rain wets the garden",
+      "The soil holds the water",
+      "The plant remains hydrated"
+    ],
+    "ending": "Moist soil retains water around a garden plant.",
+    "artDirection": "Make water visibly held in the soil; no people, rain streak symbols, text, numbers, or labels."
+  },
+  {
+    "id": "kyc-2173",
+    "anchor": "keyboard",
+    "sentence": "The stenographer used a keyboard to record shorthand during the speech.",
+    "relation": "Shorthand is a fast abbreviated way of recording spoken words.",
+    "setting": "A small meeting room",
+    "actor": "One stenographer uses a compact plain stenotype keyboard beside a blank notepad while one speaker talks.",
+    "props": [
+      "one plain stenotype keyboard",
+      "one blank notepad",
+      "one speaker"
+    ],
+    "beats": [
+      "The speaker begins talking",
+      "The stenographer types quickly",
+      "The speech is captured in shorthand"
+    ],
+    "ending": "A stenographer records a speech with a compact keyboard and blank notepad.",
+    "artDirection": "Exactly one speaker and one stenographer; no readable writing, letters, numbers, keyboard labels, symbols, signs, or watermarks."
+  },
+  {
+    "id": "kyc-2174",
+    "anchor": "cup",
+    "sentence": "She took a sip from the cup of tea.",
+    "relation": "A sip is a small mouthful of liquid taken from a cup.",
+    "setting": "A warm kitchen table",
+    "actor": "One person raises a plain cup of tea for a small sip.",
+    "props": [
+      "one person",
+      "one plain cup of tea",
+      "one table"
+    ],
+    "beats": [
+      "The cup is lifted",
+      "The person takes a small sip",
+      "The cup is lowered"
+    ],
+    "ending": "A person takes a small sip from a cup of tea.",
+    "artDirection": "Show only one cup and one person; no steam marks, text, letters, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2175",
+    "anchor": "horse",
+    "sentence": "The stubborn horse refused to leave the stable.",
+    "relation": "A stubborn animal resists changing its behavior or obeying.",
+    "setting": "A quiet stable doorway",
+    "actor": "One horse plants all four hooves and refuses to step out of the stable.",
+    "props": [
+      "one horse",
+      "one stable doorway",
+      "one plain halter"
+    ],
+    "beats": [
+      "The horse reaches the doorway",
+      "It plants its hooves",
+      "It refuses to move outside"
+    ],
+    "ending": "A stubborn horse stands firm at the stable doorway.",
+    "artDirection": "One horse only with exactly four legs; no extra animals, people, signs, or text."
+  },
+  {
+    "id": "kyc-2176",
+    "anchor": "wheel",
+    "sentence": "The wheel on the trolley squeaked as it rolled through the station.",
+    "relation": "A trolley is a small cart that moves on wheels.",
+    "setting": "A quiet station platform",
+    "actor": "One traveler pushes one small trolley carrying a suitcase.",
+    "props": [
+      "one trolley",
+      "one visible trolley wheel",
+      "one suitcase"
+    ],
+    "beats": [
+      "The traveler loads the suitcase",
+      "The trolley rolls across the platform",
+      "One wheel turns as it moves"
+    ],
+    "ending": "A small trolley rolls through a station on its wheels.",
+    "artDirection": "No station signs, logos, letters, numbers, or extra people; keep trolley and wheel clear."
+  },
+  {
+    "id": "kyc-2177",
+    "anchor": "pen",
+    "sentence": "She used a pen to amend the draft before sending it back.",
+    "relation": "To amend is to make a careful correction or improvement.",
+    "setting": "A plain desk",
+    "actor": "One adult uses a pen to correct a blank draft page.",
+    "props": [
+      "one pen",
+      "one blank draft page",
+      "one plain desk"
+    ],
+    "beats": [
+      "The draft is reviewed",
+      "A small correction is made with the pen",
+      "The revised page is set aside"
+    ],
+    "ending": "A person amends a draft with a pen.",
+    "artDirection": "Paper may show only a faint non-letter correction mark; no readable writing, letters, numbers, logos, or symbols."
+  },
+  {
+    "id": "kyc-2178",
+    "anchor": "tree",
+    "sentence": "The barren field held only one lifeless tree after the drought.",
+    "relation": "Barren land is too dry or poor to support much plant life.",
+    "setting": "A dry countryside field",
+    "actor": "No people: one leafless tree stands in cracked empty soil.",
+    "props": [
+      "one leafless tree",
+      "one dry field",
+      "one cracked patch of soil"
+    ],
+    "beats": [
+      "The drought dries the land",
+      "The field loses its plants",
+      "One lifeless tree remains"
+    ],
+    "ending": "A barren field surrounds one leafless tree.",
+    "artDirection": "No other plants, people, text, symbols, signs, or watermarks."
+  },
+  {
+    "id": "kyc-2179",
+    "anchor": "cave",
+    "sentence": "A beast emerged from the cave at dusk.",
+    "relation": "A beast is a large or wild animal.",
+    "setting": "A rocky hillside at dusk",
+    "actor": "One large wild animal steps out of a dark cave.",
+    "props": [
+      "one wild animal",
+      "one cave entrance",
+      "one rocky hillside"
+    ],
+    "beats": [
+      "The cave stays dark",
+      "The beast appears at the entrance",
+      "It steps onto the hillside"
+    ],
+    "ending": "A wild beast emerges from a cave at dusk.",
+    "artDirection": "One animal only with natural anatomy; no frightening gore, extra limbs, text, or symbols."
+  },
+  {
+    "id": "kyc-2180",
+    "anchor": "bell",
+    "sentence": "The brass bell gleamed in the workshop.",
+    "relation": "Brass is a yellow-brown metal often used to make bells.",
+    "setting": "A quiet craft workshop",
+    "actor": "No people: one polished brass bell rests on a plain wooden bench.",
+    "props": [
+      "one brass bell",
+      "one wooden bench",
+      "one plain cloth"
+    ],
+    "beats": [
+      "The bell is shaped from brass",
+      "It is polished",
+      "It gleams on the bench"
+    ],
+    "ending": "A brass bell shines on a wooden workshop bench.",
+    "artDirection": "Keep the bell clearly metallic; no logos, writing, numbers, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2181",
+    "anchor": "wall",
+    "sentence": "A breach in the wall let rainwater pour into the garden.",
+    "relation": "A breach is a gap or break through a barrier.",
+    "setting": "A garden beside a stone wall after rain",
+    "actor": "No people: rainwater flows through one broken opening in a garden wall.",
+    "props": [
+      "one stone wall",
+      "one clear gap in the wall",
+      "one shallow stream of water"
+    ],
+    "beats": [
+      "The wall holds back water",
+      "A breach opens in the stones",
+      "Water passes through into the garden"
+    ],
+    "ending": "Water pours through a breach in a stone wall.",
+    "artDirection": "Make the gap unmistakable; no people, arrows, motion lines, text, or symbols."
+  },
+  {
+    "id": "kyc-2182",
+    "anchor": "floor",
+    "sentence": "She pushed the broom across the dusty floor.",
+    "relation": "A broom is a tool used to sweep dirt from a floor.",
+    "setting": "A simple kitchen",
+    "actor": "One person sweeps dust across the floor with a plain broom.",
+    "props": [
+      "one broom",
+      "one dusty floor",
+      "one small dust pile"
+    ],
+    "beats": [
+      "Dust lies on the floor",
+      "The broom sweeps it together",
+      "The floor is cleared"
+    ],
+    "ending": "A broom sweeps dust from a kitchen floor.",
+    "artDirection": "One person only; no other cleaning tools, text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2183",
+    "anchor": "frame",
+    "sentence": "The painter stretched canvas across a wooden frame.",
+    "relation": "Canvas is strong cloth stretched over a frame for painting.",
+    "setting": "A quiet art studio",
+    "actor": "One painter stretches plain canvas tightly across a wooden frame.",
+    "props": [
+      "one canvas",
+      "one wooden frame",
+      "one painter"
+    ],
+    "beats": [
+      "The frame is set down",
+      "The painter stretches canvas over it",
+      "The cloth becomes a painting surface"
+    ],
+    "ending": "A painter stretches canvas over a wooden frame.",
+    "artDirection": "Canvas must look like heavy woven cloth; no artwork, writing, letters, or logos."
+  },
+  {
+    "id": "kyc-2184",
+    "anchor": "face",
+    "sentence": "She touched her chin while checking her face in the mirror.",
+    "relation": "The chin is the lower front part of the face.",
+    "setting": "A simple bedroom mirror",
+    "actor": "One child gently touches the lower part of the chin while looking in a plain mirror.",
+    "props": [
+      "one child",
+      "one plain mirror",
+      "one face"
+    ],
+    "beats": [
+      "The child looks into the mirror",
+      "A hand touches the chin",
+      "The child studies the face"
+    ],
+    "ending": "A child touches her chin while looking at her face in a mirror.",
+    "artDirection": "One child with normal anatomy; no reflection duplication, text, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2185",
+    "anchor": "train",
+    "sentence": "The train had a separate compartment for luggage.",
+    "relation": "A compartment is a separate section within a larger space.",
+    "setting": "Inside a quiet passenger train",
+    "actor": "No people: one train carriage is divided into a passenger section and a separate luggage compartment.",
+    "props": [
+      "one train carriage",
+      "one clear interior partition",
+      "one suitcase in the luggage section"
+    ],
+    "beats": [
+      "The train carries passengers",
+      "A partition divides its interior",
+      "A suitcase sits in the separate compartment"
+    ],
+    "ending": "A train interior has a separate compartment for luggage.",
+    "artDirection": "Make one clear partition and one suitcase; no labels, signs, numbers, or extra people."
+  }
+]

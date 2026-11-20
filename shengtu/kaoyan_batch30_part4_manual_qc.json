@@ -1,0 +1,114 @@
+{
+  "batch": 30,
+  "part": 4,
+  "reviews": [
+    {
+      "id": "kyc-1441",
+      "status": "pass",
+      "review": "Writer writes in a blank notebook beside a window; no writing is visible."
+    },
+    {
+      "id": "kyc-1442",
+      "status": "pass",
+      "review": "目检通过：逐个数清恰好13个苹果，篮内外总数准确，无数字。"
+    },
+    {
+      "id": "kyc-1443",
+      "status": "pass",
+      "review": "复核通过：垂线铅锤和墙面形成清晰垂直关系；无字无标。",
+      "initialIssue": "首版梯子倾斜，重画后用垂线铅锤显示绝对垂直。"
+    },
+    {
+      "id": "kyc-1444",
+      "status": "pass",
+      "review": "复核通过：校长在办公室管理学校的场景清楚，画面无文字。",
+      "initialIssue": "首版办公室墙牌带字，重画后去掉所有墙牌，文件和图画均为空白。"
+    },
+    {
+      "id": "kyc-1445",
+      "status": "pass",
+      "review": "登山者仰望山顶，aspire 的志向义清楚；人物轮廓正常。"
+    },
+    {
+      "id": "kyc-1446",
+      "status": "pass",
+      "review": "律师向法官陈述案件，法槌可见；文件无字。"
+    },
+    {
+      "id": "kyc-1447",
+      "status": "pass",
+      "review": "图书馆员把书分入不同类别，分类动作明确；无标签。"
+    },
+    {
+      "id": "kyc-1448",
+      "status": "pass",
+      "review": "跑者举起空白旗帜越过终点，公开宣告胜利的画面清楚。"
+    },
+    {
+      "id": "kyc-1449",
+      "status": "pass",
+      "review": "复核通过：空白报纸和早餐场景可辨，无印刷线或文字。",
+      "initialIssue": "首版报纸有仿文字横线，重画后报纸页面完全空白。"
+    },
+    {
+      "id": "kyc-1450",
+      "status": "pass",
+      "review": "复核通过：无字地图上的路线被明确指出；画面无路牌和文字。",
+      "initialIssue": "首版地图旁出现有字路牌，重画后移除所有路牌。"
+    },
+    {
+      "id": "kyc-1451",
+      "status": "pass",
+      "review": "果树结满苹果并装满果篮，fruitful 的丰产义清楚。"
+    },
+    {
+      "id": "kyc-1452",
+      "status": "pass",
+      "review": "水壶烧水时人物同时摆好两只杯子，meantime 的同时关系清楚。"
+    },
+    {
+      "id": "kyc-1453",
+      "status": "pass",
+      "review": "孩子从噩梦中惊醒，安全地坐在床上；情绪温和，无文字。"
+    },
+    {
+      "id": "kyc-1454",
+      "status": "pass",
+      "review": "复核通过：恰好一枚玻璃挂饰挂在树枝上；无字无标。",
+      "initialIssue": "首版树上多出心形装饰，重画后整棵树仅保留一枚挂饰。"
+    },
+    {
+      "id": "kyc-1455",
+      "status": "pass",
+      "review": "灯塔光束持续照亮海面，perpetual 的持续义可读；无标记。"
+    },
+    {
+      "id": "kyc-1456",
+      "status": "pass",
+      "review": "复核通过：孕妇和空摇篮同框，场景温和、尊重且无文字。",
+      "initialIssue": "首版请求遭拒后简化为完全穿衣、无医疗细节的育婴室场景。"
+    },
+    {
+      "id": "kyc-1457",
+      "status": "pass",
+      "review": "复核通过：全图仅两人，空白旗帜和广场呈现 rally 集会。",
+      "initialIssue": "首版背景出现人群，重画后空广场只有两位邻居。"
+    },
+    {
+      "id": "kyc-1458",
+      "status": "pass",
+      "review": "复核通过：反抗者拒绝向戴冠国王低头；仅一顶王冠。",
+      "initialIssue": "首版出现两顶王冠，重画后只保留国王头上的一顶。"
+    },
+    {
+      "id": "kyc-1459",
+      "status": "pass",
+      "review": "连续海浪依次拍打同一块岩石，successive 顺序关系清楚。"
+    },
+    {
+      "id": "kyc-1460",
+      "status": "pass",
+      "review": "仓库货架、货箱和搬运工明确呈现仓库存储场景；箱子无标签。"
+    }
+  ]
+}

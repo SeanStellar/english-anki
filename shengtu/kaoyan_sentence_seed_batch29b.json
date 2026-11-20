@@ -1,0 +1,784 @@
+[
+  {
+    "word": "uneasy",
+    "targetSense": "不安的",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "Uneasy describes a worried or uncomfortable feeling.",
+    "sentence": "She felt uneasy when the garden gate creaked open.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A garden at dusk",
+      "actor": "One woman watches a garden gate slowly swing open",
+      "props": [
+        "wooden gate",
+        "garden path",
+        "small lantern"
+      ],
+      "beats": [
+        "The gate is closed",
+        "It creaks open",
+        "The woman looks uneasy"
+      ],
+      "ending": "A woman stands nervously beside the open gate"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She felt uneasy when the garden gate creaked open.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "weave",
+    "targetSense": "编织",
+    "anchor": "loom",
+    "anchorMeaning": "织布机",
+    "relation": "To weave is to cross threads over and under one another to make cloth.",
+    "sentence": "Grandmother used a loom to weave a warm blanket.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm craft room",
+      "actor": "One grandmother works at a simple loom to make a blanket",
+      "props": [
+        "wooden loom",
+        "colored yarn",
+        "half-woven blanket"
+      ],
+      "beats": [
+        "She passes a thread across the loom",
+        "She tightens the threads",
+        "The blanket grows wider"
+      ],
+      "ending": "A blanket is woven on the loom"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Grandmother used a loom to weave a warm blanket.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "blur",
+    "targetSense": "模糊",
+    "anchor": "window",
+    "anchorMeaning": "窗户",
+    "relation": "To blur is to make an image or outline unclear.",
+    "sentence": "Rain made the streetlights blur behind the wet window.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A room looking onto a rainy street",
+      "actor": "No people; streetlights appear blurred through a wet window",
+      "props": [
+        "wet window",
+        "streetlights",
+        "rainy street"
+      ],
+      "beats": [
+        "Rain dots the glass",
+        "The lights soften behind the water",
+        "Their outlines blur"
+      ],
+      "ending": "Streetlights blur behind a rain-covered window"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Rain made the streetlights blur behind the wet window.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "contemplate",
+    "targetSense": "沉思；考虑",
+    "anchor": "pond",
+    "anchorMeaning": "池塘",
+    "relation": "To contemplate is to think carefully about something.",
+    "sentence": "He sat beside the pond to contemplate a difficult choice.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet pond at sunset",
+      "actor": "One man sits on a bench and thinks beside the pond",
+      "props": [
+        "pond",
+        "wooden bench",
+        "fallen leaf"
+      ],
+      "beats": [
+        "He sits beside the water",
+        "He looks thoughtful",
+        "He considers his choice"
+      ],
+      "ending": "A man contemplates beside a pond"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “He sat beside the pond to contemplate a difficult choice.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "discriminate",
+    "targetSense": "区分；辨别",
+    "anchor": "coin",
+    "anchorMeaning": "硬币",
+    "relation": "To discriminate between things is to recognize their differences.",
+    "sentence": "The judge could discriminate between the genuine coin and the fake one.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple examination table",
+      "actor": "One judge compares a genuine coin with a fake coin",
+      "props": [
+        "genuine coin",
+        "fake coin",
+        "small magnifying glass"
+      ],
+      "beats": [
+        "The judge studies both coins",
+        "She compares their edges",
+        "She separates the genuine coin"
+      ],
+      "ending": "Two coins are carefully distinguished"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The judge could discriminate between the genuine coin and the fake one.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "insure",
+    "targetSense": "投保；给……保险",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "To insure property is to protect its owner financially against loss.",
+    "sentence": "The family chose to insure their house against fire.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A house and a simple desk",
+      "actor": "One homeowner places a blank insurance paper beside the house key",
+      "props": [
+        "small house",
+        "blank insurance paper",
+        "plain key"
+      ],
+      "beats": [
+        "The homeowner looks at the house",
+        "She places the key by the paper",
+        "She protects the home with insurance"
+      ],
+      "ending": "A house key rests beside a blank insurance paper"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The family chose to insure their house against fire.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "intricate",
+    "targetSense": "错综复杂的",
+    "anchor": "clock",
+    "anchorMeaning": "钟",
+    "relation": "Intricate describes something with many small parts arranged in a complex way.",
+    "sentence": "The clockmaker studied the intricate gears inside a small clock.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A plain clockmaker workbench against a completely blank wall",
+      "actor": "One clockmaker studies a single open clock mechanism made only of intricate interlocking gears",
+      "props": [
+        "one open gear mechanism with no clock face",
+        "small brass gears",
+        "plain screwdriver"
+      ],
+      "beats": [
+        "The clockmaker opens the mechanism",
+        "She studies the many interlocking gears",
+        "She adjusts one small gear"
+      ],
+      "ending": "A clockmaker examines a dense gear mechanism with no dial or face",
+      "artDirection": "Show only one gear mechanism. No other clocks or watches anywhere. Absolutely no clock faces, dials, hands, numerals, numbers, marks, labels, or background wall art."
+    },
+    "artDirection": "No readable text or numbers. Only one open gear mechanism; no clocks, watches, faces, dials, hands, numerals, tick marks, or wall art anywhere.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Third review after image inspection: “The clockmaker studied the intricate gears inside a small clock.” Natural and readable; the next image must have a bare background and no clock faces or numerals anywhere."
+    }
+  },
+  {
+    "word": "kindness",
+    "targetSense": "善良；好意",
+    "anchor": "groceries",
+    "anchorMeaning": "食品杂货",
+    "relation": "Kindness is the quality of caring and helping others.",
+    "sentence": "Her kindness showed when she carried groceries to her neighbor's door.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet apartment doorway",
+      "actor": "One woman carries groceries to a neighbor's open doorway",
+      "props": [
+        "grocery bag",
+        "apartment door",
+        "small basket"
+      ],
+      "beats": [
+        "She picks up the bag",
+        "She walks to the neighbor's door",
+        "She offers the food"
+      ],
+      "ending": "A neighbor receives groceries as an act of kindness"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “Her kindness showed when she carried groceries to her neighbor's door.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "receipt",
+    "targetSense": "收据",
+    "anchor": "lamp",
+    "anchorMeaning": "台灯",
+    "relation": "A receipt is a written record proving that payment was made.",
+    "sentence": "He kept the receipt beside the new lamp in case he needed to return it.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small shop counter",
+      "actor": "One man keeps a blank receipt beside a newly bought lamp",
+      "props": [
+        "plain lamp",
+        "blank receipt",
+        "wooden counter"
+      ],
+      "beats": [
+        "He buys the lamp",
+        "The seller gives him a receipt",
+        "He keeps it beside the lamp"
+      ],
+      "ending": "A receipt is kept beside a new lamp"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “He kept the receipt beside the new lamp in case he needed to return it.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "uncover",
+    "targetSense": "揭开；发现",
+    "anchor": "cloth",
+    "anchorMeaning": "布",
+    "relation": "To uncover something is to remove its cover and reveal what is beneath it.",
+    "sentence": "She lifted the cloth to uncover the old painting.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet art room",
+      "actor": "One woman lifts a cloth from an old painting",
+      "props": [
+        "old painting",
+        "plain cloth",
+        "wooden easel"
+      ],
+      "beats": [
+        "The painting is covered",
+        "She lifts the cloth",
+        "The painting is revealed"
+      ],
+      "ending": "A cloth is lifted to uncover a painting"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She lifted the cloth to uncover the old painting.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "worship",
+    "targetSense": "崇拜；做礼拜",
+    "anchor": "temple",
+    "anchorMeaning": "寺庙",
+    "relation": "To worship is to show reverence to a god or sacred object.",
+    "sentence": "The villagers came to worship beside the temple altar.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet temple interior",
+      "actor": "One worshipper kneels beside a simple temple altar",
+      "props": [
+        "temple altar",
+        "small candle",
+        "plain cushion"
+      ],
+      "beats": [
+        "The worshipper enters quietly",
+        "She kneels beside the altar",
+        "She bows in worship"
+      ],
+      "ending": "A person worships beside a temple altar"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The villagers came to worship beside the temple altar.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "extinct",
+    "targetSense": "灭绝的",
+    "anchor": "dinosaur",
+    "anchorMeaning": "恐龙",
+    "relation": "A species is extinct when no living members remain.",
+    "sentence": "The museum displayed a model of an extinct dinosaur.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A natural history museum",
+      "actor": "No people; a model dinosaur stands beside an empty display case",
+      "props": [
+        "dinosaur model",
+        "plain display case",
+        "stone platform"
+      ],
+      "beats": [
+        "The model stands in the gallery",
+        "Its fossil-like shape is shown",
+        "The empty case suggests the species is gone"
+      ],
+      "ending": "A model represents an extinct dinosaur"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The museum displayed a model of an extinct dinosaur.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "hawk",
+    "targetSense": "鹰；鹰隼",
+    "anchor": "fence",
+    "anchorMeaning": "篱笆",
+    "relation": "A hawk is a bird of prey with a hooked beak and strong wings.",
+    "sentence": "A hawk landed on the wooden fence at the edge of the field.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet field beside a wooden fence",
+      "actor": "No people; one single hawk perches on the fence, and no other birds appear anywhere",
+      "props": [
+        "one hawk",
+        "wooden fence",
+        "grassy field"
+      ],
+      "beats": [
+        "The single hawk settles on the fence",
+        "It folds its wings",
+        "It looks across the field"
+      ],
+      "ending": "One hawk rests alone on a wooden fence",
+      "artDirection": "Exactly one hawk in the entire picture. No birds in the sky, background, or on the ground."
+    },
+    "artDirection": "No readable text or numbers. Show only one hawk; do not add any other birds in the background.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “A hawk landed on the wooden fence at the edge of the field.” Natural and readable; count-sensitive props and the target detail are explicitly controlled."
+    }
+  },
+  {
+    "word": "patrol",
+    "targetSense": "巡逻",
+    "anchor": "bicycle",
+    "anchorMeaning": "自行车",
+    "relation": "To patrol is to move through an area while watching for trouble.",
+    "sentence": "The guard rode a bicycle to patrol the quiet park.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet city park",
+      "actor": "One guard rides a bicycle along a park path and watches the grounds",
+      "props": [
+        "bicycle",
+        "park path",
+        "plain bench"
+      ],
+      "beats": [
+        "The guard starts along the path",
+        "He watches the park",
+        "He rides past the bench"
+      ],
+      "ending": "A guard patrols the park on a bicycle"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The guard rode a bicycle to patrol the quiet park.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "repel",
+    "targetSense": "击退；排斥",
+    "anchor": "mint",
+    "anchorMeaning": "薄荷",
+    "relation": "To repel is to drive something away or keep it from coming near.",
+    "sentence": "The strong scent of mint can repel mosquitoes.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A garden herb bed",
+      "actor": "No people; mosquitoes fly away from a fresh mint plant",
+      "props": [
+        "mint plant",
+        "small mosquitoes",
+        "garden pot"
+      ],
+      "beats": [
+        "The insects approach",
+        "They turn away",
+        "The mint remains undisturbed"
+      ],
+      "ending": "Mint repels mosquitoes from a garden pot"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The strong scent of mint can repel mosquitoes.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "simultaneous",
+    "targetSense": "同时发生的",
+    "anchor": "bell",
+    "anchorMeaning": "铃",
+    "relation": "Simultaneous events happen at exactly the same time.",
+    "sentence": "The simultaneous ringing of both bells startled one child.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small school courtyard",
+      "actor": "One child looks startled as two plain bells ring together",
+      "props": [
+        "two bells",
+        "wooden beam",
+        "school courtyard"
+      ],
+      "beats": [
+        "The bells hang still",
+        "Both swing together",
+        "The child reacts to the simultaneous ringing"
+      ],
+      "ending": "Two bells ring at the same time and startle a child"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The simultaneous ringing of both bells startled one child.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "sin",
+    "targetSense": "罪；罪行",
+    "anchor": "sermon",
+    "anchorMeaning": "布道",
+    "relation": "A sin is an act considered morally wrong in a religious or ethical code.",
+    "sentence": "The priest called greed a sin during the sermon.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A simple chapel",
+      "actor": "One priest speaks from a plain pulpit with coins nearby",
+      "props": [
+        "plain pulpit",
+        "small bowl of coins",
+        "wooden bench"
+      ],
+      "beats": [
+        "The priest begins the sermon",
+        "He points to the coins",
+        "He calls greed a sin"
+      ],
+      "ending": "A sermon warns against greed as a sin"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The priest called greed a sin during the sermon.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "spacecraft",
+    "targetSense": "宇宙飞船",
+    "anchor": "Mars",
+    "anchorMeaning": "火星",
+    "relation": "A spacecraft is a vehicle designed to travel beyond Earth's atmosphere.",
+    "sentence": "The spacecraft carried a robot toward Mars.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Open space near Mars",
+      "actor": "No people; one spacecraft carries a small robot toward the red planet",
+      "props": [
+        "spacecraft",
+        "small robot",
+        "red planet Mars"
+      ],
+      "beats": [
+        "The spacecraft leaves Earth",
+        "It carries the robot through space",
+        "It approaches Mars"
+      ],
+      "ending": "A spacecraft carries a robot toward Mars"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The spacecraft carried a robot toward Mars.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "spokesman",
+    "targetSense": "发言人",
+    "anchor": "podium",
+    "anchorMeaning": "讲台",
+    "relation": "A spokesman is a person who speaks publicly for a group or organization.",
+    "sentence": "The spokesman answered reporters' questions beside the podium.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain press room",
+      "actor": "One spokesman speaks beside a plain podium",
+      "props": [
+        "podium",
+        "blank microphone",
+        "folded papers"
+      ],
+      "beats": [
+        "He steps to the podium",
+        "He answers questions",
+        "He speaks for the organization"
+      ],
+      "ending": "A spokesman answers questions at a podium"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The spokesman answered reporters' questions beside the podium.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "withstand",
+    "targetSense": "承受；经受住",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "To withstand something is to resist it without being damaged or defeated.",
+    "sentence": "The stone bridge can withstand heavy floods.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A stone bridge during a flood",
+      "actor": "No people; floodwater rushes beneath a sturdy stone bridge",
+      "props": [
+        "stone bridge",
+        "floodwater",
+        "riverbank"
+      ],
+      "beats": [
+        "The water level rises",
+        "The current presses against the bridge",
+        "The bridge remains standing"
+      ],
+      "ending": "A stone bridge withstands floodwater"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The stone bridge can withstand heavy floods.” The anchor and target sense are clear in one drawable scene."
+    }
+  }
+]

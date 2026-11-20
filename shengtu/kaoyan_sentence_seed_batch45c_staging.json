@@ -1,0 +1,922 @@
+[
+  {
+    "id": "kyc-1821",
+    "anchor": "friend",
+    "anchorMeaning": "朋友",
+    "relation": "她按约把借来的钱还给朋友，表现 repay。",
+    "sentence": "She promised to repay her friend next week.",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One woman returns a small loan to one friend.",
+      "props": [
+        "one borrower",
+        "one friend",
+        "one coin purse"
+      ],
+      "beats": [
+        "The friend lends a little money",
+        "The borrower remembers the promise",
+        "She prepares to repay the loan"
+      ],
+      "ending": "She promises to repay her friend."
+    },
+    "artDirection": "Two friends calmly exchanging a small coin purse. No labels, writing, or text."
+  },
+  {
+    "id": "kyc-1822",
+    "anchor": "worker",
+    "anchorMeaning": "工人",
+    "relation": "经理因员工反复迟到而解雇他，表现 sack。",
+    "sentence": "The manager had to sack the worker after repeated lateness.",
+    "scene": {
+      "setting": "A simple workplace office",
+      "actor": "One manager gently hands one worker a plain personal box.",
+      "props": [
+        "one manager",
+        "one worker",
+        "one blank box"
+      ],
+      "beats": [
+        "The manager talks with the worker",
+        "The worker gathers personal items",
+        "The manager sacks the worker"
+      ],
+      "ending": "One manager sacks one worker."
+    },
+    "artDirection": "Exactly two people in a simple office, manager hands worker a plain blank box. No papers with writing, signs, or text."
+  },
+  {
+    "id": "kyc-1823",
+    "anchor": "classroom",
+    "anchorMeaning": "教室",
+    "relation": "科学教室里的骨架模型立在讲台旁，表现 skeleton。",
+    "sentence": "A skeleton stood in the science classroom.",
+    "scene": {
+      "setting": "A quiet science classroom",
+      "actor": "One human skeleton model stands beside a classroom desk.",
+      "props": [
+        "one skeleton model",
+        "one classroom desk",
+        "one classroom"
+      ],
+      "beats": [
+        "The skeleton model stands near the desk",
+        "The classroom stays quiet",
+        "The skeleton remains upright"
+      ],
+      "ending": "One skeleton stands in the classroom."
+    },
+    "artDirection": "A harmless classroom skeleton model beside a desk. No extra people, labels, or text."
+  },
+  {
+    "id": "kyc-1824",
+    "anchor": "waterfall",
+    "anchorMeaning": "瀑布",
+    "relation": "壮观的瀑布让徒步者惊叹不已，表现 spectacular。",
+    "sentence": "The spectacular waterfall amazed the hikers.",
+    "scene": {
+      "setting": "A mountain lookout above a river",
+      "actor": "Two hikers admire one spectacular waterfall from a safe viewpoint.",
+      "props": [
+        "two hikers",
+        "one waterfall",
+        "one mountain lookout"
+      ],
+      "beats": [
+        "The hikers reach the viewpoint",
+        "They see the tall waterfall",
+        "They react with amazement"
+      ],
+      "ending": "Two hikers admire a spectacular waterfall."
+    },
+    "artDirection": "Exactly two hikers viewing one dramatic waterfall from a safe distance. No signs or text."
+  },
+  {
+    "id": "kyc-1825",
+    "anchor": "living room",
+    "anchorMeaning": "客厅",
+    "relation": "立体声音响播放音乐，两位朋友在客厅跳舞。",
+    "sentence": "The stereo played music as two friends danced in the living room.",
+    "scene": {
+      "setting": "A warm living room",
+      "actor": "A plain stereo plays while exactly two friends dance nearby.",
+      "props": [
+        "one stereo",
+        "two friends",
+        "one living room"
+      ],
+      "beats": [
+        "The stereo begins to play",
+        "The friends hear the music",
+        "They dance together"
+      ],
+      "ending": "Two friends dance as the stereo plays."
+    },
+    "artDirection": "One simple stereo with exactly two friends dancing in a cozy living room. No music notes, logos, or text."
+  },
+  {
+    "id": "kyc-1826",
+    "anchor": "hair",
+    "anchorMeaning": "头发",
+    "relation": "一缕头发落在她脸颊旁，表现 strand。",
+    "sentence": "A strand of hair fell across her cheek.",
+    "scene": {
+      "setting": "A quiet room with a mirror",
+      "actor": "One woman notices a loose strand of hair across her cheek.",
+      "props": [
+        "one woman",
+        "one loose hair strand",
+        "one mirror"
+      ],
+      "beats": [
+        "She looks in the mirror",
+        "A strand falls across her cheek",
+        "She brushes it aside"
+      ],
+      "ending": "One strand of hair falls across her cheek."
+    },
+    "artDirection": "One woman with a single loose strand across her cheek, seen near a plain mirror. No writing or text."
+  },
+  {
+    "id": "kyc-1827",
+    "anchor": "hook",
+    "anchorMeaning": "鱼钩",
+    "relation": "钓鱼线缠在鱼钩周围，形成 tangle。",
+    "sentence": "The fishing line became a tangle around the hook.",
+    "scene": {
+      "setting": "A calm lakeside",
+      "actor": "A fishing line is tangled tightly around one plain hook.",
+      "props": [
+        "one fishing line",
+        "one hook",
+        "one fishing rod"
+      ],
+      "beats": [
+        "The line loosens from the rod",
+        "It twists around the hook",
+        "A tangle forms"
+      ],
+      "ending": "Fishing line tangles around one hook."
+    },
+    "artDirection": "Close view of a single fishing line tangled around a plain hook. No fish, labels, or text."
+  },
+  {
+    "id": "kyc-1828",
+    "anchor": "music",
+    "anchorMeaning": "音乐",
+    "relation": "音乐能超越语言，让陌生人彼此产生共鸣。",
+    "sentence": "Music can transcend language and connect strangers.",
+    "scene": {
+      "setting": "A small quiet music room",
+      "actor": "One guitar player performs while one listener responds warmly.",
+      "props": [
+        "one guitar player",
+        "one guitar",
+        "one listener"
+      ],
+      "beats": [
+        "The player begins a gentle tune",
+        "The listener stops to hear it",
+        "Music connects the two strangers"
+      ],
+      "ending": "Music transcends language and connects strangers."
+    },
+    "artDirection": "Exactly one guitarist and one listener sharing a warm musical moment. No music notes, speech bubbles, writing, or text."
+  },
+  {
+    "id": "kyc-1829",
+    "anchor": "sunlight",
+    "anchorMeaning": "阳光",
+    "relation": "温室利用阳光给植物保暖，表现 utilise。",
+    "sentence": "The greenhouse can utilise sunlight to warm its plants.",
+    "scene": {
+      "setting": "A small greenhouse in daylight",
+      "actor": "Sunlight warms plants inside one clear greenhouse.",
+      "props": [
+        "one greenhouse",
+        "sunlight",
+        "green plants"
+      ],
+      "beats": [
+        "Sunlight enters the greenhouse",
+        "The plants receive its warmth",
+        "The greenhouse utilises the sunlight"
+      ],
+      "ending": "A greenhouse utilises sunlight to warm plants."
+    },
+    "artDirection": "One simple greenhouse filled with plants in warm sunlight. No labels, symbols, or text."
+  },
+  {
+    "id": "kyc-1830",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "素食者午餐时选择蔬菜汤，表现 vegetarian。",
+    "sentence": "The vegetarian chose a vegetable soup for lunch.",
+    "scene": {
+      "setting": "A cozy café table",
+      "actor": "One vegetarian chooses a bowl of vegetable soup.",
+      "props": [
+        "one diner",
+        "one bowl of vegetable soup",
+        "one café table"
+      ],
+      "beats": [
+        "The diner looks at lunch",
+        "She chooses vegetable soup",
+        "She enjoys the meat-free meal"
+      ],
+      "ending": "One vegetarian chooses vegetable soup."
+    },
+    "artDirection": "One diner choosing a colorful vegetable soup for lunch. No meat, menu writing, or text."
+  },
+  {
+    "id": "kyc-1831",
+    "anchor": "house",
+    "anchorMeaning": "房子",
+    "relation": "寒冷夜晚，炉子把温暖送进屋里，表现 furnace。",
+    "sentence": "The furnace warmed the house on a cold night.",
+    "scene": {
+      "setting": "A cozy home interior on a winter night",
+      "actor": "One household furnace warms the home while snow falls outside.",
+      "props": [
+        "one furnace",
+        "one home interior",
+        "snowy night outside"
+      ],
+      "beats": [
+        "Cold settles outside",
+        "The furnace turns on",
+        "Warmth spreads through the house"
+      ],
+      "ending": "The furnace warms the house on a cold night."
+    },
+    "artDirection": "A simple indoor furnace warming a cozy home while snow falls outside. No flames, labels, or text."
+  },
+  {
+    "id": "kyc-1832",
+    "anchor": "loom",
+    "anchorMeaning": "织布机",
+    "relation": "博物馆展示一件由旧织布机织成的彩色纺织品。",
+    "sentence": "The museum displayed a colorful textile woven on an old loom.",
+    "scene": {
+      "setting": "A small textile museum",
+      "actor": "One colorful woven textile is displayed beside an old loom.",
+      "props": [
+        "one textile",
+        "one old loom",
+        "one museum display stand"
+      ],
+      "beats": [
+        "The loom rests nearby",
+        "The woven textile is placed on display",
+        "Its colorful weave is easy to see"
+      ],
+      "ending": "A colorful textile is displayed beside an old loom."
+    },
+    "artDirection": "One patterned woven textile displayed near an old loom. No labels, writing, or text."
+  },
+  {
+    "id": "kyc-1833",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "冷玻璃从空气中凝结出细小水珠。",
+    "sentence": "Cold glass can condense water from the air.",
+    "scene": {
+      "setting": "A cool kitchen counter",
+      "actor": "Tiny water droplets condense on the outside of one cold glass.",
+      "props": [
+        "one cold glass",
+        "water droplets",
+        "one counter"
+      ],
+      "beats": [
+        "The glass cools",
+        "Moisture gathers from the air",
+        "Droplets form on the glass"
+      ],
+      "ending": "Water condenses on one cold glass."
+    },
+    "artDirection": "Close view of droplets forming on the outside of one chilled glass. No writing or text."
+  },
+  {
+    "id": "kyc-1834",
+    "anchor": "clouds",
+    "anchorMeaning": "云",
+    "relation": "乌云预示着雨水将至，表现 denote。",
+    "sentence": "Dark clouds denote that rain is near.",
+    "scene": {
+      "setting": "A hillside beneath a cloudy sky",
+      "actor": "Dark clouds gather above a quiet hillside as rain approaches.",
+      "props": [
+        "dark clouds",
+        "one hillside",
+        "nearby rain"
+      ],
+      "beats": [
+        "The sky begins to darken",
+        "Clouds gather overhead",
+        "Rain approaches the hillside"
+      ],
+      "ending": "Dark clouds denote that rain is near."
+    },
+    "artDirection": "Dark rain clouds gathering above a quiet hillside. No symbols, lightning bolts, writing, or text."
+  },
+  {
+    "id": "kyc-1835",
+    "anchor": "twins",
+    "anchorMeaning": "双胞胎",
+    "relation": "双胞胎穿不同颜色衣服，方便人们区分他们。",
+    "sentence": "The twins wore different colors to help people differentiate them.",
+    "scene": {
+      "setting": "A simple home doorway",
+      "actor": "Exactly two twins stand together wearing clearly different colors.",
+      "props": [
+        "two twins",
+        "different colored outfits",
+        "one doorway"
+      ],
+      "beats": [
+        "The twins stand side by side",
+        "Their outfits differ in color",
+        "The difference helps people identify each twin"
+      ],
+      "ending": "Different colors help differentiate the twins."
+    },
+    "artDirection": "Exactly two look-alike twins in distinct solid-color outfits. No extra people, patterns with letters, or text."
+  },
+  {
+    "id": "kyc-1836",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "他赢得比赛后，脸上露出藏不住的咧嘴笑。",
+    "sentence": "He could not hide his grin after winning the race.",
+    "scene": {
+      "setting": "A grassy finish line",
+      "actor": "One boy grins broadly after winning a race.",
+      "props": [
+        "one boy",
+        "one finish line",
+        "one plain medal"
+      ],
+      "beats": [
+        "The boy reaches the finish",
+        "He realizes he has won",
+        "His grin spreads"
+      ],
+      "ending": "One boy grins after winning the race."
+    },
+    "artDirection": "One happy boy with a broad grin at a simple race finish. No numbers, banners, or text."
+  },
+  {
+    "id": "kyc-1837",
+    "anchor": "boats",
+    "anchorMeaning": "船只",
+    "relation": "清晨时，渔船停泊在港口里。",
+    "sentence": "Fishing boats rested in the harbor at dawn.",
+    "scene": {
+      "setting": "A quiet harbor at sunrise",
+      "actor": "Several fishing boats rest safely inside one harbor.",
+      "props": [
+        "fishing boats",
+        "one harbor",
+        "dawn light"
+      ],
+      "beats": [
+        "The sky brightens at dawn",
+        "Boats rest on calm water",
+        "The harbor remains peaceful"
+      ],
+      "ending": "Fishing boats rest in the harbor at dawn."
+    },
+    "artDirection": "A few small fishing boats resting in a calm harbor at sunrise. No signs, writing, or text."
+  },
+  {
+    "id": "kyc-1838",
+    "anchor": "keys",
+    "anchorMeaning": "钥匙",
+    "relation": "她匆忙出门，却把钥匙忘在桌上。",
+    "sentence": "In her haste, she left the keys on the table.",
+    "scene": {
+      "setting": "A home doorway in daylight",
+      "actor": "One woman rushes out while keys remain on the table.",
+      "props": [
+        "one woman",
+        "keys",
+        "one table"
+      ],
+      "beats": [
+        "She hurries toward the door",
+        "She forgets the keys",
+        "The keys remain on the table"
+      ],
+      "ending": "In her haste, she leaves the keys behind."
+    },
+    "artDirection": "One woman hurrying through a doorway while plain keys sit on a table. No signs or text."
+  },
+  {
+    "id": "kyc-1839",
+    "anchor": "yoga",
+    "anchorMeaning": "瑜伽",
+    "relation": "瑜伽老师帮助学生调整姿势，表现 posture。",
+    "sentence": "The yoga teacher corrected his posture.",
+    "scene": {
+      "setting": "A quiet yoga studio",
+      "actor": "One yoga teacher helps one student sit with a straight posture.",
+      "props": [
+        "one teacher",
+        "one student",
+        "one yoga mat"
+      ],
+      "beats": [
+        "The student sits awkwardly",
+        "The teacher gently guides him",
+        "The student straightens his posture"
+      ],
+      "ending": "A yoga teacher corrects one student’s posture."
+    },
+    "artDirection": "Exactly two people in a calm yoga studio, teacher gently guiding a student’s upright posture. No writing or text."
+  },
+  {
+    "id": "kyc-1840",
+    "anchor": "sea",
+    "anchorMeaning": "海",
+    "relation": "雷达天线扫描雾中的海面寻找船只。",
+    "sentence": "The radar dish scanned the foggy sea for boats.",
+    "scene": {
+      "setting": "A small research vessel in fog",
+      "actor": "One radar dish rotates above a boat on the foggy sea.",
+      "props": [
+        "one radar dish",
+        "one research boat",
+        "foggy sea"
+      ],
+      "beats": [
+        "Fog covers the water",
+        "The radar dish turns",
+        "It scans the sea for boats"
+      ],
+      "ending": "A radar dish scans the foggy sea."
+    },
+    "artDirection": "One plain radar dish mounted on a small vessel scanning a foggy sea. No screens, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-1841",
+    "anchor": "puppy",
+    "anchorMeaning": "小狗",
+    "relation": "女孩给小狗取了一个昵称，表现 nickname。",
+    "sentence": "The girl chose a nickname for her puppy.",
+    "scene": {
+      "setting": "A sunny home porch",
+      "actor": "One girl lovingly names her puppy while holding its blank collar tag.",
+      "props": [
+        "one girl",
+        "one puppy",
+        "one blank collar tag"
+      ],
+      "beats": [
+        "The girl looks at the puppy",
+        "She chooses a special nickname",
+        "She clips on the blank tag"
+      ],
+      "ending": "One girl chooses a nickname for her puppy."
+    },
+    "artDirection": "One girl smiling at a puppy while holding a completely blank collar tag. No letters, speech bubbles, or text."
+  },
+  {
+    "id": "kyc-1842",
+    "anchor": "meeting",
+    "anchorMeaning": "会议",
+    "relation": "她将主持学校会议，表现 preside。",
+    "sentence": "She will preside over the school meeting.",
+    "scene": {
+      "setting": "A small school meeting room",
+      "actor": "One woman chairs a meeting with one participant at a plain table.",
+      "props": [
+        "one chairperson",
+        "one participant",
+        "one meeting table"
+      ],
+      "beats": [
+        "The two take their seats",
+        "She opens the meeting",
+        "She presides over the discussion"
+      ],
+      "ending": "One woman presides over a small meeting."
+    },
+    "artDirection": "Exactly two people at a plain meeting table, one clearly leading the discussion. No papers with writing, signs, or text."
+  },
+  {
+    "id": "kyc-1843",
+    "anchor": "paper",
+    "anchorMeaning": "纸",
+    "relation": "他开始把旧纸从中间撕成两半，表现 rip。",
+    "sentence": "He began to rip the old paper in half.",
+    "scene": {
+      "setting": "A simple work table",
+      "actor": "One person tears one blank sheet of old paper in half.",
+      "props": [
+        "one person",
+        "one blank paper sheet",
+        "one table"
+      ],
+      "beats": [
+        "The person holds the sheet",
+        "The paper begins to tear",
+        "The sheet rips into two pieces"
+      ],
+      "ending": "One person rips a blank sheet of paper."
+    },
+    "artDirection": "One blank sheet being torn in half by one person. No writing or text."
+  },
+  {
+    "id": "kyc-1844",
+    "anchor": "dust",
+    "anchorMeaning": "灰尘",
+    "relation": "吸尘器把地毯上的灰尘吸走，表现 vacuum。",
+    "sentence": "The vacuum removed dust from the rug.",
+    "scene": {
+      "setting": "A tidy living room",
+      "actor": "One vacuum cleaner removes dust from one rug.",
+      "props": [
+        "one vacuum cleaner",
+        "dust",
+        "one rug"
+      ],
+      "beats": [
+        "Dust rests on the rug",
+        "The vacuum passes over it",
+        "The rug becomes clean"
+      ],
+      "ending": "A vacuum removes dust from one rug."
+    },
+    "artDirection": "One simple vacuum cleaner moving across a rug with a little dust. No labels, writing, or text."
+  },
+  {
+    "id": "kyc-1845",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "猫在阳光下渐渐打起瞌睡。",
+    "sentence": "The tired cat began to doze in the sunlight.",
+    "scene": {
+      "setting": "A quiet sunny windowsill",
+      "actor": "One tired cat dozes in a warm patch of sunlight.",
+      "props": [
+        "one cat",
+        "one windowsill",
+        "sunlight"
+      ],
+      "beats": [
+        "The cat settles on the sill",
+        "Warm sunlight reaches it",
+        "The cat begins to doze"
+      ],
+      "ending": "One cat dozes in the sunlight."
+    },
+    "artDirection": "One relaxed cat dozing in a warm patch of sunlight. No other animals, writing, or text."
+  },
+  {
+    "id": "kyc-1846",
+    "anchor": "breeze",
+    "anchorMeaning": "微风",
+    "relation": "鸟儿迎着微风拍打翅膀。",
+    "sentence": "The bird began to flap its wings in the breeze.",
+    "scene": {
+      "setting": "A leafy garden",
+      "actor": "One bird flaps its wings while perched in a gentle breeze.",
+      "props": [
+        "one bird",
+        "one branch",
+        "gentle breeze"
+      ],
+      "beats": [
+        "The bird settles on a branch",
+        "The breeze passes through the leaves",
+        "The bird flaps its wings"
+      ],
+      "ending": "One bird flaps its wings in the breeze."
+    },
+    "artDirection": "One bird clearly flapping both wings on a branch in a gentle breeze. No symbols or text."
+  },
+  {
+    "id": "kyc-1847",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "鱼肉烹熟时逐渐变成粉色。",
+    "sentence": "The fish’s flesh turned pink as it cooked.",
+    "scene": {
+      "setting": "A clean kitchen stove",
+      "actor": "One piece of fish cooks gently in a plain pan.",
+      "props": [
+        "one piece of fish",
+        "one pan",
+        "one stove"
+      ],
+      "beats": [
+        "The fish is placed in the pan",
+        "It cooks over gentle heat",
+        "The flesh turns pink"
+      ],
+      "ending": "The fish’s flesh turns pink as it cooks."
+    },
+    "artDirection": "One piece of fish cooking gently in a plain pan, with no person or gore. No labels or text."
+  },
+  {
+    "id": "kyc-1848",
+    "anchor": "footprints",
+    "anchorMeaning": "脚印",
+    "relation": "他怒视地板上的泥脚印，表现 glare。",
+    "sentence": "He glared at the muddy footprints on the floor.",
+    "scene": {
+      "setting": "A clean home entryway",
+      "actor": "One man glares down at muddy footprints on the floor.",
+      "props": [
+        "one man",
+        "muddy footprints",
+        "one entryway floor"
+      ],
+      "beats": [
+        "He notices the muddy marks",
+        "He frowns and glares",
+        "He looks at the footprints"
+      ],
+      "ending": "One man glares at muddy footprints."
+    },
+    "artDirection": "One person glaring at muddy footprints on a clean entryway floor. No writing or text."
+  },
+  {
+    "id": "kyc-1849",
+    "anchor": "bus",
+    "anchorMeaning": "公交车",
+    "relation": "仓促的选择让旅客上错了公交车。",
+    "sentence": "A hasty choice made the traveler board the wrong bus.",
+    "scene": {
+      "setting": "A quiet bus stop",
+      "actor": "One traveler hurries onto a bus, then realizes the mistake.",
+      "props": [
+        "one traveler",
+        "one bus",
+        "one travel bag"
+      ],
+      "beats": [
+        "The traveler rushes toward the bus",
+        "The traveler boards too quickly",
+        "A confused look shows the hasty choice"
+      ],
+      "ending": "A hasty choice puts one traveler on the wrong bus."
+    },
+    "artDirection": "One traveler hurriedly boarding a plain bus and looking confused. No route numbers, signs, or text."
+  },
+  {
+    "id": "kyc-1850",
+    "anchor": "medal",
+    "anchorMeaning": "奖牌",
+    "relation": "她的第一枚奖牌给了她继续努力训练的动力。",
+    "sentence": "Her first medal gave her the impetus to train harder.",
+    "scene": {
+      "setting": "A sunny running track",
+      "actor": "One young runner holds a first medal and prepares to train again.",
+      "props": [
+        "one runner",
+        "one plain medal",
+        "one running track"
+      ],
+      "beats": [
+        "The runner receives the medal",
+        "She looks inspired",
+        "She starts another training lap"
+      ],
+      "ending": "A first medal gives one runner impetus to train."
+    },
+    "artDirection": "One determined runner holding a plain medal beside a track. No writing, numbers, or text."
+  },
+  {
+    "id": "kyc-1851",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "面包师发现卖新鲜面包是项获利的生意。",
+    "sentence": "The baker found selling fresh bread a lucrative business.",
+    "scene": {
+      "setting": "A warm neighborhood bakery",
+      "actor": "One baker sells a loaf and receives a few coins.",
+      "props": [
+        "one baker",
+        "fresh bread",
+        "plain coins"
+      ],
+      "beats": [
+        "The baker arranges fresh bread",
+        "A customer buys a loaf",
+        "The baker earns money from sales"
+      ],
+      "ending": "Selling bread is a lucrative business."
+    },
+    "artDirection": "One baker selling fresh bread and receiving plain coins in a cozy bakery. No price tags, logos, or text."
+  },
+  {
+    "id": "kyc-1852",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "顺从的狗听到主人的指令后坐下来。",
+    "sentence": "The obedient dog sat when its owner gave a signal.",
+    "scene": {
+      "setting": "A quiet home garden",
+      "actor": "One obedient dog sits calmly when its owner gives a hand signal.",
+      "props": [
+        "one dog",
+        "one owner",
+        "one garden"
+      ],
+      "beats": [
+        "The owner raises a hand",
+        "The dog watches closely",
+        "The obedient dog sits"
+      ],
+      "ending": "One obedient dog sits for its owner."
+    },
+    "artDirection": "One dog sitting attentively before one owner’s simple hand signal. No extra people, writing, or text."
+  },
+  {
+    "id": "kyc-1853",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "高空臭氧层帮助保护地球免受太阳紫外线伤害。",
+    "sentence": "Ozone high in the atmosphere shields Earth from much of the sun’s ultraviolet light.",
+    "scene": {
+      "setting": "A peaceful view of Earth from space",
+      "actor": "A thin ozone layer high above Earth filters some sunlight.",
+      "props": [
+        "Earth",
+        "one thin ozone layer",
+        "one sun"
+      ],
+      "beats": [
+        "Sunlight travels toward Earth",
+        "The ozone layer filters part of it",
+        "Earth remains protected below"
+      ],
+      "ending": "Ozone high above Earth filters sunlight."
+    },
+    "artDirection": "A gentle educational space view of Earth and a thin atmospheric layer filtering soft sun rays. No labels, diagrams, numbers, or text."
+  },
+  {
+    "id": "kyc-1854",
+    "anchor": "stick",
+    "anchorMeaning": "木棍",
+    "relation": "她用木棍轻轻戳松软的泥土。",
+    "sentence": "She used a stick to poke the soft soil.",
+    "scene": {
+      "setting": "A quiet garden bed",
+      "actor": "One woman uses one stick to poke the soft soil.",
+      "props": [
+        "one woman",
+        "one stick",
+        "soft soil"
+      ],
+      "beats": [
+        "She kneels by the soil",
+        "She lifts the stick",
+        "She pokes the soft earth"
+      ],
+      "ending": "One woman pokes soft soil with a stick."
+    },
+    "artDirection": "One woman gently poking soft garden soil with a plain stick. No labels or text."
+  },
+  {
+    "id": "kyc-1855",
+    "anchor": "heater",
+    "anchorMeaning": "加热器",
+    "relation": "加热器把温暖散发到整个房间，表现 radiate。",
+    "sentence": "The heater radiated warmth across the room.",
+    "scene": {
+      "setting": "A cozy living room in winter",
+      "actor": "One small heater radiates warmth through the room.",
+      "props": [
+        "one heater",
+        "one cozy room",
+        "warm light"
+      ],
+      "beats": [
+        "The heater turns on",
+        "Warmth spreads through the room",
+        "The room feels comfortable"
+      ],
+      "ending": "One heater radiates warmth across a room."
+    },
+    "artDirection": "One small heater warming a cozy room with soft warm lighting. No heat arrows, labels, or text."
+  },
+  {
+    "id": "kyc-1856",
+    "anchor": "horse",
+    "anchorMeaning": "马",
+    "relation": "她拉紧一根缰绳来控制马匹转向。",
+    "sentence": "She tightened one rein to steer the horse.",
+    "scene": {
+      "setting": "A quiet riding path",
+      "actor": "One rider gently tightens one rein to steer one horse.",
+      "props": [
+        "one rider",
+        "one horse",
+        "one rein"
+      ],
+      "beats": [
+        "The horse begins to turn",
+        "The rider adjusts one rein",
+        "The horse follows the direction"
+      ],
+      "ending": "One rider uses a rein to steer a horse."
+    },
+    "artDirection": "One rider guiding one horse with a clearly visible rein. No extra people, logos, or text."
+  },
+  {
+    "id": "kyc-1857",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "掉落的苹果在潮湿草地上开始腐烂。",
+    "sentence": "The fallen apples began to rot in the damp grass.",
+    "scene": {
+      "setting": "A quiet orchard floor",
+      "actor": "Several fallen apples begin to rot on damp grass.",
+      "props": [
+        "fallen apples",
+        "damp grass",
+        "one orchard tree"
+      ],
+      "beats": [
+        "The apples fall beneath the tree",
+        "They rest in damp grass",
+        "Some apples begin to rot"
+      ],
+      "ending": "Fallen apples rot in the damp grass."
+    },
+    "artDirection": "A few fallen apples with mild natural spots beginning to rot in damp grass. No insects close-up, writing, or text."
+  },
+  {
+    "id": "kyc-1858",
+    "anchor": "rain",
+    "anchorMeaning": "雨",
+    "relation": "雨停后，他松了口气，发出一声叹息。",
+    "sentence": "He let out a sigh of relief when the rain stopped.",
+    "scene": {
+      "setting": "A garden after a shower",
+      "actor": "One man relaxes with a sigh as the rain clears.",
+      "props": [
+        "one man",
+        "rain clouds",
+        "one garden"
+      ],
+      "beats": [
+        "Rain falls over the garden",
+        "The clouds begin to clear",
+        "The man relaxes and sighs with relief"
+      ],
+      "ending": "One man sighs as the rain stops."
+    },
+    "artDirection": "One man visibly relaxing as rain clouds clear over a garden. No speech bubbles, writing, or text."
+  },
+  {
+    "id": "kyc-1859",
+    "anchor": "hat",
+    "anchorMeaning": "帽子",
+    "relation": "她在风把帽子吹走前一把抓住它。",
+    "sentence": "She snatched the hat before the wind carried it away.",
+    "scene": {
+      "setting": "A breezy park path",
+      "actor": "One woman catches one hat just before the wind blows it away.",
+      "props": [
+        "one woman",
+        "one hat",
+        "windblown leaves"
+      ],
+      "beats": [
+        "The hat lifts in the wind",
+        "The woman reaches quickly",
+        "She snatches the hat safely"
+      ],
+      "ending": "One woman snatches a hat from the wind."
+    },
+    "artDirection": "One woman quickly catching one plain hat as leaves blow in the breeze. No writing or text."
+  },
+  {
+    "id": "kyc-1860",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "突然的声响会把睡着的猫吓一跳。",
+    "sentence": "A sudden noise can startle a sleeping cat.",
+    "scene": {
+      "setting": "A quiet kitchen",
+      "actor": "One sleeping cat jumps as one empty pot falls onto the floor.",
+      "props": [
+        "one cat",
+        "one empty pot",
+        "one kitchen floor"
+      ],
+      "beats": [
+        "The cat sleeps quietly",
+        "The pot tips and falls",
+        "The sudden noise startles the cat"
+      ],
+      "ending": "A falling pot startles one sleeping cat."
+    },
+    "artDirection": "One sleeping cat jumps at a falling empty pot, with no written sound effect or text."
+  }
+]

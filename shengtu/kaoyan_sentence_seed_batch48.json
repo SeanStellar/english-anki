@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "kyc-2061",
+    "anchor": "cap",
+    "sentence": "This small cap is apt for a child's head on a sunny day.",
+    "relation": "This small cap is apt for a child's head on a sunny day.",
+    "setting": "A sunny garden path",
+    "actor": "One child tries a small cap that fits comfortably and suits the bright day.",
+    "props": [
+      "one child",
+      "one small cap",
+      "one sunny garden path"
+    ],
+    "beats": [
+      "The child feels the sun",
+      "The child tries the cap",
+      "The cap is apt for the bright day"
+    ],
+    "ending": "This small cap is apt for a child's head on a sunny day.",
+    "artDirection": "One child tries a small cap that fits comfortably and suits the bright day. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2062",
+    "anchor": "bee",
+    "sentence": "The benign bee rested on her hand without stinging her.",
+    "relation": "The benign bee rested on her hand without stinging her.",
+    "setting": "A flower garden",
+    "actor": "One calm bee rests gently on a child's open hand beside a flower.",
+    "props": [
+      "one calm bee",
+      "one open hand",
+      "one flower"
+    ],
+    "beats": [
+      "The bee approaches the flower",
+      "It lands gently on the hand",
+      "The child remains unharmed"
+    ],
+    "ending": "The benign bee rested on her hand without stinging her.",
+    "artDirection": "One calm bee rests gently on a child's open hand beside a flower. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2063",
+    "anchor": "paddle",
+    "sentence": "They used a paddle to guide the canoe across the lake.",
+    "relation": "They used a paddle to guide the canoe across the lake.",
+    "setting": "A quiet lake",
+    "actor": "Two friends steer one canoe with a paddle across calm water.",
+    "props": [
+      "one canoe",
+      "one paddle",
+      "one lake"
+    ],
+    "beats": [
+      "The canoe enters the water",
+      "The friends use the paddle",
+      "The canoe moves across the lake"
+    ],
+    "ending": "They used a paddle to guide the canoe across the lake.",
+    "artDirection": "Two friends steer one canoe with a paddle across calm water. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2064",
+    "anchor": "radio",
+    "sentence": "She inserted a cassette into the radio-cassette player to hear an old song.",
+    "relation": "She inserted a cassette into the radio-cassette player to hear an old song.",
+    "setting": "A cozy living room",
+    "actor": "One person inserts a cassette into a radio and listens beside a chair.",
+    "props": [
+      "one cassette",
+      "one radio",
+      "one chair"
+    ],
+    "beats": [
+      "The person finds the cassette",
+      "She places it in the radio",
+      "An old song plays"
+    ],
+    "ending": "She inserted a cassette into the radio-cassette player to hear an old song.",
+    "artDirection": "One person inserts a cassette into a radio and listens beside a chair. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2065",
+    "anchor": "wheel",
+    "sentence": "A wheel left a circular track in the soft sand.",
+    "relation": "A wheel left a circular track in the soft sand.",
+    "setting": "A sandy beach",
+    "actor": "A child rolls one wheel through soft sand, leaving a round track.",
+    "props": [
+      "one wheel",
+      "soft sand",
+      "one curved track"
+    ],
+    "beats": [
+      "The child rolls the wheel",
+      "It presses a round path",
+      "A circular track remains"
+    ],
+    "ending": "A wheel left a circular track in the soft sand.",
+    "artDirection": "A child rolls one wheel through soft sand, leaving a round track. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2066",
+    "anchor": "bread",
+    "sentence": "The bread had a golden crust after baking.",
+    "relation": "The bread had a golden crust after baking.",
+    "setting": "A warm kitchen",
+    "actor": "A baker removes a loaf from the oven and shows its firm golden outer crust.",
+    "props": [
+      "one loaf of bread",
+      "one oven",
+      "one cooling rack"
+    ],
+    "beats": [
+      "The loaf bakes",
+      "The baker removes it",
+      "The golden crust is visible"
+    ],
+    "ending": "The bread had a golden crust after baking.",
+    "artDirection": "A baker removes a loaf from the oven and shows its firm golden outer crust. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2067",
+    "anchor": "hair",
+    "sentence": "A curl of hair fell across the child's forehead.",
+    "relation": "A curl of hair fell across the child's forehead.",
+    "setting": "A bedroom mirror",
+    "actor": "A child combs one lock of hair as a single curl falls across the forehead.",
+    "props": [
+      "one child",
+      "one comb",
+      "one curl of hair"
+    ],
+    "beats": [
+      "The child combs the hair",
+      "One lock springs into a curl",
+      "The curl falls across the forehead"
+    ],
+    "ending": "A curl of hair fell across the child's forehead.",
+    "artDirection": "A child combs one lock of hair as a single curl falls across the forehead. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2068",
+    "anchor": "deer",
+    "sentence": "A lantern helped deter the deer from entering the vegetable garden.",
+    "relation": "A lantern helped deter the deer from entering the vegetable garden.",
+    "setting": "A vegetable garden at dusk",
+    "actor": "One deer pauses at the edge of a vegetable garden while a lantern shines nearby.",
+    "props": [
+      "one deer",
+      "one lantern",
+      "one vegetable garden"
+    ],
+    "beats": [
+      "The deer approaches the garden",
+      "The lantern shines across the path",
+      "The deer stays outside the garden"
+    ],
+    "ending": "A lantern shines as the deer turns away from the garden.",
+    "artDirection": "One deer pauses at the edge of a vegetable garden while a lantern shines nearby. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2069",
+    "anchor": "hero",
+    "sentence": "The hero’s journey became an epic tale told around the fire.",
+    "relation": "The hero’s journey became an epic tale told around the fire.",
+    "setting": "A quiet campfire beside a forest path",
+    "actor": "Exactly two people: one young hero tells a grand journey tale to one child listener beside the campfire; no other people.",
+    "props": [
+      "one young hero",
+      "one child listener",
+      "one campfire"
+    ],
+    "beats": [
+      "The hero begins a journey",
+      "The tale grows grand",
+      "The listener hears the epic tale"
+    ],
+    "ending": "The hero tells one child an epic tale beside the fire.",
+    "artDirection": "Exactly two people: one young hero tells a grand journey tale to one child listener beside the campfire; no other people. No extra people, crowds, symbols, or readable marks. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2070",
+    "anchor": "root",
+    "sentence": "She pulled each weed out by the root to eradicate it from the garden.",
+    "relation": "She pulled each weed out by the root to eradicate it from the garden.",
+    "setting": "A vegetable garden",
+    "actor": "A gardener pulls a stubborn weed completely out of the soil by its root.",
+    "props": [
+      "one weed",
+      "one exposed root",
+      "one garden trowel"
+    ],
+    "beats": [
+      "The weed grows among vegetables",
+      "The gardener loosens the soil",
+      "She removes the weed by its root"
+    ],
+    "ending": "She pulled each weed out by the root to eradicate it from the garden.",
+    "artDirection": "A gardener pulls a stubborn weed completely out of the soil by its root. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2071",
+    "anchor": "star",
+    "sentence": "The child imagined a fabulous star shining above the castle.",
+    "relation": "The child imagined a fabulous star shining above the castle.",
+    "setting": "A child's bedroom at night",
+    "actor": "A child looks through a window at one brilliant star and imagines a wondrous castle below.",
+    "props": [
+      "one child",
+      "one bright star",
+      "one castle-shaped toy"
+    ],
+    "beats": [
+      "The child looks up",
+      "The star shines brightly",
+      "The child imagines a fabulous sight"
+    ],
+    "ending": "The child imagined a fabulous star shining above the castle.",
+    "artDirection": "A child looks through a window at one brilliant star and imagines a wondrous castle below. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2072",
+    "anchor": "iron",
+    "sentence": "A magnet can fascinate a child as iron filings move toward it.",
+    "relation": "A magnet can fascinate a child as iron filings move toward it.",
+    "setting": "A school science table",
+    "actor": "A child watches iron filings gather around a plain magnet.",
+    "props": [
+      "one magnet",
+      "iron filings",
+      "one child"
+    ],
+    "beats": [
+      "The child places the magnet down",
+      "The filings move toward it",
+      "The child watches with fascination"
+    ],
+    "ending": "A magnet can fascinate a child as iron filings move toward it.",
+    "artDirection": "A child watches iron filings gather around a plain magnet. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2073",
+    "anchor": "mountain",
+    "sentence": "A formidable mountain blocked the hikers' path.",
+    "relation": "A formidable mountain blocked the hikers' path.",
+    "setting": "A high mountain pass",
+    "actor": "Two hikers stop before a towering mountain that looks difficult to climb.",
+    "props": [
+      "one formidable mountain",
+      "two hikers",
+      "one narrow trail"
+    ],
+    "beats": [
+      "The hikers reach the pass",
+      "The mountain towers over them",
+      "They pause before the formidable climb"
+    ],
+    "ending": "A formidable mountain blocked the hikers' path.",
+    "artDirection": "Two hikers stop before a towering mountain that looks difficult to climb. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2074",
+    "anchor": "bell",
+    "sentence": "Her hearing picked up the bell ringing in the next room.",
+    "relation": "Her hearing picked up the bell ringing in the next room.",
+    "setting": "A quiet home with two connected rooms",
+    "actor": "One child listens carefully beside a plain bell in the next room; show the bell gently swinging, with no sound marks.",
+    "props": [
+      "one listening child",
+      "one plain bell",
+      "one doorway"
+    ],
+    "beats": [
+      "The room is quiet",
+      "The bell swings in the next room",
+      "The child hears the ringing"
+    ],
+    "ending": "A child listens as a plain bell swings in the next room.",
+    "artDirection": "Show the child cupping one ear to make hearing unmistakable; the bell is completely still and has no clapper motion. Exactly one child. No sound waves, motion lines, marks, musical notes, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2075",
+    "anchor": "guard",
+    "sentence": "The guard made a heroic rescue with his shield held high.",
+    "relation": "The guard made a heroic rescue with his shield held high.",
+    "setting": "A garden beneath a tree",
+    "actor": "Exactly two people: one guard protects one child from a falling branch with a completely plain shield.",
+    "props": [
+      "one guard",
+      "one child",
+      "one plain shield"
+    ],
+    "beats": [
+      "A branch begins to fall",
+      "The guard raises the shield",
+      "The child reaches safety"
+    ],
+    "ending": "The guard makes a heroic rescue with a plain shield.",
+    "artDirection": "Exactly two people: one guard protects one child from a falling branch with a completely plain shield. No badges, insignia, emblems, symbols, or text on clothing or shield. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2076",
+    "anchor": "king",
+    "sentence": "The king invited his kin to share a feast in the castle.",
+    "relation": "The king invited his kin to share a feast in the castle.",
+    "setting": "A simple castle dining hall",
+    "actor": "Exactly two people: one king welcomes one relative to a small family feast; no other people.",
+    "props": [
+      "one king",
+      "one relative",
+      "one plain feast table"
+    ],
+    "beats": [
+      "The king opens the hall",
+      "One relative arrives",
+      "They share the feast"
+    ],
+    "ending": "The king invites one relative to share a feast in the castle.",
+    "artDirection": "Exactly two people. Do not add a crown, cape, heraldic pattern, cross, star, crest, banner, emblem, jewelry, or any decoration on clothing or furniture. Keep the scene simple, with one plain throne and one table. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2077",
+    "anchor": "baby",
+    "sentence": "The baby settled as her mother began to murmur a lullaby.",
+    "relation": "The baby settled as her mother began to murmur a lullaby.",
+    "setting": "A quiet nursery",
+    "actor": "A mother softly sings beside a baby in a cradle.",
+    "props": [
+      "one mother",
+      "one baby",
+      "one cradle"
+    ],
+    "beats": [
+      "The baby fusses",
+      "The mother murmurs a lullaby",
+      "The baby settles"
+    ],
+    "ending": "The baby settled as her mother began to murmur a lullaby.",
+    "artDirection": "A mother softly sings beside a baby in a cradle. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2078",
+    "anchor": "judge",
+    "sentence": "The judge’s unfair decision caused outrage in the village.",
+    "relation": "The judge’s unfair decision caused outrage in the village.",
+    "setting": "A plain village courthouse",
+    "actor": "Exactly two people: one judge announces an unfair decision to one visibly outraged villager.",
+    "props": [
+      "one judge",
+      "one outraged villager",
+      "one plain courthouse bench"
+    ],
+    "beats": [
+      "The judge announces the decision",
+      "The villager hears the unfair result",
+      "The villager shows outrage"
+    ],
+    "ending": "The judge announces an unfair decision to one villager.",
+    "artDirection": "Exactly two people: one judge announces an unfair decision to one visibly outraged villager. No other people, scales, legal emblems, badges, text, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2079",
+    "anchor": "radio",
+    "sentence": "The radio repeated propaganda praising the ruler as one citizen listened.",
+    "relation": "The radio repeated propaganda praising the ruler as one citizen listened.",
+    "setting": "A quiet room with a plain radio",
+    "actor": "Exactly two adults: one ruler speaks into a plain radio microphone while one listener sits beside a tabletop radio.",
+    "props": [
+      "one ruler speaking",
+      "one plain radio",
+      "one listener"
+    ],
+    "beats": [
+      "The radio turns on",
+      "The ruler praises himself in a broadcast",
+      "The listener hears propaganda"
+    ],
+    "ending": "The radio repeated propaganda praising the ruler as one citizen listened.",
+    "artDirection": "Only one person, with plain ordinary clothes. Radio has no dial numbers, logos, text, labels, symbols, or visible sound waves. No ruler, uniforms, badges, stars, crowds, signs, letters, numbers, or watermarks."
+  },
+  {
+    "id": "kyc-2080",
+    "anchor": "alarm",
+    "sentence": "A loud alarm can rouse a child from sleep before sunrise.",
+    "relation": "A loud alarm can rouse a child from sleep before sunrise.",
+    "setting": "A child’s bedroom before sunrise",
+    "actor": "One child begins to wake beside a plain alarm clock with a completely blank face and no markings.",
+    "props": [
+      "one waking child",
+      "one blank-faced alarm clock",
+      "one bedroom window"
+    ],
+    "beats": [
+      "The room is dark",
+      "The alarm clock rings",
+      "The child wakes before sunrise"
+    ],
+    "ending": "The alarm rouses a child from sleep before sunrise.",
+    "artDirection": "One child begins to wake beside a plain alarm clock with a completely blank face and no markings. No sound lines, numerals, ticks, letters, labels, or symbols on the clock. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2081",
+    "anchor": "clown",
+    "sentence": "The clown used satire to expose the greedy king’s behavior.",
+    "relation": "The clown used satire to expose the greedy king’s behavior.",
+    "setting": "A small theater stage",
+    "actor": "Exactly two people: one clown performs an exaggerated imitation of one greedy king; no audience.",
+    "props": [
+      "one clown",
+      "one king",
+      "one plain stage"
+    ],
+    "beats": [
+      "The clown starts an imitation",
+      "The king’s greed is gently mocked",
+      "The king recognizes the joke"
+    ],
+    "ending": "The clown uses satire to expose the greedy king’s behavior.",
+    "artDirection": "Exactly two people: one clown performs an exaggerated imitation of one greedy king; no audience. No audience, coins, currency marks, motion lines, signs, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2082",
+    "anchor": "mouse",
+    "sentence": "A mouse tried to sneak past the sleeping cat.",
+    "relation": "A mouse tried to sneak past the sleeping cat.",
+    "setting": "A quiet kitchen at night",
+    "actor": "One small mouse creeps along the floor past a sleeping cat.",
+    "props": [
+      "one mouse",
+      "one sleeping cat",
+      "one kitchen floor"
+    ],
+    "beats": [
+      "The cat falls asleep",
+      "The mouse moves quietly",
+      "It sneaks past the cat"
+    ],
+    "ending": "A mouse tried to sneak past the sleeping cat.",
+    "artDirection": "One small mouse creeps along the floor past a sleeping cat. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2083",
+    "anchor": "bird",
+    "sentence": "A bird perched beside the tall stalk of corn.",
+    "relation": "A bird perched beside the tall stalk of corn.",
+    "setting": "A sunny cornfield",
+    "actor": "One small bird perches beside the tall green stalk of a corn plant.",
+    "props": [
+      "one bird",
+      "one tall corn stalk",
+      "one cornfield"
+    ],
+    "beats": [
+      "The corn plant grows tall",
+      "A bird lands beside it",
+      "The bird rests by the stalk"
+    ],
+    "ending": "A bird perches beside a tall corn stalk.",
+    "artDirection": "One small bird perches beside the tall green stalk of a corn plant. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2084",
+    "anchor": "blanket",
+    "sentence": "She began to tuck the blanket around the child before bed.",
+    "relation": "She began to tuck the blanket around the child before bed.",
+    "setting": "A warm bedroom",
+    "actor": "A parent folds the edge of a blanket snugly around a child in bed.",
+    "props": [
+      "one parent",
+      "one blanket",
+      "one child in bed"
+    ],
+    "beats": [
+      "The child lies down",
+      "The parent folds the blanket edge",
+      "The child is tucked in"
+    ],
+    "ending": "She began to tuck the blanket around the child before bed.",
+    "artDirection": "A parent folds the edge of a blanket snugly around a child in bed. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2085",
+    "anchor": "glass",
+    "sentence": "There was no water whatsoever left in the glass.",
+    "relation": "There was no water whatsoever left in the glass.",
+    "setting": "A kitchen table",
+    "actor": "A child turns over a completely empty drinking glass beside a dry pitcher.",
+    "props": [
+      "one empty glass",
+      "one dry pitcher",
+      "one child"
+    ],
+    "beats": [
+      "The child checks the pitcher",
+      "The glass is turned over",
+      "There is no water whatsoever"
+    ],
+    "ending": "There was no water whatsoever left in the glass.",
+    "artDirection": "A child turns over a completely empty drinking glass beside a dry pitcher. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2086",
+    "anchor": "cream",
+    "sentence": "She used a wire whip to whip the cream into soft peaks.",
+    "relation": "She used a wire whip to whip the cream into soft peaks.",
+    "setting": "A home kitchen",
+    "actor": "A cook beats cream with a wire whip until soft peaks form in a bowl.",
+    "props": [
+      "one bowl of cream",
+      "one wire whip",
+      "one cook"
+    ],
+    "beats": [
+      "The cream is poured into the bowl",
+      "The cook whips it briskly",
+      "Soft peaks form"
+    ],
+    "ending": "She used a wire whip to whip the cream into soft peaks.",
+    "artDirection": "A cook beats cream with a wire whip until soft peaks form in a bowl. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2087",
+    "anchor": "stage",
+    "sentence": "The audience member’s applause followed the dancer’s bow on stage.",
+    "relation": "The audience member’s applause followed the dancer’s bow on stage.",
+    "setting": "A simple performance stage",
+    "actor": "Exactly two people: one dancer bows on stage while one audience member claps; no other people.",
+    "props": [
+      "one dancer",
+      "one audience member",
+      "one plain stage"
+    ],
+    "beats": [
+      "The dancer finishes",
+      "The dancer bows",
+      "One audience member gives applause"
+    ],
+    "ending": "The audience member’s applause followed the dancer’s bow on stage.",
+    "artDirection": "The stage must be visibly raised above the floor, with the dancer standing on it and exactly one spectator seated below, clapping. No crowd, curtain text, posters, marks, symbols, letters, numbers, signs, labels, logos, or watermarks."
+  },
+  {
+    "id": "kyc-2088",
+    "anchor": "fire",
+    "sentence": "Ash remained in the fireplace after the fire burned out.",
+    "relation": "Ash remained in the fireplace after the fire burned out.",
+    "setting": "A quiet living room",
+    "actor": "A cold fireplace contains gray ash after the last flames have disappeared.",
+    "props": [
+      "one fireplace",
+      "gray ash",
+      "one burned log"
+    ],
+    "beats": [
+      "The fire burns low",
+      "The flames go out",
+      "Ash remains in the fireplace"
+    ],
+    "ending": "Ash remained in the fireplace after the fire burned out.",
+    "artDirection": "A cold fireplace contains gray ash after the last flames have disappeared. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2089",
+    "anchor": "family",
+    "sentence": "The family paid bail to bring their brother home from jail.",
+    "relation": "The family paid bail to bring their brother home from jail.",
+    "setting": "A plain courthouse counter beside an empty jail doorway",
+    "actor": "Exactly two adults: one family member hands plain unmarked coins to one clerk at a blank counter; no released person is shown.",
+    "props": [
+      "one family member",
+      "one clerk",
+      "plain unmarked coins"
+    ],
+    "beats": [
+      "The family member arrives",
+      "Coins are handed to the clerk",
+      "Bail is paid so a relative can return home"
+    ],
+    "ending": "The family paid bail to bring their brother home from jail.",
+    "artDirection": "Exactly two adults: one family member hands plain unmarked coins to one clerk at a blank counter; no released person is shown. No extra people, currency signs, readable paper, logos, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2090",
+    "anchor": "park",
+    "sentence": "The tired runner rested on a bench in the park.",
+    "relation": "The tired runner rested on a bench in the park.",
+    "setting": "A green city park",
+    "actor": "A tired runner sits on a wooden bench beneath a tree.",
+    "props": [
+      "one runner",
+      "one wooden bench",
+      "one park tree"
+    ],
+    "beats": [
+      "The runner finishes a path",
+      "The runner sits down",
+      "The bench provides a rest"
+    ],
+    "ending": "The tired runner rested on a bench in the park.",
+    "artDirection": "A tired runner sits on a wooden bench beneath a tree. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2091",
+    "anchor": "beam",
+    "sentence": "A wooden beam can bolster the weak shelf beneath the books.",
+    "relation": "A wooden beam can bolster the weak shelf beneath the books.",
+    "setting": "A home workshop",
+    "actor": "A carpenter fits a strong wooden beam beneath a sagging bookshelf.",
+    "props": [
+      "one wooden beam",
+      "one weak shelf",
+      "one stack of books"
+    ],
+    "beats": [
+      "The shelf begins to sag",
+      "The carpenter adds a beam",
+      "The shelf is bolstered"
+    ],
+    "ending": "A wooden beam can bolster the weak shelf beneath the books.",
+    "artDirection": "A carpenter fits a strong wooden beam beneath a sagging bookshelf. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2092",
+    "anchor": "maze",
+    "sentence": "The maze can complicate the search for the garden gate.",
+    "relation": "The maze can complicate the search for the garden gate.",
+    "setting": "A large hedge garden",
+    "actor": "A child searches for a gate while winding paths through a tall hedge maze confuse the route.",
+    "props": [
+      "one hedge maze",
+      "one child",
+      "one garden gate"
+    ],
+    "beats": [
+      "The child enters the maze",
+      "The paths twist in several directions",
+      "Finding the gate becomes complicated"
+    ],
+    "ending": "The maze can complicate the search for the garden gate.",
+    "artDirection": "A child searches for a gate while winding paths through a tall hedge maze confuse the route. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2093",
+    "anchor": "clock",
+    "sentence": "The conscientious nurse checked every bottle before the clock struck noon.",
+    "relation": "The conscientious nurse checked every bottle before the clock struck noon.",
+    "setting": "A tidy clinic room",
+    "actor": "One careful nurse checks three plain medicine bottles beside a simple clock with a blank face.",
+    "props": [
+      "one nurse",
+      "three plain unlabeled bottles",
+      "one blank-faced clock"
+    ],
+    "beats": [
+      "The nurse arrives",
+      "She checks each bottle carefully",
+      "The blank clock hands approach noon"
+    ],
+    "ending": "The conscientious nurse checked every bottle before the clock struck noon.",
+    "artDirection": "One careful nurse checks three plain medicine bottles beside a simple clock with a blank face. No medical crosses, plus signs, labels, numerals, tick marks, logos, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2094",
+    "anchor": "crown",
+    "sentence": "The crown-shaped spikes around the coronavirus reminded the nurse to wear a mask.",
+    "relation": "The crown-shaped spikes around the coronavirus reminded the nurse to wear a mask.",
+    "setting": "A simple educational clinic room",
+    "actor": "One masked nurse examines one plain educational virus model with clearly visible crown-like spikes.",
+    "props": [
+      "one nurse wearing a plain mask",
+      "one unmarked virus model",
+      "one plain tabletop"
+    ],
+    "beats": [
+      "The nurse prepares for care",
+      "The nurse examines the model",
+      "The crown-like spikes are clearly visible"
+    ],
+    "ending": "The crown-shaped spikes around the coronavirus reminded the nurse to wear a mask.",
+    "artDirection": "No people, room equipment, medical objects, crosses, plus signs, charts, diagrams, labels, logos, text, letters, numbers, symbols, or watermarks. Make the spikes on the virus model look like a simple crown without drawing an actual crown icon."
+  },
+  {
+    "id": "kyc-2095",
+    "anchor": "beam",
+    "sentence": "The crane lifted a steel beam over the construction site.",
+    "relation": "The crane lifted a steel beam over the construction site.",
+    "setting": "A quiet construction site",
+    "actor": "One tall crane lifts one steel beam above a partly built structure.",
+    "props": [
+      "one crane",
+      "one steel beam",
+      "one unfinished building"
+    ],
+    "beats": [
+      "The crane reaches over the site",
+      "It hooks the beam",
+      "The beam is lifted into place"
+    ],
+    "ending": "The crane lifted a steel beam over the construction site.",
+    "artDirection": "One tall crane lifts one steel beam above a partly built structure. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2096",
+    "anchor": "light",
+    "sentence": "A crystal caught the light and scattered colors across the room.",
+    "relation": "A crystal caught the light and scattered colors across the room.",
+    "setting": "A sunlit room",
+    "actor": "A clear crystal sits in a sunbeam and casts soft colors on a blank wall.",
+    "props": [
+      "one crystal",
+      "one sunbeam",
+      "one blank wall"
+    ],
+    "beats": [
+      "Sunlight enters the room",
+      "The crystal catches the light",
+      "Colors spread across the wall"
+    ],
+    "ending": "A crystal caught the light and scattered colors across the room.",
+    "artDirection": "A clear crystal sits in a sunbeam and casts soft colors on a blank wall. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2097",
+    "anchor": "song",
+    "sentence": "Weeks of practice culminate in one final song at the concert.",
+    "relation": "Weeks of practice culminate in one final song at the concert.",
+    "setting": "An empty concert stage",
+    "actor": "One singer performs the final song alone on a plain stage after weeks of practice.",
+    "props": [
+      "one singer",
+      "one plain stage",
+      "one plain microphone"
+    ],
+    "beats": [
+      "Practice continues over many weeks",
+      "The concert reaches its final moment",
+      "The singer performs one last song"
+    ],
+    "ending": "The singer performs the final song alone at the concert.",
+    "artDirection": "One singer performs the final song alone on a plain stage after weeks of practice. No audience, crowds, musical notation, text, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2098",
+    "anchor": "cake",
+    "sentence": "To her dismay, the cake slid off the table before the party.",
+    "relation": "To her dismay, the cake slid off the table before the party.",
+    "setting": "A home kitchen",
+    "actor": "A child looks sadly at a cake that has slid onto the floor before a celebration.",
+    "props": [
+      "one cake",
+      "one table",
+      "one child"
+    ],
+    "beats": [
+      "The cake sits near the edge",
+      "It slides off the table",
+      "The child reacts with dismay"
+    ],
+    "ending": "To her dismay, the cake slid off the table before the party.",
+    "artDirection": "A child looks sadly at a cake that has slid onto the floor before a celebration. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2099",
+    "anchor": "smoke",
+    "sentence": "When smoke filled the hall, the adult and child had to evacuate the building.",
+    "relation": "When smoke filled the hall, the adult and child had to evacuate the building.",
+    "setting": "A quiet building hallway with an open doorway",
+    "actor": "Exactly two family members, one adult and one child, calmly leave a smoke-filled hallway through an open doorway.",
+    "props": [
+      "one adult",
+      "one child",
+      "one smoke-filled hallway and open doorway"
+    ],
+    "beats": [
+      "Smoke appears in the hall",
+      "The adult and child move to the doorway",
+      "Both evacuate safely"
+    ],
+    "ending": "The adult and child evacuate the building when smoke fills the hall.",
+    "artDirection": "Exactly two family members, one adult and one child, calmly leave a smoke-filled hallway through an open doorway. No additional people, exit signs, arrows, labels, text, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2100",
+    "anchor": "bird",
+    "sentence": "A bird dropped one feather beside its nest.",
+    "relation": "A bird dropped one feather beside its nest.",
+    "setting": "A leafy tree branch",
+    "actor": "One bird stands by a nest as a single feather drifts to the ground.",
+    "props": [
+      "one bird",
+      "one feather",
+      "one nest"
+    ],
+    "beats": [
+      "The bird settles by the nest",
+      "One feather comes loose",
+      "The feather lands below"
+    ],
+    "ending": "A bird dropped one feather beside its nest.",
+    "artDirection": "One bird stands by a nest as a single feather drifts to the ground. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2101",
+    "anchor": "soil",
+    "sentence": "The gardener mixed fertiliser into the soil before planting seeds.",
+    "relation": "The gardener mixed fertiliser into the soil before planting seeds.",
+    "setting": "A vegetable garden",
+    "actor": "A gardener mixes plain fertiliser into soil beside a row ready for seeds.",
+    "props": [
+      "one gardener",
+      "one patch of soil",
+      "one plain fertiliser bag"
+    ],
+    "beats": [
+      "The gardener loosens the soil",
+      "Fertiliser is mixed in",
+      "Seeds are planted"
+    ],
+    "ending": "The gardener mixed fertiliser into the soil before planting seeds.",
+    "artDirection": "A gardener mixes plain fertiliser into soil beside a row ready for seeds. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2102",
+    "anchor": "castle",
+    "sentence": "In a feudal kingdom, a lord guarded his castle and fields.",
+    "relation": "In a feudal kingdom, a lord guarded his castle and fields.",
+    "setting": "Fields below a stone castle",
+    "actor": "Exactly two people: one lord stands by the castle with one farmer working the nearby field.",
+    "props": [
+      "one lord",
+      "one stone castle",
+      "one field with one farmer"
+    ],
+    "beats": [
+      "The lord watches the land",
+      "The castle overlooks the field",
+      "The farmer works under the lord’s rule"
+    ],
+    "ending": "In a feudal kingdom, a lord guarded his castle and fields.",
+    "artDirection": "Exactly two people: one lord stands by the castle with one farmer working the nearby field. No crowds, flags, banners, heraldry, emblems, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2103",
+    "anchor": "hand",
+    "sentence": "A germ on his hand spread when he touched the ripe fruit.",
+    "relation": "A germ on his hand spread when he touched the ripe fruit.",
+    "setting": "A kitchen table",
+    "actor": "A child looks at one hand under a magnifying glass with tiny germ shapes beside fruit.",
+    "props": [
+      "one hand",
+      "one magnifying glass",
+      "one ripe fruit"
+    ],
+    "beats": [
+      "The child touches the fruit",
+      "A germ is seen on the hand",
+      "It spreads to the fruit"
+    ],
+    "ending": "A germ on his hand spread when he touched the ripe fruit.",
+    "artDirection": "A child looks at one hand under a magnifying glass with tiny germ shapes beside fruit. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2104",
+    "anchor": "ice",
+    "sentence": "The skater began to glide smoothly across the ice.",
+    "relation": "The skater began to glide smoothly across the ice.",
+    "setting": "A frozen pond",
+    "actor": "One skater glides in a smooth line across a clear frozen pond.",
+    "props": [
+      "one skater",
+      "one sheet of ice",
+      "one pair of skates"
+    ],
+    "beats": [
+      "The skater steps onto the ice",
+      "The skates move smoothly",
+      "The skater glides across the pond"
+    ],
+    "ending": "The skater began to glide smoothly across the ice.",
+    "artDirection": "One skater glides in a smooth line across a clear frozen pond. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2105",
+    "anchor": "crown",
+    "sentence": "The heir stood beside the plain crown before inheriting the throne.",
+    "relation": "The heir stood beside the plain crown before inheriting the throne.",
+    "setting": "A quiet royal hall",
+    "actor": "One young heir waits beside a plain empty throne and a simple gold crown with no decoration.",
+    "props": [
+      "one heir",
+      "one plain gold crown",
+      "one empty throne"
+    ],
+    "beats": [
+      "The heir enters the hall",
+      "The plain crown is prepared",
+      "The heir stands beside the throne"
+    ],
+    "ending": "The heir stood beside the plain crown before inheriting the throne.",
+    "artDirection": "One young heir waits beside a plain empty throne and a simple gold crown with no decoration. No crosses, jewels, crests, emblems, logos, text, or symbols on the crown or throne. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2106",
+    "anchor": "clock",
+    "sentence": "The clock showed that the deadline was imminent.",
+    "relation": "The clock showed that the deadline was imminent.",
+    "setting": "A quiet study room",
+    "actor": "One student watches a simple clock with two hands and an entirely blank face, beside a closed work folder.",
+    "props": [
+      "one student",
+      "one blank-faced clock",
+      "one closed folder"
+    ],
+    "beats": [
+      "The student checks the clock",
+      "The hands approach noon",
+      "The imminent deadline draws close"
+    ],
+    "ending": "The clock showed that the deadline was imminent.",
+    "artDirection": "One student watches a simple clock with two hands and an entirely blank face, beside a closed work folder. No numerals, tick marks, labels, letters, symbols, or numbers anywhere on the clock. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2107",
+    "anchor": "brake",
+    "sentence": "The brake can inhibit the cart’s movement down the hill.",
+    "relation": "The brake can inhibit the cart’s movement down the hill.",
+    "setting": "An empty sloping path",
+    "actor": "No people or body parts: a loaded cart is held still on a slope by its engaged built-in brake.",
+    "props": [
+      "one loaded cart",
+      "one engaged brake",
+      "one sloping path"
+    ],
+    "beats": [
+      "The cart begins to roll",
+      "The built-in brake engages",
+      "The cart remains still"
+    ],
+    "ending": "The brake inhibits the cart’s movement down the hill.",
+    "artDirection": "The wedge must touch the cart wheel and visibly prevent it from rolling downhill; make the path slope obvious while the cart remains still. No people, motion marks, arrows, text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2108",
+    "anchor": "door",
+    "sentence": "The door swung inward when the wind pushed it.",
+    "relation": "The door swung inward when the wind pushed it.",
+    "setting": "A quiet room",
+    "actor": "A plain door swings from the hallway into a room as a breeze moves the curtain.",
+    "props": [
+      "one door",
+      "one room",
+      "one light curtain"
+    ],
+    "beats": [
+      "The wind rises outside",
+      "The door begins to swing",
+      "It moves inward into the room"
+    ],
+    "ending": "The door swung inward when the wind pushed it.",
+    "artDirection": "A plain door swings from the hallway into a room as a breeze moves the curtain. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2109",
+    "anchor": "road",
+    "sentence": "At the junction, the road split toward the village and the bridge.",
+    "relation": "At the junction, the road split toward the village and the bridge.",
+    "setting": "A country crossroads",
+    "actor": "One road divides into two branches beside a small bridge and a village path.",
+    "props": [
+      "one road",
+      "one bridge",
+      "one village path"
+    ],
+    "beats": [
+      "The road approaches a fork",
+      "The branches meet at one point",
+      "Travelers reach a junction"
+    ],
+    "ending": "At the junction, the road split toward the village and the bridge.",
+    "artDirection": "One road divides into two branches beside a small bridge and a village path. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2110",
+    "anchor": "child",
+    "sentence": "Police stopped a man who tried to kidnap a child and safely returned her to her family.",
+    "relation": "Police stopped a man who tried to kidnap a child and safely returned her to her family.",
+    "setting": "A calm home doorway after an emergency",
+    "actor": "Exactly two people: one child stands safely beside one police officer in a plain unmarked uniform; the rescue is over.",
+    "props": [
+      "one child",
+      "one unmarked police officer",
+      "one home doorway"
+    ],
+    "beats": [
+      "The child waits in a safe place",
+      "The officer checks that the child is safe",
+      "The child is reunited with family after the kidnap attempt"
+    ],
+    "ending": "Police stopped a man who tried to kidnap a child and safely returned her to her family.",
+    "artDirection": "Exactly two people. The officer wears ordinary plain dark clothing: no hat, badge, patch, shield, star, crest, buttons, belt, weapon, or equipment. No framed pictures, signs, text, letters, numbers, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2111",
+    "anchor": "rope",
+    "sentence": "A loop in the rope held the bucket above the well.",
+    "relation": "A loop in the rope held the bucket above the well.",
+    "setting": "A stone well",
+    "actor": "One rope forms a clear loop around a bucket suspended above a stone well.",
+    "props": [
+      "one rope",
+      "one bucket",
+      "one stone well"
+    ],
+    "beats": [
+      "The rope is lowered",
+      "A loop holds the bucket",
+      "The bucket hangs above the well"
+    ],
+    "ending": "A loop in the rope held the bucket above the well.",
+    "artDirection": "One rope forms a clear loop around a bucket suspended above a stone well. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2112",
+    "anchor": "book",
+    "sentence": "The missionary brought a book to the village school and taught a child to read.",
+    "relation": "The missionary brought a book to the village school and taught a child to read.",
+    "setting": "A small village school room",
+    "actor": "Exactly two people: one missionary shares one blank picture book with one child at a plain table.",
+    "props": [
+      "one missionary",
+      "one blank picture book",
+      "one child at a plain table"
+    ],
+    "beats": [
+      "The missionary arrives",
+      "The blank book is opened",
+      "The child learns to read"
+    ],
+    "ending": "The missionary brought a book to the village school and taught a child to read.",
+    "artDirection": "Exactly two people. Suggest a traveling missionary through the plain satchel and rural school setting, not through religious symbols. No crosses, flags, clocks, other students, signs, writing, letters, numbers, logos, or watermarks."
+  },
+  {
+    "id": "kyc-2113",
+    "anchor": "leaf",
+    "sentence": "The moist leaf glistened after the morning rain.",
+    "relation": "The moist leaf glistened after the morning rain.",
+    "setting": "A garden after rain",
+    "actor": "One damp leaf shines with droplets among green plants.",
+    "props": [
+      "one moist leaf",
+      "rain droplets",
+      "one green plant"
+    ],
+    "beats": [
+      "Rain falls overnight",
+      "A leaf becomes damp",
+      "Morning light shines on it"
+    ],
+    "ending": "The moist leaf glistened after the morning rain.",
+    "artDirection": "One damp leaf shines with droplets among green plants. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2114",
+    "anchor": "tree",
+    "sentence": "A naked tree stood bare after its last leaf fell.",
+    "relation": "A naked tree stood bare after its last leaf fell.",
+    "setting": "A quiet winter garden",
+    "actor": "One bare tree stands against the winter sky with a single fallen leaf below.",
+    "props": [
+      "one bare tree",
+      "one fallen leaf",
+      "one garden path"
+    ],
+    "beats": [
+      "The season turns cold",
+      "The last leaf falls",
+      "The naked tree remains bare"
+    ],
+    "ending": "A naked tree stood bare after its last leaf fell.",
+    "artDirection": "One bare tree stands against the winter sky with a single fallen leaf below. Show only a bare tree; no human nudity or exposed people. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2115",
+    "anchor": "rain",
+    "sentence": "She pulled on an overcoat before walking into the cold rain.",
+    "relation": "She pulled on an overcoat before walking into the cold rain.",
+    "setting": "A house doorway on a rainy day",
+    "actor": "One woman puts on a long overcoat before stepping outside into rain.",
+    "props": [
+      "one woman",
+      "one overcoat",
+      "rain outside"
+    ],
+    "beats": [
+      "The rain begins",
+      "She reaches for the overcoat",
+      "She steps outside warmly dressed"
+    ],
+    "ending": "She pulled on an overcoat before walking into the cold rain.",
+    "artDirection": "One woman puts on a long overcoat before stepping outside into rain. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2116",
+    "anchor": "cup",
+    "sentence": "The cup began to overflow when the tap was left running.",
+    "relation": "The cup began to overflow when the tap was left running.",
+    "setting": "A kitchen sink",
+    "actor": "Water rises inside one cup until it spills over the rim beneath a running tap.",
+    "props": [
+      "one cup",
+      "one running tap",
+      "one kitchen sink"
+    ],
+    "beats": [
+      "The tap runs",
+      "The cup fills to the rim",
+      "Water overflows onto the sink"
+    ],
+    "ending": "The cup began to overflow when the tap was left running.",
+    "artDirection": "Water rises inside one cup until it spills over the rim beneath a running tap. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2117",
+    "anchor": "drawing",
+    "sentence": "The student copied a classmate's drawing, committing plagiarism.",
+    "relation": "The student copied a classmate's drawing, committing plagiarism.",
+    "setting": "An art classroom",
+    "actor": "One student secretly copies another student's simple picture onto a blank sheet.",
+    "props": [
+      "one student",
+      "one original drawing",
+      "one blank sheet"
+    ],
+    "beats": [
+      "A classmate finishes a drawing",
+      "The student copies its shapes",
+      "The copied work is plagiarism"
+    ],
+    "ending": "The student copied a classmate's drawing, committing plagiarism.",
+    "artDirection": "One student secretly copies another student's simple picture onto a blank sheet. Any copied artwork must be simple, wordless landscape shapes. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2118",
+    "anchor": "storm",
+    "sentence": "The hikers' plight worsened when the storm washed out their trail.",
+    "relation": "The hikers' plight worsened when the storm washed out their trail.",
+    "setting": "A mountain trail after rain",
+    "actor": "Two hikers face a washed-out path as rain clouds gather above the hills.",
+    "props": [
+      "two hikers",
+      "one broken trail",
+      "one storm cloud"
+    ],
+    "beats": [
+      "The hikers travel along the trail",
+      "The storm washes part of it away",
+      "Their plight worsens"
+    ],
+    "ending": "The hikers' plight worsened when the storm washed out their trail.",
+    "artDirection": "Two hikers face a washed-out path as rain clouds gather above the hills. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2119",
+    "anchor": "painting",
+    "sentence": "The artist placed one painting in her portfolio before the gallery review.",
+    "relation": "The artist placed one painting in her portfolio before the gallery review.",
+    "setting": "An artist's studio",
+    "actor": "An artist places one finished painting into a plain portfolio folder before visiting a gallery.",
+    "props": [
+      "one artist",
+      "one painting",
+      "one portfolio folder"
+    ],
+    "beats": [
+      "The artist finishes the painting",
+      "She places it in the portfolio",
+      "The work is ready for review"
+    ],
+    "ending": "The artist placed one painting in her portfolio before the gallery review.",
+    "artDirection": "An artist places one finished painting into a plain portfolio folder before visiting a gallery. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2120",
+    "anchor": "letter",
+    "sentence": "The postman delivered a letter before noon.",
+    "relation": "The postman delivered a letter before noon.",
+    "setting": "A quiet residential street",
+    "actor": "A postman carries a plain envelope to a home mailbox.",
+    "props": [
+      "one postman",
+      "one blank letter",
+      "one mailbox"
+    ],
+    "beats": [
+      "The postman walks along the street",
+      "He reaches the house",
+      "He delivers the letter"
+    ],
+    "ending": "The postman delivered a letter before noon.",
+    "artDirection": "A postman carries a plain envelope to a home mailbox. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2121",
+    "anchor": "machine",
+    "sentence": "The engineer tested a prototype machine beside its finished version.",
+    "relation": "A prototype is an early test model of a machine, made before the finished version.",
+    "setting": "A clean inventor’s workbench",
+    "actor": "One engineer tests one compact prototype machine on a clear workbench; no other tools or papers.",
+    "props": [
+      "one engineer",
+      "one prototype machine",
+      "one clean workbench"
+    ],
+    "beats": [
+      "The engineer places the first version on the bench",
+      "The prototype is tested",
+      "The working model is ready for improvement"
+    ],
+    "ending": "The engineer tested a prototype machine before building the final model.",
+    "artDirection": "Make the prototype visibly smaller and rougher than the finished machine, but clearly the same type of machine. Only one engineer and these two machines; no tools, papers, diagrams, blueprints, charts, labels, writing, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2122",
+    "anchor": "clock",
+    "sentence": "The punctual train arrived as the clock struck eight.",
+    "relation": "The punctual train arrived as the clock struck eight.",
+    "setting": "A small railway station",
+    "actor": "A train arrives beside a station clock while one passenger waits on the platform.",
+    "props": [
+      "one train",
+      "one clock",
+      "one waiting passenger"
+    ],
+    "beats": [
+      "The passenger checks the clock",
+      "The train arrives on time",
+      "The punctual arrival is welcomed"
+    ],
+    "ending": "The punctual train arrived as the clock struck eight.",
+    "artDirection": "A train arrives beside a station clock while one passenger waits on the platform. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2123",
+    "anchor": "key",
+    "sentence": "After the old lock was removed, its spare key became redundant.",
+    "relation": "After the old lock was removed, its spare key became redundant.",
+    "setting": "A plain doorway and a small table",
+    "actor": "One homeowner sets a spare key beside its removed lock on a table next to an open doorway with no lock.",
+    "props": [
+      "one spare key",
+      "one removed lock",
+      "one open doorway without a lock"
+    ],
+    "beats": [
+      "The old lock is removed",
+      "The key is set beside it",
+      "The spare key becomes redundant"
+    ],
+    "ending": "After the old lock was removed, its spare key became redundant.",
+    "artDirection": "The removed lock must be clearly detached and resting on the table, never attached to the door. Show the open door with no lock, knob, or keyhole, only two small empty mounting holes; the key is unused and separated from the door. No text, numbers, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2124",
+    "anchor": "apple",
+    "sentence": "A rotten apple spoiled the basket of fresh fruit.",
+    "relation": "A rotten apple spoiled the basket of fresh fruit.",
+    "setting": "A fruit stall",
+    "actor": "One spoiled apple lies among a basket of fresh apples.",
+    "props": [
+      "one rotten apple",
+      "one fruit basket",
+      "fresh fruit"
+    ],
+    "beats": [
+      "The apples are gathered",
+      "One apple decays",
+      "The rotten fruit spoils its neighbors"
+    ],
+    "ending": "A rotten apple spoiled the basket of fresh fruit.",
+    "artDirection": "One spoiled apple lies among a basket of fresh apples. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2125",
+    "anchor": "coat",
+    "sentence": "He wore a shabby coat with frayed sleeves through the winter.",
+    "relation": "He wore a shabby coat with frayed sleeves through the winter.",
+    "setting": "A winter street",
+    "actor": "One person wears an old coat with worn cuffs and frayed sleeves.",
+    "props": [
+      "one shabby coat",
+      "one person",
+      "one cold street"
+    ],
+    "beats": [
+      "The winter wind blows",
+      "The person wraps up",
+      "The shabby coat shows its wear"
+    ],
+    "ending": "He wore a shabby coat with frayed sleeves through the winter.",
+    "artDirection": "One person wears an old coat with worn cuffs and frayed sleeves. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2126",
+    "anchor": "box",
+    "sentence": "The shipment arrived in a large wooden box at the dock.",
+    "relation": "The shipment arrived in a large wooden box at the dock.",
+    "setting": "A dockside yard",
+    "actor": "Workers unload one large wooden box from a delivery cart near the dock.",
+    "props": [
+      "one shipment box",
+      "one delivery cart",
+      "one dock"
+    ],
+    "beats": [
+      "The box arrives",
+      "Workers unload it",
+      "The shipment is ready to be moved"
+    ],
+    "ending": "The shipment arrived in a large wooden box at the dock.",
+    "artDirection": "Workers unload one large wooden box from a delivery cart near the dock. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2127",
+    "anchor": "bridge",
+    "sentence": "A sturdy bridge held the wagon above the rushing stream.",
+    "relation": "A sturdy bridge held the wagon above the rushing stream.",
+    "setting": "A country stream crossing",
+    "actor": "A strong stone bridge supports a small wagon above fast-moving water.",
+    "props": [
+      "one sturdy bridge",
+      "one wagon",
+      "one stream"
+    ],
+    "beats": [
+      "The wagon reaches the crossing",
+      "The bridge holds firm",
+      "The wagon passes safely"
+    ],
+    "ending": "A sturdy bridge held the wagon above the rushing stream.",
+    "artDirection": "A strong stone bridge supports a small wagon above fast-moving water. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2128",
+    "anchor": "foot",
+    "sentence": "She covered her sore toe to protect her foot.",
+    "relation": "She covered her sore toe to protect her foot.",
+    "setting": "A home entryway",
+    "actor": "A person sits and covers one sore toe on a foot with a soft bandage.",
+    "props": [
+      "one foot",
+      "one sore toe",
+      "one soft bandage"
+    ],
+    "beats": [
+      "The toe hurts",
+      "The person examines the foot",
+      "A bandage covers the toe"
+    ],
+    "ending": "She covered her sore toe to protect her foot.",
+    "artDirection": "A person sits and covers one sore toe on a foot with a soft bandage. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2129",
+    "anchor": "scan",
+    "sentence": "The scan helped the doctor locate a small tumor in the patient's arm.",
+    "relation": "The scan helped the doctor locate a small tumor in the patient's arm.",
+    "setting": "A clean examination room",
+    "actor": "One doctor studies a plain unlabeled scan image while one patient rests safely nearby.",
+    "props": [
+      "one doctor",
+      "one plain unlabeled scan image",
+      "one patient"
+    ],
+    "beats": [
+      "The scan is taken",
+      "The doctor examines the image",
+      "A small tumor appears as one subtle spot"
+    ],
+    "ending": "The scan helped the doctor locate a small tumor in the patient’s arm.",
+    "artDirection": "One doctor studies a plain unlabeled scan image while one patient rests safely nearby. No medical crosses, plus signs, labels, logos, charts, text, or graphic detail. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2130",
+    "anchor": "storm",
+    "sentence": "The town fell into turmoil after the storm damaged the bridge.",
+    "relation": "The town fell into turmoil after the storm damaged the bridge.",
+    "setting": "A town bridge after a storm",
+    "actor": "Exactly two adults: one resident and one repair worker calmly inspect a damaged bridge after the storm; no other people.",
+    "props": [
+      "one resident",
+      "one repair worker",
+      "one damaged bridge"
+    ],
+    "beats": [
+      "The storm damages the bridge",
+      "The two adults inspect the damage",
+      "The town is left in turmoil"
+    ],
+    "ending": "The town fell into turmoil after the storm damaged the bridge.",
+    "artDirection": "Exactly two adults: one resident and one repair worker calmly inspect a damaged bridge after the storm; no other people. No crowds, extra workers, falling debris, warning signs, text, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2131",
+    "anchor": "deer",
+    "sentence": "The wary deer watched the hunter from behind a tree.",
+    "relation": "The wary deer watched the hunter from behind a tree.",
+    "setting": "A forest edge",
+    "actor": "One deer peers cautiously from behind a tree while a hunter remains far away.",
+    "props": [
+      "one wary deer",
+      "one tree",
+      "one distant hunter"
+    ],
+    "beats": [
+      "The deer hears movement",
+      "It watches from cover",
+      "It stays wary and alert"
+    ],
+    "ending": "The wary deer watched the hunter from behind a tree.",
+    "artDirection": "One deer peers cautiously from behind a tree while a hunter remains far away. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2132",
+    "anchor": "kettle",
+    "sentence": "The kettle began to whistle when the water boiled.",
+    "relation": "The kettle began to whistle when the water boiled.",
+    "setting": "A home kitchen",
+    "actor": "A kettle releases steam and whistles softly on a kitchen stove.",
+    "props": [
+      "one kettle",
+      "steam",
+      "one stove"
+    ],
+    "beats": [
+      "The water heats",
+      "Steam escapes",
+      "The kettle whistles"
+    ],
+    "ending": "The kettle began to whistle when the water boiled.",
+    "artDirection": "A kettle releases steam and whistles softly on a kitchen stove. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2133",
+    "anchor": "sheep",
+    "sentence": "A wolf watched the sheep from the far side of the field.",
+    "relation": "A wolf watched the sheep from the far side of the field.",
+    "setting": "A grassy pasture",
+    "actor": "One wolf watches two sheep from far across a fence, with no contact.",
+    "props": [
+      "one wolf",
+      "two sheep",
+      "one pasture fence"
+    ],
+    "beats": [
+      "The sheep graze",
+      "The wolf appears at a distance",
+      "The sheep remain safely behind the fence"
+    ],
+    "ending": "A wolf watched the sheep from the far side of the field.",
+    "artDirection": "One wolf watches two sheep from far across a fence, with no contact. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2134",
+    "anchor": "bull",
+    "sentence": "The loose bull became a menace near the village market.",
+    "relation": "The loose bull became a menace near the village market.",
+    "setting": "A village market edge",
+    "actor": "One loose bull stands near a market as people calmly keep a safe distance.",
+    "props": [
+      "one bull",
+      "one market stall",
+      "one fence"
+    ],
+    "beats": [
+      "The bull leaves its field",
+      "It reaches the market edge",
+      "People recognize the menace and stay back"
+    ],
+    "ending": "The loose bull became a menace near the village market.",
+    "artDirection": "One loose bull stands near a market as people calmly keep a safe distance. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2135",
+    "anchor": "wheel",
+    "sentence": "One spoke shows the radius from the wheel's center to its rim.",
+    "relation": "One spoke shows the radius from the wheel's center to its rim.",
+    "setting": "A simple tabletop",
+    "actor": "One plain wheel viewed clearly from above, with one spoke extending exactly from the central hub to the outer rim.",
+    "props": [
+      "one wheel",
+      "one central hub",
+      "one spoke ending at the rim"
+    ],
+    "beats": [
+      "The wheel rests flat",
+      "The spoke begins at the hub",
+      "The spoke ends exactly at the rim, showing the radius"
+    ],
+    "ending": "One spoke shows the radius from the wheel’s center to its rim.",
+    "artDirection": "One plain wheel viewed clearly from above, with one spoke extending exactly from the central hub to the outer rim. No rod or handle may extend beyond the rim; no arrows, labels, numbers, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2136",
+    "anchor": "computer",
+    "sentence": "A semiconductor chip helps the computer process signals.",
+    "relation": "A semiconductor chip helps the computer process signals.",
+    "setting": "An electronics workbench",
+    "actor": "A technician places one unmarked semiconductor chip beside an open computer.",
+    "props": [
+      "one computer",
+      "one plain semiconductor chip",
+      "one workbench"
+    ],
+    "beats": [
+      "The computer is opened",
+      "The chip is placed on the board",
+      "The device processes signals"
+    ],
+    "ending": "A semiconductor chip helps the computer process signals.",
+    "artDirection": "A technician places one unmarked semiconductor chip beside an open computer. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2137",
+    "anchor": "gavel",
+    "sentence": "The judge cited a statute while holding a gavel in court.",
+    "relation": "The judge cited a statute while holding a gavel in court.",
+    "setting": "A plain courtroom",
+    "actor": "A judge holds a gavel beside a completely blank legal page in a quiet courtroom.",
+    "props": [
+      "one judge",
+      "one gavel",
+      "one blank legal page"
+    ],
+    "beats": [
+      "The judge reviews a rule",
+      "The judge holds the gavel",
+      "The statute is applied in court"
+    ],
+    "ending": "The judge cited a statute while holding a gavel in court.",
+    "artDirection": "A judge holds a gavel beside a completely blank legal page in a quiet courtroom. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2138",
+    "anchor": "farm",
+    "sentence": "On the farm, she stored hay in the barn.",
+    "relation": "On the farm, she stored hay in the barn.",
+    "setting": "A rural farmyard",
+    "actor": "A farmer carries a bundle of hay through the open door of a wooden barn.",
+    "props": [
+      "one farmyard",
+      "one hay bundle",
+      "one barn"
+    ],
+    "beats": [
+      "Hay is gathered",
+      "The farmer walks across the farm",
+      "The hay is stored in the barn"
+    ],
+    "ending": "On the farm, she stored hay in the barn.",
+    "artDirection": "A farmer carries a bundle of hay through the open door of a wooden barn. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2139",
+    "anchor": "court",
+    "sentence": "The court had jurisdiction over the cases in its county.",
+    "relation": "The court had jurisdiction over the cases in its county.",
+    "setting": "A plain courthouse room",
+    "actor": "One judge stands beside a simple unlabeled county map with plain color regions and no icons.",
+    "props": [
+      "one judge",
+      "one simple courthouse",
+      "one unlabeled county map"
+    ],
+    "beats": [
+      "The court opens",
+      "The judge reviews the county area",
+      "The court handles cases within its jurisdiction"
+    ],
+    "ending": "The court had jurisdiction over the cases in its county.",
+    "artDirection": "Show only the inside of a plain courtroom, not a courthouse facade. The county map has simple color regions only. No scales, legal emblems, columns with crests, icons, map legends, labels, numbers, text, logos, or watermarks."
+  },
+  {
+    "id": "kyc-2140",
+    "anchor": "plant",
+    "sentence": "Nitrogen in the soil helped the plant grow strong leaves.",
+    "relation": "Nitrogen in the soil helped the plant grow strong leaves.",
+    "setting": "A vegetable plot",
+    "actor": "A gardener adds nutrients to soil around one healthy green plant.",
+    "props": [
+      "one plant",
+      "one patch of soil",
+      "one watering can"
+    ],
+    "beats": [
+      "The plant grows in soil",
+      "Nitrogen nourishes the roots",
+      "Strong leaves appear"
+    ],
+    "ending": "Nitrogen in the soil helped the plant grow strong leaves.",
+    "artDirection": "A gardener adds nutrients to soil around one healthy green plant. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2141",
+    "anchor": "crown",
+    "sentence": "The queen showed scorn for the cracked crown brought by the visitor.",
+    "relation": "The queen showed scorn for the cracked crown brought by the visitor.",
+    "setting": "A simple castle room",
+    "actor": "Exactly two people: one queen looks disdainfully at a cracked crown offered by one visitor.",
+    "props": [
+      "one queen",
+      "one visitor",
+      "one cracked crown on a plain table"
+    ],
+    "beats": [
+      "The visitor presents the cracked crown",
+      "The queen inspects its damage",
+      "The queen shows scorn"
+    ],
+    "ending": "The queen showed scorn for the cracked crown brought by the visitor.",
+    "artDirection": "Show scorn, not sadness: the queen’s nose is raised, eyes narrowed, mouth curled in disdain, and one hand dismissively pushes the cracked crown away. Exactly two people. Neither person wears a crown. No extra crown icons, crests, jewelry, flags, text, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2142",
+    "anchor": "cart",
+    "sentence": "A porter gave the heavy cart a shove up the ramp.",
+    "relation": "A porter gave the heavy cart a shove up the ramp.",
+    "setting": "A market loading ramp",
+    "actor": "A porter pushes one heavy cart forward with one strong shove.",
+    "props": [
+      "one porter",
+      "one heavy cart",
+      "one ramp"
+    ],
+    "beats": [
+      "The cart stops at the ramp",
+      "The porter braces",
+      "He gives the cart a shove"
+    ],
+    "ending": "A porter gave the heavy cart a shove up the ramp.",
+    "artDirection": "A porter pushes one heavy cart forward with one strong shove. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2143",
+    "anchor": "rail",
+    "sentence": "The tram rolled along the rail past the market.",
+    "relation": "The tram rolled along the rail past the market.",
+    "setting": "A plain city street beside a market",
+    "actor": "One tram rolls on a clear rail past simple blank shop fronts with no signs.",
+    "props": [
+      "one tram with blank destination panel",
+      "one rail track",
+      "plain storefronts"
+    ],
+    "beats": [
+      "The tram approaches the market street",
+      "Its wheels follow the rail",
+      "It passes the blank shops"
+    ],
+    "ending": "The tram rolled along the rail past the market.",
+    "artDirection": "One tram rolls on a clear rail past simple blank shop fronts with no signs. No readable signs, destination text, letters, numbers, logos, or symbols anywhere. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2144",
+    "anchor": "berry",
+    "sentence": "A berry patch can abound with ripe fruit each summer.",
+    "relation": "A berry patch can abound with ripe fruit each summer.",
+    "setting": "A summer forest path",
+    "actor": "Many berries grow thickly along a woodland path, with one berry clear in the foreground.",
+    "props": [
+      "one berry",
+      "many berry bushes",
+      "one path"
+    ],
+    "beats": [
+      "One berry ripens",
+      "Many more grow nearby",
+      "The fruits abound along the path"
+    ],
+    "ending": "A berry patch can abound with ripe fruit each summer.",
+    "artDirection": "Many berries grow thickly along a woodland path, with one berry clear in the foreground. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2145",
+    "anchor": "ocean",
+    "sentence": "The narrow cape stretched into the ocean beneath the lighthouse.",
+    "relation": "The narrow cape stretched into the ocean beneath the lighthouse.",
+    "setting": "A rocky coast",
+    "actor": "A narrow point of land extends into the ocean beside a lighthouse.",
+    "props": [
+      "one cape",
+      "one ocean",
+      "one lighthouse"
+    ],
+    "beats": [
+      "The coast narrows",
+      "The land projects outward",
+      "The cape reaches into the ocean"
+    ],
+    "ending": "The narrow cape stretched into the ocean beneath the lighthouse.",
+    "artDirection": "A narrow point of land extends into the ocean beside a lighthouse. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2146",
+    "anchor": "cake",
+    "sentence": "A cherry rested on the small cake at the picnic.",
+    "relation": "A cherry rested on the small cake at the picnic.",
+    "setting": "A garden picnic",
+    "actor": "One bright cherry sits on top of a small cake beside a picnic cloth.",
+    "props": [
+      "one cherry",
+      "one cake",
+      "one picnic cloth"
+    ],
+    "beats": [
+      "The cake is set out",
+      "A cherry is placed on top",
+      "The picnic is ready"
+    ],
+    "ending": "A cherry rested on the small cake at the picnic.",
+    "artDirection": "One bright cherry sits on top of a small cake beside a picnic cloth. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2147",
+    "anchor": "boat",
+    "sentence": "The boat was tied to the dock before sunset.",
+    "relation": "The boat was tied to the dock before sunset.",
+    "setting": "A quiet harbor",
+    "actor": "One small boat is secured with a plain rope beside a wooden dock.",
+    "props": [
+      "one boat",
+      "one dock",
+      "one plain rope"
+    ],
+    "beats": [
+      "The boat reaches the harbor",
+      "The rope is tied",
+      "The boat rests at the dock"
+    ],
+    "ending": "The boat was tied to the dock before sunset.",
+    "artDirection": "One small boat is secured with a plain rope beside a wooden dock. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2148",
+    "anchor": "scientist",
+    "sentence": "An eminent scientist received applause after the lecture.",
+    "relation": "An eminent scientist received applause after the lecture.",
+    "setting": "A small lecture room",
+    "actor": "Exactly two people: one eminent scientist finishes a lecture while one listener claps; no other audience.",
+    "props": [
+      "one eminent scientist",
+      "one plain lecture stand",
+      "one listener"
+    ],
+    "beats": [
+      "The scientist presents a discovery",
+      "The listener listens carefully",
+      "The listener applauds the eminent scientist"
+    ],
+    "ending": "An eminent scientist received applause after the lecture.",
+    "artDirection": "Exactly two people: one eminent scientist finishes a lecture while one listener claps; no other audience. No crowds, posters, lightbulb icons, diagrams, text, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2149",
+    "anchor": "story",
+    "sentence": "The story’s ending surprised the listener at the table.",
+    "relation": "The story’s ending surprised the listener at the table.",
+    "setting": "A quiet home table",
+    "actor": "Exactly two people: one storyteller shares a blank storybook with one listener.",
+    "props": [
+      "one storyteller",
+      "one listener",
+      "one blank storybook"
+    ],
+    "beats": [
+      "The storyteller begins",
+      "The plot reaches its last moment",
+      "The ending surprises the listener"
+    ],
+    "ending": "The story’s ending surprised the listener at the table.",
+    "artDirection": "Exactly two people: one storyteller shares a blank storybook with one listener. No extra people, motion lines, text, letters, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2150",
+    "anchor": "calendar",
+    "sentence": "The old calendar marked the start of a new epoch for the village.",
+    "relation": "The old calendar marked the start of a new epoch for the village.",
+    "setting": "A village beside a new bridge",
+    "actor": "Exactly two villagers stand beside an old calendar with blank pages and a newly built bridge; no other people.",
+    "props": [
+      "two villagers",
+      "one blank old calendar",
+      "one new bridge"
+    ],
+    "beats": [
+      "The old period closes",
+      "A blank calendar page is turned",
+      "The village enters a new epoch"
+    ],
+    "ending": "The old calendar marked the start of a new epoch for the village.",
+    "artDirection": "Exactly two villagers stand beside an old calendar with blank pages and a newly built bridge; no other people. No dates, numerals, month names, letters, signs, or symbols on the calendar or bridge. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2151",
+    "anchor": "rain",
+    "sentence": "Intermittent rain fell in short bursts over the garden.",
+    "relation": "Intermittent rain fell in short bursts over the garden.",
+    "setting": "A garden under changing clouds",
+    "actor": "Short showers pass over a garden, leaving pauses of sunlight between them.",
+    "props": [
+      "intermittent rain",
+      "one garden",
+      "changing clouds"
+    ],
+    "beats": [
+      "Rain begins briefly",
+      "The shower stops",
+      "Another short shower passes"
+    ],
+    "ending": "Intermittent rain fell in short bursts over the garden.",
+    "artDirection": "Short showers pass over a garden, leaving pauses of sunlight between them. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2152",
+    "anchor": "water",
+    "sentence": "They boiled the water to purify it before drinking.",
+    "relation": "They boiled the water to purify it before drinking.",
+    "setting": "A simple campsite",
+    "actor": "A camper boils water in a clean pot before pouring it into a cup.",
+    "props": [
+      "one pot of water",
+      "one small stove",
+      "one cup"
+    ],
+    "beats": [
+      "The water is collected",
+      "It boils in the pot",
+      "The clean water is ready to drink"
+    ],
+    "ending": "They boiled the water to purify it before drinking.",
+    "artDirection": "A camper boils water in a clean pot before pouring it into a cup. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2153",
+    "anchor": "microphone",
+    "sentence": "The speaker used rhetoric to persuade one listener through a microphone.",
+    "relation": "The speaker used rhetoric to persuade one listener through a microphone.",
+    "setting": "A small meeting room",
+    "actor": "Exactly two people: one speaker uses a plain microphone to persuade one listener.",
+    "props": [
+      "one speaker",
+      "one plain microphone",
+      "one listener"
+    ],
+    "beats": [
+      "The speaker steps forward",
+      "The microphone carries the speech",
+      "The listener is persuaded by the speaker’s rhetoric"
+    ],
+    "ending": "The speaker used rhetoric to persuade one listener through a microphone.",
+    "artDirection": "Exactly two people: one speaker uses a plain microphone to persuade one listener. No crowds, extra people, text, signs, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2154",
+    "anchor": "crab",
+    "sentence": "The crab moved sideways across the wet sand.",
+    "relation": "The crab moved sideways across the wet sand.",
+    "setting": "A quiet beach at low tide",
+    "actor": "One crab shown in clear side profile, scuttling horizontally sideways across wet sand; accurate crab anatomy.",
+    "props": [
+      "one side-view crab",
+      "wet sand",
+      "one shallow tide pool"
+    ],
+    "beats": [
+      "The crab pauses near the tide pool",
+      "It steps sideways across the sand",
+      "It reaches the shallow water"
+    ],
+    "ending": "The crab moved sideways across the wet sand.",
+    "artDirection": "Make the crab’s sideways travel unmistakable: its eyes face forward, its body is displaced toward the right, its legs step sideways, and footprints trail behind on the left. One crab only, exactly eight walking legs and two claws. No arrows, motion lines, text, signs, numbers, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2155",
+    "anchor": "bee",
+    "sentence": "A bee joined the swarm as it moved from the flower toward the hive.",
+    "relation": "A bee joined the swarm as it moved from the flower toward the hive.",
+    "setting": "A garden near a hive",
+    "actor": "One bee flies beside a large group of bees moving together toward a hive.",
+    "props": [
+      "one bee",
+      "one flower",
+      "one hive"
+    ],
+    "beats": [
+      "The bee leaves the flower",
+      "Many bees gather and move together",
+      "The swarm reaches the hive"
+    ],
+    "ending": "A bee joined the swarm as it moved from the flower toward the hive.",
+    "artDirection": "One bee flies beside a large group of bees moving together toward a hive. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2156",
+    "anchor": "table",
+    "sentence": "Two scholars held a symposium around a table to discuss history.",
+    "relation": "A symposium is a scholarly discussion meeting, often held around a table.",
+    "setting": "A quiet seminar room",
+    "actor": "Exactly two scholars sit around one table discussing a simple blank map with no labels.",
+    "props": [
+      "two scholars",
+      "one table",
+      "one blank map"
+    ],
+    "beats": [
+      "The two scholars arrive",
+      "They gather around the table",
+      "They discuss ancient maps in a symposium"
+    ],
+    "ending": "Two scholars gathered around a table for a symposium on ancient maps.",
+    "artDirection": "Exactly two people. Keep all walls blank; no maps, framed art, diagrams, charts, posters, writing, labels, letters, numbers, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2157",
+    "anchor": "heat",
+    "sentence": "The thermometer reading rose as heat filled the room.",
+    "relation": "The thermometer reading rose as heat filled the room.",
+    "setting": "A simple sunlit room",
+    "actor": "A plain thermometer stands beside a sunlit window; its red liquid rises on a completely blank scale.",
+    "props": [
+      "one blank thermometer",
+      "one sunny window",
+      "warm sunlit room"
+    ],
+    "beats": [
+      "Sunlight warms the room",
+      "Heat spreads through the space",
+      "The thermometer’s red liquid rises"
+    ],
+    "ending": "The thermometer reading rose as heat filled the room.",
+    "artDirection": "A plain thermometer stands beside a sunlit window; its red liquid rises on a completely blank scale. No numerals, degree signs, units, tick marks, labels, letters, or symbols on the thermometer. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2158",
+    "anchor": "key",
+    "sentence": "He chose to withhold the key until the visitor returned.",
+    "relation": "He chose to withhold the key until the visitor returned.",
+    "setting": "A home doorway",
+    "actor": "A person keeps a plain key in a closed hand while waiting at the doorway.",
+    "props": [
+      "one key",
+      "one person",
+      "one doorway"
+    ],
+    "beats": [
+      "The visitor leaves",
+      "The key stays in the person's hand",
+      "The key is withheld until the visitor returns"
+    ],
+    "ending": "He chose to withhold the key until the visitor returned.",
+    "artDirection": "A person keeps a plain key in a closed hand while waiting at the doorway. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2159",
+    "anchor": "airport",
+    "sentence": "The porter carried the family's baggage through the airport.",
+    "relation": "The porter carried the family's baggage through the airport.",
+    "setting": "A bright empty airport concourse",
+    "actor": "Exactly two people: one porter carries plain unmarked travel bags beside one traveler; no other passengers.",
+    "props": [
+      "one porter",
+      "plain unmarked baggage",
+      "one traveler in an empty terminal"
+    ],
+    "beats": [
+      "The traveler arrives",
+      "The porter gathers the bags",
+      "The baggage moves through the terminal"
+    ],
+    "ending": "The porter carried the family’s baggage through the airport.",
+    "artDirection": "Exactly two people. Show the airport through the large windows and a plane outside, not through signs. No hanging boards, screens, gate displays, airplane icons, signs, text, letters, numbers, logos, bag labels, symbols, or watermarks."
+  },
+  {
+    "id": "kyc-2160",
+    "anchor": "knife",
+    "sentence": "The blunt knife could not cut the ripe tomato.",
+    "relation": "The blunt knife could not cut the ripe tomato.",
+    "setting": "A simple home kitchen",
+    "actor": "One cook presses a visibly thick, rounded, dull knife edge against a whole ripe tomato; the tomato remains intact.",
+    "props": [
+      "one visibly blunt knife",
+      "one whole ripe tomato",
+      "one plain cutting board"
+    ],
+    "beats": [
+      "The cook tries to slice",
+      "The blunt edge presses against the whole tomato",
+      "The tomato remains uncut"
+    ],
+    "ending": "The blunt knife could not cut the ripe tomato.",
+    "artDirection": "One cook presses a visibly thick, rounded, dull knife edge against a whole ripe tomato; the tomato remains intact. Show a rounded, dull edge and an uncut tomato; no slice, juice, labels, or symbols. No text, letters, numbers, signs, labels, logos, symbols, or watermarks."
+  }
+]

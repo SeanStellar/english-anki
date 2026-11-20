@@ -1,0 +1,4210 @@
+[
+  {
+    "id": "kyc-1961",
+    "word": "conspiracy",
+    "targetSense": "阴谋",
+    "anchor": "key",
+    "anchorMeaning": "钥匙",
+    "relation": "The neighbors' conspiracy began when they hid a key beneath the porch.",
+    "sentence": "The neighbors' conspiracy began when they hid a key beneath the porch.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet porch beside two small homes",
+      "actor": "Exactly two adult neighbors whisper together as one hides a plain key beneath the porch.",
+      "props": [
+        "two adult neighbors",
+        "one plain key",
+        "one porch"
+      ],
+      "beats": [
+        "The neighbors whisper in secret",
+        "One neighbor hides the key",
+        "They react nervously to their plan"
+      ],
+      "ending": "The neighbors' conspiracy began when they hid a key beneath the porch."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult neighbors whisper together as one hides a plain key beneath the porch. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1961.webp"
+  },
+  {
+    "id": "kyc-1962",
+    "word": "endorse",
+    "targetSense": "支持",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "Her friend will endorse her plan to join the team.",
+    "sentence": "Her friend will endorse her plan to join the team.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy practice field",
+      "actor": "Exactly two friends smile as one nods supportively while the other holds a plain ball.",
+      "props": [
+        "two friends",
+        "one plain ball",
+        "one grassy field"
+      ],
+      "beats": [
+        "She shares her plan",
+        "Her friend gives clear support",
+        "They head toward the field"
+      ],
+      "ending": "Her friend will endorse her plan to join the team."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two friends smile as one nods supportively while the other holds a plain ball. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1962.webp"
+  },
+  {
+    "id": "kyc-1963",
+    "word": "expend",
+    "targetSense": "花费",
+    "anchor": "cart",
+    "anchorMeaning": "（马拉的）大车，马车",
+    "relation": "The hikers had to expend extra energy to push the cart uphill.",
+    "sentence": "The hikers had to expend extra energy to push the cart uphill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A steep forest trail",
+      "actor": "Exactly two hikers lean forward and push one small cart uphill.",
+      "props": [
+        "two hikers",
+        "one plain cart",
+        "one steep trail"
+      ],
+      "beats": [
+        "The hikers reach the slope",
+        "They push the cart with effort",
+        "The cart moves uphill"
+      ],
+      "ending": "The hikers had to expend extra energy to push the cart uphill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two hikers lean forward and push one small cart uphill. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1963.webp"
+  },
+  {
+    "id": "kyc-1964",
+    "word": "forthcoming",
+    "targetSense": "即将到来的",
+    "anchor": "stage",
+    "anchorMeaning": "阶段，时期",
+    "relation": "The forthcoming concert brought musicians together to tune their instruments on the stage.",
+    "sentence": "The forthcoming concert brought musicians together to tune their instruments on the stage.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An empty concert stage before a show",
+      "actor": "Exactly two adult musicians tune plain instruments on a simple stage before the audience arrives.",
+      "props": [
+        "two musicians",
+        "two plain instruments",
+        "one empty stage"
+      ],
+      "beats": [
+        "The musicians arrive early",
+        "They tune their instruments",
+        "The concert is about to begin"
+      ],
+      "ending": "The forthcoming concert brought musicians together to tune their instruments on the stage."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult musicians tune plain instruments on a simple stage before the audience arrives. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1964.webp"
+  },
+  {
+    "id": "kyc-1965",
+    "word": "handy",
+    "targetSense": "方便的",
+    "anchor": "light",
+    "anchorMeaning": "光，光线",
+    "relation": "A small flashlight is handy when the path has no light.",
+    "sentence": "A small flashlight is handy when the path has no light.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet path at dusk",
+      "actor": "One hiker uses a small flashlight to see the dark path ahead.",
+      "props": [
+        "one hiker",
+        "one flashlight",
+        "one dark path"
+      ],
+      "beats": [
+        "The path grows dark",
+        "The hiker switches on the flashlight",
+        "The beam makes the path easier to follow"
+      ],
+      "ending": "A small flashlight is handy when the path has no light."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One hiker uses a small flashlight to see the dark path ahead. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1965.webp"
+  },
+  {
+    "id": "kyc-1966",
+    "word": "inventory",
+    "targetSense": "详细目录；清点",
+    "anchor": "shop",
+    "anchorMeaning": "商店，店铺",
+    "relation": "The shop owner checked the inventory before opening the shop.",
+    "sentence": "The shop owner checked the inventory before opening the shop.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small neighborhood shop",
+      "actor": "one shopkeeper arranging unmarked inventory on bare shelves",
+      "props": [
+        "one shop owner",
+        "one small shop",
+        "neatly stocked shelves"
+      ],
+      "beats": [
+        "the owner checks the stock",
+        "plain goods fill the shelves",
+        "the shop is ready to open"
+      ],
+      "ending": "Inventory in an unmarked neighborhood shop with completely blank shelves and goods."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult shopkeeper surveys plain unmarked goods on completely blank shelves. Every package and shelf is blank; no labels, signs, posters, writing, or numbers.",
+    "imageFile": "kyc-1966.webp",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "imageReview": "Redraw passed: plain unlabelled stock boxes and bare shelves clearly show shop inventory."
+  },
+  {
+    "id": "kyc-1967",
+    "word": "motel",
+    "targetSense": "汽车旅馆",
+    "anchor": "car",
+    "anchorMeaning": "汽车，轿车",
+    "relation": "We stopped at a motel beside the highway and parked the car.",
+    "sentence": "We stopped at a motel beside the highway and parked the car.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet motel beside a highway",
+      "actor": "one traveler beside one car and a plain motel building with a completely blank facade",
+      "props": [
+        "one traveler",
+        "one plain car",
+        "one motel building"
+      ],
+      "beats": [
+        "The car leaves the highway",
+        "The traveler parks beside the motel",
+        "The traveler stops for the night"
+      ],
+      "ending": "A plain roadside motel and a parked car; no sign or writing anywhere."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One traveler parks a plain car outside a simple roadside motel whose entire facade is blank and unmarked. No roadside sign, letters, labels, or numbers.",
+    "imageFile": "kyc-1967.webp",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "imageReview": "Redraw passed: plain roadside motel facade and parked car; no sign or text."
+  },
+  {
+    "id": "kyc-1968",
+    "word": "naval",
+    "targetSense": "海军的",
+    "anchor": "ship",
+    "anchorMeaning": "（大）船，舰",
+    "relation": "The naval ship sailed past the harbor at sunrise.",
+    "sentence": "The naval ship sailed past the harbor at sunrise.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm harbor at sunrise",
+      "actor": "one naval ship with two sailors visible on deck; the ship hull is solid dark navy and completely unmarked",
+      "props": [
+        "one naval ship",
+        "two sailors",
+        "one harbor"
+      ],
+      "beats": [
+        "The sun rises over the harbor",
+        "The plain ship sails past the coast",
+        "Two sailors stand on deck"
+      ],
+      "ending": "An unmarked naval ship sails past a calm harbor at sunrise."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One naval ship sails across a harbor with two sailors on deck. The hull is a solid plain navy color with no emblem, badge, spot, flag, number, or text.",
+    "imageFile": "kyc-1968.webp",
+    "imageStatus": "redo",
+    "imageQCStatus": "fail"
+  },
+  {
+    "id": "kyc-1969",
+    "word": "palm",
+    "targetSense": "棕榈",
+    "anchor": "coin",
+    "anchorMeaning": "硬币，金属货币",
+    "relation": "She held a coin in the palm of her hand.",
+    "sentence": "She held a coin in the palm of her hand.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple sunlit tabletop",
+      "actor": "Close view of one open human palm holding one plain unmarked coin.",
+      "props": [
+        "one open palm",
+        "one unmarked coin",
+        "one tabletop"
+      ],
+      "beats": [
+        "The hand opens",
+        "The coin rests in the palm",
+        "The person raises the palm to look"
+      ],
+      "ending": "She held a coin in the palm of her hand."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Close view of one open human palm holding one plain unmarked coin. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1969.webp"
+  },
+  {
+    "id": "kyc-1970",
+    "word": "scent",
+    "targetSense": "气味",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "The scent of fresh bread filled the kitchen.",
+    "sentence": "The scent of fresh bread filled the kitchen.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm home kitchen",
+      "actor": "One adult lifts a fresh loaf from the oven and enjoys its aroma.",
+      "props": [
+        "one adult baker",
+        "one fresh loaf of bread",
+        "one plain oven"
+      ],
+      "beats": [
+        "The bread comes from the oven",
+        "The baker smells the fresh loaf",
+        "The kitchen fills with its scent"
+      ],
+      "ending": "The scent of fresh bread filled the kitchen."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult lifts a fresh loaf from the oven and enjoys its aroma. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1970.webp"
+  },
+  {
+    "id": "kyc-1971",
+    "word": "shrewd",
+    "targetSense": "精明的",
+    "anchor": "fox",
+    "anchorMeaning": "狐狸",
+    "relation": "The shrewd fox waited until the farmer left the barn.",
+    "sentence": "The shrewd fox waited until the farmer left the barn.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A farmyard beside a barn",
+      "actor": "One fox watches quietly as one farmer walks away from the barn.",
+      "props": [
+        "one fox",
+        "one farmer",
+        "one barn"
+      ],
+      "beats": [
+        "The farmer leaves the barn",
+        "The fox waits quietly",
+        "The fox moves only when the way is clear"
+      ],
+      "ending": "The shrewd fox waited until the farmer left the barn."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One fox watches quietly as one farmer walks away from the barn. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1971.webp"
+  },
+  {
+    "id": "kyc-1972",
+    "word": "specialise",
+    "targetSense": "专门研究；特定范围",
+    "anchor": "medicine",
+    "anchorMeaning": "药物，药剂",
+    "relation": "The doctor chose to specialise in children's medicine.",
+    "sentence": "The doctor chose to specialise in children's medicine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm pediatric clinic",
+      "actor": "one adult doctor examines one child beside a plain medicine bottle in a clinic with blank bare walls",
+      "props": [
+        "one doctor",
+        "one child",
+        "one plain medicine bottle"
+      ],
+      "beats": [
+        "The child visits the clinic",
+        "The doctor checks the child carefully",
+        "The doctor focuses on children’s medicine"
+      ],
+      "ending": "A doctor cares for a child in a clinic with blank undecorated walls."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult doctor checks one child beside one plain unlabelled medicine bottle in an undecorated clinic room. Bare blank walls only; no posters, icons, crosses, symbols, charts, writing, or text.",
+    "imageFile": "kyc-1972.webp"
+  },
+  {
+    "id": "kyc-1973",
+    "word": "stance",
+    "targetSense": "立场",
+    "anchor": "ball",
+    "anchorMeaning": "球，球状物",
+    "relation": "The player took a wide stance before kicking the ball.",
+    "sentence": "The player took a wide stance before kicking the ball.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy sports field",
+      "actor": "One player stands with feet wide apart beside one plain ball, ready to kick.",
+      "props": [
+        "one player",
+        "one plain ball",
+        "one grassy field"
+      ],
+      "beats": [
+        "The player approaches the ball",
+        "The player plants both feet wide",
+        "The player prepares to kick"
+      ],
+      "ending": "The player took a wide stance before kicking the ball."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One player stands with feet wide apart beside one plain ball, ready to kick. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1973.webp"
+  },
+  {
+    "id": "kyc-1974",
+    "word": "veto",
+    "targetSense": "否决",
+    "anchor": "law",
+    "anchorMeaning": "法律（体系）",
+    "relation": "The mayor's veto stopped the law from passing.",
+    "sentence": "The mayor's veto stopped the law from passing.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain city office",
+      "actor": "one mayor firmly rejects a blank paper in a completely undecorated office",
+      "props": [
+        "one mayor",
+        "one blank paper",
+        "one plain desk"
+      ],
+      "beats": [
+        "The mayor reviews a proposal",
+        "The mayor refuses it",
+        "The law does not pass"
+      ],
+      "ending": "A mayor stops a proposal in a plain undecorated office."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One mayor raises a hand to stop a blank paper on a desk in a plain office with smooth bare walls. No frames, signs, posters, writing, letters, or text.",
+    "imageFile": "kyc-1974.webp"
+  },
+  {
+    "id": "kyc-1975",
+    "word": "widow",
+    "targetSense": "寡妇",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "The widow placed her husband's hat on his empty chair.",
+    "sentence": "The widow placed her husband's hat on his empty chair.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room",
+      "actor": "One adult woman in simple dark clothing gently places a plain hat on an empty chair.",
+      "props": [
+        "one adult woman",
+        "one empty chair",
+        "one plain hat"
+      ],
+      "beats": [
+        "The woman enters the quiet room",
+        "She places the hat on the chair",
+        "She pauses beside the empty seat"
+      ],
+      "ending": "The widow placed her husband's hat on his empty chair."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult woman in simple dark clothing gently places a plain hat on an empty chair. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1975.webp"
+  },
+  {
+    "id": "kyc-1976",
+    "word": "ambassador",
+    "targetSense": "大使",
+    "anchor": "message",
+    "anchorMeaning": "口信，消息",
+    "relation": "The ambassador delivered a message to the neighboring leader.",
+    "sentence": "The ambassador delivered a message to the neighboring leader.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet meeting room",
+      "actor": "Exactly two adult officials meet as one ambassador hands over a blank sealed envelope.",
+      "props": [
+        "two adult officials",
+        "one blank envelope",
+        "one plain meeting table"
+      ],
+      "beats": [
+        "The ambassador arrives",
+        "The ambassador offers the envelope",
+        "The neighboring leader receives the message"
+      ],
+      "ending": "The ambassador delivered a message to the neighboring leader."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult officials meet as one ambassador hands over a blank sealed envelope. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1976.webp"
+  },
+  {
+    "id": "kyc-1977",
+    "word": "avert",
+    "targetSense": "避免",
+    "anchor": "ball",
+    "anchorMeaning": "球，球状物",
+    "relation": "The goalkeeper leaped to avert a goal as the ball neared the net.",
+    "sentence": "The goalkeeper leaped to avert a goal as the ball neared the net.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain soccer field",
+      "actor": "One goalkeeper leaps toward one plain ball just before it reaches the net.",
+      "props": [
+        "one goalkeeper",
+        "one plain ball",
+        "one unmarked goal net"
+      ],
+      "beats": [
+        "The ball rolls toward the net",
+        "The goalkeeper dives quickly",
+        "The ball is stopped before a goal"
+      ],
+      "ending": "The goalkeeper leaped to avert a goal as the ball neared the net."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One goalkeeper leaps toward one plain ball just before it reaches the net. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1977.webp"
+  },
+  {
+    "id": "kyc-1978",
+    "word": "bathe",
+    "targetSense": "沐浴",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "The child had to bathe the little dog in a warm tub.",
+    "sentence": "The child had to bathe the little dog in a warm tub.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright bathroom",
+      "actor": "One child gently washes one calm puppy in a small warm tub.",
+      "props": [
+        "one child",
+        "one puppy",
+        "one plain tub"
+      ],
+      "beats": [
+        "The puppy steps into the tub",
+        "The child rinses the puppy gently",
+        "The puppy is clean and calm"
+      ],
+      "ending": "The child had to bathe the little dog in a warm tub."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One child gently washes one calm puppy in a small warm tub. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1978.webp"
+  },
+  {
+    "id": "kyc-1979",
+    "word": "beloved",
+    "targetSense": "心爱的",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "Her beloved dog greeted her at the gate.",
+    "sentence": "Her beloved dog greeted her at the gate.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden gate at home",
+      "actor": "One woman smiles as her beloved dog greets her beside the gate.",
+      "props": [
+        "one woman",
+        "one dog",
+        "one plain gate"
+      ],
+      "beats": [
+        "The woman arrives home",
+        "The dog runs to greet her",
+        "She welcomes the beloved dog"
+      ],
+      "ending": "Her beloved dog greeted her at the gate."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One woman smiles as her beloved dog greets her beside the gate. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1979.webp"
+  },
+  {
+    "id": "kyc-1980",
+    "word": "briefcase",
+    "targetSense": "公文包",
+    "anchor": "office",
+    "anchorMeaning": "办公室",
+    "relation": "The lawyer carried a briefcase into the office.",
+    "sentence": "The lawyer carried a briefcase into the office.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office doorway",
+      "actor": "one lawyer carrying one plain briefcase through a bare office doorway",
+      "props": [
+        "one lawyer",
+        "one plain briefcase",
+        "one office doorway"
+      ],
+      "beats": [
+        "The lawyer approaches the office",
+        "The lawyer carries the briefcase inside",
+        "The briefcase enters the office"
+      ],
+      "ending": "One lawyer walks into a plain office carrying a briefcase."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult lawyer walks through a plain office doorway carrying one briefcase. Bare walls and no framed certificates, signs, posters, plaques, writing, or text.",
+    "imageFile": "kyc-1980.webp"
+  },
+  {
+    "id": "kyc-1981",
+    "word": "burglar",
+    "targetSense": "窃贼",
+    "anchor": "house",
+    "anchorMeaning": "房子，住宅",
+    "relation": "The burglar slipped into the empty house through an unlocked window.",
+    "sentence": "The burglar slipped into the empty house through an unlocked window.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet house at night",
+      "actor": "One adult burglar in plain dark clothes climbs through a ground-floor open window into an empty home; no mask, tools, or weapons.",
+      "props": [
+        "one adult burglar",
+        "one open window",
+        "one quiet house"
+      ],
+      "beats": [
+        "The burglar approaches the empty house",
+        "The burglar climbs through the open window",
+        "The house remains empty"
+      ],
+      "ending": "The burglar slipped into the empty house through an unlocked window."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult burglar in plain dark clothes climbs through a ground-floor open window into an empty home; no mask, tools, or weapons. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1981.webp"
+  },
+  {
+    "id": "kyc-1982",
+    "word": "champagne",
+    "targetSense": "香槟酒",
+    "anchor": "wedding",
+    "anchorMeaning": "婚礼，结婚庆典",
+    "relation": "They raised glasses of champagne at the wedding dinner.",
+    "sentence": "They raised glasses of champagne at the wedding dinner.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A softly decorated wedding dinner",
+      "actor": "Exactly two adults raise plain glasses beside one unlabeled bottle of champagne; no signs or labels.",
+      "props": [
+        "two adults",
+        "one unlabeled champagne bottle",
+        "two plain glasses"
+      ],
+      "beats": [
+        "The wedding dinner begins",
+        "The adults raise their glasses",
+        "They toast with champagne"
+      ],
+      "ending": "They raised glasses of champagne at the wedding dinner."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults raise plain glasses beside one unlabeled bottle of champagne; no signs or labels. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1982.webp"
+  },
+  {
+    "id": "kyc-1983",
+    "word": "conquest",
+    "targetSense": "征服",
+    "anchor": "mountain",
+    "anchorMeaning": "山，高山",
+    "relation": "The climbers celebrated their conquest of the mountain at the summit.",
+    "sentence": "The climbers celebrated their conquest of the mountain at the summit.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clear mountain summit",
+      "actor": "Exactly two climbers stand safely at the summit and celebrate; no flags, signs, or text.",
+      "props": [
+        "two climbers",
+        "one mountain summit",
+        "one climbing rope"
+      ],
+      "beats": [
+        "The climbers reach the summit",
+        "They look over the mountain",
+        "They celebrate their conquest"
+      ],
+      "ending": "The climbers celebrated their conquest of the mountain at the summit."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two climbers stand safely at the summit and celebrate; no flags, signs, or text. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1983.webp"
+  },
+  {
+    "id": "kyc-1984",
+    "word": "convene",
+    "targetSense": "召集",
+    "anchor": "school",
+    "anchorMeaning": "（中、小）学校",
+    "relation": "The teachers will convene in the school library after class.",
+    "sentence": "The teachers will convene in the school library after class.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet school library",
+      "actor": "Exactly two adult teachers sit together at one plain table in the school library.",
+      "props": [
+        "two teachers",
+        "one plain table",
+        "one school library"
+      ],
+      "beats": [
+        "Class ends",
+        "The teachers meet in the library",
+        "They convene around the table"
+      ],
+      "ending": "The teachers will convene in the school library after class."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult teachers sit together at one plain table in the school library. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1984.webp"
+  },
+  {
+    "id": "kyc-1985",
+    "word": "conversion",
+    "targetSense": "转变",
+    "anchor": "house",
+    "anchorMeaning": "房子，住宅",
+    "relation": "The conversion of the old house into a library took months.",
+    "sentence": "The conversion of the old house into a library took months.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An old house being renovated",
+      "actor": "One plain old house interior is being changed into a library as a builder installs an empty bookcase.",
+      "props": [
+        "one old house",
+        "one plain bookcase",
+        "one paintbrush"
+      ],
+      "beats": [
+        "The old house is cleared",
+        "A bookcase is installed",
+        "The house becomes a library"
+      ],
+      "ending": "The conversion of the old house into a library took months."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One plain old house interior is being changed into a library as a builder installs an empty bookcase. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1985.webp"
+  },
+  {
+    "id": "kyc-1986",
+    "word": "coward",
+    "targetSense": "懦夫",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "The coward hid behind the fence when the dog barked.",
+    "sentence": "The coward hid behind the fence when the dog barked.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet yard beside a fence",
+      "actor": "One person peeks from behind a fence while one small dog barks from the other side.",
+      "props": [
+        "one person",
+        "one small dog",
+        "one plain fence"
+      ],
+      "beats": [
+        "The dog barks",
+        "The person hides behind the fence",
+        "The person stays safely out of sight"
+      ],
+      "ending": "The coward hid behind the fence when the dog barked."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person peeks from behind a fence while one small dog barks from the other side. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1986.webp"
+  },
+  {
+    "id": "kyc-1987",
+    "word": "exile",
+    "targetSense": "流放",
+    "anchor": "king",
+    "anchorMeaning": "君主，国王",
+    "relation": "The king sent the prince into exile far from the palace.",
+    "sentence": "The king sent the prince into exile far from the palace.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A palace gate opening onto a long road",
+      "actor": "One king points toward the road as one adult prince walks away from the palace.",
+      "props": [
+        "one king",
+        "one adult prince",
+        "one palace gate"
+      ],
+      "beats": [
+        "The king gives the order",
+        "The prince leaves the palace",
+        "The prince begins life in exile"
+      ],
+      "ending": "The king sent the prince into exile far from the palace."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One king points toward the road as one adult prince walks away from the palace. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1987.webp"
+  },
+  {
+    "id": "kyc-1988",
+    "word": "futile",
+    "targetSense": "无用的",
+    "anchor": "sand",
+    "anchorMeaning": "沙，沙子",
+    "relation": "It was futile to sweep the sand while the wind kept blowing.",
+    "sentence": "It was futile to sweep the sand while the wind kept blowing.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A windy sandy path",
+      "actor": "One adult sweeps sand while wind immediately blows more sand back onto the path.",
+      "props": [
+        "one adult",
+        "one plain broom",
+        "one sandy path"
+      ],
+      "beats": [
+        "The person sweeps the sand",
+        "The wind blows it back",
+        "The sweeping has no effect"
+      ],
+      "ending": "It was futile to sweep the sand while the wind kept blowing."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult sweeps sand while wind immediately blows more sand back onto the path. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1988.webp"
+  },
+  {
+    "id": "kyc-1989",
+    "word": "gracious",
+    "targetSense": "亲切的；仁慈的",
+    "anchor": "seat",
+    "anchorMeaning": "座位",
+    "relation": "The gracious host offered a seat to a tired visitor.",
+    "sentence": "The gracious host offered a seat to a tired visitor.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home entrance",
+      "actor": "one gracious host offers one chair to one tired visitor in a room with bare walls",
+      "props": [
+        "two adults",
+        "one plain chair",
+        "one home doorway"
+      ],
+      "beats": [
+        "The visitor arrives tired",
+        "The host offers the chair",
+        "The visitor accepts the kind gesture"
+      ],
+      "ending": "A gracious host offers a seat to a tired visitor in a plain room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults meet as a gracious host offers a plain chair to a tired visitor. Smooth bare home walls with no framed pictures, house icons, signs, or text.",
+    "imageFile": "kyc-1989.webp"
+  },
+  {
+    "id": "kyc-1990",
+    "word": "heap",
+    "targetSense": "堆",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "A heap of autumn leaves covered the path beneath the tree.",
+    "sentence": "A heap of autumn leaves covered the path beneath the tree.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden path in autumn",
+      "actor": "A large heap of fallen leaves covers one path beneath one tree.",
+      "props": [
+        "one heap of leaves",
+        "one garden path",
+        "one tree"
+      ],
+      "beats": [
+        "Leaves fall from the tree",
+        "The leaves collect in a pile",
+        "The heap covers the path"
+      ],
+      "ending": "A heap of autumn leaves covered the path beneath the tree."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "A large heap of fallen leaves covers one path beneath one tree. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1990.webp"
+  },
+  {
+    "id": "kyc-1991",
+    "word": "heave",
+    "targetSense": "起伏、举、扔",
+    "anchor": "cart",
+    "anchorMeaning": "（马拉的）大车，马车",
+    "relation": "They had to heave the heavy chest onto the cart.",
+    "sentence": "They had to heave the heavy chest onto the cart.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet moving room",
+      "actor": "Exactly two movers strain as they lift one heavy chest onto one handcart.",
+      "props": [
+        "two movers",
+        "one heavy chest",
+        "one handcart"
+      ],
+      "beats": [
+        "The movers grip the chest",
+        "They heave it upward",
+        "The chest lands on the cart"
+      ],
+      "ending": "They had to heave the heavy chest onto the cart."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two movers strain as they lift one heavy chest onto one handcart. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1991.webp"
+  },
+  {
+    "id": "kyc-1992",
+    "word": "hollow",
+    "targetSense": "空的、洞",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "A squirrel hid an acorn inside the hollow tree trunk.",
+    "sentence": "A squirrel hid an acorn inside the hollow tree trunk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A leafy woodland",
+      "actor": "One squirrel places one acorn inside a visible hollow in a tree trunk.",
+      "props": [
+        "one squirrel",
+        "one acorn",
+        "one hollow tree"
+      ],
+      "beats": [
+        "The squirrel finds an acorn",
+        "It reaches the hollow trunk",
+        "It hides the acorn inside"
+      ],
+      "ending": "A squirrel hid an acorn inside the hollow tree trunk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One squirrel places one acorn inside a visible hollow in a tree trunk. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1992.webp"
+  },
+  {
+    "id": "kyc-1993",
+    "word": "huddle",
+    "targetSense": "拥挤、混乱",
+    "anchor": "blanket",
+    "anchorMeaning": "毯子，毛毯",
+    "relation": "The hikers had to huddle together beneath a blanket in the cold.",
+    "sentence": "The hikers had to huddle together beneath a blanket in the cold.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cold hillside at dusk",
+      "actor": "Exactly two hikers huddle close beneath one large blanket on a cold hillside.",
+      "props": [
+        "two hikers",
+        "one large blanket",
+        "one cold hillside"
+      ],
+      "beats": [
+        "The hikers feel cold",
+        "They huddle under the blanket",
+        "They stay close to keep warm"
+      ],
+      "ending": "The hikers had to huddle together beneath a blanket in the cold."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two hikers huddle close beneath one large blanket on a cold hillside. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1993.webp"
+  },
+  {
+    "id": "kyc-1994",
+    "word": "inland",
+    "targetSense": "内陆",
+    "anchor": "boat",
+    "anchorMeaning": "小船",
+    "relation": "The boat carried the travelers inland from the coast.",
+    "sentence": "The boat carried the travelers inland from the coast.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A river leading from the coast inland",
+      "actor": "One small boat moves along a river from the distant coast toward green inland fields.",
+      "props": [
+        "one small boat",
+        "one river",
+        "green inland fields"
+      ],
+      "beats": [
+        "The boat leaves the coast",
+        "It follows the river inland",
+        "The shore gives way to fields"
+      ],
+      "ending": "The boat carried the travelers inland from the coast."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One small boat moves along a river from the distant coast toward green inland fields. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1994.webp"
+  },
+  {
+    "id": "kyc-1995",
+    "word": "insulate",
+    "targetSense": "隔离",
+    "anchor": "cabin",
+    "anchorMeaning": "小木屋",
+    "relation": "They used thick wool to insulate the cabin against the cold.",
+    "sentence": "They used thick wool to insulate the cabin against the cold.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small wooden cabin in cold weather",
+      "actor": "Exactly two adults fit thick wool insulation into an open section of one cabin wall.",
+      "props": [
+        "two adults",
+        "one cabin wall",
+        "thick wool insulation"
+      ],
+      "beats": [
+        "Cold weather approaches",
+        "They fit wool into the wall",
+        "The cabin is insulated"
+      ],
+      "ending": "They used thick wool to insulate the cabin against the cold."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults fit thick wool insulation into an open section of one cabin wall. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1995.webp"
+  },
+  {
+    "id": "kyc-1996",
+    "word": "intermediate",
+    "targetSense": "中间体；中等的",
+    "anchor": "trail",
+    "anchorMeaning": "痕迹，踪迹",
+    "relation": "The intermediate trail was less flat than the valley path but easier than the steep climb.",
+    "sentence": "The intermediate trail was less flat than the valley path but easier than the steep climb.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A mountain trail junction",
+      "actor": "One hiker chooses the middle trail between one flat path and one steep rocky climb.",
+      "props": [
+        "one hiker",
+        "one flat path",
+        "one steep climb"
+      ],
+      "beats": [
+        "The hiker reaches a trail junction",
+        "The flat and steep routes are visible",
+        "She chooses the middle intermediate trail"
+      ],
+      "ending": "The intermediate trail was less flat than the valley path but easier than the steep climb."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One hiker chooses the middle trail between one flat path and one steep rocky climb. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1996.webp"
+  },
+  {
+    "id": "kyc-1997",
+    "word": "invaluable",
+    "targetSense": "无价的",
+    "anchor": "bridge",
+    "anchorMeaning": "桥",
+    "relation": "Her advice was invaluable when the bridge flooded.",
+    "sentence": "Her advice was invaluable when the bridge flooded.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A stream beside a flooded bridge",
+      "actor": "Exactly two adults stand by a flooded bridge as one points out a safe nearby path.",
+      "props": [
+        "two adults",
+        "one flooded bridge",
+        "one safe path"
+      ],
+      "beats": [
+        "Water floods the bridge",
+        "The woman gives advice",
+        "The traveler follows her safe route"
+      ],
+      "ending": "Her advice was invaluable when the bridge flooded."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults stand by a flooded bridge as one points out a safe nearby path. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1997.webp"
+  },
+  {
+    "id": "kyc-1998",
+    "word": "jargon",
+    "targetSense": "行话",
+    "anchor": "heart",
+    "anchorMeaning": "心，心脏",
+    "relation": "The doctor used a heart model to explain medical jargon to a patient.",
+    "sentence": "The doctor used a heart model to explain medical jargon to a patient.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet clinic room",
+      "actor": "one doctor explains specialized medical jargon to one patient using a plain heart model in a bare room",
+      "props": [
+        "one doctor",
+        "one patient",
+        "one plain heart model"
+      ],
+      "beats": [
+        "The patient listens",
+        "The doctor points to the heart model",
+        "The doctor explains medical jargon simply"
+      ],
+      "ending": "A doctor explains medical jargon with a heart model in a blank clinic room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult doctor shows one patient a plain heart model in an undecorated clinic room. Bare blank walls only; no posters, charts, crosses, medical symbols, writing, or text.",
+    "imageFile": "kyc-1998.webp"
+  },
+  {
+    "id": "kyc-1999",
+    "word": "layman",
+    "targetSense": "门外汉",
+    "anchor": "car",
+    "anchorMeaning": "汽车，轿车",
+    "relation": "A layman learned to repair the car with a simple guide.",
+    "sentence": "A layman learned to repair the car with a simple guide.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home garage",
+      "actor": "One ordinary adult studies a blank picture guide while repairing a plain car.",
+      "props": [
+        "one adult beginner",
+        "one plain car",
+        "one blank picture guide"
+      ],
+      "beats": [
+        "The car needs a small repair",
+        "The beginner studies the simple guide",
+        "The layman fixes the car"
+      ],
+      "ending": "A layman learned to repair the car with a simple guide."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One ordinary adult studies a blank picture guide while repairing a plain car. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-1999.webp"
+  },
+  {
+    "id": "kyc-2000",
+    "word": "locality",
+    "targetSense": "地区",
+    "anchor": "shop",
+    "anchorMeaning": "商店，店铺",
+    "relation": "The small shop became a favorite in the locality.",
+    "sentence": "The small shop became a favorite in the locality.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet residential neighborhood",
+      "actor": "one plain shop with a completely blank facade in a residential locality between two homes",
+      "props": [
+        "one small shop",
+        "two nearby homes",
+        "one neighborhood path"
+      ],
+      "beats": [
+        "The shop opens in the neighborhood",
+        "Nearby homes surround the shop",
+        "The shop becomes a local favorite"
+      ],
+      "ending": "A small unmarked shop stands among homes in the locality."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One small unmarked shop stands between two nearby homes on a neighborhood path. The shop facade and awning are completely blank; no chalkboard, sandwich board, signs, labels, or text.",
+    "imageFile": "kyc-2000.webp"
+  },
+  {
+    "id": "kyc-2001",
+    "word": "odor",
+    "targetSense": "气味",
+    "anchor": "fish",
+    "anchorMeaning": "鱼",
+    "relation": "A strong odor came from the old bucket of fish.",
+    "sentence": "A strong odor came from the old bucket of fish.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple outdoor market stall",
+      "actor": "One adult reacts to the smell of fish in one plain bucket.",
+      "props": [
+        "one adult",
+        "one plain bucket",
+        "fresh fish"
+      ],
+      "beats": [
+        "The bucket is opened",
+        "The fish give off a strong odor",
+        "The person reacts to the smell"
+      ],
+      "ending": "A strong odor came from the old bucket of fish."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult reacts to the smell of fish in one plain bucket. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2001.webp"
+  },
+  {
+    "id": "kyc-2002",
+    "word": "okay",
+    "targetSense": "可以、好的",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "Her friend said the answer was okay.",
+    "sentence": "Her friend said the answer was okay.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study table",
+      "actor": "Exactly two friends sit at a plain table as one smiles and nods approval.",
+      "props": [
+        "two friends",
+        "one blank paper",
+        "one plain table"
+      ],
+      "beats": [
+        "One friend shares an answer",
+        "The other friend nods",
+        "The answer is okay"
+      ],
+      "ending": "Her friend said the answer was okay."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two friends sit at a plain table as one smiles and nods approval. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2002.webp"
+  },
+  {
+    "id": "kyc-2003",
+    "word": "optical",
+    "targetSense": "光学的",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "The optical glass in her camera helped her see the tiny bird clearly.",
+    "sentence": "The optical glass in her camera helped her see the tiny bird clearly.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden beside a tree",
+      "actor": "One adult looks through the plain glass lens of a camera toward a tiny bird.",
+      "props": [
+        "one adult photographer",
+        "one plain camera lens",
+        "one tiny bird"
+      ],
+      "beats": [
+        "The photographer raises the camera",
+        "The optical glass brings the bird into view",
+        "The tiny bird appears clear"
+      ],
+      "ending": "The optical glass in her camera helped her see the tiny bird clearly."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult looks through the plain glass lens of a camera toward a tiny bird. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2003.webp"
+  },
+  {
+    "id": "kyc-2004",
+    "word": "optimum",
+    "targetSense": "最佳的",
+    "anchor": "tent",
+    "anchorMeaning": "帐篷",
+    "relation": "They found the optimum place to pitch their tent between two trees.",
+    "sentence": "They found the optimum place to pitch their tent between two trees.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet campsite between trees",
+      "actor": "Exactly two campers pitch one tent in the best sheltered place between two trees.",
+      "props": [
+        "two campers",
+        "one plain tent",
+        "two trees"
+      ],
+      "beats": [
+        "The campers inspect the campsite",
+        "They choose the sheltered spot",
+        "They pitch the tent there"
+      ],
+      "ending": "They found the optimum place to pitch their tent between two trees."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two campers pitch one tent in the best sheltered place between two trees. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2004.webp"
+  },
+  {
+    "id": "kyc-2005",
+    "word": "pact",
+    "targetSense": "协定",
+    "anchor": "garden",
+    "anchorMeaning": "花园，菜园，果园",
+    "relation": "The two neighbors made a pact to share the garden.",
+    "sentence": "The two neighbors made a pact to share the garden.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A shared neighborhood garden",
+      "actor": "Exactly two neighbors shake hands beside the garden they will share.",
+      "props": [
+        "two neighbors",
+        "one shared garden",
+        "one garden gate"
+      ],
+      "beats": [
+        "The neighbors meet in the garden",
+        "They agree to share it",
+        "They seal their pact with a handshake"
+      ],
+      "ending": "The two neighbors made a pact to share the garden."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two neighbors shake hands beside the garden they will share. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2005.webp"
+  },
+  {
+    "id": "kyc-2006",
+    "word": "persevere",
+    "targetSense": "坚持",
+    "anchor": "kite",
+    "anchorMeaning": "风筝",
+    "relation": "She continued to persevere until the kite rose into the sky.",
+    "sentence": "She continued to persevere until the kite rose into the sky.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breezy open field",
+      "actor": "one child perseveres with one kite; the same single kite is now flying high",
+      "props": [
+        "one child",
+        "one plain kite",
+        "one open field"
+      ],
+      "beats": [
+        "The kite struggles in the breeze",
+        "The child keeps trying",
+        "The single kite rises into the sky"
+      ],
+      "ending": "One child perseveres until one kite flies; exactly one kite is visible."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One child keeps trying to fly one single plain kite until that same kite rises into the sky. Show exactly one kite total, flying above the child; no second kite on the ground or elsewhere.",
+    "imageFile": "kyc-2006.webp"
+  },
+  {
+    "id": "kyc-2007",
+    "word": "pharmacy",
+    "targetSense": "药房",
+    "anchor": "medicine",
+    "anchorMeaning": "药物，药剂",
+    "relation": "Dad went to the pharmacy to pick up medicine.",
+    "sentence": "Dad went to the pharmacy to pick up medicine.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small pharmacy counter",
+      "actor": "one adult pharmacist gives one adult customer an unlabelled medicine bottle in a bare pharmacy",
+      "props": [
+        "one pharmacist",
+        "one adult customer",
+        "one plain medicine bottle"
+      ],
+      "beats": [
+        "The customer visits the pharmacy",
+        "The pharmacist prepares medicine",
+        "The customer receives the bottle"
+      ],
+      "ending": "Medicine is collected at an unmarked pharmacy counter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult pharmacist hands one adult customer a plain unlabelled medicine bottle across a counter in a simple pharmacy. Blank bare walls only; no red cross, medical icon, signs, labels, posters, writing, or text.",
+    "imageFile": "kyc-2007.webp"
+  },
+  {
+    "id": "kyc-2008",
+    "word": "predominant",
+    "targetSense": "主要的",
+    "anchor": "blue",
+    "anchorMeaning": "蓝色的",
+    "relation": "Blue was the predominant color in the mural.",
+    "sentence": "Blue was the predominant color in the mural.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An outdoor mural wall",
+      "actor": "A large wall mural is painted mostly in blue with only a few small contrasting color patches.",
+      "props": [
+        "one mural wall",
+        "blue paint",
+        "one plain paintbrush"
+      ],
+      "beats": [
+        "The painter covers most of the wall",
+        "Blue fills most of the mural",
+        "The blue color dominates"
+      ],
+      "ending": "Blue was the predominant color in the mural."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "A large wall mural is painted mostly in blue with only a few small contrasting color patches. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2008.webp"
+  },
+  {
+    "id": "kyc-2009",
+    "word": "presume",
+    "targetSense": "假定、推测",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "I presume the wet footprints came from the dog outside.",
+    "sentence": "I presume the wet footprints came from the dog outside.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home entryway on a rainy day",
+      "actor": "One adult notices wet pawprints leading from a doorway toward one dog outside.",
+      "props": [
+        "one adult",
+        "wet pawprints",
+        "one dog"
+      ],
+      "beats": [
+        "The person sees the wet prints",
+        "The dog waits outside",
+        "The person presumes the dog made them"
+      ],
+      "ending": "I presume the wet footprints came from the dog outside."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult notices wet pawprints leading from a doorway toward one dog outside. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2009.webp"
+  },
+  {
+    "id": "kyc-2010",
+    "word": "protocol",
+    "targetSense": "协议",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "The team followed a strict protocol before testing the water.",
+    "sentence": "The team followed a strict protocol before testing the water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean laboratory",
+      "actor": "Exactly two adult scientists carefully prepare one water sample for a test.",
+      "props": [
+        "two scientists",
+        "one water sample",
+        "plain lab equipment"
+      ],
+      "beats": [
+        "The scientists prepare the sample",
+        "They follow the same careful steps",
+        "They begin testing the water"
+      ],
+      "ending": "The team followed a strict protocol before testing the water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult scientists carefully prepare one water sample for a test. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2010.webp"
+  },
+  {
+    "id": "kyc-2011",
+    "word": "rape",
+    "targetSense": "强奸",
+    "anchor": "law",
+    "anchorMeaning": "法律（体系）",
+    "relation": "The law offers rape survivors a safe path to seek justice.",
+    "sentence": "The law offers rape survivors a safe path to seek justice.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet legal support office",
+      "actor": "One adult survivor speaks with one adult counselor in a calm, private office; the counselor holds a plain, completely unmarked legal folder. No violence is shown.",
+      "props": [
+        "two adult women",
+        "one quiet office",
+        "one blank legal folder"
+      ],
+      "beats": [
+        "The survivor speaks with the counselor",
+        "The counselor listens supportively",
+        "The law offers a safe path to justice"
+      ],
+      "ending": "A survivor receives calm support and legal guidance in a plain office."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Two fully clothed adult women sit safely together in a calm private support office; one listens while the counselor holds a plain blank folder. Bare undecorated walls only. No framed pictures, posters, icons, courthouse or building symbols, scales, handshake images, hearts, writing, text, logos, or watermarks. No attacker, violence, injuries, nudity, or sexualization.",
+    "imageFile": "kyc-2011.webp"
+  },
+  {
+    "id": "kyc-2012",
+    "word": "reclaim",
+    "targetSense": "回收、利用",
+    "anchor": "park",
+    "anchorMeaning": "公园",
+    "relation": "The town worked to reclaim the park after the flood.",
+    "sentence": "The town worked to reclaim the park after the flood.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A neighborhood park after a flood",
+      "actor": "Exactly two adult neighbors clear branches from a park path after the water has gone down.",
+      "props": [
+        "two neighbors",
+        "one park path",
+        "flood debris"
+      ],
+      "beats": [
+        "The flood recedes",
+        "The neighbors clear the path",
+        "The park is reclaimed for everyone"
+      ],
+      "ending": "The town worked to reclaim the park after the flood."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult neighbors clear branches from a park path after the water has gone down. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2012.webp"
+  },
+  {
+    "id": "kyc-2013",
+    "word": "repression",
+    "targetSense": "镇压",
+    "anchor": "government",
+    "anchorMeaning": "政府，内阁",
+    "relation": "The government used repression to keep peaceful residents from meeting.",
+    "sentence": "The government used repression to keep peaceful residents from meeting.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain civic hall entrance",
+      "actor": "one unmarked official calmly closes a plain hall gate while one peaceful resident asks to enter",
+      "props": [
+        "one official",
+        "one peaceful resident",
+        "one hall gate"
+      ],
+      "beats": [
+        "The resident approaches the hall",
+        "The official closes the gate",
+        "The residents cannot meet"
+      ],
+      "ending": "A peaceful resident is kept from meeting at a closed hall gate."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One anonymous official in a plain dark jacket closes a hall gate as one peaceful resident asks to enter. No uniform, cap, badge, insignia, emblem, symbols, force, signs, or text.",
+    "imageFile": "kyc-2013.webp"
+  },
+  {
+    "id": "kyc-2014",
+    "word": "ridge",
+    "targetSense": "脊",
+    "anchor": "hill",
+    "anchorMeaning": "山丘，小山",
+    "relation": "A narrow ridge ran along the top of the hill.",
+    "sentence": "A narrow ridge ran along the top of the hill.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A high grassy hill",
+      "actor": "One narrow rocky ridge runs along the top edge of one hill.",
+      "props": [
+        "one hill",
+        "one narrow rocky ridge",
+        "open sky"
+      ],
+      "beats": [
+        "The hill rises above the valley",
+        "The ridge follows its top",
+        "The narrow ridge is clearly visible"
+      ],
+      "ending": "A narrow ridge ran along the top of the hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One narrow rocky ridge runs along the top edge of one hill. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2014.webp"
+  },
+  {
+    "id": "kyc-2015",
+    "word": "rust",
+    "targetSense": "生锈",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "Rust spread across the iron gate after years of rain.",
+    "sentence": "Rust spread across the iron gate after years of rain.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A garden entrance after rain",
+      "actor": "A plain iron gate shows clear reddish rust along its bars and hinges after rain.",
+      "props": [
+        "one iron gate",
+        "rust patches",
+        "rain droplets"
+      ],
+      "beats": [
+        "Rain falls on the gate",
+        "Rust spreads across the iron",
+        "The gate looks weathered"
+      ],
+      "ending": "Rust spread across the iron gate after years of rain."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "A plain iron gate shows clear reddish rust along its bars and hinges after rain. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2015.webp"
+  },
+  {
+    "id": "kyc-2016",
+    "word": "sibling",
+    "targetSense": "兄弟姐妹",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "Her sibling helped carry the basket home.",
+    "sentence": "Her sibling helped carry the basket home.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A path leading to a family home",
+      "actor": "Exactly two siblings walk home together carrying one basket between them.",
+      "props": [
+        "two siblings",
+        "one basket",
+        "one home path"
+      ],
+      "beats": [
+        "The siblings pick up the basket",
+        "They carry it together",
+        "They arrive at home"
+      ],
+      "ending": "Her sibling helped carry the basket home."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two siblings walk home together carrying one basket between them. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2016.webp"
+  },
+  {
+    "id": "kyc-2017",
+    "word": "slap",
+    "targetSense": "掴、侮辱",
+    "anchor": "wind",
+    "anchorMeaning": "风，气流",
+    "relation": "The wind gave his cheek a quick slap and blew his hat away.",
+    "sentence": "The wind gave his cheek a quick slap and blew his hat away.",
+    "mode": "scene",
+    "scene": {
+      "setting": "An open path on a windy day",
+      "actor": "One man holds his balance as one gust of wind blows his plain hat from his head.",
+      "props": [
+        "one man",
+        "one plain hat",
+        "strong wind"
+      ],
+      "beats": [
+        "The man walks along the path",
+        "A sudden gust hits his cheek",
+        "The hat flies off his head"
+      ],
+      "ending": "The wind gave his cheek a quick slap and blew his hat away."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One man holds his balance as one gust of wind blows his plain hat from his head. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2017.webp"
+  },
+  {
+    "id": "kyc-2018",
+    "word": "stale",
+    "targetSense": "陈腐的；不新鲜的",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "The bread tasted stale after sitting out all night.",
+    "sentence": "The bread tasted stale after sitting out all night.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple breakfast table",
+      "actor": "One adult tastes one dry loaf of bread and notices it is no longer fresh.",
+      "props": [
+        "one adult",
+        "one dry loaf of bread",
+        "one plain plate"
+      ],
+      "beats": [
+        "The bread sits out overnight",
+        "The adult tastes it",
+        "The stale bread is dry"
+      ],
+      "ending": "The bread tasted stale after sitting out all night."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult tastes one dry loaf of bread and notices it is no longer fresh. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2018.webp"
+  },
+  {
+    "id": "kyc-2019",
+    "word": "strap",
+    "targetSense": "皮带",
+    "anchor": "bag",
+    "anchorMeaning": "袋，包",
+    "relation": "He tightened the strap on his bag before hiking.",
+    "sentence": "He tightened the strap on his bag before hiking.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A forest trailhead",
+      "actor": "One hiker adjusts and tightens the strap on one plain backpack.",
+      "props": [
+        "one hiker",
+        "one plain bag",
+        "one forest trail"
+      ],
+      "beats": [
+        "The hiker checks the bag",
+        "He tightens its strap",
+        "He is ready to hike"
+      ],
+      "ending": "He tightened the strap on his bag before hiking."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One hiker adjusts and tightens the strap on one plain backpack. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2019.webp"
+  },
+  {
+    "id": "kyc-2020",
+    "word": "submerge",
+    "targetSense": "潜入水中；浸没",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "The diver had to submerge to reach the shell under the water.",
+    "sentence": "The diver had to submerge to reach the shell under the water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Clear shallow water above a sandy bottom",
+      "actor": "One diver submerges fully below the water surface and reaches toward one shell.",
+      "props": [
+        "one diver",
+        "clear water",
+        "one shell"
+      ],
+      "beats": [
+        "The diver enters the water",
+        "The diver submerges below the surface",
+        "The diver reaches the shell"
+      ],
+      "ending": "The diver had to submerge to reach the shell under the water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One diver submerges fully below the water surface and reaches toward one shell. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2020.webp"
+  },
+  {
+    "id": "kyc-2021",
+    "word": "tilt",
+    "targetSense": "倾斜",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "She had to tilt the glass to pour water into the plant pot.",
+    "sentence": "She had to tilt the glass to pour water into the plant pot.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny kitchen windowsill",
+      "actor": "One woman tilts one plain glass and pours water into one plant pot.",
+      "props": [
+        "one woman",
+        "one plain glass",
+        "one plant pot"
+      ],
+      "beats": [
+        "The woman lifts the glass",
+        "She tilts it",
+        "Water pours into the plant pot"
+      ],
+      "ending": "She had to tilt the glass to pour water into the plant pot."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One woman tilts one plain glass and pours water into one plant pot. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2021.webp"
+  },
+  {
+    "id": "kyc-2022",
+    "word": "trademark",
+    "targetSense": "商标",
+    "anchor": "bottle",
+    "anchorMeaning": "瓶子",
+    "relation": "The maker registered a trademark to protect the bottle's unique shape.",
+    "sentence": "The maker registered a trademark to protect the bottle's unique shape.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet design workshop",
+      "actor": "One maker presents a distinctive plain bottle beside an unmarked blank document; no logos, stamps, or writing.",
+      "props": [
+        "one maker",
+        "one distinctive plain bottle",
+        "one blank document"
+      ],
+      "beats": [
+        "The maker designs the bottle",
+        "The unique shape is shown",
+        "The design is formally protected"
+      ],
+      "ending": "The maker registered a trademark to protect the bottle's unique shape."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One maker examines a distinctive, plain bottle beside a completely blank sheet of paper. Keep the paper fully empty and the bottle unmarked. Bare undecorated walls, with no framed artwork. No logo, brand mark, emblem, stamp, symbol, drawing, writing, text, letters, numbers, signs, labels, or watermark.",
+    "imageFile": "kyc-2022.webp"
+  },
+  {
+    "id": "kyc-2023",
+    "word": "trim",
+    "targetSense": "修剪、装饰",
+    "anchor": "garden",
+    "anchorMeaning": "花园，菜园，果园",
+    "relation": "She will trim the garden hedge into a neat round shape.",
+    "sentence": "She will trim the garden hedge into a neat round shape.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small garden",
+      "actor": "One gardener uses plain shears to trim one hedge into a neat round shape.",
+      "props": [
+        "one gardener",
+        "one hedge",
+        "plain garden shears"
+      ],
+      "beats": [
+        "The hedge grows unevenly",
+        "The gardener trims its edges",
+        "The hedge becomes neat and round"
+      ],
+      "ending": "She will trim the garden hedge into a neat round shape."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One gardener uses plain shears to trim one hedge into a neat round shape. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2023.webp"
+  },
+  {
+    "id": "kyc-2024",
+    "word": "typist",
+    "targetSense": "打字员",
+    "anchor": "desk",
+    "anchorMeaning": "书桌，办公桌，写字台",
+    "relation": "The typist entered the letter at a quiet desk.",
+    "sentence": "The typist entered the letter at a quiet desk.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet office desk",
+      "actor": "One adult typist types on a plain typewriter with unmarked keys and a completely blank sheet.",
+      "props": [
+        "one typist",
+        "one plain typewriter",
+        "one blank sheet"
+      ],
+      "beats": [
+        "The typist sits at the desk",
+        "The typist presses unmarked keys",
+        "A blank sheet remains without visible writing"
+      ],
+      "ending": "The typist entered the letter at a quiet desk."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult typist types on a plain typewriter with unmarked keys and a completely blank sheet. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2024.webp"
+  },
+  {
+    "id": "kyc-2025",
+    "word": "versatile",
+    "targetSense": "多才多艺的；通用的",
+    "anchor": "fruit",
+    "anchorMeaning": "水果",
+    "relation": "A versatile camping tool helped her cut fruit and tighten a loose tent screw.",
+    "sentence": "A versatile camping tool helped her cut fruit and tighten a loose tent screw.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple campsite",
+      "actor": "One adult camper uses one compact unbranded multitool to cut fruit and tighten one loose tent screw.",
+      "props": [
+        "one camper",
+        "one compact unbranded multitool",
+        "fruit and a loose tent screw"
+      ],
+      "beats": [
+        "The camper prepares fruit",
+        "The same tool tightens a screw",
+        "One tool serves several purposes"
+      ],
+      "ending": "A versatile camping tool helped her cut fruit and tighten a loose tent screw."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult camper uses one compact unbranded multitool to cut fruit and tighten one loose tent screw. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2025.webp"
+  },
+  {
+    "id": "kyc-2026",
+    "word": "yearly",
+    "targetSense": "每年的",
+    "anchor": "season",
+    "anchorMeaning": "季节",
+    "relation": "The garden picnic returns yearly in the same season.",
+    "sentence": "The garden picnic returns yearly in the same season.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A flowering garden in spring",
+      "actor": "Exactly two adults share a simple picnic beneath one flowering tree in the same spring garden.",
+      "props": [
+        "two adults",
+        "one picnic blanket",
+        "one flowering tree"
+      ],
+      "beats": [
+        "The garden blooms in spring",
+        "The picnic is held",
+        "The yearly event returns in the same season"
+      ],
+      "ending": "The garden picnic returns yearly in the same season."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adults share a simple picnic beneath one flowering tree in the same spring garden. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2026.webp"
+  },
+  {
+    "id": "kyc-2027",
+    "word": "thrift",
+    "targetSense": "节俭",
+    "anchor": "car",
+    "anchorMeaning": "汽车，轿车",
+    "relation": "Her thrift helped her save enough money for a car.",
+    "sentence": "Her thrift helped her save enough money for a car.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home garage with a car outside",
+      "actor": "One adult places a few plain unmarked coins into a clear savings jar while a car waits outside.",
+      "props": [
+        "one adult",
+        "one plain savings jar with coins",
+        "one plain car"
+      ],
+      "beats": [
+        "The woman saves small coins",
+        "Her careful thrift builds savings",
+        "She can afford a car"
+      ],
+      "ending": "Her thrift helped her save enough money for a car."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult places a few plain unmarked coins into a clear savings jar while a car waits outside. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2027.webp"
+  },
+  {
+    "id": "kyc-2028",
+    "word": "weary",
+    "targetSense": "疲倦",
+    "anchor": "log",
+    "anchorMeaning": "原木，圆材",
+    "relation": "The weary hiker rested on a log beside the trail.",
+    "sentence": "The weary hiker rested on a log beside the trail.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet woodland trail",
+      "actor": "One tired hiker sits heavily on one fallen log beside the trail.",
+      "props": [
+        "one weary hiker",
+        "one fallen log",
+        "one woodland trail"
+      ],
+      "beats": [
+        "The hiker walks for a long time",
+        "The hiker grows tired",
+        "The hiker rests on the log"
+      ],
+      "ending": "The weary hiker rested on a log beside the trail."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One tired hiker sits heavily on one fallen log beside the trail. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2028.webp"
+  },
+  {
+    "id": "kyc-2029",
+    "word": "aeroplane",
+    "targetSense": "飞机",
+    "anchor": "cloud",
+    "anchorMeaning": "云，云朵",
+    "relation": "The aeroplane rose above a cloud as the sun appeared.",
+    "sentence": "The aeroplane rose above a cloud as the sun appeared.",
+    "mode": "scene",
+    "scene": {
+      "setting": "The sky above a bank of clouds",
+      "actor": "One unmarked passenger aeroplane rises above soft clouds into a bright clear sky.",
+      "props": [
+        "one plain aeroplane",
+        "soft clouds",
+        "sunlight"
+      ],
+      "beats": [
+        "The plane climbs upward",
+        "It passes the cloud tops",
+        "The sun appears above the clouds"
+      ],
+      "ending": "The aeroplane rose above a cloud as the sun appeared."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One unmarked passenger aeroplane rises above soft clouds into a bright clear sky. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2029.webp"
+  },
+  {
+    "id": "kyc-2030",
+    "word": "cement",
+    "targetSense": "水泥",
+    "anchor": "wall",
+    "anchorMeaning": "城墙，围墙",
+    "relation": "The builder mixed cement to repair the cracked wall.",
+    "sentence": "The builder mixed cement to repair the cracked wall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple building site",
+      "actor": "One builder mixes gray cement in a plain bucket beside one cracked wall.",
+      "props": [
+        "one builder",
+        "one plain bucket of cement",
+        "one cracked wall"
+      ],
+      "beats": [
+        "The builder sees the crack",
+        "The builder mixes cement",
+        "The wall is repaired"
+      ],
+      "ending": "The builder mixed cement to repair the cracked wall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One builder mixes gray cement in a plain bucket beside one cracked wall. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2030.webp"
+  },
+  {
+    "id": "kyc-2031",
+    "word": "inspect",
+    "targetSense": "检查",
+    "anchor": "car",
+    "anchorMeaning": "汽车，轿车",
+    "relation": "The mechanic had to inspect the car's tire before the trip.",
+    "sentence": "The mechanic had to inspect the car's tire before the trip.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet garage",
+      "actor": "One mechanic bends down to inspect the tire of one plain car.",
+      "props": [
+        "one mechanic",
+        "one plain car",
+        "one car tire"
+      ],
+      "beats": [
+        "The mechanic approaches the car",
+        "The tire is checked closely",
+        "The car is ready for a trip"
+      ],
+      "ending": "The mechanic had to inspect the car's tire before the trip."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One mechanic bends down to inspect the tire of one plain car. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2031.webp"
+  },
+  {
+    "id": "kyc-2032",
+    "word": "abide",
+    "targetSense": "遵守",
+    "anchor": "park",
+    "anchorMeaning": "公园",
+    "relation": "The campers abide by the park rules and leave no litter.",
+    "sentence": "The campers abide by the park rules and leave no litter.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean campsite in a public park",
+      "actor": "One camper picks up the last piece of litter and puts it into a plain bag; no signs.",
+      "props": [
+        "one camper",
+        "one clean campsite",
+        "one plain waste bag"
+      ],
+      "beats": [
+        "The camper finishes a picnic",
+        "The camper collects all litter",
+        "The campsite stays clean"
+      ],
+      "ending": "The campers abide by the park rules and leave no litter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One camper picks up the last piece of litter and puts it into a plain bag; no signs. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2032.webp"
+  },
+  {
+    "id": "kyc-2033",
+    "word": "ashore",
+    "targetSense": "上岸",
+    "anchor": "boat",
+    "anchorMeaning": "小船",
+    "relation": "The boat carried the sailors ashore after the storm.",
+    "sentence": "The boat carried the sailors ashore after the storm.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm beach after a storm",
+      "actor": "Exactly two clearly different sailors: one older sailor with gray hair and a yellow raincoat steps down from the boat onto the sandy shore, while a younger sailor in dark blue waits aboard. Make their faces, ages, and clothing visibly distinct; do not clone either person.",
+      "props": [
+        "two sailors",
+        "one small boat",
+        "one sandy shore"
+      ],
+      "beats": [
+        "The storm passes",
+        "The boat reaches land",
+        "The older sailor steps ashore while the younger sailor waits aboard"
+      ],
+      "ending": "The boat carried the sailors ashore after the storm."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two visibly different sailors: an older gray-haired sailor in a yellow raincoat steps down from one small boat onto the sandy shore; a younger sailor in dark blue waits aboard. Their faces, ages, and clothes must be distinct. Clearly show one foot moving from boat to land. No cloned people. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2033.webp"
+  },
+  {
+    "id": "kyc-2034",
+    "word": "chimney",
+    "targetSense": "烟囱",
+    "anchor": "smoke",
+    "anchorMeaning": "（燃烧所产生的）烟，烟雾",
+    "relation": "Smoke drifted from the brick chimney on a cold morning.",
+    "sentence": "Smoke drifted from the brick chimney on a cold morning.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet village on a cold morning",
+      "actor": "A small brick chimney sends a gentle curl of smoke above a cozy house.",
+      "props": [
+        "one brick chimney",
+        "gentle smoke",
+        "one cozy house"
+      ],
+      "beats": [
+        "The morning is cold",
+        "The chimney releases smoke",
+        "The smoke drifts into the air"
+      ],
+      "ending": "Smoke drifted from the brick chimney on a cold morning."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "A small brick chimney sends a gentle curl of smoke above a cozy house. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2034.webp"
+  },
+  {
+    "id": "kyc-2035",
+    "word": "claw",
+    "targetSense": "爪",
+    "anchor": "cat",
+    "anchorMeaning": "猫，猫科动物",
+    "relation": "The cat caught the toy with one claw.",
+    "sentence": "The cat caught the toy with one claw.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny living room",
+      "actor": "One cat reaches with a visible claw to catch one soft toy; no injury.",
+      "props": [
+        "one cat",
+        "one visible claw",
+        "one soft toy"
+      ],
+      "beats": [
+        "The toy rolls across the floor",
+        "The cat reaches out",
+        "One claw catches the toy"
+      ],
+      "ending": "The cat caught the toy with one claw."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One cat reaches with a visible claw to catch one soft toy; no injury. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2035.webp"
+  },
+  {
+    "id": "kyc-2036",
+    "word": "correspondent",
+    "targetSense": "通讯记者",
+    "anchor": "news",
+    "anchorMeaning": "消息，新情况",
+    "relation": "The foreign correspondent sent news from the flooded town.",
+    "sentence": "The foreign correspondent sent news from the flooded town.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A town street after floodwaters recede",
+      "actor": "One adult correspondent stands in a damp town street holding a plain camera and blank notebook.",
+      "props": [
+        "one correspondent",
+        "one plain camera",
+        "one blank notebook"
+      ],
+      "beats": [
+        "The correspondent observes the flooded street",
+        "The correspondent records an update",
+        "News is sent from the town"
+      ],
+      "ending": "The foreign correspondent sent news from the flooded town."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult correspondent stands in a damp town street holding a plain camera and blank notebook. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2036.webp"
+  },
+  {
+    "id": "kyc-2037",
+    "word": "crab",
+    "targetSense": "蟹",
+    "anchor": "sand",
+    "anchorMeaning": "沙，沙子",
+    "relation": "A crab sidestepped across the wet sand.",
+    "sentence": "A crab sidestepped across the wet sand.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet beach at low tide",
+      "actor": "One crab moves sideways across smooth wet sand.",
+      "props": [
+        "one crab",
+        "wet sand",
+        "one quiet beach"
+      ],
+      "beats": [
+        "The crab pauses at the water",
+        "It sidesteps across the sand",
+        "It continues along the shore"
+      ],
+      "ending": "A crab sidestepped across the wet sand."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One crab moves sideways across smooth wet sand. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2037.webp"
+  },
+  {
+    "id": "kyc-2038",
+    "word": "ditch",
+    "targetSense": "沟渠、抛弃",
+    "anchor": "field",
+    "anchorMeaning": "田地，田野",
+    "relation": "The farmer dug a ditch beside the field to carry rainwater away.",
+    "sentence": "The farmer dug a ditch beside the field to carry rainwater away.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A farm field after rain",
+      "actor": "One farmer digs a narrow ditch beside a cultivated field.",
+      "props": [
+        "one farmer",
+        "one narrow ditch",
+        "one field"
+      ],
+      "beats": [
+        "Rain falls on the field",
+        "The farmer digs a channel",
+        "Water runs away through the ditch"
+      ],
+      "ending": "The farmer dug a ditch beside the field to carry rainwater away."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One farmer digs a narrow ditch beside a cultivated field. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2038.webp"
+  },
+  {
+    "id": "kyc-2039",
+    "word": "indignant",
+    "targetSense": "愤慨的",
+    "anchor": "friend",
+    "anchorMeaning": "朋友，友人",
+    "relation": "She felt indignant when her friend took credit for the work.",
+    "sentence": "She felt indignant when her friend took credit for the work.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain work table",
+      "actor": "Exactly two adult friends stand beside blank papers as one claims credit and the other looks indignant.",
+      "props": [
+        "two adult friends",
+        "blank papers",
+        "one plain work table"
+      ],
+      "beats": [
+        "They finish a task",
+        "One friend claims the work",
+        "The other feels indignant"
+      ],
+      "ending": "She felt indignant when her friend took credit for the work."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two adult friends stand beside blank papers as one claims credit and the other looks indignant. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2039.webp"
+  },
+  {
+    "id": "kyc-2040",
+    "word": "innumerable",
+    "targetSense": "无数的",
+    "anchor": "star",
+    "anchorMeaning": "星，恒星",
+    "relation": "One bright star shone among innumerable others in the clear night sky.",
+    "sentence": "One bright star shone among innumerable others in the clear night sky.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clear open night sky",
+      "actor": "A vast night sky filled with countless stars above a dark hill.",
+      "props": [
+        "many bright stars",
+        "one night sky",
+        "one dark hill"
+      ],
+      "beats": [
+        "The sun sets",
+        "Stars appear across the sky",
+        "One bright star shines among innumerable others"
+      ],
+      "ending": "One bright star shone among innumerable others in the clear night sky."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "A vast night sky filled with countless stars above a dark hill. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2040.webp"
+  },
+  {
+    "id": "kyc-2041",
+    "word": "irrespective",
+    "targetSense": "不考虑的",
+    "anchor": "rain",
+    "anchorMeaning": "雨，雨水",
+    "relation": "Irrespective of the rain, the boat continued toward shore.",
+    "sentence": "Irrespective of the rain, the boat continued toward shore.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A gray coast during steady rain",
+      "actor": "One small boat continues calmly toward shore despite steady rain.",
+      "props": [
+        "one small boat",
+        "steady rain",
+        "one coast"
+      ],
+      "beats": [
+        "Rain begins to fall",
+        "The boat keeps moving",
+        "The boat reaches toward shore regardless"
+      ],
+      "ending": "Irrespective of the rain, the boat continued toward shore."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One small boat continues calmly toward shore despite steady rain. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2041.webp"
+  },
+  {
+    "id": "kyc-2042",
+    "word": "irrigate",
+    "targetSense": "灌溉",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "The farmer used water from a hose to irrigate the dry rows.",
+    "sentence": "The farmer used water from a hose to irrigate the dry rows.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A dry vegetable field",
+      "actor": "One farmer directs water along dry rows of young plants using a plain hose.",
+      "props": [
+        "one farmer",
+        "one plain hose",
+        "dry crop rows"
+      ],
+      "beats": [
+        "The rows become dry",
+        "The farmer turns on the hose",
+        "Water reaches the plants"
+      ],
+      "ending": "The farmer used water from a hose to irrigate the dry rows."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One farmer directs water along dry rows of young plants using a plain hose. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2042.webp"
+  },
+  {
+    "id": "kyc-2043",
+    "word": "magnitude",
+    "targetSense": "大小",
+    "anchor": "mountain",
+    "anchorMeaning": "山，高山",
+    "relation": "The sheer magnitude of the mountain made the cabin look tiny.",
+    "sentence": "The sheer magnitude of the mountain made the cabin look tiny.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A valley with one towering mountain",
+      "actor": "One enormous mountain rises behind one tiny cabin, showing its great size.",
+      "props": [
+        "one towering mountain",
+        "one tiny cabin",
+        "one valley"
+      ],
+      "beats": [
+        "The mountain fills the view",
+        "The cabin appears very small",
+        "The mountain's magnitude is clear"
+      ],
+      "ending": "The sheer magnitude of the mountain made the cabin look tiny."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One enormous mountain rises behind one tiny cabin, showing its great size. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2043.webp"
+  },
+  {
+    "id": "kyc-2044",
+    "word": "maid",
+    "targetSense": "侍女",
+    "anchor": "bed",
+    "anchorMeaning": "床，床铺，床位",
+    "relation": "The maid tidied the guest bed before sunrise.",
+    "sentence": "The maid tidied the guest bed before sunrise.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet guest bedroom before sunrise",
+      "actor": "One adult maid smooths the cover of one guest bed in a calm room.",
+      "props": [
+        "one maid",
+        "one guest bed",
+        "one plain bedcover"
+      ],
+      "beats": [
+        "The maid enters the room",
+        "She smooths the cover",
+        "The bed is tidy before sunrise"
+      ],
+      "ending": "The maid tidied the guest bed before sunrise."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult maid smooths the cover of one guest bed in a calm room. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2044.webp"
+  },
+  {
+    "id": "kyc-2045",
+    "word": "mercury",
+    "targetSense": "水银",
+    "anchor": "glass",
+    "anchorMeaning": "玻璃",
+    "relation": "The mercury in the glass thermometer rose as the room warmed.",
+    "sentence": "The mercury in the glass thermometer rose as the room warmed.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm indoor windowsill",
+      "actor": "Close view of one old glass thermometer with a silver mercury line rising; no scale marks or numbers.",
+      "props": [
+        "one glass thermometer",
+        "one silver mercury line",
+        "one warm windowsill"
+      ],
+      "beats": [
+        "The room warms",
+        "The mercury rises inside the glass",
+        "The level moves upward"
+      ],
+      "ending": "The mercury in the glass thermometer rose as the room warmed."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Close view of one old glass thermometer with a silver mercury line rising; no scale marks or numbers. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2045.webp"
+  },
+  {
+    "id": "kyc-2046",
+    "word": "misunderstand",
+    "targetSense": "误解",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "If I misunderstand the map, I may take the wrong path.",
+    "sentence": "If I misunderstand the map, I may take the wrong path.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet trail junction",
+      "actor": "One traveler studies a blank picture map and starts down the wrong path.",
+      "props": [
+        "one traveler",
+        "one blank picture map",
+        "two trail paths"
+      ],
+      "beats": [
+        "The traveler studies the map",
+        "The traveler misunderstands it",
+        "The traveler walks along the wrong path"
+      ],
+      "ending": "If I misunderstand the map, I may take the wrong path."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One traveler studies a blank picture map and starts down the wrong path. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2046.webp"
+  },
+  {
+    "id": "kyc-2047",
+    "word": "nucleus",
+    "targetSense": "核",
+    "anchor": "cell",
+    "anchorMeaning": "细胞",
+    "relation": "The nucleus sits at the center of every cell.",
+    "sentence": "The nucleus sits at the center of every cell.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple biology classroom",
+      "actor": "One large plain cell model shows a distinct central nucleus with no labels or arrows.",
+      "props": [
+        "one cell model",
+        "one central nucleus",
+        "one plain tabletop"
+      ],
+      "beats": [
+        "The cell is shown",
+        "The nucleus is at its center",
+        "The central part is clearly visible"
+      ],
+      "ending": "The nucleus sits at the center of every cell."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One large plain cell model shows a distinct central nucleus with no labels or arrows. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2047.webp"
+  },
+  {
+    "id": "kyc-2048",
+    "word": "pinch",
+    "targetSense": "捏、一撮",
+    "anchor": "salt",
+    "anchorMeaning": "盐，食盐（=common salt）",
+    "relation": "She added a pinch of salt to the soup.",
+    "sentence": "She added a pinch of salt to the soup.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A home kitchen stove",
+      "actor": "One cook adds a small pinch of salt from their fingers into one soup pot.",
+      "props": [
+        "one cook",
+        "one pinch of salt",
+        "one soup pot"
+      ],
+      "beats": [
+        "The soup simmers",
+        "The cook takes a small pinch",
+        "The salt falls into the pot"
+      ],
+      "ending": "She added a pinch of salt to the soup."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One cook adds a small pinch of salt from their fingers into one soup pot. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2048.webp"
+  },
+  {
+    "id": "kyc-2049",
+    "word": "plea",
+    "targetSense": "恳求、抗辩；借口",
+    "anchor": "help",
+    "anchorMeaning": "帮助，援助",
+    "relation": "His plea for help brought a neighbor to the door.",
+    "sentence": "His plea for help brought a neighbor to the door.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet home doorway",
+      "actor": "One adult at the doorway calls out while one neighbor arrives to help.",
+      "props": [
+        "two adults",
+        "one home doorway",
+        "one plain door"
+      ],
+      "beats": [
+        "The person makes a plea",
+        "The neighbor hears the call",
+        "The neighbor comes to help"
+      ],
+      "ending": "His plea for help brought a neighbor to the door."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult at the doorway calls out while one neighbor arrives to help. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2049.webp"
+  },
+  {
+    "id": "kyc-2050",
+    "word": "puppet",
+    "targetSense": "木偶",
+    "anchor": "string",
+    "anchorMeaning": "线，细绳，带子",
+    "relation": "The child pulled each string to make a wooden puppet dance on a small stage.",
+    "sentence": "The child pulled each string to make a wooden puppet dance on a small stage.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple puppet theater",
+      "actor": "One child holds strings that make one wooden puppet dance on a plain small stage.",
+      "props": [
+        "one child",
+        "one wooden puppet",
+        "plain puppet strings"
+      ],
+      "beats": [
+        "The child lifts the strings",
+        "The puppet rises",
+        "The puppet dances on stage"
+      ],
+      "ending": "The child pulled each string to make a wooden puppet dance on a small stage."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One child holds strings that make one wooden puppet dance on a plain small stage. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2050.webp"
+  },
+  {
+    "id": "kyc-2051",
+    "word": "reservoir",
+    "targetSense": "水库",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "The reservoir stored water for the village during the dry summer.",
+    "sentence": "The reservoir stored water for the village during the dry summer.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad reservoir above a village",
+      "actor": "One large reservoir lies behind a plain dam above a small village.",
+      "props": [
+        "one reservoir",
+        "one plain dam",
+        "one small village"
+      ],
+      "beats": [
+        "The reservoir fills with water",
+        "The dam holds it back",
+        "The village can use the stored water"
+      ],
+      "ending": "The reservoir stored water for the village during the dry summer."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One large reservoir lies behind a plain dam above a small village. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2051.webp"
+  },
+  {
+    "id": "kyc-2052",
+    "word": "screw",
+    "targetSense": "螺丝、螺钉",
+    "anchor": "tool",
+    "anchorMeaning": "（尤指手用）工具",
+    "relation": "He used a tool to turn the screw that held the shelf firmly against the wall.",
+    "sentence": "He used a tool to turn the screw that held the shelf firmly against the wall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple workshop wall",
+      "actor": "Close view of one hand using a plain screwdriver to tighten one screw into a shelf bracket.",
+      "props": [
+        "one screw",
+        "one plain shelf",
+        "one plain screwdriver"
+      ],
+      "beats": [
+        "The shelf loosens",
+        "The screw is tightened",
+        "The shelf stays firmly on the wall"
+      ],
+      "ending": "He used a tool to turn the screw that held the shelf firmly against the wall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Close view of one hand using a plain screwdriver to tighten one screw into a shelf bracket. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2052.webp"
+  },
+  {
+    "id": "kyc-2053",
+    "word": "stern",
+    "targetSense": "船尾、严厉的",
+    "anchor": "boat",
+    "anchorMeaning": "小船",
+    "relation": "The rope was tied to the stern of the boat.",
+    "sentence": "The rope was tied to the stern of the boat.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet dock",
+      "actor": "A small rowboat is viewed from directly behind its broad, flat rear transom. A small rudder is clearly mounted on this stern, and a plain rope is tied to a stern cleat at the dock; the pointed bow extends away into the water.",
+      "props": [
+        "one small boat",
+        "one plain rope",
+        "one quiet dock"
+      ],
+      "beats": [
+        "The boat reaches the dock",
+        "The rope is brought to the rear",
+        "The rope is tied to the stern"
+      ],
+      "ending": "The rope was tied to the stern of the boat."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Use a rear three-quarter view of a small wooden rowboat: the broad flat transom at the back must face the viewer, with both rear corners and a small rudder clearly visible. The pointed bow must extend away into the water. Tie a plain rope directly to a cleat on the flat stern/transom beside the dock. The boat stern must be unmistakable; do not show a pointed end facing the viewer, and do not tie the rope to the bow or only to a dock post. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2053.webp"
+  },
+  {
+    "id": "kyc-2054",
+    "word": "stiff",
+    "targetSense": "硬的",
+    "anchor": "paper",
+    "anchorMeaning": "纸",
+    "relation": "The stiff paper would not bend when he folded it.",
+    "sentence": "The stiff paper would not bend when he folded it.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain work table",
+      "actor": "One adult tries to fold one thick stiff sheet of paper, but it barely bends.",
+      "props": [
+        "one adult",
+        "one stiff sheet of paper",
+        "one plain table"
+      ],
+      "beats": [
+        "The adult lifts the paper",
+        "The adult tries to fold it",
+        "The stiff paper resists bending"
+      ],
+      "ending": "The stiff paper would not bend when he folded it."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult tries to fold one thick stiff sheet of paper, but it barely bends. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2054.webp"
+  },
+  {
+    "id": "kyc-2055",
+    "word": "swamp",
+    "targetSense": "沼泽",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "The hikers crossed a swamp full of shallow water and reeds.",
+    "sentence": "The hikers crossed a swamp full of shallow water and reeds.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A green marshland",
+      "actor": "Exactly two hikers step carefully through shallow swamp water among reeds.",
+      "props": [
+        "two hikers",
+        "shallow water",
+        "tall reeds"
+      ],
+      "beats": [
+        "The hikers reach the marsh",
+        "They move carefully through water",
+        "They cross the swamp"
+      ],
+      "ending": "The hikers crossed a swamp full of shallow water and reeds."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two hikers step carefully through shallow swamp water among reeds. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2055.webp"
+  },
+  {
+    "id": "kyc-2056",
+    "word": "tease",
+    "targetSense": "取笑",
+    "anchor": "hat",
+    "anchorMeaning": "（常指带檐的）帽子",
+    "relation": "Her brother will tease her gently about the muddy hat.",
+    "sentence": "Her brother will tease her gently about the muddy hat.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny garden path",
+      "actor": "Exactly two siblings smile as one gently teases the other about a muddy plain hat.",
+      "props": [
+        "two siblings",
+        "one muddy hat",
+        "one garden path"
+      ],
+      "beats": [
+        "The hat gets muddy",
+        "The brother makes a gentle joke",
+        "Both siblings smile"
+      ],
+      "ending": "Her brother will tease her gently about the muddy hat."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "Exactly two siblings smile as one gently teases the other about a muddy plain hat. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2056.webp"
+  },
+  {
+    "id": "kyc-2057",
+    "word": "tug",
+    "targetSense": "拖船、拖",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "The dog gave the rope a strong tug.",
+    "sentence": "The dog gave the rope a strong tug.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy yard",
+      "actor": "One playful dog braces its paws and gives one plain rope a strong pull.",
+      "props": [
+        "one dog",
+        "one plain rope",
+        "one grassy yard"
+      ],
+      "beats": [
+        "The dog grabs the rope",
+        "The dog pulls hard",
+        "The rope moves with a tug"
+      ],
+      "ending": "The dog gave the rope a strong tug."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One playful dog braces its paws and gives one plain rope a strong pull. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2057.webp"
+  },
+  {
+    "id": "kyc-2058",
+    "word": "ventilate",
+    "targetSense": "通风",
+    "anchor": "window",
+    "anchorMeaning": "窗，窗玻璃",
+    "relation": "They opened the window to ventilate the warm kitchen.",
+    "sentence": "They opened the window to ventilate the warm kitchen.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm home kitchen",
+      "actor": "One adult opens one plain kitchen window; a simple curtain lifts inward in the fresh breeze.",
+      "props": [
+        "one adult",
+        "one open window",
+        "one warm kitchen"
+      ],
+      "beats": [
+        "The kitchen feels stuffy",
+        "The adult opens the window",
+        "Fresh air moves through the room"
+      ],
+      "ending": "They opened the window to ventilate the warm kitchen."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult opens a plain kitchen window. Show fresh air only through a light curtain gently lifting into the room and soft daylight; do not draw airflow lines, arrows, swirls, icons, or motion symbols. Keep the curtain simple and blank. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2058.webp"
+  },
+  {
+    "id": "kyc-2059",
+    "word": "zeal",
+    "targetSense": "热情",
+    "anchor": "garden",
+    "anchorMeaning": "花园，菜园，果园",
+    "relation": "Her zeal to tend the garden kept her working until sunset.",
+    "sentence": "Her zeal to tend the garden kept her working until sunset.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A flower garden at sunset",
+      "actor": "One adult gardener works happily among flowers as the sun sets.",
+      "props": [
+        "one enthusiastic gardener",
+        "one flower garden",
+        "one setting sun"
+      ],
+      "beats": [
+        "The gardener begins early",
+        "She keeps tending the flowers",
+        "She works until sunset"
+      ],
+      "ending": "Her zeal to tend the garden kept her working until sunset."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One adult gardener works happily among flowers as the sun sets. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2059.webp"
+  },
+  {
+    "id": "kyc-2060",
+    "word": "analytic",
+    "targetSense": "分析的",
+    "anchor": "puzzle",
+    "anchorMeaning": "使困惑，使迷惑",
+    "relation": "His analytic mind helped him solve the puzzle one piece at a time.",
+    "sentence": "His analytic mind helped him solve the puzzle one piece at a time.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet study table",
+      "actor": "One person carefully sorts plain puzzle pieces into small groups and completes the puzzle step by step.",
+      "props": [
+        "one person",
+        "one plain puzzle",
+        "one plain table"
+      ],
+      "beats": [
+        "The person studies the pieces",
+        "They sort them methodically",
+        "The puzzle is solved piece by piece"
+      ],
+      "ending": "His analytic mind helped him solve the puzzle one piece at a time."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation; it reads clearly and contains the target and anchor."
+    },
+    "sentenceStatus": "approved",
+    "artDirection": "One person carefully sorts plain puzzle pieces into small groups and completes the puzzle step by step. No text, letters, numbers, signs, labels, logos, symbols, or watermarks.",
+    "imageFile": "kyc-2060.webp"
+  }
+]

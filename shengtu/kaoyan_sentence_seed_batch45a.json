@@ -1,0 +1,942 @@
+[
+  {
+    "id": "kyc-1761",
+    "serial": 4298,
+    "frequency": 8,
+    "word": "proficiency",
+    "targetSense": "熟练",
+    "alt": "",
+    "anchor": "swimming",
+    "anchorMeaning": "游泳",
+    "relation": "她游得熟练流畅，教练看出她的 proficiency。",
+    "sentence": "Her proficiency in swimming impressed the coach.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet indoor swimming pool",
+      "actor": "One confident swimmer moves smoothly through the pool while one coach watches from the edge.",
+      "props": [
+        "one swimmer",
+        "one swimming pool",
+        "one coach"
+      ],
+      "beats": [
+        "The swimmer enters the pool",
+        "She swims with smooth practiced strokes",
+        "The coach admires her proficiency"
+      ],
+      "ending": "One swimmer shows proficiency with smooth strokes."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One swimmer glides smoothly through one pool as one coach watches. Clear practiced control and confidence. No extra swimmers, writing, signs, logos, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1762",
+    "serial": 4299,
+    "frequency": 8,
+    "word": "rumor",
+    "targetSense": "传闻",
+    "alt": "rumour",
+    "anchor": "secret",
+    "anchorMeaning": "秘密",
+    "relation": "两个邻居低声分享一个秘密，传闻随之 spread，表现 rumor。",
+    "sentence": "A rumor spread as two neighbors whispered a secret by the fence.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet neighborhood path beside a plain wooden fence",
+      "actor": "Exactly two neighbors lean close and whisper a secret to each other.",
+      "props": [
+        "two neighbors",
+        "one wooden fence",
+        "one quiet path"
+      ],
+      "beats": [
+        "The neighbors meet beside the fence",
+        "One neighbor whispers a secret",
+        "The rumor begins to spread between them"
+      ],
+      "ending": "Two neighbors whisper a secret beside one fence."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two neighbors quietly whisper beside one plain wooden fence. Keep the scene gentle and readable. No speech bubbles, sound symbols, writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1763",
+    "serial": 4301,
+    "frequency": 8,
+    "word": "sober",
+    "targetSense": "清醒",
+    "alt": "",
+    "anchor": "car",
+    "anchorMeaning": "汽车",
+    "relation": "清醒的司机先喝水，再准备开车回家，表现 sober。",
+    "sentence": "The sober driver chose water before taking the car home.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm rest stop beside one parked car",
+      "actor": "One alert driver calmly holds a glass of water beside the parked car before driving home.",
+      "props": [
+        "one driver",
+        "one car",
+        "one glass of water"
+      ],
+      "beats": [
+        "The driver pauses beside the car",
+        "The alert driver chooses water",
+        "The sober driver prepares to go home safely"
+      ],
+      "ending": "One sober driver chooses water before taking the car home."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One calm, alert driver holds one glass of water beside one parked car. No alcohol, labels, keys with writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1764",
+    "serial": 4302,
+    "frequency": 8,
+    "word": "stall",
+    "targetSense": "货摊、失速；拖延",
+    "alt": "",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "大门旁的小货摊摆着新鲜梨子，突出 stall 的摊位义。",
+    "sentence": "A wooden stall beside the gate sold fresh pears.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple outdoor market beside one wooden gate",
+      "actor": "One small wooden stall displays fresh pears beside the gate.",
+      "props": [
+        "one wooden stall",
+        "one wooden gate",
+        "fresh pears"
+      ],
+      "beats": [
+        "The stall is set up beside the gate",
+        "Fresh pears are arranged on the stall",
+        "The stall sells pears to passersby"
+      ],
+      "ending": "Fresh pears sit on one stall beside one gate."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A small wooden market stall beside a plain wooden gate, with a neat display of fresh pears. No people, price tags, signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1765",
+    "serial": 4303,
+    "frequency": 8,
+    "word": "tomb",
+    "targetSense": "坟墓",
+    "alt": "",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "石墓位于山坡古树下，tomb 与树的位置关系清楚。",
+    "sentence": "A stone tomb rested beneath the hill’s oldest tree.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A peaceful grassy hillside beneath one old tree",
+      "actor": "One simple stone tomb rests beneath the broad branches of the old tree.",
+      "props": [
+        "one stone tomb",
+        "one old tree",
+        "one grassy hill"
+      ],
+      "beats": [
+        "The tree stands on the quiet hillside",
+        "The stone tomb rests below its branches",
+        "The tomb remains still beneath the tree"
+      ],
+      "ending": "One stone tomb rests beneath one old tree on a hill."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A small respectful stone tomb under one old tree on a quiet grassy hillside. No people, names, inscriptions, crosses, symbols, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1766",
+    "serial": 4304,
+    "frequency": 8,
+    "word": "tropic",
+    "targetSense": "热带",
+    "alt": "",
+    "anchor": "palm",
+    "anchorMeaning": "棕榈树",
+    "relation": "棕榈树和小屋处在热带烈日下，表现 tropic 的热带义。",
+    "sentence": "A palm tree shaded a hut beneath the tropic sun.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A warm tropical island shore",
+      "actor": "One palm tree casts shade over one small hut beneath the bright sun.",
+      "props": [
+        "one palm tree",
+        "one small hut",
+        "one bright sun"
+      ],
+      "beats": [
+        "The sun shines over the shore",
+        "The palm tree bends above the hut",
+        "The hut rests in the palm’s shade"
+      ],
+      "ending": "One palm tree shades one hut beneath the tropic sun."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A single palm tree shades a small simple hut under a warm bright sun on an island shore. No people, symbols, signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1767",
+    "serial": 4305,
+    "frequency": 8,
+    "word": "underneath",
+    "targetSense": "在下面",
+    "alt": "",
+    "anchor": "table",
+    "anchorMeaning": "桌子",
+    "relation": "小猫蜷在木桌下面，清楚表现 underneath。",
+    "sentence": "The kitten curled underneath the wooden table.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A cozy simple kitchen with one wooden table",
+      "actor": "One kitten curls up underneath the table.",
+      "props": [
+        "one kitten",
+        "one wooden table",
+        "one small rug"
+      ],
+      "beats": [
+        "The kitten approaches the table",
+        "The kitten slips underneath it",
+        "The kitten curls up on the rug below"
+      ],
+      "ending": "One kitten curls underneath one wooden table."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One small kitten curled clearly below a simple wooden table, partly resting on a small rug. No extra cats, letters, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1768",
+    "serial": 4307,
+    "frequency": 8,
+    "word": "articulate",
+    "targetSense": "善于表达的",
+    "alt": "",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "表达清晰的向导向旅行者解释地图，表现 articulate。",
+    "sentence": "The articulate guide explained the map to one traveler.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet visitor center with a plain wall",
+      "actor": "One articulate guide clearly explains a blank map to one traveler.",
+      "props": [
+        "one guide",
+        "one traveler",
+        "one blank map"
+      ],
+      "beats": [
+        "The guide opens the map",
+        "The guide speaks clearly and gestures toward it",
+        "The traveler listens and understands"
+      ],
+      "ending": "One articulate guide explains a map to one traveler."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly one clear-speaking guide explains one completely blank map to exactly one traveler. No labels, markings, writing, speech bubbles, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1769",
+    "serial": 4310,
+    "frequency": 8,
+    "word": "blast",
+    "targetSense": "爆炸",
+    "alt": "",
+    "anchor": "wall",
+    "anchorMeaning": "墙",
+    "relation": "一声爆炸把旧石墙震裂，表现 blast。",
+    "sentence": "A blast broke through the old stone wall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A distant empty quarry with one old stone wall",
+      "actor": "A sudden controlled blast breaks through the old stone wall and sends a small cloud of dust outward.",
+      "props": [
+        "one old stone wall",
+        "one blast cloud",
+        "a few loose stones"
+      ],
+      "beats": [
+        "The old wall stands in the empty quarry",
+        "A sudden blast strikes the wall",
+        "Dust and loose stones scatter as the wall breaks"
+      ],
+      "ending": "A blast breaks through one old stone wall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "记忆句使用 blast 表示爆炸，语法自然、读起来清楚；墙为熟悉锚点，画面能直接表现爆炸震裂石墙。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One sudden controlled blast breaks a small old stone wall in a distant empty quarry, with a soft cloud of dust and a few loose stones. No people, injuries, flames, weapons, writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1770",
+    "serial": 4313,
+    "frequency": 8,
+    "word": "characterise",
+    "targetSense": "以…为特征",
+    "alt": "characterize",
+    "anchor": "tent",
+    "anchorMeaning": "帐篷",
+    "relation": "鲜艳条纹是小马戏帐篷最显眼的特征，表现 characterise。",
+    "sentence": "Bright stripes characterise the little circus tent.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small open fairground with no decorations",
+      "actor": "One little circus tent is defined by broad bright stripes; its top is bare and unadorned.",
+      "props": [
+        "one little circus tent",
+        "bright stripes",
+        "one open fairground"
+      ],
+      "beats": [
+        "A plain tent stands in the open field",
+        "Broad bright stripes cover its canvas",
+        "The stripes characterise the tent"
+      ],
+      "ending": "Bright stripes characterise one bare-topped circus tent."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One small circus tent with broad bright stripes and a completely bare top. Absolutely no flag, pole, pennant, bunting, banner, sign, picture, logo, writing, or text. Keep the field plain and the established hand-painted style.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1771",
+    "serial": 4314,
+    "frequency": 8,
+    "word": "clumsy",
+    "targetSense": "笨拙的",
+    "alt": "",
+    "anchor": "tray",
+    "anchorMeaning": "托盘",
+    "relation": "笨拙的服务员不慎把杯子从托盘上碰落，表现 clumsy。",
+    "sentence": "The clumsy waiter dropped a tray of cups.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A simple café with a blank wall and a plain counter",
+      "actor": "One clumsy waiter stumbles as a tray tips and a few cups tumble harmlessly.",
+      "props": [
+        "one waiter",
+        "one tray",
+        "cups"
+      ],
+      "beats": [
+        "The waiter carries the tray",
+        "The waiter stumbles awkwardly",
+        "The cups tumble from the tilted tray"
+      ],
+      "ending": "One clumsy waiter drops a tray of cups."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One awkward waiter loses balance and drops one tray with a few cups in a plain café. Blank walls only: no menu, sign, framed picture, logo, label, letters, or text. No injury.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1772",
+    "serial": 4315,
+    "frequency": 8,
+    "word": "concede",
+    "targetSense": "承认",
+    "alt": "",
+    "anchor": "race",
+    "anchorMeaning": "比赛",
+    "relation": "妹妹先到终点后，男孩承认自己输了，表现 concede。",
+    "sentence": "He had to concede defeat after his sister won the race.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A grassy race finish in a quiet park",
+      "actor": "One sister stands clearly beyond the finish line after winning while her brother offers a handshake and nods to accept her victory.",
+      "props": [
+        "one boy",
+        "one sister",
+        "one race finish line"
+      ],
+      "beats": [
+        "The sister crosses the finish first",
+        "The brother recognizes that she won",
+        "He offers a respectful handshake and concedes defeat"
+      ],
+      "ending": "The brother accepts that his sister won the race."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two children at a plain ground finish line. The sister is clearly past the line and celebrating her win; her brother faces her with a modest disappointed smile, nods, and offers a handshake to accept her victory. No flags, medals, signs, writing, speech bubbles, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1773",
+    "serial": 4316,
+    "frequency": 8,
+    "word": "enclose",
+    "targetSense": "附上",
+    "alt": "",
+    "anchor": "letter",
+    "anchorMeaning": "信件",
+    "relation": "把收据装入信封随信附上，表现 enclose。",
+    "sentence": "Please enclose the receipt with your letter.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A tidy writing desk with no visible writing",
+      "actor": "One person places a blank receipt inside an envelope with a blank letter.",
+      "props": [
+        "one blank receipt",
+        "one envelope",
+        "one blank letter"
+      ],
+      "beats": [
+        "The person picks up the receipt",
+        "The receipt is placed inside the envelope",
+        "The envelope is prepared with the letter"
+      ],
+      "ending": "The receipt is enclosed with the letter."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One hand places one completely blank receipt into one plain envelope beside one blank letter. Absolutely no handwriting, marks, stamps, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1774",
+    "serial": 4317,
+    "frequency": 8,
+    "word": "envisage",
+    "targetSense": "想像",
+    "alt": "",
+    "anchor": "garden",
+    "anchorMeaning": "花园",
+    "relation": "她从空地想象出未来花园的样子，表现 envisage。",
+    "sentence": "She could envisage a garden on the empty plot.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet empty garden plot in soft daylight",
+      "actor": "One thoughtful woman surveys the empty plot while holding one small seedling, imagining a garden there.",
+      "props": [
+        "one woman",
+        "one empty plot",
+        "one small seedling"
+      ],
+      "beats": [
+        "The woman looks over the bare plot",
+        "She studies the seedling thoughtfully",
+        "She envisages a garden growing there"
+      ],
+      "ending": "One woman envisages a garden on the empty plot."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One thoughtful woman stands on a bare garden plot holding one small seedling and looking toward the empty ground. Show a quiet moment of imagining without thought bubbles, extra scenes, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1775",
+    "serial": 4318,
+    "frequency": 8,
+    "word": "isolate",
+    "targetSense": "隔离",
+    "alt": "",
+    "anchor": "flock",
+    "anchorMeaning": "羊群",
+    "relation": "农夫把一只小羊从羊群旁边单独带到一处照料，表现 isolate。",
+    "sentence": "The farmer needs to isolate one lamb from the flock for care.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm pasture beside a small sheep pen",
+      "actor": "One farmer gently guides one lamb apart from the flock for individual care.",
+      "props": [
+        "one farmer",
+        "one lamb",
+        "one flock"
+      ],
+      "beats": [
+        "The lamb stands with the flock",
+        "The farmer gently leads it aside",
+        "The lamb is cared for separately"
+      ],
+      "ending": "The farmer isolates one lamb from the flock."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One farmer gently guides a single lamb a short distance away from a small flock in a calm pasture. No distress, injury, writing, signs, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1776",
+    "serial": 4319,
+    "frequency": 8,
+    "word": "oriental",
+    "targetSense": "东方的",
+    "alt": "",
+    "anchor": "sun",
+    "anchorMeaning": "太阳",
+    "relation": "海岸朝向东方，日出时被阳光照亮，表现 oriental 的东方义。",
+    "sentence": "The island’s oriental coast glowed as the sun rose.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet island coastline at sunrise",
+      "actor": "The island’s eastern coast faces the rising sun across a calm ocean.",
+      "props": [
+        "one island coast",
+        "one rising sun",
+        "one calm ocean"
+      ],
+      "beats": [
+        "The horizon brightens at dawn",
+        "The sun rises over the ocean",
+        "The eastern coast glows in the new light"
+      ],
+      "ending": "The island’s oriental coast glows at sunrise."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A peaceful island coastline facing the sunrise over a calm ocean, emphasizing the eastern shore through the dawn light. No maps, labels, symbols, people, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1777",
+    "serial": 4320,
+    "frequency": 8,
+    "word": "pasture",
+    "targetSense": "牧场",
+    "alt": "",
+    "anchor": "cows",
+    "anchorMeaning": "奶牛",
+    "relation": "奶牛在绿草地上吃草，表现 pasture。",
+    "sentence": "The cows grazed quietly in the green pasture.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A broad green pasture under a gentle sky",
+      "actor": "A few cows graze quietly across one open pasture.",
+      "props": [
+        "cows",
+        "green pasture",
+        "one simple fence"
+      ],
+      "beats": [
+        "The cows enter the grassy field",
+        "They graze among the green grass",
+        "The pasture provides room for grazing"
+      ],
+      "ending": "Cows graze quietly in one green pasture."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "A small group of cows grazing peacefully in one open green pasture beside a simple fence. No extra farm animals, signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1778",
+    "serial": 4321,
+    "frequency": 8,
+    "word": "raid",
+    "targetSense": "袭击",
+    "alt": "",
+    "anchor": "basket",
+    "anchorMeaning": "篮子",
+    "relation": "浣熊趁清晨突然翻找野餐篮，表现 raid。",
+    "sentence": "At dawn, raccoons raid the picnic basket.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet picnic clearing at dawn",
+      "actor": "Two raccoons sneak up and rummage through one picnic basket.",
+      "props": [
+        "two raccoons",
+        "one picnic basket",
+        "one picnic blanket"
+      ],
+      "beats": [
+        "The raccoons approach the picnic blanket",
+        "They open and raid the basket",
+        "Food is scattered across the blanket"
+      ],
+      "ending": "Two raccoons raid one picnic basket at dawn."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two playful raccoons rummage through one open picnic basket on one blanket at dawn. Keep it harmless and cozy. No people, writing, labels, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1779",
+    "serial": 4322,
+    "frequency": 8,
+    "word": "refuge",
+    "targetSense": "避难",
+    "alt": "",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨",
+    "relation": "徒步者躲进山洞避开暴风雨，找到 refuge。",
+    "sentence": "The hikers found refuge from the storm inside a cave.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A rocky hillside with one sheltered cave during rain",
+      "actor": "Exactly two hikers take shelter inside the cave as the storm passes outside.",
+      "props": [
+        "two hikers",
+        "one cave",
+        "one storm"
+      ],
+      "beats": [
+        "The hikers approach in the rain",
+        "They enter the sheltered cave",
+        "They find refuge from the storm"
+      ],
+      "ending": "Two hikers find refuge from the storm in one cave."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "Exactly two hikers shelter safely inside one cave while rain and wind remain outside. No injuries, extra people, signs, writing, or text.",
+    "imageError": null
+  },
+  {
+    "id": "kyc-1780",
+    "serial": 4323,
+    "frequency": 8,
+    "word": "resolute",
+    "targetSense": "坚决的",
+    "alt": "",
+    "anchor": "summit",
+    "anchorMeaning": "山顶",
+    "relation": "登山者迎着寒风继续向山顶攀登，表现 resolute。",
+    "sentence": "The resolute climber kept climbing toward the summit.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A high mountain slope on a cold windy day",
+      "actor": "One determined climber steadily ascends a bare rocky mountain toward a visible empty summit in the wind.",
+      "props": [
+        "one climber",
+        "one mountain slope",
+        "one summit"
+      ],
+      "beats": [
+        "The climber faces the steep slope",
+        "The climber presses forward through the wind",
+        "The climber continues toward the bare summit"
+      ],
+      "ending": "One resolute climber keeps climbing toward an empty summit."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "已逐句核对语法、自然度、可读性及目标词/锚点；记忆句通顺，锚点场景可清晰呈现。"
+    },
+    "sentenceStatus": "approved",
+    "imageStatus": "approved",
+    "imageQCStatus": "pass",
+    "artDirection": "One determined climber steadily ascending a bare rocky slope toward a completely empty summit. No flag, pole, banner, markers, symbols, writing, or text.",
+    "imageError": null
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "word": "whereby",
+    "targetSense": "凭借；通过",
+    "anchor": "channel",
+    "anchorMeaning": "水渠",
+    "relation": "Whereby introduces the means through which something happens.",
+    "sentence": "They dug a channel whereby rainwater could reach the garden.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A garden beside a channel",
+      "actor": "No people; a small channel carries rainwater toward a garden bed",
+      "props": [
+        "water channel",
+        "rainwater",
+        "garden bed"
+      ],
+      "beats": [
+        "Rain enters the channel",
+        "It flows along the channel",
+        "It reaches the bed"
+      ],
+      "ending": "A channel carries water to the garden"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “They dug a channel whereby rainwater could reach the garden.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "bypass",
+    "targetSense": "绕开；旁道",
+    "anchor": "road",
+    "anchorMeaning": "道路",
+    "relation": "To bypass something is to go around it rather than through it.",
+    "sentence": "The driver took a bypass road to avoid traffic in the town center.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A road approaching a town",
+      "actor": "One driver follows a quiet bypass road around a town",
+      "props": [
+        "bypass road",
+        "small car",
+        "town edge"
+      ],
+      "beats": [
+        "The car approaches the center",
+        "It turns onto the bypass",
+        "It travels around town"
+      ],
+      "ending": "A car uses a bypass road"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The driver took a bypass road to avoid traffic in the town center.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "chemist",
+    "targetSense": "化学家；药剂师",
+    "anchor": "flask",
+    "anchorMeaning": "烧瓶",
+    "relation": "A chemist studies or works with chemicals and their reactions.",
+    "sentence": "The chemist mixed two clear liquids in a glass flask.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean laboratory bench",
+      "actor": "One chemist pours two clear liquids into a glass flask",
+      "props": [
+        "glass flask",
+        "two clear liquids",
+        "plain tray"
+      ],
+      "beats": [
+        "She measures the liquids",
+        "She pours them together",
+        "She watches the mixture"
+      ],
+      "ending": "A chemist mixes liquids in a flask"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The chemist mixed two clear liquids in a glass flask.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "chunk",
+    "targetSense": "厚块；大块",
+    "anchor": "bread",
+    "anchorMeaning": "面包",
+    "relation": "A chunk is a thick or large piece of something.",
+    "sentence": "He cut a large chunk of bread for the soup.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A kitchen counter",
+      "actor": "One cook cuts a thick piece of bread beside a pot of soup",
+      "props": [
+        "loaf of bread",
+        "plain knife",
+        "pot of soup"
+      ],
+      "beats": [
+        "He holds the loaf",
+        "He cuts a large piece",
+        "He puts the chunk beside the soup"
+      ],
+      "ending": "A chunk of bread beside soup"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “He cut a large chunk of bread for the soup.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "drawback",
+    "targetSense": "缺点；不利之处",
+    "anchor": "roof",
+    "anchorMeaning": "屋顶",
+    "relation": "A drawback is a feature that makes something less useful or desirable.",
+    "sentence": "The main drawback of the cottage was its leaky roof.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small cottage during rain",
+      "actor": "One homeowner looks up at a leaking cottage roof",
+      "props": [
+        "small cottage",
+        "leaky roof",
+        "rain bucket"
+      ],
+      "beats": [
+        "Rain begins",
+        "Water drips through the roof",
+        "The homeowner notices"
+      ],
+      "ending": "A leaky roof is a drawback of the cottage"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The main drawback of the cottage was its leaky roof.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "economical",
+    "targetSense": "节约的；经济实惠的",
+    "anchor": "heater",
+    "anchorMeaning": "取暖器",
+    "relation": "Economical describes something that works well without wasting resources.",
+    "sentence": "The economical wood heater warmed the room with only one small log.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A modest living room on a cold evening",
+      "actor": "One person warms the room with a small wood-burning heater using one single log",
+      "props": [
+        "small wood-burning heater",
+        "one small log",
+        "plain chair"
+      ],
+      "beats": [
+        "He places the one log inside the heater",
+        "A small flame begins to warm the room",
+        "He relaxes in the warm room with no extra fuel"
+      ],
+      "ending": "One small log warms the room in an economical wood heater",
+      "artDirection": "Show a small wood-burning heater, not an electric heater. Exactly one log and no other fuel or wood. No readable text, numbers, or logos."
+    },
+    "artDirection": "No readable text, numbers, or logos. The heater must burn exactly one small log and be visibly wood-burning, not electric.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The economical wood heater warmed the room with only one small log.” Natural and readable; the fuel-saving feature is clear and countable."
+    }
+  },
+  {
+    "word": "ink",
+    "targetSense": "墨水",
+    "anchor": "pen",
+    "anchorMeaning": "钢笔",
+    "relation": "Ink is the colored liquid used for writing or printing.",
+    "sentence": "A drop of blue ink spilled from the pen onto the paper.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A writing desk",
+      "actor": "No people; a blue ink drop spreads from a pen onto plain paper",
+      "props": [
+        "blue ink",
+        "plain pen",
+        "blank paper"
+      ],
+      "beats": [
+        "The pen rests on the paper",
+        "A drop falls",
+        "The blue mark spreads"
+      ],
+      "ending": "Ink spills from a pen onto paper"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A drop of blue ink spilled from the pen onto the paper.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "medieval",
+    "targetSense": "中世纪的",
+    "anchor": "castle",
+    "anchorMeaning": "城堡",
+    "relation": "Medieval describes the period between ancient and modern times.",
+    "sentence": "The medieval castle stood above the stone bridge.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A hillside above a river",
+      "actor": "No people; an old stone castle rises above a stone bridge",
+      "props": [
+        "medieval castle",
+        "stone bridge",
+        "river"
+      ],
+      "beats": [
+        "The bridge crosses the river",
+        "The castle stands above it",
+        "The old structures dominate the hill"
+      ],
+      "ending": "A medieval castle stands over a bridge"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The medieval castle stood above the stone bridge.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "simplicity",
+    "targetSense": "简单；简朴",
+    "anchor": "chair",
+    "anchorMeaning": "椅子",
+    "relation": "Simplicity is the quality of being plain and uncomplicated.",
+    "sentence": "She admired the simplicity of the plain wooden chair.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A bare room",
+      "actor": "One woman looks at a plain wooden chair in an uncluttered room",
+      "props": [
+        "plain wooden chair",
+        "bare floor",
+        "blank wall"
+      ],
+      "beats": [
+        "She enters the room",
+        "She notices the chair",
+        "She admires its simple design"
+      ],
+      "ending": "A plain chair in a simple room"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She admired the simplicity of the plain wooden chair.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "superstition",
+    "targetSense": "迷信",
+    "anchor": "charm",
+    "anchorMeaning": "护身符",
+    "relation": "A superstition is a belief based on luck or supernatural ideas rather than evidence.",
+    "sentence": "The sailor kept a lucky charm because of an old superstition.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A small boat cabin",
+      "actor": "One sailor holds a simple lucky charm beside a ship window",
+      "props": [
+        "small lucky charm",
+        "wooden cabin",
+        "round window"
+      ],
+      "beats": [
+        "The sailor checks the charm",
+        "He holds it close",
+        "He keeps it for luck"
+      ],
+      "ending": "A sailor keeps a charm because of superstition"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The sailor kept a lucky charm because of an old superstition.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "triple",
+    "targetSense": "三倍的；三重的",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "Triple means consisting of three parts or being three times as much.",
+    "sentence": "The child chose a triple-layer sponge cake for the party.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small birthday table",
+      "actor": "No people; one round sponge cake has exactly three visible stacked sponge layers",
+      "props": [
+        "one sponge cake with exactly three layers",
+        "plain cake stand",
+        "small empty plate"
+      ],
+      "beats": [
+        "The cake is placed on the stand",
+        "Exactly three sponge layers are visible from the side",
+        "Cream separates the three layers"
+      ],
+      "ending": "One sponge cake with exactly three visible layers",
+      "artDirection": "Show exactly three distinct sponge layers in the single cake. No extra cake layers, tiers, slices, candles, text, or numbers."
+    },
+    "artDirection": "No text or numbers. The single sponge cake must have exactly three clearly visible layers.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The child chose a triple-layer sponge cake for the party.” The sentence is natural and readable; the next image must show the target detail clearly."
+    }
+  },
+  {
+    "word": "unfold",
+    "targetSense": "展开",
+    "anchor": "map",
+    "anchorMeaning": "地图",
+    "relation": "To unfold something is to open it from a folded state.",
+    "sentence": "She used both hands to unfold a map showing a river and road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A bright travel table with a plain blank wall behind it",
+      "actor": "One woman uses both hands to unfold a map with only a simple river and road drawn on it",
+      "props": [
+        "folded map with a river and road",
+        "wooden table",
+        "plain blank wall"
+      ],
+      "beats": [
+        "She holds the folded map",
+        "She opens it with both hands",
+        "The map lies flat with the river and road visible"
+      ],
+      "ending": "A woman unfolds a map showing a river and road",
+      "artDirection": "The map has only simple river and road lines. Do not include a compass, labels, letters, numbers, symbols, or any other map markings."
+    },
+    "artDirection": "No readable text, numbers, labels, or symbols. No compass or directional letters. Map shows only a simple river and road.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “She used both hands to unfold a map showing a river and road.” Natural and readable; the next image should omit the compass and contain no letters or labels."
+    }
+  },
+  {
+    "word": "accountant",
+    "targetSense": "会计师",
+    "anchor": "receipt",
+    "anchorMeaning": "收据",
+    "relation": "An accountant prepares and checks financial records.",
+    "sentence": "The accountant checked each receipt before preparing the report.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small office desk",
+      "actor": "One accountant sorts completely blank receipts beside a closed blank ledger",
+      "props": [
+        "blank receipts",
+        "closed blank ledger",
+        "empty paper tray"
+      ],
+      "beats": [
+        "She checks each blank receipt",
+        "She sorts the receipts into the paper tray",
+        "She closes the ledger"
+      ],
+      "ending": "An accountant sorts blank receipts beside a closed ledger",
+      "artDirection": "All receipts and the ledger must have completely blank surfaces with no writing, ruled lines, or numbers. Do not include a calculator."
+    },
+    "artDirection": "No readable text, numbers, writing, ruled lines, or logos. No calculator; receipts and ledger are blank.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Second review after image inspection: “The accountant checked each receipt before preparing the report.” Natural and readable; the next image should show blank receipts and ledger without any calculator or printed details."
+    }
+  },
+  {
+    "word": "erase",
+    "targetSense": "擦掉；抹去",
+    "anchor": "eraser",
+    "anchorMeaning": "橡皮",
+    "relation": "To erase is to remove marks or information from a surface.",
+    "sentence": "She used an eraser to erase the pencil mark from her drawing.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A child's art desk",
+      "actor": "One student rubs a pencil mark from a drawing with an eraser",
+      "props": [
+        "eraser",
+        "pencil drawing",
+        "plain paper"
+      ],
+      "beats": [
+        "The mark is visible",
+        "She rubs it with the eraser",
+        "The mark fades"
+      ],
+      "ending": "An eraser removes a pencil mark"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She used an eraser to erase the pencil mark from her drawing.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "fearful",
+    "targetSense": "害怕的；引起恐惧的",
+    "anchor": "child",
+    "anchorMeaning": "孩子",
+    "relation": "Fearful describes someone feeling afraid or something that causes fear.",
+    "sentence": "The fearful child clung to her mother during the storm.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A room during a storm",
+      "actor": "One frightened child holds her mother as rain taps the window",
+      "props": [
+        "child",
+        "mother",
+        "rainy window"
+      ],
+      "beats": [
+        "Thunder sounds outside",
+        "The child looks fearful",
+        "She clings to her mother"
+      ],
+      "ending": "A fearful child holds her mother"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The fearful child clung to her mother during the storm.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "glow",
+    "targetSense": "发光；光辉",
+    "anchor": "lantern",
+    "anchorMeaning": "灯笼",
+    "relation": "A glow is a steady soft light that shines from something.",
+    "sentence": "A warm glow came from the lantern inside the dark tent.",
+    "mode": "scene",
+    "scene": {
+      "setting": "Inside a dark tent at night",
+      "actor": "No people; a lantern casts a soft warm glow inside a tent",
+      "props": [
+        "lantern",
+        "dark tent",
+        "rolled blanket"
+      ],
+      "beats": [
+        "The lantern is lit",
+        "Warm light spreads",
+        "The blanket catches the glow"
+      ],
+      "ending": "A lantern glows inside a tent"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “A warm glow came from the lantern inside the dark tent.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "holy",
+    "targetSense": "神圣的",
+    "anchor": "shrine",
+    "anchorMeaning": "圣地",
+    "relation": "Holy describes something dedicated to or connected with religious worship.",
+    "sentence": "The pilgrims entered the holy shrine in silence.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A quiet mountain shrine",
+      "actor": "One pilgrim enters a small shrine and bows quietly",
+      "props": [
+        "small shrine",
+        "stone path",
+        "plain candle"
+      ],
+      "beats": [
+        "The pilgrim reaches the shrine",
+        "She enters in silence",
+        "She bows beside the candle"
+      ],
+      "ending": "A pilgrim enters a holy shrine"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The pilgrims entered the holy shrine in silence.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "inclusive",
+    "targetSense": "包括在内的",
+    "anchor": "breakfast",
+    "anchorMeaning": "早餐",
+    "relation": "Inclusive of means that something is included as part of a price or offer.",
+    "sentence": "The camp fee is inclusive of breakfast and lunch.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A camp dining table",
+      "actor": "No people; a meal tray shows breakfast and lunch beside a blank ticket",
+      "props": [
+        "blank camp ticket",
+        "breakfast tray",
+        "lunch bowl"
+      ],
+      "beats": [
+        "The ticket is placed by the tray",
+        "Breakfast is set out",
+        "Lunch is added"
+      ],
+      "ending": "A camp ticket includes breakfast and lunch"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The camp fee is inclusive of breakfast and lunch.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "jar",
+    "targetSense": "罐子",
+    "anchor": "buttons",
+    "anchorMeaning": "纽扣",
+    "relation": "A jar is a glass or ceramic container with a wide opening.",
+    "sentence": "She put the red buttons into a glass jar.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A craft table",
+      "actor": "One woman drops red buttons into a clear glass jar",
+      "props": [
+        "red buttons",
+        "glass jar",
+        "wooden table"
+      ],
+      "beats": [
+        "She gathers the buttons",
+        "She opens the jar",
+        "She puts them inside"
+      ],
+      "ending": "Red buttons go into a glass jar"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “She put the red buttons into a glass jar.” The anchor and target sense are clear in one drawable scene."
+    }
+  },
+  {
+    "word": "outward",
+    "targetSense": "向外的；向外",
+    "anchor": "gate",
+    "anchorMeaning": "大门",
+    "relation": "Outward describes movement or direction away from the inside or center.",
+    "sentence": "The wooden gate swung outward when he pushed it.",
+    "mode": "concept",
+    "scene": {
+      "setting": "A garden entrance",
+      "actor": "One man pushes a wooden gate so it swings away from the garden",
+      "props": [
+        "wooden gate",
+        "garden path",
+        "stone post"
+      ],
+      "beats": [
+        "The gate is closed",
+        "He pushes it",
+        "It swings outward"
+      ],
+      "ending": "A gate swings outward from the garden"
+    },
+    "artDirection": "No readable text, numbers, logos, or extra people.",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability: “The wooden gate swung outward when he pushed it.” The anchor and target sense are clear in one drawable scene."
+    }
+  }
+]

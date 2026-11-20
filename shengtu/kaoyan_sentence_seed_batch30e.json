@@ -1,0 +1,762 @@
+[
+  {
+    "word": "wit",
+    "anchor": "jester",
+    "anchorMeaning": "小丑",
+    "relation": "机智的逗趣话语是 wit 的常见表现，小丑以机智逗笑他人",
+    "sentence": "The jester used his wit to make the king laugh.",
+    "scene": {
+      "setting": "A small royal hall",
+      "actor": "One jester makes one king laugh with a clever gesture",
+      "props": [
+        "jester hat",
+        "wooden stool",
+        "plain crown"
+      ],
+      "beats": [
+        "The jester makes a playful remark",
+        "The king tries to stay serious",
+        "The king bursts into laughter"
+      ],
+      "ending": "The jester bows as the king laughs"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 机智的逗趣话语是 wit 的常见表现，小丑以机智逗笑他人 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two people; no speech bubbles, text, or symbols."
+  },
+  {
+    "word": "arithmetic",
+    "anchor": "apples",
+    "anchorMeaning": "苹果",
+    "relation": "她用算术把八个苹果平均分进两个篮子，每个篮子四个。",
+    "sentence": "She used arithmetic to divide eight apples equally, placing four in each basket.",
+    "scene": {
+      "setting": "A plain kitchen table against an empty wall",
+      "actor": "One child places exactly eight apples into two baskets, four in each",
+      "props": [
+        "exactly eight apples",
+        "two baskets",
+        "wooden table"
+      ],
+      "beats": [
+        "The child gathers exactly eight apples",
+        "She places four fully visible apples into each basket",
+        "No apples or other fruit remain elsewhere in the scene"
+      ],
+      "ending": "Two baskets each hold four apples, with no fruit outside them"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Exactly eight apples are divided four per basket; the revised framing excludes background fruit so the apple anchor and arithmetic target remain unambiguous."
+    },
+    "artDirection": "Tightly frame only the child, the table, two baskets, and exactly eight apples total, four fully visible in each basket. Use a plain empty wall behind them: no shelves, counters, plants, decorations, loose fruit, or extra apples anywhere. No written numbers, labels, or text."
+  },
+  {
+    "word": "axis",
+    "anchor": "wheel",
+    "anchorMeaning": "车轮",
+    "relation": "axis 是物体旋转所绕的中心线，车轮绕轴转动",
+    "sentence": "The wheel spun around its central axis.",
+    "scene": {
+      "setting": "A simple workshop",
+      "actor": "One mechanic watches a wheel turn around its center",
+      "props": [
+        "single wheel",
+        "central axle",
+        "wooden stand"
+      ],
+      "beats": [
+        "The mechanic sets the wheel in place",
+        "The axle holds its center",
+        "The wheel spins around the axis"
+      ],
+      "ending": "A wheel rotates around its central axle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. axis 是物体旋转所绕的中心线，车轮绕轴转动 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No labels, letters, or extra wheels."
+  },
+  {
+    "word": "brisk",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "brisk walk 指轻快迅速的步行，狗陪主人快步前进",
+    "sentence": "They took a brisk walk with the dog through the park.",
+    "scene": {
+      "setting": "A leafy park path",
+      "actor": "One woman walks quickly beside one dog",
+      "props": [
+        "dog",
+        "walking shoes",
+        "park path"
+      ],
+      "beats": [
+        "The woman starts forward",
+        "She keeps a lively pace",
+        "The dog trots beside her"
+      ],
+      "ending": "The woman and dog move briskly along the path"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. brisk walk 指轻快迅速的步行，狗陪主人快步前进 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One woman and one dog; dog has natural anatomy."
+  },
+  {
+    "word": "casualty",
+    "anchor": "ambulance",
+    "anchorMeaning": "救护车",
+    "relation": "车祸中的伤员是 casualty，救护车 ambulance 将伤员送往安全处。",
+    "sentence": "After the crash, an injured cyclist became a casualty and was helped into the ambulance.",
+    "scene": {
+      "setting": "A quiet roadside after a minor accident",
+      "actor": "One plainclothes passerby helps one injured cyclist toward a completely unmarked ambulance",
+      "props": [
+        "plain unmarked ambulance",
+        "fallen bicycle",
+        "plain medical blanket"
+      ],
+      "beats": [
+        "The bicycle rests after the crash",
+        "The passerby supports the injured cyclist",
+        "The casualty is helped toward the ambulance"
+      ],
+      "ending": "A passerby helps one cyclist beside the unmarked ambulance"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. Casualty means the injured person and ambulance is the concrete anchor; the revised scene uses a plainclothes helper and an entirely unmarked vehicle."
+    },
+    "artDirection": "Show one non-graphic casualty only. The helper wears ordinary plain clothes, not a medical uniform. Ambulance and clothing have no crosses, plus signs, badges, emblems, patches, lettering, logos, labels, or signs."
+  },
+  {
+    "word": "certainty",
+    "anchor": "lighthouse",
+    "anchorMeaning": "灯塔",
+    "relation": "灯塔让水手确定陆地就在前方，提供确定无疑的信号",
+    "sentence": "The lighthouse gave sailors certainty that land was near.",
+    "scene": {
+      "setting": "A foggy coastline",
+      "actor": "One sailor spots a lighthouse from a small boat",
+      "props": [
+        "lighthouse",
+        "small boat",
+        "coastal cliff"
+      ],
+      "beats": [
+        "Fog surrounds the boat",
+        "The lighthouse beam appears",
+        "The sailor recognizes nearby land"
+      ],
+      "ending": "A small boat faces the clear lighthouse beam"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 灯塔让水手确定陆地就在前方，提供确定无疑的信号 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One sailor only; no markings, text, or signs."
+  },
+  {
+    "word": "clause",
+    "anchor": "contract",
+    "anchorMeaning": "合同",
+    "relation": "clause 是合同中的独立条款；合同页上单独分出的区域呈现这一含义。",
+    "sentence": "She reviewed one separate clause in the contract before signing it.",
+    "scene": {
+      "setting": "A quiet office desk",
+      "actor": "One woman reviews a contract page with one separately outlined section",
+      "props": [
+        "blank contract page",
+        "fountain pen",
+        "wooden desk"
+      ],
+      "beats": [
+        "She opens the contract",
+        "Her finger pauses beside one separated section",
+        "She prepares to sign the contract"
+      ],
+      "ending": "The woman studies one outlined section on the contract page"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. The separate section represents one clause within the contract without using readable text."
+    },
+    "artDirection": "The otherwise blank contract page has one clearly separated empty rectangular section shown only with a thin outline. No readable writing, letters, numbers, marks, or signature."
+  },
+  {
+    "word": "curse",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "故事中的诅咒会给猫带来不幸或异常变化",
+    "sentence": "The witch cast a curse on the black cat.",
+    "scene": {
+      "setting": "A moonlit storybook cottage",
+      "actor": "One witch gestures toward one black cat",
+      "props": [
+        "black cat",
+        "small cauldron",
+        "moonlit window"
+      ],
+      "beats": [
+        "The witch raises her hand",
+        "A curling magical mist appears",
+        "The cat watches warily"
+      ],
+      "ending": "A black cat faces a swirl of harmless magical mist"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 故事中的诅咒会给猫带来不幸或异常变化 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One cat with natural anatomy; no symbols, letters, or text."
+  },
+  {
+    "word": "disguise",
+    "anchor": "mask",
+    "anchorMeaning": "面具",
+    "relation": "面具可改变人的外貌以伪装身份",
+    "sentence": "He wore a plain mask as a disguise at the costume party.",
+    "scene": {
+      "setting": "A simple costume room",
+      "actor": "One person tries on a plain disguise mask",
+      "props": [
+        "plain mask",
+        "coat",
+        "standing mirror"
+      ],
+      "beats": [
+        "He picks up the mask",
+        "He puts it on",
+        "His reflection looks unfamiliar"
+      ],
+      "ending": "A masked person stands before the mirror"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 面具可改变人的外貌以伪装身份 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No written marks, logos, or extra faces in mirror."
+  },
+  {
+    "word": "doorway",
+    "anchor": "cat",
+    "anchorMeaning": "猫",
+    "relation": "doorway 是门打开后可通过的入口，猫正从中走过",
+    "sentence": "The cat paused in the doorway before entering the room.",
+    "scene": {
+      "setting": "A sunlit home interior",
+      "actor": "One cat stands in an open doorway",
+      "props": [
+        "open doorway",
+        "cat",
+        "woven rug"
+      ],
+      "beats": [
+        "The cat approaches the opening",
+        "It pauses at the threshold",
+        "It steps into the room"
+      ],
+      "ending": "The cat stands framed by the doorway"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. doorway 是门打开后可通过的入口，猫正从中走过 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One cat with correct anatomy; no text or signs."
+  },
+  {
+    "word": "faithful",
+    "anchor": "dog",
+    "anchorMeaning": "狗",
+    "relation": "狗常被视为忠实的伙伴，faithful 表示忠诚可靠",
+    "sentence": "The faithful dog waited beside its owner at the gate.",
+    "scene": {
+      "setting": "A quiet garden gate",
+      "actor": "One dog waits beside one seated owner",
+      "props": [
+        "dog",
+        "closed gate",
+        "walking leash"
+      ],
+      "beats": [
+        "The owner pauses",
+        "The dog stays close",
+        "They wait together at the gate"
+      ],
+      "ending": "The dog remains loyally beside its owner"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 狗常被视为忠实的伙伴，faithful 表示忠诚可靠 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "One person and one dog; natural anatomy; no text."
+  },
+  {
+    "word": "ghost",
+    "anchor": "sheet",
+    "anchorMeaning": "床单",
+    "relation": "白床单常被用作幽灵装扮",
+    "sentence": "A white sheet made the child imagine a ghost in the dark.",
+    "scene": {
+      "setting": "A dim bedroom",
+      "actor": "One child looks at a sheet draped over a chair",
+      "props": [
+        "white sheet",
+        "wooden chair",
+        "night lamp"
+      ],
+      "beats": [
+        "The sheet falls over the chair",
+        "The child sees a ghostly shape",
+        "The child realizes it is only cloth"
+      ],
+      "ending": "A sheet-covered chair casts a harmless ghostlike shape"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 白床单常被用作幽灵装扮 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Gentle playful mood; no text or symbols."
+  },
+  {
+    "word": "illustration",
+    "anchor": "book",
+    "anchorMeaning": "书",
+    "relation": "illustration 是书中帮助理解内容的插图",
+    "sentence": "The book's illustration showed a fox beside a tree.",
+    "scene": {
+      "setting": "A reading nook",
+      "actor": "One child looks at an open picture book",
+      "props": [
+        "open book",
+        "fox illustration",
+        "tree illustration"
+      ],
+      "beats": [
+        "The child opens the book",
+        "She finds the picture",
+        "She studies the fox beside the tree"
+      ],
+      "ending": "An open book displays a clear fox illustration"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. illustration 是书中帮助理解内容的插图 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Pages contain pictures only, no readable writing."
+  },
+  {
+    "word": "imaginary",
+    "anchor": "teddy bear",
+    "anchorMeaning": "泰迪熊",
+    "relation": "孩子的 imaginary 朋友或动物只存在想象中，泰迪熊陪伴想象游戏",
+    "sentence": "The child described an imaginary dragon to her teddy bear.",
+    "scene": {
+      "setting": "A child's bedroom",
+      "actor": "One child talks to a teddy bear while imagining a dragon",
+      "props": [
+        "teddy bear",
+        "toy chest",
+        "soft rug"
+      ],
+      "beats": [
+        "The child sits with the bear",
+        "She imagines a dragon",
+        "She gestures toward the make-believe creature"
+      ],
+      "ending": "A child and teddy bear face a faint imagined dragon shape"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 孩子的 imaginary 朋友或动物只存在想象中，泰迪熊陪伴想象游戏 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Dragon should look dreamlike, not like a second real character; no text."
+  },
+  {
+    "word": "marginal",
+    "anchor": "finish line",
+    "anchorMeaning": "终点线",
+    "relation": "marginal 表示很小或微不足道，终点处微弱领先体现微小差距",
+    "sentence": "A marginal lead put her barely ahead of the others at the finish line.",
+    "scene": {
+      "setting": "A running track finish",
+      "actor": "One runner edges just ahead at the finish line",
+      "props": [
+        "finish line",
+        "running shoes",
+        "race track"
+      ],
+      "beats": [
+        "The runners approach",
+        "One runner gains a tiny lead",
+        "She crosses just ahead"
+      ],
+      "ending": "Two runners cross with only a slight gap"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. marginal 表示很小或微不足道，终点处微弱领先体现微小差距 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Exactly two runners; no lane numbers, signs, or logos."
+  },
+  {
+    "word": "obsession",
+    "anchor": "train",
+    "anchorMeaning": "火车",
+    "relation": "obsession 是难以摆脱的强烈兴趣，模型火车布满房间表现沉迷",
+    "sentence": "His obsession with model trains filled the room with tiny tracks.",
+    "scene": {
+      "setting": "A hobby room",
+      "actor": "One man studies his extensive model train set",
+      "props": [
+        "model train",
+        "looping track",
+        "storage shelf"
+      ],
+      "beats": [
+        "He adds a track piece",
+        "He watches the train circle",
+        "His collection fills the room"
+      ],
+      "ending": "A model train circles through a room devoted to trains"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. obsession 是难以摆脱的强烈兴趣，模型火车布满房间表现沉迷 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Model railway only; no writing, labels, or logos."
+  },
+  {
+    "word": "offensive",
+    "anchor": "bin",
+    "anchorMeaning": "垃圾桶",
+    "relation": "令人作呕的气味可称 offensive，垃圾桶提供清楚来源",
+    "sentence": "The offensive smell from the bin made her cover her nose.",
+    "scene": {
+      "setting": "A sunny backyard",
+      "actor": "One woman covers her nose beside an overflowing bin",
+      "props": [
+        "plain bin",
+        "banana peel",
+        "garden path"
+      ],
+      "beats": [
+        "The bin lid opens",
+        "A bad odor rises",
+        "The woman covers her nose"
+      ],
+      "ending": "The woman recoils from the smelly bin"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 令人作呕的气味可称 offensive，垃圾桶提供清楚来源 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No text, labels, logos, or exaggerated pollution."
+  },
+  {
+    "word": "petroleum",
+    "anchor": "truck",
+    "anchorMeaning": "卡车",
+    "relation": "petroleum 是从地下提取并加工的石油，油罐车负责运输",
+    "sentence": "The tanker truck carried petroleum from the well to the refinery.",
+    "scene": {
+      "setting": "An open oil field beside a distant refinery",
+      "actor": "One plain tanker truck stands between an oil well and a refinery",
+      "props": [
+        "plain tanker truck",
+        "oil well",
+        "refinery pipes"
+      ],
+      "beats": [
+        "Petroleum is pumped from the well",
+        "The petroleum is loaded into the tanker",
+        "The tanker carries it toward the refinery"
+      ],
+      "ending": "A plain tanker truck stands in the open oil field with the well and refinery behind it"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. petroleum 是从地下提取并加工的石油，油罐车负责运输 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Show an open unmarked field, with no painted roads, road markings, directional arrows, symbols, or signs. The tanker truck, well, and refinery must have no letters, numbers, logos, labels, or signs."
+  },
+  {
+    "word": "ponder",
+    "anchor": "puzzle",
+    "anchorMeaning": "拼图",
+    "relation": "ponder 表示认真思考，解谜前停下来思考呈现该动作",
+    "sentence": "She paused to ponder the puzzle before placing the final piece.",
+    "scene": {
+      "setting": "A quiet game table",
+      "actor": "One woman studies a nearly complete jigsaw puzzle",
+      "props": [
+        "jigsaw puzzle",
+        "single final piece",
+        "wooden table"
+      ],
+      "beats": [
+        "She studies the picture",
+        "She pauses to think",
+        "She places the final piece"
+      ],
+      "ending": "The woman considers the final piece above the puzzle"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. ponder 表示认真思考，解谜前停下来思考呈现该动作 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "Puzzle image has no text, numbers, or logos."
+  },
+  {
+    "word": "signify",
+    "anchor": "flag",
+    "anchorMeaning": "旗",
+    "relation": "白旗常用来表示和平或投降，signify 表示代表某种含义",
+    "sentence": "The white flag can signify peace after a battle.",
+    "scene": {
+      "setting": "A quiet field after a conflict",
+      "actor": "One person raises a plain white flag",
+      "props": [
+        "white flag",
+        "rocky field",
+        "distant hills"
+      ],
+      "beats": [
+        "The person lifts the flag",
+        "The wind opens it",
+        "The opposing side sees the sign of peace"
+      ],
+      "ending": "A plain white flag rises over the quiet field"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness and readability. 白旗常用来表示和平或投降，signify 表示代表某种含义 The anchor and target sense appear in one drawable scene."
+    },
+    "artDirection": "No symbols, text, letters, or logos on flag."
+  }
+]

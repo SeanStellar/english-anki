@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kyc-2236",
+    "anchor": "leaf",
+    "sentence": "The scientist kept one leaf specimen under glass.",
+    "relation": "A specimen is one sample kept for examination or study.",
+    "setting": "A quiet science workbench",
+    "actor": "One scientist examines a single leaf specimen beneath a plain glass cover.",
+    "props": [
+      "one scientist",
+      "one leaf specimen",
+      "one clear glass cover"
+    ],
+    "beats": [
+      "The leaf is collected",
+      "The scientist places it under glass",
+      "The specimen is ready for study"
+    ],
+    "ending": "A scientist studies one leaf specimen under glass.",
+    "artDirection": "No labels, diagrams, letters, numbers, or medical symbols."
+  },
+  {
+    "id": "kyc-2237",
+    "anchor": "water",
+    "sentence": "Water became stagnant in the pond during the hot, windless week.",
+    "relation": "Stagnant water does not flow or move and may become stale.",
+    "setting": "A still pond in a hot garden",
+    "actor": "No people: a quiet pond has motionless water and two fallen leaves.",
+    "props": [
+      "one pond",
+      "still water",
+      "two fallen leaves"
+    ],
+    "beats": [
+      "The pond receives no fresh flow",
+      "The water remains unmoving",
+      "Leaves sit on the stagnant surface"
+    ],
+    "ending": "Still water becomes stagnant in a quiet pond.",
+    "artDirection": "No ripples, water arrows, text, signs, or symbols."
+  },
+  {
+    "id": "kyc-2238",
+    "anchor": "needle",
+    "sentence": "She used a needle to add one stitch to the torn sleeve.",
+    "relation": "A stitch is one loop or pass of thread made by sewing.",
+    "setting": "A quiet sewing table",
+    "actor": "One person sews a small tear in a sleeve with a needle and thread.",
+    "props": [
+      "one needle",
+      "one torn sleeve",
+      "one thread"
+    ],
+    "beats": [
+      "The sleeve has a small tear",
+      "The needle passes through the cloth",
+      "One stitch closes the tear"
+    ],
+    "ending": "A needle makes a stitch in a torn sleeve.",
+    "artDirection": "No extra hands; no letters, patterns, labels, or symbols."
+  },
+  {
+    "id": "kyc-2239",
+    "anchor": "floor",
+    "sentence": "He had to stoop to pick up the ball from the floor.",
+    "relation": "To stoop is to bend the upper body forward and down.",
+    "setting": "A simple playroom",
+    "actor": "One adult bends forward to pick up one ball from the floor.",
+    "props": [
+      "one adult",
+      "one plain ball",
+      "one floor"
+    ],
+    "beats": [
+      "The ball lies on the floor",
+      "The adult bends down",
+      "The adult picks up the ball"
+    ],
+    "ending": "A person stoops to pick up a ball from the floor.",
+    "artDirection": "Show one natural bending pose; exactly two arms and legs; no repeated person or motion lines."
+  },
+  {
+    "id": "kyc-2240",
+    "anchor": "sea",
+    "sentence": "The submarine disappeared beneath the sea after leaving the harbor.",
+    "relation": "A submarine is a vessel designed to travel underwater.",
+    "setting": "A calm harbor opening into deep water",
+    "actor": "No people: one submarine dives beneath the sea surface near the harbor.",
+    "props": [
+      "one submarine",
+      "one sea surface",
+      "one distant harbor"
+    ],
+    "beats": [
+      "The submarine leaves the harbor",
+      "It passes below the surface",
+      "It disappears beneath the sea"
+    ],
+    "ending": "A submarine disappears under the sea.",
+    "artDirection": "One submarine only; no flags, numbers, text, military markings, or symbols."
+  },
+  {
+    "id": "kyc-2241",
+    "anchor": "apple",
+    "sentence": "She had to subtract one apple from the basket before sharing the fruit.",
+    "relation": "To subtract is to take one amount away from another.",
+    "setting": "A kitchen table",
+    "actor": "One person removes one apple from a small basket of apples.",
+    "props": [
+      "one hand removing an apple",
+      "one basket of apples",
+      "one plain table"
+    ],
+    "beats": [
+      "The apples are in the basket",
+      "One apple is taken away",
+      "The smaller group is ready to share"
+    ],
+    "ending": "One apple is subtracted from the basket before sharing.",
+    "artDirection": "Make the removed apple distinct; no written numbers, math symbols, or labels."
+  },
+  {
+    "id": "kyc-2242",
+    "anchor": "bread",
+    "sentence": "One loaf of bread will suffice for lunch.",
+    "relation": "To suffice is to be enough for a purpose or need.",
+    "setting": "A simple lunch table",
+    "actor": "One loaf of bread sits beside a modest lunch setting for one person.",
+    "props": [
+      "one loaf of bread",
+      "one plain plate",
+      "one lunch table"
+    ],
+    "beats": [
+      "Lunch is prepared",
+      "The loaf is set out",
+      "The single loaf is enough"
+    ],
+    "ending": "One loaf of bread suffices for lunch.",
+    "artDirection": "No labels, writing, numbers, or symbols."
+  },
+  {
+    "id": "kyc-2243",
+    "anchor": "wind",
+    "sentence": "A strong gust of wind thrust the door open.",
+    "relation": "To thrust is to push suddenly or forcefully.",
+    "setting": "A home entryway during a gust",
+    "actor": "No people: a gust pushes one plain door wide open.",
+    "props": [
+      "one door",
+      "one doorframe",
+      "one open entryway"
+    ],
+    "beats": [
+      "The door rests closed",
+      "A strong gust pushes it",
+      "The door is thrust open"
+    ],
+    "ending": "Wind thrusts a door open.",
+    "artDirection": "Show no person or body parts; no wind lines, arrows, text, or symbols."
+  },
+  {
+    "id": "kyc-2244",
+    "anchor": "night",
+    "sentence": "The mosquito continued to torment the child through the night.",
+    "relation": "To torment is to cause someone repeated pain, annoyance, or distress.",
+    "setting": "A quiet bedroom at night",
+    "actor": "One child lies awake as one mosquito hovers near the bed.",
+    "props": [
+      "one child",
+      "one mosquito",
+      "one bed"
+    ],
+    "beats": [
+      "The child tries to sleep",
+      "The mosquito keeps returning",
+      "The child is tormented through the night"
+    ],
+    "ending": "A mosquito torments a child who is trying to sleep.",
+    "artDirection": "One mosquito and one child only; no exaggerated bite marks, sound lines, or text."
+  },
+  {
+    "id": "kyc-2245",
+    "anchor": "rain",
+    "sentence": "Rain fed a torrent that rushed down the mountain after the storm.",
+    "relation": "A torrent is a fast, powerful flow of water.",
+    "setting": "A mountain slope after a storm",
+    "actor": "No people: a strong torrent of rainwater rushes down a rocky mountain channel.",
+    "props": [
+      "one mountain channel",
+      "one torrent of water",
+      "one storm cloud"
+    ],
+    "beats": [
+      "Heavy rain falls",
+      "Water gathers in the channel",
+      "A torrent rushes downhill"
+    ],
+    "ending": "A torrent of rainwater rushes down a mountain channel.",
+    "artDirection": "Show fast-flowing water without motion arrows or marks; no text or symbols."
+  },
+  {
+    "id": "kyc-2246",
+    "anchor": "lake",
+    "sentence": "The cottage stood in the vicinity of the lake.",
+    "relation": "Vicinity means the nearby area around a place.",
+    "setting": "A quiet countryside by a lake",
+    "actor": "No people: one cottage stands close to the shore of a broad lake.",
+    "props": [
+      "one cottage",
+      "one lake",
+      "one patch of nearby shore"
+    ],
+    "beats": [
+      "The cottage stands on the land",
+      "The lake lies close beside it",
+      "Both occupy the same nearby area"
+    ],
+    "ending": "A cottage stands in the vicinity of a lake.",
+    "artDirection": "Make the cottage and lake clearly close; no signs, labels, or text."
+  },
+  {
+    "id": "kyc-2247",
+    "anchor": "flower",
+    "sentence": "A violet flower bloomed beside the fence at dawn.",
+    "relation": "Violet is a purple color and the name of a small flower.",
+    "setting": "A garden at dawn",
+    "actor": "No people: one deep violet flower blooms beside a plain wooden fence.",
+    "props": [
+      "one violet flower",
+      "one wooden fence",
+      "one patch of garden soil"
+    ],
+    "beats": [
+      "The flower grows by the fence",
+      "Its purple petals open",
+      "It blooms in the morning light"
+    ],
+    "ending": "A violet flower blooms beside a fence.",
+    "artDirection": "Clearly purple petals; no decorative symbols, labels, or text."
+  },
+  {
+    "id": "kyc-2248",
+    "anchor": "horse",
+    "sentence": "The horse pulled the wagon along the dirt road.",
+    "relation": "A wagon is a wheeled vehicle used to carry goods or people.",
+    "setting": "A country dirt road",
+    "actor": "One horse pulls one simple wooden wagon along the road.",
+    "props": [
+      "one horse",
+      "one wooden wagon",
+      "one dirt road"
+    ],
+    "beats": [
+      "The wagon is loaded",
+      "The horse pulls it forward",
+      "The wagon rolls along the road"
+    ],
+    "ending": "A horse pulls a wagon along a dirt road.",
+    "artDirection": "One horse only with four legs; no extra animals, flags, logos, or text."
+  },
+  {
+    "id": "kyc-2249",
+    "anchor": "bed",
+    "sentence": "The sleepy child let out a long yawn and climbed into bed.",
+    "relation": "A yawn is a wide involuntary opening of the mouth, often when tired.",
+    "setting": "A quiet bedroom at bedtime",
+    "actor": "One sleepy child yawns beside a plain bed.",
+    "props": [
+      "one child",
+      "one bed",
+      "one plain pillow"
+    ],
+    "beats": [
+      "The child grows sleepy",
+      "The child yawns widely",
+      "The child climbs into bed"
+    ],
+    "ending": "A sleepy child yawns beside the bed.",
+    "artDirection": "Show one child once with natural face and anatomy; no duplicate poses, text, or motion lines."
+  },
+  {
+    "id": "kyc-2250",
+    "anchor": "fire",
+    "sentence": "A gray fume rose from the fire and drifted through the open window.",
+    "relation": "A fume is a cloud of gas or smoke, often with a strong smell.",
+    "setting": "A safe outdoor cooking area beside an open window",
+    "actor": "No people: one small contained cooking fire releases one thin gray fume.",
+    "props": [
+      "one small contained fire",
+      "one thin gray fume",
+      "one open window"
+    ],
+    "beats": [
+      "The fire burns low",
+      "A fume rises from it",
+      "The fume drifts through the open window"
+    ],
+    "ending": "A thin fume rises from a small fire.",
+    "artDirection": "Keep the fire small and controlled; no alarm symbols, text, or dangerous setting."
+  },
+  {
+    "id": "kyc-2251",
+    "anchor": "sky",
+    "sentence": "The parachute opened high above the field under the blue sky.",
+    "relation": "A parachute is a fabric canopy that slows a person's fall through the air.",
+    "setting": "An open field beneath a broad sky",
+    "actor": "One person descends slowly beneath one open plain parachute.",
+    "props": [
+      "one person",
+      "one open parachute",
+      "one blue sky"
+    ],
+    "beats": [
+      "The parachute opens",
+      "It catches the air",
+      "The person descends slowly toward the field"
+    ],
+    "ending": "A parachute opens high in the sky.",
+    "artDirection": "One person with one parachute; no flags, logos, text, or extra people."
+  },
+  {
+    "id": "kyc-2252",
+    "anchor": "chair",
+    "sentence": "One superfluous chair stood unused beside the full dinner table.",
+    "relation": "Superfluous means extra and unnecessary.",
+    "setting": "A home dining room",
+    "actor": "No people: one empty chair stands apart from a full dining table where there is already enough seating.",
+    "props": [
+      "one unused chair",
+      "one full dining table",
+      "one empty corner"
+    ],
+    "beats": [
+      "The table is already set",
+      "An extra chair remains apart",
+      "The chair is clearly unnecessary"
+    ],
+    "ending": "One superfluous chair stands unused beside a full table.",
+    "artDirection": "Show one extra unused chair apart from the table; no text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2253",
+    "anchor": "wind",
+    "sentence": "Wind spun the turbine blades beside the hill.",
+    "relation": "A turbine converts moving air or another force into useful power.",
+    "setting": "A green hilltop",
+    "actor": "No people: one wind turbine turns above a grassy hill.",
+    "props": [
+      "one wind turbine",
+      "one grassy hill",
+      "one open sky"
+    ],
+    "beats": [
+      "Wind reaches the blades",
+      "The blades turn",
+      "The turbine stands above the hill"
+    ],
+    "ending": "Wind turns a turbine on a hill.",
+    "artDirection": "One turbine only; no power symbols, diagrams, text, or logos."
+  },
+  {
+    "id": "kyc-2254",
+    "anchor": "radio",
+    "sentence": "The radio's aerial stretched above the roof to catch a signal.",
+    "relation": "An aerial is a structure that receives or sends radio waves.",
+    "setting": "A small house roof beside an open window",
+    "actor": "No people: one simple radio sits inside while its long aerial rises above the roof.",
+    "props": [
+      "one plain radio",
+      "one long aerial",
+      "one house roof"
+    ],
+    "beats": [
+      "The radio rests by the window",
+      "The aerial extends upward",
+      "It reaches above the roof"
+    ],
+    "ending": "A radio aerial stretches above a roof.",
+    "artDirection": "No radio labels, numbers, text, symbols, or logos."
+  },
+  {
+    "id": "kyc-2255",
+    "anchor": "eye",
+    "sentence": "He furrowed his brow as he looked at the raindrop above his eye.",
+    "relation": "The brow is the ridge above the eye where an eyebrow grows.",
+    "setting": "A close view beside a rainy window",
+    "actor": "One child furrows the brow above one eye while looking at a raindrop on the glass.",
+    "props": [
+      "one child",
+      "one visible brow",
+      "one raindrop on glass"
+    ],
+    "beats": [
+      "The child looks toward the window",
+      "A raindrop rests on the glass",
+      "The child furrows the brow above the eye"
+    ],
+    "ending": "A child furrows his brow while watching a raindrop above his eye.",
+    "artDirection": "Natural close-up face; no extra eyes, brows, or rain symbols; no text."
+  },
+  {
+    "id": "kyc-2256",
+    "anchor": "calendar",
+    "sentence": "They decided to defer the meeting until spring and marked it on the calendar.",
+    "relation": "To defer is to postpone something until a later time.",
+    "setting": "A quiet office with a calendar",
+    "actor": "Exactly two adults agree to move a meeting to a later blank page on a calendar.",
+    "props": [
+      "one blank calendar",
+      "one meeting table",
+      "two adults"
+    ],
+    "beats": [
+      "The adults discuss a meeting",
+      "They choose to wait until spring",
+      "The meeting moves to a later calendar page"
+    ],
+    "ending": "Two people defer a meeting until spring.",
+    "artDirection": "Calendar pages have no dates, numbers, or writing; exactly two people; no signs or symbols."
+  },
+  {
+    "id": "kyc-2257",
+    "anchor": "fire",
+    "sentence": "A flare burst from the fire and lit the dark clearing.",
+    "relation": "A flare is a sudden bright burst of flame or light.",
+    "setting": "A dark forest clearing",
+    "actor": "No people: one bright flare rises briefly from a small campfire and lights the nearby clearing.",
+    "props": [
+      "one small fire",
+      "one bright flare",
+      "one dark clearing"
+    ],
+    "beats": [
+      "The clearing is dim",
+      "A flare bursts upward from the fire",
+      "The clearing becomes briefly bright"
+    ],
+    "ending": "A flare from a fire lights a dark clearing.",
+    "artDirection": "No motion lines, symbols, sparks shaped like letters, text, or people; keep the fire contained."
+  },
+  {
+    "id": "kyc-2258",
+    "anchor": "friend",
+    "sentence": "His friend tried to humiliate him by laughing at his mistake.",
+    "relation": "To humiliate is to make someone feel deeply embarrassed in front of another person.",
+    "setting": "A quiet classroom after a mistake",
+    "actor": "Exactly two friends: one laughs unkindly while the other looks embarrassed after dropping a plain book.",
+    "props": [
+      "two friends",
+      "one plain book",
+      "one classroom floor"
+    ],
+    "beats": [
+      "The book falls",
+      "One friend laughs at the mistake",
+      "The other feels humiliated"
+    ],
+    "ending": "One friend humiliates another by laughing at a mistake.",
+    "artDirection": "Exactly two people; no crowd, text, writing, symbols, or exaggerated distress."
+  },
+  {
+    "id": "kyc-2259",
+    "anchor": "toy",
+    "sentence": "The jealous child watched his brother play with the new toy.",
+    "relation": "Jealous describes resentment or envy when someone else has something desired.",
+    "setting": "A simple playroom",
+    "actor": "Exactly two children: one plays with a new toy while the other watches with an envious expression.",
+    "props": [
+      "two children",
+      "one plain toy",
+      "one playroom floor"
+    ],
+    "beats": [
+      "One child receives a new toy",
+      "The brother plays with it",
+      "The other child watches jealously"
+    ],
+    "ending": "One jealous child watches a brother play with a new toy.",
+    "artDirection": "Exactly two children; no duplicate toys, text, labels, or symbols."
+  },
+  {
+    "id": "kyc-2260",
+    "anchor": "war",
+    "sentence": "The war ended, but the massacre left the village silent.",
+    "relation": "A massacre is the killing of many people, often during a war; this image shows only the aftermath without graphic detail.",
+    "setting": "A deserted village square after a conflict",
+    "actor": "No people: an empty village square with damaged homes and abandoned household objects after a massacre.",
+    "props": [
+      "one deserted village square",
+      "one damaged home",
+      "one abandoned wooden cart"
+    ],
+    "beats": [
+      "The conflict ends",
+      "The square is left empty",
+      "The village remains silent after the massacre"
+    ],
+    "ending": "A deserted village stands silent after a massacre.",
+    "artDirection": "No bodies, blood, weapons, flags, or graphic violence; show only an empty aftermath and damaged homes; no text or symbols."
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "word": "mock",
+    "anchor": "dance",
+    "anchorMeaning": "舞蹈",
+    "relation": "年长孩子模仿并取笑另一人的舞步，表现 mock 的嘲笑义。",
+    "sentence": "The older child tried to mock the younger boy by imitating his silly dance.",
+    "scene": {
+      "setting": "A quiet playroom",
+      "actor": "One older child copies one younger boy’s dance while teasing him",
+      "props": [
+        "dance pose",
+        "plain rug",
+        "toy drum"
+      ],
+      "beats": [
+        "The younger boy dances",
+        "The older child copies the same moves",
+        "The younger boy looks hurt by the mockery"
+      ],
+      "ending": "One child imitates the other’s dance in a teasing way"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。年长孩子模仿并取笑另一人的舞步，表现 mock 的嘲笑义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two children and gentle, nonviolent teasing; no speech bubbles, text, or symbols."
+  },
+  {
+    "word": "opening",
+    "anchor": "curtain",
+    "anchorMeaning": "帘幕",
+    "relation": "学校戏剧开场时帘幕升起，呈现 opening 的开幕义。",
+    "sentence": "The curtain rose at the opening of the school play.",
+    "scene": {
+      "setting": "A small school theater",
+      "actor": "One stage curtain rises to open a school play",
+      "props": [
+        "stage curtain",
+        "spotlight",
+        "empty stage"
+      ],
+      "beats": [
+        "The stage is quiet",
+        "The curtain begins to rise",
+        "The play opening is revealed"
+      ],
+      "ending": "The curtain opens onto the lit stage"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。学校戏剧开场时帘幕升起，呈现 opening 的开幕义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show a theater curtain opening on a simple empty stage; no signs, letters, or text."
+  },
+  {
+    "word": "tractor",
+    "anchor": "plow",
+    "anchorMeaning": "犁",
+    "relation": "拖拉机牵引犁在农田中行进，表现 tractor。",
+    "sentence": "The tractor pulled a plow through the muddy field.",
+    "scene": {
+      "setting": "A rural farm field",
+      "actor": "One tractor pulls one plow across a muddy field",
+      "props": [
+        "tractor",
+        "plow",
+        "furrowed field"
+      ],
+      "beats": [
+        "The tractor starts forward",
+        "The plow cuts the soil",
+        "Fresh furrows appear behind it"
+      ],
+      "ending": "A tractor pulls a plow across the field"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。拖拉机牵引犁在农田中行进，表现 tractor。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one tractor and one plow with natural vehicle anatomy; no labels, logos, or signs."
+  },
+  {
+    "word": "deploy",
+    "anchor": "lake",
+    "anchorMeaning": "湖",
+    "relation": "她在湖边展开并搭起帐篷，呈现 deploy 的布置义。",
+    "sentence": "She will deploy a bright tent beside the lake.",
+    "scene": {
+      "setting": "A calm lakeside campsite",
+      "actor": "One camper deploys a bright tent beside a lake",
+      "props": [
+        "tent",
+        "tent poles",
+        "lake"
+      ],
+      "beats": [
+        "She unfolds the tent",
+        "She sets its poles in place",
+        "The tent stands beside the lake"
+      ],
+      "ending": "One tent is fully set up beside the water"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她在湖边展开并搭起帐篷，呈现 deploy 的布置义。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one camper and one tent; no extra people, text, labels, or logos."
+  },
+  {
+    "word": "dome",
+    "anchor": "telescope",
+    "anchorMeaning": "望远镜",
+    "relation": "天文台的圆顶在望远镜上方打开，呈现 dome。",
+    "sentence": "The observatory’s dome opened above the telescope at dusk.",
+    "scene": {
+      "setting": "A small hilltop observatory",
+      "actor": "One observatory dome opens above one telescope",
+      "props": [
+        "observatory dome",
+        "telescope",
+        "dusk sky"
+      ],
+      "beats": [
+        "The dome is closed",
+        "Its rounded roof opens",
+        "The telescope points toward the evening sky"
+      ],
+      "ending": "An open rounded dome frames the telescope"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。天文台的圆顶在望远镜上方打开，呈现 dome。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one rounded observatory roof with a clear opening; no signs, text, or extra domes."
+  },
+  {
+    "word": "lottery",
+    "anchor": "ticket",
+    "anchorMeaning": "票",
+    "relation": "她拿着空白彩票，旁边抽奖机中彩球转动。",
+    "sentence": "She held a lottery ticket as colored balls spun in the drawing drum.",
+    "scene": {
+      "setting": "A quiet community hall",
+      "actor": "One woman holds a plain ticket beside a clear lottery drawing drum",
+      "props": [
+        "blank lottery ticket",
+        "clear drawing drum",
+        "colored balls"
+      ],
+      "beats": [
+        "The woman holds the blank ticket",
+        "The balls spin inside the drum",
+        "She watches the lottery draw"
+      ],
+      "ending": "A plain ticket and colored balls are visible together"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她拿着空白彩票，旁边抽奖机中彩球转动。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Ticket and balls must have no numbers, letters, labels, signs, or logos; show no readable marks."
+  },
+  {
+    "word": "monster",
+    "anchor": "shadow",
+    "anchorMeaning": "影子",
+    "relation": "孩子看见帘幕上的友善怪物影子，表现 monster。",
+    "sentence": "A friendly monster’s shadow appeared on the curtain as the child watched.",
+    "scene": {
+      "setting": "A cozy bedroom at dusk",
+      "actor": "One child watches a friendly monster-shaped shadow on a curtain",
+      "props": [
+        "curtain",
+        "friendly monster shadow",
+        "night lamp"
+      ],
+      "beats": [
+        "The lamp glows",
+        "A playful monster shadow appears",
+        "The child watches without fear"
+      ],
+      "ending": "A friendly monster shadow falls across the curtain"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。孩子看见帘幕上的友善怪物影子，表现 monster。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Keep the monster only as a harmless shadow; no frightening teeth, text, or symbols."
+  },
+  {
+    "word": "constituent",
+    "anchor": "soup",
+    "anchorMeaning": "汤",
+    "relation": "胡萝卜是蔬菜汤中的一个组成成分，体现 constituent。",
+    "sentence": "A carrot was one constituent of the vegetable soup.",
+    "scene": {
+      "setting": "A warm kitchen table",
+      "actor": "A carrot piece is visible among vegetables in a bowl of soup",
+      "props": [
+        "carrot",
+        "vegetable soup",
+        "wooden spoon"
+      ],
+      "beats": [
+        "The vegetables are prepared",
+        "The carrot is added to the soup",
+        "The soup contains several ingredients"
+      ],
+      "ending": "A carrot is one visible part of the vegetable soup"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。胡萝卜是蔬菜汤中的一个组成成分，体现 constituent。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one clear carrot piece among the soup ingredients; no labels or writing."
+  },
+  {
+    "word": "eighteen",
+    "anchor": "cake",
+    "anchorMeaning": "蛋糕",
+    "relation": "生日蛋糕上准确插着十八根蜡烛，表现数字 eighteen。",
+    "sentence": "He placed eighteen candles on the birthday cake.",
+    "scene": {
+      "setting": "A simple birthday table",
+      "actor": "One child places exactly eighteen candles on one birthday cake",
+      "props": [
+        "birthday cake",
+        "eighteen candles",
+        "plain plate"
+      ],
+      "beats": [
+        "The child sets the candles in place",
+        "All eighteen stand upright on the cake",
+        "The finished cake displays eighteen candles"
+      ],
+      "ending": "One cake holds exactly eighteen visible candles"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。生日蛋糕上准确插着十八根蜡烛，表现数字 eighteen。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly eighteen candles on the cake, arranged in three tidy rows of six. Count carefully; no other candles anywhere. No writing or numbers."
+  },
+  {
+    "word": "emigrate",
+    "anchor": "ship",
+    "anchorMeaning": "船",
+    "relation": "她乘船离开旧港，移居新的国家，体现 emigrate。",
+    "sentence": "She plans to emigrate by ship to a new country.",
+    "scene": {
+      "setting": "A quiet harbor at dawn",
+      "actor": "One woman boards a ship with one suitcase, leaving her old harbor",
+      "props": [
+        "ship",
+        "suitcase",
+        "harbor"
+      ],
+      "beats": [
+        "She packs the suitcase",
+        "She boards the ship",
+        "The ship leaves the familiar harbor"
+      ],
+      "ending": "One woman boards the ship to emigrate"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她乘船离开旧港，移居新的国家，体现 emigrate。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one woman, one suitcase, and one ship leaving the harbor; no maps, flags, signs, text, or extra people."
+  },
+  {
+    "word": "hatred",
+    "anchor": "hands",
+    "anchorMeaning": "手",
+    "relation": "两位对手因仇恨拒绝握手，表现 hatred。",
+    "sentence": "Hatred kept the two rivals from shaking hands.",
+    "scene": {
+      "setting": "A quiet meeting room",
+      "actor": "Two rivals turn away instead of shaking hands",
+      "props": [
+        "two people",
+        "meeting table",
+        "unoffered handshake"
+      ],
+      "beats": [
+        "The rivals face one another",
+        "They refuse the handshake",
+        "They turn away with angry expressions"
+      ],
+      "ending": "Two rivals stand apart with hands lowered"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。两位对手因仇恨拒绝握手，表现 hatred。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people refusing a handshake, with controlled expressions and no violence, text, or symbols."
+  },
+  {
+    "word": "indicative",
+    "anchor": "umbrella",
+    "anchorMeaning": "雨伞",
+    "relation": "乌云预示降雨，她因此撑开雨伞，呈现 indicative。",
+    "sentence": "Dark clouds were indicative of rain, so she opened an umbrella.",
+    "scene": {
+      "setting": "A garden path beneath dark clouds",
+      "actor": "One woman opens one umbrella as dark clouds gather",
+      "props": [
+        "dark clouds",
+        "umbrella",
+        "garden path"
+      ],
+      "beats": [
+        "Clouds gather overhead",
+        "The woman notices the weather",
+        "She opens the umbrella before rain"
+      ],
+      "ending": "One open umbrella beneath dark rain clouds"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。乌云预示降雨，她因此撑开雨伞，呈现 indicative。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one person and one umbrella under clearly dark rain clouds; no signs or text."
+  },
+  {
+    "word": "lounge",
+    "anchor": "sofa",
+    "anchorMeaning": "沙发",
+    "relation": "旅人在机场休息室的沙发上休息，表现 lounge。",
+    "sentence": "The traveler rested on a sofa in the airport lounge.",
+    "scene": {
+      "setting": "A calm airport lounge",
+      "actor": "One traveler rests on one sofa in a quiet lounge",
+      "props": [
+        "sofa",
+        "carry-on bag",
+        "wide window"
+      ],
+      "beats": [
+        "The traveler enters the lounge",
+        "She sits on the sofa",
+        "Her bag rests beside her"
+      ],
+      "ending": "One traveler relaxes on the lounge sofa"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。旅人在机场休息室的沙发上休息，表现 lounge。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one traveler in a comfortable public lounge; no airport signs, logos, or text."
+  },
+  {
+    "word": "ore",
+    "anchor": "mine",
+    "anchorMeaning": "矿井",
+    "relation": "矿工把一车矿石从矿井里推出，呈现 ore。",
+    "sentence": "One miner pushed a cart of ore out of the mine.",
+    "scene": {
+      "setting": "A safe open mine entrance",
+      "actor": "One miner pushes a small cart of ore out of a mine",
+      "props": [
+        "mine entrance",
+        "ore cart",
+        "rough stones"
+      ],
+      "beats": [
+        "The miner loads the rocks",
+        "She pushes the cart forward",
+        "Ore emerges from the mine"
+      ],
+      "ending": "A cart of rough ore sits at the mine entrance"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。矿工把一车矿石从矿井里推出，呈现 ore。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show a safe nonhazardous mine scene; no labels, signs, or text."
+  },
+  {
+    "word": "pastime",
+    "anchor": "chess",
+    "anchorMeaning": "国际象棋",
+    "relation": "下棋是她雨天喜欢的消遣活动，呈现 pastime。",
+    "sentence": "She enjoyed chess as a quiet pastime on rainy afternoons.",
+    "scene": {
+      "setting": "A quiet room on a rainy afternoon",
+      "actor": "One woman enjoys a game of chess beside a rain-streaked window",
+      "props": [
+        "chessboard",
+        "chess pieces",
+        "window"
+      ],
+      "beats": [
+        "Rain falls outside",
+        "She studies the chessboard",
+        "She moves one piece for pleasure"
+      ],
+      "ending": "A woman enjoys chess as a pastime"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。下棋是她雨天喜欢的消遣活动，呈现 pastime。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one woman enjoying chess; no writing, numbers, or extra hands."
+  },
+  {
+    "word": "plead",
+    "anchor": "hands",
+    "anchorMeaning": "手",
+    "relation": "孩子合起双手恳求再听一个睡前故事，表现 plead。",
+    "sentence": "The child clasped his hands to plead for one more bedtime story.",
+    "scene": {
+      "setting": "A cozy bedroom at bedtime",
+      "actor": "One child clasps his hands and pleads with one parent for a story",
+      "props": [
+        "clasped hands",
+        "picture book",
+        "bedside lamp"
+      ],
+      "beats": [
+        "The parent closes the book",
+        "The child clasps his hands",
+        "The child pleads for one more story"
+      ],
+      "ending": "The child begs gently beside the picture book"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。孩子合起双手恳求再听一个睡前故事，表现 plead。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show exactly two people and a gentle bedtime request; book pages have no writing."
+  },
+  {
+    "word": "recur",
+    "anchor": "tree",
+    "anchorMeaning": "树",
+    "relation": "同一片野花每年春天在树下重现，呈现 recur。",
+    "sentence": "The same wildflowers recur beneath the tree each spring.",
+    "scene": {
+      "setting": "A sunny meadow in spring",
+      "actor": "Wildflowers bloom again beneath one old tree",
+      "props": [
+        "wildflowers",
+        "old tree",
+        "spring grass"
+      ],
+      "beats": [
+        "The meadow warms in spring",
+        "The flowers return beneath the tree",
+        "The familiar patch blooms again"
+      ],
+      "ending": "A patch of wildflowers blooms beneath the tree"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。同一片野花每年春天在树下重现，呈现 recur。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one tree and a recurring patch of flowers; no calendar, text, or seasonal collage."
+  },
+  {
+    "word": "soak",
+    "anchor": "sponge",
+    "anchorMeaning": "海绵",
+    "relation": "她把海绵留在水碗里浸泡，呈现 soak。",
+    "sentence": "She left a sponge to soak in a bowl of water.",
+    "scene": {
+      "setting": "A simple kitchen sink",
+      "actor": "One sponge soaks in a bowl of clean water",
+      "props": [
+        "sponge",
+        "bowl of water",
+        "counter"
+      ],
+      "beats": [
+        "She places the sponge in the bowl",
+        "Water covers the sponge",
+        "The sponge remains soaking"
+      ],
+      "ending": "A sponge is fully soaked in the bowl"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。她把海绵留在水碗里浸泡，呈现 soak。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one sponge partly submerged in clean water; no labels or text."
+  },
+  {
+    "word": "sunrise",
+    "anchor": "mountain",
+    "anchorMeaning": "山",
+    "relation": "日出照亮山脊之外的山谷，呈现 sunrise。",
+    "sentence": "The sunrise lit the valley beyond the mountain ridge.",
+    "scene": {
+      "setting": "A quiet mountain valley at dawn",
+      "actor": "The sunrise appears above one mountain ridge and lights the valley",
+      "props": [
+        "mountain ridge",
+        "sunrise",
+        "valley"
+      ],
+      "beats": [
+        "The sky brightens",
+        "The sun rises above the ridge",
+        "Warm light spreads through the valley"
+      ],
+      "ending": "The sun rises over the mountain and lights the valley"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。日出照亮山脊之外的山谷，呈现 sunrise。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show a clear sunrise above a mountain ridge; no clocks, text, or symbols."
+  },
+  {
+    "word": "susceptible",
+    "anchor": "mask",
+    "anchorMeaning": "口罩",
+    "relation": "孩子易受感染，因此在公共汽车上戴口罩保护自己。",
+    "sentence": "The child was susceptible to infection, so she wore a plain mask on the bus.",
+    "scene": {
+      "setting": "A calm city bus",
+      "actor": "One child wears a plain mask while sitting on a bus",
+      "props": [
+        "plain mask",
+        "bus seat",
+        "window"
+      ],
+      "beats": [
+        "The child boards the bus",
+        "She puts on the mask",
+        "She sits safely by the window"
+      ],
+      "ending": "A masked child sits on the bus"
+    },
+    "mode": "concept",
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "not_applicable_concept",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "句子已检查，表达自然易读。孩子易受感染，因此在公共汽车上戴口罩保护自己。 锚点与目标义可在同一具体画面中呈现。"
+    },
+    "artDirection": "Show one child and a plain mask; no medical symbols, logos, signs, or text."
+  }
+]

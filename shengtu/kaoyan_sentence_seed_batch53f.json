@@ -1,0 +1,977 @@
+[
+  {
+    "id": "kyc-2686",
+    "word": "overt",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "relation": "Overt describes something open, clear, or not hidden.",
+    "sentence": "A clenched hand was an overt sign of his anger.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet meeting room",
+      "actor": "One man holds a clenched hand visible at his side after a disagreement.",
+      "props": [
+        "one man",
+        "one meeting table",
+        "one empty chair"
+      ],
+      "beats": [
+        "A disagreement begins",
+        "He holds his anger openly in a clenched hand",
+        "The clenched hand is an overt sign"
+      ],
+      "ending": "A clenched hand is an overt sign of anger."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Show mild tension, no threatening action, text, or symbols."
+  },
+  {
+    "id": "kyc-2687",
+    "word": "owing to",
+    "anchor": "rain",
+    "anchorMeaning": "雨，雨水",
+    "relation": "Owing to means because of or as a result of something.",
+    "sentence": "Owing to the rain, the match was canceled.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sports field during heavy rain",
+      "actor": "No people: rain soaks an empty field, leaving the match canceled.",
+      "props": [
+        "one empty field",
+        "heavy rain",
+        "one plain ball"
+      ],
+      "beats": [
+        "The rain begins",
+        "The field becomes too wet",
+        "Owing to the rain, the match is canceled"
+      ],
+      "ending": "A match is canceled owing to the rain."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No scoreboards, signs, text, numbers, or logos."
+  },
+  {
+    "id": "kyc-2688",
+    "word": "pants",
+    "anchor": "road",
+    "anchorMeaning": "路，公路，马路，街",
+    "relation": "To pant is to breathe quickly and heavily, usually after exercise or effort.",
+    "sentence": "After the run, he pants beside the road.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet country road after a run",
+      "actor": "One runner pauses safely beside the road and breathes heavily after exercising.",
+      "props": [
+        "one runner",
+        "one quiet road",
+        "one plain water bottle"
+      ],
+      "beats": [
+        "The runner finishes the run",
+        "He stops beside the road",
+        "He pants to catch his breath"
+      ],
+      "ending": "A runner pants beside the road after exercise."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Change targetSense to 喘气；气喘吁吁; show normal exertion, no medical distress or extra people."
+  },
+  {
+    "id": "kyc-2689",
+    "word": "parasite",
+    "anchor": "dog",
+    "anchorMeaning": "狗，犬",
+    "relation": "A parasite is a living organism that lives on or inside another organism and benefits at its expense.",
+    "sentence": "A tick lived on the dog as a parasite.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm garden",
+      "actor": "One healthy dog rests while a tiny tick is visible on its fur, without injury.",
+      "props": [
+        "one dog",
+        "one tiny tick",
+        "one patch of grass"
+      ],
+      "beats": [
+        "The tick attaches to the dog",
+        "It lives on the dog",
+        "The tick acts as a parasite"
+      ],
+      "ending": "A tiny parasite lives on a healthy dog."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational and non-graphic; show the dog with four legs and one tail, no blood or extra insects."
+  },
+  {
+    "id": "kyc-2690",
+    "word": "peep",
+    "anchor": "window",
+    "anchorMeaning": "窗，窗玻璃",
+    "relation": "A peep is a quick secret look through a small opening or from behind something.",
+    "sentence": "She took a peep through the window at the rain.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet room on a rainy day",
+      "actor": "One woman peeks through a partly opened curtain at rain outside the window.",
+      "props": [
+        "one woman",
+        "one window",
+        "one partly opened curtain"
+      ],
+      "beats": [
+        "Rain begins outside",
+        "She parts the curtain slightly",
+        "She takes a peep through the window"
+      ],
+      "ending": "A woman takes a peep through the window at the rain."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No extra people outside, no signs, writing, or symbols."
+  },
+  {
+    "id": "kyc-2691",
+    "word": "persecute",
+    "anchor": "law",
+    "anchorMeaning": "法律（体系）",
+    "relation": "To persecute is to treat a person or group cruelly or unfairly, especially because of beliefs or identity.",
+    "sentence": "The ruler used the law to persecute people who disagreed.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain government office",
+      "actor": "Exactly two people: one official uses a blank legal document to deny a citizen fair treatment.",
+      "props": [
+        "one official",
+        "one citizen",
+        "one blank legal paper"
+      ],
+      "beats": [
+        "The citizen disagrees with the ruler",
+        "The law is used unfairly",
+        "The citizen is persecuted"
+      ],
+      "ending": "An official uses the law to persecute a citizen who disagrees."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Non-violent, non-graphic; no flags, badges, text, legal emblems, or symbols."
+  },
+  {
+    "id": "kyc-2692",
+    "word": "pistol",
+    "anchor": "hand",
+    "anchorMeaning": "手",
+    "relation": "A pistol is a small firearm designed to be held and fired with one hand.",
+    "sentence": "A museum guide displayed an old pistol in his hand.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet historical museum",
+      "actor": "One museum guide holds an old pistol safely by its grip for display, with the barrel pointed down.",
+      "props": [
+        "one museum guide",
+        "one old pistol",
+        "one plain display case"
+      ],
+      "beats": [
+        "The guide opens the display case",
+        "He holds the pistol safely in one hand",
+        "The old pistol is displayed"
+      ],
+      "ending": "A museum guide displays an old pistol safely in his hand."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Historical and nonviolent; no firing, ammunition, threats, injury, text, or logos."
+  },
+  {
+    "id": "kyc-2693",
+    "word": "plaintiff",
+    "anchor": "court",
+    "anchorMeaning": "法院，法庭",
+    "relation": "A plaintiff is the person who brings a legal case against someone else in court.",
+    "sentence": "The plaintiff brought the dispute before the court.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain courtroom",
+      "actor": "One plaintiff presents a case before a judge in a quiet courtroom.",
+      "props": [
+        "one plaintiff",
+        "one judge",
+        "one plain courtroom bench"
+      ],
+      "beats": [
+        "A dispute is brought forward",
+        "The plaintiff presents the case",
+        "The case is heard in court"
+      ],
+      "ending": "A plaintiff brings a dispute before the court."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no legal emblems, text, papers with writing, or symbols."
+  },
+  {
+    "id": "kyc-2694",
+    "word": "preceding",
+    "anchor": "day",
+    "anchorMeaning": "一天",
+    "relation": "Preceding means coming before something in time, order, or position.",
+    "sentence": "The day preceding the wedding passed quietly.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm home on the day before a wedding",
+      "actor": "One person prepares a simple bouquet on the quiet day before the ceremony.",
+      "props": [
+        "one person",
+        "one small bouquet",
+        "one blank calendar page"
+      ],
+      "beats": [
+        "The wedding is prepared for",
+        "The preceding day passes",
+        "The quiet day comes before the ceremony"
+      ],
+      "ending": "The day preceding a wedding passes quietly."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Calendar has no dates or words; no wedding signs, labels, or logos."
+  },
+  {
+    "id": "kyc-2695",
+    "word": "proceedings",
+    "anchor": "court",
+    "anchorMeaning": "法院，法庭",
+    "relation": "Proceedings are a series of formal activities or steps, especially those in a legal case.",
+    "sentence": "The court proceedings began after lunch.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A plain courtroom after lunch",
+      "actor": "One judge and one lawyer begin a formal hearing at a courtroom table.",
+      "props": [
+        "one judge",
+        "one lawyer",
+        "one plain courtroom table"
+      ],
+      "beats": [
+        "The court gathers",
+        "The hearing begins",
+        "The court proceedings continue"
+      ],
+      "ending": "Court proceedings begin after lunch."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no legal emblems, text, paperwork with writing, or symbols."
+  },
+  {
+    "id": "kyc-2696",
+    "word": "projector",
+    "anchor": "wall",
+    "anchorMeaning": "城墙，围墙",
+    "relation": "A projector is a device that displays images or film on a screen or wall.",
+    "sentence": "The projector cast a film onto the wall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A small dark screening room",
+      "actor": "No people: a plain projector sends a moving film image onto a bare wall.",
+      "props": [
+        "one plain projector",
+        "one bare wall",
+        "one projected film image"
+      ],
+      "beats": [
+        "The projector is switched on",
+        "Light carries the film image",
+        "The image appears on the wall"
+      ],
+      "ending": "A projector casts a film onto a wall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Projected image contains no text, logos, or recognizable signs."
+  },
+  {
+    "id": "kyc-2697",
+    "word": "promising",
+    "anchor": "plant",
+    "anchorMeaning": "植物",
+    "relation": "Promising describes someone or something likely to succeed or develop well.",
+    "sentence": "The promising young plant grew toward the light.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A sunny windowsill",
+      "actor": "No people: one healthy young plant grows toward a bright window.",
+      "props": [
+        "one young plant",
+        "one bright window",
+        "one small pot"
+      ],
+      "beats": [
+        "The seedling appears",
+        "It reaches toward the light",
+        "The promising plant grows stronger"
+      ],
+      "ending": "A promising plant grows toward the light."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No labels, plant tags with writing, or extra plants."
+  },
+  {
+    "id": "kyc-2698",
+    "word": "prophet",
+    "anchor": "storm",
+    "anchorMeaning": "暴风雨，暴风雪，风暴",
+    "relation": "A prophet is a person believed to speak with divine inspiration or to reveal what will happen in the future.",
+    "sentence": "The prophet warned the village about the coming storm.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A village edge beneath dark clouds",
+      "actor": "One robed prophet warns one villager as a storm approaches in the distance.",
+      "props": [
+        "one prophet",
+        "one villager",
+        "one dark storm cloud"
+      ],
+      "beats": [
+        "Clouds gather over the village",
+        "The prophet senses danger",
+        "The prophet warns of the coming storm"
+      ],
+      "ending": "A prophet warns a villager about a coming storm."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Respectful, non-denominational; no religious symbols, text, or dramatic supernatural effects."
+  },
+  {
+    "id": "kyc-2699",
+    "word": "provided",
+    "anchor": "book",
+    "anchorMeaning": "书，书籍",
+    "relation": "To provide is to give or make something available for use.",
+    "sentence": "The teacher provided a book for the lesson.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet classroom",
+      "actor": "One teacher hands one plain book to a student for the lesson.",
+      "props": [
+        "one teacher",
+        "one student",
+        "one plain book"
+      ],
+      "beats": [
+        "The lesson begins",
+        "The teacher gives the book",
+        "The book is provided for use"
+      ],
+      "ending": "A teacher provides a book for a lesson."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; book cover and pages have no writing, labels, or logos."
+  },
+  {
+    "id": "kyc-2700",
+    "word": "proximate",
+    "anchor": "river",
+    "anchorMeaning": "河，江",
+    "relation": "Proximate means nearest or most direct in space, time, or causal connection.",
+    "sentence": "The swollen river was the proximate cause of the flood.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A riverbank after heavy rain",
+      "actor": "No people: a swollen river rises against its bank, directly causing water to spill into a nearby field.",
+      "props": [
+        "one swollen river",
+        "one low riverbank",
+        "one flooded patch of field"
+      ],
+      "beats": [
+        "Heavy rain raises the river",
+        "Water reaches the low bank",
+        "The river becomes the proximate cause of flooding"
+      ],
+      "ending": "A swollen river is the proximate cause of a nearby flood."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No people in danger, signs, text, or symbols."
+  },
+  {
+    "id": "kyc-2701",
+    "word": "qualitative",
+    "anchor": "number",
+    "anchorMeaning": "数字",
+    "relation": "Qualitative describes research focused on qualities, meanings, or experiences rather than numerical measurement.",
+    "sentence": "The qualitative study used interviews instead of a number-based survey.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet research room",
+      "actor": "One researcher listens to one participant describe an experience instead of counting scores.",
+      "props": [
+        "one researcher",
+        "one participant",
+        "one blank notebook"
+      ],
+      "beats": [
+        "The participant shares an experience",
+        "The researcher listens to its meaning",
+        "The study is qualitative rather than number-based"
+      ],
+      "ending": "A qualitative study explores experience instead of relying on numbers."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no written notes, numerals, charts, or symbols."
+  },
+  {
+    "id": "kyc-2702",
+    "word": "quarantine",
+    "anchor": "room",
+    "anchorMeaning": "房间，室",
+    "relation": "Quarantine is isolation used to prevent the possible spread of disease.",
+    "sentence": "The sick traveler stayed in quarantine in a separate room.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A calm clinic hallway",
+      "actor": "One traveler rests in a separate plain room while waiting for a health check.",
+      "props": [
+        "one traveler",
+        "one separate room",
+        "one closed door"
+      ],
+      "beats": [
+        "The traveler may have been exposed to illness",
+        "They remain apart from others",
+        "The stay in quarantine prevents spread"
+      ],
+      "ending": "A traveler stays in quarantine in a separate room."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No hazard symbols, labels, medical text, or additional people."
+  },
+  {
+    "id": "kyc-2703",
+    "word": "quart",
+    "anchor": "water",
+    "anchorMeaning": "水，雨水",
+    "relation": "A quart is a unit for measuring liquid volume, equal to one quarter of a gallon in the US customary system.",
+    "sentence": "The jug contained a quart of water.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet kitchen table",
+      "actor": "No people: a plain jug holds a measured amount of water beside a clear glass.",
+      "props": [
+        "one plain jug",
+        "one amount of water",
+        "one clear glass"
+      ],
+      "beats": [
+        "The jug is empty",
+        "Water is poured inside",
+        "The jug contains a quart"
+      ],
+      "ending": "A jug contains a quart of water."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No measuring marks, numbers, labels, or text."
+  },
+  {
+    "id": "kyc-2704",
+    "word": "queer",
+    "anchor": "cloud",
+    "anchorMeaning": "云，云朵",
+    "relation": "Queer can mean strange or unusual; it can also have other meanings in different contexts.",
+    "sentence": "A queer shape appeared in one cloud above the sea.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet seaside",
+      "actor": "No people: one oddly shaped cloud hangs over a calm sea.",
+      "props": [
+        "one unusual cloud",
+        "one calm sea",
+        "one distant horizon"
+      ],
+      "beats": [
+        "A cloud gathers",
+        "Its shape becomes unusual",
+        "The queer cloud hangs above the sea"
+      ],
+      "ending": "A queer cloud forms an unusual shape above the sea."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Use queer only in the sense of strange; no people, text, or symbols."
+  },
+  {
+    "id": "kyc-2705",
+    "word": "quilt",
+    "anchor": "bed",
+    "anchorMeaning": "床，床铺，床位",
+    "relation": "A quilt is a warm bed covering made of layers of cloth sewn together.",
+    "sentence": "She spread a quilt over the bed.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet bedroom",
+      "actor": "One woman spreads a handmade quilt over a plain bed.",
+      "props": [
+        "one woman",
+        "one patchwork quilt",
+        "one bed"
+      ],
+      "beats": [
+        "The quilt is folded",
+        "She opens it across the bed",
+        "The bed is covered"
+      ],
+      "ending": "A woman spreads a quilt over the bed."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No quilt patterns with letters, numbers, symbols, or logos."
+  },
+  {
+    "id": "kyc-2706",
+    "word": "quiver",
+    "anchor": "leaf",
+    "anchorMeaning": "叶，叶子",
+    "relation": "To quiver is to shake or tremble slightly and quickly.",
+    "sentence": "A leaf began to quiver in the wind.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A breezy garden",
+      "actor": "No people: one leaf trembles lightly on a branch in the wind.",
+      "props": [
+        "one leaf",
+        "one branch",
+        "one gentle gust of wind"
+      ],
+      "beats": [
+        "The wind begins to blow",
+        "The leaf shakes lightly",
+        "The leaf quivers on the branch"
+      ],
+      "ending": "A leaf quivers in the wind."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "No motion symbols, text, or extra leaves in focus."
+  },
+  {
+    "id": "kyc-2707",
+    "word": "razor",
+    "anchor": "face",
+    "anchorMeaning": "脸，面部",
+    "relation": "A razor is a sharp tool used for shaving hair from the face or body.",
+    "sentence": "He used a razor to shave his face.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A clean bathroom",
+      "actor": "One man carefully shaves his face with a plain safety razor.",
+      "props": [
+        "one man",
+        "one plain safety razor",
+        "one bathroom mirror"
+      ],
+      "beats": [
+        "The man wets his face",
+        "He guides the razor carefully",
+        "His face is shaved"
+      ],
+      "ending": "A man uses a razor to shave his face."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Safe grooming scene; no cuts, blood, labels, writing, or logos."
+  },
+  {
+    "id": "kyc-2708",
+    "word": "rectangle",
+    "anchor": "wall",
+    "anchorMeaning": "城墙，围墙",
+    "relation": "A rectangle is a four-sided shape with four right angles and opposite sides equal.",
+    "sentence": "A rectangle framed the picture on the wall.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet living room wall",
+      "actor": "No people: a rectangular picture frame hangs on a plain wall.",
+      "props": [
+        "one rectangular frame",
+        "one simple picture",
+        "one plain wall"
+      ],
+      "beats": [
+        "The wall is bare",
+        "A frame is hung",
+        "The rectangle surrounds the picture"
+      ],
+      "ending": "A rectangle frames a picture on the wall."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Picture and frame contain no letters, labels, logos, or symbols."
+  },
+  {
+    "id": "kyc-2709",
+    "word": "regarding",
+    "anchor": "question",
+    "anchorMeaning": "问题，疑问",
+    "relation": "Regarding means about or concerning a particular subject.",
+    "sentence": "Regarding your question, the answer is simple.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A quiet desk in a study room",
+      "actor": "One student listens as a teacher responds to a question with a simple explanation.",
+      "props": [
+        "one student",
+        "one teacher",
+        "one plain desk"
+      ],
+      "beats": [
+        "The student asks a question",
+        "The teacher considers it",
+        "Regarding the question, the answer is given"
+      ],
+      "ending": "A teacher gives a simple answer regarding a question."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Exactly two people; no speech bubbles, writing, or text."
+  },
+  {
+    "id": "kyc-2710",
+    "word": "remains",
+    "anchor": "earth",
+    "anchorMeaning": "地球，世界",
+    "relation": "Remains are what is left of a person or thing after death, destruction, or disappearance.",
+    "sentence": "The archaeologist uncovered human remains in the earth.",
+    "mode": "scene",
+    "scene": {
+      "setting": "A careful archaeological dig",
+      "actor": "One archaeologist uncovers a simple fossilized human skeleton in the earth, shown respectfully and without gore.",
+      "props": [
+        "one archaeologist",
+        "one fossilized skeleton",
+        "one patch of earth"
+      ],
+      "beats": [
+        "The archaeologist examines the ground",
+        "Old remains are uncovered",
+        "The remains are found in the earth"
+      ],
+      "ending": "An archaeologist uncovers human remains in the earth."
+    },
+    "review": {
+      "anchorFamiliarity": "pass",
+      "distinctAnchor": "pass",
+      "targetSenseAccuracy": "pass",
+      "relationValidity": "pass",
+      "sentenceFluency": "pass",
+      "sentenceReadability": "pass",
+      "anchorRelation": "pass",
+      "reverseMeaning": "pass",
+      "reverseSpelling": "pass",
+      "sceneAnchorVisible": "pass",
+      "sceneTargetVisible": "pass",
+      "reviewNote": "Sentence checked for naturalness, readability, target sense, and anchor relation before image generation."
+    },
+    "artDirection": "Educational and respectful; no flesh, blood, decomposition, labels, or text."
+  }
+]
