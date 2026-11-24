@@ -75,10 +75,12 @@
 
 iOS 与安卓共用同一套 Capacitor Web 层。Windows 本机不能编译 iOS，GitHub Actions 会在公开仓库的 macOS runner 上构建未签名 IPA：
 
-1. 打开仓库 **Actions → iOS Build → Run workflow**，等待任务完成
-2. 在对应 run 页面下载 **EnglishAnki-unsigned-ipa** artifact，解压得到未签名 `.ipa`
-3. 在 Windows 上用 Sideloadly 选择该 `.ipa` 和免费 Apple ID 签名，安装到 iPhone；签名有效期 7 天，到期需重新签名
-4. iPhone 首次打开侧载应用时，在 **设置 → 通用 → VPN 与设备管理** 中信任开发者证书
+1. Windows 先安装网页版 iTunes、iCloud 和 Sideloadly（不要使用 Microsoft Store 版 iTunes/iCloud）
+2. 打开仓库 **Actions → iOS Build → Run workflow**，等待任务完成
+3. 在对应 run 页面下载 **EnglishAnki-unsigned-ipa** artifact，解压得到未签名 `.ipa`
+4. 用数据线连接 iPhone 并信任电脑，在 Sideloadly 中选择该 `.ipa` 和免费 Apple ID，点击 **Start**
+5. iPhone 首次打开侧载应用时，在 **设置 → 通用 → VPN 与设备管理** 中信任开发者证书；如提示开发者模式，在 **设置 → 隐私与安全 → 开发者模式** 中开启并重启
+6. 免费账号签名有效期为 7 天，且最多同时保留 3 个侧载 App；Sideloadly 可开启自动刷新，在电脑保持运行时自动续签，也可到期手动重签
 
 该 IPA 用于个人侧载测试，未经过 App Store 审核。正式上架 App Store 需要 Apple Developer 账号（$99/年）及额外审核准备。
 
