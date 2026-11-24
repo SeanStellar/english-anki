@@ -71,6 +71,17 @@
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
 - 覆盖安装会沿用本机学习记录；升级前建议在应用内先备份
 
+### iOS 测试版（未签名 IPA）
+
+iOS 与安卓共用同一套 Capacitor Web 层。Windows 本机不能编译 iOS，GitHub Actions 会在公开仓库的 macOS runner 上构建未签名 IPA：
+
+1. 打开仓库 **Actions → iOS Build → Run workflow**，等待任务完成
+2. 在对应 run 页面下载 **EnglishAnki-unsigned-ipa** artifact，解压得到未签名 `.ipa`
+3. 在 Windows 上用 Sideloadly 选择该 `.ipa` 和免费 Apple ID 签名，安装到 iPhone；签名有效期 7 天，到期需重新签名
+4. iPhone 首次打开侧载应用时，在 **设置 → 通用 → VPN 与设备管理** 中信任开发者证书
+
+该 IPA 用于个人侧载测试，未经过 App Store 审核。正式上架 App Store 需要 Apple Developer 账号（$99/年）及额外审核准备。
+
 ## 参与测试
 
 v4.4.0 已发布，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交，也可以直接在 [公开测试 Issue #1](https://github.com/SeanStellar/english-anki/issues/1) 留言。
@@ -101,7 +112,7 @@ npm run test:integration   # Electron 备份恢复集成测试
 npm run dist               # 构建 NSIS 安装程序与便携版
 ```
 
-`npm run dist` 先编译 preload，再输出 `dist/English-Anki-4.4.0-Setup.exe` 和 `dist/English-Anki-4.4.0-Portable.exe`。
+`npm run dist` 先编译 preload，再输出 `dist/English-Anki-4.4.0-Setup.exe` 和便携版 `dist/English-Anki-4.4.0-Portable.exe`；正式发布只上传 Setup。iOS 工程位于 `ios/`，资源同步命令为 `npm run mobile:web` 后接 `npm run mobile:sync:ios`。
 
 ## 数据位置
 
