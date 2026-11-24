@@ -15,13 +15,29 @@
     "pack": "electron-builder --win --x64 --dir",
     "dist": "electron-builder --win nsis portable --x64",
     "build:preload": "node scripts/build-preload.js",
+    "mobile:bridge": "node scripts/build-mobile-bridge.js",
+    "mobile:scenes": "node scripts/compress-scenes.js",
+    "mobile:web": "node scripts/build-mobile.js",
+    "mobile:serve": "node scripts/mobile-serve.js",
+    "mobile:test": "node scripts/mobile-flow.js",
+    "mobile:sync": "cap sync android",
+    "mobile:sync:ios": "cap sync ios",
+    "mobile:open": "cap open android",
     "prepack": "npm run build:preload",
     "predist": "npm run build:preload"
   },
   "devDependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/assets": "^4.0.0",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@capacitor/ios": "^8.6.2",
+    "chrome-remote-interface": "^0.34.0",
     "electron": "37.10.3",
     "electron-builder": "26.18.0",
     "esbuild": "0.27.0",
+    "playwright-core": "^1.65.1",
+    "sharp": "^0.35.5",
     "ts-fsrs": "5.4.1"
   },
   "build": {
@@ -90,6 +106,13 @@
     }
   },
   "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/browser": "^8.0.5",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/screen-orientation": "^8.0.2",
+    "@capacitor/share": "^8.0.3",
+    "@capacitor/splash-screen": "^8.0.2",
     "anki-apkg-export": "5.0.0"
   },
   "allowScripts": {

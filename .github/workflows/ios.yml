@@ -1,0 +1,69 @@
+name: iOS Build
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'ios-v*'
+
+jobs:
+  build-ipa:
+    runs-on: macos-latest
+    timeout-minutes: 90
+    env:
+      ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
+      CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Cache compressed scene images
+        uses: actions/cache@v4
+        with:
+          path: build/mobile-scenes
+          key: mobile-scenes-${{ hashFiles('renderer/assets/memory-scenes/**') }}
+
+      - name: Build mobile web assets
+        run: |
+          npm run mobile:scenes
+          npm run mobile:web
+
+      - name: Sync Capacitor iOS project
+        run: npx cap sync ios
+
+      - name: Archive unsigned app
+        run: |
+          cd ios/App
+          xcodebuild -version
+          xcodebuild archive \
+            -project App.xcodeproj \
+            -scheme App \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -archivePath "$RUNNER_TEMP/EnglishAnki.xcarchive" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            DEVELOPMENT_TEAM="" \
+            PROVISIONING_PROFILE_SPECIFIER=""
+
+      - name: Package unsigned IPA
+        run: |
+          mkdir -p "$RUNNER_TEMP/Payload"
+          cp -R "$RUNNER_TEMP/EnglishAnki.xcarchive/Products/Applications/App.app" "$RUNNER_TEMP/Payload/"
+          cd "$RUNNER_TEMP"
+          zip -qry "EnglishAnki-unsigned.ipa" Payload
+          ls -lh "EnglishAnki-unsigned.ipa"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: EnglishAnki-unsigned-ipa
+          path: ${{ runner.temp }}/EnglishAnki-unsigned.ipa
+          compression-level: 0
+          retention-days: 14
