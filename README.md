@@ -66,7 +66,6 @@
 ## 下载与安装
 
 - 公开发布版安装包：[English-Anki-4.4.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.4.0/English-Anki-4.4.0-Setup.exe)
-- 免安装便携版：[English-Anki-4.4.0-Portable.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.4.0/English-Anki-4.4.0-Portable.exe)
 - 系统：Windows 10/11 x64
 - 授权：个人、学习、研究等非商业使用免费；商业使用需单独授权，见 [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」

@@ -1,5 +1,9 @@
 node_modules/
 dist/
+dist-android/
+mobile-web/
+android/
+build/mobile-scenes/
 *.log
 *.tmp
 .DS_Store
@@ -23,3 +27,6 @@ shengtu/.qa_*/
 shengtu/_ocr.txt
 shengtu/_ocr.txt.uri
 shengtu/_preview_page.png
+
+*.keystore
+keystore.properties
