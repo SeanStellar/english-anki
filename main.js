@@ -6,10 +6,17 @@ const zlib = require('node:zlib');
 const { createBackupEnvelope, inspectBackupPayload, checksumFor, isLearningData } = require('./backup-utils');
 const { compareVersions, syncStateFor, validateUpdateManifest } = require('./integration-utils');
 
-function preparePortableDataDirectory() {
+function prepareDataDirectory() {
+  // Pin the installed-build data directory so upgrades and install-path changes
+  // never orphan learning data, even if the package/product name changes later.
+  const base = path.join(app.getPath('appData'), 'english-anki');
+  try {
+    fs.mkdirSync(base, { recursive: true });
+    app.setPath('userData', base);
+  } catch {}
   const portableDirectory = process.env.PORTABLE_EXECUTABLE_DIR;
   if (!portableDirectory) return;
-  const source = app.getPath('userData');
+  const source = base;
   const target = path.join(portableDirectory, 'EnglishAnkiData');
   try {
     fs.mkdirSync(target, { recursive: true });
@@ -32,7 +39,7 @@ function preparePortableDataDirectory() {
   } catch {}
 }
 
-preparePortableDataDirectory();
+prepareDataDirectory();
 
 let mainWindow;
 let syncTimer = null;
@@ -249,11 +256,96 @@ function autoSyncData(allowPull = true) {
   return { ok: false, action: status.state, ...status };
 }
 
+const GITHUB_RELEASES_PAGE = 'https://github.com/SeanStellar/english-anki/releases/latest';
+
+// The releases page redirects to /releases/tag/<version>; parsing that avoids
+// the unauthenticated API, which is rate-limited to 60/h per shared IP.
+async function fetchGitHubLatestTag() {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 10000);
+  try {
+    const response = await fetch(GITHUB_RELEASES_PAGE, {
+      signal: controller.signal,
+      headers: { 'user-agent': `English-Anki/${app.getVersion()}` }
+    });
+    const finalUrl = response.url || '';
+    await response.body?.cancel?.()?.catch?.(() => {});
+    const match = /\/releases\/tag\/([^/?#]+)/.exec(finalUrl);
+    if (!match) throw new Error(`HTTP ${response.status}`);
+    return decodeURIComponent(match[1]);
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function decodeXmlEntities(value) {
+  return String(value)
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCharCode(parseInt(code, 16)))
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&amp;/g, '&');
+}
+
+function htmlToPlainNotes(html) {
+  return String(html)
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<li[^>]*>/gi, '• ')
+    .replace(/<\/(p|div|h[1-6]|li|ul|ol|pre|blockquote)>/gi, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, '&')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+// The releases.atom feed has no API rate limit and carries the release notes body.
+async function fetchGitHubReleaseNotes(version) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 8000);
+  try {
+    const response = await fetch('https://github.com/SeanStellar/english-anki/releases.atom', {
+      signal: controller.signal,
+      headers: { 'user-agent': `English-Anki/${app.getVersion()}` }
+    });
+    if (!response.ok) return '';
+    const xml = await response.text();
+    if (xml.length > 2 * 1024 * 1024) return '';
+    for (const match of xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)) {
+      const entry = match[1];
+      const link = /<link[^>]+href="([^"]+)"/.exec(entry)?.[1] || '';
+      const tag = /\/releases\/tag\/([^/?#"]+)/.exec(link)?.[1];
+      if (!tag || decodeURIComponent(tag) !== version) continue;
+      const title = decodeXmlEntities((/<title>([\s\S]*?)<\/title>/.exec(entry)?.[1] || '').trim());
+      const body = htmlToPlainNotes(decodeXmlEntities(/<content[^>]*>([\s\S]*?)<\/content>/.exec(entry)?.[1] || ''));
+      return [title, body].filter(Boolean).join('\n\n');
+    }
+    return '';
+  } catch {
+    return '';
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function fetchGitHubReleaseManifest() {
+  try {
+    const version = await fetchGitHubLatestTag();
+    const notes = await fetchGitHubReleaseNotes(version);
+    return {
+      version,
+      notes,
+      downloadUrl: `https://github.com/SeanStellar/english-anki/releases/tag/${encodeURIComponent(version)}`
+    };
+  } catch (error) {
+    throw new Error(`无法访问 GitHub 发布页（请检查网络，或在「版本清单地址」填写自定义源）：${error.message}`);
+  }
+}
+
 async function readUpdateManifest(source) {
   if (!source) {
     const local = syncDataFile() && path.join(path.dirname(syncDataFile()), 'english-anki-update.json');
-    if (!local || !fs.existsSync(local)) return null;
-    return JSON.parse(fs.readFileSync(local, 'utf8'));
+    if (local && fs.existsSync(local)) return JSON.parse(fs.readFileSync(local, 'utf8'));
+    return fetchGitHubReleaseManifest();
   }
   if (path.isAbsolute(source)) return JSON.parse(fs.readFileSync(source, 'utf8'));
   const url = new URL(source);

@@ -2,7 +2,7 @@
 
 熟词锚点记忆、场景插画与 FSRS 间隔复习一体化的英语学习桌面应用。每个词条由「熟词锚点 → 场景插画 → 具体事件联想句」构成，复习节奏由 FSRS 按你的实际表现安排。
 
-> 当前源码版本 **4.3.0** · 源码公开、非商业免费 · Windows 10/11 x64 · 本地优先、无账号、无云端依赖
+> 当前源码版本 **4.4.0** · 源码公开、非商业免费 · Windows 10/11 x64 · 本地优先、无账号、无云端依赖
 
 **下载最新安装包：** [GitHub Releases](https://github.com/SeanStellar/english-anki/releases/latest)
 
@@ -46,7 +46,7 @@
 
 ![学习设置](docs/screenshots/settings.png)
 
-可调整每日新词、每日复习上限、智能负荷保护、每日时间预算、性能模式、自动朗读、学习休息提醒和界面缩放。
+可调整每日新词、每日复习上限、智能负荷保护、每日时间预算、性能模式、自动朗读与朗读音色、学习休息提醒和界面缩放。
 
 ## 功能
 
@@ -55,6 +55,7 @@
 - 考研词条的音标与词性参考 [ECDICT](https://github.com/skywind3000/ECDICT)，许可见 [LICENSE-ECDICT.txt](LICENSE-ECDICT.txt)。缺少匹配插画的考研词条使用基础卡片。
 - 多词书清单：内置词书由 `renderer/data/decks.json` 管理，可继续扩展四级、六级、雅思等词书
 - 熟词锚点联想、图像提示与逐步揭晓
+- 5773 个内置单词配备男女双音色离线真人发音（Kokoro-82M，美音），自定义词自动回退系统语音
 - FSRS 间隔复习、按词书分别计算每日额度与时间预算、独立续学
 - 自定义词库：CSV/TSV/TXT 导入、CSV 导出、编辑与内容纠错
 - Anki 词库包（.apkg）导出：任意词库可导出，内置词库附带场景插画
@@ -64,8 +65,8 @@
 
 ## 下载与安装
 
-- 公开发布版安装包：[English-Anki-4.3.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.3.0/English-Anki-4.3.0-Setup.exe)
-- 免安装便携版：[English-Anki-4.3.0-Portable.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.3.0/English-Anki-4.3.0-Portable.exe)
+- 公开发布版安装包：[English-Anki-4.4.0-Setup.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.4.0/English-Anki-4.4.0-Setup.exe)
+- 免安装便携版：[English-Anki-4.4.0-Portable.exe](https://github.com/SeanStellar/english-anki/releases/download/v4.4.0/English-Anki-4.4.0-Portable.exe)
 - 系统：Windows 10/11 x64
 - 授权：个人、学习、研究等非商业使用免费；商业使用需单独授权，见 [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
 - 安装包暂未代码签名，Windows SmartScreen 提示时选择「更多信息 → 仍要运行」
@@ -73,7 +74,7 @@
 
 ## 参与测试
 
-v4.3.0 已发布，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交，也可以直接在 [公开测试 Issue #1](https://github.com/SeanStellar/english-anki/issues/1) 留言。
+v4.4.0 已发布，欢迎安装试用。测试清单、重点流程和已知限制见 [TESTING.md](TESTING.md)；发现问题可以直接用 [测试反馈模板](https://github.com/SeanStellar/english-anki/issues/new?template=test_report.yml) 提交，也可以直接在 [公开测试 Issue #1](https://github.com/SeanStellar/english-anki/issues/1) 留言。
 
 反馈时请附上：应用版本、Windows 版本、安装方式、复现步骤和截图。请不要上传自己的学习记录或备份文件。
 
@@ -101,7 +102,7 @@ npm run test:integration   # Electron 备份恢复集成测试
 npm run dist               # 构建 NSIS 安装程序与便携版
 ```
 
-`npm run dist` 先编译 preload，再输出 `dist/English-Anki-4.3.0-Setup.exe` 和 `dist/English-Anki-4.3.0-Portable.exe`。
+`npm run dist` 先编译 preload，再输出 `dist/English-Anki-4.4.0-Setup.exe` 和 `dist/English-Anki-4.4.0-Portable.exe`。
 
 ## 数据位置
 

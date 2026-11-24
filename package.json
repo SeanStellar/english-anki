@@ -1,6 +1,6 @@
 {
   "name": "english-anki",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
@@ -82,6 +82,7 @@
       "allowToChangeInstallationDirectory": true,
       "perMachine": false,
       "guid": "4fe11a6f-4f33-53ed-9b20-bb20ac642d03",
+      "deleteAppDataOnUninstall": false,
       "artifactName": "English-Anki-${version}-Setup.${ext}"
     },
     "portable": {

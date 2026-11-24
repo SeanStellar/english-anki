@@ -678,8 +678,10 @@ function renderStudyDeckChoices() {
     const list = wordsForDeck(deck.id);
     const learned = list.filter(word => state.cards[word.id]?.reps).length;
     const percent = list.length ? Math.min(100, Math.round(learned / list.length * 100)) : 0;
+    const orderValue = kaoyanStudyOrder();
+    const orderOption = (value, text) => `<button type="button" class="mini-select-option" role="option" data-value="${value}" aria-selected="${orderValue === value}">${text}<svg class="mini-select-check" viewBox="0 0 20 20" aria-hidden="true"><path d="M4.5 10.5l3.5 3.5 7.5-8"/></svg></button>`;
     const orderControl = deck.id === 'kaoyan-2752'
-      ? `<label class="study-order-control"><span>学习顺序</span><select id="kaoyanOrderSelect" aria-label="考研词卡学习顺序"><option value="frequency"${kaoyanStudyOrder() === 'frequency' ? ' selected' : ''}>词频顺序</option><option value="alphabet"${kaoyanStudyOrder() === 'alphabet' ? ' selected' : ''}>字母 A–Z</option></select><small>仅新词</small></label>`
+      ? `<div class="study-order-control"><span>学习顺序</span><div class="mini-select" data-order-select><button type="button" class="mini-select-btn" id="kaoyanOrderSelect" aria-haspopup="listbox" aria-expanded="false" aria-label="考研词卡学习顺序"><span data-order-label>${orderValue === 'alphabet' ? '字母 A–Z' : '词频顺序'}</span><svg class="mini-select-chevron" viewBox="0 0 20 20" aria-hidden="true"><path d="M5 7.5l5 5 5-5"/></svg></button><div class="mini-select-pop" role="listbox" aria-label="学习顺序" hidden>${orderOption('frequency', '词频顺序')}${orderOption('alphabet', '字母 A–Z')}</div></div><small>仅新词</small></div>`
       : '';
     const main = kind === 'study-choice-main';
     return `<article class="study-choice ${kind}"><div class="study-choice-content"><h2>${escapeHtml(deck.name)}</h2><div class="study-choice-count"><span>已学 <strong>${learned.toLocaleString()}</strong> / ${list.length.toLocaleString()}</span><span>${percent}%</span></div><div class="study-choice-progress" role="progressbar" aria-label="${escapeHtml(deck.name)}学习进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${percent}"><span style="width:${percent}%"></span></div>${orderControl}</div><button class="${main ? 'primary-button' : 'secondary-button'} study-choice-button" data-start-deck="${escapeHtml(deck.id)}" aria-label="${main ? '学习全部词汇' : '开始学习'}：${escapeHtml(deck.name)}">${main ? '学习全部词汇' : '开始学习'} <span aria-hidden="true">→</span></button></article>`;
@@ -690,12 +692,49 @@ function renderStudyDeckChoices() {
     return `<section class="study-book"><div class="study-book-label">完整词书</div>${choice(parent, 'study-choice-main')}${children.length ? `<div class="study-subheading"><strong>按模块学习</strong><span>以下词单包含在上方词书中，学习进度共享</span></div><div class="study-subdecks">${children.map(deck => choice(deck, 'study-choice-sub')).join('')}</div>` : ''}</section>`;
   }).join('') + (state.customDecks.length ? `<section class="study-book"><div class="study-book-label">自建词书</div><div class="study-subdecks">${state.customDecks.map(deck => choice(deck, 'study-choice-sub')).join('')}</div></section>` : '');
   container.querySelectorAll('[data-start-deck]').forEach(button => button.addEventListener('click', () => route('study', { deckId: button.dataset.startDeck })));
-  const kaoyanOrderSelect = $('#kaoyanOrderSelect');
-  if (kaoyanOrderSelect) {
-    kaoyanOrderSelect.addEventListener('change', () => {
-      state.settings.kaoyanOrder = kaoyanOrderSelect.value === 'alphabet' ? 'alphabet' : 'frequency';
+  const orderSelect = $('[data-order-select]');
+  if (orderSelect) {
+    const trigger = $('.mini-select-btn', orderSelect);
+    const pop = $('.mini-select-pop', orderSelect);
+    const labelEl = $('[data-order-label]', orderSelect);
+    const options = $$('.mini-select-option', orderSelect);
+    const closeOrderSelect = (focusTrigger = false) => {
+      orderSelect.classList.remove('open');
+      pop.hidden = true;
+      trigger.setAttribute('aria-expanded', 'false');
+      if (focusTrigger) trigger.focus();
+    };
+    const openOrderSelect = () => {
+      orderSelect.classList.add('open');
+      pop.hidden = false;
+      trigger.setAttribute('aria-expanded', 'true');
+      (options.find(option => option.getAttribute('aria-selected') === 'true') || options[0])?.focus();
+    };
+    const applyOrder = value => {
+      if (value === kaoyanStudyOrder()) return;
+      state.settings.kaoyanOrder = value;
       persist();
-      toast(kaoyanStudyOrder() === 'alphabet' ? '考研词卡已切换为字母 A–Z 顺序' : '考研词卡已切换为词频顺序');
+      toast(value === 'alphabet' ? '考研词卡已切换为字母 A–Z 顺序' : '考研词卡已切换为词频顺序');
+      labelEl.textContent = value === 'alphabet' ? '字母 A–Z' : '词频顺序';
+      options.forEach(option => option.setAttribute('aria-selected', option.dataset.value === value ? 'true' : 'false'));
+    };
+    trigger.addEventListener('click', event => {
+      event.stopPropagation();
+      pop.hidden ? openOrderSelect() : closeOrderSelect();
+    });
+    options.forEach(option => option.addEventListener('click', event => {
+      event.stopPropagation();
+      applyOrder(option.dataset.value === 'alphabet' ? 'alphabet' : 'frequency');
+      closeOrderSelect(true);
+    }));
+    orderSelect.addEventListener('keydown', event => {
+      if (event.key === 'Escape') { event.stopPropagation(); closeOrderSelect(true); return; }
+      if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
+      event.preventDefault();
+      if (pop.hidden) { openOrderSelect(); return; }
+      const index = options.indexOf(document.activeElement);
+      const next = event.key === 'ArrowDown' ? (index + 1) % options.length : (index - 1 + options.length) % options.length;
+      options[index === -1 ? 0 : next].focus();
     });
   }
 }
@@ -2972,9 +3011,16 @@ function renderUpdateStatus(status) {
   pendingUpdateResult = result?.available ? result : null;
   const button = $('#openUpdateBtn');
   button.hidden = !result?.available || !result.downloadUrl;
-  if (result?.available) $('#updateStatusCopy').textContent = `发现 ${result.version}：${result.notes || '有新版本可用。'}`;
+  const notice = $('#updateNotice');
+  if (notice) notice.hidden = !result?.available;
+  if (result?.available) {
+    $('#updateStatusCopy').textContent = `发现新版本 ${result.version}（当前 ${result.currentVersion || '—'}）。`;
+    $('#updateNoticeVersion').textContent = result.version || '新版本';
+    $('#updateNoticeBody').textContent = result.notes || '本次发布未附带更新说明，可前往发布页查看完整内容。';
+    $('#updateNoticeMeta').textContent = result.checkedAt ? `检查于 ${new Date(result.checkedAt).toLocaleString('zh-CN')}` : '';
+  }
   else if (result?.ok === false) $('#updateStatusCopy').textContent = `检查失败：${result.error || '无法访问版本源'}`;
-  else if (result?.reason === 'no-source') $('#updateStatusCopy').textContent = '未设置远程版本源；可在同步目录放置 english-anki-update.json。';
+  else if (result?.reason === 'no-source') $('#updateStatusCopy').textContent = '将默认检查 GitHub 发布页。';
   else if (result?.checkedAt) $('#updateStatusCopy').textContent = `当前已是最新版本（${new Date(result.checkedAt).toLocaleString('zh-CN')} 检查）。`;
   else $('#updateStatusCopy').textContent = '尚未检查更新。';
 }
@@ -2990,6 +3036,19 @@ async function loadIntegrationSettings() {
 }
 
 function bindEvents() {
+  const closeMiniSelects = keep => {
+    $$('.mini-select.open').forEach(box => {
+      if (keep && box.contains(keep)) return;
+      box.classList.remove('open');
+      box.querySelector('.mini-select-pop').hidden = true;
+      box.querySelector('.mini-select-btn').setAttribute('aria-expanded', 'false');
+    });
+  };
+  document.addEventListener('click', event => closeMiniSelects(event.target));
+  document.addEventListener('focusin', event => {
+    if (event.target?.closest?.('.mini-select-option')) return;
+    closeMiniSelects(event.target);
+  });
   const studyCard = $('#wordCard');
   let cardPointerFrame = 0;
   let pendingCardPointer = null;
