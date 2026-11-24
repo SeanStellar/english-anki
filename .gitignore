@@ -16,6 +16,7 @@ ea-dist/
 outputs/
 __pycache__/
 *.py[cod]
+tools/kokoro-models/
 .pytest_cache/
 shengtu/.xlsx_deps/
 shengtu/.qa_*/

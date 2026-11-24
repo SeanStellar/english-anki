@@ -34,7 +34,8 @@
     ],
     "asar": true,
     "asarUnpack": [
-      "renderer/assets/memory-scenes/**"
+      "renderer/assets/memory-scenes/**",
+      "renderer/audio/words/**"
     ],
     "files": [
       "main.js",

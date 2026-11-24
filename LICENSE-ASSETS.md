@@ -9,4 +9,6 @@ Copyright (c) 2026 SeanStellar
 - 如修改素材，请注明修改。
 - 完整法律文本见 `LICENSE-ASSETS.txt`，或 https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
+- 单词发音音频由 Kokoro-82M（Apache-2.0 开源模型）本地批量生成，可随应用自由分发。
+
 说明：词表本身如属于不受版权保护的事实性数据，则不受本素材许可限制；但本项目的插画、故事句、释义编排和截图按上述许可处理。商业使用需要单独授权，见 `COMMERCIAL-LICENSE.md`。

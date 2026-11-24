@@ -224,9 +224,11 @@ function defaultState() {
     settings: {
       dailyNew: 20,
       dailyReview: -1,
+      kaoyanOrder: 'alphabet',
       workloadProtection: true,
       dailyStudyMinutes: 45,
       autoSpeak: true,
+      voice: 'female',
       theme: 'light',
       performanceMode: 'auto',
       zoom: 'auto',
@@ -462,6 +464,42 @@ function newWords(deckId = defaultDeckId()) {
   return wordsForDeck(deckId).filter(word => wordIsAvailable(word) && !state.cards[word.id]?.reps);
 }
 
+function linkBaseCards(list) {
+  // 考研词与专升本 3000 词重复时，词卡与记忆联想句一律沿用专升本版本；
+  // 考研侧保留自己的 id、词频顺序与学习进度。
+  const spellingAliases = new Map([['X-ray', 'x-ray']]);
+  const base = new Map();
+  for (const word of list) {
+    if (word.deckId !== 'zhuanshengben-3000' || base.has(word.word)) continue;
+    base.set(word.word, word);
+  }
+  return list.map(word => {
+    if (word.deckId !== 'kaoyan-2752') return word;
+    const ref = base.get(spellingAliases.get(word.word) || word.word);
+    if (!ref) return word;
+    return { ...word, word: ref.word, phonetic: ref.phonetic, pos: ref.pos, meaning: ref.meaning, baseWordId: ref.id };
+  });
+}
+
+function kaoyanStudyOrder() {
+  return state?.settings?.kaoyanOrder === 'alphabet' ? 'alphabet' : 'frequency';
+}
+
+function sortNewWordsForStudy(list, deckId) {
+  if (deckId !== 'kaoyan-2752' || kaoyanStudyOrder() !== 'alphabet') return list;
+  const collator = new Intl.Collator('en', { sensitivity: 'base' });
+  const firstLetter = word => String(word.word || '').trim().charAt(0).toLowerCase();
+  const isLetter = character => character >= 'a' && character <= 'z';
+  return [...list].sort((left, right) => {
+    const leftLetter = firstLetter(left);
+    const rightLetter = firstLetter(right);
+    if (isLetter(leftLetter) !== isLetter(rightLetter)) return isLetter(leftLetter) ? -1 : 1;
+    if (leftLetter !== rightLetter) return leftLetter < rightLetter ? -1 : 1;
+    return collator.compare(String(left.word || ''), String(right.word || ''))
+      || (Number(left.number) || 0) - (Number(right.number) || 0);
+  });
+}
+
 function todayLogs() {
   const key = todayKey();
   return state.logs.filter(log => log.date === key);
@@ -506,7 +544,7 @@ function planFor(deckId = defaultDeckId()) {
     ? firstDue.length
     : Math.max(0, Number(state.settings.dailyReview || 0) - reviewDone);
   const reviews = [...repeatDue, ...firstDue.slice(0, reviewLimit)];
-  const allFresh = newWords(deckId).filter(word => !reviewedIds.has(word.id));
+  const allFresh = sortNewWordsForStudy(newWords(deckId), deckId).filter(word => !reviewedIds.has(word.id));
   const configuredNew = state.settings.dailyNew === -1 ? allFresh.length : Math.max(0, Number(state.settings.dailyNew || 0) - newDoneIds.size);
   const targetNew = Math.min(allFresh.length, configuredNew);
   const pace = personalStudyPace();
@@ -640,8 +678,11 @@ function renderStudyDeckChoices() {
     const list = wordsForDeck(deck.id);
     const learned = list.filter(word => state.cards[word.id]?.reps).length;
     const percent = list.length ? Math.min(100, Math.round(learned / list.length * 100)) : 0;
+    const orderControl = deck.id === 'kaoyan-2752'
+      ? `<label class="study-order-control"><span>学习顺序</span><select id="kaoyanOrderSelect" aria-label="考研词卡学习顺序"><option value="frequency"${kaoyanStudyOrder() === 'frequency' ? ' selected' : ''}>词频顺序</option><option value="alphabet"${kaoyanStudyOrder() === 'alphabet' ? ' selected' : ''}>字母 A–Z</option></select><small>仅新词</small></label>`
+      : '';
     const main = kind === 'study-choice-main';
-    return `<article class="study-choice ${kind}"><div class="study-choice-content"><h2>${escapeHtml(deck.name)}</h2><div class="study-choice-count"><span>已学 <strong>${learned.toLocaleString()}</strong> / ${list.length.toLocaleString()}</span><span>${percent}%</span></div><div class="study-choice-progress" role="progressbar" aria-label="${escapeHtml(deck.name)}学习进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${percent}"><span style="width:${percent}%"></span></div></div><button class="${main ? 'primary-button' : 'secondary-button'} study-choice-button" data-start-deck="${escapeHtml(deck.id)}" aria-label="${main ? '学习全部词汇' : '开始学习'}：${escapeHtml(deck.name)}">${main ? '学习全部词汇' : '开始学习'} <span aria-hidden="true">→</span></button></article>`;
+    return `<article class="study-choice ${kind}"><div class="study-choice-content"><h2>${escapeHtml(deck.name)}</h2><div class="study-choice-count"><span>已学 <strong>${learned.toLocaleString()}</strong> / ${list.length.toLocaleString()}</span><span>${percent}%</span></div><div class="study-choice-progress" role="progressbar" aria-label="${escapeHtml(deck.name)}学习进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${percent}"><span style="width:${percent}%"></span></div>${orderControl}</div><button class="${main ? 'primary-button' : 'secondary-button'} study-choice-button" data-start-deck="${escapeHtml(deck.id)}" aria-label="${main ? '学习全部词汇' : '开始学习'}：${escapeHtml(deck.name)}">${main ? '学习全部词汇' : '开始学习'} <span aria-hidden="true">→</span></button></article>`;
   };
   const parents = deckDefinitions.filter(deck => !deck.parentDeck);
   container.innerHTML = parents.map(parent => {
@@ -649,6 +690,14 @@ function renderStudyDeckChoices() {
     return `<section class="study-book"><div class="study-book-label">完整词书</div>${choice(parent, 'study-choice-main')}${children.length ? `<div class="study-subheading"><strong>按模块学习</strong><span>以下词单包含在上方词书中，学习进度共享</span></div><div class="study-subdecks">${children.map(deck => choice(deck, 'study-choice-sub')).join('')}</div>` : ''}</section>`;
   }).join('') + (state.customDecks.length ? `<section class="study-book"><div class="study-book-label">自建词书</div><div class="study-subdecks">${state.customDecks.map(deck => choice(deck, 'study-choice-sub')).join('')}</div></section>` : '');
   container.querySelectorAll('[data-start-deck]').forEach(button => button.addEventListener('click', () => route('study', { deckId: button.dataset.startDeck })));
+  const kaoyanOrderSelect = $('#kaoyanOrderSelect');
+  if (kaoyanOrderSelect) {
+    kaoyanOrderSelect.addEventListener('change', () => {
+      state.settings.kaoyanOrder = kaoyanOrderSelect.value === 'alphabet' ? 'alphabet' : 'frequency';
+      persist();
+      toast(kaoyanStudyOrder() === 'alphabet' ? '考研词卡已切换为字母 A–Z 顺序' : '考研词卡已切换为词频顺序');
+    });
+  }
 }
 
 function homeDeckList() {
@@ -1201,22 +1250,30 @@ function storyTokenMatch(sentence, token) {
   return new RegExp(`(?<![a-z])${escaped}(?![a-z])`, 'i').exec(sentence);
 }
 
+function glossFor(text, limit = 10) {
+  const source = String(text || '').split(/[，,；;\/]/)[0].replace(/[（(][^）)]*[）)]/g, '').trim();
+  return source.slice(0, limit);
+}
+
 function storySentenceHtml(story, targetMeaning) {
+  const tokens = [
+    ['anchor', String(story.anchor || ''), glossFor(story.anchorMeaning)],
+    ['target', String(story.word || ''), glossFor(story.targetSense || targetMeaning)]
+  ].filter(([, token]) => token);
   const source = String(story.sentence || '');
-  const matches = [
-    ['anchor', story.anchor],
-    ['target', story.word]
-  ].map(([role, token]) => {
+  const matches = tokens.map(([role, token, gloss]) => {
     const match = storyTokenMatch(source, token);
-    return match ? { role, token: match[0], index: match.index } : null;
+    return match ? { role, token: match[0], gloss, index: match.index } : null;
   }).filter(Boolean).sort((a, b) => a.index - b.index);
   let cursor = 0;
   let html = '';
   matches.forEach(match => {
     html += escapeHtml(source.slice(cursor, match.index));
     html += `<strong class="mnemonic-word mnemonic-${match.role}">${escapeHtml(match.token)}</strong>`;
-    const gloss = match.role === 'anchor' ? (story.anchorMeaning || '') : (targetMeaning || '');
-    if (gloss) html += `<small class="scene-inline-gloss">（${escapeHtml(gloss)}）</small>`;
+    const before = source.slice(0, match.index);
+    const after = source.slice(match.index + match.token.length);
+    const alreadyGlossed = /[（(]$/.test(before) || /^\s*[（(]/.test(after);
+    if (match.gloss && !alreadyGlossed) html += `<small class="scene-inline-gloss">（${escapeHtml(match.gloss)}）</small>`;
     cursor = match.index + match.token.length;
   });
   return html + escapeHtml(source.slice(cursor));
@@ -1225,6 +1282,10 @@ function storySentenceHtml(story, targetMeaning) {
 function formalStoryDetail(word, story) {
   const anchorMeaning = story.anchorMeaning || '熟词';
   const targetMeaning = shortMeaning(story.targetSense || word.meaning);
+  const reason = String(story.review?.reason || '').trim();
+  const memory = /[\u4e00-\u9fff]/.test(reason)
+    ? reason
+    : `熟词 ${story.anchor}（${glossFor(story.anchorMeaning) || '已认识'}）→ 生词 ${story.word}（${glossFor(story.targetSense || targetMeaning) || '要学习'}）。先把两个词放进同一幅画面，再读下面的联想句。`;
   return {
     story,
     icon: story.scene?.props?.[0]?.[1] || '◆',
@@ -1234,7 +1295,7 @@ function formalStoryDetail(word, story) {
       icon: story.scene?.props?.[0]?.[1] || '◆',
       bridge: story.review?.reason || ''
     },
-    memory: story.review?.reason || '已通过人工语义复核',
+    memory,
     mnemonic: {
       plain: story.sentence,
       html: storySentenceHtml(story, targetMeaning),
@@ -1257,7 +1318,7 @@ function storySceneSvg(word, story) {
   const fromScale = (1.025 + (hash % 5) * .004).toFixed(3);
   const toScale = (1.065 + (hash % 7) * .004).toFixed(3);
   const duration = (6 + (hash % 9) * .08).toFixed(2);
-  const file = story.illustration?.file || `./assets/memory-scenes/${word.id}.webp`;
+  const file = story.illustration?.file || `./assets/memory-scenes/${word.baseWordId || word.id}.webp`;
   const style = `--art-from-x:${fromX}px;--art-from-y:${fromY}px;--art-to-x:${toX}px;--art-to-y:${toY}px;--art-from-scale:${fromScale};--art-to-scale:${toScale};--art-duration:${duration}s`;
   return `<img class="story-illustration" src="${escapeHtml(file)}" alt="${escapeHtml(story.sentence)}" decoding="async" fetchpriority="high" style="${style}"><div class="story-image-error" hidden><span>插画资源待补齐</span><small>${escapeHtml(word.word)}</small></div>`;
 }
@@ -1282,7 +1343,7 @@ function preloadUpcomingStoryImages() {
     image.decoding = 'async';
     image.fetchPriority = 'low';
     image.decoding = 'async';
-    image.src = nextStory.illustration?.file || `./assets/memory-scenes/${nextWord.id}.webp`;
+    image.src = nextStory.illustration?.file || `./assets/memory-scenes/${nextWord.baseWordId || nextWord.id}.webp`;
   }
 }
 
@@ -1885,17 +1946,61 @@ function stableHash(value, salt = 0) {
   return hash >>> 0;
 }
 
-function speak(text, sentence = false) {
+let wordAudioIndex = null;
+let wordAudioPlayer = null;
+const WORD_AUDIO_DIR = './audio/words';
+
+async function loadWordAudioIndex() {
+  if (typeof window !== 'undefined' && window.WORD_AUDIO_INDEX?.words && typeof window.WORD_AUDIO_INDEX.words === 'object') {
+    wordAudioIndex = window.WORD_AUDIO_INDEX;
+    return;
+  }
+  try {
+    const payload = await fetch(`${WORD_AUDIO_DIR}/index.json`).then(response => response.ok ? response.json() : null);
+    wordAudioIndex = payload?.words && typeof payload.words === 'object' ? payload : null;
+  } catch {
+    wordAudioIndex = null;
+  }
+}
+
+function systemSpeak(text, sentence = false) {
   if (!('speechSynthesis' in window)) return toast('当前系统没有可用的语音引擎');
   speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(String(text).replace(/\//g, ' or '));
-  utterance.lang = 'en-GB';
+  utterance.lang = 'en-US';
   utterance.rate = sentence ? .88 : .78;
   const voices = speechSynthesis.getVoices();
-  utterance.voice = voices.find(voice => /^en-GB/i.test(voice.lang)) || voices.find(voice => /^en/i.test(voice.lang)) || null;
+  utterance.voice = voices.find(voice => /^en-US/i.test(voice.lang)) || voices.find(voice => /^en/i.test(voice.lang)) || null;
   utterance.onstart = () => $('#speakBtn')?.classList.add('speaking');
   utterance.onend = utterance.onerror = () => $('#speakBtn')?.classList.remove('speaking');
   speechSynthesis.speak(utterance);
+}
+
+function speak(text, sentence = false) {
+  const key = String(text).trim().toLowerCase();
+  const entry = !sentence && state.settings.voice !== 'system' ? wordAudioIndex?.words?.[key] : null;
+  if (entry) {
+    const preferred = state.settings.voice === 'male' ? 'male' : 'female';
+    const voiceDir = entry[preferred === 'male' ? 'm' : 'f'] ? preferred : (entry.f ? 'female' : entry.m ? 'male' : null);
+    const file = voiceDir && entry[voiceDir === 'male' ? 'm' : 'f'];
+    if (file) {
+      if (wordAudioPlayer) { wordAudioPlayer.pause(); wordAudioPlayer = null; }
+      speechSynthesis.cancel?.();
+      const player = new Audio(`${WORD_AUDIO_DIR}/${voiceDir}/${file}`);
+      wordAudioPlayer = player;
+      const button = $('#speakBtn');
+      player.onplay = () => button?.classList.add('speaking');
+      player.onended = () => { if (wordAudioPlayer === player) wordAudioPlayer = null; button?.classList.remove('speaking'); };
+      player.onerror = () => {
+        if (wordAudioPlayer === player) wordAudioPlayer = null;
+        button?.classList.remove('speaking');
+        systemSpeak(text, sentence);
+      };
+      player.play().catch(() => { if (wordAudioPlayer === player) wordAudioPlayer = null; systemSpeak(text, sentence); });
+      return;
+    }
+  }
+  systemSpeak(text, sentence);
 }
 
 function renderLibrary() {
@@ -3079,6 +3184,7 @@ function bindEvents() {
     $('#dailyStudyMinutesInput').value = String(state.settings.dailyStudyMinutes || 45);
     $('#performanceModeInput').value = state.settings.performanceMode || 'auto';
     $('#autoSpeakInput').checked = state.settings.autoSpeak;
+    $('#voiceInput').value = ['female', 'male', 'system'].includes(state.settings.voice) ? state.settings.voice : 'female';
     $('#restReminderEnabledInput').checked = state.settings.restReminderEnabled !== false;
     $('#restReminderMinutesInput').value = String(state.settings.restReminderMinutes || 25);
     $('#zoomInput').value = String(state.settings.zoom || 'auto');
@@ -3256,6 +3362,7 @@ function bindEvents() {
     state.settings.dailyStudyMinutes = Math.max(15, Math.min(240, Math.round(Number($('#dailyStudyMinutesInput').value) || 45)));
     state.settings.performanceMode = ['auto', 'full', 'smooth'].includes($('#performanceModeInput').value) ? $('#performanceModeInput').value : 'auto';
     state.settings.autoSpeak = $('#autoSpeakInput').checked;
+    state.settings.voice = ['female', 'male', 'system'].includes($('#voiceInput').value) ? $('#voiceInput').value : 'female';
     state.settings.restReminderEnabled = $('#restReminderEnabledInput').checked;
     state.settings.restReminderMinutes = Math.max(10, Math.min(90, Math.round(Number($('#restReminderMinutesInput').value) || 25)));
     state.settings.zoom = $('#zoomInput').value;
@@ -3483,6 +3590,7 @@ async function init() {
     window.englishAnki.loadMemoryStories(),
     window.englishAnki.loadMemoryStoryOverrides()
   ]);
+  await loadWordAudioIndex();
   const manifest = builtinPayload?.manifest || {};
   const builtinWords = Array.isArray(builtinPayload?.words)
     ? builtinPayload.words
@@ -3496,7 +3604,7 @@ async function init() {
   releaseInfo = releasePayload || {};
   // 词库不再按审核数量截断：3000 词全部可查看，
   // 未配插画的卡片由 story-image-error 占位降级展示。
-  words = builtinWords;
+  words = linkBaseCards(builtinWords);
   const primaryDeck = deckDefinitions.find(deck => deck.id === defaultDeckId()) || deckDefinitions[0];
   const releaseDeck = deckDefinitions.find(deck => deck.id === (releaseInfo.deckId || primaryDeck?.id)) || primaryDeck;
   if (releaseDeck) {
@@ -3507,8 +3615,9 @@ async function init() {
   const baseStories = new Map((storyPayload?.cards || []).map(story => [story.id, story]));
   const overrides = new Map((overridePayload?.cards || []).map(story => [story.id, story]));
   memoryStories = new Map(words.map(sourceWord => {
-    const story = baseStories.get(sourceWord.id) || {};
-    const override = overrides.get(sourceWord.id) || {};
+    const storySourceId = sourceWord.baseWordId || sourceWord.id;
+    const story = baseStories.get(storySourceId) || {};
+    const override = overrides.get(storySourceId) || {};
     if (!story.anchor && !override.anchor) return null;
     if (!story.sentence && !override.sentence) return null;
     const merged = {
