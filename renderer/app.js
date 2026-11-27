@@ -1097,6 +1097,15 @@ function advanceReveal() {
   if (panel) revealStudyPanel(panel);
 }
 
+// 返回重新插回本轮队列的偏移；0 表示这张卡本轮不再出现（间隔已超过当天内的学习步）。
+function requeueOffsetForRating(rating, card) {
+  if (rating === 'again') return 4;
+  if (Number(card?.scheduled_days) !== 0) return 0;
+  if (rating === 'hard') return 7;
+  if (rating === 'good' && card?.state === 1) return 10;
+  return 0;
+}
+
 function rateCard(rating) {
   if (ratingLocked || !studyQueue.length || !schedules?.[rating] || !allAnswersRevealed()) return;
   ratingLocked = true;
@@ -1125,7 +1134,12 @@ function rateCard(rating) {
   const wasNew = !beforeCard?.reps;
   const elapsedMs = Math.max(500, Date.now() - cardShownAt);
   const reviewedAt = new Date().toISOString();
-  const afterCard = serializableSnapshot(schedules[rating].card);
+  const reviewSchedules = window.englishAnki.schedule(state.cards[word.id] || null, {
+    requestRetention: state.settings.desiredRetention,
+    maximumInterval: state.settings.maximumInterval,
+    weights: state.fsrsProfile?.weights
+  }, reviewedAt);
+  const afterCard = serializableSnapshot(reviewSchedules[rating].card);
   state.cards[word.id] = afterCard;
   state.logs.push({
     schemaVersion: 2,
@@ -1141,7 +1155,7 @@ function rateCard(rating) {
     responseTimeMs: elapsedMs,
     beforeCard,
     afterCard,
-    fsrsLog: serializableSnapshot(schedules[rating].log),
+    fsrsLog: serializableSnapshot(reviewSchedules[rating].log),
     scheduledDays: afterCard?.scheduled_days ?? null,
     nextDue: afterCard?.due || null,
     anchorWord: currentKeywordLink?.word || null
@@ -1161,14 +1175,9 @@ function rateCard(rating) {
     };
   }
   keywordFamiliarityCache.clear();
-  if (rating === 'again') {
-    const insertAt = Math.min(studyQueue.length, currentStudyIndex + 4);
-    studyQueue.splice(insertAt, 0, word);
-  } else if (rating === 'hard' && Number(afterCard?.scheduled_days) === 0) {
-    const insertAt = Math.min(studyQueue.length, currentStudyIndex + 7);
-    studyQueue.splice(insertAt, 0, word);
-  } else if (rating === 'good' && afterCard.state === 1 && afterCard.scheduled_days === 0) {
-    const insertAt = Math.min(studyQueue.length, currentStudyIndex + 10);
+  const requeueOffset = requeueOffsetForRating(rating, afterCard);
+  if (requeueOffset) {
+    const insertAt = Math.min(studyQueue.length, currentStudyIndex + requeueOffset);
     studyQueue.splice(insertAt, 0, word);
   }
   initialQueueSize = Math.max(initialQueueSize, studyQueue.length);
@@ -3586,7 +3595,8 @@ function bindEvents() {
     selectedDeck = deck;
     state.selectedDeck = deck;
     studyQueue = queue;
-    studyQueueKinds = new Map(queue.map(item => [item.id, state.cards[item.id]?.reps ? 'review' : 'new']));
+    const learnedToday = new Set(todayLogs().filter(log => log.isNew).map(log => log.wordId));
+    studyQueueKinds = new Map(queue.map(item => [item.id, state.cards[item.id]?.reps && !learnedToday.has(item.id) ? 'review' : 'new']));
     currentStudyIndex = session.index;
     initialQueueSize = queue.length;
     currentStudyMode = session.mode || 'normal';
