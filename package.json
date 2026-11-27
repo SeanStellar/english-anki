@@ -1,6 +1,6 @@
 {
   "name": "english-anki",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "description": "熟词锚点记忆与 FSRS 间隔复习一体化英语学习桌面应用",
   "main": "main.js",
   "author": "English Anki",
