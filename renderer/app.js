@@ -1164,7 +1164,7 @@ function rateCard(rating) {
   if (rating === 'again') {
     const insertAt = Math.min(studyQueue.length, currentStudyIndex + 4);
     studyQueue.splice(insertAt, 0, word);
-  } else if (rating === 'hard' && wasNew) {
+  } else if (rating === 'hard' && Number(afterCard?.scheduled_days) === 0) {
     const insertAt = Math.min(studyQueue.length, currentStudyIndex + 7);
     studyQueue.splice(insertAt, 0, word);
   } else if (rating === 'good' && afterCard.state === 1 && afterCard.scheduled_days === 0) {
